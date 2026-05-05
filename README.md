@@ -1,5 +1,5 @@
 # Bengali Cross-Lingual Idiom Matching System
-## MSc Project — Cross-lingual Idiom Semantic Similarity
+## Cross-lingual Idiom Semantic Similarity
 
 This project finds semantically similar idioms between **Bengali ↔ English** and **Bengali ↔ Hindi**
 using multilingual sentence embeddings — **without any translation**.
@@ -27,9 +27,8 @@ bengali_idiom_project/
 │   ├── 05_retrieval.py         # Cross-lingual retrieval (Top-K)
 │   ├── 06_clustering.py        # Cross-lingual clustering
 │   ├── 07_evaluate.py          # All evaluation metrics
+|   |── run_all.py
 │   └── 08_compare_models.py    # Final model comparison & plots
-├── notebooks/
-│   └── full_pipeline.ipynb    # Jupyter notebook version
 ├── results/                   # Output CSVs and plots
 └── requirements.txt
 ```
@@ -51,9 +50,14 @@ python src/05_retrieval.py
 python src/06_clustering.py
 python src/07_evaluate.py
 python src/08_compare_models.py
+python src/run_all.py
 ```
 
 ## Expected Dataset Files in data/raw/
 - `bagdhara_bengali_idioms.csv`   — from Kaggle: sakhadib/bagdhara-bangla-idioms-dataset
 - `multilingual_idioms_indian.csv` — from Kaggle: aryanrahultandon/multilingual-idioms-indian
 - `magpie_english_idioms.csv`      — from HuggingFace: gsarti/magpie (export to CSV)
+
+
+# After all the dependencies are installed, run the following command
+``` python run_all.py```
