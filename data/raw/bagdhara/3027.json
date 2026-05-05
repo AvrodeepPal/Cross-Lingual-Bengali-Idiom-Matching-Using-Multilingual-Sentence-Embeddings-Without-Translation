@@ -1,0 +1,41 @@
+{
+  "id": "3027",
+  "idiom": "গলায় পড়া",
+  "alternative_idioms": [
+    "গলায় গাঁথা"
+  ],
+  "literal_meaning": "গলায় পড়া (neck-এ পড়া)",
+  "figurative_meaning_bn": "গলগ্রহ হওয়া",
+  "figurative_meaning_en": "To become a dependent burden on someone, like clinging to their neck",
+  "similar_in_english": [
+    "To become a burden",
+    "To hang around one's neck"
+  ],
+  "example_sentences_in_bangla": [
+    "বিধবা বোনটি গলায় এসে পড়েছে, এখন তার দেখাশোনা আমাদের দায়িত্ব।",
+    "অলস ছেলেটি পরিবারের গলায় পড়ে আছে, কোনো কাজ করে না।"
+  ],
+  "example_sentences_in_english": [
+    "The widowed sister has fallen on our neck; now taking care of her is our responsibility.",
+    "The lazy boy has become a burden on the family, doing no work at all."
+  ],
+  "usage_domain": [
+    "Family relationships",
+    "Dependency",
+    "Social obligations"
+  ],
+  "tags": [
+    "burden",
+    "dependency",
+    "family",
+    "negative connotation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali family dynamics where dependents are seen as a literal 'weight' on the neck."
+}

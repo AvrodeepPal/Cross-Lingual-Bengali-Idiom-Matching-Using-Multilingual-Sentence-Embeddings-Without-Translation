@@ -1,0 +1,44 @@
+{
+  "id": "5226",
+  "idiom": "ঢাক পেটা",
+  "alternative_idioms": [
+    "ঢাক পেটানো",
+    "ঢাক বাজানো"
+  ],
+  "literal_meaning": "ঢাক (ড্রাম) পেটা (আঘাত করা বা বাজানো)",
+  "figurative_meaning_bn": "উচ্চগ্রামে প্রচার করা; গুপ্ত বিষয় সবাইকে জানিয়ে দেওয়া; গোপনে যা হয়েছে তা সকলের কর্ণগোচর করা",
+  "figurative_meaning_en": "To publicize loudly; to reveal secret matters to everyone; to make private happenings known to all",
+  "similar_in_english": [
+    "Shout from the rooftops",
+    "Spill the beans",
+    "Let the cat out of the bag"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ব্যর্থতার কথা সবাইকে ঢাক পেটা করে দিল।",
+    "এই খবরটা আর লুকিয়ে রাখা যাবে না, তুমি ঢাক পেটা করেই ফেলো।"
+  ],
+  "example_sentences_in_english": [
+    "He beat the drum about his failure to everyone.",
+    "This news can't be hidden anymore; just beat the drum about it."
+  ],
+  "usage_domain": [
+    "conversation",
+    "gossip",
+    "storytelling"
+  ],
+  "tags": [
+    "proverbial",
+    "figurative",
+    "revelation"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the traditional use of drums (ḍhāk) in Bengali villages for public announcements during festivals or events, symbolizing widespread dissemination of information."
+  ],
+  "note": "Variants reflect different verb forms but convey the same idea of noisy revelation."
+}

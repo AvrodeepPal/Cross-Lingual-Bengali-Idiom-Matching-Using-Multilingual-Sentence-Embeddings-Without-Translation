@@ -1,0 +1,40 @@
+{
+  "id": "3130",
+  "idiom": "গাড়ল",
+  "alternative_idioms": [],
+  "literal_meaning": "গাড়ল (একটি নির্বোধ বা মূর্খ ব্যক্তির জন্য ব্যবহৃত স্থানীয় শব্দ, সম্ভবত গ্রামীণ উপভাষা থেকে)",
+  "figurative_meaning_bn": "নির্বোধ, মূর্খ",
+  "figurative_meaning_en": "Foolish person, idiot",
+  "similar_in_english": [
+    "Blockhead",
+    "Numskull",
+    "Dunderhead"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি একটা আস্ত গাড়ল, এত সহজ কথা বুঝতে পারছ না কেন?",
+    "ওই গাড়লটাকে কাজ দিয়ো না, সব গণ্ডগোল করবে।"
+  ],
+  "example_sentences_in_english": [
+    "You are a complete fool; why can't you understand such a simple thing?",
+    "Don't give work to that idiot; he'll mess everything up."
+  ],
+  "usage_domain": [
+    "Colloquial speech",
+    "Insults",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "Foolishness",
+    "Insult",
+    "Rural slang",
+    "Derogatory"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "এটি প্রধানত বাংলা গ্রামীণ উপভাষায় ব্যবহৃত হয়, যা মূর্খতার জন্য একটি অপমানজনক শব্দ।"
+}

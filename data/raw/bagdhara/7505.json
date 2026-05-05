@@ -1,0 +1,42 @@
+{
+  "id": "7505",
+  "idiom": "বাজার মন্দা",
+  "alternative_idioms": [
+    "বাজার নরম"
+  ],
+  "literal_meaning": "বাজার নরম বা মন্দ/ধীরগতির হওয়া",
+  "figurative_meaning_bn": "পণ্যদ্রব্যের দাম/চাহিদা কমা",
+  "figurative_meaning_en": "Decrease in the price or demand of goods and commodities",
+  "similar_in_english": [
+    "The market is down",
+    "Soft market",
+    "Bear market"
+  ],
+  "example_sentences_in_bangla": [
+    "এখনকার বাজার খুব মন্দা, কোনো পণ্য বিক্রি হচ্ছে না।",
+    "কৃষির ফসলের বাজার মন্দা হয়ে গেছে, কৃষকরা ক্ষতিগ্রস্ত।"
+  ],
+  "example_sentences_in_english": [
+    "The market is very dull right now; no goods are selling.",
+    "The agricultural produce market has turned sluggish, leaving farmers at a loss."
+  ],
+  "usage_domain": [
+    "Economy",
+    "Business",
+    "Commerce"
+  ],
+  "tags": [
+    "market",
+    "decline",
+    "demand",
+    "price"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom reflects everyday economic observations in Bengali-speaking regions, often used in contexts of trade and commerce."
+}

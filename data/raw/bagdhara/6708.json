@@ -1,0 +1,39 @@
+{
+  "id": "6708",
+  "idiom": "পাকা তাল পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পাকা (পাকা বা দৃঢ়) তাল (তাল ফল বা তালা) পড়া (পড়ে যাওয়া)",
+  "figurative_meaning_bn": "পিঠে কিল পড়া",
+  "figurative_meaning_en": "to suffer a sharp, unexpected pain or blow, like a nail pricking the back",
+  "similar_in_english": [
+    "stabbed in the back",
+    "hit by a ton of bricks"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বন্ধুর বিশ্বাসঘাতকতায় মনে হলো পাকা তাল পড়েছে।",
+    "চাকরি হারানোর খবরে তার পিঠে যেন পাকা তাল পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "His friend's betrayal felt like a ripe palmyra falling on his back.",
+    "The news of losing his job made it feel like a sharp nail pricked his back."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "emotional distress",
+    "betrayal"
+  ],
+  "tags": [
+    "shock",
+    "pain",
+    "unexpected trouble",
+    "figurative pain"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from rural imagery of heavy palmyra fruits falling painfully, symbolizing sudden adversity in Bengali folklore."
+}

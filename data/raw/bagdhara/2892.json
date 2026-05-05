@@ -1,0 +1,38 @@
+{
+  "id": "2892",
+  "idiom": "গণ্ডগোল",
+  "alternative_idioms": [],
+  "literal_meaning": "কোলাহলময় বিশৃঙ্খলা (শব্দভিত্তিক অর্থে উচ্চকণ্ঠের গোলমাল)",
+  "figurative_meaning_bn": "কোলাহল; ঝগড়া; বচসা; বিবাদ",
+  "figurative_meaning_en": "uproar; quarrel; altercation; dispute",
+  "similar_in_english": [
+    "kick up a fuss",
+    "raise a ruckus"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি কিছু বললে গণ্ডগোল শুরু হবে।",
+    "সভায় হঠাৎ গণ্ডগোল পড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "If I say anything, there will be an uproar.",
+    "Suddenly, there was a commotion in the meeting."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "social disputes"
+  ],
+  "tags": [
+    "commotion",
+    "quarrel",
+    "noise",
+    "conflict"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression common in spoken Bengali"
+}

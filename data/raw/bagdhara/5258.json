@@ -1,0 +1,40 @@
+{
+  "id": "5258",
+  "idiom": "ঢিলেঢালা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঢিলা বা শিথিল (loose or slack)",
+  "figurative_meaning_bn": "অলস, দীর্ঘসূত্রী, যার কাজে আঁটসাঁট নেই বা আগ্রহ নেই এমন",
+  "figurative_meaning_en": "lazy, procrastinating, lacking precision or enthusiasm in work",
+  "similar_in_english": [
+    "lackadaisical",
+    "sloppy",
+    "half-hearted"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ঢিলেঢালা স্বভাবের জন্য কাজটা ঠিকমতো হয়নি।",
+    "ঢিলেঢালা লোকের সঙ্গে কাজ করা কষ্টকর।"
+  ],
+  "example_sentences_in_english": [
+    "His lackadaisical attitude ruined the project.",
+    "Working with sloppy people is frustrating."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work ethic",
+    "personal description"
+  ],
+  "tags": [
+    "laziness",
+    "procrastination",
+    "informal",
+    "negative trait"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in colloquial Bengali to describe inefficient behavior"
+}

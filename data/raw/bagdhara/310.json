@@ -1,0 +1,38 @@
+{
+  "id": "310",
+  "idiom": "আঁটআঁট",
+  "alternative_idioms": [],
+  "literal_meaning": "আঁটা-আঁটা (কঠিনভাবে আটকে থাকা বা শক্তভাবে লেপ্টে থাকা)",
+  "figurative_meaning_bn": "অল্পকষা",
+  "figurative_meaning_en": "skimpy or tight-fitting",
+  "similar_in_english": [
+    "tight-fitting",
+    "form-fitting"
+  ],
+  "example_sentences_in_bangla": [
+    "এই শার্টটা খুব আঁটআঁট, পরতে অসুবিধা হচ্ছে।",
+    "তার পোশাকটা আঁটআঁট বলে সবাই তাকাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "This shirt is too tight-fitting, it's uncomfortable to wear.",
+    "Her outfit is skimpy, so everyone is staring."
+  ],
+  "usage_domain": [
+    "clothing",
+    "fashion",
+    "daily conversation"
+  ],
+  "tags": [
+    "tightness",
+    "clothing",
+    "body fit"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to clothing that clings closely to the body, often implying insufficient size or material."
+}

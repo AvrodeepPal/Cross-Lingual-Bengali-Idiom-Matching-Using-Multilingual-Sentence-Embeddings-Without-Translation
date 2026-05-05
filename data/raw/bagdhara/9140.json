@@ -1,0 +1,39 @@
+{
+  "id": "9140",
+  "idiom": "রাষ্ট্র করা",
+  "alternative_idioms": [
+    "রাষ্ট্র হওয়া"
+  ],
+  "literal_meaning": "রাষ্ট্র (দেশ বা জনসম্মুখে ঘোষণা) করা বা হওয়া",
+  "figurative_meaning_bn": "নিন্দাচ্ছলে রটানো",
+  "figurative_meaning_en": "To spread rumors or slander maliciously",
+  "similar_in_english": [
+    "To spread like wildfire",
+    "To badmouth someone"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার প্রতিদ্বন্দ্বীর সম্পর্কে নিন্দাচ্ছলে রাষ্ট্র করছে।",
+    "গ্রামে এই খবরটা চারিদিকে রাষ্ট্র হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is spreading malicious rumors about his rival.",
+    "This news has spread everywhere in the village."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Gossip and rumors"
+  ],
+  "tags": [
+    "নিন্দা",
+    "গুজব",
+    "প্রচার"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom likely derives from spreading news publicly, akin to 'রটানো' for rumors"
+}

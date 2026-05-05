@@ -1,0 +1,42 @@
+{
+  "id": "291",
+  "idiom": "অস্থিচর্মসার",
+  "alternative_idioms": [
+    "অস্থিসার"
+  ],
+  "literal_meaning": "অস্থি ও চর্ম দিয়ে গঠিত (bones and skin only)",
+  "figurative_meaning_bn": "অতিকৃশ; শীর্ণদেহ",
+  "figurative_meaning_en": "Extremely thin; emaciated body",
+  "similar_in_english": [
+    "skin and bones",
+    "bag of bones",
+    "skinny as a rail"
+  ],
+  "example_sentences_in_bangla": [
+    "দুর্ভিক্ষের পর গ্রামের অনেক লোক অস্থিচর্মসার হয়ে গেছে।",
+    "রোগে ভুগে সে অস্থিচর্মসার অবস্থায় পৌঁছে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "After the famine, many villagers became skin and bones.",
+    "Afflicted by illness, he has reached a state of being skin and bones."
+  ],
+  "usage_domain": [
+    "physical description",
+    "health",
+    "poverty"
+  ],
+  "tags": [
+    "thinness",
+    "emaciation",
+    "body",
+    "malnutrition"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly describes severe thinness, often linked to hardship in Bengali folklore and literature."
+}

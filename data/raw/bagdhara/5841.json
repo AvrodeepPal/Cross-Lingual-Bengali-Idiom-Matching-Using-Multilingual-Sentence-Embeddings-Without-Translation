@@ -1,0 +1,45 @@
+{
+  "id": "5841",
+  "idiom": "দীর্ঘসূত্রী",
+  "alternative_idioms": [
+    "ঠেলাগাড়ী",
+    "ঢিমেতালা",
+    "পিপুফিসু",
+    "লেট লতিফ"
+  ],
+  "literal_meaning": "দীর্ঘ সূত্র আঁকা ব্যক্তি (long thread spinner)",
+  "figurative_meaning_bn": "অত্যন্ত অলস; কাজ করতে খুব দেরি হয় এমন বিলম্বে কাজ করতে অভ্যস্ত",
+  "figurative_meaning_en": "Extremely lazy; accustomed to working with excessive delay",
+  "similar_in_english": [
+    "slowcoach",
+    "laggard",
+    "dawdler"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা দীর্ঘসূত্রী মানুষ, কাজ শুরু করতে সবসময় দেরি করে।",
+    "অফিসে দীর্ঘসূত্রী লোকের জন্য সবাই কষ্ট পায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real slowcoach, always delaying the start of work.",
+    "Everyone suffers because of lazy dawdlers in the office."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "daily conversation",
+    "workplace"
+  ],
+  "tags": [
+    "laziness",
+    "procrastination",
+    "slowness",
+    "work ethic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom likely originates from traditional spinning practices where drawing long threads slowly indicates laziness."
+}

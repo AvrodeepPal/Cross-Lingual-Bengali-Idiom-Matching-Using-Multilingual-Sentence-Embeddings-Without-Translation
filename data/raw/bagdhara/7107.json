@@ -1,0 +1,37 @@
+{
+  "id": "7107",
+  "idiom": "ফাঁদা",
+  "alternative_idioms": [],
+  "literal_meaning": "ফাঁদে আটকা (trap in which caught)",
+  "figurative_meaning_bn": "আঁটা",
+  "figurative_meaning_en": "Trapped or caught",
+  "similar_in_english": [
+    "Caught in a trap",
+    "Fallen into one's own snare"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নিজের তৈরি ফাঁদায় ফাঁদা হয়ে গেছে।",
+    "এই পরিস্থিতিতে আমরা সবাই ফাঁদা।"
+  ],
+  "example_sentences_in_english": [
+    "He has become trapped in the trap he himself set.",
+    "In this situation, we are all trapped."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation"
+  ],
+  "tags": [
+    "trap",
+    "deception",
+    "danger"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom likely originates from rural hunting or trapping practices in Bengali culture."
+}

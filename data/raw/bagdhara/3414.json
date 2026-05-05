@@ -1,0 +1,38 @@
+{
+  "id": "3414",
+  "idiom": "ঘনকাল",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘন (dense/thick) + কাল (time/darkness/era)",
+  "figurative_meaning_bn": "বর্ষাকাল",
+  "figurative_meaning_en": "Monsoon season",
+  "similar_in_english": [
+    "The rainy season"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘনকাল এসে গেছে, সবাই ছাতা নিয়ে বের হয়েছে।",
+    "ঘনকালে নদীগুলো উথলে ওঠে।"
+  ],
+  "example_sentences_in_english": [
+    "The monsoon season has arrived, and everyone is carrying umbrellas.",
+    "During the monsoon season, the rivers swell up."
+  ],
+  "usage_domain": [
+    "Weather",
+    "Seasons",
+    "Agriculture"
+  ],
+  "tags": [
+    "monsoon",
+    "rain",
+    "nature",
+    "bengal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the dense cloud cover typical of Bengal's monsoon, integral to cultural and agricultural life."
+}

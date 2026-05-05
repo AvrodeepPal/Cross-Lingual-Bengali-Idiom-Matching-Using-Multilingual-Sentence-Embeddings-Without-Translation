@@ -1,0 +1,43 @@
+{
+  "id": "3482",
+  "idiom": "ঘা-কতক খাওয়া",
+  "alternative_idioms": [
+    "ঘা-কতক দেওয়া",
+    "ঘা-কতক পড়া"
+  ],
+  "literal_meaning": "কয়েকটা আঘাত বা ঘা খাওয়া/দেওয়া/পড়া",
+  "figurative_meaning_bn": "ভালরকমের মার খাওয়া/দেওয়া",
+  "figurative_meaning_en": "To receive or give a thorough beating",
+  "similar_in_english": [
+    "Take a beating",
+    "Get thrashed",
+    "Beat black and blue"
+  ],
+  "example_sentences_in_bangla": [
+    "লড়াইয়ে সে ঘা-কতক খেয়েছে।",
+    "শিক্ষক ছাত্রকে ঘা-কতক দিয়েছে ভুলের জন্য।"
+  ],
+  "example_sentences_in_english": [
+    "He took a few blows in the fight.",
+    "The teacher gave the student a good beating for the mistake."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Conflicts and fights",
+    "Punishment"
+  ],
+  "tags": [
+    "violence",
+    "punishment",
+    "fight",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects physical confrontations common in Bengali folklore and daily life expressions."
+}

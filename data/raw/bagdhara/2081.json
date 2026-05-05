@@ -1,0 +1,41 @@
+{
+  "id": "2081",
+  "idiom": "কামাগ্নি",
+  "alternative_idioms": [],
+  "literal_meaning": "কামের অগ্নি (fire of desire)",
+  "figurative_meaning_bn": "অতি লালসা",
+  "figurative_meaning_en": "intense lust or burning desire",
+  "similar_in_english": [
+    "burning desire",
+    "fire in one's loins"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কামাগ্নিতে সে যুক্তিবোধ হারিয়েছে।",
+    "কামাগ্নি দহন করে মানুষের সবকিছু।"
+  ],
+  "example_sentences_in_english": [
+    "He lost his sense of reason in the fire of lust.",
+    "The burning desire consumes everything."
+  ],
+  "usage_domain": [
+    "emotions",
+    "literature",
+    "relationships"
+  ],
+  "tags": [
+    "lust",
+    "desire",
+    "metaphor",
+    "fire"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Sanskrit concepts where 'kama' represents desire in Hindu philosophy and 'agni' symbolizes fire, often used in classical Bengali literature to depict uncontrolled passions."
+  ],
+  "note": "Rooted in ancient Indian cultural motifs, commonly appears in poetry and prose."
+}

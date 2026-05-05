@@ -1,0 +1,40 @@
+{
+  "id": "6261",
+  "idiom": "নহলা-দহলা করা",
+  "alternative_idioms": [],
+  "literal_meaning": "দ্বিধা বা হতাশ্রিত আচরণের অনুকরণমূলক শব্দ (নহলা-দহলা: দোলায়মান বা অস্থিরতার শব্দানুকরণ)",
+  "figurative_meaning_bn": "ইতস্ততঃ করা",
+  "figurative_meaning_en": "To hesitate or dally",
+  "similar_in_english": [
+    "Dilly-dally",
+    "Hem and haw",
+    "Beat around the bush"
+  ],
+  "example_sentences_in_bangla": [
+    "কাজ শুরু করার আগে সে খুব নহলা-দহলা করছে।",
+    "সিদ্ধান্ত নেওয়ার সময় সে সবসময় নহলা-দহলা করে।"
+  ],
+  "example_sentences_in_english": [
+    "Before starting the work, he is hesitating a lot.",
+    "He always dilly-dallies when it comes to making decisions."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Decision-making",
+    "Procrastination"
+  ],
+  "tags": [
+    "hesitation",
+    "delay",
+    "colloquial",
+    "onomatopoeic"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is onomatopoeic, mimicking the back-and-forth motion of hesitation in spoken Bengali."
+}

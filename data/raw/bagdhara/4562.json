@@ -1,0 +1,44 @@
+{
+  "id": "4562",
+  "idiom": "জলে কুমির ডাঙায় বাঘ",
+  "alternative_idioms": [
+    "এগুলে রাম পিছুলে রাবণ",
+    "এগুলে সর্বনাশ পিছুলে নির্বংশ",
+    "শাঁখের করাত যেতে কাটে আসতেও কাটে",
+    "শ্যাম রাখি না কুল রাখি",
+    "সাপের ছুঁচো গেলা"
+  ],
+  "literal_meaning": "জলে কুমির, ডাঙায় বাঘ (crocodile in the water, tiger on the land)",
+  "figurative_meaning_bn": "উভয়সংকট; প্রাণঘাতী; দুদিকেই বিপদ; সমতুল্য",
+  "figurative_meaning_en": "danger from both sides; life-threatening; peril on all fronts; equivalent dangers",
+  "similar_in_english": [
+    "between a rock and a hard place",
+    "between the devil and the deep blue sea"
+  ],
+  "example_sentences_in_bangla": [
+    "সে জলে কুমির ডাঙায় বাঘের মতো দুইদিক থেকে বিপদে পড়েছে।",
+    "ব্যবসায়ে বিনিয়োগ করতে গিয়ে জলে কুমির ডাঙায় বাঘের অবস্থা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is caught in a situation like a crocodile in the water and a tiger on the land, facing dangers from both sides.",
+    "Investing in that business put him between a crocodile in the water and a tiger on the land."
+  ],
+  "usage_domain": [
+    "danger",
+    "dilemma",
+    "crisis"
+  ],
+  "tags": [
+    "বিপদ",
+    "দ্বিধা",
+    "সমতুল্য ঝুঁকি"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from natural wildlife threats in Bengal's riverine and forested regions, emphasizing inescapable peril."
+}

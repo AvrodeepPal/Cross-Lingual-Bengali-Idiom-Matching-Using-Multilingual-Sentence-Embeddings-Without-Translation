@@ -1,0 +1,42 @@
+{
+  "id": "6880",
+  "idiom": "পিছু লাগা",
+  "alternative_idioms": [
+    "পিছনে লাগা"
+  ],
+  "literal_meaning": "পিছনে আটকে যাওয়া বা অনুসরণ করা (to stick behind or to follow closely)",
+  "figurative_meaning_bn": "ক্ষতি করার চেষ্টা করা; উত্ত্যক্ত করা; বিরক্ত করা",
+  "figurative_meaning_en": "To attempt to cause harm; to annoy; to irritate",
+  "similar_in_english": [
+    "to hound someone",
+    "to be on someone's tail",
+    "to dog one's footsteps"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার পিছু লেগেছে, সবসময় ক্ষতি করার চেষ্টা করে।",
+    "পাড়ার ছেলেরা তার পিছু লেগেছে, উত্ত্যক্ত করে।"
+  ],
+  "example_sentences_in_english": [
+    "He's stuck to my back, always trying to harm me.",
+    "The neighborhood boys are after him, annoying him constantly."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "interpersonal conflicts",
+    "everyday conversations"
+  ],
+  "tags": [
+    "annoyance",
+    "pursuit",
+    "harm",
+    "irritation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday relational dynamics in Bengali society, often used in contexts of rivalry or persistent bother."
+}

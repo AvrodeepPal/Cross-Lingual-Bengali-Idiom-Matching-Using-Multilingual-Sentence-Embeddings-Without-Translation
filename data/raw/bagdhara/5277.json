@@ -1,0 +1,40 @@
+{
+  "id": "5277",
+  "idiom": "ঢেঁকির কুমির হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ঢেঁকির কুমির হয়ে ওঠা (যেখানে ঢেঁকি একটি ঐতিহ্যবাহী চাল পিষার যন্ত্র এবং কুমির একটি ভয়ঙ্কর সরীসৃপ)",
+  "figurative_meaning_bn": "যে আগে লাথির ঘায়ে উঠত পড়ত এখন সে ভয় প্রদর্শক ও প্রাণনাশক",
+  "figurative_meaning_en": "Someone who was once easily subdued by a mere kick now becomes a fearsome and deadly threat",
+  "similar_in_english": [
+    "turn from a lamb to a lion",
+    "from pushover to predator"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আগে ছিল খুব ভীরু, কিন্তু এখন ঢেঁকির কুমির হয়ে গেছে, কারো সাথে পড়লে আর থামে না।",
+    "ঘরের ছেলেটা ছোটবেলায় লাথি খেয়ে কাঁদত, কিন্তু বড় হয়ে ঢেঁকির কুমির হওয়া সত্যিই ভয়ের।"
+  ],
+  "example_sentences_in_english": [
+    "He used to be timid, but now he's become the crocodile of the dheki—no one dares cross him anymore.",
+    "The boy who cried from a single kick in childhood has turned into the crocodile of the dheki, a real terror."
+  ],
+  "usage_domain": [
+    "conversational",
+    "rural folklore"
+  ],
+  "tags": [
+    "transformation",
+    "fear",
+    "aggression",
+    "rural life"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom draws from rural Bengali imagery where the 'dheki' (a wooden pestle for pounding rice) is a common household tool, and the crocodile symbolizes a hidden danger lurking in everyday surroundings, reflecting peasant life struggles."
+  ],
+  "note": "The idiom highlights sudden shifts in behavior, often in contexts of power dynamics in village settings."
+}

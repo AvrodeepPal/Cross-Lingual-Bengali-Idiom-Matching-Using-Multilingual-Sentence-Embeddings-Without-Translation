@@ -1,0 +1,41 @@
+{
+  "id": "7950",
+  "idiom": "ভজনভাজন",
+  "alternative_idioms": [
+    "ভুজুংভাজুং"
+  ],
+  "literal_meaning": "reduplicative form of 'ভজন' implying confusing or false devotional chanting",
+  "figurative_meaning_bn": "স্বার্থসিদ্ধির উদ্দেশ্যে ভুল বুঝানো বা প্রবোধ দেওয়া",
+  "figurative_meaning_en": "Misleading or persuading someone falsely for one's own selfish gain",
+  "similar_in_english": [
+    "soft soap",
+    "honeyed words",
+    "pious fraud"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার স্বার্থে ভজনভাজন করে লোককে প্রতারিত করছে।",
+    "নানা ভজনভাজন লোক জমাচ্ছে এখানে।"
+  ],
+  "example_sentences_in_english": [
+    "He is misleading people with false persuasion for his own benefit.",
+    "Various pious frauds are gathering here."
+  ],
+  "usage_domain": [
+    "conversation",
+    "persuasion",
+    "deception"
+  ],
+  "tags": [
+    "reduplication",
+    "hypocrisy",
+    "self-interest"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom plays on 'ভজন' (devotional song) to imply hypocritical or deceptive religious-like persuasion rooted in Bengali oral traditions."
+}

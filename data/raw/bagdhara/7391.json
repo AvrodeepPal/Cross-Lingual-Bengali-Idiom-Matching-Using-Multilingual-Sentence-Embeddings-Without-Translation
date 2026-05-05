@@ -1,0 +1,40 @@
+{
+  "id": "7391",
+  "idiom": "বস্তুনিষ্ঠ",
+  "alternative_idioms": [],
+  "literal_meaning": "বস্তু বা বস্তুর প্রতি নিষ্ঠা (devotion to the object or fact)",
+  "figurative_meaning_bn": "প্রকৃত অবস্থার প্রতি বিশ্বস্ততা",
+  "figurative_meaning_en": "Fidelity to the actual state or objectivity",
+  "similar_in_english": [
+    "stick to the facts",
+    "matter-of-fact"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বিবরণ বস্তুনিষ্ঠ ছিল, কোনো অতিরঞ্জিত কথা ছিল না।",
+    "সাংবাদিকতায় বস্তুনিষ্ঠতা অত্যন্ত গুরুত্বপূর্ণ।"
+  ],
+  "example_sentences_in_english": [
+    "His description was objective, without any exaggeration.",
+    "Objectivity is extremely important in journalism."
+  ],
+  "usage_domain": [
+    "journalism",
+    "law",
+    "science",
+    "formal discourse"
+  ],
+  "tags": [
+    "adjective",
+    "objectivity",
+    "impartiality",
+    "factual"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a compound adjective rather than a traditional proverbial idiom, commonly used in modern Bengali for emphasizing factual accuracy."
+}

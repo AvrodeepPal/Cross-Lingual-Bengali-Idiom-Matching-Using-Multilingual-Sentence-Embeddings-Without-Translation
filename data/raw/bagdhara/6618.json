@@ -1,0 +1,40 @@
+{
+  "id": "6618",
+  "idiom": "পরগাছা",
+  "alternative_idioms": [],
+  "literal_meaning": "গাছের গায়ে জাত অন্য গাছ",
+  "figurative_meaning_bn": "হেয় বস্তু, পরাশ্রিত ব্যক্তি; শ্লেষে চাটুকার, পোষ্যপুত্র",
+  "figurative_meaning_en": "worthless or parasitic entity, dependent person; sarcastically, a sycophant or hanger-on",
+  "similar_in_english": [
+    "leech",
+    "parasite",
+    "hanger-on"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা পরগাছা, সবসময় অন্যের উপর ভর করে থাকে।",
+    "আমাদের অফিসে এমন চাটুকার পরগাছারা অনেক।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real parasite, always relying on others for support.",
+    "There are many sycophantic hangers-on in our office."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "literature",
+    "derogatory speech"
+  ],
+  "tags": [
+    "derogatory",
+    "dependency",
+    "sarcasm",
+    "nature-based"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Idiom draws from observation of parasitic plants in Bengali rural life"
+}

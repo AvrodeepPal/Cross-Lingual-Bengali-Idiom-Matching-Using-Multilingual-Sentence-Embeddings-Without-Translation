@@ -1,0 +1,40 @@
+{
+  "id": "4818",
+  "idiom": "ঝালাপালা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঝালা-পালা শব্দের অনুকরণ; তীব্র ও কর্কশ আওয়াজ",
+  "figurative_meaning_bn": "সহচরশব্দ; কানে তালা লাগে বা কানকে পীড়া দেয় এমন তীব্র শব্দ",
+  "figurative_meaning_en": "A harsh, discordant sound that irritates or pains the ears",
+  "similar_in_english": [
+    "ear-splitting noise",
+    "cacophony",
+    "jarring racket"
+  ],
+  "example_sentences_in_bangla": [
+    "ডিজের গানে কান ঝালাপালা হচ্ছে।",
+    "রাস্তার যানবাহনের শব্দে মাথা ঝালাপালা হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The DJ's music is making my ears jangle painfully.",
+    "The traffic noise on the street is creating a jarring racket in my head."
+  ],
+  "usage_domain": [
+    "audio",
+    "daily life",
+    "irritation"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "sound",
+    "noise",
+    "discomfort"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in colloquial Bengali to describe unpleasant auditory experiences."
+}

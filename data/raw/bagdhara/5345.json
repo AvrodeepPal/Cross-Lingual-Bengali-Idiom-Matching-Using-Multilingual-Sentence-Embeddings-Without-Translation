@@ -1,0 +1,39 @@
+{
+  "id": "5345",
+  "idiom": "তর্জনগর্জন",
+  "alternative_idioms": [],
+  "literal_meaning": "তিরস্কারসহ গর্জন (scolding with roaring)",
+  "figurative_meaning_bn": "প্রবল গর্জনসহ তিরস্কার বা শাসানি",
+  "figurative_meaning_en": "Stern rebuke or reprimand accompanied by loud denunciation",
+  "similar_in_english": [
+    "read the riot act",
+    "thunderous scolding"
+  ],
+  "example_sentences_in_bangla": [
+    "ম্যানেজারের তর্জনগর্জন শুনে সবাই চুপ করে গেল।",
+    "পিতা ছেলেকে তর্জনগর্জন করে শাসন করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone fell silent after hearing the manager's thunderous scolding.",
+    "The father reprimanded his son with a stern roar."
+  ],
+  "usage_domain": [
+    "family",
+    "workplace",
+    "authority figures"
+  ],
+  "tags": [
+    "scolding",
+    "anger",
+    "reprimand",
+    "authority"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes imagery of authoritative figures using loud, intimidating voices, common in Bengali literary expressions."
+}

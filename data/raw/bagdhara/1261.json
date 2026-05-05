@@ -1,0 +1,41 @@
+{
+  "id": "1261",
+  "idiom": "ওয়াদা",
+  "alternative_idioms": [],
+  "literal_meaning": "প্রতিশ্রুতি বা অঙ্গীকারের শব্দ",
+  "figurative_meaning_bn": "অঙ্গীকার; প্রতিজ্ঞা; ভবিষ্যতে কিছু দেবার প্রতিশ্রুতি",
+  "figurative_meaning_en": "commitment; vow; promise to give or do something in the future",
+  "similar_in_english": [
+    "give one's word",
+    "make a promise",
+    "vow"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি ওয়াদা করেছিলে যে সাহায্য করবে।",
+    "তার ওয়াদা রাখতে ভুলে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "You promised that you would help.",
+    "He forgot to keep his word."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "formal agreements",
+    "relationships"
+  ],
+  "tags": [
+    "commitment",
+    "trust",
+    "obligation"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The word 'ওয়াদা' is borrowed from Arabic 'waʿd', meaning a promise or covenant, introduced through Islamic influence in Bengal during medieval times."
+  ],
+  "note": "This is a loanword commonly used in Bengali speech, functioning idiomatically in expressions of assurance."
+}

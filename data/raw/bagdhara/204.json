@@ -1,0 +1,38 @@
+{
+  "id": "204",
+  "idiom": "অন্ন মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ন মারা (food dies or striking the food source)",
+  "figurative_meaning_bn": "জীবিকার পথ বন্ধ কর",
+  "figurative_meaning_en": "To close off one's path to livelihood",
+  "similar_in_english": [
+    "Kill the goose that lays the golden eggs",
+    "Cut off one's nose to spite one's face"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার নিজের ব্যবসা বন্ধ করে অন্ন মারা করলো।",
+    "এই সিদ্ধান্ত নিলে তুমি নিজের অন্ন মারবে।"
+  ],
+  "example_sentences_in_english": [
+    "He shut down his own business and killed his own livelihood.",
+    "If you make this decision, you'll be cutting off your own means of survival."
+  ],
+  "usage_domain": [
+    "economy",
+    "daily life",
+    "decision-making"
+  ],
+  "tags": [
+    "livelihood",
+    "self-destruction",
+    "financial ruin"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Rooted in agrarian context where 'ann' symbolizes staple sustenance like rice."
+}

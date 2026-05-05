@@ -1,0 +1,41 @@
+{
+  "id": "10218",
+  "idiom": "হাতে নয় ভাতে মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতে নয়, ভাতে মারা (not by hand, but dying in rice)",
+  "figurative_meaning_bn": "অনাহারে মারা; সরাসরি নয় গোপনে ক্ষতি করা",
+  "figurative_meaning_en": "Dying of starvation; harming secretly rather than directly",
+  "similar_in_english": [
+    "Starve to death",
+    "Undermine from within",
+    "Poison the well"
+  ],
+  "example_sentences_in_bangla": [
+    "গরিব কৃষকটি দুর্ভিক্ষে হাতে নয় ভাতে মারা গেল।",
+    "সে তার প্রতিদ্বন্দ্বীকে সরাসরি না হত্যা করে হাতে নয় ভাতে মারল, গুজব ছড়িয়ে তার সুনাম নষ্ট করে দিয়ে।"
+  ],
+  "example_sentences_in_english": [
+    "The poor farmer died not by violence but by starvation during the famine.",
+    "He didn't confront his rival directly but harmed him secretly by spreading rumors, letting him starve in reputation."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Social commentary"
+  ],
+  "tags": [
+    "hunger",
+    "starvation",
+    "deception",
+    "secret harm",
+    "poverty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom has dual interpretations rooted in Bengali agrarian life, where rice symbolizes sustenance; the 'rice' metaphor highlights indirect, insidious harm akin to deprivation."
+}

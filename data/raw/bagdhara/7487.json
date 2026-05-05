@@ -1,0 +1,38 @@
+{
+  "id": "7487",
+  "idiom": "বাঙাল",
+  "alternative_idioms": [],
+  "literal_meaning": "পূর্ববঙ্গের বাসিন্দা (বাঙালি)",
+  "figurative_meaning_bn": "বিদ্রুপে পূর্ববঙ্গবাসী",
+  "figurative_meaning_en": "Mockingly, a resident of East Bengal",
+  "similar_in_english": [
+    "Yankee (used derogatorily for Americans from the North)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো একটা বাঙাল, কথা শোনে না কোনো।",
+    "বাঙালদের মতো গোঁড়ামি করিস না।"
+  ],
+  "example_sentences_in_english": [
+    "He's such a Bangal, he doesn't listen to anyone.",
+    "Don't be as stubborn as a Bangal."
+  ],
+  "usage_domain": [
+    "regional rivalry",
+    "daily conversation"
+  ],
+  "tags": [
+    "derogatory",
+    "stubbornness",
+    "regional stereotype"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the cultural and regional divide between 'Ghoti' (West Bengal) and 'Bangal' (East Bengal) post-Partition of Bengal in 1947, where 'Bangal' was a term used by West Bengalis to mock East Bengalis for perceived stubbornness and differences in dialect and customs."
+  ],
+  "note": "The term highlights the 'Bangal-Ghoti' rivalry, with 'বাঙালের গোঁ' emphasizing the stereotype of stubbornness."
+}

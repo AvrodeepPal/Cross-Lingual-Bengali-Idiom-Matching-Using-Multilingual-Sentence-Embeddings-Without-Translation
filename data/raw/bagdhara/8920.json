@@ -1,0 +1,37 @@
+{
+  "id": "8920",
+  "idiom": "যদি না",
+  "alternative_idioms": [],
+  "literal_meaning": "যদি (if) না (not)",
+  "figurative_meaning_bn": "না যদি হয় তবুও",
+  "figurative_meaning_en": "even if not",
+  "similar_in_english": [
+    "if not",
+    "even if"
+  ],
+  "example_sentences_in_bangla": [
+    "যদি না যাও, তাহলে আমি একাই যাব।",
+    "যদি না পারো, তবুও চেষ্টা করো।"
+  ],
+  "example_sentences_in_english": [
+    "If not, then I'll go alone.",
+    "Even if you can't, try anyway."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "conditional expressions"
+  ],
+  "tags": [
+    "conditional",
+    "negation",
+    "hypothetical"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "country",
+  "history": [],
+  "note": "This appears to be a basic conditional phrase rather than a traditional idiom, commonly used in spoken Bengali for hypotheticals."
+}

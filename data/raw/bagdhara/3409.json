@@ -1,0 +1,39 @@
+{
+  "id": "3409",
+  "idiom": "ঘড়ি-ঘড়ি",
+  "alternative_idioms": [
+    "উঠিতে বসিতে"
+  ],
+  "literal_meaning": "ঘড়ি পর ঘড়ি (clock after clock)",
+  "figurative_meaning_bn": "ক্ষণেক্ষণে, প্রতিমুহূর্তে; বারংবার",
+  "figurative_meaning_en": "every moment, every instant; repeatedly",
+  "similar_in_english": [
+    "every now and then",
+    "constantly"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘড়ি-ঘড়ি ঘড়ি দেখছো কেন?",
+    "সে ঘড়ি-ঘড়ি চিন্তা করে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "Why are you checking the clock every moment?",
+    "He worries every moment."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "time-related expressions"
+  ],
+  "tags": [
+    "time",
+    "repetition",
+    "impatience"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the habit of frequently checking time, common in everyday Bengali speech."
+}

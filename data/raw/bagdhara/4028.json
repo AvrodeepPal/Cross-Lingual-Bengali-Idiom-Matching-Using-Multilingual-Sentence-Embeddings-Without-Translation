@@ -1,0 +1,41 @@
+{
+  "id": "4028",
+  "idiom": "চোখ উল্টানো",
+  "alternative_idioms": [
+    "চোখ বোজা"
+  ],
+  "literal_meaning": "চোখকে উল্টানো বা উর্ধ্বমুখী করা",
+  "figurative_meaning_bn": "মরণ; মৃত্যুর পূর্বমুহূর্তে চোখ স্থির হয়ে আসা",
+  "figurative_meaning_en": "Death; eyes becoming fixed or rolling back just before the moment of death",
+  "similar_in_english": [
+    "kick the bucket",
+    "breathe one's last",
+    "eyes glazing over"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হঠাৎ চোখ উল্টিয়ে পড়ে গেল।",
+    "বুড়ো মানুষটির চোখ উল্টানোর সময় এসে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He suddenly rolled his eyes back and collapsed.",
+    "The old man's time to roll back his eyes has come."
+  ],
+  "usage_domain": [
+    "death",
+    "medical",
+    "conversational"
+  ],
+  "tags": [
+    "মৃত্যু",
+    "শারীরিক অবস্থা",
+    "বাগধারা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা মৃত্যুর শারীরিক লক্ষণকে বর্ণনা করে, বাংলা সাহিত্যে প্রায়শই ব্যবহৃত হয়।"
+}

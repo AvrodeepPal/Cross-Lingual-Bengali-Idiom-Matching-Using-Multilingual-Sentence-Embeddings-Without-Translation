@@ -1,0 +1,44 @@
+{
+  "id": "4928",
+  "idiom": "টায়টায়",
+  "alternative_idioms": [
+    "টায়টোয়",
+    "টায়েটায়ে"
+  ],
+  "literal_meaning": "কাঁটায় বাঁধা বা শক্তভাবে আঁটানোর অনুকরণমূলক দ্বিত্বশব্দ (onomatopoeic reduplication implying tight fitting)",
+  "figurative_meaning_bn": "উদ্বৃত্তহীন; কাঁটায়কাঁটায়; ঠিকঠিক; না কম না বেশি; যতটা আবশ্যক ততটা",
+  "figurative_meaning_en": "Without excess; precisely; exactly; neither more nor less; just as much as necessary",
+  "similar_in_english": [
+    "To a T",
+    "Just right",
+    "Spot on",
+    "Neither too much nor too little"
+  ],
+  "example_sentences_in_bangla": [
+    "সে টায়টায় সময়ে এসে পৌঁছাল।",
+    "খাবারে লবণ টায়টায় দিয়েছি, না কম না বেশি।"
+  ],
+  "example_sentences_in_english": [
+    "He arrived exactly on time without any delay.",
+    "The salt in the food is just right, neither too much nor too little."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Measurements and quantities",
+    "Timing and precision"
+  ],
+  "tags": [
+    "precision",
+    "exactness",
+    "reduplication",
+    "onomatopoeia"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a dvandva compound (দ্বিত্বশব্দ) commonly used in spoken Bengali to denote perfect accuracy or balance."
+}

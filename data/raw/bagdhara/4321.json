@@ -1,0 +1,41 @@
+{
+  "id": "4321",
+  "idiom": "ছারপোকার বিয়ে",
+  "alternative_idioms": [],
+  "literal_meaning": "ছারপোকার বিয়ে (termite's wedding)",
+  "figurative_meaning_bn": "ক্রমাগত এবং দ্রুত বংশবৃদ্ধি",
+  "figurative_meaning_en": "Continuous and rapid multiplication or population growth",
+  "similar_in_english": [
+    "Breed like rabbits",
+    "Multiply like rabbits"
+  ],
+  "example_sentences_in_bangla": [
+    "তাদের পরিবার ছারপোকার বিয়ের মতো দ্রুত বাড়ছে।",
+    "জনসংখ্যা ছারপোকার বিয়ের মতো ক্রমাগত বৃদ্ধি পাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "Their family is growing as fast as a termite's wedding.",
+    "The population is multiplying continuously like termites at a wedding."
+  ],
+  "usage_domain": [
+    "Family and kinship",
+    "Demography",
+    "Growth and expansion"
+  ],
+  "tags": [
+    "insects",
+    "reproduction",
+    "rapid growth",
+    "folklore"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Based on the belief that termites lay eggs six times a day, leading to swift reproduction, observed in rural Bengali environments."
+  ],
+  "note": "The idiom draws from natural observations of termite swarms during mating seasons, symbolizing unchecked proliferation."
+}

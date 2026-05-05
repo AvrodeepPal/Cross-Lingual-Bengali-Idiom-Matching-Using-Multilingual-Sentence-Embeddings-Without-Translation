@@ -1,0 +1,39 @@
+{
+  "id": "4541",
+  "idiom": "জলপানি",
+  "alternative_idioms": [],
+  "literal_meaning": "জল পান করার জন্য দেওয়া অর্থ (refreshment money)",
+  "figurative_meaning_bn": "মেধাবী ছাত্রবৃত্তি; ভালো ছাত্রকে প্রদত্ত আর্থিক পুরস্কার; শিক্ষানবীশের আর্থিক সহায়তা",
+  "figurative_meaning_en": "Scholarship for meritorious students; financial reward given to good students; financial aid for beginners in education",
+  "similar_in_english": [
+    "pocket money",
+    "stipend for scholars"
+  ],
+  "example_sentences_in_bangla": [
+    "স্কুলে তার মেধার জন্য জলপানি দেওয়া হয়েছে।",
+    "বাবা প্রতিদিন ছেলেকে জলপানির জন্য কিছু টাকা দেন।"
+  ],
+  "example_sentences_in_english": [
+    "He was given a jalpani for his merit in school.",
+    "The father gives some money daily to his son as jalpani."
+  ],
+  "usage_domain": [
+    "education",
+    "finance"
+  ],
+  "tags": [
+    "scholarship",
+    "student aid",
+    "merit reward"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "স্যার আশুতোষ তাঁর বাবার কাছ থেকে নিত্য একটাকা করে জলপানি পেতেন। (Sir Asutosh used to receive one taka daily as jalpani from his father.)"
+  ],
+  "note": "This term originates from historical educational practices in Bengal, referring to modest financial support for promising students."
+}

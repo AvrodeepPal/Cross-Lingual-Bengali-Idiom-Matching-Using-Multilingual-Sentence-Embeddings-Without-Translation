@@ -1,0 +1,41 @@
+{
+  "id": "2281",
+  "idiom": "কুলশীল",
+  "alternative_idioms": [],
+  "literal_meaning": "কুল (বংশ/পরিবার) + শীল (চরিত্র/স্বভাব)",
+  "figurative_meaning_bn": "বংশ ও চরিত্র পরিচয়",
+  "figurative_meaning_en": "Knowledge of one's lineage and character",
+  "similar_in_english": [
+    "Know one's pedigree",
+    "Check someone's background"
+  ],
+  "example_sentences_in_bangla": [
+    "অজ্ঞাত কুলশীলকে ঘরে স্থান দেওয়া উচিত নয়।",
+    "বিয়ের আগে ছেলের কুলশীল জেনে নাও।"
+  ],
+  "example_sentences_in_english": [
+    "One should not give shelter to an unknown person of unverified lineage and character.",
+    "Before marriage, make sure to know the boy's family background and character."
+  ],
+  "usage_domain": [
+    "Social",
+    "Family",
+    "Cautionary"
+  ],
+  "tags": [
+    "বংশপরিচয়",
+    "চরিত্র",
+    "সতর্কতা",
+    "প্রথাগত"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom reflects traditional Bengali societal norms emphasizing family verification before alliances or hospitality."
+  ],
+  "note": "Often used in contexts of marriage or hosting strangers to avoid risks."
+}

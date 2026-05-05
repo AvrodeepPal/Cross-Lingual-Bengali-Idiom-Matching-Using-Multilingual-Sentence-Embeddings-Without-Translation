@@ -1,0 +1,41 @@
+{
+  "id": "2347",
+  "idiom": "কেনারাম",
+  "alternative_idioms": [],
+  "literal_meaning": "কেনা (buy) + রাম (a common name, implying a buyer or accumulator)",
+  "figurative_meaning_bn": "যে পরিশ্রম করে সম্পত্তি অর্জন করে",
+  "figurative_meaning_en": "One who acquires property through hard work",
+  "similar_in_english": [
+    "All work and no play",
+    "You can't take it with you"
+  ],
+  "example_sentences_in_bangla": [
+    "কেনারামের মতো সারা জীবন খেটে সম্পত্তি জমালো, কিন্তু ভোগ করতে পারল না।",
+    "এই কেনারামের ভাগ্যে কখনো সুখ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He worked hard all his life like Kenaram to accumulate property but never got to enjoy it.",
+    "There's no enjoyment in Kenaram's fate."
+  ],
+  "usage_domain": [
+    "proverbs",
+    "daily conversation",
+    "folklore"
+  ],
+  "tags": [
+    "wealth",
+    "labor",
+    "fate",
+    "proverbial character"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to a proverbial Bengali character symbolizing futile accumulation of wealth without enjoyment, rooted in oral traditions."
+  ],
+  "note": "Often used in the full phrase 'কেনারামের ভাগ্যে ভোগ নেই' to emphasize irony of labor without leisure."
+}

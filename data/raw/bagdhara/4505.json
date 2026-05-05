@@ -1,0 +1,38 @@
+{
+  "id": "4505",
+  "idiom": "জমি নেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "জমি নেওয়া (land to take)",
+  "figurative_meaning_bn": "পরাস্ত হওয়া",
+  "figurative_meaning_en": "to be defeated",
+  "similar_in_english": [
+    "to bite the dust",
+    "to lose ground"
+  ],
+  "example_sentences_in_bangla": [
+    "খেলায় তারা জমি নেওয়া হয়েছে।",
+    "বিতর্কে সে জমি নেওয়া পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "They were defeated in the game.",
+    "He suffered a defeat in the debate."
+  ],
+  "usage_domain": [
+    "competition",
+    "sports",
+    "arguments"
+  ],
+  "tags": [
+    "defeat",
+    "loss",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom metaphorically refers to losing territory or position, akin to surrendering land in a conflict."
+}

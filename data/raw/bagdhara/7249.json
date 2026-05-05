@@ -1,0 +1,38 @@
+{
+  "id": "7249",
+  "idiom": "বড়গলা",
+  "alternative_idioms": [],
+  "literal_meaning": "বড় গলা (big throat/voice)",
+  "figurative_meaning_bn": "উচ্চস্বর, চিৎকার",
+  "figurative_meaning_en": "loud voice, shouting",
+  "similar_in_english": [
+    "big mouth",
+    "loudmouth"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বড়গলা করে সবাইকে শোনায় তার অভিযোগ।",
+    "বাজারে বড়গলা না করে শান্তভাবে কথা বলো।"
+  ],
+  "example_sentences_in_english": [
+    "He shouts loudly to make everyone hear his complaints.",
+    "Don't speak in a big voice in the market; talk calmly."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "arguments"
+  ],
+  "tags": [
+    "voice",
+    "loud",
+    "shouting",
+    "expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to describe someone who speaks boastfully or aggressively."
+}

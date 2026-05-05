@@ -1,0 +1,41 @@
+{
+  "id": "6613",
+  "idiom": "পরকাল",
+  "alternative_idioms": [],
+  "literal_meaning": "পর (অন্য/পরবর্তী) + কাল (সময়) – পরবর্তী সময়",
+  "figurative_meaning_bn": "ভবিষ্যৎ, উত্তরকাল",
+  "figurative_meaning_en": "future, later time or hereafter",
+  "similar_in_english": [
+    "the hereafter",
+    "afterlife"
+  ],
+  "example_sentences_in_bangla": [
+    "এই জীবনে যা করবি, তাই পরকালে ফল পাবি।",
+    "পরকালের কথা ভেবে বর্তমানকে উপেক্ষা করো না।"
+  ],
+  "example_sentences_in_english": [
+    "What you do in this life will bear fruit in the hereafter.",
+    "Don't neglect the present thinking about the future."
+  ],
+  "usage_domain": [
+    "philosophy",
+    "religion",
+    "daily conversation"
+  ],
+  "tags": [
+    "future",
+    "afterlife",
+    "time",
+    "destiny"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to concepts from Hindu and Buddhist scriptures about life after death, common in Bengali folklore and literature."
+  ],
+  "note": "Often used in contexts discussing karma and reincarnation in Bengali culture."
+}

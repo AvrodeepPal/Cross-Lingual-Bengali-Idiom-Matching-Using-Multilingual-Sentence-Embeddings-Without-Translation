@@ -1,0 +1,37 @@
+{
+  "id": "6948",
+  "idiom": "পেটরোগা",
+  "alternative_idioms": [],
+  "literal_meaning": "পেটের রোগে আক্রান্ত ব্যক্তি (stomach-diseased person)",
+  "figurative_meaning_bn": "পেটের অসুখে ভোগে এমন",
+  "figurative_meaning_en": "Someone who suffers from stomach ailments",
+  "similar_in_english": [
+    "Has a weak stomach",
+    "Delicate digestion"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পেটরোগা বলে ভারী খাবার এড়িয়ে চলে।",
+    "পেটরোগা লোকের জন্য হালকা খাবারই ভালো।"
+  ],
+  "example_sentences_in_english": [
+    "He avoids heavy food because he is stomach-sickly.",
+    "Light meals are best for someone with stomach problems."
+  ],
+  "usage_domain": [
+    "health",
+    "daily conversation"
+  ],
+  "tags": [
+    "illness",
+    "body",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is straightforward and commonly used in everyday Bengali to describe chronic stomach issues, reflecting cultural emphasis on digestive health."
+}

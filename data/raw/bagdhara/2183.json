@@ -1,0 +1,49 @@
+{
+  "id": "2183",
+  "idiom": "কিংকর্তব্যবিমূঢ়",
+  "alternative_idioms": [
+    "ইতিকর্তব্যবিমূঢ়",
+    "এদিকও না- ওদিকও না",
+    "ন যযৌ ন তস্থৌ",
+    "ভেবাচেকা",
+    "সসেমিরা",
+    "হতবুদ্ধি"
+  ],
+  "literal_meaning": "কী কর্তব্য সম্পর্কে বিমূঢ় বা বিভ্রান্ত (What-duty-confused)",
+  "figurative_meaning_bn": "কি করতে হবে বুঝতে পারেনা এমন; কর্তব্য স্থির করতে না পেরে স্থির হয়ে থাকা",
+  "figurative_meaning_en": "Unable to comprehend what action to take; standing motionless due to inability to decide on one's duty",
+  "similar_in_english": [
+    "At a loss for words/actions",
+    "Frozen in indecision",
+    "Paralyzed by uncertainty"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রচণ্ড বকুনি খেয়ে লোকটা কিংকর্তব্যবিমূঢ় হয়ে পড়ল।",
+    "সমস্যার মুখোমুখি হয়ে সে কিংকর্তব্যবিমূঢ় অবস্থায় দাঁড়িয়ে রইল।"
+  ],
+  "example_sentences_in_english": [
+    "After receiving a severe scolding, the man became kinkartavyavimudha, standing still in bewilderment.",
+    "Faced with the dilemma, he stood kinkartavyavimudha, unsure of his next move."
+  ],
+  "usage_domain": [
+    "Decision-making",
+    "Emotional states",
+    "Literature"
+  ],
+  "tags": [
+    "confusion",
+    "indecision",
+    "dilemma",
+    "Sanskrit-derived"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the Bhagavad Gita in the Mahabharata, where Arjuna is described as kinkartavyavimudha on the battlefield of Kurukshetra, symbolizing moral and dutiful confusion before Krishna's counsel."
+  ],
+  "note": "A classical Sanskrit compound word widely used in Bengali literature and discourse to denote profound indecision."
+}

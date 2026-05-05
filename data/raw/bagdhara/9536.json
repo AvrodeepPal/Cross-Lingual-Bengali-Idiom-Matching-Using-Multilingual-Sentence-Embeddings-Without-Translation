@@ -1,0 +1,41 @@
+{
+  "id": "9536",
+  "idiom": "শ্রীঘর",
+  "alternative_idioms": [
+    "লালদালান"
+  ],
+  "literal_meaning": "শ্রী (সৌন্দর্য বা সমৃদ্ধি) + ঘর (ঘর বা কক্ষ); সৌন্দর্যময় ঘর",
+  "figurative_meaning_bn": "বিদ্রুপে জেলখানা, কারাগার",
+  "figurative_meaning_en": "sarcastically, a jail or prison",
+  "similar_in_english": [
+    "the big house",
+    "the slammer"
+  ],
+  "example_sentences_in_bangla": [
+    "তার শ্রীঘরে যাওয়া মানে জেলে যাওয়া।",
+    "পুলিশের শ্রীঘরে পড়লে আর বের হওয়া দুষ্কর।"
+  ],
+  "example_sentences_in_english": [
+    "Going to his 'shri ghor' means going to jail.",
+    "Once you're in the police's 'shri ghor', getting out is tough."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "sarcastic",
+    "legal context"
+  ],
+  "tags": [
+    "বাগধারা",
+    "বিদ্রুপ",
+    "কারাগার",
+    "সমার্থক"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses irony to contrast the literal auspicious connotation with the harsh reality of imprisonment."
+}

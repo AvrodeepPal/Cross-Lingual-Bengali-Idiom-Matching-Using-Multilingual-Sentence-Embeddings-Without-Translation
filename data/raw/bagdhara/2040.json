@@ -1,0 +1,41 @@
+{
+  "id": "2040",
+  "idiom": "কানে কানে",
+  "alternative_idioms": [
+    "চুপিচুপি"
+  ],
+  "literal_meaning": "কানের কাছে কানের কাছে (ear to ear)",
+  "figurative_meaning_bn": "অন্যে যেন শুনতে পায় না এমনভাবে; কানের কাছে মুখ নিয়ে গিয়ে মৃদুস্বরে",
+  "figurative_meaning_en": "In a whisper so that others cannot hear; speaking softly close to the ear",
+  "similar_in_english": [
+    "in whispers",
+    "whisper in one's ear",
+    "under one's breath"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি কানে কানে বললেন, 'এই খবর কাউকে বলো না।'",
+    "বন্ধুরা কানে কানে গল্প করছিলেন যাতে অন্যরা না শুনতে পায়।"
+  ],
+  "example_sentences_in_english": [
+    "She whispered in his ear, 'Don't tell anyone about this.'",
+    "They were talking in whispers so that no one else could hear."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "secrecy",
+    "gossip"
+  ],
+  "tags": [
+    "whispering",
+    "secret communication",
+    "confidential talk"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes discretion in communication, a staple in Bengali social interactions."
+}

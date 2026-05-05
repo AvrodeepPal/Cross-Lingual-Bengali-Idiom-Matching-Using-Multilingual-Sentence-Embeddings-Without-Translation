@@ -1,0 +1,39 @@
+{
+  "id": "9018",
+  "idiom": "রগড়া রগড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘর্ষণ বা রগড়ানোর কাজ",
+  "figurative_meaning_bn": "অতিরিক্ত ঘর্ষণ বা সংঘর্ষে ক্ষতি হওয়া",
+  "figurative_meaning_en": "Damage caused by excessive friction or conflict",
+  "similar_in_english": [
+    "Too much of a good thing",
+    "Burn the candle at both ends"
+  ],
+  "example_sentences_in_bangla": [
+    "রগড়া রগড়িতে তার জামা পুরানো হয়ে গেছে।",
+    "দুই ভাইয়ের মধ্যে রগড়া রগড়ি চলছে, সম্পর্ক নষ্ট হয়ে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "His shirt got ruined from all the rubbing and scrubbing.",
+    "The constant bickering between the brothers will damage their relationship."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Family disputes",
+    "Domestic chores"
+  ],
+  "tags": [
+    "friction",
+    "damage",
+    "conflict",
+    "overexertion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom derived from manual cloth washing practices in rural Bengal"
+}

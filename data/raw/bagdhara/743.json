@@ -1,0 +1,37 @@
+{
+  "id": "743",
+  "idiom": "উচ্চভাষী",
+  "alternative_idioms": [],
+  "literal_meaning": "উচ্চ (high) ভাষী (speaker)",
+  "figurative_meaning_bn": "কড়া বা রূঢ় ভাষী; প্রগল্ভ",
+  "figurative_meaning_en": "Harsh or rude in speech; arrogant or bold",
+  "similar_in_english": [
+    "loud-mouthed",
+    "high and mighty"
+  ],
+  "example_sentences_in_bangla": [
+    "সে উচ্চভাষী লোক, সবসময় অন্যদের অপমান করে।",
+    "উচ্চভাষী হয়ে কথা বললে কেউ শুনবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a high-talker, always insulting others.",
+    "Speaking in a high-handed manner won't get anyone to listen."
+  ],
+  "usage_domain": [
+    "personality description",
+    "social interaction"
+  ],
+  "tags": [
+    "negative speech",
+    "arrogance",
+    "rudeness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to someone who uses lofty or abrasive language to assert superiority"
+}

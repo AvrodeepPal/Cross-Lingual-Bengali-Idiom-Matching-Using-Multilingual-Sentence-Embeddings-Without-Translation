@@ -1,0 +1,38 @@
+{
+  "id": "1845",
+  "idiom": "কাগাবগা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাকের মতো ছড়ানো বা উচ্ছ্বাসপূর্ণ অবস্থা (অনুকরণমূলক শব্দ)",
+  "figurative_meaning_bn": "উচ্ছৃঙ্খল, এলোমেলো/ছন্নছাড়াভাব, সামঞ্জস্যহীন অবস্থা",
+  "figurative_meaning_en": "Disorderly, haphazard, or incoherent state lacking harmony",
+  "similar_in_english": [
+    "All over the place",
+    "In a shambles",
+    "Higgledy-piggledy"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরের ভিতরটা সম্পূর্ণ কাগাবগা হয়ে গেছে।",
+    "তার কাজকর্ম কাগাবগা, কোনো সুতরাম নেই।"
+  ],
+  "example_sentences_in_english": [
+    "The inside of the house is completely in a kagabaga state.",
+    "His work is all kagabaga, with no proper order."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Description of chaos"
+  ],
+  "tags": [
+    "disorder",
+    "informal",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression mimicking scattered or noisy disorder, common in spoken Bengali."
+}

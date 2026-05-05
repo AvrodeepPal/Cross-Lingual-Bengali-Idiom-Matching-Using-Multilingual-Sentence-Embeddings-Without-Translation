@@ -1,0 +1,43 @@
+{
+  "id": "304",
+  "idiom": "আঁচলধরা",
+  "alternative_idioms": [
+    "আঁচলের নিচে থাকা",
+    "অঞ্চলধরা"
+  ],
+  "literal_meaning": "আঁচল ধরা (holding the edge of a sari)",
+  "figurative_meaning_bn": "ব্যক্তিত্বহীন পুরুষ, স্ত্রৈণ, স্ত্রীলোকের নির্দেশে চলা",
+  "figurative_meaning_en": "A man lacking personality, effeminate, one who follows women's directives subserviently",
+  "similar_in_english": [
+    "henpecked",
+    "under the thumb",
+    "whipped"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা আঁচলধরা লোক, সবসময় বউয়ের কথামতো চলে।",
+    "আঁচলধরা পুরুষের সঙ্গে বিয়ে করলে জীবন নষ্ট হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real anchaldhora, always doing whatever his wife says.",
+    "Marrying an anchaldhora man would ruin one's life."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "gender dynamics",
+    "social commentary"
+  ],
+  "tags": [
+    "effeminate",
+    "submissive",
+    "derogatory",
+    "traditional gender roles"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional Bengali sari-wearing culture where 'anchal' symbolizes female authority."
+}

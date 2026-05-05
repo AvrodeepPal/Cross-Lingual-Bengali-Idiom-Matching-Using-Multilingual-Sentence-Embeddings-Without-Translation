@@ -1,0 +1,41 @@
+{
+  "id": "3218",
+  "idiom": "গুগলি",
+  "alternative_idioms": [],
+  "literal_meaning": "ক্রিকেটের একটি ধোঁয়াটে বল (googly ball in cricket)",
+  "figurative_meaning_bn": "কথার মারপ্যাঁচ",
+  "figurative_meaning_en": "verbal twist or deception in speech",
+  "similar_in_english": [
+    "throw a curveball",
+    "beat around the bush"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথায় গুগলি আছে, সতর্ক থেকো।",
+    "এই বিতর্কে সে গুগলি ছুড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "There's a googly in his words, stay alert.",
+    "He threw a googly in this debate."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "rhetoric",
+    "debate"
+  ],
+  "tags": [
+    "deception",
+    "speech",
+    "cricket-derived",
+    "modern idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the cricket term 'googly', a deceptive delivery invented by English cricketer Bernard Bosanquet in the early 1900s, popularized in Bengali through cricket's cultural impact in South Asia."
+  ],
+  "note": "This idiom reflects the influence of modern sports on Bengali language."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "9375",
+  "idiom": "লোকে বলে",
+  "alternative_idioms": [],
+  "literal_meaning": "লোকে (people) বলে (say)",
+  "figurative_meaning_bn": "প্রবাদ হিসাবে প্রচলিত আছে; সাধারণের মতামত",
+  "figurative_meaning_en": "It is prevalent as a proverb; according to general opinion",
+  "similar_in_english": [
+    "As the saying goes",
+    "People say"
+  ],
+  "example_sentences_in_bangla": [
+    "লোকে বলে, 'বলেরে ঘরবাড়ি ভালা না আমার'।",
+    "লোকে বলে, সত্যই সোনার মতো দামি।"
+  ],
+  "example_sentences_in_english": [
+    "As people say, 'The house is not good for the bull'.",
+    "People say, truth is indeed as valuable as gold."
+  ],
+  "usage_domain": [
+    "conversational",
+    "folklore",
+    "proverbs"
+  ],
+  "tags": [
+    "প্রবাদ",
+    "লোকমত",
+    "গীতিকথা"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এটি বাংলা লোকগীতিতে প্রচলিত, যেমন 'লোকে বলে বলেরে ঘরবাড়ি ভালা না আমার' গানে ব্যবহৃত।"
+  ],
+  "note": "এটি প্রায়শই প্রবাদ বা লোককথা উল্লেখ করার জন্য ব্যবহৃত হয়।"
+}

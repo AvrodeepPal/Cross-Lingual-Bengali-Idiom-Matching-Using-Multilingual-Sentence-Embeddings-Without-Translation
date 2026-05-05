@@ -1,0 +1,39 @@
+{
+  "id": "6807",
+  "idiom": "শোকে পাথর",
+  "alternative_idioms": [],
+  "literal_meaning": "শোকের কারণে পাথর (সম্পূর্ণ অচল হয়ে যাওয়া)",
+  "figurative_meaning_bn": "স্তব্ধ",
+  "figurative_meaning_en": "stunned or petrified with grief",
+  "similar_in_english": [
+    "turned to stone",
+    "frozen in shock",
+    "struck dumb"
+  ],
+  "example_sentences_in_bangla": [
+    "খবর শুনে সে শোকে পাথর হয়ে গেল।",
+    "দুর্ঘটনার সংবাদে সমস্ত পরিবার শোকে পাথর।"
+  ],
+  "example_sentences_in_english": [
+    "Upon hearing the news, he turned to stone with grief.",
+    "The whole family was stunned into stone-like silence by the accident report."
+  ],
+  "usage_domain": [
+    "emotions",
+    "grief",
+    "shock"
+  ],
+  "tags": [
+    "sorrow",
+    "immobility",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom derived from the imagery of grief immobilizing a person like stone; cleaned from input 'পাথর১' based on provided meaning."
+}

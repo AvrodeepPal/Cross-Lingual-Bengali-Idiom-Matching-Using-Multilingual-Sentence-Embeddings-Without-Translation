@@ -1,0 +1,37 @@
+{
+  "id": "4026",
+  "idiom": "চোঁচোঁ",
+  "alternative_idioms": [],
+  "literal_meaning": "onomatopoeic reduplicated sound for quickly slurping or gulping liquid",
+  "figurative_meaning_bn": "দ্রুত তরলদ্রব্য খাওয়ার ধ্বন্যাত্মক দ্বিত্বশব্দ; এক নিশ্বাসে ও সাগ্রহে",
+  "figurative_meaning_en": "onomatopoeic reduplicated word for quickly drinking liquid; in one breath and eagerly",
+  "similar_in_english": [
+    "gulp down",
+    "slurp up"
+  ],
+  "example_sentences_in_bangla": [
+    "চোঁচোঁ করে দুধটা খেয়ে নাও।",
+    "বাচ্চাটা চোঁচোঁ করে স্যুপ খেয়ে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "Gulp down the milk quickly and eagerly.",
+    "The child slurped up the soup in one go."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "food and drink"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "sound imitation",
+    "eating"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a vivid onomatopoeic expression rooted in everyday Bengali speech, often used to describe enthusiastic consumption of liquids like milk or soup."
+}

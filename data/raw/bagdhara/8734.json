@@ -1,0 +1,40 @@
+{
+  "id": "8734",
+  "idiom": "মুখ মারা",
+  "alternative_idioms": [
+    "মুখ মোড়া"
+  ],
+  "literal_meaning": "কাপড়ের প্রান্ত বা বস্তার মুখ সেলাই করা",
+  "figurative_meaning_bn": "কাপড়ের প্রান্ত বা বস্তার মুখ সেলাই করা",
+  "figurative_meaning_en": "To sew or hem the edge of cloth or the opening of a bag",
+  "similar_in_english": [
+    "to hem",
+    "to sew up the edge"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কুর্তির নিচের মুখ মারা দরকার।",
+    "ব্যাগের মুখ মারা করে রাখো যাতে জিনিস না পড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "This kurta needs its hem sewn.",
+    "Sew up the bag's opening so things don't fall out."
+  ],
+  "usage_domain": [
+    "tailoring",
+    "sewing",
+    "daily chores"
+  ],
+  "tags": [
+    "clothing",
+    "craft",
+    "household"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This expression is commonly used in Bengali tailoring and household contexts, referring to a practical sewing technique."
+}

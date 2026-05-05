@@ -1,0 +1,38 @@
+{
+  "id": "1379",
+  "idiom": "কড়িতে চতুর কাহনে কানা",
+  "alternative_idioms": [],
+  "literal_meaning": "কড়িতে (রান্নার পাত্রে) চতুর (চালাক), কাহনে (কাহিনী বলায়) কানা (একচোখা বা অন্ধ)",
+  "figurative_meaning_bn": "অল্প খরচে কিপ্টেমি, বেশি খরচে দরাজ",
+  "figurative_meaning_en": "Stingy with small expenses, extravagant with large ones",
+  "similar_in_english": [
+    "Penny wise and pound foolish"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কড়িতে চতুর কাহনে কানা, দৈনন্দিন খরচে খুব কৃপণ কিন্তু বাড়ি কেনার সময় অঢেল টাকা খরচ করে।",
+    "এই ব্যবসায়ী কড়িতে চতুর কাহনে কানা, ছোটখাটো লেনদেনে লাভের দিকে নজর রাখে কিন্তু বড় প্রকল্পে অর্থের অপচয় করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is penny wise and pound foolish, being very frugal with daily expenses but splashing out on a new car.",
+    "That businessman is stingy on small deals but extravagant on major investments, truly penny wise and pound foolish."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily life",
+    "business"
+  ],
+  "tags": [
+    "proverb",
+    "wisdom",
+    "criticism",
+    "expense management"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom critiques shortsighted financial behavior common in traditional Bengali households."
+}

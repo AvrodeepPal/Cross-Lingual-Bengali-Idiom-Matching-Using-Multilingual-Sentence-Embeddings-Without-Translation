@@ -1,0 +1,39 @@
+{
+  "id": "8013",
+  "idiom": "ভাঙা ভাঙা",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাঙা (broken) ভাঙা (broken) – ভাঙা অবস্থার দ্বিত্ব",
+  "figurative_meaning_bn": "অস্পষ্ট অর্থে দ্বিত্ব; অস্পষ্ট ও দুর্বোধ্য, বিকৃত",
+  "figurative_meaning_en": "Repetition implying unclear duplication; unclear, incomprehensible, and distorted",
+  "similar_in_english": [
+    "Broken English",
+    "Gibberish",
+    "Double Dutch"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ভাঙা ভাঙা উচ্চারণ শুনে কিছুই বুঝতে পারলাম না।",
+    "ভাঙা ভাঙা ভাষায় লেখা চিঠিটি পড়ে বিভ্রান্ত হয়ে গেলাম।"
+  ],
+  "example_sentences_in_english": [
+    "I couldn't understand anything from his broken broken pronunciation.",
+    "The letter written in broken broken language left me confused."
+  ],
+  "usage_domain": [
+    "Language and Communication",
+    "Speech and Writing"
+  ],
+  "tags": [
+    "unclear speech",
+    "incomprehensible",
+    "distorted language",
+    "repetition"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to fragmented or poorly articulated Bengali speech, common in multilingual or non-native contexts."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "100",
+  "idiom": "অজাতশত্রু",
+  "alternative_idioms": [],
+  "literal_meaning": "অজাত (অজন্মা) শত্রু (শত্রু)",
+  "figurative_meaning_bn": "যার শত্রু নাই; যার শত্রু জন্মায়নি; যে শত্রুতা করে না",
+  "figurative_meaning_en": "One who has no enemies; one whose enemy has not been born; one who does not make enemies",
+  "similar_in_english": [
+    "Without an enemy in the world",
+    "Harmless as a dove"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি জীবনে কখনো শত্রুতা করেননি, তাই অজাতশত্রু হিসেবে পরিচিত।",
+    "এই নিরীহ মানুষটিকে দেখে মনে হয় অজাতশত্রু।"
+  ],
+  "example_sentences_in_english": [
+    "He never makes enemies in life, so he is known as a man without enemies.",
+    "Looking at this innocent person, one feels he is without an enemy in the world."
+  ],
+  "usage_domain": [
+    "Literature",
+    "Ethics",
+    "Daily conversation"
+  ],
+  "tags": [
+    "peaceful",
+    "righteous",
+    "innocent",
+    "moral"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to Yudhishthira from the Mahabharata epic, who was called Ajatashatru for his dharma (righteousness) and lack of personal enemies despite the epic's conflicts."
+  ],
+  "note": "Derived from Sanskrit roots, commonly used in Bengali literature to denote exemplary moral character."
+}

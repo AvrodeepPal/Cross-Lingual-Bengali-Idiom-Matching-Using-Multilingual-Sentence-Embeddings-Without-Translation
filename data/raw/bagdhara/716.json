@@ -1,0 +1,40 @@
+{
+  "id": "716",
+  "idiom": "ইষ্টদেবতা",
+  "alternative_idioms": [],
+  "literal_meaning": "নির্বাচিত দেবতা",
+  "figurative_meaning_bn": "উপাস্য দেবতা",
+  "figurative_meaning_en": "Personal or chosen deity",
+  "similar_in_english": [
+    "Patron saint",
+    "Guardian angel"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ইষ্টদেবতা হলো মা দুর্গা, তাই তিনি প্রতি বছর পূজা করেন।",
+    "ভক্তির পথে ইষ্টদেবতার উপাসনা অত্যন্ত গুরুত্বপূর্ণ।"
+  ],
+  "example_sentences_in_english": [
+    "Her Ishta Devata is Goddess Durga, so she worships her every year.",
+    "In the path of devotion, worship of the Ishta Devata is extremely important."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Spirituality"
+  ],
+  "tags": [
+    "deity",
+    "worship",
+    "personal god",
+    "Hinduism"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term originates from Hindu scriptures and practices, particularly in Bhakti traditions where devotees select a personal deity for focused worship."
+  ],
+  "note": "Primarily used in Hindu contexts within Bengali culture."
+}

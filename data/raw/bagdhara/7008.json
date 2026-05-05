@@ -1,0 +1,39 @@
+{
+  "id": "7008",
+  "idiom": "পোষা কুকুর",
+  "alternative_idioms": [],
+  "literal_meaning": "পোষা (domesticated/pet) কুকুর (dog)",
+  "figurative_meaning_bn": "বিদ্রুপে একান্ত অনুগত ব্যক্তি",
+  "figurative_meaning_en": "A person who is extremely loyal or subservient, often used sarcastically",
+  "similar_in_english": [
+    "lapdog",
+    "teacher's pet"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার নেতার পোষা কুকুরের মতো সবসময় অনুসরণ করে।",
+    "অফিসে সে বসের পোষা কুকুর হয়ে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He follows his leader like a lapdog.",
+    "In the office, he has become the boss's lapdog."
+  ],
+  "usage_domain": [
+    "politics",
+    "workplace",
+    "social interactions"
+  ],
+  "tags": [
+    "loyalty",
+    "sarcasm",
+    "derogatory",
+    "subservience"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the common cultural view of pet dogs as blindly obedient companions."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "8946",
+  "idiom": "যাচ্ছেতাই",
+  "alternative_idioms": [
+    "যা-ইচ্ছা-তাই",
+    "যা খুসি তাই"
+  ],
+  "literal_meaning": "যা চাইছে তাই (whatever one desires or whatever comes)",
+  "figurative_meaning_bn": "অন্যায়/অসঙ্গত/জঘন্য/বিশ্রী ব্যাপার",
+  "figurative_meaning_en": "unjust, unreasonable, vile, or vulgar matter",
+  "similar_in_english": [
+    "any old thing",
+    "nonsense",
+    "willy-nilly behavior"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথাবার্তা যাচ্ছেতাই, কোনো মানেই নেই।",
+    "এই যাচ্ছেতাই কাজ করে লাভ কী?"
+  ],
+  "example_sentences_in_english": [
+    "His talk is all yachetay, it makes no sense.",
+    "What's the point of doing things in such a haphazard, vulgar way?"
+  ],
+  "usage_domain": [
+    "conversation",
+    "criticism",
+    "everyday language"
+  ],
+  "tags": [
+    "negative",
+    "improper",
+    "vulgar",
+    "disorderly"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a colloquial contraction emphasizing lack of propriety or sense in actions or speech."
+}

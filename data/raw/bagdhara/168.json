@@ -1,0 +1,39 @@
+{
+  "id": "168",
+  "idiom": "অন্ধকারে ঢিল ছোঁড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ধকারে পাথর ছোঁড়া",
+  "figurative_meaning_bn": "নিছক অনুমানের ভিত্তিতে আন্দাজে কিছু করা বা বলা",
+  "figurative_meaning_en": "Doing or saying something based purely on guesswork or assumption",
+  "similar_in_english": [
+    "A shot in the dark",
+    "Shooting in the dark"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি অন্ধকারে ঢিল ছোঁড়া করছ, কোনো প্রমাণ ছাড়াই অভিযোগ করছ।",
+    "এই সিদ্ধান্ত নেওয়া অন্ধকারে ঢিল ছোঁড়ার মতো, কোনো তথ্য নেই।"
+  ],
+  "example_sentences_in_english": [
+    "You're throwing stones in the dark by accusing without any proof.",
+    "Making this decision is like shooting in the dark, with no information available."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Debate and argument",
+    "Decision-making"
+  ],
+  "tags": [
+    "assumption",
+    "guesswork",
+    "uncertainty",
+    "speculation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": ""
+}

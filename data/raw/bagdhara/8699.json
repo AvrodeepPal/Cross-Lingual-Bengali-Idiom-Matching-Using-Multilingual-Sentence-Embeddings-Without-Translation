@@ -1,0 +1,38 @@
+{
+  "id": "8699",
+  "idiom": "মুখ দেখা",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখ দেখা (face to see)",
+  "figurative_meaning_bn": "চেহারা দেখা",
+  "figurative_meaning_en": "to encounter or experience something (often implying its absence or rarity)",
+  "similar_in_english": [
+    "haven't seen hide nor hair of",
+    "haven't laid eyes on"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসায় করছি কিন্তু পয়সার মুখ দেখিনি।",
+    "এত চেষ্টা সত্ত্বেও সাফল্যের মুখ দেখা হয়নি।"
+  ],
+  "example_sentences_in_english": [
+    "I've been doing business but haven't seen the face of money.",
+    "Despite all the efforts, I haven't seen the face of success."
+  ],
+  "usage_domain": [
+    "commerce",
+    "daily life",
+    "expression of absence"
+  ],
+  "tags": [
+    "figurative",
+    "negative connotation",
+    "experiential"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of unfulfilled expectations, especially financial."
+}

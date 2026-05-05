@@ -1,0 +1,40 @@
+{
+  "id": "1555",
+  "idiom": "কপাল দোষ",
+  "alternative_idioms": [
+    "কাটা কপাল",
+    "ফাটা কপাল"
+  ],
+  "literal_meaning": "কপালে দোষ (forehead's fault)",
+  "figurative_meaning_bn": "মন্দভাগ্য, ভাগ্য প্রতিকূল",
+  "figurative_meaning_en": "Bad luck, adverse fate",
+  "similar_in_english": [
+    "Bad luck",
+    "Born under a bad sign"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কপাল দোষ, সব কাজেই ব্যর্থ হয়ে যায়।",
+    "এটা আমার কপাল দোষ, না হলে এমন হত না।"
+  ],
+  "example_sentences_in_english": [
+    "It's his bad luck that he fails in every endeavor.",
+    "This is due to my adverse fate; otherwise, it wouldn't have happened."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Fate and misfortune"
+  ],
+  "tags": [
+    "fate",
+    "misfortune",
+    "superstition"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Rooted in the cultural belief that one's forehead bears the mark of destiny in Bengali folklore."
+}

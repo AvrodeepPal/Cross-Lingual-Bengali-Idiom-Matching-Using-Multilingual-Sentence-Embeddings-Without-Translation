@@ -1,0 +1,41 @@
+{
+  "id": "10268",
+  "idiom": "হাবুডুবু খাওয়া",
+  "alternative_idioms": [
+    "নাকানিচুবানি খাওয়া"
+  ],
+  "literal_meaning": "জলে ডুবে যাওয়ার সময় জলের ছপছপানি শব্দ করে জল গিলে ফেলা",
+  "figurative_meaning_bn": "বারবার জলে ডুবে যাওয়া ও ভেসে ওঠা",
+  "figurative_meaning_en": "repeatedly sinking and resurfacing in water, struggling as if drowning",
+  "similar_in_english": [
+    "floundering",
+    "in deep water",
+    "going under"
+  ],
+  "example_sentences_in_bangla": [
+    "নদীতে পড়ে ছেলেটি হাবুডুবু খাচ্ছে।",
+    "ঝড়ো সমুদ্রে নৌকাটি হাবুডুবু খাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "The boy fell into the river and is gulping water while struggling.",
+    "The boat is bobbing up and down in the stormy sea."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "describing peril or play in water"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "water-related",
+    "danger",
+    "struggle"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "সহচর শব্দ হিসেবে ব্যবহৃত; বাংলার নদী-নালা সংস্কৃতিতে প্রচলিত"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2104",
+  "idiom": "কারে পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কার (কারো) কারণে বা কোনো পরিস্থিতিতে পড়া (to fall into whose situation or trap)",
+  "figurative_meaning_bn": "ঝামেলা/ফ্যাসাদ/সঙ্কটে পড়া",
+  "figurative_meaning_en": "To get into trouble, difficulty, or crisis",
+  "similar_in_english": [
+    "In hot water",
+    "In a pickle",
+    "Between a rock and a hard place"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকের এই ঘটনায় কারে পড়া গেল আমরা!",
+    "ব্যবসায় শুরু করার পর থেকে কারে পড়া হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "What trouble have we gotten into with today's incident!",
+    "Ever since starting the business, we've been in deep trouble."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "informal speech",
+    "expressing distress"
+  ],
+  "tags": [
+    "trouble",
+    "difficulty",
+    "proverb",
+    "exclamation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The associated proverb 'কারে পড়ে গঙ্গাস্নান' references the idea that even a pious act like bathing in the holy Ganges can lead to unforeseen troubles, rooted in Bengali folk wisdom."
+  ],
+  "note": "Often used exclamatorily to express sudden entanglement in problems; ties to cultural proverbs involving religious rituals."
+}

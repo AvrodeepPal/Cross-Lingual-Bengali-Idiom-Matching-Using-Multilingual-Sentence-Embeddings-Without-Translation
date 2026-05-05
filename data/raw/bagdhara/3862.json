@@ -1,0 +1,38 @@
+{
+  "id": "3862",
+  "idiom": "চার্জ",
+  "alternative_idioms": [],
+  "literal_meaning": "চার্জ (ইংরেজি শব্দের বাংলা রূপান্তর, অর্থাৎ মূল্য বা ফি)",
+  "figurative_meaning_bn": "মাশুল",
+  "figurative_meaning_en": "toll or fee",
+  "similar_in_english": [
+    "service charge",
+    "entry fee"
+  ],
+  "example_sentences_in_bangla": [
+    "হোটেলে থাকার জন্য চার্জ অনেক বেশি।",
+    "পার্কে প্রবেশের চার্জ দিতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "The charge for staying at the hotel is very high.",
+    "You have to pay the entry charge to the park."
+  ],
+  "usage_domain": [
+    "finance",
+    "business",
+    "travel"
+  ],
+  "tags": [
+    "loanword",
+    "modern",
+    "practical"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "city",
+  "history": [],
+  "note": "This appears to be a direct loanword from English rather than a traditional figurative idiom."
+}

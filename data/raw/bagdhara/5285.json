@@ -1,0 +1,41 @@
+{
+  "id": "5285",
+  "idiom": "ঢেঁড়া পেটা",
+  "alternative_idioms": [
+    "ঢেঁড়া পেটানো"
+  ],
+  "literal_meaning": "ঢেঁড়া বাদ্যযন্ত্র বাজানো",
+  "figurative_meaning_bn": "কোন জ্ঞাতব্য বিষয় ঘোষণা করা; চতুর্দিকে রাষ্ট্র করা",
+  "figurative_meaning_en": "To announce or proclaim a noteworthy matter publicly",
+  "similar_in_english": [
+    "Beat the drum",
+    "Sound the trumpet"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার সফলতার খবর চতুর্দিকে ঢেঁড়া পেটা করল।",
+    "গ্রামে নতুন মেলার ঘোষণা ঢেঁড়া পেটানো হল।"
+  ],
+  "example_sentences_in_english": [
+    "He beat the drum about his success news everywhere.",
+    "The announcement of the new fair was proclaimed by beating the drum in the village."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Public announcements"
+  ],
+  "tags": [
+    "Proclamation",
+    "Publicity",
+    "Announcement"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "In traditional Bengali villages, drums like ḍhẽṛā were used to make public announcements for events, gatherings, or news, reflecting pre-modern communication methods."
+  ],
+  "note": "The idiom draws from rural practices where beating a drum signaled important community information."
+}

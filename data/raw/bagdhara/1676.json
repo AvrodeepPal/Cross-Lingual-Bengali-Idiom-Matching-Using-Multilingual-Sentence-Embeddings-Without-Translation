@@ -1,0 +1,39 @@
+{
+  "id": "1676",
+  "idiom": "কলা হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কলা হয়ে যাওয়া (শাব্দিকভাবে কলার মতো পরিপক্ক বা অকেজো হওয়া)",
+  "figurative_meaning_bn": "কিছুই না হওয়া",
+  "figurative_meaning_en": "to amount to nothing or be of no use",
+  "similar_in_english": [
+    "go to waste",
+    "be in vain",
+    "amount to zilch"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার এই পরামর্শে আমার কলা হবে।",
+    "এত খাটুনির পরও প্রজেক্টটা কলা হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Your advice will amount to nothing for me.",
+    "After all that hard work, the project went to waste."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "informal speech"
+  ],
+  "tags": [
+    "futility",
+    "waste",
+    "uselessness",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the idea of a banana ripening and becoming overripe or useless, common in agricultural contexts."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "8031",
+  "idiom": "ভাতাসি",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাতে অরুচি",
+  "figurative_meaning_bn": "অতিভোজনে ভাতে অরুচি",
+  "figurative_meaning_en": "loss of relish for rice due to overeating",
+  "similar_in_english": [
+    "too much of a good thing",
+    "sick and tired of"
+  ],
+  "example_sentences_in_bangla": [
+    "অতিরিক্ত খাওয়ার পর তার ভাতাসি হয়ে গেছে।",
+    "দিনরাত একই খাবার খেয়ে সে ভাতাসি অনুভব করছে।"
+  ],
+  "example_sentences_in_english": [
+    "After overeating, he has developed a distaste for rice.",
+    "Eating the same food day and night, she feels a revulsion towards rice."
+  ],
+  "usage_domain": [
+    "food",
+    "daily life",
+    "emotions"
+  ],
+  "tags": [
+    "excess",
+    "disgust",
+    "satiety"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the staple role of rice in Bengali cuisine and the cultural emphasis on moderation in eating."
+}

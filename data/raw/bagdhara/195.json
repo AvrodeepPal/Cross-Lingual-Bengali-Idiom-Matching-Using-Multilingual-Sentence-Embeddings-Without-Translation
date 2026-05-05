@@ -1,0 +1,42 @@
+{
+  "id": "195",
+  "idiom": "অন্নজল ওঠা",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্নের জল উঠা (ভাত রান্নার সময় জল ফুটে উঠা)",
+  "figurative_meaning_bn": "চাকরি হারানো; জীবিকা অর্জনের উপায় শেষ",
+  "figurative_meaning_en": "Losing one's job; the end of means to earn a livelihood",
+  "similar_in_english": [
+    "Get the sack",
+    "Out of work",
+    "Hit the unemployment line"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কোম্পানি থেকে অন্নজল ওঠা হয়েছে, এখন সে বেকার।",
+    "অর্থনৈতিক মন্দায় অনেকের অন্নজল ওঠার আশঙ্কা।"
+  ],
+  "example_sentences_in_english": [
+    "He lost his job at the company and is now unemployed.",
+    "In the economic downturn, many fear losing their means of livelihood."
+  ],
+  "usage_domain": [
+    "Employment",
+    "Economy",
+    "Daily life"
+  ],
+  "tags": [
+    "Job loss",
+    "Livelihood",
+    "Unemployment",
+    "Figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "এই প্রবাদটি বাঙালি গ্রামীণ জীবনের ভাত রান্নার সাথে যুক্ত, যেখানে জল ফুটে উঠলে খাবার নষ্ট হয়ে যায়, যা জীবিকা হারানোর প্রতীক।"
+  ],
+  "note": "এটি বাঙালি সংস্কৃতিতে খাদ্য নিরাপত্তা ও পরিশ্রমের গুরুত্ব তুলে ধরে।"
+}

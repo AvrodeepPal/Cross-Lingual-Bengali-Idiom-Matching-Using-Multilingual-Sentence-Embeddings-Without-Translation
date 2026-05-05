@@ -1,0 +1,41 @@
+{
+  "id": "10",
+  "idiom": "অকাল-অপক্ব",
+  "alternative_idioms": [],
+  "literal_meaning": "অকাল (অসময়ে) + অপক্ব (অপরিপক্ক বা অপক্ব)",
+  "figurative_meaning_bn": "বোকা; বয়সোচিত ব্যবহার বা বুদ্ধির অভাব",
+  "figurative_meaning_en": "Foolish; lack of age-appropriate behavior or intelligence",
+  "similar_in_english": [
+    "immature for one's age",
+    "foolish beyond maturity"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বয়সের জন্য অকাল-অপক্ব ব্যবহার করে।",
+    "এই অকাল-অপক্ব সিদ্ধান্ত নেওয়া উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He behaves in an untimely immature manner for his age.",
+    "Making such an untimely immature decision is unwise."
+  ],
+  "usage_domain": [
+    "literature",
+    "everyday conversation",
+    "character description"
+  ],
+  "tags": [
+    "maturity",
+    "foolishness",
+    "literary",
+    "behavior"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই বাগধারা রবীন্দ্রনাথ ঠাকুরের লেখায় উল্লেখিত, যেখানে বলা হয়েছে: 'হয় সে অকালপক্ব; নয় সে অকাল-অপক্ব'।"
+  ],
+  "note": "সাধারণত সাহিত্যিক প্রসঙ্গে ব্যবহৃত, দৈনন্দিন কথাবার্তায় কম দেখা যায়।"
+}

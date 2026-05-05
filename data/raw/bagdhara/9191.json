@@ -1,0 +1,42 @@
+{
+  "id": "9191",
+  "idiom": "র‍্যালি",
+  "alternative_idioms": [],
+  "literal_meaning": "সমাবেশ বা জমায়েত (rally as a gathering)",
+  "figurative_meaning_bn": "জনসমাবেশ",
+  "figurative_meaning_en": "Public gathering or mass assembly",
+  "similar_in_english": [
+    "Rally",
+    "Demonstration",
+    "Protest march"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ ময়দানে র‍্যালি আছে।",
+    "শহরের রাস্তায় বড় র‍্যালি হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's a rally in the maidan today.",
+    "A large rally is taking place on the city streets."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Social movements",
+    "Public events"
+  ],
+  "tags": [
+    "gathering",
+    "protest",
+    "assembly",
+    "loanword"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Borrowed from English 'rally', commonly used in Bengali contexts for political and social gatherings since the 20th century, especially during independence movements and modern protests."
+  ],
+  "note": "This is a direct loanword rather than a traditional idiomatic expression, but used idiomatically in Bengali for public assemblies."
+}

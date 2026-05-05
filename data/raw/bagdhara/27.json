@@ -1,0 +1,38 @@
+{
+  "id": "27",
+  "idiom": "অকূলের ভেলা",
+  "alternative_idioms": [],
+  "literal_meaning": "কূলবিহীন সমুদ্রের ভেলা",
+  "figurative_meaning_bn": "একান্ত নিরুপায় অবস্থার শেষ অবলম্বন",
+  "figurative_meaning_en": "The last resort in a completely helpless situation",
+  "similar_in_english": [
+    "Clutching at straws",
+    "Last ditch effort"
+  ],
+  "example_sentences_in_bangla": [
+    "আর্থিক সংকটে পড়ে সে অকূলের ভেলার মতো তার শেষ আশ্রয় খুঁজছে।",
+    "বিপদে পড়ে তার কোনো উপায় নেই, সে অকূলের ভেলার মতো দোয়েলা।"
+  ],
+  "example_sentences_in_english": [
+    "In financial crisis, he is searching for his last refuge like a raft in the shoreless sea.",
+    "In danger, he has no way out; he is like a raft adrift in the open ocean."
+  ],
+  "usage_domain": [
+    "Desperation",
+    "Helplessness",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "নিরুপায়তা",
+    "শেষ আশ্রয়",
+    "নৌকামূলক রূপক"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from nautical imagery common in Bengali folklore, symbolizing vulnerability at sea."
+}

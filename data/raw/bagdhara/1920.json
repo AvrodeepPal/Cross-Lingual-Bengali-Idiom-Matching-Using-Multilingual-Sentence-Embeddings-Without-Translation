@@ -1,0 +1,38 @@
+{
+  "id": "1920",
+  "idiom": "কাটাকাটা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাটা-কাটা (ছেদন করা অংশগুলোর মতো আলাদা আলাদা)",
+  "figurative_meaning_bn": "ছাড়াছাড়া, স্পষ্ট স্পষ্ট",
+  "figurative_meaning_en": "clear and distinct, without gaps or ambiguity",
+  "similar_in_english": [
+    "clear-cut",
+    "black and white"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথা কাটাকাটা, কোনো অস্পষ্টতা নেই।",
+    "বইটির অক্ষরগুলো কাটাকাটা করে লেখা।"
+  ],
+  "example_sentences_in_english": [
+    "His words were clear-cut, with no ambiguity.",
+    "The letters in the book are printed distinctly."
+  ],
+  "usage_domain": [
+    "conversation",
+    "writing",
+    "description"
+  ],
+  "tags": [
+    "clarity",
+    "speech",
+    "precision"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to clarity in expression, often used in everyday Bengali speech."
+}

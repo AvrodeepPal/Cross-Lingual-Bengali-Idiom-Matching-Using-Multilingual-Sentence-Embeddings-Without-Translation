@@ -1,0 +1,38 @@
+{
+  "id": "6156",
+  "idiom": "নগদ বিদায়",
+  "alternative_idioms": [],
+  "literal_meaning": "নগদ (তাৎক্ষণিক বা নগদ) বিদায় (বিদায় বা সমাপ্তি)",
+  "figurative_meaning_bn": "কাজ শেষ হওয়ামাত্র মূল্যপ্রদান",
+  "figurative_meaning_en": "Immediate payment upon completion of work",
+  "similar_in_english": [
+    "Pay on the nail",
+    "Cash on delivery"
+  ],
+  "example_sentences_in_bangla": [
+    "কাজ শেষ হলে তাকে নগদ বিদায় দিয়ে দিলাম।",
+    "দোকানদার নগদ বিদায় চায়, কোনো ঋণ-স্বীকারপত্র নেবে না।"
+  ],
+  "example_sentences_in_english": [
+    "I gave him a cash farewell as soon as the job was done.",
+    "The shopkeeper wants immediate payment, no credit."
+  ],
+  "usage_domain": [
+    "Business",
+    "Finance",
+    "Everyday transactions"
+  ],
+  "tags": [
+    "Payment",
+    "Work completion",
+    "Immediate settlement"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a straightforward commercial practice in Bengali culture"
+}

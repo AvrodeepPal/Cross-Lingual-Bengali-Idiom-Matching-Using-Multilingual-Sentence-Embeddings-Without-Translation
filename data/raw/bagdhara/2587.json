@@ -1,0 +1,38 @@
+{
+  "id": "2587",
+  "idiom": "খাতা খোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "খাতা খোলা (notebook or ledger opening)",
+  "figurative_meaning_bn": "কিছুর প্রাপ্তি শুরু; ব্যবসায়সংক্রন্ত হিসাব শুরু করা",
+  "figurative_meaning_en": "Starting to receive something; beginning business-related accounting",
+  "similar_in_english": [
+    "Open the books",
+    "Open for business"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ থেকে আমাদের দোকানের খাতা খোলা হলো।",
+    "ব্যবসা শুরুর সাথে সাথে খাতা খুলে হিসাব রাখতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "Today, we opened the ledger for our shop.",
+    "As soon as the business starts, we need to open the books and keep accounts."
+  ],
+  "usage_domain": [
+    "Business",
+    "Commerce",
+    "Daily life"
+  ],
+  "tags": [
+    "accounting",
+    "starting business",
+    "ledger"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali mercantile practices of maintaining ledgers for trade and profits."
+}

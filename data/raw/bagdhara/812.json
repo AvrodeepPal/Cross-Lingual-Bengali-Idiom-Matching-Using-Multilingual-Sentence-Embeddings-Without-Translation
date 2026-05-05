@@ -1,0 +1,37 @@
+{
+  "id": "812",
+  "idiom": "উনিশ-বিশ",
+  "alternative_idioms": [],
+  "literal_meaning": "উনিশের উপর এক যোগ করে বিশ হওয়া",
+  "figurative_meaning_bn": "বিপুলভারের উপর অতিরিক্ত সামান্যভার কিছুই মনে হয় না",
+  "figurative_meaning_en": "An additional small burden on a huge load feels negligible",
+  "similar_in_english": [
+    "One more doesn't make a difference",
+    "A drop in the ocean"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কাজের চাপ তো ইতিমধ্যে উনিশ-বিশ, আর একটা করে কী আর হবে?",
+    "পরীক্ষার প্রস্তুতিতে সে উনিশ-বিশ অবস্থায়, অতিরিক্ত একটা অধ্যায় পড়লে কোনো ফারাক পড়বে না।"
+  ],
+  "example_sentences_in_english": [
+    "His workload is already overwhelming like nineteen-twenty; one more task won't make a difference.",
+    "She's buried under studies to the point of nineteen-twenty; reading one extra chapter won't change much."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Work and burden contexts"
+  ],
+  "tags": [
+    "burden",
+    "negligible addition",
+    "overload"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the idea of adding one unit to a large quantity, common in rural weighing or counting practices."
+}

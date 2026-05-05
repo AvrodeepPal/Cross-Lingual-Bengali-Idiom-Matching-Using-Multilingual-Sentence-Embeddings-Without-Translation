@@ -1,0 +1,42 @@
+{
+  "id": "4834",
+  "idiom": "ঝুলাঝুলি",
+  "alternative_idioms": [
+    "ঝুলোঝুলি"
+  ],
+  "literal_meaning": "ঝুলা-ঝুলির অনুকরণমূলক শব্দ (হেলানো বা আঁকড়ে ধরার ভঙ্গি)",
+  "figurative_meaning_bn": "অনুগ্রহ লাভের জন্য সনির্বন্ধ অনুরোধ; জেদাজেদি; পীড়াপীড়ি",
+  "figurative_meaning_en": "Persistent pleading or begging for a favor; nagging or stubborn insistence",
+  "similar_in_english": [
+    "Pestering someone",
+    "Nagging relentlessly",
+    "Begging on one's knees"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ঝুলাঝুলি করে আমার কাছে টাকা চাইলো।",
+    "বাচ্চাটা খাবারের জন্য ঝুলাঝুলি করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He kept pestering me for money with persistent pleas.",
+    "The child is nagging for food insistently."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "family interactions",
+    "everyday persuasion"
+  ],
+  "tags": [
+    "pleading",
+    "insistence",
+    "nagging",
+    "reduplicative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "সহচরশব্দ হিসেবে ব্যবহৃত; সমার্থক: ধরাধরি, পীড়াপীড়ি"
+}

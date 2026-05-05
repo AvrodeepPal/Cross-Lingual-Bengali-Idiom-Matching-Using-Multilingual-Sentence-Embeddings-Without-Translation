@@ -1,0 +1,43 @@
+{
+  "id": "1294",
+  "idiom": "ক বলতে হ বলে",
+  "alternative_idioms": [
+    "আকাট মূর্খ",
+    "ক অক্ষর গোমাংস",
+    "গণ্ডমূর্খ",
+    "হস্তীমূর্খ"
+  ],
+  "literal_meaning": "ক বলতে হ বলে (saying 'K' but pronouncing it as 'H')",
+  "figurative_meaning_bn": "অক্ষর পরিচয় জানে না, এমন মহামূর্খ ব্যক্তি",
+  "figurative_meaning_en": "A complete fool who doesn't even recognize the alphabet",
+  "similar_in_english": [
+    "Doesn't know A from B",
+    "As thick as a brick"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এতটাই অজ্ঞ যে ক বলতে হ বলে।",
+    "এই কাজটা ক বলতে হ বলে মানুষের পক্ষে করা অসম্ভব।"
+  ],
+  "example_sentences_in_english": [
+    "He is so ignorant that he says 'H' for 'K'.",
+    "This task is impossible for someone who confuses 'K' with 'H'."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insult",
+    "everyday conversation"
+  ],
+  "tags": [
+    "foolishness",
+    "illiteracy",
+    "stupidity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to basic literacy levels in traditional Bengali society"
+}

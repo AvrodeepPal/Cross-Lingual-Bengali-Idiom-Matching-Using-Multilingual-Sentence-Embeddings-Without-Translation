@@ -1,0 +1,42 @@
+{
+  "id": "3441",
+  "idiom": "ঘরভেদে রাবণ নষ্ট",
+  "alternative_idioms": [
+    "ঘরসন্ধানে রাবণ নষ্ট"
+  ],
+  "literal_meaning": "ঘরে প্রবেশকারী বা অনুপ্রবেশকারীর কারণে রাবণের ধ্বংস",
+  "figurative_meaning_bn": "গৃহশত্রুই সংসার নষ্ট করে",
+  "figurative_meaning_en": "The enemy within the household destroys the family",
+  "similar_in_english": [
+    "The enemy within",
+    "A house divided against itself cannot stand"
+  ],
+  "example_sentences_in_bangla": [
+    "পরিবারের মধ্যে বিশ্বাসঘাতকতা থাকলে সবকিছু নষ্ট হয়ে যায়, ঘরভেদে রাবণ নষ্ট।",
+    "কোম্পানির অভ্যন্তরীণ ষড়যন্ত্রের কারণে ব্যবসা ধ্বংস হয়েছে, ঘরভেদে রাবণ নষ্ট বলে তো।"
+  ],
+  "example_sentences_in_english": [
+    "If there's betrayal within the family, everything falls apart—the enemy within destroys like Ravana in the house.",
+    "The company's downfall was due to internal sabotage; as they say, the enemy within ruins the household."
+  ],
+  "usage_domain": [
+    "family",
+    "society",
+    "politics"
+  ],
+  "tags": [
+    "warning",
+    "internal threat",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the Ramayana epic, where Ravana, the demon king of Lanka, represents immense power but ultimate downfall, often interpreted as due to internal flaws or invasions symbolizing household betrayals in Bengali folklore."
+  ],
+  "note": "The variant 'ঘরসন্ধানে রাবণ নষ্ট' emphasizes thorough investigation to uncover hidden threats within the home."
+}

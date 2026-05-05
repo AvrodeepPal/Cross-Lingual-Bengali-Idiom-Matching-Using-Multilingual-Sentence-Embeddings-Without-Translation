@@ -1,0 +1,39 @@
+{
+  "id": "10130",
+  "idiom": "হাত তোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত তোলা (hand raising, as in supplication or surrender)",
+  "figurative_meaning_bn": "পরের অনুগ্রহের উপর নির্ভরশীল",
+  "figurative_meaning_en": "Dependent on the mercy or favor of others",
+  "similar_in_english": [
+    "At the mercy of others",
+    "Living hand to mouth"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরিবারের সবাইকে হাত তোলা অবস্থায় রেখেছে।",
+    "দারিদ্র্যের কারণে তারা হাত তোলা জীবন যাপন করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has left his family in a state of dependency on others.",
+    "Due to poverty, they are living at the mercy of others."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Social commentary"
+  ],
+  "tags": [
+    "dependence",
+    "poverty",
+    "humility",
+    "surrender"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom evokes imagery of begging or pleading, common in Bengali folklore depicting rural hardship."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1099",
+  "idiom": "একলপ্ত",
+  "alternative_idioms": [],
+  "literal_meaning": "এক লপ্ত (একটি অবিভক্ত অংশ বা লোট)",
+  "figurative_meaning_bn": "অখণ্ড; ভাগাভাগি নয়; লাগালাগি",
+  "figurative_meaning_en": "Unbroken; not divided into parts; continuous",
+  "similar_in_english": [
+    "in one go",
+    "all at once",
+    "in one fell swoop"
+  ],
+  "example_sentences_in_bangla": [
+    "শুরুতেই মাসের বেতন একলপ্তে দেওয়া হবে।",
+    "কাজটি একলপ্তে শেষ করতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "The salary will be paid in one lump sum from the beginning.",
+    "The work has to be completed in one continuous stretch."
+  ],
+  "usage_domain": [
+    "everyday language",
+    "finance",
+    "work"
+  ],
+  "tags": [
+    "continuity",
+    "undivided",
+    "wholeness"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes indivisibility, often used in contexts of payment or tasks."
+}

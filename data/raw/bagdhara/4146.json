@@ -1,0 +1,42 @@
+{
+  "id": "4146",
+  "idiom": "চোটপাট করা",
+  "alternative_idioms": [
+    "বকাঝকা করা"
+  ],
+  "literal_meaning": "চোট দেওয়া এবং পাট দেওয়া (আঘাত করা এবং তারপর সান্ত্বনা দেওয়া)",
+  "figurative_meaning_bn": "ক্রোধ প্রকাশ করা; তিরস্কার করা, ধমকানো, রাগ দেখানো",
+  "figurative_meaning_en": "To express anger; to scold, reprimand, or show rage",
+  "similar_in_english": [
+    "give someone a piece of one's mind",
+    "chew someone out",
+    "read the riot act"
+  ],
+  "example_sentences_in_bangla": [
+    "বাগে পেয়ে আমার ওপর খুব চোটপাট করলো।",
+    "সে তার ভাইকে চোটপাট করে শিক্ষা দিল।"
+  ],
+  "example_sentences_in_english": [
+    "Having caught me red-handed, he scolded me harshly.",
+    "She reprimanded her brother with a burst of anger."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "family interactions",
+    "emotional expression"
+  ],
+  "tags": [
+    "anger",
+    "scolding",
+    "reprimand",
+    "verbal outburst"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali verbal dynamics in expressing frustration."
+}

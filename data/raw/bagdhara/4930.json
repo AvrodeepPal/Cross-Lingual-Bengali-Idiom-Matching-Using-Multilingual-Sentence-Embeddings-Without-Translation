@@ -1,0 +1,38 @@
+{
+  "id": "4930",
+  "idiom": "টায়ে টায়ে মিলিয়ে দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "টুকরো টুকরো করে মিলিয়ে বা গোঁজামিল করে দেওয়া",
+  "figurative_meaning_bn": "যেমন তেমন করে গোঁজামিল দেওয়া",
+  "figurative_meaning_en": "To reconcile or settle matters in a makeshift or approximate manner",
+  "similar_in_english": [
+    "patch things up",
+    "cobble together"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই পক্ষের মধ্যে টায়ে টায়ে মিলিয়ে দেওয়া হয়েছে বিরোধটা।",
+    "তারা টায়ে টায়ে মিলিয়ে দিল হিসাবের ব্যাপারটা।"
+  ],
+  "example_sentences_in_english": [
+    "The dispute between the two parties was settled in a makeshift way.",
+    "They roughly reconciled the accounts by patching them together."
+  ],
+  "usage_domain": [
+    "daily life",
+    "conflict resolution",
+    "informal settlements"
+  ],
+  "tags": [
+    "reconciliation",
+    "approximation",
+    "folksy expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday pragmatic problem-solving in Bengali culture."
+}

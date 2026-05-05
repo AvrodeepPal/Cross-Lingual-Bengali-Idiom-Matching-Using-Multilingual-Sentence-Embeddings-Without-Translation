@@ -1,0 +1,41 @@
+{
+  "id": "8606",
+  "idiom": "মারামারি কাটাকাটি",
+  "alternative_idioms": [],
+  "literal_meaning": "আঘাতহানি এবং কাটাছেদন (beating and cutting)",
+  "figurative_meaning_bn": "খুনোখুনি, হানাহানি",
+  "figurative_meaning_en": "mutual enmity and constant fighting",
+  "similar_in_english": [
+    "at each other's throats",
+    "blood feud"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই পরিবারের মধ্যে মারামারি কাটাকাটি চলছে বছরের পর বছর।",
+    "জাতিগত বিবাদে মারামারি কাটাকাটি লেগে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "There has been constant fighting and enmity between the two families for years.",
+    "Caste disputes have led to ongoing mutual hostilities."
+  ],
+  "usage_domain": [
+    "social conflicts",
+    "family disputes",
+    "communal tensions"
+  ],
+  "tags": [
+    "violence",
+    "enmity",
+    "rivalry",
+    "feud"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to longstanding inter-caste conflicts in Bengali society from ancient times."
+  ],
+  "note": "The idiom captures the essence of perpetual rivalries often seen in rural or communal settings."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3938",
+  "idiom": "চিমড়ে",
+  "alternative_idioms": [
+    "চিমড়া"
+  ],
+  "literal_meaning": "শাব্দিকভাবে এক ধরনের দুষ্টু বা অবাধ্য ব্যক্তি বোঝায়, যা সম্ভবত লতা বা চামড়ার মতো আচরণ থেকে উদ্ভূত",
+  "figurative_meaning_bn": "অবাধ্য; একগুঁয়ে",
+  "figurative_meaning_en": "disobedient; stubborn",
+  "similar_in_english": [
+    "stubborn as a mule",
+    "headstrong"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা চিমড়ে ছেলে, কিছুতেই কথা শোনে না।",
+    "চিমড়ে স্বভাবের কারণে তার বন্ধুরা তার সঙ্গে ঝগড়া করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a stubborn boy who never listens to anyone.",
+    "Due to his headstrong nature, he often quarrels with his friends."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "personality description",
+    "family conversations"
+  ],
+  "tags": [
+    "negative trait",
+    "child behavior",
+    "stubbornness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি বাংলা লোকভাষায় প্রচলিত, বিশেষ করে গ্রামীণ এলাকায় ব্যবহৃত হয় অবাধ্যতা বর্ণনায়"
+}

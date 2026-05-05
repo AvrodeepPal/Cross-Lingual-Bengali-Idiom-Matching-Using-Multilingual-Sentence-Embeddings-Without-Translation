@@ -1,0 +1,40 @@
+{
+  "id": "5461",
+  "idiom": "তুঙ্গে বৃহস্পতি",
+  "alternative_idioms": [],
+  "literal_meaning": "শীর্ষে বা উচ্চতায় বৃহস্পতি (Jupiter at the peak)",
+  "figurative_meaning_bn": "মহাসৌভাগ্য",
+  "figurative_meaning_en": "Great fortune or extreme luck",
+  "similar_in_english": [
+    "Under a lucky star",
+    "Lady Luck is smiling on you"
+  ],
+  "example_sentences_in_bangla": [
+    "তার তুঙ্গে বৃহস্পতি, লটারিতে জিতে গেল।",
+    "এই বছর তোমার তুঙ্গে বৃহস্পতি, সব শুভ কাজ হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He has Jupiter at its peak; he won the lottery.",
+    "This year, your Jupiter is high; everything will turn out auspicious."
+  ],
+  "usage_domain": [
+    "fortune",
+    "luck",
+    "astrology"
+  ],
+  "tags": [
+    "positive",
+    "astrological",
+    "figurative"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Hindu astrology, where Brihaspati (Jupiter) symbolizes wisdom, prosperity, and good fortune; the idiom implies one's planetary luck is at its zenith."
+  ],
+  "note": "References the benevolent influence of the planet Jupiter in traditional Bengali astrological beliefs."
+}

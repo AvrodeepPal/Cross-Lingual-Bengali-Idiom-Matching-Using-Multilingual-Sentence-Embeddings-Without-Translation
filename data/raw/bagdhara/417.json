@@ -1,0 +1,39 @@
+{
+  "id": "417",
+  "idiom": "আঙুর ফল টক",
+  "alternative_idioms": [],
+  "literal_meaning": "আঙুরের ফল টক",
+  "figurative_meaning_bn": "অলভ্য জিনিস মন্দ",
+  "figurative_meaning_en": "Something unattainable is dismissed as undesirable",
+  "similar_in_english": [
+    "Sour grapes"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পুরস্কার জিততে পারেনি বলে বলল, আঙুর ফল টক।",
+    "চাকরিটা না পেয়ে সে বলল, আঙুর ফল টক, এটা তো ভালো ছিল নাই।"
+  ],
+  "example_sentences_in_english": [
+    "He couldn't win the prize, so he said, 'Sour grapes.'",
+    "Not getting the job, he remarked, 'Sour grapes; it wasn't that great anyway.'"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Psychology",
+    "Criticism"
+  ],
+  "tags": [
+    "disappointment",
+    "rationalization",
+    "fable-derived"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Aesop's fable 'The Fox and the Grapes', where a fox dismisses unreachable grapes as sour."
+  ],
+  "note": "This idiom reflects a common human tendency to devalue what one cannot have, widely used in Bengali literature and speech."
+}

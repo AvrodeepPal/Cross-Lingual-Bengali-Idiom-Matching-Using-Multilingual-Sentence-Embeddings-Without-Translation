@@ -1,0 +1,41 @@
+{
+  "id": "499",
+  "idiom": "আথালিপাথালি",
+  "alternative_idioms": [
+    "আথালপাথাল"
+  ],
+  "literal_meaning": "এদিক-ওদিক ছড়ানো বা ব্যস্ততার শব্দানুকরণ",
+  "figurative_meaning_bn": "ব্যাকুল ও ব্যস্ত হয়ে এদিক-ওদিক চাইতে চাইতে; চারদিকে; যেখানে-সেখানে সর্বত্র",
+  "figurative_meaning_en": "Anxiously and busily looking here and there; everywhere; all around, wherever",
+  "similar_in_english": [
+    "Here, there, and everywhere",
+    "High and low",
+    "Running around in circles"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আথালিপাথালি করে বইটি খুঁজছে।",
+    "বাজারে আথালিপাথালি করে কেনাকাটা করছিলাম।"
+  ],
+  "example_sentences_in_english": [
+    "He is searching here and there for the book.",
+    "I was shopping everywhere in the market."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Search and anxiety contexts"
+  ],
+  "tags": [
+    "search",
+    "anxiety",
+    "everywhere",
+    "busyness"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression depicting frantic movement"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8008",
+  "idiom": "ভাঙাঘরে ভূতের বাসা",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাঙা ঘরে ভূতের বাসস্থান",
+  "figurative_meaning_bn": "সংসারে অপদার্থের সংখ্যাধিক্য",
+  "figurative_meaning_en": "A household overrun by worthless or incompetent members",
+  "similar_in_english": [
+    "A madhouse",
+    "A den of idlers"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সংসারে সবাই অলস, পুরো ভাঙাঘরে ভূতের বাসা।",
+    "এই পরিবারে কাজকর্ম করে না কেউ, ভাঙাঘরে ভূতের বাসা বললেই হয়।"
+  ],
+  "example_sentences_in_english": [
+    "His family is full of lazy people; it's like a ghost's dwelling in a ruined house.",
+    "No one works in that household; it's truly a ghost's abode in a broken home."
+  ],
+  "usage_domain": [
+    "Family",
+    "Society",
+    "Daily life"
+  ],
+  "tags": [
+    "dysfunctional family",
+    "laziness",
+    "folklore",
+    "negative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from Bengali folklore where ruined houses are believed to be haunted by ghosts, symbolizing neglect and uselessness."
+}

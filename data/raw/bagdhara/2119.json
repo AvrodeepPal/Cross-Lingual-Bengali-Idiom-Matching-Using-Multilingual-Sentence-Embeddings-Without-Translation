@@ -1,0 +1,39 @@
+{
+  "id": "2119",
+  "idiom": "কালপেঁচা",
+  "alternative_idioms": [],
+  "literal_meaning": "কালো পেঁচা (black kite or hawk)",
+  "figurative_meaning_bn": "অত্যন্ত অশুভকর বা কালো ও কদাকার ব্যক্তি",
+  "figurative_meaning_en": "An extremely inauspicious person or someone dark and ugly in appearance",
+  "similar_in_english": [
+    "bad omen",
+    "ill-fated figure"
+  ],
+  "example_sentences_in_bangla": [
+    "ও কালপেঁচা দেখলে আমার মন খারাপ হয়ে যায়।",
+    "গ্রামে সেই কালপেঁচা-সদৃশ লোকের কথা শুনে সবাই দূরে সরে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "Seeing him feels like encountering a bad omen.",
+    "In the village, everyone avoids that ill-fated figure like the plague."
+  ],
+  "usage_domain": [
+    "superstition",
+    "daily conversation",
+    "folklore"
+  ],
+  "tags": [
+    "negative",
+    "omen",
+    "appearance",
+    "superstition"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from Bengali rural beliefs where black birds symbolize misfortune."
+}

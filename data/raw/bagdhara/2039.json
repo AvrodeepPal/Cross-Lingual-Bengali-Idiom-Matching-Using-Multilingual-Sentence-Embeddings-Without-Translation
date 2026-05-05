@@ -1,0 +1,39 @@
+{
+  "id": "2039",
+  "idiom": "কানে আসা",
+  "alternative_idioms": [
+    "কানে ওঠা"
+  ],
+  "literal_meaning": "coming/rising to the ear",
+  "figurative_meaning_bn": "শুনতে পাওয়া; শুনা",
+  "figurative_meaning_en": "to hear; to come to one's ears",
+  "similar_in_english": [
+    "come to one's ears",
+    "reach one's ears"
+  ],
+  "example_sentences_in_bangla": [
+    "একথা যেন আমার কানে আর না আসে।",
+    "গ্রামের খবর আমার কানে এসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Let this not come to my ears again.",
+    "I've heard the village news."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "warnings"
+  ],
+  "tags": [
+    "hearing",
+    "perception",
+    "communication"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday auditory perception in Bengali speech patterns."
+}

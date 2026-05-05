@@ -1,0 +1,40 @@
+{
+  "id": "919",
+  "idiom": "এক-এক",
+  "alternative_idioms": [
+    "একেক"
+  ],
+  "literal_meaning": "এক এক (one one)",
+  "figurative_meaning_bn": "পরপর, পর্যায়ক্রম অর্থে দ্বিত্বশব্দ",
+  "figurative_meaning_en": "one after another, in sequence or successively",
+  "similar_in_english": [
+    "one by one",
+    "one after the other"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা এক-এক করে সবাই এসে উপস্থিত হলো।",
+    "বইগুলো এক-এক করে পড়তে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "They arrived one by one at the event.",
+    "The books must be read one by one."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "narrative",
+    "instructional"
+  ],
+  "tags": [
+    "reduplication",
+    "sequence",
+    "dvandva compound"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a common reduplicative form in Bengali for expressing succession; synonymous with 'একে একে'."
+}

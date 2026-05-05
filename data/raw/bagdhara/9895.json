@@ -1,0 +1,37 @@
+{
+  "id": "9895",
+  "idiom": "হচ্ছে হবে",
+  "alternative_idioms": [],
+  "literal_meaning": "হচ্ছে (is happening) হবে (will happen)",
+  "figurative_meaning_bn": "দীর্ঘসূত্রতা",
+  "figurative_meaning_en": "prolixity or excessive verbosity",
+  "similar_in_english": [
+    "beating around the bush",
+    "going on at length"
+  ],
+  "example_sentences_in_bangla": [
+    "সে প্রশ্নের উত্তর দিতে গিয়ে হচ্ছে হবে করে সময় নষ্ট করছে।",
+    "বৈঠকে সকলে হচ্ছে হবে বলে কথা টেনে নিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is wasting time by going on with 'it's happening, it will be' instead of answering the question directly.",
+    "In the meeting, everyone dragged the discussion by saying 'it's in process, it will happen.'"
+  ],
+  "usage_domain": [
+    "conversation",
+    "rhetoric"
+  ],
+  "tags": [
+    "verbosity",
+    "delay",
+    "procrastination"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to drawn-out speech or actions without resolution, common in Bengali oral traditions."
+}

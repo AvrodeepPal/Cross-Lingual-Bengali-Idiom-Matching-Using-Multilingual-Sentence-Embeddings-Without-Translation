@@ -1,0 +1,41 @@
+{
+  "id": "2439",
+  "idiom": "ক্লীব",
+  "alternative_idioms": [],
+  "literal_meaning": "নপুংসক বা খোয়াই পুরুষ",
+  "figurative_meaning_bn": "কাপুরুষ, ব্যক্তিত্বহীন পুরুষ; পুরুষত্বহীন ব্যক্তি",
+  "figurative_meaning_en": "A coward, a man lacking personality; a person devoid of manhood",
+  "similar_in_english": [
+    "sissy",
+    "wimp",
+    "milksop"
+  ],
+  "example_sentences_in_bangla": [
+    "সে যুদ্ধের সময় ক্লীবের মতো পালিয়ে গেল।",
+    "এই ক্লীব লোকের সঙ্গে কোনো গুরুত্বপূর্ণ কাজ করা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He ran away like a eunuch during the fight.",
+    "You can't trust this spineless man with any important task."
+  ],
+  "usage_domain": [
+    "insult",
+    "character description",
+    "literature"
+  ],
+  "tags": [
+    "cowardice",
+    "masculinity",
+    "derogatory"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term originates from Sanskrit 'klaibya', referring to eunuchs historically employed in royal courts in ancient India."
+  ],
+  "note": "Often used pejoratively to question a man's courage or virility in Bengali discourse."
+}

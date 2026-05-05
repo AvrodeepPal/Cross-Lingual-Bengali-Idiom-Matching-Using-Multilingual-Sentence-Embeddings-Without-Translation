@@ -1,0 +1,39 @@
+{
+  "id": "8990",
+  "idiom": "যোড়হস্ত",
+  "alternative_idioms": [],
+  "literal_meaning": "যোড়া হাত (জোড়া করে ধরা হাত, প্রণামের ভঙ্গি)",
+  "figurative_meaning_bn": "একান্ত অনুগত; অনুগত ভৃত্যের মত বাধ্য",
+  "figurative_meaning_en": "Extremely obedient; bound like a devoted servant",
+  "similar_in_english": [
+    "At one's beck and call",
+    "Lackey-like obedience"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার স্ত্রীর যোড়হস্তে, কখনো প্রশ্ন করে না।",
+    "ভৃত্যটি মালিকের যোড়হস্তে থেকে সব কাজ করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is at his wife's joined hands, never questioning her.",
+    "The servant remains bound in joined hands to his master, doing all tasks."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Relationships",
+    "Workplace"
+  ],
+  "tags": [
+    "obedience",
+    "loyalty",
+    "subservience",
+    "hierarchy"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the cultural gesture of folded hands in supplication, common in hierarchical societies."
+}

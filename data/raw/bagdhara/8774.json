@@ -1,0 +1,40 @@
+{
+  "id": "8774",
+  "idiom": "মুখে জল দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখে জল দেওয়া (giving water to the mouth)",
+  "figurative_meaning_bn": "উপবাস ভঙ্গ করা",
+  "figurative_meaning_en": "to break the fast",
+  "similar_in_english": [
+    "break one's fast"
+  ],
+  "example_sentences_in_bangla": [
+    "রোজার সময় সেহরের পর মুখে জল দিয়ে উপবাস ভঙ্গ করা হয়।",
+    "দীর্ঘ উপবাসের পর তিনি মুখে জল দিয়ে খাবার শুরু করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "During Ramadan, the fast is broken by taking a sip of water at iftar.",
+    "After a long day of fasting, she broke her fast with a mouthful of water."
+  ],
+  "usage_domain": [
+    "religion",
+    "daily rituals",
+    "food and fasting"
+  ],
+  "tags": [
+    "উপবাস",
+    "রোজা",
+    "ভোজন",
+    "ritual"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from Islamic fasting practices (Roza) prevalent in Bengali culture, where breaking the fast begins with water to the mouth after sunset."
+  ],
+  "note": "Commonly used in contexts of religious or voluntary fasting in Bengali-speaking regions."
+}

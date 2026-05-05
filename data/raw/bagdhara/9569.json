@@ -1,0 +1,38 @@
+{
+  "id": "9569",
+  "idiom": "সংসার পাতা",
+  "alternative_idioms": [],
+  "literal_meaning": "সংসার ছড়ানো বা ঘর স্থাপন করা (word-by-word: household spreading)",
+  "figurative_meaning_bn": "পুরুষের বিয়ে করে ঘরকন্না শুরু করা",
+  "figurative_meaning_en": "A man getting married and starting a household",
+  "similar_in_english": [
+    "settling down",
+    "starting a family"
+  ],
+  "example_sentences_in_bangla": [
+    "বৃদ্ধবয়সে তিনি সংসার পাতার জন্য প্রস্তুত হলেন।",
+    "যুবকটি চাকরি পেয়ে সংসার পাততে চায়।"
+  ],
+  "example_sentences_in_english": [
+    "In old age, he prepared to start a household.",
+    "The young man wants to settle down after getting a job."
+  ],
+  "usage_domain": [
+    "family",
+    "marriage",
+    "daily life"
+  ],
+  "tags": [
+    "marriage",
+    "household",
+    "family establishment"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali views on male responsibility in family formation."
+}

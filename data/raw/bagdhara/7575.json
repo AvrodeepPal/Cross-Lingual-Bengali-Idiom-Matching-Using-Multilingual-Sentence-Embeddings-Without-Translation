@@ -1,0 +1,44 @@
+{
+  "id": "7575",
+  "idiom": "বাপ-ঠাকুরদার আমল",
+  "alternative_idioms": [
+    "বাপ-দাদার আমল"
+  ],
+  "literal_meaning": "বাপ এবং ঠাকুরদার আমল বা যুগ",
+  "figurative_meaning_bn": "অনেকদিন আগে, প্রাচীনকালে",
+  "figurative_meaning_en": "A long time ago, in ancient times",
+  "similar_in_english": [
+    "In the days of yore",
+    "Back in grandfather's time",
+    "In olden days"
+  ],
+  "example_sentences_in_bangla": [
+    "এই রীতি বাপ-ঠাকুরদার আমলের।",
+    "সেই গল্প বাপ-ঠাকুরদার আমলের কথা বলে।"
+  ],
+  "example_sentences_in_english": [
+    "This custom is from grandfather's era.",
+    "That story talks about events from grandfather's time."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "historical reference",
+    "nostalgia"
+  ],
+  "tags": [
+    "time",
+    "ancestors",
+    "past",
+    "tradition"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to traditional attire like dhuti-panjabi from ancestral times, evoking generational continuity in Bengali society."
+  ],
+  "note": "Variants reflect regional differences in kinship terms (ঠাকুরদা vs. দাদা)."
+}

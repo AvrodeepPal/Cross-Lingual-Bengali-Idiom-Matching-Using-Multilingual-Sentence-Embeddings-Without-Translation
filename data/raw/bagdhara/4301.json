@@ -1,0 +1,41 @@
+{
+  "id": "4301",
+  "idiom": "ছাতুখোর",
+  "alternative_idioms": [],
+  "literal_meaning": "ছাতু (ভুজা চণা) খোর (চোর) – ভুজা চণার চোর",
+  "figurative_meaning_bn": "তাচ্ছিল্যের সাথে ব্যবহৃত, নীচ বা ঘৃণ্য ব্যক্তি",
+  "figurative_meaning_en": "used contemptuously to refer to a lowly or despicable person",
+  "similar_in_english": [
+    "lowlife",
+    "wretch",
+    "scoundrel"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ছাতুখোর, কখনো কারো কথা শোনে না।",
+    "এই ছাতুখোরের কথা কে বিশ্বাস করবে?"
+  ],
+  "example_sentences_in_english": [
+    "He's a real lowlife, never listens to anyone.",
+    "Who would believe that wretch?"
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insults",
+    "everyday speech"
+  ],
+  "tags": [
+    "derogatory",
+    "slang",
+    "contemptuous"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Of Hindustani origin, likely referring to petty thieves who stole cheap food like roasted chickpeas in historical contexts."
+  ],
+  "note": "Hindustani influence in Bengali colloquial expressions"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5877",
+  "idiom": "দুধের বদলে ঘোল",
+  "alternative_idioms": [
+    "পিটুলি গোলা",
+    "দুধের সাধ ঘোলে মেটানো"
+  ],
+  "literal_meaning": "দুধের পরিবর্তে ঘোল গ্রহণ করা",
+  "figurative_meaning_bn": "কাঙ্খিত উৎকৃষ্ট বস্তুর পরিবর্তে নিকৃষ্ট বস্তুতে সন্তুষ্ট থাকা",
+  "figurative_meaning_en": "Being satisfied with an inferior substitute instead of the desired superior item",
+  "similar_in_english": [
+    "Settling for second best",
+    "Making do with less"
+  ],
+  "example_sentences_in_bangla": [
+    "সে প্রথম শ্রেণির চাকরি পেতে চেয়েছিল, কিন্তু দুধের বদলে ঘোল নিয়ে সন্তুষ্ট হলো।",
+    "আমরা বড় বাড়ি কিনব ভেবেছিলাম, কিন্তু আর্থিক অবস্থার কারণে ছোট ফ্ল্যাটে দুধের বদলে ঘোল মেটালাম।"
+  ],
+  "example_sentences_in_english": [
+    "He wanted a top-tier job but had to settle for a mediocre one, like taking buttermilk instead of milk.",
+    "We planned to buy a big house, but due to financial constraints, we made do with a small apartment, satisfying our milk craving with buttermilk."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Expressions of disappointment",
+    "Compromise in life choices"
+  ],
+  "tags": [
+    "disappointment",
+    "compromise",
+    "substitution",
+    "rural idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from traditional Bengali dairy practices where milk is a premium product and buttermilk a common byproduct."
+}

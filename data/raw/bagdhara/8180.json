@@ -1,0 +1,39 @@
+{
+  "id": "8180",
+  "idiom": "ভ্যান ভ্যান",
+  "alternative_idioms": [
+    "ভ্যানর-ভ্যানর"
+  ],
+  "literal_meaning": "ভনভন বা গুনগুনানি ধ্বনির অনুকরণ (onomatopoeic imitation of a buzzing or humming sound)",
+  "figurative_meaning_bn": "ক্রমাগত অনভিপ্রেত অনুরোধ ধ্বনি; বিরক্তিকর কথাবার্তা বা ধ্বনি",
+  "figurative_meaning_en": "The sound of continuous unwanted requests; annoying conversation or noise",
+  "similar_in_english": [
+    "buzz in one's ear",
+    "nagging like a fly"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বিরক্তিকর কথা কানে ভ্যান ভ্যান করছে।",
+    "সারাদিন এই ভ্যান ভ্যান শুনতে হচ্ছে, আর পারছি না।"
+  ],
+  "example_sentences_in_english": [
+    "His irritating talk is buzzing in my ears.",
+    "I've been hearing this nagging buzz all day, I can't take it anymore."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "expression of annoyance"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "irritation",
+    "sound imitation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom mimics the sound of persistent buzzing, often used to describe nagging or repetitive annoying sounds in spoken Bengali."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9002",
+  "idiom": "রক্তচক্ষু",
+  "alternative_idioms": [
+    "অগ্নিচক্ষু"
+  ],
+  "literal_meaning": "রক্তের চোখ (blood eyes)",
+  "figurative_meaning_bn": "ক্রোধে লাল চোখ; কোপদৃষ্টি; রোষকষায়িত দৃষ্টি",
+  "figurative_meaning_en": "Eyes red with anger; angry glare; furious gaze",
+  "similar_in_english": [
+    "Seeing red",
+    "Blood in one's eye"
+  ],
+  "example_sentences_in_bangla": [
+    "সে রক্তচক্ষু করে তার দিকে তাকাল।",
+    "ক্রোধে তার চোখ রক্তচক্ষু হয়ে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "He glared at him with bloodshot eyes of rage.",
+    "Her eyes turned blood-red with anger."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Daily conversation",
+    "Literature"
+  ],
+  "tags": [
+    "anger",
+    "gaze",
+    "emotion",
+    "figurative expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures intense anger through the imagery of blood-red eyes, common in Bengali poetic and spoken language."
+}

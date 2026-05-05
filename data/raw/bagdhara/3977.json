@@ -1,0 +1,43 @@
+{
+  "id": "3977",
+  "idiom": "চুপিচুপি",
+  "alternative_idioms": [
+    "চুপিসাড়ে"
+  ],
+  "literal_meaning": "চুপ করে চুপ করে (শব্দের পুনরাবৃত্তি দিয়ে নীরবতা বা গোপনীয়তা প্রকাশ)",
+  "figurative_meaning_bn": "অনুচ্চস্বরে; অন্যের অগোচরে বা অজ্ঞাতসারে; কোন সাড়াশব্দ না করে; চুপ থেকে এবং আকার ইঙ্গিতে; প্রায় নিঃশব্দে; সমার্থক-ফিসফিস করে",
+  "figurative_meaning_en": "In a low voice; secretly or without others' knowledge; without any response or sound; silently through gestures; almost noiselessly; synonymous with whispering",
+  "similar_in_english": [
+    "on the sly",
+    "hush-hush",
+    "under one's breath",
+    "in whispers"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা চুপিচুপি পরিকল্পনা করছিল।",
+    "চুপিসাড়ে সে ঘরে ঢুকল।"
+  ],
+  "example_sentences_in_english": [
+    "They were planning secretly.",
+    "She entered the room without a sound."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "secrecy",
+    "whispering"
+  ],
+  "tags": [
+    "গোপনীয়তা",
+    "নীরবতা",
+    "ফিসফিস",
+    "সমার্থক"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলা ভাষার দৈনন্দিন ব্যবহারে গভীরভাবে প্রোথিত এবং গোপনীয়তার সাংস্কৃতিক ধারণা প্রতিফলিত করে।"
+}

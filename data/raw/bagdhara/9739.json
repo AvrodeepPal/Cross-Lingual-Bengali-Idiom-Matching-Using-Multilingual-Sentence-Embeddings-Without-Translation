@@ -1,0 +1,43 @@
+{
+  "id": "9739",
+  "idiom": "সাধ করে শাল নেওয়া",
+  "alternative_idioms": [
+    "খালকেটে কুমির আনা",
+    "খালকেটে বেনোজল ঢোকানো"
+  ],
+  "literal_meaning": "ইচ্ছে করে শাল নেওয়া (deliberately taking a shawl)",
+  "figurative_meaning_bn": "ইচ্ছে করে বিপদ ডেকে আনা",
+  "figurative_meaning_en": "Intentionally inviting trouble",
+  "similar_in_english": [
+    "Playing with fire",
+    "Asking for it",
+    "Courting disaster"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সাধ করে শাল নেওয়ার মতো বিপদ ডেকে আনছে।",
+    "এমন সিদ্ধান্ত নেওয়া যেন সাধ করে শাল নেওয়া।"
+  ],
+  "example_sentences_in_english": [
+    "He's inviting trouble just like deliberately taking a shawl.",
+    "Making such a decision is like intentionally courting danger."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "warnings",
+    "everyday advice"
+  ],
+  "tags": [
+    "trouble",
+    "intentional",
+    "misfortune",
+    "cautionary"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects rural Bengali expressions for self-inflicted problems, possibly alluding to unnecessary burdens like carrying a shawl in discomfort."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "582",
+  "idiom": "আমল না দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "possession or control not giving",
+  "figurative_meaning_bn": "কাছে ঘেষতে না দেওয়া; দখল না দেওয়া",
+  "figurative_meaning_en": "not allowing to come close; not giving possession",
+  "similar_in_english": [
+    "keep at arm's length",
+    "not hand over the keys"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার সম্পত্তিতে কাউকে আমল না দেয়।",
+    "বাবা ব্যবসায় আমল না দিয়ে সবকিছু নিজে নিয়ন্ত্রণ করেন।"
+  ],
+  "example_sentences_in_english": [
+    "He doesn't give anyone possession of his property.",
+    "The father manages the business himself without handing over control."
+  ],
+  "usage_domain": [
+    "property",
+    "business",
+    "personal control"
+  ],
+  "tags": [
+    "possession",
+    "distance",
+    "control",
+    "refusal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": ""
+}

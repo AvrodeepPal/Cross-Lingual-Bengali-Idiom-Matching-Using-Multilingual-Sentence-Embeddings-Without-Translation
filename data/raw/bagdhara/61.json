@@ -1,0 +1,37 @@
+{
+  "id": "61",
+  "idiom": "অগ্নিবৃদ্ধি",
+  "alternative_idioms": [],
+  "literal_meaning": "অগ্নির বৃদ্ধি (fire's increase)",
+  "figurative_meaning_bn": "ক্ষুধাবৃদ্ধি; পরিপাকশক্তি বৃদ্ধি",
+  "figurative_meaning_en": "Increase in hunger; increase in digestive power",
+  "similar_in_english": [
+    "work up an appetite"
+  ],
+  "example_sentences_in_bangla": [
+    "দিনভর কৃষিকাজ করার পর তার অগ্নিবৃদ্ধি হয়েছে।",
+    "ব্যায়াম করলে শরীরে অগ্নিবৃদ্ধি হয় এবং খিদে বাড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "After working in the fields all day, his appetite has increased.",
+    "Exercise leads to an increase in appetite and better digestion."
+  ],
+  "usage_domain": [
+    "health",
+    "daily life",
+    "physiology"
+  ],
+  "tags": [
+    "hunger",
+    "digestion",
+    "physical labor"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Original meaning contains a likely typo: 'পরিপাকধক্তি' corrected to 'পরিপাকশক্তি' for accuracy."
+}

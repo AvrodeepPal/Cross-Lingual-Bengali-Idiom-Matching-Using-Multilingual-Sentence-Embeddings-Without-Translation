@@ -1,0 +1,38 @@
+{
+  "id": "3982",
+  "idiom": "চুয়াড়",
+  "alternative_idioms": [],
+  "literal_meaning": "ছোট পাখি (যেমন চড়ুই) বা চুয়া",
+  "figurative_meaning_bn": "নিষ্ঠুর প্রকৃতির লোক",
+  "figurative_meaning_en": "A person with a cruel nature",
+  "similar_in_english": [
+    "heartless person",
+    "cold-blooded individual"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা চুয়াড়, কারও দুঃখকষ্টে হাসে।",
+    "চুয়াড়ের মতো কাজ করলে কেউ তোমাকে পছন্দ করবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a cruel-hearted person who laughs at others' misfortunes.",
+    "Don't act like a brute, or no one will like you."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insult",
+    "personality description"
+  ],
+  "tags": [
+    "derogatory",
+    "negative trait",
+    "slang"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is often used in informal Bengali speech to denote meanness, possibly derived from the pecking behavior of small birds."
+}

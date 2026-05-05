@@ -1,0 +1,38 @@
+{
+  "id": "6761",
+  "idiom": "পা টিপে চলা",
+  "alternative_idioms": [],
+  "literal_meaning": "পা টিপে হাঁটা (তোলা পায়ে সতর্কভাবে চলা)",
+  "figurative_meaning_bn": "সাবধানে ধীরে ধীরে পা ফেলা",
+  "figurative_meaning_en": "To proceed with caution, slowly and carefully",
+  "similar_in_english": [
+    "Tread lightly",
+    "Walk on eggshells",
+    "Proceed with caution"
+  ],
+  "example_sentences_in_bangla": [
+    "বাড়িতে ঢুকার সময় সে পা টিপে চলল যাতে কেউ না জাগে।",
+    "কাদামাটির রাস্তায় পা টিপে চলতে হয় সাবধানে।"
+  ],
+  "example_sentences_in_english": [
+    "She tiptoed into the house to avoid waking anyone.",
+    "One must tread carefully on the muddy path."
+  ],
+  "usage_domain": [
+    "Everyday caution",
+    "Stealth and secrecy"
+  ],
+  "tags": [
+    "সতর্কতা",
+    "ধীরগতি",
+    "গোপনীয়তা"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Idiom reflects practical caution in uneven or slippery terrains common in Bengali rural life."
+}

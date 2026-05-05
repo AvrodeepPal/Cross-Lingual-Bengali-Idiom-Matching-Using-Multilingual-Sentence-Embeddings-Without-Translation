@@ -1,0 +1,40 @@
+{
+  "id": "5401",
+  "idiom": "তাল দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হাততালি দেওয়া বা করতালি করা",
+  "figurative_meaning_bn": "আগ বাড়িয় সমর্থন করা, উমেদারি করা",
+  "figurative_meaning_en": "To support eagerly or prematurely, to show enthusiastic approval",
+  "similar_in_english": [
+    "To applaud",
+    "To cheer on",
+    "To fawn over"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় সকলে তার বক্তৃতায় তাল দিল।",
+    "অনুচররা নেতার প্রতি তাল দিয়ে সমর্থন জানাল।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone clapped for his speech in the meeting.",
+    "The followers applauded the leader to show their support."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Public speaking",
+    "Social gatherings"
+  ],
+  "tags": [
+    "support",
+    "applause",
+    "enthusiasm",
+    "sycophancy"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often implies blind or excessive support in follower-leader dynamics"
+}

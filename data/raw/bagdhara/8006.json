@@ -1,0 +1,40 @@
+{
+  "id": "8006",
+  "idiom": "ভাঙাঘর জোড়া দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাঙা ঘর মেরামত করা বা জোড়া দেওয়া",
+  "figurative_meaning_bn": "সংসারের মনোমালিন্য দূর করা",
+  "figurative_meaning_en": "To resolve discord or melancholy in family life",
+  "similar_in_english": [
+    "Mend fences",
+    "Patch things up",
+    "Repair a broken home"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা দীর্ঘদিনের ঝগড়ার পর ভাঙাঘর জোড়া দিয়ে আবার সংসার গড়ল।",
+    "বিয়ের পর প্রথমে অনেক সমস্যা হয়েছিল, কিন্তু তারা ভাঙাঘর জোড়া দিয়ে সব ঠিক করে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "After years of quarrels, they mended their broken home and rebuilt their family life.",
+    "There were many issues right after marriage, but they resolved the discord in their household."
+  ],
+  "usage_domain": [
+    "Family",
+    "Relationships",
+    "Domestic life"
+  ],
+  "tags": [
+    "Reconciliation",
+    "Family harmony",
+    "Repair",
+    "Emotional healing"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali emphasis on family unity and resolving domestic conflicts."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2737",
+  "idiom": "খেলোয়াড়",
+  "alternative_idioms": [],
+  "literal_meaning": "খেলার অংশগ্রহণকারী বা খেলোয়াড় (player or athlete)",
+  "figurative_meaning_bn": "ধূর্ত; কূটকৌশলী; প্রবঞ্চক; চক্রান্তকারী",
+  "figurative_meaning_en": "cunning; scheming; deceitful; conspiratorial",
+  "similar_in_english": [
+    "smooth operator",
+    "wily fox",
+    "old hand"
+  ],
+  "example_sentences_in_bangla": [
+    "রাজনীতির ময়দানে সে একজন পাকা খেলোয়াড়।",
+    "ব্যবসায় সে খেলোয়াড়ের মতো কাজ করে সবাইকে ছলনা করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a seasoned player in the field of politics.",
+    "In business, he acts like a player, deceiving everyone with his tricks."
+  ],
+  "usage_domain": [
+    "politics",
+    "business",
+    "social interactions"
+  ],
+  "tags": [
+    "cunning",
+    "deceit",
+    "manipulation",
+    "politics"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used metaphorically to describe skilled manipulators in competitive arenas like politics."
+}

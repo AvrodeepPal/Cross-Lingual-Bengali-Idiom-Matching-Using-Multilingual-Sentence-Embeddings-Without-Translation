@@ -1,0 +1,40 @@
+{
+  "id": "2829",
+  "idiom": "গঙ্গাযাত্রী",
+  "alternative_idioms": [],
+  "literal_meaning": "গঙ্গায় যাওয়া ব্যক্তি",
+  "figurative_meaning_bn": "যোগ মেলা ইত্যাদি উপলক্ষ্যে গঙ্গাস্নানে গমনকারী",
+  "figurative_meaning_en": "A person who goes to bathe in the Ganges on occasions such as marriage matching or similar rituals",
+  "similar_in_english": [
+    "Pilgrim to the holy river"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের যোগ মিলিয়ে তিনি গঙ্গাযাত্রী হয়েছেন।",
+    "পূজার উপলক্ষে পরিবারের সঙ্গে গঙ্গাযাত্রী যাওয়া হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He has become a Ganga Yatri to match horoscopes for marriage.",
+    "The family will go as Ganga Yatris for the puja occasion."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Marriage",
+    "Rituals"
+  ],
+  "tags": [
+    "গঙ্গা",
+    "স্নান",
+    "যোগ মেলা",
+    "হিন্দু রীতি"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the ancient Hindu tradition of bathing in the Ganges for purification and auspicious occasions."
+  ],
+  "note": "This term is specific to Hindu Bengali cultural practices involving the sacred Ganges River."
+}

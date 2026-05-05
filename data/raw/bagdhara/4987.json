@@ -1,0 +1,42 @@
+{
+  "id": "4987",
+  "idiom": "টিকা",
+  "alternative_idioms": [
+    "টেঁকা",
+    "টেকা"
+  ],
+  "literal_meaning": "সাঁটিয়ে রাখা বা আটকে থাকা (sticking or adhering)",
+  "figurative_meaning_bn": "স্থায়ী হওয়া",
+  "figurative_meaning_en": "to endure or last permanently",
+  "similar_in_english": [
+    "to stick around",
+    "to hold up",
+    "to last"
+  ],
+  "example_sentences_in_bangla": [
+    "এই চাকরিটা কি টিকবে?",
+    "তার বিয়ের সম্পর্কটা কি টিকবে?"
+  ],
+  "example_sentences_in_english": [
+    "Will this job last?",
+    "Will their marriage endure?"
+  ],
+  "usage_domain": [
+    "employment",
+    "relationships",
+    "stability"
+  ],
+  "tags": [
+    "endurance",
+    "permanence",
+    "survival"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variants reflect regional pronunciation differences in Bengali dialects"
+}

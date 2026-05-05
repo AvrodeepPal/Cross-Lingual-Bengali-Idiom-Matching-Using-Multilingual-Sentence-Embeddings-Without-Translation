@@ -1,0 +1,39 @@
+{
+  "id": "5320",
+  "idiom": "তখরচ",
+  "alternative_idioms": [
+    "তহখরচ"
+  ],
+  "literal_meaning": "তখনের খরচ (সময়ভিত্তিক অথবা অতিরিক্ত ব্যয়ের ইঙ্গিত)",
+  "figurative_meaning_bn": "অতিরিক্ত বা বাজে খরচ",
+  "figurative_meaning_en": "Unnecessary or wasteful expenditure",
+  "similar_in_english": [
+    "Money down the drain",
+    "Extravagant spending"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়েতে অনেক তখরচ হয়েছে, যা প্রয়োজন ছিল না।",
+    "দৈনন্দিন জীবনে তখরচ এড়িয়ে চলতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "There was a lot of unnecessary expenditure at the wedding.",
+    "One must avoid wasteful spending in daily life."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily conversation"
+  ],
+  "tags": [
+    "খরচ",
+    "ব্যয়",
+    "অপচয়"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি হিসাবরক্ষণের ক্ষেত্রে ব্যবহৃত হয়, যেখানে অপ্রধান খরচকে বোঝায়।"
+}

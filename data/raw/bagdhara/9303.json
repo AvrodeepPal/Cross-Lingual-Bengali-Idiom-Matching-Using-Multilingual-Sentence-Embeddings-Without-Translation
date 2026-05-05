@@ -1,0 +1,37 @@
+{
+  "id": "9303",
+  "idiom": "লিখিয়ে-পড়িয়ে",
+  "alternative_idioms": [],
+  "literal_meaning": "লেখা এবং পড়া জানা",
+  "figurative_meaning_bn": "লেখাপড়া জানা লোক, শিক্ষিত",
+  "figurative_meaning_en": "A literate or educated person",
+  "similar_in_english": [
+    "Well-read",
+    "Learned"
+  ],
+  "example_sentences_in_bangla": [
+    "সে লিখিয়ে-পড়িয়ে মানুষ, তাই চাকরি পেয়েছে।",
+    "গ্রামে লিখিয়ে-পড়িয়ে লোক খুব কম।"
+  ],
+  "example_sentences_in_english": [
+    "He is a literate man, so he got the job.",
+    "There are very few educated people in the village."
+  ],
+  "usage_domain": [
+    "Education",
+    "Daily conversation"
+  ],
+  "tags": [
+    "literacy",
+    "education",
+    "knowledge"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes the value of basic education in traditional Bengali society."
+}

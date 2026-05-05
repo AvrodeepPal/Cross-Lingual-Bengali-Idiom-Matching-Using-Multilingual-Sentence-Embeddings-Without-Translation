@@ -1,0 +1,38 @@
+{
+  "id": "7634",
+  "idiom": "বালাই",
+  "alternative_idioms": [],
+  "literal_meaning": "আপদ বা বিপদ",
+  "figurative_meaning_bn": "বিদ্রুপে আপদ, উৎপাত, ঝামেলা, বাধা, বিঘ্ন",
+  "figurative_meaning_en": "sarcastically: calamity, nuisance, trouble, obstacle, hindrance",
+  "similar_in_english": [
+    "a pain in the neck",
+    "a thorn in one's side"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বালাই থেকে ছাড়া পেলে বাঁচি।",
+    "তার কথা শুনলে মনে হয় সবাইয়ের জন্য বালাই।"
+  ],
+  "example_sentences_in_english": [
+    "If I get rid of this nuisance, I'll be saved.",
+    "Hearing him makes it seem like he's a trouble for everyone."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "sarcasm"
+  ],
+  "tags": [
+    "sarcasm",
+    "trouble",
+    "nuisance",
+    "obstacle"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Used often in sarcastic contexts to express frustration with persistent annoyances"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "8907",
+  "idiom": "যত্র আয় তত্র ব্যয়",
+  "alternative_idioms": [],
+  "literal_meaning": "যত আয় তত ব্যয় (আয়ের পরিমাণ অনুযায়ী ব্যয়ের পরিমাণ)",
+  "figurative_meaning_bn": "আয়ের কিছুই জমে না এমন অবস্থা, যা আয় হয় তার সবটাই খরচ হয়ে যায়; অবিবেচনাপ্রসূত কাজ; অসঞ্চয়ের লক্ষণ",
+  "figurative_meaning_en": "A situation where nothing from the income is saved, as all earnings are spent; imprudent actions; a sign of lack of savings",
+  "similar_in_english": [
+    "Live hand to mouth",
+    "Live paycheck to paycheck"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবন যত্র আয় তত্র ব্যয়ের মতো, কোনোদিন সঞ্চয় হয় না।",
+    "এই অবস্থায় যত্র আয় তত্র ব্যয় করে চললে ভবিষ্যৎ অন্ধকার হয়ে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "His life is like 'as much income, so much expenditure,' with no savings ever accumulated.",
+    "Continuing with 'as much income, so much expenditure' in this situation will darken the future."
+  ],
+  "usage_domain": [
+    "finance",
+    "economy",
+    "daily life"
+  ],
+  "tags": [
+    "financial",
+    "improvidence",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects traditional Bengali concerns about financial prudence in everyday living."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2264",
+  "idiom": "কুয়োর ব্যাং",
+  "alternative_idioms": [
+    "কুয়ার ব্যাং"
+  ],
+  "literal_meaning": "কূপের বা কুয়োর ভিতরের ব্যাং (frog in the well)",
+  "figurative_meaning_bn": "সংকীর্ণ অভিজ্ঞতাসম্পন্ন এবং জ্ঞানলাভে অনিচ্ছুক লোক",
+  "figurative_meaning_en": "A person with limited experience and unwilling to gain knowledge",
+  "similar_in_english": [
+    "Frog in the well",
+    "Can't see the forest for the trees"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কুয়োর ব্যাং হয়ে থাকায় বিশ্বের বাস্তবতা বুঝতে পারে না।",
+    "গ্রামের এই লোকটি কুয়োর ব্যাং, শহরের জীবন সম্পর্কে কিছু জানে না।"
+  ],
+  "example_sentences_in_english": [
+    "He remains a frog in the well and cannot understand the realities of the world.",
+    "This villager is a frog in the well, knowing nothing about city life."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Education",
+    "Criticism"
+  ],
+  "tags": [
+    "narrow-mindedness",
+    "ignorance",
+    "limited perspective",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from an ancient fable, possibly from Panchatantra or similar folk tales, where a frog confined to a well mistakes it for the entire universe, symbolizing ignorance and narrow worldview."
+  ],
+  "note": "The idiom emphasizes the dangers of isolation and lack of exposure in Bengali cultural discourse."
+}

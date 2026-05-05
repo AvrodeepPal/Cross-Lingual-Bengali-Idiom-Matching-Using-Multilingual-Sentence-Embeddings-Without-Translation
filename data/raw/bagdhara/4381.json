@@ -1,0 +1,41 @@
+{
+  "id": "4381",
+  "idiom": "ছেঁচড়",
+  "alternative_idioms": [
+    "ছ্যাঁচড়"
+  ],
+  "literal_meaning": "একধরনের নীচতা বা লাজুকতাহীন আচরণের অনুকরণমূলক শব্দ (onomatopoeic term implying sly or creeping behavior)",
+  "figurative_meaning_bn": "নির্লজ্জ; নীচপ্রকৃতির লোক; বেহায়া",
+  "figurative_meaning_en": "shameless; person of lowly character; impudent",
+  "similar_in_english": [
+    "brazen-faced",
+    "without a shred of shame",
+    "lowlife"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ছেঁচড় মানুষ, কখনো লজ্জা করে না।",
+    "এই ছেঁচড় ব্যবহার করে সবাইকে বিভ্রান্ত করল।"
+  ],
+  "example_sentences_in_english": [
+    "He is a shameless lowlife who never feels embarrassed.",
+    "That impudent fellow deceived everyone with his lowly tricks."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insult",
+    "daily conversation"
+  ],
+  "tags": [
+    "negative",
+    "personality trait",
+    "derogatory"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a regional variant used in informal Bengali speech to denote moral baseness."
+}

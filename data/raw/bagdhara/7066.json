@@ -1,0 +1,40 @@
+{
+  "id": "7066",
+  "idiom": "ফরফর",
+  "alternative_idioms": [],
+  "literal_meaning": "বায়ুতে পাতলা দ্রব্যের দ্রুত সঞ্চালনের অনুকরণমূলক শব্দ",
+  "figurative_meaning_bn": "বায়ুতে পাতলা দ্রব্যের দ্রুত সঞ্চালনের শব্দ",
+  "figurative_meaning_en": "The sound of rapid movement of thin objects in the wind",
+  "similar_in_english": [
+    "whirring",
+    "fluttering",
+    "whizzing"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘুড়িটা আকাশ ফরফর করে উড়ছে।",
+    "পাতাগুলো বাতাসে ফরফর করছে।"
+  ],
+  "example_sentences_in_english": [
+    "The kite is flying in the sky making a whirring sound.",
+    "The leaves are fluttering in the wind."
+  ],
+  "usage_domain": [
+    "descriptive language",
+    "nature",
+    "sound imitation"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "wind",
+    "movement",
+    "sound"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in Bengali to mimic sounds of swift aerial movement."
+}

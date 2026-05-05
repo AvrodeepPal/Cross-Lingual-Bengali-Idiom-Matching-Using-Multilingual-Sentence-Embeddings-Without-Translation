@@ -1,0 +1,37 @@
+{
+  "id": "5707",
+  "idiom": "দশ কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "দশটি কথা",
+  "figurative_meaning_bn": "অনেক কথা",
+  "figurative_meaning_en": "A lot of talk, often mixing truth and falsehood",
+  "similar_in_english": [
+    "All talk and no action",
+    "Words are cheap"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দশ কথা বলে কিন্তু কোনো কাজ করে না।",
+    "এই রাজনীতিবিদের দশ কথায় কেউ বিশ্বাস করে না।"
+  ],
+  "example_sentences_in_english": [
+    "He talks a lot but does no work.",
+    "No one believes the politicians' excessive talk."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism of verbosity"
+  ],
+  "tags": [
+    "verbosity",
+    "unreliability",
+    "speech"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": ""
+}

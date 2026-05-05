@@ -1,0 +1,41 @@
+{
+  "id": "4280",
+  "idiom": "ছাগল দিয়ে চাষ করা",
+  "alternative_idioms": [
+    "ছাগল দিয়ে ধান মাড়ানো"
+  ],
+  "literal_meaning": "ছাগল দিয়ে চাষ করা (goat দিয়ে farming/plowing করা)",
+  "figurative_meaning_bn": "অযোগ্যলোককে দিয়ে ভারী কাজ করানো",
+  "figurative_meaning_en": "Assigning heavy or important tasks to an unqualified or incompetent person",
+  "similar_in_english": [
+    "square peg in a round hole",
+    "using the wrong tool for the job"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ছাগল দিয়ে চাষ করার মতো অযোগ্য কর্মচারীকে প্রমোশন দিয়েছে।",
+    "এই প্রকল্পে ছাগল দিয়ে চাষ করার মতো ভুল লোক নিয়োগ করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He promoted an unqualified employee, like plowing with a goat.",
+    "Hiring the wrong person for this project is like threshing rice with a goat."
+  ],
+  "usage_domain": [
+    "workplace",
+    "management",
+    "daily criticism"
+  ],
+  "tags": [
+    "incompetence",
+    "farming",
+    "animals",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from traditional Bengali agrarian life where goats are unsuitable for plowing or threshing, symbolizing mismatch in capabilities."
+}

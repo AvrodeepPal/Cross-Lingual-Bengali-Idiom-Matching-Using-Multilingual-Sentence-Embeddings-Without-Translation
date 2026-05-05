@@ -1,0 +1,40 @@
+{
+  "id": "7345",
+  "idiom": "বলা-কওয়া",
+  "alternative_idioms": [
+    "কহা"
+  ],
+  "literal_meaning": "বলা এবং কওয়া (কথা বলা বা উক্তি প্রকাশ করা)",
+  "figurative_meaning_bn": "বিশেষভাবে বলা; আগের থেকে শিখানো পড়ানো",
+  "figurative_meaning_en": "To speak emphatically; to have been taught or instructed beforehand",
+  "similar_in_english": [
+    "Talk someone into something",
+    "Give someone a talking-to"
+  ],
+  "example_sentences_in_bangla": [
+    "অনেক বলা-কওয়া করে তাকে রাজি করিয়েছি।",
+    "শিক্ষক বলা-কওয়া করে ছাত্রকে নিয়ম শিখিয়েছেন।"
+  ],
+  "example_sentences_in_english": [
+    "I convinced him after a lot of talking and persuading.",
+    "The teacher instructed the student emphatically about the rules."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Persuasion",
+    "Education"
+  ],
+  "tags": [
+    "persuasion",
+    "instruction",
+    "repetition"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom emphasizes repetitive or emphatic communication in Bengali culture."
+}

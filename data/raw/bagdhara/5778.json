@@ -1,0 +1,38 @@
+{
+  "id": "5778",
+  "idiom": "দায়দায়িত্ব",
+  "alternative_idioms": [],
+  "literal_meaning": "দায় (দায়িত্ব বা কর্তব্য) এর পুনরাবৃত্তি; দায়-দায়িত্ব",
+  "figurative_meaning_bn": "কর্তব্য, দায়িত্ব",
+  "figurative_meaning_en": "duty, responsibility",
+  "similar_in_english": [
+    "burden of responsibility",
+    "sense of duty"
+  ],
+  "example_sentences_in_bangla": [
+    "সংসারের দায়দায়িত্ব সব আমার ঘাড়ে পড়েছে।",
+    "তার দায়দায়িত্ব পালন করতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "All the family responsibilities have fallen on my shoulders.",
+    "He has to fulfill his duties."
+  ],
+  "usage_domain": [
+    "family",
+    "professional",
+    "personal"
+  ],
+  "tags": [
+    "reduplication",
+    "responsibility",
+    "duty"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a reduplicated emphatic form common in colloquial Bengali to stress the weight of responsibilities."
+}

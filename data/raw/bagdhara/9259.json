@@ -1,0 +1,43 @@
+{
+  "id": "9259",
+  "idiom": "লাগামছাড়া",
+  "alternative_idioms": [
+    "লাগামছেঁড়া",
+    "লাগামহীন"
+  ],
+  "literal_meaning": "লাগাম ছাড়া (ঘোড়ার লাগাম ছাড়া অর্থাত্ নিয়ন্ত্রণহীন)",
+  "figurative_meaning_bn": "অবাধ, নিয়ন্ত্রণবহির্ভূত",
+  "figurative_meaning_en": "Unrestrained, beyond control",
+  "similar_in_english": [
+    "Run wild",
+    "Out of control",
+    "Off the leash"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে লাগামছাড়া দামবৃদ্ধি হচ্ছে।",
+    "তার আচরণ সম্পূর্ণ লাগামছাড়া হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "There is an uncontrolled price hike in the market.",
+    "His behavior has become completely unrestrained."
+  ],
+  "usage_domain": [
+    "economics",
+    "behavior",
+    "general"
+  ],
+  "tags": [
+    "control",
+    "restraint",
+    "uncontrolled",
+    "freedom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from imagery of horses in rural settings, common in Bengali agrarian culture."
+}

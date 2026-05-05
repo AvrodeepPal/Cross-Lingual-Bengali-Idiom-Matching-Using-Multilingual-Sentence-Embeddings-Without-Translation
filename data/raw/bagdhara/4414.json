@@ -1,0 +1,39 @@
+{
+  "id": "4414",
+  "idiom": "ছোকরা",
+  "alternative_idioms": [
+    "ছেলে ছোকরা"
+  ],
+  "literal_meaning": "নব্য যুবক বা ছেলে",
+  "figurative_meaning_bn": "তুচ্ছার্থে-অপরিণতবুদ্ধির নব্যযুবক",
+  "figurative_meaning_en": "A young man with immature intellect, considered insignificant or foolish",
+  "similar_in_english": [
+    "whippersnapper",
+    "greenhorn"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো এখনও ছোকরা, এত বড় সিদ্ধান্ত নিতে পারবে না।",
+    "এই ছোকরারা শুধু বাজে কথা বলে।"
+  ],
+  "example_sentences_in_english": [
+    "He's still just a chokra; he can't make such big decisions yet.",
+    "These young whippersnappers only talk nonsense."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "derogatory"
+  ],
+  "tags": [
+    "youth",
+    "immaturity",
+    "insignificance"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Hindi/Urdu 'chokra', commonly used in everyday Bengali speech to belittle young men."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3310",
+  "idiom": "গোগ্রাস",
+  "alternative_idioms": [],
+  "literal_meaning": "গরুর গ্রাস (cow's bite or large mouthful like a cow)",
+  "figurative_meaning_bn": "গরুর মতো বড় বড় গ্রাসে দ্রুত গিলে ফেলা",
+  "figurative_meaning_en": "Swallowing in large, hasty bites like a cow, often due to extreme hunger",
+  "similar_in_english": [
+    "wolf down",
+    "bolt one's food",
+    "devour greedily"
+  ],
+  "example_sentences_in_bangla": [
+    "খিদের জ্বালায় সে গোগ্রাসে খাবার গিলে ফেলল।",
+    "পরীক্ষার আগে তাড়াহুড়োয় গোগ্রাসে বই পড়ে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "Out of extreme hunger, he wolfed down the food in huge bites.",
+    "In a rush before the exam, she devoured the book in hasty gulps."
+  ],
+  "usage_domain": [
+    "food and eating",
+    "hunger and greed",
+    "daily life"
+  ],
+  "tags": [
+    "hunger",
+    "haste",
+    "rural imagery",
+    "figurative eating"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from everyday observations of animal behavior in agrarian Bengali society."
+}

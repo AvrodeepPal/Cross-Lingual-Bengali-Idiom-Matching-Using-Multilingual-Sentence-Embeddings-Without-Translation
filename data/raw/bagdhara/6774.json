@@ -1,0 +1,43 @@
+{
+  "id": "6774",
+  "idiom": "পাট তোলা",
+  "alternative_idioms": [
+    "পাট উঠানো",
+    "পাততাড়ি গুটানো"
+  ],
+  "literal_meaning": "জুটের চাষ বা স্থাপন করা (setting up a jute plantation)",
+  "figurative_meaning_bn": "আবাদ ওঠানো; স্থায়ী বাস ওঠানো",
+  "figurative_meaning_en": "To establish cultivation or a permanent residence; to settle down permanently",
+  "similar_in_english": [
+    "Put down roots",
+    "Set up house",
+    "Make one's home"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি গ্রামে পাট তোলার জন্য এসেছেন।",
+    "শহরে অনেক দিন কাটানোর পর সে এখন দেশে পাট তোলতে চান।"
+  ],
+  "example_sentences_in_english": [
+    "He has come to the village to put down roots.",
+    "After spending many years in the city, he now wants to settle down in the countryside."
+  ],
+  "usage_domain": [
+    "Settlement",
+    "Migration",
+    "Daily life"
+  ],
+  "tags": [
+    "agrarian",
+    "permanence",
+    "rural life",
+    "synonymous idioms"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Idiom rooted in Bengal's jute farming tradition, symbolizing stability in agrarian society"
+}

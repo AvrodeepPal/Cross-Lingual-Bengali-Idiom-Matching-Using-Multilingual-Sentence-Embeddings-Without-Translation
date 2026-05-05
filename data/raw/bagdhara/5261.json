@@ -1,0 +1,41 @@
+{
+  "id": "5261",
+  "idiom": "ঢুঁ দেওয়া",
+  "alternative_idioms": [
+    "ঢু দেওয়া",
+    "ঢু মারা"
+  ],
+  "literal_meaning": "ঢুঁকানো বা ছুঁচের মতো আঘাত দেওয়া (to poke or thrust in like a jab)",
+  "figurative_meaning_bn": "কোথাও কিছুক্ষণের জন্য যাওয়া; কোথাও উদ্দেশ্যহীনভাবে যাওয়া",
+  "figurative_meaning_en": "To go somewhere for a short while; to go somewhere aimlessly or casually",
+  "similar_in_english": [
+    "Drop in",
+    "Pop by",
+    "Swing by"
+  ],
+  "example_sentences_in_bangla": [
+    "বন্ধুদের আড্ডায় একবার ঢুঁ দিয়ে আসব।",
+    "দোকানে ঢুঁ মেরে চা খেয়ে নিচ্ছি।"
+  ],
+  "example_sentences_in_english": [
+    "I'll drop in at the friends' hangout for a bit.",
+    "I'm just popping by the shop to grab some tea."
+  ],
+  "usage_domain": [
+    "Casual conversation",
+    "Social interactions"
+  ],
+  "tags": [
+    "colloquial",
+    "informal",
+    "social visit"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali social habits of brief, unplanned visits."
+}

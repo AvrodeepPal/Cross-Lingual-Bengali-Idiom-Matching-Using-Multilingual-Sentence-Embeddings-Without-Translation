@@ -1,0 +1,40 @@
+{
+  "id": "4923",
+  "idiom": "টানাপোড়েন",
+  "alternative_idioms": [],
+  "literal_meaning": "কাপড়ের লম্বা দিকের সূতা এবং আড়ের দিকের সূতা",
+  "figurative_meaning_bn": "বিরক্তিকর বারংবার আসা-যাওয়া",
+  "figurative_meaning_en": "Irritating repeated coming and going",
+  "similar_in_english": [
+    "back and forth",
+    "daily grind"
+  ],
+  "example_sentences_in_bangla": [
+    "সংসারের টানাপোড়েনে তার জীবন কষ্টময় হয়ে উঠেছে।",
+    "অফিসের টানাপোড়েন সহ্য করতে কষ্ট হয়।"
+  ],
+  "example_sentences_in_english": [
+    "The household to-and-fro has made his life miserable.",
+    "It's hard to bear the office hustle and bustle."
+  ],
+  "usage_domain": [
+    "daily life",
+    "household",
+    "work"
+  ],
+  "tags": [
+    "figurative",
+    "annoyance",
+    "routine"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom originates from the traditional weaving process in Bengali culture, where 'টানা' refers to the warp threads (longitudinal) and 'পোড়েন' to the weft threads (transverse), metaphorically representing the intertwined and repetitive entanglements of everyday life."
+  ],
+  "note": "Deeply embedded in everyday Bengali speech, evoking the tedium of domestic or routine activities."
+}

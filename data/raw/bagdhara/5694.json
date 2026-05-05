@@ -1,0 +1,40 @@
+{
+  "id": "5694",
+  "idiom": "দলছুট",
+  "alternative_idioms": [],
+  "literal_meaning": "দল থেকে ছুটে যাওয়া",
+  "figurative_meaning_bn": "দল থেকে বিচ্ছিন্ন",
+  "figurative_meaning_en": "separated from the group or party",
+  "similar_in_english": [
+    "break away from the pack",
+    "go rogue",
+    "defect from the party"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি দলছুট হয়ে নতুন একটি দল গঠন করেছেন।",
+    "দলছুটেরা প্রায়ই বিতর্কের কেন্দ্রবিন্দু হয়ে ওঠে।"
+  ],
+  "example_sentences_in_english": [
+    "He defected from the party and formed a new one.",
+    "The defectors often become the center of controversy."
+  ],
+  "usage_domain": [
+    "politics",
+    "organizations",
+    "social groups"
+  ],
+  "tags": [
+    "defection",
+    "separation",
+    "politics",
+    "group dynamics"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in political contexts in Bengali literature and media."
+}

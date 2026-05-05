@@ -1,0 +1,41 @@
+{
+  "id": "2486",
+  "idiom": "খড়মপেয়ে",
+  "alternative_idioms": [],
+  "literal_meaning": "খড়মের মতো পা যার, চলার সময় পদতলের মাঝখান ভূমি স্পর্শ করে না",
+  "figurative_meaning_bn": "যার পা খড়মের মতো, চলবার সময় পদতলের মাঝখান ভূমি স্পর্শ করে না; গালিবিশেষ",
+  "figurative_meaning_en": "One whose feet are like khadom sandals, the middle of the sole does not touch the ground while walking; a special insult",
+  "similar_in_english": [
+    "flat-footed",
+    "pigeon-toed"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খড়মপেয়ে লোক, চলতে গেলে পা ঘষে ঘষে যায়।",
+    "গ্রামের সেই খড়মপেয়ে ছেলেটা সবাইকে হাসায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is khadom-footed, dragging his feet while walking.",
+    "That khadom-footed boy from the village makes everyone laugh."
+  ],
+  "usage_domain": [
+    "insults",
+    "physical description",
+    "colloquial speech"
+  ],
+  "tags": [
+    "গালি",
+    "শারীরিক বৈশিষ্ট্য",
+    "চলাফেরা",
+    "গ্রাম্য"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "খড়ম হলো ঐতিহ্যবাহী কাঠের চপ্পল, যা গ্রামীণ বাংলায় সাধারণ ছিল এবং এর চলাফেরার ধরন থেকে উদ্ভূত এই বাগধারা।"
+  ],
+  "note": "এটি ঐতিহ্যবাহী পোশাকের উল্লেখ করে, যা আধুনিক সময়ে কম ব্যবহৃত হয়।"
+}

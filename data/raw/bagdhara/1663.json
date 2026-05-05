@@ -1,0 +1,41 @@
+{
+  "id": "1663",
+  "idiom": "কলা খাও",
+  "alternative_idioms": [],
+  "literal_meaning": "কলা খাও (eat banana)",
+  "figurative_meaning_bn": "উৎসন্নে যাও; কিছু করতে না পেরে ব্যর্থ হয়ে পড়ে থাকো; ফাঁকিতে পড়ো",
+  "figurative_meaning_en": "Become despondent; fail at something and remain idle; get stuck in a dilemma",
+  "similar_in_english": [
+    "Twiddle your thumbs",
+    "Sit on your hands",
+    "Lick your wounds"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় খারাপ ফল করার পর সে কলা খেয়ে বসে রইল।",
+    "কাজে ব্যর্থ হয়ে সে কলা খাওয়ার মতো অবস্থায় পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "After getting poor results in the exam, he just sat there eating bananas, meaning he became idle.",
+    "Having failed at the task, he ended up in a state of eating bananas, implying he was stuck and despondent."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Expressions of failure",
+    "Idleness and frustration"
+  ],
+  "tags": [
+    "failure",
+    "idleness",
+    "despondency",
+    "dilemma",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the image of idly eating a banana when one is unable to act or has failed, common in colloquial Bengali speech."
+}

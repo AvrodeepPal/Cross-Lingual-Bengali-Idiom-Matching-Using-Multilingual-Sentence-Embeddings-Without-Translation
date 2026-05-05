@@ -1,0 +1,39 @@
+{
+  "id": "1186",
+  "idiom": "ইত্তিলা",
+  "alternative_idioms": [
+    "এত্তেলা"
+  ],
+  "literal_meaning": "খবর বা অবহিতকরণ (notification or information)",
+  "figurative_meaning_bn": "খবর; তলব; নোটিশ",
+  "figurative_meaning_en": "news; summons; notice",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "সরকারি দপ্তর থেকে তাকে ইত্তিলা পাঠানো হয়েছে।",
+    "দুনিয়ার মালিক দীনকে ইত্তিলা পাঠিয়েছে, যা মৃত্যুর ইঙ্গিত।"
+  ],
+  "example_sentences_in_english": [
+    "A notice has been sent to him from the government office.",
+    "The Lord of the worlds has sent a summons to the poor, indicating death."
+  ],
+  "usage_domain": [
+    "formal communication",
+    "legal",
+    "religious"
+  ],
+  "tags": [
+    "notification",
+    "summons",
+    "formal notice"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This expression often appears in religious or literary contexts in Bengali culture, symbolizing a divine call or death notice, as in the example referencing God's summons to the destitute."
+  ],
+  "note": "Derived from Persian/Arabic 'ittila', commonly used in formal and spiritual Bengali discourse."
+}

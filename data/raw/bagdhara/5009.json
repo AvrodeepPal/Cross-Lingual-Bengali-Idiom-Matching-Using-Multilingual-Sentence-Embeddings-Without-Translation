@@ -1,0 +1,40 @@
+{
+  "id": "5009",
+  "idiom": "টো টো",
+  "alternative_idioms": [],
+  "literal_meaning": "দ্বিত্বসূচক শব্দধ্বনি (to and fro-এর মতো ঘোরাফেরার শব্দ)",
+  "figurative_meaning_bn": "উদ্দেশ্যবিহীনভাবসূচক; ক্লান্তিকর ও নিস্ফল ভ্রমণসূচক; ক্রমাগত ঘোরাফেরা/ঘোরাঘুরিভাবসূচক",
+  "figurative_meaning_en": "Indicative of purposelessness; indicative of tiring and fruitless travel; indicative of continuous wandering or roaming",
+  "similar_in_english": [
+    "to and fro",
+    "pacing back and forth",
+    "wandering aimlessly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সারাদিন টো টো করে বেড়িয়ে কোনো কাজই করল না।",
+    "বাজারে টো টো করতে করতে সময় কেটে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He wandered to and fro all day without accomplishing anything.",
+    "Time passed while pacing aimlessly in the market."
+  ],
+  "usage_domain": [
+    "daily life",
+    "travel",
+    "conversation"
+  ],
+  "tags": [
+    "wandering",
+    "aimless",
+    "fatigue",
+    "fruitless"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি বাংলা ভাষায় সাধারণত মৌখিক ব্যবহারে দেখা যায়, লিখিত সাহিত্যে কম।"
+}

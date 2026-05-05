@@ -1,0 +1,43 @@
+{
+  "id": "7432",
+  "idiom": "বাঁ হাতের খেল",
+  "alternative_idioms": [
+    "বাঁ হাতের কাজ",
+    "বাঁ হাতের ব্যাপার"
+  ],
+  "literal_meaning": "বাঁ হাতের খেল বা কাজ (left hand's game or work)",
+  "figurative_meaning_bn": "অতিসহজ কাজ",
+  "figurative_meaning_en": "A very easy task",
+  "similar_in_english": [
+    "Piece of cake",
+    "Child's play",
+    "Walk in the park"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কাজটা তার কাছে বাঁ হাতের খেল।",
+    "পরীক্ষার প্রস্তুতি তার জন্য বাঁ হাতের খেল ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "This task is a piece of cake for him.",
+    "Preparing for the exam was child's play for her."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Work and tasks"
+  ],
+  "tags": [
+    "ease",
+    "simplicity",
+    "effortless"
+  ],
+  "frequency": "very common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the cultural notion in Bengali and Hindi-speaking regions where tasks done effortlessly are compared to using the non-dominant left hand, implying simplicity despite handedness preferences."
+  ],
+  "note": "Comparable to Hindi 'बाएं हाथ का खेल', highlighting shared Indo-Aryan linguistic heritage."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6303",
+  "idiom": "নাকাল",
+  "alternative_idioms": [],
+  "literal_meaning": "নাক কাটা (হীনতা বা কঠোর শাস্তির প্রতীক)",
+  "figurative_meaning_bn": "বিলক্ষণ শাস্তি",
+  "figurative_meaning_en": "severe punishment or thorough comeuppance",
+  "similar_in_english": [
+    "get one's just deserts",
+    "hoist by one's own petard"
+  ],
+  "example_sentences_in_bangla": [
+    "ধোকাবাজ ব্যবসায়ীর সাথে লেনদেন করে সে নাকাল হয়েছে।",
+    "জুয়ারির ফাঁদে পড়ে তার নাকালের শেষ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He got severely punished after dealing with the swindler.",
+    "There's no end to his comeuppance after falling into the gambler's trap."
+  ],
+  "usage_domain": [
+    "conversational",
+    "warnings",
+    "folklore"
+  ],
+  "tags": [
+    "punishment",
+    "deception",
+    "consequence",
+    "humiliation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom often used in contexts of deceit and retribution in Bengali folklore."
+}

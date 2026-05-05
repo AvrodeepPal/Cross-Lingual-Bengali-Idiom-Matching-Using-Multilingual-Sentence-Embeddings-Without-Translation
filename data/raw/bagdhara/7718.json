@@ -1,0 +1,41 @@
+{
+  "id": "7718",
+  "idiom": "বিশ বাঁও জলে",
+  "alternative_idioms": [
+    "অথৈ জলে"
+  ],
+  "literal_meaning": "বিশ বাঁও (প্রায় দুই মন) জলের মধ্যে",
+  "figurative_meaning_bn": "চরম বিপাকে; সমাধানের বাইরে",
+  "figurative_meaning_en": "In extreme distress; beyond any solution",
+  "similar_in_english": [
+    "In deep water",
+    "Up the creek without a paddle",
+    "Drowning in troubles"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ধনহারায় বিশ বাঁও জলে পড়ে গেছে।",
+    "এই সমস্যায় বিশ বাঁও জলে আটকে পড়েছি।"
+  ],
+  "example_sentences_in_english": [
+    "He has fallen into deep water due to financial loss.",
+    "I'm stuck in deep water with this problem."
+  ],
+  "usage_domain": [
+    "crisis situations",
+    "everyday conversation",
+    "literature"
+  ],
+  "tags": [
+    "distress",
+    "water metaphor",
+    "extreme difficulty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from traditional Bengali measures of liquid volume, evoking imagery of overwhelming floods common in rural Bengal."
+}

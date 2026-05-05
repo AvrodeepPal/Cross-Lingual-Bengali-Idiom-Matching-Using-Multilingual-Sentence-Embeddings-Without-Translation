@@ -1,0 +1,42 @@
+{
+  "id": "7264",
+  "idiom": "বড়বড়ানি",
+  "alternative_idioms": [
+    "বডবড়",
+    "বড়বড়ানো"
+  ],
+  "literal_meaning": "অস্পষ্ট বা দ্রুত বাক্য উচ্চারণের অনুকরণমূলক শব্দ (onomatopoeic sound imitating babbling)",
+  "figurative_meaning_bn": "অর্থহীন বচন; প্রলাপ বাক্য; বিরক্তিকর অস্পষ্ট বাক্য উচ্চারণ",
+  "figurative_meaning_en": "Meaningless talk; rambling or incoherent speech; annoying unclear utterances",
+  "similar_in_english": [
+    "blah blah blah",
+    "gibberish",
+    "nonsense"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কোনো কাজের কথা না বলে শুধু বড়বড়ানি করছে।",
+    "বাচ্চাটা রাগ করে বড়বড়ানি শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "He's not saying anything useful, just babbling nonsense.",
+    "The child started rambling angrily."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "criticism of speech"
+  ],
+  "tags": [
+    "nonsense",
+    "annoyance",
+    "speech",
+    "onomatopoeia"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is onomatopoeic, mimicking the sound of indistinct or rapid speech, commonly used in colloquial Bengali."
+}

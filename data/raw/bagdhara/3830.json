@@ -1,0 +1,40 @@
+{
+  "id": "3830",
+  "idiom": "চাপা পড়া",
+  "alternative_idioms": [
+    "চাপা দেওয়া"
+  ],
+  "literal_meaning": "চাপা (দমিত বা আচ্ছন্ন) পড়া (পড়ে যাওয়া)",
+  "figurative_meaning_bn": "আলোচনায় না আসা",
+  "figurative_meaning_en": "To not come into discussion or to be hushed up",
+  "similar_in_english": [
+    "To sweep under the rug",
+    "To hush up"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই দুর্ঘটনাটি চাপা পড়ে গেছে, কেউ আলোচনা করে না।",
+    "পুরনো কেলেঙ্কারিটি চাপা পড়ার পর সবাই চুপ।"
+  ],
+  "example_sentences_in_english": [
+    "That accident has been hushed up; no one discusses it.",
+    "The old scandal was suppressed, and everyone stayed quiet."
+  ],
+  "usage_domain": [
+    "conversation",
+    "politics",
+    "media"
+  ],
+  "tags": [
+    "suppression",
+    "silence",
+    "avoidance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Synonymous with 'চাপা দেওয়া', often used in contexts of concealing uncomfortable truths."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3241",
+  "idiom": "গুণে ঘাট নাই",
+  "alternative_idioms": [
+    "গুণের সাগর"
+  ],
+  "literal_meaning": "গুণের কোনো সীমা নেই / গুণের সমুদ্র",
+  "figurative_meaning_bn": "ব্যঙ্গার্থে- কোন গুণ নাই তবে বদগুণের সীমা-পরিসীমা নেই; সর্ব বদগুণের আধার",
+  "figurative_meaning_en": "Sarcastically: No good qualities at all, but boundless bad qualities; a repository of all vices",
+  "similar_in_english": [
+    "a bottomless pit of vices",
+    "vice personified"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই রাজনীতিবিদ গুণে ঘাট নাই, শুধু দুর্নীতির সাগর।",
+    "তার চরিত্রে কোনো গুণ নেই, বরং বদগুণের সাগর।"
+  ],
+  "example_sentences_in_english": [
+    "That politician has no end to his 'qualities'—he's an ocean of corruption.",
+    "His character lacks any virtue; instead, it's a sea of vices."
+  ],
+  "usage_domain": [
+    "sarcasm",
+    "character criticism",
+    "moral judgment"
+  ],
+  "tags": [
+    "ব্যঙ্গ",
+    "বদগুণ",
+    "সমালোচনা",
+    "চরিত্রবর্ণনা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom uses sarcasm to highlight the absence of positive traits while emphasizing an abundance of negative ones, common in Bengali colloquial and literary expression."
+}

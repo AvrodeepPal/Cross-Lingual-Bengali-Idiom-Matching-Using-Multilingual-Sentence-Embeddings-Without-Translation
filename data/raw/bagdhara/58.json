@@ -1,0 +1,41 @@
+{
+  "id": "58",
+  "idiom": "অগ্নিবল",
+  "alternative_idioms": [],
+  "literal_meaning": "অগ্নির বল বা শক্তি (fire's strength)",
+  "figurative_meaning_bn": "ক্ষুধা",
+  "figurative_meaning_en": "intense hunger",
+  "similar_in_english": [
+    "fire in the belly",
+    "burning hunger"
+  ],
+  "example_sentences_in_bangla": [
+    "দিনকয়েক না খেয়ে তার অগ্নিবল জ্বলে উঠেছে।",
+    "গরিবের জীবনে অগ্নিবলই সবচেয়ে বড় শত্রু।"
+  ],
+  "example_sentences_in_english": [
+    "After days without food, his agni-bol ignited fiercely.",
+    "In the poor man's life, intense hunger is the greatest enemy."
+  ],
+  "usage_domain": [
+    "poverty",
+    "daily life",
+    "emotions"
+  ],
+  "tags": [
+    "hunger",
+    "poverty",
+    "suffering",
+    "metaphor"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the rural Bengali context of poverty, where the poor lack 'annabol' (food strength) but possess 'agnibol' (hunger's fire), highlighting the burning sensation of starvation."
+  ],
+  "note": "The idiom poetically contrasts the absence of sustenance with the painful 'fire' of hunger in impoverished lives."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2936",
+  "idiom": "গন্ধেগন্ধে",
+  "alternative_idioms": [],
+  "literal_meaning": "গন্ধ অনুসরণ করে (scent by scent)",
+  "figurative_meaning_bn": "সূত্র অনুসরণ করে",
+  "figurative_meaning_en": "following clues or trails",
+  "similar_in_english": [
+    "follow one's nose",
+    "sniff out the trail"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ গন্ধেগন্ধে অপরাধীকে ধরে ফেলেছে।",
+    "সে গন্ধেগন্ধে ঠিক জায়গায় পৌঁছে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The police caught the criminal by following the clues step by step.",
+    "He arrived at the exact spot by tracking the trail meticulously."
+  ],
+  "usage_domain": [
+    "investigation",
+    "detection",
+    "everyday problem-solving"
+  ],
+  "tags": [
+    "tracking",
+    "clue-following",
+    "scent metaphor"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the natural instinct of following scents, common in rural or tracking contexts in Bengali folklore."
+}

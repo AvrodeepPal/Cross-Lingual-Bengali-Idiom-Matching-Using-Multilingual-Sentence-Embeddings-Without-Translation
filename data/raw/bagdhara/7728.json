@@ -1,0 +1,40 @@
+{
+  "id": "7728",
+  "idiom": "বিষনজরে পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বিষাক্ত দৃষ্টিতে পড়া (poisonous glance under which one falls)",
+  "figurative_meaning_bn": "বিরাগভাজন হওয়া",
+  "figurative_meaning_en": "To become the object of displeasure or wrath",
+  "similar_in_english": [
+    "To fall from grace",
+    "To incur someone's displeasure",
+    "To be under a cloud"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বসের বিষনজরে পড়েছে, এখন কাজে সমস্যা হচ্ছে।",
+    "নতুন প্রমোশনের পর তার সাথীরা তাকে বিষনজরে দেখছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has fallen under his boss's evil eye, and now he's facing problems at work.",
+    "After the new promotion, his colleagues are looking at him with displeasure."
+  ],
+  "usage_domain": [
+    "social",
+    "professional",
+    "interpersonal"
+  ],
+  "tags": [
+    "superstition",
+    "evil eye",
+    "displeasure",
+    "negative connotation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the widespread cultural belief in the 'evil eye' (nazar) in Bengali society, often linked to envy or malice."
+}

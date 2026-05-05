@@ -1,0 +1,42 @@
+{
+  "id": "7182",
+  "idiom": "ফেরফার",
+  "alternative_idioms": [
+    "ছলাকলা",
+    "ঘোরপ্যাঁচ"
+  ],
+  "literal_meaning": "পিছনে-সামনে ঘুরে বেড়ানো বা ফিরে আসা-যাওয়া",
+  "figurative_meaning_bn": "উল্টাপাল্টা, কৌশল",
+  "figurative_meaning_en": "Evasive or roundabout talk, cunning maneuvers",
+  "similar_in_english": [
+    "beat around the bush",
+    "mince words"
+  ],
+  "example_sentences_in_bangla": [
+    "ফেরফার ছেড়ে আসল কথা বলো।",
+    "তার কথায় সব ফেরফার, কোনো সত্যি কথা নেই।"
+  ],
+  "example_sentences_in_english": [
+    "Stop beating around the bush and tell the truth.",
+    "His words are full of evasion and no real substance."
+  ],
+  "usage_domain": [
+    "conversation",
+    "rhetoric",
+    "negotiation"
+  ],
+  "tags": [
+    "evasion",
+    "cunning",
+    "colloquial",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali conversational style, emphasizing directness over circumlocution."
+}

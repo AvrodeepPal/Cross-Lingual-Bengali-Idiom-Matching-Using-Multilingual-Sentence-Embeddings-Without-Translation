@@ -1,0 +1,39 @@
+{
+  "id": "8850",
+  "idiom": "মেড়া",
+  "alternative_idioms": [
+    "মেড়াকান্ত"
+  ],
+  "literal_meaning": "লড়াইপটু ভেড়া",
+  "figurative_meaning_bn": "পরের বুদ্ধিতে চালিত ভেড়ার মতো মূর্খ ও নির্বোধ ব্যক্তি",
+  "figurative_meaning_en": "A foolish and senseless person who acts like a ram driven by others' intelligence",
+  "similar_in_english": [
+    "Blind follower",
+    "Like a sheep led to slaughter"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা মেড়াকান্ত, সবসময় অন্যের কথায় চলে যায়।",
+    "গ্রামের এই লোকটি মেড়ার মতো নির্বোধ, কারও বুদ্ধিতে নিয়ন্ত্রিত।"
+  ],
+  "example_sentences_in_english": [
+    "He is a mere ram, always going by others' words without thinking.",
+    "This village man is as foolish as a ram, controlled by someone else's intelligence."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "derogatory"
+  ],
+  "tags": [
+    "animal metaphor",
+    "foolishness",
+    "follower"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from rural animal husbandry practices in Bengal, where rams are used in fights or herded."
+}

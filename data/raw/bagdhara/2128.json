@@ -1,0 +1,41 @@
+{
+  "id": "2128",
+  "idiom": "কালসাপ",
+  "alternative_idioms": [],
+  "literal_meaning": "কালো সাপ (black snake)",
+  "figurative_meaning_bn": "ক্রুর/খলব্যক্তি, অনিষ্টকারী শক্তি, ভয়ানক হিংস্র",
+  "figurative_meaning_en": "A cruel or villainous person, a malevolent force, terribly ferocious",
+  "similar_in_english": [
+    "snake in the grass",
+    "viper"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা কালসাপের মতো বিশ্বাসঘাতকতা করে।",
+    "ঘরে কালসাপ পোষা যেন তার স্বভাব।"
+  ],
+  "example_sentences_in_english": [
+    "He betrays like a black snake.",
+    "Nurturing a viper at home is his nature."
+  ],
+  "usage_domain": [
+    "proverbs",
+    "literature",
+    "everyday warnings"
+  ],
+  "tags": [
+    "negative metaphor",
+    "animal imagery",
+    "treachery",
+    "danger"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Originates from the proverb 'দুধকলা দিয়ে ঘরে কালসাপ পোষা', symbolizing the folly of nurturing a harmful or treacherous entity at home, drawing from rural folklore about venomous snakes."
+  ],
+  "note": "Often used in contexts warning against hidden dangers or untrustworthy people."
+}

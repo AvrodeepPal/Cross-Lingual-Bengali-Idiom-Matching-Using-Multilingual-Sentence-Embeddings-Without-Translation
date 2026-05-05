@@ -1,0 +1,38 @@
+{
+  "id": "1917",
+  "idiom": "তাল কাটা",
+  "alternative_idioms": [],
+  "literal_meaning": "তাল (rhythm) কাটা (to cut)",
+  "figurative_meaning_bn": "ভঙ্গ হওয়া",
+  "figurative_meaning_en": "to break or lose rhythm/disruption",
+  "similar_in_english": [
+    "to miss a beat",
+    "to go off rhythm"
+  ],
+  "example_sentences_in_bangla": [
+    "মাঝে মাঝে তোমার গানের তাল কেটে যাচ্ছে।",
+    "কথা বলার সময় তার তাল কেটে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Sometimes your song's rhythm is breaking.",
+    "His speech rhythm faltered midway."
+  ],
+  "usage_domain": [
+    "music",
+    "performance",
+    "daily conversation"
+  ],
+  "tags": [
+    "rhythm",
+    "disruption",
+    "music"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom likely corrupted in input as 'কাটা৯'; interpreted as 'তাল কাটা' based on context and example."
+}

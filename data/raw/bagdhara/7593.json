@@ -1,0 +1,41 @@
+{
+  "id": "7593",
+  "idiom": "বামণাই",
+  "alternative_idioms": [],
+  "literal_meaning": "ব্রাহ্মণের গুণ বা বৈশিষ্ট্য (বামণ + ঐ সূচক)",
+  "figurative_meaning_bn": "ব্রাহ্মণত্বের গর্ব, বড়াই",
+  "figurative_meaning_en": "Pride in Brahmin identity, boasting or arrogance",
+  "similar_in_english": [
+    "putting on airs",
+    "highbrow attitude",
+    "priestly pomp"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বামণাই দেখে সবাই হাসে।",
+    "গ্রামের এই লোকটার বামণাই অসহ্য।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone laughs at his Brahmin pride.",
+    "The villager's boasting about his Brahmin status is unbearable."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "caste dynamics"
+  ],
+  "tags": [
+    "caste pride",
+    "arrogance",
+    "Brahmin",
+    "satire"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the folkloric figure Shunyabhattacharya, symbolizing empty or pretentious Brahmin pride in Bengali proverbs and stories."
+  ],
+  "note": "Idiom critiques caste-based superiority in traditional Bengali society."
+}

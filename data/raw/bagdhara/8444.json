@@ -1,0 +1,41 @@
+{
+  "id": "8444",
+  "idiom": "মাড়োয়ারি",
+  "alternative_idioms": [],
+  "literal_meaning": "মারোয়াড় অঞ্চলের ব্যবসায়ী সম্প্রদায়ের লোক",
+  "figurative_meaning_bn": "অর্থব্যয়ে কৃপণ",
+  "figurative_meaning_en": "Miserly or stingy in spending money",
+  "similar_in_english": [
+    "Penny-pincher",
+    "Tight-fisted"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খুব মাড়োয়ারি, কখনো অপ্রয়োজনে টাকা খরচ করে না।",
+    "তোর এই মাড়োয়ারি স্বভাব ছাড়লে জীবনটা আরও আনন্দময় হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He is very Marwari; he never spends money unnecessarily.",
+    "If you shed this Marwari habit of yours, life would be more enjoyable."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Daily conversation",
+    "Business"
+  ],
+  "tags": [
+    "Frugality",
+    "Stinginess",
+    "Community reference",
+    "Economic behavior"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "The term refers to the Marwari community from Rajasthan who migrated to Bengal in the 19th century for trade and business, becoming prominent in Kolkata's mercantile landscape, often stereotyped for their thriftiness."
+  ],
+  "note": "This idiom carries a stereotypical connotation based on historical economic roles of the Marwari community in Bengali urban society."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "464",
+  "idiom": "আড়ংহাটা",
+  "alternative_idioms": [],
+  "literal_meaning": "আড়া (সারি বা লাইন) + হাটা (হাট বা বাজারের রূপ)",
+  "figurative_meaning_bn": "গঞ্জ; বড়বাজার",
+  "figurative_meaning_en": "Market town; large marketplace",
+  "similar_in_english": [
+    "bustling bazaar",
+    "downtown market"
+  ],
+  "example_sentences_in_bangla": [
+    "কলকাতার আড়ংহাটায় সব ধরনের পণ্য পাওয়া যায়।",
+    "গ্রামের কাছে একটা ছোট আড়ংহাটা আছে যেখানে সপ্তাহে দু'বার মেলা বসে।"
+  ],
+  "example_sentences_in_english": [
+    "You can find all kinds of goods in the big market of Kolkata.",
+    "There's a small marketplace near the village where a fair is held twice a week."
+  ],
+  "usage_domain": [
+    "commerce",
+    "daily life",
+    "urban economy"
+  ],
+  "tags": [
+    "market",
+    "bazaar",
+    "trade",
+    "wholesale"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This term refers to traditional Bengali marketplaces, often evoking images of vibrant trading hubs in historical urban settings."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6337",
+  "idiom": "নাটের গুরু",
+  "alternative_idioms": [],
+  "literal_meaning": "নাটকের গুরু বা নাট্যের মাস্টার",
+  "figurative_meaning_bn": "কোন ঘটনার মূলনায়ক",
+  "figurative_meaning_en": "The main protagonist or key figure in an event",
+  "similar_in_english": [
+    "ringleader",
+    "mastermind",
+    "puppet master"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ষড়যন্ত্রের নাটের গুরু কে তা খুঁজে বার করতে হবে।",
+    "স্কুলের বিতর্কে সে ছিল নাটের গুরু।"
+  ],
+  "example_sentences_in_english": [
+    "We need to uncover who is the ringleader behind this conspiracy.",
+    "He was the mastermind in the school's debate event."
+  ],
+  "usage_domain": [
+    "events",
+    "crime",
+    "narratives"
+  ],
+  "tags": [
+    "protagonist",
+    "leadership",
+    "drama"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Rooted in Bengali theatrical traditions where 'নাট' refers to drama and 'গুরু' to a master figure."
+}

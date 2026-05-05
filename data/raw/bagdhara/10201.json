@@ -1,0 +1,43 @@
+{
+  "id": "10201",
+  "idiom": "হাতুড়ে ডাক্তার",
+  "alternative_idioms": [
+    "বদ্যি",
+    "কোয়াক ডাক্তার",
+    "নিমহাকিম"
+  ],
+  "literal_meaning": "হাতুড়ি ব্যবহারকারী ডাক্তার (হাতুড়ে অর্থ হাতুড়ি ধরা কুমার বা লোহার কাজের লোক, ডাক্তার অর্থ চিকিৎসক)",
+  "figurative_meaning_bn": "চিকিৎসাশাস্ত্রে জ্ঞান ও দক্ষতা আছে বলে দাবি করে এমন আনাড়ি বৈদ্য",
+  "figurative_meaning_en": "A person who claims knowledge and expertise in medicine but is actually an incompetent or unqualified practitioner",
+  "similar_in_english": [
+    "Quack doctor",
+    "Snake oil salesman"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে সেই হাতুড়ে ডাক্তারের কাছে যাওয়া উচিত নয়, সে আসলে কোনো চিকিৎসা জানে না।",
+    "আমার বন্ধু হাতুড়ে ডাক্তারের ফাঁদে পড়ে অসুস্থ হয়ে গিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "You shouldn't go to that quack doctor in the village; he doesn't know any real medicine.",
+    "My friend fell into the trap of a hammer doctor and ended up getting sicker."
+  ],
+  "usage_domain": [
+    "Medicine",
+    "Criticism",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "quack",
+    "incompetent",
+    "fake practitioner",
+    "unqualified"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom highlights the contrast between traditional blacksmithing tools and medical practice, often used to mock unqualified rural healers in Bengali folklore."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8068",
+  "idiom": "ভাসুর-ভাদ্রবৌ সম্পর্ক",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাসুর এবং ভাদ্রবৌ-এর মধ্যকার সম্পর্ক (ভাসুর: স্বামীর বড় ভাই; ভাদ্রবৌ: নির্দিষ্ট প্রকারের ভাবুর স্ত্রী বা আত্মীয়াত্মীয়া)",
+  "figurative_meaning_bn": "আড়াআড়ি সম্পর্ক; মুখ দেখাদেখি নেই; দুজনের মধ্যে বিশেষ কোন কারণে কথাবার্তা বন্ধ",
+  "figurative_meaning_en": "A strained or awkward relationship where there is no eye contact and conversation has ceased due to some specific reason",
+  "similar_in_english": [
+    "On bad terms",
+    "Not on speaking terms",
+    "Giving someone the cold shoulder"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের পর থেকে তাদের ভাসুর-ভাদ্রবৌ সম্পর্ক হয়ে গেছে, কেউ কারো মুখ দেখে না।",
+    "পরিবারের ঝগড়ার কারণে ভাসুর-ভাদ্রবৌ সম্পর্কের মতো আড়ি পড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Since the wedding, they've developed a brother-in-law and sister-in-law type strained relationship; they don't even look at each other.",
+    "Due to the family quarrel, an awkward rift like a brother-in-law and sister-in-law relationship has formed between them."
+  ],
+  "usage_domain": [
+    "Family relations",
+    "Social interactions",
+    "Interpersonal conflicts"
+  ],
+  "tags": [
+    "family",
+    "conflict",
+    "relationship",
+    "awkwardness",
+    "silence"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from traditional Bengali joint family dynamics, highlighting tensions between in-laws."
+}

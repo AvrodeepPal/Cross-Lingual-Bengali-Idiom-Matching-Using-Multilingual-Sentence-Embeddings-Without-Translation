@@ -1,0 +1,40 @@
+{
+  "id": "3289",
+  "idiom": "গেজেট",
+  "alternative_idioms": [],
+  "literal_meaning": "গেজেট (সংবাদপত্র বা অফিসিয়াল জার্নালের নাম থেকে উদ্ভূত)",
+  "figurative_meaning_bn": "যার কাছে সব খবর পাওয়া যায় এমন ব্যক্তি",
+  "figurative_meaning_en": "A person from whom all news and information can be obtained",
+  "similar_in_english": [
+    "walking newspaper",
+    "newsmonger",
+    "gossip mill"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা গেজেট, তার কাছে গাঁয়ের সব খবর জানা যায়।",
+    "আমাদের অফিসের গেজেটকে জিজ্ঞাসা করো, সে সব বলে দেবে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a gazette; you can get all the village news from him.",
+    "Ask our office gazette; he will tell you everything."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "social interactions"
+  ],
+  "tags": [
+    "information source",
+    "gossip",
+    "person descriptor"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "The term originates from the English 'gazette,' referring to official newspapers during British colonial times in Bengal, evolving into a colloquial term for a knowledgeable informant."
+  ],
+  "note": "The prefix 'কৌতুকে-' in the input appears to be a possible transcription error and has been ignored for accuracy."
+}

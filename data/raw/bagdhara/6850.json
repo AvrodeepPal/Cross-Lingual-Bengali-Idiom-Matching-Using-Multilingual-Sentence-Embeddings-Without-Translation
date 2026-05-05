@@ -1,0 +1,42 @@
+{
+  "id": "6850",
+  "idiom": "পায়ের চিহ্ন পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পায়ের দাগ বা ছাপ পড়া বা দৃশ্যমান হওয়া",
+  "figurative_meaning_bn": "আসা",
+  "figurative_meaning_en": "to come or arrive",
+  "similar_in_english": [
+    "to set foot somewhere",
+    "to tread a path"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পায়ের চিহ্ন পড়েছে এই গ্রামে, অর্থাৎ সে এখানে এসেছে।",
+    "আমার পায়ের চিহ্ন পড়ুক তোমার এই বাড়িতে।"
+  ],
+  "example_sentences_in_english": [
+    "His footprints have fallen in this village, meaning he has come here.",
+    "May my footprints fall in your home."
+  ],
+  "usage_domain": [
+    "literature",
+    "everyday conversation",
+    "poetry"
+  ],
+  "tags": [
+    "arrival",
+    "movement",
+    "literary",
+    "path",
+    "visit"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from Rabindranath Tagore's line in his song: 'যখন পরবে নয়া মোর পায়ের চিহ্ন এই বাটে', symbolizing longing for arrival and presence in a beloved path or place."
+  ],
+  "note": "Deeply tied to Tagore's romantic and pastoral imagery in Bengali literature."
+}

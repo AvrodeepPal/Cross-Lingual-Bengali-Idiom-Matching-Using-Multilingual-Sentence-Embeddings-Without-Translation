@@ -1,0 +1,38 @@
+{
+  "id": "7445",
+  "idiom": "বাকসর্বস্ব",
+  "alternative_idioms": [],
+  "literal_meaning": "বাক (কথা) এর সর্বস্ব (সম্পূর্ণ সম্পত্তি বা সবকিছু)",
+  "figurative_meaning_bn": "কথা বলতে ওস্তাদ কিন্তু কাজ করতে অক্ষম; অপদার্থ",
+  "figurative_meaning_en": "Expert in talking but incompetent in action; worthless or all talk and no substance",
+  "similar_in_english": [
+    "All talk and no action",
+    "Big talker but no doer"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা বাকসর্বস্ব মানুষ, সবসময় বড় বড় কথা বলে কিন্তু কোনো কাজ করে না।",
+    "এই রাজনীতিবিদরা বাকসর্বস্ব, প্রতিশ্রুতি দেয় কিন্তু কিছু করে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a bakasarbosho person, always boasting but never delivering.",
+    "These politicians are all talk, promising the world but achieving nothing."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism",
+    "Politics"
+  ],
+  "tags": [
+    "sarcasm",
+    "ineptitude",
+    "hypocrisy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights the cultural disdain in Bengali society for empty verbosity over practical deeds."
+}

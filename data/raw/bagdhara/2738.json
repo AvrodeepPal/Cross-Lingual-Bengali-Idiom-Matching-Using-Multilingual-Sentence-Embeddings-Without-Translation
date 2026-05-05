@@ -1,0 +1,37 @@
+{
+  "id": "2738",
+  "idiom": "খোঁচ",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁটা বা ছোটো কাঁটার মতো কিছু",
+  "figurative_meaning_bn": "কাঁটা, ছোটখাটো ঝঞ্ঝাট, সামান্য ত্রুটি",
+  "figurative_meaning_en": "thorn, minor hassle, slight flaw",
+  "similar_in_english": [
+    "a fly in the ointment",
+    "a thorn in one's side"
+  ],
+  "example_sentences_in_bangla": [
+    "কাজটায় শেষপর্যন্ত একটা খোঁচ রয়ে গেল।",
+    "এই ছোট খোঁচের জন্য সবকিছু নষ্ট হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "In the end, there was a small snag in the work.",
+    "This minor flaw ruined everything because of it."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "work and planning"
+  ],
+  "tags": [
+    "annoyance",
+    "flaw",
+    "minor issue"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the physical sensation of a thorn to metaphorically describe persistent minor irritations."
+}

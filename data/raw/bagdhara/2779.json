@@ -1,0 +1,41 @@
+{
+  "id": "2779",
+  "idiom": "খোলা তালাক",
+  "alternative_idioms": [],
+  "literal_meaning": "খোলা (open) তালাক (divorce)",
+  "figurative_meaning_bn": "স্ত্রীর ইচ্ছায় অর্থের বিনিময়ে তালাক",
+  "figurative_meaning_en": "Divorce initiated by the wife in exchange for monetary compensation",
+  "similar_in_english": [
+    "Khula divorce",
+    "No-fault divorce"
+  ],
+  "example_sentences_in_bangla": [
+    "উনি খোলা তালাকের মাধ্যমে বিবাহ বিচ্ছেদ করেছেন, কারণ তিনি আর সহ্য করতে পারছিলেন না।",
+    "খোলা তালাক নেওয়ার জন্য স্ত্রীকে মোহরের অর্ধেক ফেরত দিতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "She sought a khula divorce because she could no longer tolerate the marriage.",
+    "In khula divorce, the wife must return half of her dowry as compensation."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Marriage",
+    "Family Law"
+  ],
+  "tags": [
+    "Divorce",
+    "Islamic Law",
+    "Women's Rights",
+    "Muslim Culture"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term originates from Islamic jurisprudence, specifically the concept of 'khula' mentioned in the Quran (Surah Al-Baqarah 2:229), allowing a wife to seek divorce by forfeiting her financial rights."
+  ],
+  "note": "Primarily used in Muslim communities in Bengal; reflects gender dynamics in traditional marriages."
+}

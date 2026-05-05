@@ -1,0 +1,40 @@
+{
+  "id": "32",
+  "idiom": "অক্ষরজ্ঞান",
+  "alternative_idioms": [
+    "অক্ষরপরিচয়"
+  ],
+  "literal_meaning": "অক্ষরের জ্ঞান বা পরিচয়",
+  "figurative_meaning_bn": "প্রাথমিক শিক্ষা",
+  "figurative_meaning_en": "Basic education or elementary literacy",
+  "similar_in_english": [
+    "know one's ABCs"
+  ],
+  "example_sentences_in_bangla": [
+    "তার এখনো অক্ষরজ্ঞান হয়নি, সে খেলতে ব্যস্ত।",
+    "শিশুটির অক্ষরপরিচয় হলে স্কুলে ভর্তি করব।"
+  ],
+  "example_sentences_in_english": [
+    "He doesn't even have basic literacy yet; he's busy playing.",
+    "We'll enroll the child in school once he learns his letters."
+  ],
+  "usage_domain": [
+    "education",
+    "childhood"
+  ],
+  "tags": [
+    "literacy",
+    "beginner",
+    "traditional learning"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to traditional Bengali education where children learn the alphabet using a writing stick (খড়ি) on a slate, common in rural settings before modern schooling."
+  ],
+  "note": "The idiom evokes early childhood education in Bengali culture, often linked to the phrase 'হাতে খড়ি' indicating pre-literacy stage."
+}

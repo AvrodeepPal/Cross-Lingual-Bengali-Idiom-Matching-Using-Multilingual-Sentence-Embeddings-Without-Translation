@@ -1,0 +1,42 @@
+{
+  "id": "6181",
+  "idiom": "নড়াচড়া",
+  "alternative_idioms": [
+    "নড়ন-চড়ন"
+  ],
+  "literal_meaning": "নড়া ও চলা, স্পন্দন ও চলন",
+  "figurative_meaning_bn": "স্থান পরিবর্তন",
+  "figurative_meaning_en": "Change of place or position; movement from one location to another",
+  "similar_in_english": [
+    "Up and about",
+    "On the move",
+    "Getting around"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার আর নড়াচড়া করার শক্তি নেই।",
+    "সে কোথাও নড়াচড়া করতে পারছে না ব্যথার কারণে।"
+  ],
+  "example_sentences_in_english": [
+    "I have no strength left to move around.",
+    "He can't move anywhere due to the pain."
+  ],
+  "usage_domain": [
+    "Daily life",
+    "Health",
+    "Travel"
+  ],
+  "tags": [
+    "Movement",
+    "Mobility",
+    "Inactivity",
+    "Physical condition"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali expressions for physical mobility, often used in contexts of fatigue or restriction."
+}

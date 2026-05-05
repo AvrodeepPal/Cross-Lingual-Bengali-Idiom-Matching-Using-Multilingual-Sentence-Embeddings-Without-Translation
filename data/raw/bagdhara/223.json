@@ -1,0 +1,40 @@
+{
+  "id": "223",
+  "idiom": "অভদ্রাকাল",
+  "alternative_idioms": [],
+  "literal_meaning": "অভদ্রা (অনিয়মিত বর্ষাকাল) + কাল (সময়)",
+  "figurative_meaning_bn": "আকাল; দুঃসময়; দুঃর্ভিক্ষের সময়",
+  "figurative_meaning_en": "famine; hard times; period of scarcity",
+  "similar_in_english": [
+    "hard times",
+    "famine days"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে অভদ্রাকাল পড়ায় সবাই কষ্ট পাচ্ছে।",
+    "এই অভদ্রাকালে ফসল নষ্ট হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The village is suffering due to the famine times.",
+    "Crops have been ruined in these hard times."
+  ],
+  "usage_domain": [
+    "agriculture",
+    "daily conversation"
+  ],
+  "tags": [
+    "famine",
+    "hardship",
+    "scarcity",
+    "rural life"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Refers to irregular rainy season (অভদ্রা বর্ষাকাল) leading to famine, symbolized by extreme hunger where a deer would lick a tiger's cheek (হরিণী চাটে বাঘের গাল)."
+  ],
+  "note": "Deeply tied to Bengali agrarian experiences of unpredictable monsoons."
+}

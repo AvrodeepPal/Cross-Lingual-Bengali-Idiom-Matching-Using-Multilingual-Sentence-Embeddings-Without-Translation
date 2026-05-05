@@ -1,0 +1,38 @@
+{
+  "id": "5538",
+  "idiom": "ত্রিকুল",
+  "alternative_idioms": [],
+  "literal_meaning": "তিনটি কুল বা বংশ: পিতৃকুল, মাতৃকুল এবং শ্বশুরকুল",
+  "figurative_meaning_bn": "পিতৃকুল, মাতৃকুল ও শ্বশুরকুল",
+  "figurative_meaning_en": "paternal family, maternal family, and in-laws' family",
+  "similar_in_english": [
+    "No direct equivalent; akin to 'extended family on all sides'"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সকলকে খেয়ে বসে আছে, ত্রিকুলের তার আর কেউ নেই।",
+    "তার ত্রিকুলের সম্পত্তি সব নষ্ট হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has devoured everyone; there's no one left in his three families.",
+    "All the property from his three families has been ruined."
+  ],
+  "usage_domain": [
+    "family relations",
+    "inheritance",
+    "social commentary"
+  ],
+  "tags": [
+    "family",
+    "relatives",
+    "ruin",
+    "traditional society"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the traditional Bengali joint family system encompassing both birth families and marital ties."
+}

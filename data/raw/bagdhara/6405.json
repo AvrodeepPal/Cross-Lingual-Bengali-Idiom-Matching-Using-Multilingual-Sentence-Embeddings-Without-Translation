@@ -1,0 +1,39 @@
+{
+  "id": "6405",
+  "idiom": "না হয়",
+  "alternative_idioms": [],
+  "literal_meaning": "না হয় (শব্দশঃ: না + হয়, অর্থাৎ 'না হওয়া' বা 'ঘটনা না ঘটা')",
+  "figurative_meaning_bn": "বড়জোর",
+  "figurative_meaning_en": "at most or in the worst case",
+  "similar_in_english": [
+    "at worst",
+    "at the most",
+    "worst-case scenario"
+  ],
+  "example_sentences_in_bangla": [
+    "না হয় একশ টাকা লাগবে।",
+    "না হয় পরে দেখা যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "At most, it will cost a hundred rupees.",
+    "At worst, we'll see later."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "planning",
+    "estimation"
+  ],
+  "tags": [
+    "concession",
+    "maximum",
+    "hypothetical"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a colloquial expression used to indicate a concession or upper limit in informal speech."
+}

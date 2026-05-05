@@ -1,0 +1,42 @@
+{
+  "id": "1625",
+  "idiom": "কর্মকাণ্ড",
+  "alternative_idioms": [
+    "কাণ্ডকারখানা",
+    "ব্যাপার-স্যাপার"
+  ],
+  "literal_meaning": "কর্ম (কাজ বা কার্য) এবং কাণ্ড (ঘটনা বা ব্যাপার)",
+  "figurative_meaning_bn": "যাবতীয় কাজ",
+  "figurative_meaning_en": "all sorts of activities or deeds",
+  "similar_in_english": [
+    "goings-on",
+    "antics",
+    "doings"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার এই কর্মকাণ্ড দেখে সবাই হতবাক হয়ে গেছে।",
+    "এই কর্মকাণ্ডের জন্য সে সবসময় সমস্যায় পড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone is stunned by your antics.",
+    "He always gets into trouble because of his doings."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "daily life"
+  ],
+  "tags": [
+    "actions",
+    "deeds",
+    "mischief",
+    "activities"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to describe someone's surprising or troublesome activities in Bengali culture."
+}

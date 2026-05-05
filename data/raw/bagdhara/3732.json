@@ -1,0 +1,41 @@
+{
+  "id": "3732",
+  "idiom": "চরকি ঘোরানো",
+  "alternative_idioms": [],
+  "literal_meaning": "চরকি (চাকা বা সুতো কাটার যন্ত্র) ঘোরানো (ঘুরানো বা চালানো)",
+  "figurative_meaning_bn": "কাউকে অনর্থক ঘুরিয়ে হয়রান করা",
+  "figurative_meaning_en": "To harass someone by making them run around pointlessly",
+  "similar_in_english": [
+    "Send on a wild goose chase",
+    "Run around in circles"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমাকে চরকি ঘোরানোর জন্য সারাদিন ঘোরাল।",
+    "অফিসে চাকরির জন্য চরকি ঘোরানো হয়েছে অনেকের সাথে।"
+  ],
+  "example_sentences_in_english": [
+    "He made me run around all day, spinning the charkhi on me.",
+    "Many people have been hassled by pointless errands in the office, like spinning a charkhi."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Bureaucracy",
+    "Daily hassles"
+  ],
+  "tags": [
+    "harassment",
+    "time-wasting",
+    "frustration",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom draws from the traditional rural practice of spinning thread on a charkhi (spinning wheel), symbolizing repetitive, futile labor in village life."
+  ],
+  "note": "Rooted in pre-industrial Bengali rural economy where spinning wheels were common household tools."
+}

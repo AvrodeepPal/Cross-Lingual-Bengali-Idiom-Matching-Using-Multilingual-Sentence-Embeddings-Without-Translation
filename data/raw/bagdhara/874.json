@@ -1,0 +1,43 @@
+{
+  "id": "874",
+  "idiom": "ঊর্ধ্বদৃষ্টি",
+  "alternative_idioms": [
+    "শিবনেত্র"
+  ],
+  "literal_meaning": "উর্ধ্বমুখী দৃষ্টি (upward gaze)",
+  "figurative_meaning_bn": "উদাসীন",
+  "figurative_meaning_en": "indifferent or apathetic",
+  "similar_in_english": [
+    "staring into space",
+    "looking the other way"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার কথা শুনে ঊর্ধ্বদৃষ্টি করে উঠল।",
+    "বিতর্কের মাঝে তার ঊর্ধ্বদৃষ্টি দেখে সবাই বুঝল সে উদাসীন।"
+  ],
+  "example_sentences_in_english": [
+    "He looked up to the sky upon hearing my words, showing indifference.",
+    "In the middle of the debate, his upward gaze made everyone realize his apathy."
+  ],
+  "usage_domain": [
+    "conversational",
+    "literary",
+    "emotional expression"
+  ],
+  "tags": [
+    "indifference",
+    "apathy",
+    "detachment",
+    "gaze"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from Hindu mythology, referencing Lord Shiva's meditative upward gaze (Shiva's third eye), symbolizing worldly detachment and spiritual focus."
+  ],
+  "note": "Often used to describe someone avoiding engagement by looking away upwards, evoking a sense of disinterest rooted in cultural imagery."
+}

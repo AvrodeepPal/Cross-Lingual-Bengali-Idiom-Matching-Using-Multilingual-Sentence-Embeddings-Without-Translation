@@ -1,0 +1,38 @@
+{
+  "id": "6611",
+  "idiom": "পয়সার ফুটফুটানি",
+  "alternative_idioms": [],
+  "literal_meaning": "পয়সার প্রদর্শন বা ফুটানোর মতো আচরণ",
+  "figurative_meaning_bn": "অর্থের অহঙ্কার, জাঁক",
+  "figurative_meaning_en": "Arrogance due to wealth, ostentation",
+  "similar_in_english": [
+    "Flash one's money around",
+    "Put on airs"
+  ],
+  "example_sentences_in_bangla": [
+    "হাতে কিছু টাকা পেয়েই তার পয়সার ফুটফুটানি শুরু হয়ে গেছে।",
+    "সে পয়সার ফুটফুটানি করে সবাইকে অস্বস্তিতে ফেলে দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "As soon as he got some money, his flaunting of wealth began.",
+    "He makes everyone uncomfortable with his ostentatious display of money."
+  ],
+  "usage_domain": [
+    "social interaction",
+    "wealth and status"
+  ],
+  "tags": [
+    "money",
+    "arrogance",
+    "showiness",
+    "behavior"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom reflects common Bengali cultural critique of sudden wealth leading to pretentious behavior."
+}

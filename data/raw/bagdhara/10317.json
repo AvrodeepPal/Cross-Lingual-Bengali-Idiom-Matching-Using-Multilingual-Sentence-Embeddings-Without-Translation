@@ -1,0 +1,39 @@
+{
+  "id": "10317",
+  "idiom": "হিড়হিড়",
+  "alternative_idioms": [],
+  "literal_meaning": "টেনে নেওয়ার শব্দময় ভঙ্গি বা অনুকরণ",
+  "figurative_meaning_bn": "টেনে নিয়ে যাবার ভঙ্গি",
+  "figurative_meaning_en": "The manner of dragging or pulling along reluctantly",
+  "similar_in_english": [
+    "drag one's feet",
+    "pull along"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হিড়হিড় করে স্কুলে গেল।",
+    "বাচ্চাটা হিড়হিড় করে খাবার খেল।"
+  ],
+  "example_sentences_in_english": [
+    "He went to school dragging his feet.",
+    "The child ate his food dragging it out."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "daily conversation",
+    "describing reluctance"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "reluctance",
+    "movement",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is onomatopoeic, mimicking the sound of reluctant dragging, common in rural and everyday Bengali speech."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "1963",
+  "idiom": "কাণ্ডজ্ঞান",
+  "alternative_idioms": [
+    "কাণ্ডাকাণ্ড-জ্ঞান",
+    "কাণ্ডাকাণ্ডি জ্ঞান"
+  ],
+  "literal_meaning": "কাণ্ডের জ্ঞান (ঘটনা বা দুষ্টামির বোঝা)",
+  "figurative_meaning_bn": "সহজাত বুদ্ধি; অবস্থা অনুযায়ী কর্তব্য-অকর্তব্যবোধ, বুদ্ধিবিবেচনা, ভালমন্দ বিচারের ক্ষমতা, উচিত-অনুচিতবোধ",
+  "figurative_meaning_en": "Innate intelligence; situational sense of duty and propriety, judgment, ability to discern good from bad, sense of what is appropriate or inappropriate",
+  "similar_in_english": [
+    "Common sense",
+    "Street smarts",
+    "Good judgment"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি কাণ্ডজ্ঞান হারিয়ে ফেলেছো, এভাবে চললে বিপদে পড়বে।",
+    "বাচ্চারা কাণ্ডজ্ঞান শিখতে শিখতে বড় হয়।"
+  ],
+  "example_sentences_in_english": [
+    "You've lost your common sense; you'll get into trouble if you continue like this.",
+    "Children learn common sense as they grow up."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Advice and criticism",
+    "Moral guidance"
+  ],
+  "tags": [
+    "wisdom",
+    "judgment",
+    "intelligence",
+    "propriety"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali wisdom, often used in familial or social contexts to advise on practical behavior."
+}

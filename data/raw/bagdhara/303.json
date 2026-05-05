@@ -1,0 +1,39 @@
+{
+  "id": "303",
+  "idiom": "আওয়াজ দেওয়া",
+  "alternative_idioms": [
+    "বিড়াল ডাকা"
+  ],
+  "literal_meaning": "to make a sound or call out",
+  "figurative_meaning_bn": "বিদ্রুপাত্মক ধ্বনি দেওয়া",
+  "figurative_meaning_en": "to make a mocking or jeering sound from behind",
+  "similar_in_english": [
+    "catcall",
+    "jeer from the back"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় সে পিছন থেকে আওয়াজ দিয়ে বিদ্রুপ করল।",
+    "রাস্তায় মেয়েরা যাচ্ছে, কয়েকজন ছেলে আওয়াজ দিচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He jeered from the back during the meeting.",
+    "Some boys are catcalling the girls passing on the street."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "informal speech"
+  ],
+  "tags": [
+    "mockery",
+    "sarcasm",
+    "derision"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Often used in contexts of public teasing or harassment, comparable to catcalling in English."
+}

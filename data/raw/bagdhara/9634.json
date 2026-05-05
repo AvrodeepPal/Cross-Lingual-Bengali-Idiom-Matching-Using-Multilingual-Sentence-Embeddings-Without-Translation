@@ -1,0 +1,43 @@
+{
+  "id": "9634",
+  "idiom": "সমুদ্রে পাদ্য অর্ঘ্য",
+  "alternative_idioms": [
+    "সমুদ্রে বিন্দুপাত"
+  ],
+  "literal_meaning": "সমুদ্রে পাদ্য (পায়ে ধোয়ার জল) এবং অর্ঘ্য (অর্পণীয় জল) দেওয়া",
+  "figurative_meaning_bn": "প্রয়োজন যেখানে বিপুল পরিমাণের সেখানে অতি অল্প সরবরাহ মূল্যহীন",
+  "figurative_meaning_en": "Where a vast quantity is needed, a very small supply is worthless",
+  "similar_in_english": [
+    "a drop in the ocean",
+    "a drop in the bucket"
+  ],
+  "example_sentences_in_bangla": [
+    "এই অল্প অর্থ দিয়ে দুর্ভিক্ষের সময় সাহায্য করলে সমুদ্রে পাদ্য অর্ঘ্য দেওয়ার মতো হবে।",
+    "তার অবদান এতটুকু যে সমুদ্রে বিন্দুপাতের মতোই নগণ্য।"
+  ],
+  "example_sentences_in_english": [
+    "Donating this tiny amount during a famine would be like offering padya and arghya to the ocean.",
+    "His contribution was so small it was like a drop falling into the ocean."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "financial advice",
+    "charity and aid"
+  ],
+  "tags": [
+    "insignificance",
+    "futility",
+    "quantity comparison",
+    "ritual reference"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from Hindu rituals where padya and arghya are offerings made to deities, symbolizing the futility of small gestures in vast contexts like the sea."
+  ],
+  "note": "The idiom highlights cultural practices of hospitality and worship in Bengali tradition."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7566",
+  "idiom": "বানের জলে ভেসে আসা",
+  "alternative_idioms": [],
+  "literal_meaning": "বন্যার জলে ভেসে আসা",
+  "figurative_meaning_bn": "অযাচিত প্রাপ্তি",
+  "figurative_meaning_en": "Unanticipated or unearned gain",
+  "similar_in_english": [
+    "Windfall",
+    "Manna from heaven"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবনে বানের জলে ভেসে আসা সৌভাগ্য এসেছে।",
+    "এই চাকরিটা তার কাছে বানের জলে ভেসে আসা মতো।"
+  ],
+  "example_sentences_in_english": [
+    "A windfall opportunity came his way unexpectedly.",
+    "The inheritance felt like manna from heaven to her."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Finance and luck"
+  ],
+  "tags": [
+    "flood",
+    "unexpected gain",
+    "fortune"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the frequent floods in Bengal's riverine regions, symbolizing items carried away and found downstream."
+  ],
+  "note": "Idiom draws from the natural disaster-prone geography of Bengal."
+}

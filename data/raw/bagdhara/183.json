@@ -1,0 +1,42 @@
+{
+  "id": "183",
+  "idiom": "অন্ধহস্তীন্যায়",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ধের হাতী সম্পর্কিত ন্যায় বা উপমা (blind men's elephant analogy)",
+  "figurative_meaning_bn": "হাতীর স্বরূপ কি জানতে গিয়ে কয়েকজন অন্ধের যেমন ধারণা হয়েছিল তেমন; অনভিজ্ঞ ব্যক্তি কোন বস্তুর একদেশ দর্শন করে চরম সিদ্ধান্তে উপনীত হলে তাদের অন্ধহস্তীন্যায়ের অন্ধের সাথে তুলনা করা হয়",
+  "figurative_meaning_en": "Like the perception formed by several blind men when trying to understand the form of an elephant; when inexperienced people draw extreme conclusions from seeing only one aspect of something, they are compared to the blind men in the blind elephant analogy",
+  "similar_in_english": [
+    "The blind men and the elephant",
+    "Can't see the forest for the trees"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি শুধু একটা দিক দেখে পুরো বিষয়টাকে বিচার করছ, এটা তো অন্ধহস্তীন্যায়।",
+    "রাজনীতির এই ঘটনায় অনেকেই অন্ধহস্তীন্যায় করে মতামত দিচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "You're judging the entire situation based on just one aspect; that's the blind men and the elephant fallacy.",
+    "Many people are committing the blind elephant error in their opinions on this political event."
+  ],
+  "usage_domain": [
+    "philosophy",
+    "perception",
+    "judgment",
+    "literature"
+  ],
+  "tags": [
+    "analogy",
+    "misunderstanding",
+    "partial knowledge",
+    "folklore"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "কয়েকজন অন্ধ এক চক্ষুস্মানের কাছে হাতী দেখতে কিরকম জানতে চায়; চক্ষুস্মান ব্যক্তি তাদের হাতীশালায় নিয়ে গিয়ে হাতীর অঙ্গস্পর্শ করিয়ে বলে এটা হল হাতী; এতে যে অন্ধ যে অঙ্গ স্পর্শ করছিল সে সেই অঙ্গকেই হাতী বলে মনে করে; যে গা স্পর্শ করছিল সে মনে করে হাতী দেওয়ালের মত; যে কান স্পর্শ করেছিল সে মনে করে হাতী কুলোর মত; যে পা স্পর্শ করেছিল সে মনে করে হাতী থামের মত; যে লেজ স্পর্শ করেছিল সে মনে করে হাতী দড়ির মত; এবং যে শুঁড় স্পর্শ করে সে মনে করে হাতী সাপের মত"
+  ],
+  "note": "এই উপমা ভারতীয় লোককথা থেকে উদ্ভূত, বাংলা সাহিত্যে প্রচলিত"
+}

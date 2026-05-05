@@ -1,0 +1,39 @@
+{
+  "id": "7989",
+  "idiom": "ভাগের মা গঙ্গা পায় না",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাগের মা গঙ্গা পায় না (শাব্দিকভাবে: ভাগের মা গঙ্গা নদী লাভ করে না)",
+  "figurative_meaning_bn": "বেশি ভাগীদার থাকলে বণ্টন ঠিকমত হয় না; ভাগবাটোয়ারা প্রায়সময়ই পণ্ড হয়ে যায়; কাজের পূর্ণ দায়িত্ব কোনো একজনের উপর না থাকলে প্রায়ই তা সিদ্ধ হয় না",
+  "figurative_meaning_en": "If there are too many partners, the distribution does not happen properly; division often fails; if the full responsibility of a task is not on one person, it often does not succeed",
+  "similar_in_english": [
+    "Too many cooks spoil the broth"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রকল্পে অনেক লোক জড়িয়ে পড়ায় ভাগের মা গঙ্গা পায় না।",
+    "সম্পত্তি ভাগ করতে গিয়ে ভাইরা এমন ঝগড়া করল যে ভাগের মা গঙ্গা পায় না।"
+  ],
+  "example_sentences_in_english": [
+    "With so many people involved in the project, it's a case of the mother of the share not getting the Ganga.",
+    "The brothers quarreled so much over dividing the property that the mother of the share didn't get the Ganga."
+  ],
+  "usage_domain": [
+    "business",
+    "teamwork",
+    "division of labor",
+    "family disputes"
+  ],
+  "tags": [
+    "sharing",
+    "responsibility",
+    "failure in collaboration",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws on the cultural reverence for the Ganges but uses it figuratively to highlight issues in shared responsibilities."
+}

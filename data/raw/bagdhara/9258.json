@@ -1,0 +1,42 @@
+{
+  "id": "9258",
+  "idiom": "লাগাম",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘোড়ার রাশ বা লাগাম (rein or bridle for a horse)",
+  "figurative_meaning_bn": "রোধ, রাশ, সংযম",
+  "figurative_meaning_en": "restraint, control, moderation",
+  "similar_in_english": [
+    "without reins",
+    "loose cannon",
+    "no holds barred"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মুখে কোনো লাগাম নেই, যা মনে আসে তাই বলে ফেলে।",
+    "জীবনে কিছু লাগাম রাখতে হবে, অন্যথায় সবকিছু নষ্ট হয়ে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "He has no rein on his mouth; he says whatever comes to his mind.",
+    "One must keep some restraint in life, otherwise everything will be ruined."
+  ],
+  "usage_domain": [
+    "speech",
+    "behavior",
+    "self-control"
+  ],
+  "tags": [
+    "restraint",
+    "control",
+    "moderation",
+    "speech"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from equestrian terminology in traditional Bengali rural life, symbolizing control over animals and metaphorically over human impulses."
+  ],
+  "note": "Often used in contexts implying lack of self-control, especially in speech."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "5075",
+  "idiom": "ঠেকা মেয়ে",
+  "alternative_idioms": [],
+  "literal_meaning": "বাগদানকৃত মেয়ে (engaged girl)",
+  "figurative_meaning_bn": "গায়ে হলুদের পর নির্ধারিত পাত্রের সঙ্গে যে কুমারীর বিয়ে হয়নি বলে অন্য পাত্র তাকে বিবাহে অসম্মত হয় এমন চিরকুমারী",
+  "figurative_meaning_en": "A spinster who remains unmarried forever because, after the pre-wedding gaye holud ritual, her marriage to the intended groom falls through, causing other suitors to reject her",
+  "similar_in_english": [
+    "old maid",
+    "spinster"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে সে ঠেকা মেয়ে হিসেবে পরিচিত, কারণ তার বিয়ের দিন ঠিক আগে পাত্রপক্ষ পালিয়ে যায়।",
+    "এখন আর কেউ তাকে বিয়ে করতে চায় না, সে তো ঠেকা মেয়ে হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "In the village, she is known as a spinster because the groom's family fled just before the wedding.",
+    "No one wants to marry her now; she has become an old maid."
+  ],
+  "usage_domain": [
+    "marriage",
+    "social stigma",
+    "traditional customs"
+  ],
+  "tags": [
+    "bengali wedding rituals",
+    "gender roles",
+    "cultural taboo"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from traditional Bengali marriage customs, particularly the 'gaye holud' ritual, a pre-wedding ceremony involving turmeric paste application to bless the bride and groom, common in rural Bengal before arranged marriages."
+  ],
+  "note": "Reflects outdated social norms around failed engagements and women's marital prospects in traditional Bengali society."
+}

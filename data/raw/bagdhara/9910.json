@@ -1,0 +1,42 @@
+{
+  "id": "9910",
+  "idiom": "হাদিস পাওয়া",
+  "alternative_idioms": [
+    "হাদিশ পাওয়া"
+  ],
+  "literal_meaning": "হাদিস (ইসলামী ঐতিহ্য বা বাণী) পাওয়া",
+  "figurative_meaning_bn": "সঠিক খোঁজ বা পথ পাওয়া",
+  "figurative_meaning_en": "To receive a correct clue or guidance",
+  "similar_in_english": [
+    "To get a tip-off",
+    "To find one's bearings"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কাছ থেকে হাদিস পেয়ে সে সমস্যার সমাধান করতে পারল।",
+    "জীবনের পথে হাদিস পাওয়া খুব জরুরি।"
+  ],
+  "example_sentences_in_english": [
+    "He was able to solve the problem after getting a hadis from him.",
+    "Getting a hadis is essential on life's path."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "guidance and advice"
+  ],
+  "tags": [
+    "hint",
+    "guidance",
+    "clue",
+    "Islamic origin"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the Islamic term 'Hadith', referring to the sayings and traditions of Prophet Muhammad, figuratively used to mean receiving insightful or divine-like guidance in everyday Bengali speech."
+  ],
+  "note": "Common in Muslim Bengali communities; spelling variations exist due to regional dialects."
+}

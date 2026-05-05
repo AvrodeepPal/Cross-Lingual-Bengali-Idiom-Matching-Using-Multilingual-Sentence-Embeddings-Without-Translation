@@ -1,0 +1,40 @@
+{
+  "id": "8338",
+  "idiom": "মন্দা",
+  "alternative_idioms": [],
+  "literal_meaning": "মন্দতা বা খারাপ অবস্থা",
+  "figurative_meaning_bn": "পণ্যমূল্যের হ্রাস",
+  "figurative_meaning_en": "Decline in commodity prices",
+  "similar_in_english": [
+    "Market slump",
+    "Economic downturn",
+    "Price drop"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে মন্দা পড়ায় ব্যবসায়ীরা ক্ষতিগ্রস্ত হয়েছে।",
+    "এই বছর ফসলের মন্দার কারণে কৃষকরা দুঃখিত।"
+  ],
+  "example_sentences_in_english": [
+    "The market slump has caused losses to businessmen.",
+    "Farmers are upset due to the price decline of crops this year."
+  ],
+  "usage_domain": [
+    "Economy",
+    "Business",
+    "Agriculture"
+  ],
+  "tags": [
+    "market",
+    "prices",
+    "economy",
+    "decline"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in Bengali economic discourse to describe periods of low market activity."
+}

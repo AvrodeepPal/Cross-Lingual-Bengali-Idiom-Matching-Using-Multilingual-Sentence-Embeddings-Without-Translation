@@ -1,0 +1,39 @@
+{
+  "id": "7210",
+  "idiom": "ফ্যাশন",
+  "alternative_idioms": [],
+  "literal_meaning": "ফ্যাশনেবল আচরণ বা শৈলী",
+  "figurative_meaning_bn": "বাবুগিরি, শৌখিন রীতি",
+  "figurative_meaning_en": "Pretentiousness, affected or showy manner",
+  "similar_in_english": [
+    "Putting on airs",
+    "All hat and no cattle"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ছেলের ফ্যাশন দেখে মনে হয় সে খুব বড়লোকের ছেলে।",
+    "অফিসে এত ফ্যাশন করে কেন, কাজ তো করিস না?"
+  ],
+  "example_sentences_in_english": [
+    "His fashion makes him seem like the son of a big shot.",
+    "Why so much fashion at the office when you don't do any work?"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Social criticism",
+    "Urban lifestyle"
+  ],
+  "tags": [
+    "slang",
+    "criticism",
+    "urban",
+    "borrowed word"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Borrowed from English 'fashion'; reflects colonial-era 'babu' culture of ostentation in Bengali society"
+}

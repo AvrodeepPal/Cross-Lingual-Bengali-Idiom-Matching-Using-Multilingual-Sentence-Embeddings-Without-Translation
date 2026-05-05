@@ -1,0 +1,39 @@
+{
+  "id": "10101",
+  "idiom": "হাত কালি করা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতে কালি লাগানো বা হাত কালো করা",
+  "figurative_meaning_bn": "কলঙ্কিত করা",
+  "figurative_meaning_en": "To tarnish or sully one's reputation or hands",
+  "similar_in_english": [
+    "Get one's hands dirty",
+    "Have ink on one's hands"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি এই অসৎ কাজে হাত কালি করতে চাই না।",
+    "তোমার মতো ওঁচাকে মেরে আমি হাত কালি করতে চাই না।"
+  ],
+  "example_sentences_in_english": [
+    "I don't want to dirty my hands with this dishonest work.",
+    "I don't want to tarnish my hands by hitting someone like you."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Moral and ethical discussions",
+    "Politics and crime contexts"
+  ],
+  "tags": [
+    "negative action",
+    "reputation",
+    "avoidance",
+    "moral dilemma"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the cultural imagery of ink staining hands, symbolizing irreversible moral compromise in Bengali society."
+}

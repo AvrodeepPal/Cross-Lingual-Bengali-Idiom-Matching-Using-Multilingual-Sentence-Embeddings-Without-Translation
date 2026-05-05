@@ -1,0 +1,42 @@
+{
+  "id": "6656",
+  "idiom": "পর্দানশিনা",
+  "alternative_idioms": [],
+  "literal_meaning": "পর্দার পিছনে বসবাসকারী নারী",
+  "figurative_meaning_bn": "অন্তঃপুরবাসিনী নারী; অবরোধের মধ্যে বাস করে এমন নারী",
+  "figurative_meaning_en": "A woman residing in the inner quarters; a woman who lives in seclusion or behind the veil",
+  "similar_in_english": [
+    "purdah-observing woman",
+    "secluded lady"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন পর্দানশিনা নারী, বাইরের জগতের সাথে তার কোনো যোগাযোগ নেই।",
+    "পুরনো দিনে অনেক পরিবারে পর্দানশিনা নারীদের জন্য আলাদা অংশ থাকত।"
+  ],
+  "example_sentences_in_english": [
+    "She is a pardanasheen woman with no connection to the outside world.",
+    "In old times, many families had separate sections for pardanasheen women."
+  ],
+  "usage_domain": [
+    "gender roles",
+    "traditional society",
+    "family structure"
+  ],
+  "tags": [
+    "women",
+    "seclusion",
+    "purdah",
+    "zenana",
+    "Bengali culture"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term originates from the historical practice of purdah in South Asian societies, particularly during the Mughal era and British colonial period, where women of certain social classes observed seclusion to maintain modesty and privacy."
+  ],
+  "note": "The term is more of a descriptive expression than a proverbial idiom, rooted in socio-cultural norms."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2292",
+  "idiom": "কুলের বাতি",
+  "alternative_idioms": [
+    "কুলের প্রদীপ"
+  ],
+  "literal_meaning": "কুলের (বংশের) বাতি (প্রদীপ বা আলো)",
+  "figurative_meaning_bn": "বংশের একমাত্র সন্তান",
+  "figurative_meaning_en": "The only child in the family lineage",
+  "similar_in_english": [
+    "The light of the family",
+    "The sole heir"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কোনো ভাইবোন নেই, সে কুলের বাতি।",
+    "পরিবারের একমাত্র ছেলে হিসেবে সে কুলের বাতি।"
+  ],
+  "example_sentences_in_english": [
+    "He has no siblings; he is the lamp of his family.",
+    "As the only son in the family, he is the light of the lineage."
+  ],
+  "usage_domain": [
+    "Family",
+    "Lineage",
+    "Inheritance"
+  ],
+  "tags": [
+    "বংশ",
+    "সন্তান",
+    "প্রদীপ",
+    "একমাত্র"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes the preciousness of a single child in traditional Bengali family structures."
+}

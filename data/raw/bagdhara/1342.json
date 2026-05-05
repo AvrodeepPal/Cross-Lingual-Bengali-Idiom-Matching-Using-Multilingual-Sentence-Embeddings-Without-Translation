@@ -1,0 +1,37 @@
+{
+  "id": "1342",
+  "idiom": "কটুকাটব্য",
+  "alternative_idioms": [],
+  "literal_meaning": "কটু (তীক্ষ্ণ বা তেজী) কাটব্য (কাটা বা আঘাতমূলক কথা)",
+  "figurative_meaning_bn": "গালমন্দ, কড়া কথা",
+  "figurative_meaning_en": "harsh criticism or biting sarcasm",
+  "similar_in_english": [
+    "cutting remarks",
+    "sharp tongue"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কটুকাটব্য শুনে সবাই চুপ হয়ে গেল।",
+    "সভায় কটুকাটব্য করে কোনো লাভ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone fell silent after hearing his cutting remarks.",
+    "There's no point in making sarcastic comments in the meeting."
+  ],
+  "usage_domain": [
+    "conversation",
+    "literature"
+  ],
+  "tags": [
+    "sarcasm",
+    "criticism",
+    "speech"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in everyday Bengali discourse to denote verbal sharpness."
+}

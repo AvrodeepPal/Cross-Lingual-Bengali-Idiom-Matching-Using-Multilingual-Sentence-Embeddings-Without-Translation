@@ -1,0 +1,41 @@
+{
+  "id": "8201",
+  "idiom": "মঙ্গলাচরণ",
+  "alternative_idioms": [],
+  "literal_meaning": "মঙ্গল (auspicious) + আচরণ (observance or conduct)",
+  "figurative_meaning_bn": "কর্মারম্ভে মঙ্গলসূচক অনুষ্ঠান; শুভানুষ্ঠান",
+  "figurative_meaning_en": "Auspicious ceremony performed at the start of an undertaking; a ritual for good fortune",
+  "similar_in_english": [
+    "Groundbreaking ceremony",
+    "Ribbon-cutting event"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসার শুরুতে মঙ্গলাচরণ করে নেওয়া হয়েছে।",
+    "বিবাহের আগে মঙ্গলাচরণের অনুষ্ঠান সম্পন্ন হলো।"
+  ],
+  "example_sentences_in_english": [
+    "A mangalacharan was performed before starting the business.",
+    "The mangalacharan ritual was completed before the wedding."
+  ],
+  "usage_domain": [
+    "Rituals",
+    "Ceremonies",
+    "Traditions"
+  ],
+  "tags": [
+    "auspicious",
+    "ritual",
+    "invocation",
+    "blessing"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from ancient Sanskrit traditions of invoking divine blessings before new ventures, common in Hindu practices."
+  ],
+  "note": "Often involves chanting mantras or puja to ensure success and ward off evil."
+}

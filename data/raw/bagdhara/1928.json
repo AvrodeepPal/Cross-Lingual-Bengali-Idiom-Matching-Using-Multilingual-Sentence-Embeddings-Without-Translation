@@ -1,0 +1,39 @@
+{
+  "id": "1928",
+  "idiom": "কাটাকুটি",
+  "alternative_idioms": [],
+  "literal_meaning": "কাটা এবং কুটি (ছুরি দিয়ে কাটা এবং ছোট ছোট টুকরো করা)",
+  "figurative_meaning_bn": "অবসান",
+  "figurative_meaning_en": "Conclusion or complete settlement",
+  "similar_in_english": [
+    "Square accounts",
+    "Call it quits",
+    "Wipe the slate clean"
+  ],
+  "example_sentences_in_bangla": [
+    "আমাদের দেনাপাওনার কাটাকুটি হয়ে গেছে।",
+    "প্রকল্পের কাটাকুটি করে আমরা বাড়ি ফিরলাম।"
+  ],
+  "example_sentences_in_english": [
+    "Our debts have been completely settled.",
+    "We concluded the project and went home."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Daily life",
+    "Business"
+  ],
+  "tags": [
+    "settlement",
+    "end",
+    "accounts"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of clearing dues or ending transactions in everyday Bengali speech."
+}

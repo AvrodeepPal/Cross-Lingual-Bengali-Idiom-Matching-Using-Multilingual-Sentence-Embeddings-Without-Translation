@@ -1,0 +1,41 @@
+{
+  "id": "2077",
+  "idiom": "কামলা",
+  "alternative_idioms": [],
+  "literal_meaning": "কোমরে বাঁধা মোটা কাপড় বা শাল (coarse blanket or shawl)",
+  "figurative_meaning_bn": "দিনমজুর",
+  "figurative_meaning_en": "day laborer",
+  "similar_in_english": [
+    "blue-collar worker",
+    "working stiff"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে সে এক কামলা, সারাদিন খেটে রাতে ফেরে।",
+    "আজকাল কামলারা শহরে এসে নতুন কাজ খুঁজছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a day laborer in the village, working all day and returning at night.",
+    "These days, day laborers are coming to the city in search of new jobs."
+  ],
+  "usage_domain": [
+    "labor",
+    "daily wage work",
+    "rural economy"
+  ],
+  "tags": [
+    "idiom",
+    "laborer",
+    "poverty",
+    "rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The term originates from the practice of day laborers carrying a coarse 'kamla' blanket for protection while working in fields or construction sites in rural Bengal."
+  ],
+  "note": "Refers to itinerant workers who rely on daily wages, evoking images of hardship in traditional Bengali agrarian society."
+}

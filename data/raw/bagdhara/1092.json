@@ -1,0 +1,43 @@
+{
+  "id": "1092",
+  "idiom": "এক রত্তি",
+  "alternative_idioms": [
+    "একরত্তি"
+  ],
+  "literal_meaning": "একটি রত্তি (রত্তি হলো একটি ঐতিহ্যবাহী ওজনের একক, প্রায় ০.১২ গ্রাম)",
+  "figurative_meaning_bn": "অত্যল্প পরিমাণ",
+  "figurative_meaning_en": "an extremely small amount",
+  "similar_in_english": [
+    "a mere trifle",
+    "next to nothing",
+    "a drop in the ocean"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কাছে এক রত্তি সত্যবাদিতা নেই।",
+    "এই সাহায্য এক রত্তি কাজে লাগবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He doesn't have a shred of honesty.",
+    "This help won't make the slightest difference."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "proverbs"
+  ],
+  "tags": [
+    "quantity",
+    "minimization",
+    "traditional measure"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "প্রথম ব্যবহারের উল্লেখ রবীন্দ্রনাথ ঠাকুরের লেখায় পাওয়া যায়, যেমন 'একরত্তি ছাই'।"
+  ],
+  "note": "রত্তি একটি প্রাচীন ভারতীয় ওজন একক, যা বাংলা সংস্কৃতিতে ছোট পরিমাণের প্রতীক হিসেবে ব্যবহৃত হয়।"
+}

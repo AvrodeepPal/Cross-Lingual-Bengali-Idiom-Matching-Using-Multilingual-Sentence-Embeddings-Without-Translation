@@ -1,0 +1,40 @@
+{
+  "id": "3955",
+  "idiom": "চুঁশব্দ",
+  "alternative_idioms": [],
+  "literal_meaning": "চুঁ শব্দ (কোনো সামান্য শব্দ বা আওয়াজ)",
+  "figurative_meaning_bn": "সামান্যতম আপত্তি বা প্রতিবাদের শব্দ",
+  "figurative_meaning_en": "The slightest word of objection or protest",
+  "similar_in_english": [
+    "Not a peep",
+    "Without a murmur",
+    "Dead silence"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় কেউ চুঁশব্দও করল না।",
+    "সিদ্ধান্তের বিরুদ্ধে চুঁশব্দ পর্যন্ত উঠল না।"
+  ],
+  "example_sentences_in_english": [
+    "No one made a peep in the meeting.",
+    "There wasn't even a murmur of dissent against the decision."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Formal discussions",
+    "Politics"
+  ],
+  "tags": [
+    "silence",
+    "objection",
+    "protest",
+    "acquiescence"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to complete silence in agreement or submission, common in Bengali expressive language."
+}

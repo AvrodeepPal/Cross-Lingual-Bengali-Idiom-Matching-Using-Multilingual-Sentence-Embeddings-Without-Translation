@@ -1,0 +1,37 @@
+{
+  "id": "6452",
+  "idiom": "নির্বিষ",
+  "alternative_idioms": [],
+  "literal_meaning": "বিষহীন (without poison)",
+  "figurative_meaning_bn": "ক্ষতি করে না এমন",
+  "figurative_meaning_en": "harmless or that does not cause harm",
+  "similar_in_english": [
+    "harmless as a dove",
+    "without a sting"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন নির্বিষ লোক, কখনো কাউকে কষ্ট দেয় না।",
+    "এই পরামর্শ নির্বিষ, কোনো সমস্যা হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a harmless person, he never hurts anyone.",
+    "This advice is harmless, no problem will arise."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing people"
+  ],
+  "tags": [
+    "harmless",
+    "non-threatening",
+    "safe"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to describe people who pose no threat, derived from the concept of non-venomous snakes or substances."
+}

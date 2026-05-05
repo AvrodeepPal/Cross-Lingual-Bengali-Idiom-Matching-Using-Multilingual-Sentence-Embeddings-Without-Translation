@@ -1,0 +1,39 @@
+{
+  "id": "7326",
+  "idiom": "বর্ণচোরা",
+  "alternative_idioms": [],
+  "literal_meaning": "বর্ণের চোর (রঙ বা জাতের চোর)",
+  "figurative_meaning_bn": "কপট, দুমুখো, ভণ্ড, মোনাফেক",
+  "figurative_meaning_en": "Hypocritical, two-faced, pretentious, hypocrite",
+  "similar_in_english": [
+    "Two-faced",
+    "Wolf in sheep's clothing",
+    "Hypocrite"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন বর্ণচোরা ব্যক্তি, সামনে হাসে আর পিঠে গালাগালি করে।",
+    "রাজনীতিতে অনেক বর্ণচোরা লোক দেখা যায় যারা নিজেদের স্বার্থের জন্য মুখোশ পরে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a two-faced person who smiles to your face but badmouths you behind your back.",
+    "In politics, many hypocrites wear masks for their own benefit."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Personality description",
+    "Politics"
+  ],
+  "tags": [
+    "Hypocrisy",
+    "Deception",
+    "Character flaw"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the idea of changing 'color' like a chameleon to deceive others, common in Bengali proverbial language."
+}

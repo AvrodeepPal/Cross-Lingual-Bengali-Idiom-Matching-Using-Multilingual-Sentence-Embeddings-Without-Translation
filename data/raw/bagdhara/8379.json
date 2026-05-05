@@ -1,0 +1,39 @@
+{
+  "id": "8379",
+  "idiom": "মসীজীবী",
+  "alternative_idioms": [],
+  "literal_meaning": "মসি (স্যাঁতসেঁতে) দিয়ে জীবিকা নির্বাহকারী",
+  "figurative_meaning_bn": "কলমপেশা, কেরানী, লেখক",
+  "figurative_meaning_en": "A person engaged in writing or clerical profession, such as a clerk or writer",
+  "similar_in_english": [
+    "Man of letters",
+    "Ink-slinger"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন মসীজীবী হিসেবে সারাজীবন কাজ করেছে।",
+    "আধুনিক যুগে মসীজীবীরা কম্পিউটারের দিকে ঝুঁকছেন।"
+  ],
+  "example_sentences_in_english": [
+    "He worked as a ink-liver, a clerk, all his life.",
+    "In the modern era, traditional ink-livers are turning towards computers."
+  ],
+  "usage_domain": [
+    "Literature",
+    "Profession",
+    "Education"
+  ],
+  "tags": [
+    "Occupation",
+    "Writing",
+    "Clerical work",
+    "Bengali literature"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom reflects the traditional role of scribes and writers in Bengali society, often associated with colonial-era clerical jobs."
+}

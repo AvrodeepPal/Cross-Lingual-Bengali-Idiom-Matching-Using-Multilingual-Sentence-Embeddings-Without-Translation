@@ -1,0 +1,38 @@
+{
+  "id": "7255",
+  "idiom": "বড়জোর",
+  "alternative_idioms": [],
+  "literal_meaning": "বড় জোর (great force or emphasis)",
+  "figurative_meaning_bn": "খুব বেশি হলে; গণনায় যে সংখ্যা যে পরিমাণের ঊর্ধ্বে আর যা না",
+  "figurative_meaning_en": "at most; the maximum number or amount beyond which there is nothing more",
+  "similar_in_english": [
+    "at most",
+    "at the outside"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কাজ শেষ করতে বড়জোর দু'দিন লাগবে।",
+    "পার্টিতে বড়জোর বিশজন লোক আসবে।"
+  ],
+  "example_sentences_in_english": [
+    "This task will take at most two days to complete.",
+    "At most twenty people will come to the party."
+  ],
+  "usage_domain": [
+    "conversational",
+    "estimation",
+    "quantification"
+  ],
+  "tags": [
+    "maximum",
+    "limit",
+    "quantity"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in everyday Bengali speech to indicate an upper limit."
+}

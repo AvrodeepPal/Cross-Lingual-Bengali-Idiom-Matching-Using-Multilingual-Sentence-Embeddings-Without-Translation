@@ -1,0 +1,44 @@
+{
+  "id": "3278",
+  "idiom": "গৃহভেদী",
+  "alternative_idioms": [
+    "গৃহভেদী বিভিষণ"
+  ],
+  "literal_meaning": "ঘর ভাঙার বা বিভক্ত করার কারক",
+  "figurative_meaning_bn": "ঘর ভাঙানে; পরিবারের মধ্যে বিবাদ ঘটায় এমন ব্যক্তি",
+  "figurative_meaning_en": "One who breaks the home; a person who causes discord or division within the family",
+  "similar_in_english": [
+    "homewrecker",
+    "troublemaker",
+    "pot stirrer"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন গৃহভেদী, সবসময় আমাদের পরিবারে বিবাদ সৃষ্টি করে।",
+    "গৃহভেদী ব্যক্তির কারণে তাদের সংসার ভেঙে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He is a homewrecker, always creating conflicts in our family.",
+    "The family fell apart because of that troublemaker."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships",
+    "social conflicts"
+  ],
+  "tags": [
+    "negative",
+    "family division",
+    "betrayal",
+    "epic reference"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References Vibhishana (বিভিষণ) from the Ramayana epic, where he is depicted as betraying his brother Ravana by siding with Lord Rama, symbolizing a family divider in idiomatic usage."
+  ],
+  "note": "The idiom draws from Hindu mythology, portraying the figure as a cautionary example of familial disloyalty."
+}

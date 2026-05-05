@@ -1,0 +1,41 @@
+{
+  "id": "4951",
+  "idiom": "টিঙটিঙ করে চলা",
+  "alternative_idioms": [
+    "টিনটিন করে চলা"
+  ],
+  "literal_meaning": "টিঙটিঙ শব্দ করে চলা (হাঁটার সময় ধীর বা খোঁড়া শব্দের অনুকরণ)",
+  "figurative_meaning_bn": "কোনরকমে চলা; ধীরেধীরে চলা",
+  "figurative_meaning_en": "to proceed with difficulty; to move slowly",
+  "similar_in_english": [
+    "to limp along",
+    "to drag one's feet",
+    "at a snail's pace"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পায়ে লেগে টিঙটিঙ করে চলছে।",
+    "কাজটা টিঙটিঙ করে এগোচ্ছে, শেষ হতে অনেক দেরি হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He is limping along due to the injury on his foot.",
+    "The project is progressing slowly and will take a long time to finish."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing movement or progress"
+  ],
+  "tags": [
+    "slowness",
+    "difficulty",
+    "movement",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The onomatopoeic sound 'টিঙটিঙ' or 'টিনটিন' imitates the halting or limping gait common in rural Bengali contexts."
+}

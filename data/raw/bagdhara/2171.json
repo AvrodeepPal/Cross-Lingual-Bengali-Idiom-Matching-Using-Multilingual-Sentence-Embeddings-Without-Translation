@@ -1,0 +1,41 @@
+{
+  "id": "2171",
+  "idiom": "কালোবাজার",
+  "alternative_idioms": [],
+  "literal_meaning": "কালো (black) + বাজার (market)",
+  "figurative_meaning_bn": "নির্ধারিত দামের চেয়ে বেশি দামে জিনিস কেনা-বেচা",
+  "figurative_meaning_en": "Buying and selling goods at prices higher than the officially fixed rates, often illegally",
+  "similar_in_english": [
+    "Black market",
+    "Underground economy"
+  ],
+  "example_sentences_in_bangla": [
+    "যুদ্ধের সময় কালোবাজারে অনেক জিনিস পাওয়া যেত।",
+    "সরকারি নিয়ন্ত্রণের কারণে কালোবাজার ফুলে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "During the war, many items were available in the black market.",
+    "Due to government controls, the black market has flourished."
+  ],
+  "usage_domain": [
+    "Economics",
+    "Commerce",
+    "Illegal trade"
+  ],
+  "tags": [
+    "black market",
+    "illegal trading",
+    "scarcity",
+    "price control"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originated from periods of wartime rationing and shortages, such as during World War II and the Bengal Famine of 1943, where essential goods were traded illegally at inflated prices."
+  ],
+  "note": "This idiom directly translates to the English 'black market' and is widely used in Bengali contexts of economic hardship."
+}

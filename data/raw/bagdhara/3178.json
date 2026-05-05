@@ -1,0 +1,42 @@
+{
+  "id": "3178",
+  "idiom": "গায়ের ঝাল ঝাড়া",
+  "alternative_idioms": [
+    "গায়ের ঝাল মেটানো"
+  ],
+  "literal_meaning": "শরীরের জ্বালা বা ঝাল দূর করা",
+  "figurative_meaning_bn": "প্রতিশোধ নেওয়া",
+  "figurative_meaning_en": "To take revenge",
+  "similar_in_english": [
+    "Get even",
+    "An eye for an eye",
+    "Take one's revenge"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুর অবিচারের জন্য গায়ের ঝাল ঝাড়ল।",
+    "শত্রুর কাছে গায়ের ঝাল না ঝেড়ে থাকা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He took revenge for his friend's injustice.",
+    "One can't stay without shaking off the body's spice on the enemy."
+  ],
+  "usage_domain": [
+    "Conflict",
+    "Emotions",
+    "Interpersonal relations"
+  ],
+  "tags": [
+    "revenge",
+    "retaliation",
+    "anger",
+    "vengeance"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom uses the metaphor of relieving physical irritation (like from spicy food) to express emotional satisfaction from revenge."
+}

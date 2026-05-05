@@ -1,0 +1,38 @@
+{
+  "id": "6815",
+  "idiom": "পানি ঘোলা করা",
+  "alternative_idioms": [],
+  "literal_meaning": "পানিকে ঘোলা বা ঘন করে তোলা",
+  "figurative_meaning_bn": "অস্বস্তিকর অবস্থা সৃষ্টি করা",
+  "figurative_meaning_en": "To create confusion or complicate a situation",
+  "similar_in_english": [
+    "Muddy the waters",
+    "Stir up trouble"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় তার বক্তৃতা শুনে সবাই বিভ্রান্ত হয়ে পড়ল, সে আসলে পানি ঘোলা করতে চেয়েছিল।",
+    "এই ঘটনায় তার ভূমিকা পানি ঘোলা করার মতোই ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "His speech at the meeting confused everyone; he was really trying to muddy the waters.",
+    "Her involvement in the incident only served to muddy the waters."
+  ],
+  "usage_domain": [
+    "conversation",
+    "politics",
+    "conflict"
+  ],
+  "tags": [
+    "confusion",
+    "deception",
+    "troublemaking"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from rural imagery of polluting clear water, symbolizing disruption in clarity."
+}

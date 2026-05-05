@@ -1,0 +1,40 @@
+{
+  "id": "5100",
+  "idiom": "ঠোক খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "আঘাত বা ধাক্কা খাওয়া (to receive a blow or hit)",
+  "figurative_meaning_bn": "বাধা পাওয়া; বাধা পেয়ে কিছুক্ষণের জন্য থামা",
+  "figurative_meaning_en": "To encounter an obstacle; to pause momentarily upon facing a hindrance",
+  "similar_in_english": [
+    "hit a snag",
+    "run into a roadblock",
+    "come to a standstill"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রকল্পটি শুরু হওয়ার পরই বাজেটের অভাবে ঠোক খেয়ে গেল।",
+    "বৃষ্টির কারণে যাত্রা ঠোক খেয়ে থেমে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The project hit a snag right after starting due to budget shortages.",
+    "The journey came to a halt due to the rain."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work",
+    "travel"
+  ],
+  "tags": [
+    "obstacle",
+    "delay",
+    "hindrance",
+    "pause"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes imagery of physical interruption, common in rural or everyday Bengali contexts."
+}

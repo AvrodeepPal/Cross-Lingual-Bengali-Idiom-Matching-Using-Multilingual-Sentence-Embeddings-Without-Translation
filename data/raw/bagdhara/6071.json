@@ -1,0 +1,39 @@
+{
+  "id": "6071",
+  "idiom": "ধারকর্জ",
+  "alternative_idioms": [
+    "দেনা"
+  ],
+  "literal_meaning": "ধার (ঋণ নেওয়া) + কর্জ (ঋণ দেওয়া বা বকেয়া)",
+  "figurative_meaning_bn": "ঋণ",
+  "figurative_meaning_en": "debt or loan",
+  "similar_in_english": [
+    "in debt",
+    "owing money"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ধারকর্জের বোঝা কমছে না।",
+    "ধারকর্জ নিয়ে ব্যবসা শুরু করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "His burden of debt is not decreasing.",
+    "He started a business by taking a loan."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily life"
+  ],
+  "tags": [
+    "ঋণ",
+    "আর্থিক",
+    "সমার্থক শব্দ"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি একটি একার্থক যুগ্মশব্দ, যা বাংলা ভাষায় ঋণের সাধারণ প্রকাশ।"
+}

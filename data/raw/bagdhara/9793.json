@@ -1,0 +1,37 @@
+{
+  "id": "9793",
+  "idiom": "সুতা হারানো",
+  "alternative_idioms": [],
+  "literal_meaning": "সুতা (thread) হারানো (lost)",
+  "figurative_meaning_bn": "যুক্তি অনুসরণ করতে অক্ষম; যোগাযোগ বিচ্ছিন্ন",
+  "figurative_meaning_en": "Unable to follow logic; disconnected communication",
+  "similar_in_english": [
+    "Lose the thread"
+  ],
+  "example_sentences_in_bangla": [
+    "যখন সে বক্তৃতা দিচ্ছিল, তখন হঠাৎ সুতা হারিয়ে গেল।",
+    "আলোচনার মাঝখানে সুতা হারানোর কারণে কথা এগোল না।"
+  ],
+  "example_sentences_in_english": [
+    "He suddenly lost the thread while giving his speech.",
+    "The discussion didn't progress because she lost the thread midway."
+  ],
+  "usage_domain": [
+    "communication",
+    "cognition",
+    "everyday conversation"
+  ],
+  "tags": [
+    "confusion",
+    "disconnection",
+    "logic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the metaphor of weaving or sewing, where losing the thread disrupts the process."
+}

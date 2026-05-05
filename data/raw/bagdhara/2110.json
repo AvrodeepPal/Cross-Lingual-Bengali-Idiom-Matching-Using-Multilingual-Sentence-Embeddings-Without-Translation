@@ -1,0 +1,39 @@
+{
+  "id": "2110",
+  "idiom": "কালক্ষয়",
+  "alternative_idioms": [
+    "কালক্ষেপণ"
+  ],
+  "literal_meaning": "কাল (সময়) এর ক্ষয় (ধ্বংস বা অবক্ষয়)",
+  "figurative_meaning_bn": "সময় অতিবাহন বা নষ্ট",
+  "figurative_meaning_en": "Passing or wasting time",
+  "similar_in_english": [
+    "waste time",
+    "kill time"
+  ],
+  "example_sentences_in_bangla": [
+    "অযথা কালক্ষয় করো না।",
+    "এই কাজে শুধু কালক্ষয় হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "Don't waste time unnecessarily.",
+    "This task is just wasting time."
+  ],
+  "usage_domain": [
+    "daily life",
+    "advice"
+  ],
+  "tags": [
+    "time management",
+    "waste",
+    "procrastination"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Synonyms: কালযাপন, কালহরণ"
+}

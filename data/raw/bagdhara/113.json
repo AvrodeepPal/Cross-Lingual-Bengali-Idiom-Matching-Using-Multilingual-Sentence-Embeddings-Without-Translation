@@ -1,0 +1,40 @@
+{
+  "id": "113",
+  "idiom": "অতিঘরন্তি",
+  "alternative_idioms": [],
+  "literal_meaning": "অতি (খুব) + ঘর (ঘর) + ন্তি (নিপুণতা বা দক্ষতা নির্দেশক)",
+  "figurative_meaning_bn": "গৃহকর্মনিপুণা কুমারী মেয়ে",
+  "figurative_meaning_en": "A maiden girl highly skilled in household chores",
+  "similar_in_english": [
+    "a perfect homemaker",
+    "domestic goddess"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এক অতিঘরন্তি মেয়ে, সব ঘরের কাজে পারদর্শী।",
+    "বিয়ের জন্য অতিঘরন্তি কন্যা খোঁজা হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "She is an atigharanti girl, expert in all household tasks.",
+    "They are looking for an atigharanti daughter-in-law for marriage."
+  ],
+  "usage_domain": [
+    "family",
+    "marriage",
+    "gender roles"
+  ],
+  "tags": [
+    "women",
+    "household skills",
+    "traditional values"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the traditional Bengali proverb 'অতিঘরন্তি না পায় ঘর, অতিসুন্দরী না পায় বর', which ironically comments on marriage prospects for overly skilled or beautiful women in rural society."
+  ],
+  "note": "This term reflects historical gender expectations in Bengali culture."
+}

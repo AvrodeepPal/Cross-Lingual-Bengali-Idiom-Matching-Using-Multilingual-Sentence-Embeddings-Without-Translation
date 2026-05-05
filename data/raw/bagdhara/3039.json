@@ -1,0 +1,40 @@
+{
+  "id": "3039",
+  "idiom": "গস্ত",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘুরাঘুরি করা বা ঘুরে বেড়ানো",
+  "figurative_meaning_bn": "ঘুরে ফিরে জিনিসপত্র কেনা",
+  "figurative_meaning_en": "To shop around for items by wandering from place to place",
+  "similar_in_english": [
+    "Shop around",
+    "Window shopping",
+    "Browse the stores"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বড়বাজারে গস্ত করতে গেছে।",
+    "বাজারে গস্ত করে সেরা দামে জিনিস কিনো।"
+  ],
+  "example_sentences_in_english": [
+    "He went to the big market to do some shopping around.",
+    "Shop around in the market to get the best price."
+  ],
+  "usage_domain": [
+    "Shopping",
+    "Daily life",
+    "Commerce"
+  ],
+  "tags": [
+    "Idiom",
+    "Market",
+    "Dialectal",
+    "Bengali culture"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in rural or semi-urban Bengali contexts to describe leisurely market browsing."
+}

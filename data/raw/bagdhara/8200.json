@@ -1,0 +1,41 @@
+{
+  "id": "8200",
+  "idiom": "মগের মুল্লুক",
+  "alternative_idioms": [],
+  "literal_meaning": "মঘদের দেশ",
+  "figurative_meaning_bn": "চরম অরাজকতা্পূর্ণ দেশ, যথেচ্চারের দেশ",
+  "figurative_meaning_en": "A land of utter lawlessness, where everyone acts according to their whims",
+  "similar_in_english": [
+    "The Wild West",
+    "A lawless frontier"
+  ],
+  "example_sentences_in_bangla": [
+    "এই অঞ্চলটা তো মগের মুল্লুকের মতো হয়ে গেছে, কেউ কারও কথা শোনে না।",
+    "রাজনৈতিক অরাজকতায় দেশটি মগের মুল্লুকের স্বরূপ ধারণ করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "This area has turned into a land of the Maghs, where no one listens to anyone.",
+    "The country has assumed the form of a lawless land due to political anarchy."
+  ],
+  "usage_domain": [
+    "society",
+    "politics",
+    "criticism"
+  ],
+  "tags": [
+    "anarchy",
+    "lawlessness",
+    "disorder",
+    "chaos"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom originates from historical references to the Maghs (people from Arakan, now Rakhine in Myanmar), who were notorious pirates and raiders along the Bengal coast during the medieval period, symbolizing a place of plunder and lack of order."
+  ],
+  "note": "The term 'Magh' carries historical connotations of piracy in Bengali folklore."
+}

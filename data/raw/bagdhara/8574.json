@@ -1,0 +1,43 @@
+{
+  "id": "8574",
+  "idiom": "মানের গুড়ে বালি",
+  "alternative_idioms": [],
+  "literal_meaning": "মানের গুড়োয় বালি (honor/prestige's jaggery/molasses mixed with sand)",
+  "figurative_meaning_bn": "মান-ইজ্জত নষ্ট; সম্মানহানি",
+  "figurative_meaning_en": "Loss of honor and prestige; humiliation or tarnishing of reputation",
+  "similar_in_english": [
+    "Losing face",
+    "Tarnishing one's image",
+    "Throwing mud at someone's name"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কাজের জন্য পরিবারের মানের গুড়ে বালি পড়েছে।",
+    "এই ঘটনায় তার সমাজে মানের গুড়ে বালি লেগেছে।"
+  ],
+  "example_sentences_in_english": [
+    "His actions have put sand in the family's jaggery of honor.",
+    "This incident has tarnished his social reputation."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Family matters",
+    "Reputation and ethics"
+  ],
+  "tags": [
+    "honor",
+    "reputation",
+    "humiliation",
+    "purity metaphor",
+    "social stigma"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom is part of the longer proverb 'চাঁদা দিতে চাঁদি ফাটে মানের গুড়ে বালি', which illustrates forced generosity leading to loss of dignity, rooted in everyday rural Bengali life."
+  ],
+  "note": "The metaphor draws from the impurity of mixing sand into pure jaggery, symbolizing defilement of personal honor."
+}

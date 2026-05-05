@@ -1,0 +1,40 @@
+{
+  "id": "1791",
+  "idiom": "কাঁটা হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁটা হয়ে যাওয়া (শরীরের লোম কাঁটা-কাঁটা হয়ে ওঠা)",
+  "figurative_meaning_bn": "ভয়ে শিউরে ওঠা সঙ্কুচিত হওয়া",
+  "figurative_meaning_en": "to shiver or get goosebumps from fear, to shrink back in terror",
+  "similar_in_english": [
+    "hair standing on end",
+    "get the creeps",
+    "cower in fear"
+  ],
+  "example_sentences_in_bangla": [
+    "ভূতের গল্প শুনে তার শরীর কাঁটা হয়ে গেল।",
+    "পরীক্ষার আগে সে ভয়ে কাঁটা হয়ে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "Hearing the ghost story, his body got goosebumps.",
+    "Before the exam, she shrank back in fear."
+  ],
+  "usage_domain": [
+    "emotions",
+    "fear",
+    "daily conversation"
+  ],
+  "tags": [
+    "ভয়",
+    "শিউরে ওঠা",
+    "সঙ্কোচ",
+    "idiomatic expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures the physical reaction to fear, common in Bengali folklore and storytelling."
+}

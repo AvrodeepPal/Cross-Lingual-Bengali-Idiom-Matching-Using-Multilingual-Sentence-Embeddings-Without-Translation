@@ -1,0 +1,42 @@
+{
+  "id": "2208",
+  "idiom": "কিসমৎ",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাগ্য বা ভাগ",
+  "figurative_meaning_bn": "ভাগ্য",
+  "figurative_meaning_en": "fate or destiny",
+  "similar_in_english": [
+    "kismet",
+    "fate",
+    "destiny"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার কিসমৎ এমন যে সবকিছু উল্টো হয়ে যায়।",
+    "কিসমৎ কী বলে তাই হবে।"
+  ],
+  "example_sentences_in_english": [
+    "My kismet is such that everything goes wrong.",
+    "Whatever fate decrees will happen."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature",
+    "philosophy"
+  ],
+  "tags": [
+    "fate",
+    "destiny",
+    "luck",
+    "fortune"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Borrowed from Persian/Urdu 'qismat', derived from Arabic meaning 'portion' or 'allotted share', often implying divine predestination."
+  ],
+  "note": "Commonly used in Bengali to express inevitability of life events, influenced by Islamic cultural heritage."
+}

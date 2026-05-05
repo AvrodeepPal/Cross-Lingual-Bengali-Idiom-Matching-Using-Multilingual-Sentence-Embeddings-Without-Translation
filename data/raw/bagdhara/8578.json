@@ -1,0 +1,42 @@
+{
+  "id": "8578",
+  "idiom": "মাপজোখ",
+  "alternative_idioms": [
+    "জোপ",
+    "মাপাজোখা"
+  ],
+  "literal_meaning": "মাপা এবং জোখা (precise measurement and division)",
+  "figurative_meaning_bn": "নির্দিষ্টভাবে মাপা হয়েছে এমন",
+  "figurative_meaning_en": "Something that has been precisely measured or divided",
+  "similar_in_english": [
+    "measured out",
+    "divided the spoils"
+  ],
+  "example_sentences_in_bangla": [
+    "সম্পত্তির মাপজোখ হয়ে গেছে, এখন ভাগ বাটোয়ারা করা যাবে।",
+    "এই চুক্তিটি মাপজোখ করে করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The property has been measured and divided, now it can be partitioned.",
+    "This agreement has been precisely measured out."
+  ],
+  "usage_domain": [
+    "Property division",
+    "Legal matters",
+    "Everyday allocation"
+  ],
+  "tags": [
+    "measurement",
+    "division",
+    "property",
+    "precision"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional practices of land measurement in Bengali agrarian society"
+}

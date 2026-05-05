@@ -1,0 +1,44 @@
+{
+  "id": "9801",
+  "idiom": "সুবহানাল্লাহ",
+  "alternative_idioms": [
+    "সোবহানাল্লাহ"
+  ],
+  "literal_meaning": "আল্লাহর মহিমা (শাব্দিক: সুবহান = মহিমা/পবিত্রতা, আল্লাহ = ঈশ্বর)",
+  "figurative_meaning_bn": "আশ্চর্যজনক",
+  "figurative_meaning_en": "Astonishing or expressing wonder at something extraordinary",
+  "similar_in_english": [
+    "Good Lord!",
+    "Heavens above!",
+    "What a miracle!"
+  ],
+  "example_sentences_in_bangla": [
+    "সুবহানাল্লাহ, এই দৃশ্য দেখে মন ভরে গেল!",
+    "সুবহানাল্লাহ, কী অসাধারণ কাজটি করেছেন!"
+  ],
+  "example_sentences_in_english": [
+    "Subhanallah, this sight fills the heart with awe!",
+    "Subhanallah, what an extraordinary feat they have accomplished!"
+  ],
+  "usage_domain": [
+    "Exclamation",
+    "Surprise",
+    "Religious expression"
+  ],
+  "tags": [
+    "Islamic",
+    "Awe",
+    "Wonder",
+    "Praise"
+  ],
+  "frequency": "very common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the Arabic phrase 'Subḥāna -llāhi', meaning 'Glory be to God', originating from Islamic texts like the Quran and Hadith, used by Muslims worldwide to express amazement at divine creation."
+  ],
+  "note": "Commonly used in Bengali Muslim communities; spelling variations reflect regional pronunciations."
+}

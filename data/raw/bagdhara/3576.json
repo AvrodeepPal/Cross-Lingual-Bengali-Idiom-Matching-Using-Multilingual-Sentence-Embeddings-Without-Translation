@@ -1,0 +1,41 @@
+{
+  "id": "3576",
+  "idiom": "ঘুরা",
+  "alternative_idioms": [],
+  "literal_meaning": "to turn or revolve",
+  "figurative_meaning_bn": "পাক খাওয়া",
+  "figurative_meaning_en": "to spin or feel dizzy (as if the world is revolving)",
+  "similar_in_english": [
+    "the world is spinning",
+    "head is spinning"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মাথা ঘুরছে, সে সামলে উঠতে পারছে না।",
+    "গাড়ির ঘূর্ণনে চোখ ঘুরে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "His head is spinning, he can't steady himself.",
+    "The car's spin made my eyes whirl."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "health",
+    "science"
+  ],
+  "tags": [
+    "dizziness",
+    "rotation",
+    "motion",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the heliocentric model where the Earth revolves around the stationary Sun, contrasting ancient geocentric beliefs and highlighting scientific advancements like those of Copernicus."
+  ],
+  "note": "The idiom ties into modern scientific understanding of planetary motion, often used figuratively for disorientation."
+}

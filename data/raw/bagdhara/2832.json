@@ -1,0 +1,38 @@
+{
+  "id": "2832",
+  "idiom": "গচ্চা",
+  "alternative_idioms": [],
+  "literal_meaning": "অপচয় বা বর্জ্য (waste or rubbish)",
+  "figurative_meaning_bn": "অসাবধানতাবশত লোকসান",
+  "figurative_meaning_en": "Loss or waste due to carelessness",
+  "similar_in_english": [
+    "Money down the drain",
+    "Go to waste"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসায় অনেক টাকা গচ্চা গেছে।",
+    "অসাবধানে ফোনটা গচ্চা হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "A lot of money was wasted in the business.",
+    "The phone was wasted due to carelessness."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Business",
+    "Everyday life"
+  ],
+  "tags": [
+    "লোকসান",
+    "অসাবধানতা",
+    "অর্থনৈতিক"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in colloquial Bengali to express unintended financial or material loss."
+}

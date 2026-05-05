@@ -1,0 +1,37 @@
+{
+  "id": "9368",
+  "idiom": "লোকনিন্দা",
+  "alternative_idioms": [],
+  "literal_meaning": "লোকের নিন্দা (people's criticism)",
+  "figurative_meaning_bn": "জনসাধারণের নিন্দা",
+  "figurative_meaning_en": "Criticism or slander by the general public",
+  "similar_in_english": [
+    "Public scorn",
+    "Backbiting"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কাজের জন্য লোকনিন্দা হচ্ছে।",
+    "লোকনিন্দা এড়াতে সে চুপ করে থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He is facing public criticism for his actions.",
+    "She stays silent to avoid public slander."
+  ],
+  "usage_domain": [
+    "Social commentary",
+    "Reputation management"
+  ],
+  "tags": [
+    "নিন্দা",
+    "সমাজ",
+    "খ্যাতি"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to societal judgment in everyday Bengali discourse"
+}

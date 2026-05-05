@@ -1,0 +1,38 @@
+{
+  "id": "6731",
+  "idiom": "পাকাসর্দি",
+  "alternative_idioms": [],
+  "literal_meaning": "পাকা সর্দি (mature or cooked cold)",
+  "figurative_meaning_bn": "সর্দির শেষদিকের অবস্থা",
+  "figurative_meaning_en": "the final stage of a cold",
+  "similar_in_english": [
+    "the tail end of a cold",
+    "getting over the sniffles"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার পাকাসর্দি হয়েছে, এখন শুধু হালকা কাশি বাকি।",
+    "শীতকালে সর্দি হলে পাকাসর্দির সময় সবচেয়ে কষ্ট হয়।"
+  ],
+  "example_sentences_in_english": [
+    "I've reached the pakasordi stage; only a light cough remains.",
+    "In winter, the pakasordi phase of a cold is the most annoying."
+  ],
+  "usage_domain": [
+    "health",
+    "illness",
+    "recovery"
+  ],
+  "tags": [
+    "medical idiom",
+    "common cold",
+    "bengali expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the lingering symptoms when a cold is nearly over, common in everyday Bengali speech about minor ailments."
+}

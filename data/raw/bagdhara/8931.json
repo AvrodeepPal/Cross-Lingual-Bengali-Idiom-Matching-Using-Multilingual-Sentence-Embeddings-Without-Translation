@@ -1,0 +1,40 @@
+{
+  "id": "8931",
+  "idiom": "যবুথবু",
+  "alternative_idioms": [],
+  "literal_meaning": "যবু-থবু (আওয়াজময় শব্দ যা জড়তা বা অসাড়ত্বের অনুকরণ করে)",
+  "figurative_meaning_bn": "আড়ষ্ট; ক্রিয়াশক্তিশূন্য; জড়সড়; নড়তে চড়তে অসমর্থ এমন; চলচ্ছক্তিশূন্য",
+  "figurative_meaning_en": "stiff; devoid of energy or action; numb; unable to move; immobilized",
+  "similar_in_english": [
+    "stiff as a board",
+    "paralyzed with fear",
+    "frozen in place"
+  ],
+  "example_sentences_in_bangla": [
+    "বেদনায় তার পা যবুথবু হয়ে গেছে।",
+    "ভয়ে সে যবুথবু অবস্থায় দাঁড়িয়ে রইল।"
+  ],
+  "example_sentences_in_english": [
+    "His leg became numb from the pain.",
+    "He stood frozen in fear."
+  ],
+  "usage_domain": [
+    "physical state",
+    "emotions",
+    "health"
+  ],
+  "tags": [
+    "stiffness",
+    "numbness",
+    "immobility",
+    "pain"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি বাংলা ভাষার অনুকরণমূলক শব্দ যা শারীরিক অসাড়ত্ব বর্ণনা করে, প্রধানত মৌখিক ব্যবহারে দেখা যায়।"
+}

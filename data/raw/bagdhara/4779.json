@@ -1,0 +1,43 @@
+{
+  "id": "4779",
+  "idiom": "ঝটপট",
+  "alternative_idioms": [
+    "ঝটাপট",
+    "চটপট",
+    "চটাচট"
+  ],
+  "literal_meaning": "ঝট (দ্রুত ঝাঁকুনি) + পট (দ্রুত শব্দের অনুকরণ); দ্রুতগতির শব্দানুকরণ",
+  "figurative_meaning_bn": "খুব তাড়াতাড়ি; অতিদ্রুত",
+  "figurative_meaning_en": "Very quickly; extremely fast",
+  "similar_in_english": [
+    "chop-chop",
+    "in a jiffy",
+    "posthaste"
+  ],
+  "example_sentences_in_bangla": [
+    "ঝটপট খাবার তৈরি করে নাও।",
+    "ঝটপট চলে এসো, দেরি হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "Prepare the food quickly.",
+    "Come quickly, we're getting late."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "instructions",
+    "urgency"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "speed",
+    "informal"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variants like ঝটাপট are phonetic alternatives common in spoken Bengali."
+}

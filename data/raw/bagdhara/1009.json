@@ -1,0 +1,37 @@
+{
+  "id": "1009",
+  "idiom": "একটা",
+  "alternative_idioms": [],
+  "literal_meaning": "এক (টি) – একটি অবজেক্ট বা বস্তু",
+  "figurative_meaning_bn": "অনির্দিষ্ট কোন এক",
+  "figurative_meaning_en": "An indefinite or unspecified one",
+  "similar_in_english": [
+    "a certain one",
+    "something"
+  ],
+  "example_sentences_in_bangla": [
+    "একটা ফল খাবো।",
+    "একটা গল্প বলো।"
+  ],
+  "example_sentences_in_english": [
+    "I will eat one fruit.",
+    "Tell me one story."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "casual speech"
+  ],
+  "tags": [
+    "indefinite article",
+    "quantifier",
+    "common phrase"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a fundamental expression in Bengali for referring to an unspecified single item, not a complex idiom."
+}

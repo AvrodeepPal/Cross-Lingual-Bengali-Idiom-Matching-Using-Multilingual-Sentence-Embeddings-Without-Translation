@@ -1,0 +1,39 @@
+{
+  "id": "191",
+  "idiom": "অন্নগত প্রাণ",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্নে গত প্রাণ (food-gone life or life dependent on food)",
+  "figurative_meaning_bn": "ব্যঙ্গার্থে আহার্য ছাড়া বাঁচে না এমন; অন্নের অভাবে প্রাণ যায় যায় অবস্থা",
+  "figurative_meaning_en": "Sarcastically, one who cannot live without food; a state on the verge of death due to lack of sustenance",
+  "similar_in_english": [
+    "Living hand to mouth",
+    "On one's last legs from hunger"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো অন্নগত প্রাণ, একদিনও খাবার ছাড়া থাকতে পারে না।",
+    "দারিদ্র্যের কারণে তারা অন্নগত প্রাণের মতো জীবন যাপন করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is like annagoto pran, he can't survive a day without a meal.",
+    "Due to poverty, they are living on the brink, like annagoto pran."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Sarcasm",
+    "Descriptions of poverty"
+  ],
+  "tags": [
+    "sarcasm",
+    "food dependency",
+    "survival",
+    "hunger"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects themes of food scarcity common in Bengali agrarian society"
+}

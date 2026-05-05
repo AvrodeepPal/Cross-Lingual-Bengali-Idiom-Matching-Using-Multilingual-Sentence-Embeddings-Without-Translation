@@ -1,0 +1,44 @@
+{
+  "id": "6103",
+  "idiom": "ধূমকেতু",
+  "alternative_idioms": [
+    "ভূঁইফোঁড়"
+  ],
+  "literal_meaning": "ধূমকেতু (comet)",
+  "figurative_meaning_bn": "অশুভলক্ষণ, উৎপাত, কুগ্রহ, হঠাৎ এসে উপস্থিত ব্যক্তি",
+  "figurative_meaning_en": "an ill omen, mischief or disturbance, a malefic planet, a person who suddenly appears and causes trouble",
+  "similar_in_english": [
+    "ill omen",
+    "bolt from the blue",
+    "harbinger of doom"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে ধূমকেতুর মতো অকস্মাৎ একটা উপদ্রব শুরু হয়ে গেল।",
+    "সে ধূমকেতুর মতো হঠাৎ এসে সবাইকে বিব্রত করে দিল।"
+  ],
+  "example_sentences_in_english": [
+    "A sudden disturbance started in the village like a comet.",
+    "He appeared like a comet and troubled everyone unexpectedly."
+  ],
+  "usage_domain": [
+    "astrology",
+    "superstition",
+    "daily conversation"
+  ],
+  "tags": [
+    "omen",
+    "sudden appearance",
+    "negative portent",
+    "astronomy-based"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "In ancient times, comets were often viewed as celestial omens of disaster in Bengali folklore and broader Indian astronomy."
+  ],
+  "note": "The idiom draws from traditional beliefs where comets (dhumketu) were feared as signs of calamity."
+}

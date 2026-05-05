@@ -1,0 +1,39 @@
+{
+  "id": "201",
+  "idiom": "অন্নবল",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ন (খাদ্য) + বল (শক্তি); খাদ্য থেকে প্রাপ্ত শক্তি",
+  "figurative_meaning_bn": "অর্থবল",
+  "figurative_meaning_en": "Financial strength or economic power",
+  "similar_in_english": [
+    "Financial muscle",
+    "Breadwinner strength"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অন্নবল নেই, তাই ব্যবসায় সফল হতে পারেনি।",
+    "গ্রামে অন্নবলই মানুষের মূল সমর্থন।"
+  ],
+  "example_sentences_in_english": [
+    "He lacks annobal, so he couldn't succeed in business.",
+    "In the village, annobal is the main support for people."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Daily life",
+    "Rural economy"
+  ],
+  "tags": [
+    "wealth",
+    "strength",
+    "economy",
+    "food security"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom contrasts material wealth with other forms of power, as hinted in traditional explanations."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7123",
+  "idiom": "ফাটা রেকর্ড বাজানো",
+  "alternative_idioms": [
+    "ভাঙা রেকর্ড বাজানো"
+  ],
+  "literal_meaning": "ফাটা (cracked) রেকর্ড (record) বাজানো (playing)",
+  "figurative_meaning_bn": "একই কথার পুনরাবৃত্তি",
+  "figurative_meaning_en": "Repetition of the same words or phrases tediously",
+  "similar_in_english": [
+    "Like a broken record"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বক্তৃতায় সবসময় একই প্রতিশ্রুতি, যেন ফাটা রেকর্ড বাজানো হচ্ছে।",
+    "সভায় সে ফাটা রেকর্ড বাজানোর মতো একই গল্প বলতে থাকল।"
+  ],
+  "example_sentences_in_english": [
+    "His speech is full of the same promises, like playing a broken record.",
+    "In the meeting, he kept repeating the same story like a scratched record."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Everyday conversation",
+    "Public speaking"
+  ],
+  "tags": [
+    "repetition",
+    "annoyance",
+    "redundancy",
+    "politics"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the era of vinyl records, where a crack would cause the needle to skip and repeat the same segment endlessly, reflecting mid-20th century technology in Bengali urban and political contexts."
+  ],
+  "note": "The idiom highlights frustration with monotonous repetition, often in political or rhetorical settings."
+}

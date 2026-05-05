@@ -1,0 +1,42 @@
+{
+  "id": "9551",
+  "idiom": "ষাঁড়ের গোবর",
+  "alternative_idioms": [
+    "আমড়াকাঠের ঢেঁকি"
+  ],
+  "literal_meaning": "ষাঁড়ের গোবর (bull's dung)",
+  "figurative_meaning_bn": "অপদার্থ; অযোগ্য ব্যক্তি",
+  "figurative_meaning_en": "worthless or unworthy person",
+  "similar_in_english": [
+    "good for nothing",
+    "useless as a screen door on a submarine"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো ষাঁড়ের গোবর, কোনো কাজে লাগবে না।",
+    "এই প্রকল্পটি ষাঁড়ের গোবরের মতো অকেজো।"
+  ],
+  "example_sentences_in_english": [
+    "He is good for nothing, like bull's dung.",
+    "This project is as useless as bull's dung."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "derogatory",
+    "everyday speech"
+  ],
+  "tags": [
+    "insult",
+    "worthlessness",
+    "rural idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "In Bengali agrarian culture, cow dung is valued for rituals and fuel, but bull's dung is considered impure or less useful, symbolizing worthlessness."
+  ],
+  "note": "The idiom draws from traditional beliefs about animal waste in rural Bengal."
+}

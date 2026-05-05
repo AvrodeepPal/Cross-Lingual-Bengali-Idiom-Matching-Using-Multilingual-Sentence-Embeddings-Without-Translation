@@ -1,0 +1,43 @@
+{
+  "id": "7825",
+  "idiom": "বিন্দেদূতী",
+  "alternative_idioms": [
+    "বৃন্দা",
+    "বড়াইবুড়ি"
+  ],
+  "literal_meaning": "বিন্দের দূতী (বিন্দু বা চিহ্নের প্রেরিতা, কিন্তু রূপকভাবে বক্তৃতাপ্রিয় নারী)",
+  "figurative_meaning_bn": "বড়াই করা বৃদ্ধা নারী",
+  "figurative_meaning_en": "a boastful old woman",
+  "similar_in_english": [
+    "blow one's own trumpet",
+    "full of hot air"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা বিন্দেদূতী, সবসময় নিজের গল্প শোনায়।",
+    "গাঁয়ের বিন্দেদূতী আবার বড়াই শুরু করেছে তার ছেলের কীর্তি নিয়ে।"
+  ],
+  "example_sentences_in_english": [
+    "She is a real boastful old woman, always bragging about her achievements.",
+    "The village's boastful old lady started boasting again about her son's exploits."
+  ],
+  "usage_domain": [
+    "conversational",
+    "descriptive"
+  ],
+  "tags": [
+    "negative",
+    "gender-specific",
+    "boastful",
+    "folklore-derived"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "উদ্ভব সম্ভবত বাংলা লোককথা থেকে, যেখানে 'বিন্দেদূতী' একজন বক্তৃতাপ্রিয় চরিত্রকে বোঝায়।"
+  ],
+  "note": "ইডিওমটি প্রাচীন বাংলা সাহিত্য বা লোকসংস্কৃতিতে উল্লেখযোগ্য, কিন্তু আধুনিক ব্যবহারে কম দেখা যায়।"
+}

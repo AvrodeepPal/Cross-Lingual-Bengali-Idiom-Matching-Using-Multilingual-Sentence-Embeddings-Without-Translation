@@ -1,0 +1,41 @@
+{
+  "id": "5335",
+  "idiom": "তপ্ত খোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "গরম খালি (হাঁড়ি বা পাত্র)",
+  "figurative_meaning_bn": "অর্থের অভাবে চরম অবস্থা",
+  "figurative_meaning_en": "extreme desperation due to lack of money",
+  "similar_in_english": [
+    "in dire straits",
+    "down and out",
+    "penniless"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসা ব্যর্থ হওয়ার পর সে তপ্ত খোলার মতো অবস্থায় পড়ে গেল।",
+    "পরিবারের অর্থনৈতিক সংকট তাদের তপ্ত খোলার পরিস্থিতিতে নিয়ে এসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "After the business failure, he fell into a state like a hot empty pot.",
+    "The family's financial crisis has brought them to an extreme state of poverty."
+  ],
+  "usage_domain": [
+    "finance",
+    "poverty",
+    "daily life"
+  ],
+  "tags": [
+    "desperation",
+    "money shortage",
+    "hardship"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই প্রবাদটি গ্রামীণ বাংলার দৈনন্দিন জীবন থেকে উদ্ভূত, যেখানে খাবার রান্নার জন্য হাঁড়ি গরম হলেও খালি থাকলে চরম দারিদ্র্যের প্রতীক হয়।"
+  ],
+  "note": "প্রবাদটি প্রধানত অর্থনৈতিক দুর্দশা বোঝাতে ব্যবহৃত হয়, গ্রামীণ সংস্কৃতিতে প্রচলিত।"
+}

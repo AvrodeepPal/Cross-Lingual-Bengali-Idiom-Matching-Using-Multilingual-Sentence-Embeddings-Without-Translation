@@ -1,0 +1,40 @@
+{
+  "id": "4685",
+  "idiom": "জীবিকার্জন",
+  "alternative_idioms": [],
+  "literal_meaning": "জীবিকা (livelihood) + অর্জন (earning/acquisition)",
+  "figurative_meaning_bn": "জীবনযাত্রার জন্য অর্থোপার্জন",
+  "figurative_meaning_en": "Earning money for one's livelihood",
+  "similar_in_english": [
+    "Earn one's keep",
+    "Make a living",
+    "Bring home the bacon"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবিকার্জনের জন্য সে কঠোর পরিশ্রম করে।",
+    "গ্রামে জীবিকার্জনের উপায় সীমিত।"
+  ],
+  "example_sentences_in_english": [
+    "He works hard to earn his livelihood.",
+    "In the village, options for earning a living are limited."
+  ],
+  "usage_domain": [
+    "Economy",
+    "Daily life",
+    "Employment"
+  ],
+  "tags": [
+    "livelihood",
+    "earning",
+    "work",
+    "sustenance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a compound noun commonly used in Bengali to denote means of sustenance, rather than a highly figurative idiom."
+}

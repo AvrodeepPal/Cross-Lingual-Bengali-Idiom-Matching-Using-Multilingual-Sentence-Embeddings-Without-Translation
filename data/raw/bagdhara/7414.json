@@ -1,0 +1,38 @@
+{
+  "id": "7414",
+  "idiom": "বাঁচোয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বাঁচানো বা রক্ষা করা",
+  "figurative_meaning_bn": "বিপদ থেকে নিস্তার, রেহাই, রক্ষা ইত্যাদি",
+  "figurative_meaning_en": "rescue from danger, relief, protection, etc.",
+  "similar_in_english": [
+    "lifesaver",
+    "saving grace",
+    "bail out"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সাহায্যে আমি বিপদ থেকে বাঁচোয়া পেলাম।",
+    "সময়মতো পুলিশ এসে আমাদের বাঁচোয়া করল।"
+  ],
+  "example_sentences_in_english": [
+    "His help saved me from trouble.",
+    "The timely arrival of the police was our lifesaver."
+  ],
+  "usage_domain": [
+    "daily life",
+    "emergency situations"
+  ],
+  "tags": [
+    "rescue",
+    "relief",
+    "protection"
+  ],
+  "frequency": "very common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": ""
+}

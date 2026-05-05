@@ -1,0 +1,41 @@
+{
+  "id": "7732",
+  "idiom": "বিষম খাওয়া",
+  "alternative_idioms": [
+    "বিষম লাগা"
+  ],
+  "literal_meaning": "বিষম (কঠিন বা অসুবিধাজনক) খাওয়া (eating)",
+  "figurative_meaning_bn": "খাবার গিলতে গিয়ে শ্বাসবন্ধ হওয়ার উপক্রম",
+  "figurative_meaning_en": "The onset of choking or breathlessness while swallowing food",
+  "similar_in_english": [
+    "Go down the wrong pipe",
+    "Choke on one's food"
+  ],
+  "example_sentences_in_bangla": [
+    "খাবার খেতে গিয়ে তার মুখে বিষম খেয়ে গেল।",
+    "হাসতে হাসতে জল খেয়ে বিষম লেগেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He choked while trying to eat his food.",
+    "She got something stuck in her throat while laughing and drinking water."
+  ],
+  "usage_domain": [
+    "daily life",
+    "health",
+    "conversation"
+  ],
+  "tags": [
+    "eating",
+    "choking",
+    "discomfort",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom captures a common physiological mishap in Bengali daily life, often used to describe sudden discomfort during meals."
+}

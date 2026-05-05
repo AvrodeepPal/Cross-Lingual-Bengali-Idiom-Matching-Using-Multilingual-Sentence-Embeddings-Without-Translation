@@ -1,0 +1,36 @@
+{
+  "id": "5771",
+  "idiom": "দানসামগ্রী",
+  "alternative_idioms": [],
+  "literal_meaning": "দানের সামগ্রী (donation materials)",
+  "figurative_meaning_bn": "বিয়ে বা শ্রাদ্ধে দানের জন্য সাজিয়ে রাখা সামগ্রী",
+  "figurative_meaning_en": "Items prepared and arranged for donation during weddings or funeral rites (shraddha)",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "বিয়ের আয়োজনে দানসামগ্রী সাজিয়ে রাখা হয়েছে।",
+    "শ্রাদ্ধকর্মের জন্য দানসামগ্রী প্রস্তুত করুন।"
+  ],
+  "example_sentences_in_english": [
+    "Donation items have been prepared for the wedding ceremony.",
+    "Prepare the donation materials for the shraddha ritual."
+  ],
+  "usage_domain": [
+    "ceremonial",
+    "social",
+    "religious"
+  ],
+  "tags": [
+    "donation",
+    "wedding",
+    "funeral rites",
+    "Hindu traditions"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is more of a cultural compound word than a strictly figurative idiom, commonly used in traditional Bengali rituals."
+}

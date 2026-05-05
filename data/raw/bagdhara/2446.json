@@ -1,0 +1,39 @@
+{
+  "id": "2446",
+  "idiom": "ক্ষুণ্ণিবৃত্তি",
+  "alternative_idioms": [],
+  "literal_meaning": "ক্ষুধার নিবারণ বা উপশমের বৃত্তি/প্রক্রিয়া",
+  "figurative_meaning_bn": "ক্ষুধার উপশম/নিবারণ; ভোজন",
+  "figurative_meaning_en": "Relief or quenching of hunger; meal or eating",
+  "similar_in_english": [
+    "Quench one's hunger",
+    "Satisfy one's appetite"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরে ক্ষুণ্ণিবৃত্তি করার মতো কোনো খাবার নেই।",
+    "দীর্ঘ যাত্রার পর ক্ষুণ্ণিবৃত্তি করে বিশ্রাম নাও।"
+  ],
+  "example_sentences_in_english": [
+    "There is no food at home to quench hunger.",
+    "After the long journey, quench your hunger and rest."
+  ],
+  "usage_domain": [
+    "Daily life",
+    "Food and hospitality",
+    "Poverty or scarcity"
+  ],
+  "tags": [
+    "hunger",
+    "meal",
+    "relief",
+    "everyday expression"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday struggles with food scarcity in Bengali households."
+}

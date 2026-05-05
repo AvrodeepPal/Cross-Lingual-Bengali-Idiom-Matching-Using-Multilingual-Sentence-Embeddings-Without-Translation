@@ -1,0 +1,41 @@
+{
+  "id": "4171",
+  "idiom": "চোরাগর্ত",
+  "alternative_idioms": [
+    "চোরাবালি"
+  ],
+  "literal_meaning": "চোরের গর্ত (thief's pit or hole)",
+  "figurative_meaning_bn": "অজানা বিপদ",
+  "figurative_meaning_en": "unknown danger or hidden peril",
+  "similar_in_english": [
+    "a pitfall",
+    "a hidden trap"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই ব্যবসায় চোরাগর্ত রয়েছে, তাই ভালোভাবে খোঁজ নাও।",
+    "জীবনের পথে অনেক চোরাগর্ত লুকিয়ে থাকে, সতর্ক থাকো।"
+  ],
+  "example_sentences_in_english": [
+    "There's a thief's pit in that business, so investigate thoroughly.",
+    "Life's path hides many unknown dangers, so stay alert."
+  ],
+  "usage_domain": [
+    "conversation",
+    "warnings",
+    "proverbs"
+  ],
+  "tags": [
+    "danger",
+    "thief",
+    "hidden",
+    "peril"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom evokes imagery of concealed traps set by thieves, common in rural Bengali folklore."
+}

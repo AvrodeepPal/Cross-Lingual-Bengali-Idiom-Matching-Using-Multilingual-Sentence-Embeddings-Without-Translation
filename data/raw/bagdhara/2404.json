@@ -1,0 +1,37 @@
+{
+  "id": "2404",
+  "idiom": "কোলকুঁজো",
+  "alternative_idioms": [],
+  "literal_meaning": "কোল (কোমর) এবং কুঁজো (বাঁকা বা ঝুঁকে পড়া)",
+  "figurative_meaning_bn": "শরীর কোমরের কাছে বাঁকা হওয়ার জন্য সামনের দিকে ঝুঁকে পড়েছে এমন",
+  "figurative_meaning_en": "Bent forward due to a hunch or bend at the waist",
+  "similar_in_english": [
+    "hunchbacked",
+    "stooped over"
+  ],
+  "example_sentences_in_bangla": [
+    "বুড়ো মানুষটি কোলকুঁজো হয়ে হাঁটছিল।",
+    "দীর্ঘকালীন কাজের ফলে তার শরীর কোলকুঁজো হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The old man was walking hunchbacked.",
+    "Due to years of hard labor, his body has become stooped over."
+  ],
+  "usage_domain": [
+    "physical description",
+    "aging"
+  ],
+  "tags": [
+    "posture",
+    "body",
+    "elderly"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly describes physical deformity often associated with age or labor in Bengali culture."
+}

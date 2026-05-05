@@ -1,0 +1,37 @@
+{
+  "id": "4483",
+  "idiom": "জনে-জনে",
+  "alternative_idioms": [],
+  "literal_meaning": "জন (person) এর দ্বিত্বশব্দ; person by person",
+  "figurative_meaning_bn": "প্রতিজনকে ভাবার্থে দ্বিত্বশব্দ; এক এক করে; প্রত্যেককে",
+  "figurative_meaning_en": "one by one; each individually; every person",
+  "similar_in_english": [
+    "one by one",
+    "individually"
+  ],
+  "example_sentences_in_bangla": [
+    "জনে জনে সবাইকে জিজ্ঞাসা করো।",
+    "জনে জনে তারা এসে বসল।"
+  ],
+  "example_sentences_in_english": [
+    "Ask everyone one by one.",
+    "They came and sat one by one."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "communication"
+  ],
+  "tags": [
+    "reduplication",
+    "individuality",
+    "sequential action"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a common reduplicative expression in Bengali for emphasizing individuality or sequence."
+}

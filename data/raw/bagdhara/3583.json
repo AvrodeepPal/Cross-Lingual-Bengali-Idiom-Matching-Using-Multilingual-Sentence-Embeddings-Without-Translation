@@ -1,0 +1,37 @@
+{
+  "id": "3583",
+  "idiom": "ঘুরানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘোরানো বা ঘুরিয়ে দেওয়া (turning or making to turn)",
+  "figurative_meaning_bn": "মিথ্যা প্রতিশ্রুতি দিয়ে বার বার ফিরিয়ে দেওয়া",
+  "figurative_meaning_en": "To repeatedly dismiss or send away someone by giving false promises",
+  "similar_in_english": [
+    "Give someone the runaround",
+    "String someone along"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার কর্মচারীকে ঘুরানো করে সময় নষ্ট করছে।",
+    "প্রতিশ্রুতি দিয়ে ঘুরানো করে সে ব্যবসা চালায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is wasting time by stringing his employee along with false promises.",
+    "She runs her business by leading people on with empty assurances."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Deception and promises"
+  ],
+  "tags": [
+    "deception",
+    "false promise",
+    "procrastination"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects common social interactions in Bengali culture involving evasion and insincerity."
+}

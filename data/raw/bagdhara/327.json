@@ -1,0 +1,43 @@
+{
+  "id": "327",
+  "idiom": "আঁতের টান",
+  "alternative_idioms": [
+    "নাড়ির টান",
+    "রক্তের টান"
+  ],
+  "literal_meaning": "আঁতের টান (gut pull or intestines' pull)",
+  "figurative_meaning_bn": "অন্তরের টান",
+  "figurative_meaning_en": "The emotional pull of the heart or deep inner longing, often for home or roots",
+  "similar_in_english": [
+    "Homesickness",
+    "The tug of one's roots",
+    "Blood is thicker than water"
+  ],
+  "example_sentences_in_bangla": [
+    "আঁতের টানে সে প্রতি বছর দেশে ফিরে আসে।",
+    "বিদেশে থাকলেও আঁতের টান তাকে শান্তি দিত না।"
+  ],
+  "example_sentences_in_english": [
+    "The pull of the gut brings him back to the country every year.",
+    "Even abroad, the tug of his heart wouldn't let him find peace."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Family",
+    "Migration"
+  ],
+  "tags": [
+    "nostalgia",
+    "longing",
+    "roots",
+    "emotional bond"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the emotional connection Bengalis feel towards their homeland, especially in diaspora contexts."
+}

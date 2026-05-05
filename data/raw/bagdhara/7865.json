@@ -1,0 +1,39 @@
+{
+  "id": "7865",
+  "idiom": "বেদম",
+  "alternative_idioms": [],
+  "literal_meaning": "বেদ (বিহীন) + দম (শ্বাস বা শক্তি), অর্থাৎ শ্বাসহীন বা শক্তিহীন",
+  "figurative_meaning_bn": "দম ফুরিয়ে গেছে এমন, মৃতপ্রায়",
+  "figurative_meaning_en": "breathless, exhausted, on the verge of death",
+  "similar_in_english": [
+    "out of breath",
+    "gasping for air",
+    "beat to a pulp"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দৌড়াতে দৌড়াতে বেদম হয়ে পড়ল।",
+    "প্রতিপক্ষকে বেদম করে তাকে পরাজিত করল।"
+  ],
+  "example_sentences_in_english": [
+    "He became breathless after running continuously.",
+    "He defeated the opponent by leaving him exhausted."
+  ],
+  "usage_domain": [
+    "physical condition",
+    "violence",
+    "sports"
+  ],
+  "tags": [
+    "exhaustion",
+    "weakness",
+    "intense effort"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of physical exertion or severe beating"
+}

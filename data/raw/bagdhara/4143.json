@@ -1,0 +1,39 @@
+{
+  "id": "4143",
+  "idiom": "চোট",
+  "alternative_idioms": [],
+  "literal_meaning": "আঘাত বা ক্ষত",
+  "figurative_meaning_bn": "আঘাত",
+  "figurative_meaning_en": "injury or blow",
+  "similar_in_english": [
+    "take a hit",
+    "get hurt"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পায়ে চোট লেগেছে, তাই সে হাঁটতে পারছে না।",
+    "মনের চোট সারতে সময় লাগে।"
+  ],
+  "example_sentences_in_english": [
+    "He has an injury in his foot, so he can't walk.",
+    "It takes time to heal a mental injury."
+  ],
+  "usage_domain": [
+    "health",
+    "daily life",
+    "emotions"
+  ],
+  "tags": [
+    "injury",
+    "pain",
+    "physical harm",
+    "emotional hurt"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is often used in contexts of physical or metaphorical injury in everyday Bengali speech."
+}

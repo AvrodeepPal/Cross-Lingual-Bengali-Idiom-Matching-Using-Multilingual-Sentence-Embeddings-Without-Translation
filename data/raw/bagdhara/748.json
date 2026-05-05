@@ -1,0 +1,41 @@
+{
+  "id": "748",
+  "idiom": "উজবুক",
+  "alternative_idioms": [
+    "উজবক"
+  ],
+  "literal_meaning": "strange or ignorant one (from 'ajab' meaning strange in Persian/Urdu influence)",
+  "figurative_meaning_bn": "আহাম্মক; নির্বোধ; মূর্খ",
+  "figurative_meaning_en": "fool; senseless person; idiot",
+  "similar_in_english": [
+    "fool",
+    "idiot",
+    "blockhead"
+  ],
+  "example_sentences_in_bangla": [
+    "এই উজবুকটা এখানে কেন?",
+    "সে একটা পুরো উজবুক, কিছুই বোঝে না।"
+  ],
+  "example_sentences_in_english": [
+    "Why is this fool here?",
+    "He is a complete idiot; he doesn't understand anything."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation",
+    "insults"
+  ],
+  "tags": [
+    "derogatory",
+    "foolishness",
+    "slang"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variant spellings reflect regional pronunciations in Bengali dialects."
+}

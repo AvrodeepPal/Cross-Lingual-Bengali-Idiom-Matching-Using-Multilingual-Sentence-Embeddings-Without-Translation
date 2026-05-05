@@ -1,0 +1,37 @@
+{
+  "id": "10124",
+  "idiom": "হাত টান",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত টানা (hand pulling or tension in hand)",
+  "figurative_meaning_bn": "অর্থাভাব",
+  "figurative_meaning_en": "financial scarcity or lack of money",
+  "similar_in_english": [
+    "hard up",
+    "short on cash"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসায় লোকসানের কারণে তার হাত টান পড়েছে।",
+    "ঘরে অর্থের অভাবে হাত টান অনুভব করছি।"
+  ],
+  "example_sentences_in_english": [
+    "Due to business losses, he is facing financial strain.",
+    "I'm feeling the pinch of money shortage at home."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily life"
+  ],
+  "tags": [
+    "poverty",
+    "money",
+    "economic difficulty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in the fuller form 'হাতে টান পড়া' to describe economic hardship in everyday Bengali speech."
+}

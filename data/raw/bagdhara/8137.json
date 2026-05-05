@@ -1,0 +1,40 @@
+{
+  "id": "8137",
+  "idiom": "ভেড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ভেড়া (sheep)",
+  "figurative_meaning_bn": "বিদ্রুপে অত্যন্ত নিরীহ ও নিস্তেজ ব্যক্তি; ব্যক্তিত্বহীন লোক",
+  "figurative_meaning_en": "In mockery, an extremely meek and lifeless person; a person without personality",
+  "similar_in_english": [
+    "meek as a lamb",
+    "spineless",
+    "follow the herd"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা পুরো ভেড়া, কখনো তার মতামত প্রকাশ করে না।",
+    "অফিসে সবাই তাকে ভেড়া বলে ডাকে কারণ সে কখনো প্রতিবাদ করে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a complete sheep; he never expresses his opinion.",
+    "Everyone at the office calls him a sheep because he never protests."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "derogatory",
+    "social commentary"
+  ],
+  "tags": [
+    "animal metaphor",
+    "personality trait",
+    "mockery",
+    "insult"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the docile nature of sheep in rural Bengali life, used to belittle passive individuals."
+}

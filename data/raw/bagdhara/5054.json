@@ -1,0 +1,39 @@
+{
+  "id": "5054",
+  "idiom": "ঠাণ্ডা লড়াই",
+  "alternative_idioms": [],
+  "literal_meaning": "ঠাণ্ডা (cold) লড়াই (fight)",
+  "figurative_meaning_bn": "গোপনে বিরোধিতা, চাপা রেষারেষি; মনস্তাত্ত্বিক যুদ্ধ; পরস্পরবিরোধী রাষ্ট্রজোট প্রত্যক্ষ সংগ্রামে অবতীর্ণ না হয়ে পরস্পরের প্রতি যে যুদ্ধভাব বিরাজ করে",
+  "figurative_meaning_en": "Secret opposition, suppressed enmity; psychological warfare; the war-like attitude between mutually opposing nation-states without descending into direct conflict",
+  "similar_in_english": [
+    "Cold War"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই রাজনৈতিক দলের মধ্যে ঠাণ্ডা লড়াই চলছে।",
+    "প্রতিবেশী দেশগুলির মধ্যে ঠাণ্ডা লড়াই দেখা যাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "There is a cold war between the two political parties.",
+    "A cold war is brewing between the neighboring countries."
+  ],
+  "usage_domain": [
+    "Politics",
+    "International Relations"
+  ],
+  "tags": [
+    "Conflict",
+    "Rivalry",
+    "Psychological Warfare",
+    "Non-Violent Tension"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the historical Cold War (1947-1991) between the United States and the Soviet Union, characterized by ideological rivalry, espionage, and proxy conflicts without direct military engagement."
+  ],
+  "note": "The term is widely used in Bengali journalism and literature to describe tense but non-violent rivalries."
+}

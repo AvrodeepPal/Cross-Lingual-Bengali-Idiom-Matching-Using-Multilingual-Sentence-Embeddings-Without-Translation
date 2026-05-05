@@ -1,0 +1,39 @@
+{
+  "id": "8841",
+  "idiom": "মৃদুমন্দ",
+  "alternative_idioms": [],
+  "literal_meaning": "মৃদু (gentle) + মন্দ (slow)",
+  "figurative_meaning_bn": "অত্যন্ত ধীরগতি",
+  "figurative_meaning_en": "extremely slow pace",
+  "similar_in_english": [
+    "at a snail's pace",
+    "slow as molasses"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পড়াশোনার গতি মৃদুমন্দ হয়ে গেছে।",
+    "বাতাসের প্রবাহ মৃদুমন্দ থাকায় যাত্রা দেরি হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "His reading progress has become extremely slow.",
+    "The journey is delayed because the wind is blowing at an extremely slow pace."
+  ],
+  "usage_domain": [
+    "everyday language",
+    "describing speed",
+    "weather and movement"
+  ],
+  "tags": [
+    "slowness",
+    "gentle wind",
+    "pace",
+    "figurative speed"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from the concept of a mild, sluggish wind in Bengali linguistic tradition"
+}

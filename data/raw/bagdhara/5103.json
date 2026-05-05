@@ -1,0 +1,45 @@
+{
+  "id": "5103",
+  "idiom": "ঠোক্কর দেওয়া",
+  "alternative_idioms": [
+    "ঠোকর দেওয়া",
+    "ঠোক্কর মারা",
+    "ঠোকর মারা"
+  ],
+  "literal_meaning": "মাথা বা শরীর দিয়ে ধাক্কা দেওয়া বা আঘাত করা",
+  "figurative_meaning_bn": "অপ্রার্থিত মন্তব্যের দ্বারা কথায় বাধা সৃষ্টি করা; কঠোর ভাষায় প্রতি কথার জবাব দেওয়া; কথার সাহায্যে আঘাত করা; ফোড়ন কাটা; বিদ্রূপ করা; টীকা-টীপ্পনী কাটা",
+  "figurative_meaning_en": "To interrupt a conversation with unwelcome remarks; to retort harshly to every statement; to wound with words; to make cutting remarks; to mock; to snipe or make snide comments",
+  "similar_in_english": [
+    "Throw shade",
+    "Cut someone down",
+    "Verbal jab",
+    "Put words in one's face"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় সবাই কথা বলছে, হঠাৎ সে ঠোক্কর দিয়ে বিষয়টাকে বিকৃত করে দিল।",
+    "তার সঙ্গে কথা বলতে গেলে সে শুধু ঠোক্কর দেয়, কোনো সহযোগিতা করে না।"
+  ],
+  "example_sentences_in_english": [
+    "In the meeting, everyone was speaking, but he suddenly threw a jab that twisted the topic.",
+    "Talking to him is tough because he just snipes back without any cooperation."
+  ],
+  "usage_domain": [
+    "Conversation",
+    "Argument",
+    "Social interaction"
+  ],
+  "tags": [
+    "Verbal attack",
+    "Sarcasm",
+    "Interruption",
+    "Criticism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the physical act of bumping, metaphorically extended to verbal disruptions in everyday Bengali discourse."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "9316",
+  "idiom": "লেখাপড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "লেখা এবং পড়া (formal documentation)",
+  "figurative_meaning_bn": "আইনানুসারে কাগজে কলমে লিখে সম্পাদন",
+  "figurative_meaning_en": "To formalize legally through written documentation",
+  "similar_in_english": [
+    "put it in writing",
+    "sign on the dotted line"
+  ],
+  "example_sentences_in_bangla": [
+    "আমাকে বাবা সব বিষয়সম্পত্তি লেখাপড়া করে দিয়েছেন।",
+    "জমির লেনদেনের জন্য লেখাপড়া সম্পন্ন করতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "My father has done all the paperwork for the property matters for me.",
+    "The land transaction needs to be completed with proper documentation."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Property",
+    "Inheritance"
+  ],
+  "tags": [
+    "documentation",
+    "formal agreement",
+    "legal execution"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional and modern legal practices in Bengali society"
+}

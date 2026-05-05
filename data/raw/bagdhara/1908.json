@@ -1,0 +1,43 @@
+{
+  "id": "1908",
+  "idiom": "কাঠমোল্লা",
+  "alternative_idioms": [
+    "কাটমোল্লা"
+  ],
+  "literal_meaning": "কাঠের মতো কঠিন বা অচেতন মোল্লা (কাঠ = wood; মোল্লা = Muslim cleric)",
+  "figurative_meaning_bn": "অল্পশিক্ষিত গোঁড়া ধর্মজ্ঞানহীন সংকীর্ণমনা মুসলমান পুরোহিত; ধর্মজ্ঞানহীন ধর্মব্যবসায়ী; কুসংস্কারাচ্ছন্ন ব্যক্তি",
+  "figurative_meaning_en": "A poorly educated, fanatical, religiously ignorant, narrow-minded Muslim cleric; a religion-monger devoid of true religious knowledge; a person steeped in superstitions",
+  "similar_in_english": [
+    "holier-than-thou hypocrite",
+    "bigoted preacher"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের মসজিদে সেই কাঠমোল্লা শুধু কুসংস্কার ছড়ায়।",
+    "রাজনীতিতে এই ধরনের কাঠমোল্লারা ধর্মের নামে বিভেদ সৃষ্টি করে।"
+  ],
+  "example_sentences_in_english": [
+    "The wooden mullah at the village mosque only spreads superstitions.",
+    "Such wooden mullahs in politics create division in the name of religion."
+  ],
+  "usage_domain": [
+    "religion",
+    "society",
+    "criticism"
+  ],
+  "tags": [
+    "bigotry",
+    "superstition",
+    "hypocrisy",
+    "clergy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term originated in colonial Bengal to derogatorily describe uneducated rural Muslim clerics who exploited religion for personal gain, often highlighted in 19th-20th century Bengali literature."
+  ],
+  "note": "Variants like 'কাটমোল্লা' may reflect dialectical pronunciations in different regions of Bengal."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1922",
+  "idiom": "কাটাকাটি",
+  "alternative_idioms": [],
+  "literal_meaning": "কাটা-কাটি (পরস্পর কাটাকাটির মতো কথাবার্তা)",
+  "figurative_meaning_bn": "তর্কাতর্কি",
+  "figurative_meaning_en": "verbal sparring or bickering",
+  "similar_in_english": [
+    "tit for tat",
+    "back and forth argument"
+  ],
+  "example_sentences_in_bangla": [
+    "তাদের মধ্যে কাটাকাটি শুরু হয়েছে।",
+    "কথোপকথনে কাটাকাটি এড়িয়ে চলা উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "There is bickering between them.",
+    "One should avoid verbal sparring in conversations."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "arguments"
+  ],
+  "tags": [
+    "verbal conflict",
+    "negative interaction"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to unpleasant exchanges in speech, common in everyday Bengali discourse."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1192",
+  "idiom": "এদিক নেই ওদিক আছে",
+  "alternative_idioms": [],
+  "literal_meaning": "এদিকে কিছু নেই, ওদিকে কিছু আছে",
+  "figurative_meaning_bn": "অক্ষমের অন্যায় আবদারের প্রতি বক্রোক্তি",
+  "figurative_meaning_en": "A sarcastic remark directed at the unjust demands of the incompetent",
+  "similar_in_english": [
+    "Can't have your cake and eat it too",
+    "Sour grapes"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় এদিক নেই ওদিক আছে করে, কিন্তু কোনো কাজই করে না।",
+    "তার অক্ষমতা সত্ত্বেও এত আবদার—সত্যি এদিক নেই ওদিক আছে!"
+  ],
+  "example_sentences_in_english": [
+    "He always acts like 'nothing here, something there,' but never gets anything done.",
+    "Despite his incompetence, he makes so many demands—truly 'nothing on this side, something on that'!"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism",
+    "Social commentary"
+  ],
+  "tags": [
+    "sarcasm",
+    "incompetence",
+    "unjust demands",
+    "bengali folklore"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights Bengali cultural emphasis on practicality and disdain for empty boasts."
+}

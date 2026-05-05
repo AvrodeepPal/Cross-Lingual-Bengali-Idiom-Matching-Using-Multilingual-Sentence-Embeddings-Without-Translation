@@ -1,0 +1,38 @@
+{
+  "id": "1575",
+  "idiom": "কবলানো",
+  "alternative_idioms": [],
+  "literal_meaning": "গোপনে মুঠোয় ভরে দেওয়া",
+  "figurative_meaning_bn": "গোপনে মুঠায় ভরে দেওয়া; আলং-ঘুষ দেওয়া",
+  "figurative_meaning_en": "Secretly filling someone's fist; giving a bribe covertly",
+  "similar_in_english": [
+    "Grease someone's palm",
+    "Bribe under the table"
+  ],
+  "example_sentences_in_bangla": [
+    "অফিসে ফাইলটি এগিয়ে নিতে হলে তাকে কিছু টাকা কবলাতে হয়েছে।",
+    "ভূমি রেকর্ড সংশোধন করাতে গিয়ে কবলানোর ব্যবস্থা করলাম।"
+  ],
+  "example_sentences_in_english": [
+    "To get the file moving in the office, he had to bribe the clerk discreetly.",
+    "I had to arrange a secret payment to correct the land records."
+  ],
+  "usage_domain": [
+    "Bureaucracy",
+    "Corruption",
+    "Government services"
+  ],
+  "tags": [
+    "Bribery",
+    "Secret payment",
+    "Corruption"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "The idiom reflects everyday experiences with bureaucratic hurdles in Bengali society."
+}

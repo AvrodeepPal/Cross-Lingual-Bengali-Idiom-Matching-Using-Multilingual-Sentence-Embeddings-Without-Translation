@@ -1,0 +1,44 @@
+{
+  "id": "9333",
+  "idiom": "লেজ ধরা",
+  "alternative_idioms": [
+    "লেজ ধরে চলা",
+    "লেজ ধরে যাওয়া",
+    "পোঁ ধরা",
+    "সানাইয়ের পোঁ"
+  ],
+  "literal_meaning": "লেজ ধরে অনুসরণ করা (holding or following by the tail)",
+  "figurative_meaning_bn": "অন্ধভাবে অনুকরণ করা; নির্বিচারে প্রভাব-প্রতিপত্তিশালীদের অনুসরণ করা",
+  "figurative_meaning_en": "To imitate blindly; to follow influential people without discrimination",
+  "similar_in_english": [
+    "follow blindly",
+    "hang on someone's coattails"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুর লেজ ধরে সব কাজ করে।",
+    "রাজনীতিতে অনেকে নেতার লেজ ধরে চলে।"
+  ],
+  "example_sentences_in_english": [
+    "He blindly imitates everything his friend does.",
+    "In politics, many people follow the leader without question."
+  ],
+  "usage_domain": [
+    "social behavior",
+    "politics",
+    "everyday conversation"
+  ],
+  "tags": [
+    "imitation",
+    "blind obedience",
+    "criticism",
+    "following"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from animal behavior imagery common in rural Bengali life, implying subservient following."
+}

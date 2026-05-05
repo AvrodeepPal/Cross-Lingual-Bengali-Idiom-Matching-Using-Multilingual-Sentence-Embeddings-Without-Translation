@@ -1,0 +1,40 @@
+{
+  "id": "1883",
+  "idiom": "কাজিয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "মামলা বা বিবাদের কেস (আরবি 'কাজিয়া' থেকে উদ্ভূত)",
+  "figurative_meaning_bn": "ঝগড়া, বিবাদ",
+  "figurative_meaning_en": "quarrel, dispute",
+  "similar_in_english": [
+    "at loggerheads",
+    "bone of contention"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই পাড়ার লোকের মধ্যে কাজিয়া লেগেছে।",
+    "সমাজে এই কাজিয়া নিয়ে সবাই উত্তেজিত।"
+  ],
+  "example_sentences_in_english": [
+    "There's a quarrel between the two neighbors.",
+    "The community is agitated over this dispute."
+  ],
+  "usage_domain": [
+    "social",
+    "family",
+    "legal"
+  ],
+  "tags": [
+    "conflict",
+    "argument",
+    "disagreement"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এটি আরবি-পার্সিয়ান প্রভাবিত শব্দ, বাংলা ভাষায় মুসলিম শাসনকাল থেকে প্রচলিত।"
+  ],
+  "note": "সাধারণত দীর্ঘস্থায়ী ঝগড়া বোঝায়।"
+}

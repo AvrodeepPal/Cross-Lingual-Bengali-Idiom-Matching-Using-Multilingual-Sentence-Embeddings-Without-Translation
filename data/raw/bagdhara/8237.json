@@ -1,0 +1,40 @@
+{
+  "id": "8237",
+  "idiom": "মন খারাপ করা/হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "মনকে খারাপ করা বা মন খারাপ হয়ে যাওয়া (mind becoming bad or making the mind bad)",
+  "figurative_meaning_bn": "কষ্ট পাওয়া, দুঃখ পাওয়া, বিষন্ন হওয়া",
+  "figurative_meaning_en": "To feel distressed, to experience sorrow, to become gloomy",
+  "similar_in_english": [
+    "Feel blue",
+    "Down in the dumps",
+    "In a bad mood"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষার ফলাফল মনমত না হওয়ায় সে মন খারাপ করে বসে আছে।",
+    "বন্ধুর সাথে ঝগড়া হওয়ায় তার মন খারাপ হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is sitting with a heavy heart because the exam results didn't meet his expectations.",
+    "Her mood soured after the argument with her friend."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily life",
+    "psychology"
+  ],
+  "tags": [
+    "sadness",
+    "mood",
+    "depression",
+    "figurative expression"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a staple in everyday Bengali conversation for expressing emotional downturns, reflecting the cultural emphasis on inner feelings."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6511",
+  "idiom": "পইপই",
+  "alternative_idioms": [],
+  "literal_meaning": "পুনরাবৃত্তিমূলক শব্দধ্বনি (পুনরাবৃত্তি নির্দেশক)",
+  "figurative_meaning_bn": "পুনঃপুনঃ সতর্কীকরণ, প্রতিপদে সাবধান",
+  "figurative_meaning_en": "Repeated warnings, caution at every step",
+  "similar_in_english": [
+    "I told you so",
+    "Warned you time and again"
+  ],
+  "example_sentences_in_bangla": [
+    "পইপই করে বললাম যেন সে রাতে বাইরে না যায়, কিন্তু সে শুনলই না।",
+    "মা পইপই করে সাবধান করে দিয়েছিল রাস্তা পার হওয়ার সময়।"
+  ],
+  "example_sentences_in_english": [
+    "I warned him repeatedly not to go out at night, but he didn't listen.",
+    "The mother cautioned her child over and over while crossing the road."
+  ],
+  "usage_domain": [
+    "daily life",
+    "advice",
+    "parenting"
+  ],
+  "tags": [
+    "warning",
+    "repetition",
+    "caution"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression common in spoken Bengali for emphasis on repetition."
+}

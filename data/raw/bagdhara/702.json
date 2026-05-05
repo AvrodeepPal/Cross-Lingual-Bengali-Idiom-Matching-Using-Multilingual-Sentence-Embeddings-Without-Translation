@@ -1,0 +1,43 @@
+{
+  "id": "702",
+  "idiom": "ইমানদারি",
+  "alternative_idioms": [
+    "ইমান"
+  ],
+  "literal_meaning": "faith or belief (from Arabic 'iman')",
+  "figurative_meaning_bn": "বিশ্বাস/বিশ্বস্ততা",
+  "figurative_meaning_en": "faith/trustworthiness",
+  "similar_in_english": [
+    "integrity",
+    "good faith"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ইমানদারি দেখে সবাই বিশ্বাস করে।",
+    "ইমানদার লোকের কথায় সত্যতা থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone trusts him because of his integrity.",
+    "An honest person's words carry truth."
+  ],
+  "usage_domain": [
+    "ethics",
+    "personal character",
+    "social trust"
+  ],
+  "tags": [
+    "honesty",
+    "faith",
+    "morality",
+    "trust"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the Arabic term 'iman' meaning religious faith, adapted in Bengali to signify moral honesty and trustworthiness, especially in Muslim-influenced contexts."
+  ],
+  "note": "This term is more of a conceptual expression than a traditional proverb, deeply embedded in everyday moral discourse."
+}

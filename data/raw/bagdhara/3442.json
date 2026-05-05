@@ -1,0 +1,39 @@
+{
+  "id": "3442",
+  "idiom": "ঘর মজানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘর মজানো (house plastering or whitewashing)",
+  "figurative_meaning_bn": "কুল বা বংশে কলঙ্ক লেপন করা",
+  "figurative_meaning_en": "To bring disgrace or tarnish the reputation of one's family or lineage",
+  "similar_in_english": [
+    "Bring shame to the family",
+    "Blacken the family name"
+  ],
+  "example_sentences_in_bangla": [
+    "তার এই অসৎ কাজ করে সে ঘর মজানো করেছে।",
+    "পরিবারের সম্মান রক্ষা করতে হবে, না হলে ঘর মজানো হবে।"
+  ],
+  "example_sentences_in_english": [
+    "His dishonest actions have plastered the house, disgracing the family.",
+    "We must protect the family's honor, or it will be plastered with shame."
+  ],
+  "usage_domain": [
+    "Family",
+    "Society",
+    "Ethics"
+  ],
+  "tags": [
+    "Disgrace",
+    "Family honor",
+    "Shame",
+    "Reputation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali emphasis on family prestige and social standing."
+}

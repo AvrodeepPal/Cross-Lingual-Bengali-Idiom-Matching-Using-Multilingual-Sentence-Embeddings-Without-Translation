@@ -1,0 +1,40 @@
+{
+  "id": "3935",
+  "idiom": "চিবিয়ে চিবিয়ে কথা বলা",
+  "alternative_idioms": [
+    "গুজগুজিয়া"
+  ],
+  "literal_meaning": "চিবিয়ে চিবিয়ে (চিবানোর মতো) কথা বলা",
+  "figurative_meaning_bn": "কথা অস্পষ্টভাবে বা গুজগুজ করে বলা",
+  "figurative_meaning_en": "To speak indistinctly or mumble unclearly",
+  "similar_in_english": [
+    "Mumble",
+    "Mutter under one's breath"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চিবিয়ে চিবিয়ে কথা বলে, কোনোটাই স্পষ্ট হয় না।",
+    "বাচ্চারা চিবিয়ে চিবিয়ে কথা বলে যখন লজ্জা পায়।"
+  ],
+  "example_sentences_in_english": [
+    "He speaks mumble-mumble, nothing is clear.",
+    "Children mumble when they feel shy."
+  ],
+  "usage_domain": [
+    "Conversation",
+    "Communication"
+  ],
+  "tags": [
+    "speech",
+    "clarity",
+    "murmuring",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom reflects everyday Bengali speech patterns emphasizing articulation."
+}

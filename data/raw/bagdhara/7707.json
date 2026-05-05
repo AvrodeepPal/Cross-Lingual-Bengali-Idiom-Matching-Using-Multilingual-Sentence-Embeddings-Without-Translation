@@ -1,0 +1,38 @@
+{
+  "id": "7707",
+  "idiom": "বিমাতৃসুলভ",
+  "alternative_idioms": [],
+  "literal_meaning": "বিমাতৃ (stepmother) + সুলভ (favorable/easy)",
+  "figurative_meaning_bn": "উপেক্ষাযুক্ত",
+  "figurative_meaning_en": "Neglectful or indifferent",
+  "similar_in_english": [
+    "stepmotherly treatment",
+    "cold indifference"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকারের বিমাতৃসুলভ আচরণ গ্রামবাসীদের কষ্ট দিচ্ছে।",
+    "তার বাবার দ্বিতীয় স্ত্রীর বিমাতৃসুলভ ব্যবহার শিশুটিকে একাকী করে তুলেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The government's stepmotherly attitude is causing hardship to the villagers.",
+    "His father's second wife's stepmotherly behavior has left the child isolated."
+  ],
+  "usage_domain": [
+    "social",
+    "family",
+    "administration"
+  ],
+  "tags": [
+    "neglect",
+    "indifference",
+    "family dynamics"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the stereotypical neglectful behavior associated with stepmothers in traditional Bengali family contexts."
+}

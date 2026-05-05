@@ -1,0 +1,39 @@
+{
+  "id": "6968",
+  "idiom": "পেটে মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "পেটে আঘাত করা (to strike in the stomach)",
+  "figurative_meaning_bn": "উপার্জনের/জীবিকার পথ বন্ধ করা",
+  "figurative_meaning_en": "To block the path of earning or livelihood",
+  "similar_in_english": [
+    "To cut off someone's source of income",
+    "To pull the rug out from under someone"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার প্রতিদ্বন্দ্বীর ব্যবসা নষ্ট করে পেটে মারল।",
+    "দুর্ভিক্ষের কারণে গ্রামবাসীদের পেটে মারা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He sabotaged his rival's business, hitting him in the stomach.",
+    "The famine hit the villagers in the stomach by destroying their livelihoods."
+  ],
+  "usage_domain": [
+    "Economy",
+    "Daily life",
+    "Conflict"
+  ],
+  "tags": [
+    "livelihood",
+    "sabotage",
+    "economic harm",
+    "survival"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom metaphorically refers to causing severe economic distress, evoking imagery of hunger and basic survival struggles common in Bengali folk expressions."
+}

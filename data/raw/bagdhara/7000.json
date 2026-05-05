@@ -1,0 +1,39 @@
+{
+  "id": "7000",
+  "idiom": "পোড় খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পুড়ে খাওয়া বা পোড়া খাবার গিলে ফেলা",
+  "figurative_meaning_bn": "অভিজ্ঞ; বিচক্ষণ, নানা অভিজ্ঞতাসম্পন্ন",
+  "figurative_meaning_en": "experienced; shrewd, full of various experiences",
+  "similar_in_english": [
+    "street-smart",
+    "worldly-wise",
+    "seasoned by experience"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন পোড় খাওয়া রাজনীতিবিদ, কোনো ছলাকলা তাকে ধোঁকা দিতে পারে না।",
+    "জীবনের কঠিন অভিজ্ঞতা তাকে পোড় খাওয়া বানিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a street-smart politician who can't be fooled by any tricks.",
+    "The hardships of life have made him seasoned and wise."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "wisdom",
+    "daily conversation"
+  ],
+  "tags": [
+    "experience",
+    "shrewdness",
+    "maturity"
+  ],
+  "frequency": "very common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the metaphor of surviving 'burnt' or tough experiences, implying resilience and gained wisdom."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2631",
+  "idiom": "খাসকামরা",
+  "alternative_idioms": [
+    "মহল"
+  ],
+  "literal_meaning": "খাস (ব্যক্তিগত বা স্বতন্ত্র) কামরা (ঘর)",
+  "figurative_meaning_bn": "নিজস্ব কামরা বা বাড়ি; স্বতন্ত্র কামরা",
+  "figurative_meaning_en": "One's own room or house; independent room",
+  "similar_in_english": [
+    "private quarters",
+    "personal space"
+  ],
+  "example_sentences_in_bangla": [
+    "তার খাসকামরা ছিল না, তাই সে অস্বস্তিতে ছিল।",
+    "এই মহলে তার স্বতন্ত্র কামরা আছে।"
+  ],
+  "example_sentences_in_english": [
+    "He didn't have his own room, so he felt uncomfortable.",
+    "He has an independent room in this mansion."
+  ],
+  "usage_domain": [
+    "daily life",
+    "housing",
+    "personal independence"
+  ],
+  "tags": [
+    "personal space",
+    "home",
+    "privacy"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali notions of personal living spaces in joint family settings."
+}

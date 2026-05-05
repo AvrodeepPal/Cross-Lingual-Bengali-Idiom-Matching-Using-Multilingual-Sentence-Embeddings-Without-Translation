@@ -1,0 +1,40 @@
+{
+  "id": "4335",
+  "idiom": "ছিটকে পড়া",
+  "alternative_idioms": [
+    "ছিটকে ছ"
+  ],
+  "literal_meaning": "ছিটকে পড়া (scattering or splashing and falling)",
+  "figurative_meaning_bn": "দূরবর্তী অঞ্চলে চলে যাওয়া",
+  "figurative_meaning_en": "To go to distant regions or scatter to far-off places",
+  "similar_in_english": [
+    "Scatter to the four winds",
+    "Disperse far and wide"
+  ],
+  "example_sentences_in_bangla": [
+    "চাকরির খোঁজে সবাই চারিদিকে ছিটকে পড়ে গেছে।",
+    "গ্রামের যুবকেরা শহরে ছিটকে পড়ছে।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone is scattering to all directions in search of jobs.",
+    "The village youths are dispersing to the cities."
+  ],
+  "usage_domain": [
+    "Migration",
+    "Employment",
+    "Daily life"
+  ],
+  "tags": [
+    "Dispersal",
+    "Scattering",
+    "Relocation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects patterns of rural-urban migration in Bengali society."
+}

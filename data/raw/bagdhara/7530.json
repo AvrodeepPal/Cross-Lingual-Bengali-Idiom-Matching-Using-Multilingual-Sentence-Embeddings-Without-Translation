@@ -1,0 +1,40 @@
+{
+  "id": "7530",
+  "idiom": "বাড়বাড়ন্ত",
+  "alternative_idioms": [],
+  "literal_meaning": "বাড়ার অত্যধিক বৃদ্ধি (reduplicative form emphasizing increase)",
+  "figurative_meaning_bn": "সমার্থক যুগ্মশব্দ; অত্যন্ত শ্রীবৃদ্ধি",
+  "figurative_meaning_en": "Tautological compound word; extreme prosperity or flourishing",
+  "similar_in_english": [
+    "skyrocketing growth",
+    "booming success"
+  ],
+  "example_sentences_in_bangla": [
+    "দলটার বাড়বাড়ন্ত দেখে ধাঁধা লাগে।",
+    "ব্যবসায়ের বাড়বাড়ন্ত সকলকে অবাক করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The team's extreme flourishing is baffling.",
+    "The business's skyrocketing prosperity has surprised everyone."
+  ],
+  "usage_domain": [
+    "economy",
+    "business",
+    "sports",
+    "general success"
+  ],
+  "tags": [
+    "prosperity",
+    "growth",
+    "reduplicative",
+    "tautology"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a classic Bengali reduplicative idiom used to denote emphatic increase in fortune or success."
+}

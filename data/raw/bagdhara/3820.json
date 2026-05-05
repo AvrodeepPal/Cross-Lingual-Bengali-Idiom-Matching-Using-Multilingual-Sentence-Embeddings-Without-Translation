@@ -1,0 +1,40 @@
+{
+  "id": "3820",
+  "idiom": "চাটিবাটি করা/তোলা",
+  "alternative_idioms": [
+    "চাট্টিবাট্টি গুটানো"
+  ],
+  "literal_meaning": "গৃহস্থালির পাত্রপত্র, ভাড়-ভাতি ইত্যাদি দৈনন্দিন জিনিসপত্র সংগ্রহ বা তোলা",
+  "figurative_meaning_bn": "ভিটেমাটি থেকে উৎখাত করা; ভিটেমাটি ছেড়ে চলে যাওয়া",
+  "figurative_meaning_en": "To uproot from one's homestead; to leave one's homestead",
+  "similar_in_english": [
+    "pull up stakes",
+    "pack up and leave"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের বন্যার কারণে তারা চাটিবাটি তোলার ব্যবস্থা করল।",
+    "শহরে চাকরির সুযোগ পেয়ে পরিবারটি চাটিবাটি করে চলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Due to the flood in the village, they started packing up their household items to leave.",
+    "Having found a job in the city, the family packed up and moved away."
+  ],
+  "usage_domain": [
+    "relocation",
+    "migration",
+    "daily life"
+  ],
+  "tags": [
+    "departure",
+    "rural life",
+    "uprooting"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali rural practices of sudden relocation due to natural calamities or opportunities."
+}

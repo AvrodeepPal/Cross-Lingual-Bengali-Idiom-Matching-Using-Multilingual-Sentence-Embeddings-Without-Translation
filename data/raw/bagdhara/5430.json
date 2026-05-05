@@ -1,0 +1,43 @@
+{
+  "id": "5430",
+  "idiom": "তিনসন্ধ্যা",
+  "alternative_idioms": [
+    "ত্রিসন্ধ্যা"
+  ],
+  "literal_meaning": "তিনটি সন্ধ্যা",
+  "figurative_meaning_bn": "সন্ধ্যা ঘনিয়ে আসার সময়",
+  "figurative_meaning_en": "The time when evening is drawing near or twilight is deepening",
+  "similar_in_english": [
+    "Twilight hours",
+    "Dusk"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনসন্ধ্যায় বাড়ির কাজ শেষ করে বিশ্রাম নেওয়া উচিত।",
+    "গ্রামে তিনসন্ধ্যার সময় পাখিরা ডেকে ওঠে।"
+  ],
+  "example_sentences_in_english": [
+    "One should finish household chores and rest at tinsandhya.",
+    "In the village, birds start chirping at the time of tinsandhya."
+  ],
+  "usage_domain": [
+    "Time of day",
+    "Nature",
+    "Daily routine"
+  ],
+  "tags": [
+    "Evening",
+    "Twilight",
+    "Folk expression",
+    "Rural life"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Derived from Purba Banga Gitika folk song: 'জল ভরিতে যাও গো কন্যা, তিন সন্ধ্যাবেলা', referring to the evening time for fetching water in rural Bengal."
+  ],
+  "note": "Variants like ত্রিসন্ধ্যা are used interchangeably in regional dialects."
+}

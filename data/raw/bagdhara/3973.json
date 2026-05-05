@@ -1,0 +1,42 @@
+{
+  "id": "3973",
+  "idiom": "চুন্নিবিল্লি",
+  "alternative_idioms": [],
+  "literal_meaning": "চুনের গুঁড়ো লাগা বিড়াল",
+  "figurative_meaning_bn": "চুরি করে ধরা পড়া অসহায় বিড়াল",
+  "figurative_meaning_en": "A helpless cat caught in the act of stealing",
+  "similar_in_english": [
+    "Caught red-handed",
+    "Hand in the cookie jar"
+  ],
+  "example_sentences_in_bangla": [
+    "চুরি করতে গিয়ে সে চুন্নিবিল্লির মতো অসহায় হয়ে পড়ল।",
+    "পুলিশের সামনে দাঁড়িয়ে চোরটি চুন্নিবিল্লির ভাব নিল।"
+  ],
+  "example_sentences_in_english": [
+    "When caught stealing, he looked like a helpless cat dusted with flour.",
+    "The thief stood before the police, resembling a powdered cat caught in the act."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation",
+    "humor"
+  ],
+  "tags": [
+    "animal",
+    "cat",
+    "theft",
+    "helplessness",
+    "embarrassment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from rural Bengali folklore where cats often steal food like milk or fish, and if caught, they might have flour or lime powder on them from the kitchen, making them look comically helpless."
+  ],
+  "note": "The idiom draws from common household scenarios involving mischievous cats in traditional Bengali homes."
+}

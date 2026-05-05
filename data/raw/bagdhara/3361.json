@@ -1,0 +1,40 @@
+{
+  "id": "3361",
+  "idiom": "গোলকধাঁধা",
+  "alternative_idioms": [],
+  "literal_meaning": "গোলক (গোলাকার বা জটিল গঠন) + ধাঁধা (ধাঁধা বা জটিল প্রহেলিকা)",
+  "figurative_meaning_bn": "জটিল বিষয়/সমস্যা, যার সমাধান পাওয়া কঠিন",
+  "figurative_meaning_en": "A complex matter or problem that is difficult to solve",
+  "similar_in_english": [
+    "a maze",
+    "a labyrinth",
+    "a Gordian knot"
+  ],
+  "example_sentences_in_bangla": [
+    "এই আইনের ধারাগুলো একটা গোলকধাঁধা তৈরি করেছে।",
+    "জীবনের এই পরিস্থিতি তার কাছে গোলকধাঁধার মতো মনে হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "These clauses in the law have created a real maze.",
+    "This life situation feels like a labyrinth to him."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "problem-solving",
+    "literature"
+  ],
+  "tags": [
+    "complexity",
+    "puzzle",
+    "difficulty",
+    "confusion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom evokes imagery of a spherical or intricate puzzle, common in Bengali expressive language for describing convoluted issues."
+}

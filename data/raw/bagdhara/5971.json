@@ -1,0 +1,42 @@
+{
+  "id": "5971",
+  "idiom": "দোলাচল",
+  "alternative_idioms": [
+    "দোলাচাল"
+  ],
+  "literal_meaning": "দোলার চলাচল বা দোলনের গতি",
+  "figurative_meaning_bn": "অনিশ্চয়তা; অস্থিরতা, ইতস্তত/দ্বিধাভাব; উভয়সঙ্কট; সংকল্পের অভাব; হ্যাঁ বা না এর স্থিতি",
+  "figurative_meaning_en": "Uncertainty; instability, hesitation/indecision; dilemma; lack of resolve; state of yes or no",
+  "similar_in_english": [
+    "Sitting on the fence",
+    "In a dilemma",
+    "Wavering between options"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বিবাহ করবে কি না দোলাচলে পড়েছে।",
+    "রাজনীতিতে দল বদলানোর দোলাচাল চলছে।"
+  ],
+  "example_sentences_in_english": [
+    "She is in a state of indecision about whether to get married.",
+    "There is wavering in politics about changing parties."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Decision-making",
+    "Personal dilemmas"
+  ],
+  "tags": [
+    "indecision",
+    "uncertainty",
+    "hesitation",
+    "dilemma"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom evokes the back-and-forth motion of a swing, symbolizing mental oscillation."
+}

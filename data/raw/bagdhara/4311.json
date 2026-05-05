@@ -1,0 +1,41 @@
+{
+  "id": "4311",
+  "idiom": "মেঘের ছায়া",
+  "alternative_idioms": [],
+  "literal_meaning": "মেঘের ছায়া (cloud's shade)",
+  "figurative_meaning_bn": "আশ্রয়",
+  "figurative_meaning_en": "temporary shelter or refuge",
+  "similar_in_english": [
+    "flash in the pan",
+    "a passing fancy"
+  ],
+  "example_sentences_in_bangla": [
+    "এই চাকরিটি মেঘের ছায়ার মতো অস্থায়ী।",
+    "তার সাহায্য মেঘের ছায়া, কোনো নির্ভরযোগ্যতা নেই।"
+  ],
+  "example_sentences_in_english": [
+    "This job is like the shade of a cloud—temporary and unreliable.",
+    "His support is merely the shade of a cloud, offering no real security."
+  ],
+  "usage_domain": [
+    "employment",
+    "relationships",
+    "temporary relief"
+  ],
+  "tags": [
+    "temporary",
+    "unreliable",
+    "nature-based",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from observations of fleeting natural phenomena in Bengali folklore, emphasizing impermanence."
+  ],
+  "note": "The idiom highlights the transience of cloud shadows, often used metaphorically for unstable situations."
+}

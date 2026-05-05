@@ -1,0 +1,42 @@
+{
+  "id": "1026",
+  "idiom": "একতান",
+  "alternative_idioms": [
+    "একসুর",
+    "ঐক্যতান"
+  ],
+  "literal_meaning": "এক সুর বা তান (one tune or tone)",
+  "figurative_meaning_bn": "একসুরে বাঁধা; ঐক্যতান",
+  "figurative_meaning_en": "Bound in one tune; unity in harmony",
+  "similar_in_english": [
+    "In unison",
+    "Singing from the same hymnbook",
+    "On the same page"
+  ],
+  "example_sentences_in_bangla": [
+    "সবাই একতানে গান গাইলো, কোনো অসঙ্গতি ছিল না।",
+    "প্রতিবাদকারীরা একতানে স্লোগান দিল।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone sang in unison without any discord.",
+    "The protesters chanted slogans in one voice."
+  ],
+  "usage_domain": [
+    "Music",
+    "Agreement",
+    "Unity"
+  ],
+  "tags": [
+    "harmony",
+    "consensus",
+    "collective action"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of collective expression in Bengali literature and daily speech"
+}

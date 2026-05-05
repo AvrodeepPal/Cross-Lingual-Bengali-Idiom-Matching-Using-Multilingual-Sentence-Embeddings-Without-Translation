@@ -1,0 +1,40 @@
+{
+  "id": "9387",
+  "idiom": "শকুনিমামা",
+  "alternative_idioms": [
+    "শকুনি"
+  ],
+  "literal_meaning": "শকুনির মামা (vulture's maternal uncle)",
+  "figurative_meaning_bn": "কুচক্রী/কুটবুদ্ধিসম্পন্ন; কুটবুদ্ধিদাতা ব্যক্তি; লোভী; সর্বদা নীচুমনা",
+  "figurative_meaning_en": "Scheming or cunning person; one who provides cunning advice; greedy; always having a lowly or base mindset",
+  "similar_in_english": [
+    "vulture (greedy opportunist)",
+    "snake in the grass (scheming person)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন খাঁটি শকুনিমামা, সবসময় অন্যের ক্ষতি করে লাভ করার চেষ্টা করে।",
+    "রাজনীতিতে শকুনিমামাদের মতো লোভী লোকের অভাব নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real vulture uncle, always trying to profit from others' misfortunes.",
+    "In politics, there is no shortage of greedy vulture uncles."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "cunning",
+    "greedy",
+    "scheming",
+    "negative character"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the cultural view of vultures as opportunistic scavengers, symbolizing base human traits in Bengali folklore."
+}

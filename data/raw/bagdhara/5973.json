@@ -1,0 +1,40 @@
+{
+  "id": "5973",
+  "idiom": "দোষৈকদর্শী",
+  "alternative_idioms": [],
+  "literal_meaning": "দোষ দেখার একমাত্র দৃষ্টিসম্পন্ন ব্যক্তি",
+  "figurative_meaning_bn": "গুণ দেখে না, কেবল দোষ দেখে বেড়ায় এমন",
+  "figurative_meaning_en": "Someone who ignores virtues and only seeks out faults",
+  "similar_in_english": [
+    "fault-finder",
+    "nitpicker",
+    "hypercritical person"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন দোষৈকদর্শী, তার চোখে কারও গুণ ধরা পড়ে না।",
+    "আমাদের বস দোষৈকদর্শী, সবসময় ছোটখাটো ভুল খুঁজে বেড়ান।"
+  ],
+  "example_sentences_in_english": [
+    "He is a fault-finder; he never notices anyone's good qualities.",
+    "Our boss is hypercritical, always hunting for minor errors."
+  ],
+  "usage_domain": [
+    "personality description",
+    "criticism",
+    "social interaction"
+  ],
+  "tags": [
+    "negative",
+    "judgmental",
+    "perception",
+    "fault-finding"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from Sanskrit roots, common in Bengali literature to describe overly critical individuals."
+}

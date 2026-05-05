@@ -1,0 +1,41 @@
+{
+  "id": "1031",
+  "idiom": "একথোকে",
+  "alternative_idioms": [
+    "এককালীন"
+  ],
+  "literal_meaning": "একটি থোক বা সমষ্টিতে (one lump or heap)",
+  "figurative_meaning_bn": "একেবারে; একসঙ্গে; সমষ্টিগতভাবে",
+  "figurative_meaning_en": "all at once; together; collectively",
+  "similar_in_english": [
+    "all in one go",
+    "in one fell swoop",
+    "all together"
+  ],
+  "example_sentences_in_bangla": [
+    "একথোকে সব টাকা দিয়ে দিন।",
+    "তারা একথোকে উঠে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "Pay all the money at once.",
+    "They all got up together."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "finance",
+    "collective actions"
+  ],
+  "tags": [
+    "collective",
+    "simultaneous",
+    "unified"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to doing or handling something as a single unit, common in colloquial Bengali."
+}

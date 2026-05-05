@@ -1,0 +1,40 @@
+{
+  "id": "7592",
+  "idiom": "বামণ গেল ঘর তো লাঙল তুলে ধর",
+  "alternative_idioms": [],
+  "literal_meaning": "ব্রাহ্মণ ঘরে গেলে লাঙল তুলে ধরো (When the Brahmin goes home, pick up and hold the plough)",
+  "figurative_meaning_bn": "মালিক না থাকলে বেতনভোগী কর্মচারীরা কাজে ফাঁকি দেয়",
+  "figurative_meaning_en": "When the owner is absent, salaried employees slack off in their work",
+  "similar_in_english": [
+    "When the cat's away, the mice will play"
+  ],
+  "example_sentences_in_bangla": [
+    "মালিকের ছুটিতে অফিসে সবাই বামণ গেল ঘর তো লাঙল তুলে ধরের মতো কাজ বন্ধ করে বসে আছে।",
+    "গ্রামের জমিদার চলে গেলে কাজের লোকেরা এই বাগধারার মতোই ফাঁকি দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "With the boss on vacation, everyone at the office is slacking off just like when the cat's away, the mice will play.",
+    "When the landowner left the village, the workers stopped working as per this idiom."
+  ],
+  "usage_domain": [
+    "workplace",
+    "employment",
+    "rural labor"
+  ],
+  "tags": [
+    "proverb",
+    "laziness",
+    "absence",
+    "work ethic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from agrarian Bengali society where Brahmins often acted as landowners or overseers; when they were absent, field laborers would cease ploughing, reflecting feudal work dynamics."
+  ],
+  "note": "The idiom highlights social hierarchies in traditional rural Bengal."
+}

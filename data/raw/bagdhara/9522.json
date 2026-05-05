@@ -1,0 +1,39 @@
+{
+  "id": "9522",
+  "idiom": "শ্বশুরবাড়ী",
+  "alternative_idioms": [],
+  "literal_meaning": "শ্বশুরের বাড়ি (father-in-law's house)",
+  "figurative_meaning_bn": "আদরের স্থান, স্ত্রীর বাপের বাড়ি",
+  "figurative_meaning_en": "A beloved or affectionate place, the wife's parental home",
+  "similar_in_english": [
+    "home away from home",
+    "visiting the in-laws"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কলকাতায় থাকলেও মন সবসময় শ্বশুরবাড়ীতে থাকে।",
+    "বিয়ের পর প্রথমবার শ্বশুরবাড়ী যাওয়া তার কাছে স্বর্গের মতো লাগল।"
+  ],
+  "example_sentences_in_english": [
+    "Even though she lives in the city, her heart is always at her shoshurbari.",
+    "Going to her in-laws' house for the first time after marriage felt like heaven to her."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships",
+    "marriage"
+  ],
+  "tags": [
+    "in-laws",
+    "affection",
+    "home",
+    "cultural tradition"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali family dynamics where the wife's parental home is seen as a comforting retreat."
+}

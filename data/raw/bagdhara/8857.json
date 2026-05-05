@@ -1,0 +1,39 @@
+{
+  "id": "8857",
+  "idiom": "মেরেকেটে",
+  "alternative_idioms": [],
+  "literal_meaning": "মেরে কেটে (আঘাত করে কেটে) বাজারে",
+  "figurative_meaning_bn": "অন্ততপক্ষে, কাটাকুটি করা সত্ত্বেও, বড়জোর",
+  "figurative_meaning_en": "at least, despite all the haggling or cutting, at most",
+  "similar_in_english": [
+    "give or take",
+    "more or less",
+    "at the very least"
+  ],
+  "example_sentences_in_bangla": [
+    "মেরেকেটে পঞ্চাশ জন লোক আসবে বলে মনে হয়।",
+    "এই কাজটি মেরেকেটে দিন শেষ হয়ে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "At most, fifty people will come, I think.",
+    "This work will finish by the end of the day, give or take."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "estimation",
+    "quantity approximation"
+  ],
+  "tags": [
+    "approximation",
+    "market reference",
+    "colloquial"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom likely originates from rural market bargaining scenes where quantities are roughly estimated amid haggling."
+}

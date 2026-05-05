@@ -1,0 +1,48 @@
+{
+  "id": "9106",
+  "idiom": "রাবণের ছাঁদনাতলা",
+  "alternative_idioms": [
+    "আম না হতে আমসি",
+    "আমসত্ব",
+    "কালনেমির লঙ্কাভাগ",
+    "গাছ না উঠতে এককাঁদি",
+    "গাছে কাঁঠাল গোঁফে তেল",
+    "রাম না হতেই রামায়ণ"
+  ],
+  "literal_meaning": "রাবণের ছাঁদনা-ঢাকা তলা (রাবণের খড়ের ছাদবার তলা)",
+  "figurative_meaning_bn": "আগাম সুখকল্পনা; কারণের আগেই কার্য",
+  "figurative_meaning_en": "Premature optimistic planning; action before the cause",
+  "similar_in_english": [
+    "Counting one's chickens before they hatch",
+    "Putting the cart before the horse"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরীক্ষা না দিয়ে রাবণের ছাঁদনাতলা করে ফেলেছে, উৎসবের প্রস্তুতি নিতে শুরু করেছে।",
+    "ব্যবসা শুরু হওয়ার আগেই লাভের হিসাব করে রাবণের ছাঁদনাতলা করবেন না।"
+  ],
+  "example_sentences_in_english": [
+    "He's already planning the celebration without taking the exam—building Ravana's thatched roof.",
+    "Don't count your profits before starting the business; that's like building Ravana's thatched roof."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "planning and anticipation",
+    "folklore references"
+  ],
+  "tags": [
+    "prematurity",
+    "optimism",
+    "mythological",
+    "warning"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the Ramayana epic, referencing Ravana, the demon king of Lanka, to symbolize overly ambitious or premature plans, akin to constructing a humble thatched structure for a grand figure before any success is achieved."
+  ],
+  "note": "The idiom highlights the folly of anticipation in Bengali oral tradition, often used to caution against overconfidence."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3055",
+  "idiom": "গাঁটগচ্চা",
+  "alternative_idioms": [],
+  "literal_meaning": "গাঁট বাঁধা অর্থের জটিলতা বা গোলমাল",
+  "figurative_meaning_bn": "গাঁটের পয়সা অযথা খরচ",
+  "figurative_meaning_en": "Wasting hard-earned or saved money unnecessarily",
+  "similar_in_english": [
+    "Throwing money down the drain",
+    "Burning a hole in one's pocket"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অযথা কেনাকাটায় গাঁটগচ্চা করে ফেলেছে।",
+    "পরিবারের সঞ্চয় গাঁটগচ্চা হয়ে গেল এই বিলাসী জীবনযাপনে।"
+  ],
+  "example_sentences_in_english": [
+    "He wasted his hard-earned savings on unnecessary shopping.",
+    "The family's nest egg went down the drain due to extravagant living."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Daily Life",
+    "Economics"
+  ],
+  "tags": [
+    "Money",
+    "Waste",
+    "Spending",
+    "Frugality"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects Bengali cultural emphasis on thrift and careful money management."
+}

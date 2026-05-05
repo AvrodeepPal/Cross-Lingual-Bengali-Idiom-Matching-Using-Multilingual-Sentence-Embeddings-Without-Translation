@@ -1,0 +1,44 @@
+{
+  "id": "7468",
+  "idiom": "বাঘে-গরুতে সম্পর্ক",
+  "alternative_idioms": [
+    "আদা-কাঁচকলায়",
+    "দা-কুমড়াসম্পর্ক",
+    "বুনো ওল-বাঘা তেঁতুলসম্পর্ক",
+    "সাপে-নেউলে সম্পর্ক"
+  ],
+  "literal_meaning": "বাঘ এবং গরুর মধ্যে সম্পর্ক (relationship between a tiger and a cow)",
+  "figurative_meaning_bn": "চিরশত্রুতা",
+  "figurative_meaning_en": "Eternal enmity or irreconcilable hostility",
+  "similar_in_english": [
+    "Like cats and dogs",
+    "Oil and water don't mix"
+  ],
+  "example_sentences_in_bangla": [
+    "তাদের দুজনের মধ্যে বাঘে-গরুতে সম্পর্ক।",
+    "প্রতিবেশীদের সম্পর্ক বাঘে-গরুতে সম্পর্কের মতো, কখনো মিলবে না।"
+  ],
+  "example_sentences_in_english": [
+    "There is a tiger-cow relationship between them.",
+    "The neighbors have a relationship like that between a tiger and a cow; they'll never get along."
+  ],
+  "usage_domain": [
+    "interpersonal relationships",
+    "conflicts",
+    "rivalries"
+  ],
+  "tags": [
+    "enmity",
+    "hostility",
+    "animals",
+    "natural enemies"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from rural Bengali imagery of natural predators and prey, emphasizing inherent incompatibility."
+}

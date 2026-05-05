@@ -1,0 +1,40 @@
+{
+  "id": "6617",
+  "idiom": "পরকীয়া প্রেম",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্যের স্ত্রী বা স্বামীর প্রতি প্রেম",
+  "figurative_meaning_bn": "বিবাহিত কোন নারী বা পুরুষের স্বামী বা স্ত্রী ছাড়া অন্য কোন ব্যক্তির সাথে বিবাহবহির্ভূত সম্পর্ক",
+  "figurative_meaning_en": "An extramarital relationship between a married man or woman and someone other than their spouse",
+  "similar_in_english": [
+    "extramarital affair",
+    "forbidden love",
+    "adultery"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবনে পরকীয়া প্রেমের ঘটনা সবকিছু নষ্ট করে দিয়েছে।",
+    "সমাজে পরকীয়া প্রেমকে কখনো স্বীকার করা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "The incident of extramarital love ruined everything in his life.",
+    "Extramarital affairs are never accepted in society."
+  ],
+  "usage_domain": [
+    "relationships",
+    "social norms",
+    "literature"
+  ],
+  "tags": [
+    "infidelity",
+    "taboo",
+    "romance",
+    "marriage"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali views on marital fidelity, often portrayed negatively in folklore and modern media."
+}

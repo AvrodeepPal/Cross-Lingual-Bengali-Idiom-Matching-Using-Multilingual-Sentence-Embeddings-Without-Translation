@@ -1,0 +1,39 @@
+{
+  "id": "3829",
+  "idiom": "চাপান-উতোর",
+  "alternative_idioms": [],
+  "literal_meaning": "চাপ দেওয়া এবং উত্তোলন করা",
+  "figurative_meaning_bn": "প্রশ্ন ও উত্তর; প্রশ্ন ও পালটা প্রশ্ন; তরজা গানের লড়াই",
+  "figurative_meaning_en": "question and answer; question and counter-question; banter in songs",
+  "similar_in_english": [
+    "back and forth",
+    "tit for tat",
+    "Q&A"
+  ],
+  "example_sentences_in_bangla": [
+    "তাদের কথোপকথন চাপান-উতোরের মতো চলছিল।",
+    "গানের লড়াই চাপান-উতোরের ছন্দে এগোচ্ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "Their conversation proceeded like a question and answer exchange.",
+    "The song's banter flowed in a back-and-forth rhythm."
+  ],
+  "usage_domain": [
+    "conversation",
+    "debate",
+    "music"
+  ],
+  "tags": [
+    "dialogue",
+    "exchange",
+    "banter"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": ""
+}

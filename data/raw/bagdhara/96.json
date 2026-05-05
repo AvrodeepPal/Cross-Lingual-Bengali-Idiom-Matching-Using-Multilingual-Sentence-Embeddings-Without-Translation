@@ -1,0 +1,41 @@
+{
+  "id": "96",
+  "idiom": "অজগরবৃত্তি",
+  "alternative_idioms": [],
+  "literal_meaning": "অজগরের বৃত্তি (পাইথন সাপের জীবিকা বা পেশা)",
+  "figurative_meaning_bn": "আলসেমি; এক জায়গায় স্থির থেকে যা পাওয়া যায় তাতেই জীবনধারণ করা",
+  "figurative_meaning_en": "Laziness; sustaining life by remaining stationary in one place and living off whatever is easily obtained",
+  "similar_in_english": [
+    "couch potato lifestyle",
+    "bone-idle existence"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অজগরবৃত্তি করে দিন কাটায়, কোনো পরিশ্রম করে না।",
+    "এই অজগরবৃত্তি ছেড়ে উদ্যমী হয়ে ওঠো, না হলে কিছু পাবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He passes his days in the python's profession, without any effort.",
+    "Give up this lazy way of life and become industrious, or you'll achieve nothing."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work ethic",
+    "personal motivation"
+  ],
+  "tags": [
+    "laziness",
+    "inactivity",
+    "minimal effort",
+    "sustenance"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom derives from the observed behavior of pythons in rural Bengal, which coil motionless and ambush prey without much movement, symbolizing extreme laziness and reliance on minimal effort."
+  ],
+  "note": "This idiom highlights the cultural value of hard work in Bengali society by contrasting it with the python's passive survival strategy."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "10131",
+  "idiom": "হাত দিয়ে জল গলে না",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত দিয়ে জল গলে না (water does not melt or flow away with the hand)",
+  "figurative_meaning_bn": "কৃপণস্বভাব",
+  "figurative_meaning_en": "miserly or stingy nature",
+  "similar_in_english": [
+    "tight-fisted",
+    "penny-pincher",
+    "holding onto money like a miser"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এতটাই কৃপণ যে হাত দিয়ে জল গলে না বলে মনে হয়, কখনো কাউকে সাহায্য করে না।",
+    "তার হাত দিয়ে জল গলে না, তাই বন্ধুদের জন্য খরচ করতে চায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He is so stingy that it seems water doesn't melt with his hands; he never helps anyone.",
+    "Water doesn't melt with his hands, meaning he's too miserly to spend on friends."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "personality description",
+    "financial behavior"
+  ],
+  "tags": [
+    "stinginess",
+    "miserly",
+    "greed",
+    "personality trait"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom metaphorically describes extreme reluctance to part with money or possessions, akin to water not easily slipping away."
+}

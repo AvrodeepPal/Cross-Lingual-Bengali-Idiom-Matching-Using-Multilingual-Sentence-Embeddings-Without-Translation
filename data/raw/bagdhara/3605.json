@@ -1,0 +1,39 @@
+{
+  "id": "3605",
+  "idiom": "ঘোড়ার ডাক্তার",
+  "alternative_idioms": [
+    "হাতুড়ে ডাক্তার"
+  ],
+  "literal_meaning": "ঘোড়ার ডাক্তার (horse's doctor)",
+  "figurative_meaning_bn": "তুচ্ছার্থে ডাক্তার পদবাচ্য নয়",
+  "figurative_meaning_en": "Not worthy of being called a doctor; an unqualified or quack practitioner",
+  "similar_in_english": [
+    "quack",
+    "charlatan"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো ঘোড়ার ডাক্তার, মানুষের রোগ চিকিত্সা করতে পারবে না।",
+    "এই অযোগ্য চিকিত্সককে ঘোড়ার ডাক্তার বলাই ঠিক।"
+  ],
+  "example_sentences_in_english": [
+    "He's just a horse doctor; he can't treat human illnesses.",
+    "It's right to call this unqualified physician a horse doctor."
+  ],
+  "usage_domain": [
+    "medicine",
+    "insult"
+  ],
+  "tags": [
+    "derogatory",
+    "profession",
+    "animal"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to veterinary practice derogatorily, implying incompetence in human medicine."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "4883",
+  "idiom": "টসটস",
+  "alternative_idioms": [],
+  "literal_meaning": "টপটপ করে পড়ার শব্দানুকরণ (dripping sound imitation)",
+  "figurative_meaning_bn": "ফোঁটাফোঁটা",
+  "figurative_meaning_en": "drop by drop (referring to tears falling steadily)",
+  "similar_in_english": [
+    "in dribs and drabs",
+    "tears streaming down"
+  ],
+  "example_sentences_in_bangla": [
+    "সে টসটস করে কাঁদছিল।",
+    "বৃষ্টি টসটস করে পড়ছে।"
+  ],
+  "example_sentences_in_english": [
+    "She was crying drop by drop.",
+    "The rain is falling drop by drop."
+  ],
+  "usage_domain": [
+    "emotions",
+    "weather description"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "crying",
+    "tears"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  " ": "",
+  "note": "This is an onomatopoeic expression commonly used in spoken Bengali to describe steady dripping, often of tears in emotional contexts."
+}

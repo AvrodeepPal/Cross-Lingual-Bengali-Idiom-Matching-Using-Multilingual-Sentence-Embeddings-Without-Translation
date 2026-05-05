@@ -1,0 +1,38 @@
+{
+  "id": "463",
+  "idiom": "আড়ং ধোলাই",
+  "alternative_idioms": [],
+  "literal_meaning": "পিঠে মারধর বা ধোলাই",
+  "figurative_meaning_bn": "উত্তম-মধ্যম দেওয়া; সপাটে আছাড় মারা",
+  "figurative_meaning_en": "Administering a sound thrashing; beating someone flat",
+  "similar_in_english": [
+    "Beat the living daylights out of someone",
+    "Give a hiding"
+  ],
+  "example_sentences_in_bangla": [
+    "বেশি বাড়াবাড়ি করলে তোমার আড়ং ধোলাই হবে।",
+    "সে তার ভাইকে আড়ং ধোলাই দিয়ে শিক্ষা দিল।"
+  ],
+  "example_sentences_in_english": [
+    "If you act too cheeky, you'll get a sound thrashing.",
+    "He gave his brother a thorough beating to teach him a lesson."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "warnings",
+    "punishment"
+  ],
+  "tags": [
+    "violence",
+    "threat",
+    "folk expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used in informal, rural Bengali speech to warn against overstepping boundaries."
+}

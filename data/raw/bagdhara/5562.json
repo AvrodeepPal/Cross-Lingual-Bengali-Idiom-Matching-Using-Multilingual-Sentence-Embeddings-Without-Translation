@@ -1,0 +1,40 @@
+{
+  "id": "5562",
+  "idiom": "থোকা দর",
+  "alternative_idioms": [],
+  "literal_meaning": "থোকায় বা জড়ো করে দাম নির্ধারণ",
+  "figurative_meaning_bn": "আন্দাজী হিসাব; কোন মাপজোখ না করে",
+  "figurative_meaning_en": "Approximate calculation; without any precise measurement",
+  "similar_in_english": [
+    "Rough estimate",
+    "Guesstimate",
+    "Back-of-the-envelope calculation"
+  ],
+  "example_sentences_in_bangla": [
+    "থোকা দরে সবকিছু কিনে ফেলেছে, পরে দেখা গেল খরচ বেশি হয়েছে।",
+    "এই প্রকল্পের খরচের থোকা দর দিয়ে বলো, বিস্তারিত পরে।"
+  ],
+  "example_sentences_in_english": [
+    "They bought everything at a rough estimate, and later found out the cost was higher.",
+    "Give me a guesstimate of the project cost first, details later."
+  ],
+  "usage_domain": [
+    "Commerce",
+    "Everyday estimation",
+    "Business dealings"
+  ],
+  "tags": [
+    "estimation",
+    "approximation",
+    "trade",
+    "informal calculation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Input text 'থওকা দর' appears to be a variant or typographical error for the standard 'থোকা দর', a common Bengali idiom rooted in traditional market practices."
+}

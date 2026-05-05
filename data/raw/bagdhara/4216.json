@@ -1,0 +1,40 @@
+{
+  "id": "4216",
+  "idiom": "ছকড়া নকড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "সস্তা বা নগণ্য মূল্যের ইঙ্গিতকারী শব্দসমষ্টি (যেন ছকড়া-নকড়া শব্দে সস্তা বাজারের আওয়াজ বর্ণনা)",
+  "figurative_meaning_bn": "নগণ্য/সস্তা দর",
+  "figurative_meaning_en": "negligible or cheap price",
+  "similar_in_english": [
+    "dirt cheap",
+    "for peanuts",
+    "bargain price"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে এই ফলগুলো ছকড়া নকড়া দামে বিক্রি হচ্ছে।",
+    "সে ছকড়া নকড়া দরে জিনিসটা কিনে ফেলেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The fruits are selling at dirt cheap prices in the market.",
+    "He bought the item for peanuts."
+  ],
+  "usage_domain": [
+    "commerce",
+    "market",
+    "bargaining"
+  ],
+  "tags": [
+    "price",
+    "cheap",
+    "market",
+    "everyday"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলা বাজার সংস্কৃতির সাথে যুক্ত, বিশেষ করে কৃষি পণ্যের বিক্রয়ে ব্যবহৃত হয়"
+}

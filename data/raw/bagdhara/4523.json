@@ -1,0 +1,40 @@
+{
+  "id": "4523",
+  "idiom": "জলচল",
+  "alternative_idioms": [],
+  "literal_meaning": "জলের চলাচল (water's movement or flow)",
+  "figurative_meaning_bn": "যার ছোঁয়া জল খেতে বাধা নেই",
+  "figurative_meaning_en": "One whose touch does not prohibit drinking water",
+  "similar_in_english": [
+    "Clean as a whistle",
+    "Pure as the driven snow"
+  ],
+  "example_sentences_in_bangla": [
+    "সে জলচল মানুষ, তাই তার স্পর্শে কোনো অশুচিতা হয় না।",
+    "গ্রামের পুরোহিত জলচল বলে সকলে তার কাছে জল নেয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a pure soul; his touch doesn't pollute anything.",
+    "The village priest is considered jalchôl, so everyone drinks water from his hands without hesitation."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Caste and purity discussions"
+  ],
+  "tags": [
+    "purity",
+    "caste system",
+    "Hindu tradition",
+    "social hierarchy"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the historical Hindu caste system in Bengal, where touch purity determined social interactions, especially regarding water consumption among Brahmins and higher castes."
+  ],
+  "note": "Refers to ritual purity in traditional Bengali society, less common in modern urban contexts due to social changes."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "6117",
+  "idiom": "ধেনো",
+  "alternative_idioms": [
+    "ধেনো জমি",
+    "ধেনো বুদ্ধি"
+  ],
+  "literal_meaning": "ধান চাষের উপযোগী (rice cultivation suitable)",
+  "figurative_meaning_bn": "সু অর্থে- ধান চাষ হয় এমন; কু-অর্থে ধানচাষির মতো মূর্খ",
+  "figurative_meaning_en": "In positive sense: suitable for rice cultivation; In negative sense: foolish like a rice farmer",
+  "similar_in_english": [
+    "dumb as a rock (for negative sense)",
+    "fertile ground (for positive sense)"
+  ],
+  "example_sentences_in_bangla": [
+    "এই জমিটি ধেনো, এখানে ভালো ধান উঠবে।",
+    "তার ধেনো বুদ্ধির জন্য সবাই হাসে।"
+  ],
+  "example_sentences_in_english": [
+    "This land is dheno, good rice will grow here.",
+    "Everyone laughs at his dheno intellect."
+  ],
+  "usage_domain": [
+    "agriculture",
+    "insult",
+    "rural life"
+  ],
+  "tags": [
+    "idiom",
+    "agriculture",
+    "folly",
+    "bengali culture"
+  ],
+  "frequency": "common",
+  "sentiment": "mixed",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom reflects Bengal's agrarian heritage, with dual connotations tied to rice farming."
+}

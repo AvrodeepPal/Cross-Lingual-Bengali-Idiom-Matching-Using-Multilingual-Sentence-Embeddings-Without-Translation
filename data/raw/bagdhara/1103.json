@@ -1,0 +1,42 @@
+{
+  "id": "1103",
+  "idiom": "একলা",
+  "alternative_idioms": [
+    "একেলা"
+  ],
+  "literal_meaning": "একা বা নিজের মতো",
+  "figurative_meaning_bn": "নিঃসঙ্গ",
+  "figurative_meaning_en": "lonely or solitary",
+  "similar_in_english": [
+    "all alone",
+    "on one's own"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একলা বসে আকাশের দিকে তাকিয়ে ছিল।",
+    "একলা থাকলে মনটা খারাপ হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He sat alone gazing at the sky.",
+    "Being alone makes the mind feel bad."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation",
+    "literature"
+  ],
+  "tags": [
+    "loneliness",
+    "solitude",
+    "isolation"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in Rabindranath Tagore's poetry, evoking themes of separation and longing."
+  ],
+  "note": "Variants like 'একেলা' are dialectal forms used interchangeably."
+}

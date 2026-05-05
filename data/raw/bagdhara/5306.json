@@ -1,0 +1,40 @@
+{
+  "id": "5306",
+  "idiom": "ঢ্যাঙা",
+  "alternative_idioms": [],
+  "literal_meaning": "লম্বা এবং পাতলা (তালগাছের মতো)",
+  "figurative_meaning_bn": "বেমানান লম্বা",
+  "figurative_meaning_en": "Awkwardly tall or lanky",
+  "similar_in_english": [
+    "Like a beanpole",
+    "Tall and gangly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এত ঢ্যাঙা যে সবার থেকে আলাদা লাগে।",
+    "ঢ্যাঙা ছেলেটি দৌড়াতে গিয়ে হোঁচট খেয়ে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "He is so lanky that he stands out from everyone.",
+    "The gangly boy tripped while running."
+  ],
+  "usage_domain": [
+    "Physical description",
+    "Colloquial insults"
+  ],
+  "tags": [
+    "body",
+    "height",
+    "appearance",
+    "rural imagery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Originates from the imagery of tall, slender palm trees (তালগাছ) common in rural Bengal, symbolizing disproportionate height."
+  ],
+  "note": "Often used to describe someone tall but not proportionally built, evoking rural landscapes."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "9269",
+  "idiom": "লাট খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "লাট (স্পিনিং টপ) খাওয়া (পতন বা ধসে পড়া)",
+  "figurative_meaning_bn": "উল্টোমুখে পতন, পতনোন্মুখ হওয়া",
+  "figurative_meaning_en": "To fall headlong or tumble down, to be on the brink of collapse",
+  "similar_in_english": [
+    "Go head over heels",
+    "Take a nosedive",
+    "On the skids"
+  ],
+  "example_sentences_in_bangla": [
+    "দেশের অর্থনীতি লাট খাচ্ছে।",
+    "তার ব্যবসা লাট খেয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The country's economy is tumbling down.",
+    "His business has gone head over heels into failure."
+  ],
+  "usage_domain": [
+    "economics",
+    "business",
+    "personal failure"
+  ],
+  "tags": [
+    "downfall",
+    "collapse",
+    "failure",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Originates from the image of a spinning top (লাট) losing momentum and falling flat, a common childhood plaything in Bengali culture."
+}

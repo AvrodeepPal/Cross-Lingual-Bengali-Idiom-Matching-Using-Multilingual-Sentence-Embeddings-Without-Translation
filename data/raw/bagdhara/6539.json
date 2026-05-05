@@ -1,0 +1,37 @@
+{
+  "id": "6539",
+  "idiom": "পটপটি",
+  "alternative_idioms": [],
+  "literal_meaning": "পটপট শব্দ (যেমন ফুটন্ত বা বিস্ফোরণের আওয়াজ)",
+  "figurative_meaning_bn": "আস্ফালন",
+  "figurative_meaning_en": "Restlessness or making a fuss",
+  "similar_in_english": [
+    "In a tizzy",
+    "Making a fuss"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার মুখেই যত পটপটি, কোনো কাজ তো হয় না।",
+    "বাচ্চাটা পড়াশোনায় পটপটি করছে।"
+  ],
+  "example_sentences_in_english": [
+    "All that fuss is just in your mouth, nothing gets done.",
+    "The child is fidgeting during studies."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "daily conversation"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "agitation",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom derived from onomatopoeic sound mimicking agitation or noise."
+}

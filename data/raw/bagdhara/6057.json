@@ -1,0 +1,39 @@
+{
+  "id": "6057",
+  "idiom": "ধানীলঙ্কা",
+  "alternative_idioms": [],
+  "literal_meaning": "ধানের লঙ্কা (শাব্দিকভাবে ধানভরা লঙ্কা বা তীব্র লঙ্কা-সদৃশ কিছু)",
+  "figurative_meaning_bn": "কড়া বা তেজযুক্ত লোক; মুখরা মেয়ে",
+  "figurative_meaning_en": "A stern or hot-tempered person; a garrulous or sharp-tongued girl",
+  "similar_in_english": [
+    "hothead",
+    "chatterbox",
+    "firecracker"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ধানীলঙ্কা, কথায় কখনো পিছপা হয় না।",
+    "গ্রামের সেই মেয়েটি ধানীলঙ্কার মতো তেজী।"
+  ],
+  "example_sentences_in_english": [
+    "She is a real dhanilanka, never backing down in arguments.",
+    "That village girl is as spirited as a dhanilanka."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "personality description"
+  ],
+  "tags": [
+    "temperament",
+    "talkative",
+    "sharp-tongued",
+    "gender-specific"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom likely draws from 'লঙ্কা' implying spiciness or sharpness, combined with 'ধানী' for abundance or rural context."
+}

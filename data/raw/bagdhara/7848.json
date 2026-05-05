@@ -1,0 +1,38 @@
+{
+  "id": "7848",
+  "idiom": "বেটাবেটি",
+  "alternative_idioms": [],
+  "literal_meaning": "ছেলে-মেয়ে (sons and daughters)",
+  "figurative_meaning_bn": "অনির্দিষ্টি নরনারী, যাদের নাম নিতে ঘৃণা বা বিরক্তি বোধ হয়",
+  "figurative_meaning_en": "Unspecified men and women, whose names one feels disgust or annoyance to mention",
+  "similar_in_english": [
+    "Tom, Dick, and Harry",
+    "Joe Sixpack"
+  ],
+  "example_sentences_in_bangla": [
+    "বেটাবেটিদের জ্বালায় ঘরসংসার করা দায় হল।",
+    "এই বেটাবেটিরা শহরে এসে সব বিশৃঙ্খলা করে দিচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "Taking care of the household has become a burden due to these rascals.",
+    "These riff-raff have come to the city and are causing all sorts of chaos."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Social commentary"
+  ],
+  "tags": [
+    "derogatory",
+    "people",
+    "annoyance",
+    "family"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to generic, often troublesome individuals in a dismissive way, common in colloquial Bengali."
+}

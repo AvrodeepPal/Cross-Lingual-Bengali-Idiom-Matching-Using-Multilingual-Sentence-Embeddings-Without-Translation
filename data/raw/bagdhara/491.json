@@ -1,0 +1,40 @@
+{
+  "id": "491",
+  "idiom": "আত্মবৎ মন্যতে জগৎ",
+  "alternative_idioms": [],
+  "literal_meaning": "আত্মার মতো জগৎকে মনে করে",
+  "figurative_meaning_bn": "আপনার আয়নায় জগৎ দেখা",
+  "figurative_meaning_en": "To view the world through one's own lens or as a reflection of oneself",
+  "similar_in_english": [
+    "To think the world revolves around oneself",
+    "To judge others by one's own standards"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আত্মবৎ মন্যতে জগৎ, তাই সকলের কাজকে তার নিজের মাপকাঠিতে যাচাই করে।",
+    "এই ধরনের মানুষ আত্মবৎ মন্যতে জগৎ, ফলে অন্যের দৃষ্টিভঙ্গি বুঝতে পারে না।"
+  ],
+  "example_sentences_in_english": [
+    "He views the world as revolving around himself, so he measures everyone's actions by his own standards.",
+    "People like that see the world in their own image, failing to understand others' perspectives."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "personality description",
+    "literature"
+  ],
+  "tags": [
+    "egocentrism",
+    "self-centeredness",
+    "perception bias"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from Sanskrit philosophical expressions, often used in classical Bengali literature to describe self-projection onto the world."
+  ],
+  "note": "Derived from Sanskrit 'Ātmavat manyate jagat', emphasizing subjective worldview in Bengali cultural discourse."
+}

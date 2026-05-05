@@ -1,0 +1,39 @@
+{
+  "id": "2937",
+  "idiom": "গন্ধে টের পাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "গন্ধ থেকে ইঙ্গিত পাওয়া",
+  "figurative_meaning_bn": "অনুমানে জানা",
+  "figurative_meaning_en": "to know by inference or intuition",
+  "similar_in_english": [
+    "to smell a rat",
+    "to get wind of something"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি গন্ধে টের পেয়েছি যে এখানে কোনো ষড়যন্ত্র চলছে।",
+    "তার কথাবার্তা থেকে গন্ধে টের পাওয়া গেল যে সে মিথ্যে বলছে।"
+  ],
+  "example_sentences_in_english": [
+    "I got a whiff and sensed that something fishy was going on.",
+    "From his words, I could tell by intuition that he was lying."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "suspicion",
+    "intuition"
+  ],
+  "tags": [
+    "sensory",
+    "smell",
+    "inference",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the natural sensory experience of detecting scents in rural or everyday Bengali life, emphasizing indirect perception."
+}

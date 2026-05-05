@@ -1,0 +1,43 @@
+{
+  "id": "2033",
+  "idiom": "কানায়ে ভাগনা",
+  "alternative_idioms": [
+    "কচুবনের কালাচাঁদ",
+    "কদম্বগাছের কানাই",
+    "ভাগনে কানাই"
+  ],
+  "literal_meaning": "কানাই গ্রামের ভাগনে (nephew from Kanai village)",
+  "figurative_meaning_bn": "লম্পটচরিত্রের লোক",
+  "figurative_meaning_en": "A person of lecherous or immoral character",
+  "similar_in_english": [
+    "skirt-chaser",
+    "philanderer"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো কানায়ে ভাগনার মতো, কোথাও শান্তি নেই।",
+    "গ্রামে সবাই তাকে কানায়ে ভাগনা বলে ডাকে তার চরিত্রের জন্য।"
+  ],
+  "example_sentences_in_english": [
+    "He's just like the Kanai nephew, always up to no good with women.",
+    "Everyone in the village calls him the Kanai nephew because of his immoral ways."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "social commentary"
+  ],
+  "tags": [
+    "negative character",
+    "folklore reference",
+    "insult"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from Bengali folk tales featuring a mischievous nephew named Kanai from a village called Kanai, symbolizing unrestrained and lecherous behavior in rural storytelling traditions."
+  ],
+  "note": "The idiom is rooted in oral folklore and used to describe morally loose individuals in a derogatory manner."
+}

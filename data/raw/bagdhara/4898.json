@@ -1,0 +1,39 @@
+{
+  "id": "4898",
+  "idiom": "টাকা মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "টাকা (money) মারা (to hit or kill)",
+  "figurative_meaning_bn": "অর্থ আত্মসাৎ করা",
+  "figurative_meaning_en": "To appropriate or embezzle money",
+  "similar_in_english": [
+    "To line one's pockets",
+    "To feather one's nest"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কোম্পানির টাকা মেরে পালিয়েছে।",
+    "অফিসের অতিরিক্ত টাকা মারা উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He pocketed the company's money and fled.",
+    "It's not right to skim off extra money from the office."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Corruption",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "Money",
+    "Theft",
+    "Embezzlement",
+    "Figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects colloquial Bengali expressions for financial misconduct."
+}

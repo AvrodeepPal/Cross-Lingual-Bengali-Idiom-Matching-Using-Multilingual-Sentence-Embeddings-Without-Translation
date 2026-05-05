@@ -1,0 +1,38 @@
+{
+  "id": "1514",
+  "idiom": "কথা সারা",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা (talk) সারা (finished)",
+  "figurative_meaning_bn": "কথোপকথন বা গল্পের সমাপ্তি",
+  "figurative_meaning_en": "End of conversation or story",
+  "similar_in_english": [
+    "End of story",
+    "That's all",
+    "Wrapping up"
+  ],
+  "example_sentences_in_bangla": [
+    "আমাদের কথা সারা হয়ে গেছে, এবার চলো।",
+    "সিনেমার কথা সারা হলে সবাই হাসতে লাগল।"
+  ],
+  "example_sentences_in_english": [
+    "Our conversation is over, let's go.",
+    "Once the story ended, everyone started laughing."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Storytelling"
+  ],
+  "tags": [
+    "dialogue",
+    "conclusion",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in informal Bengali speech to signal closure of discussion."
+}

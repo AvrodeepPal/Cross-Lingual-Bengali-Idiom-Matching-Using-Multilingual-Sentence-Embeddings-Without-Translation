@@ -1,0 +1,37 @@
+{
+  "id": "1459",
+  "idiom": "কথায় কথায়",
+  "alternative_idioms": [],
+  "literal_meaning": "কথায় কথায় (শব্দশঃ অর্থ: কথার উপর কথা)",
+  "figurative_meaning_bn": "প্রত্যেক কথায়, সর্বদা; প্রতি পদক্ষেপে",
+  "figurative_meaning_en": "in every word, always; at every step",
+  "similar_in_english": [
+    "at every turn",
+    "in every instance"
+  ],
+  "example_sentences_in_bangla": [
+    "কথায় কথায় সে তার অভিমান প্রকাশ করে।",
+    "কথায় কথায় সমস্যা দেখা দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "He expresses his resentment in every word.",
+    "Problems arise at every step."
+  ],
+  "usage_domain": [
+    "conversation",
+    "daily life"
+  ],
+  "tags": [
+    "reduplication",
+    "emphasis",
+    "frequency"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses reduplication for emphasis, common in Bengali expressive language."
+}

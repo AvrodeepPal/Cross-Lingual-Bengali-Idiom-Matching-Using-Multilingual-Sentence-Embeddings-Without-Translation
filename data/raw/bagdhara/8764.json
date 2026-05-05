@@ -1,0 +1,39 @@
+{
+  "id": "8764",
+  "idiom": "মুখে আগুন",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখে আগুন (fire in the mouth)",
+  "figurative_meaning_bn": "মৃত্যু কামনা করে তিরস্কার- গ্রাম্যগালি",
+  "figurative_meaning_en": "A harsh rural curse wishing death upon someone through scolding",
+  "similar_in_english": [
+    "Drop dead",
+    "Go to hell"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার প্রতিদ্বন্দ্বীকে মুখে আগুন দিয়ে গালাগালি করল।",
+    "গ্রামের ঝগড়ায় প্রায়ই মুখে আগুন শোনা যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He cursed his rival with 'fire in the mouth' during the argument.",
+    "In village fights, you often hear 'fire in the mouth' as an insult."
+  ],
+  "usage_domain": [
+    "Insults",
+    "Curses",
+    "Rural speech"
+  ],
+  "tags": [
+    "abusive",
+    "rural",
+    "curse",
+    "scolding"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom is typically used in heated rural disputes to express extreme anger and wish harm."
+}

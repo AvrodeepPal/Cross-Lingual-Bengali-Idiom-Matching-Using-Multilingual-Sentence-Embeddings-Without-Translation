@@ -1,0 +1,42 @@
+{
+  "id": "2465",
+  "idiom": "খচমচ",
+  "alternative_idioms": [
+    "খচোমচো"
+  ],
+  "literal_meaning": "খচমচ শব্দের অনুকরণ, ঘর্ষণ বা ঝগড়ার শব্দ",
+  "figurative_meaning_bn": "গণ্ডগোল, গোলমেলে ব্যাপার",
+  "figurative_meaning_en": "discord, friction, or complicated trouble",
+  "similar_in_english": [
+    "bad blood",
+    "at loggerheads",
+    "friction"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই বন্ধুর মধ্যে খচমচ লেগেছে।",
+    "পাড়ায় খচমচ শুরু হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's friction between the two friends.",
+    "Discord has started in the neighborhood."
+  ],
+  "usage_domain": [
+    "family disputes",
+    "social interactions",
+    "everyday conversation"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "quarrel",
+    "discord",
+    "tension"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression mimicking sounds of conflict, commonly used in spoken Bengali."
+}

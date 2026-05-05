@@ -1,0 +1,39 @@
+{
+  "id": "2687",
+  "idiom": "খুটুরমুটুর",
+  "alternative_idioms": [
+    "খুটুরখাটুর"
+  ],
+  "literal_meaning": "ধ্বন্যাত্মক শব্দ যা ক্রমাগত মৃদু খুটখুটি শব্দের অনুকরণ করে",
+  "figurative_meaning_bn": "ধ্বন্যাত্মক সহচরশব্দ; ক্রমাগত মৃদু খুটখুটি শব্দ",
+  "figurative_meaning_en": "Onomatopoeic companion words; continuous soft rustling or tapping sounds",
+  "similar_in_english": [
+    "pitter-patter",
+    "rustle-rustle"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরের ভিতরে খুটুরমুটুর শব্দ হচ্ছে, কী করছো?",
+    "বাইরে বাতাসে পাতা খুটুরমুটুর করছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's a rustling sound inside the house, what are you doing?",
+    "The leaves are rustling outside in the wind."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "sound description"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "sound imitation",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is primarily used to mimic subtle, repetitive noises in everyday Bengali speech."
+}

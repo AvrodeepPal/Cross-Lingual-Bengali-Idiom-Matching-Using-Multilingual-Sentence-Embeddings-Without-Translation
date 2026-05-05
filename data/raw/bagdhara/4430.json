@@ -1,0 +1,41 @@
+{
+  "id": "4430",
+  "idiom": "ছোটসাহেব",
+  "alternative_idioms": [],
+  "literal_meaning": "ছোট সাহেব (small sahib or junior master)",
+  "figurative_meaning_bn": "অফিসে পদমর্যাদায় নিম্নতর",
+  "figurative_meaning_en": "Lower in rank or position in an office hierarchy",
+  "similar_in_english": [
+    "low man on the totem pole",
+    "small fry",
+    "underling"
+  ],
+  "example_sentences_in_bangla": [
+    "অফিসে সে ছোটসাহেবের মতো কাজ করে, কোনো সিদ্ধান্ত নিতে পারে না।",
+    "নতুন কর্মীটি ছোটসাহেব হিসেবে শুরু করেছে তার ক্যারিয়ার।"
+  ],
+  "example_sentences_in_english": [
+    "In the office, he works like a small sahib, unable to make any decisions.",
+    "The new employee started his career as a small sahib."
+  ],
+  "usage_domain": [
+    "Workplace",
+    "Professional hierarchy",
+    "Colonial legacy"
+  ],
+  "tags": [
+    "Subordinate",
+    "Office politics",
+    "Colonial term"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "The term 'sahib' derives from the British colonial era in India and Bangladesh, where it denoted European superiors or officials. 'Chhoto Sahib' (small sahib) emerged to describe junior or subordinate roles in administrative or office settings during and after colonial times."
+  ],
+  "note": "This idiom reflects the lingering influence of colonial language in modern Bengali professional contexts."
+}

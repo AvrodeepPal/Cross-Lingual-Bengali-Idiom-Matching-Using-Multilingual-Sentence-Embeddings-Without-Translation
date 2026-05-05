@@ -1,0 +1,42 @@
+{
+  "id": "4377",
+  "idiom": "ছুতোনতা",
+  "alternative_idioms": [
+    "নাতা"
+  ],
+  "literal_meaning": "সামান্য বা হালকা ত্রুটি বা কারণ",
+  "figurative_meaning_bn": "সামান্য কারণ; সামান্য ত্রুটি",
+  "figurative_meaning_en": "minor reason; minor fault",
+  "similar_in_english": [
+    "small matter",
+    "trifling error",
+    "nitpick"
+  ],
+  "example_sentences_in_bangla": [
+    "এটা তো শুধু ছুতোনতা, এতে এত রাগ করার কী আছে?",
+    "সেই ভুলটা ছুতোনতা ছিল, কেউ মনে রাখবে না।"
+  ],
+  "example_sentences_in_english": [
+    "It's just a minor thing, no need to get so upset about it.",
+    "That mistake was a trifling fault; no one will remember it."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "disputes",
+    "casual advice"
+  ],
+  "tags": [
+    "minor",
+    "fault",
+    "excuse",
+    "trivial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom refers to overlooking small issues in daily life, common in Bengali colloquial speech."
+}

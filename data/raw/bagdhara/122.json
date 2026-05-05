@@ -1,0 +1,39 @@
+{
+  "id": "122",
+  "idiom": "অদিনে অক্ষণে",
+  "alternative_idioms": [],
+  "literal_meaning": "অশুভ দিনে এবং অশুভ ক্ষণে",
+  "figurative_meaning_bn": "শুভ বা প্রশস্ত দিন বা সময় নয়; খুবই দুর্দিনে এবং কুক্ষণে",
+  "figurative_meaning_en": "Not an auspicious or favorable day or time; in a very bad time and inauspicious moment",
+  "similar_in_english": [
+    "at an inopportune moment",
+    "in the worst possible time"
+  ],
+  "example_sentences_in_bangla": [
+    "অদিনে অক্ষণে বিয়ের তারিখ ঠিক করা হয়েছে, এতে শুভ ফল হবে না।",
+    "এই অদিনে অক্ষণে ব্যবসা শুরু করলে লোকসান হবে।"
+  ],
+  "example_sentences_in_english": [
+    "The wedding date was fixed at an inauspicious time, which won't bring good results.",
+    "Starting a business at such an unfavorable moment will lead to losses."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "traditional advice",
+    "astrological contexts"
+  ],
+  "tags": [
+    "misfortune",
+    "time",
+    "auspiciousness",
+    "superstition"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Rooted in Hindu astrological beliefs about muhurta (auspicious timings)"
+}

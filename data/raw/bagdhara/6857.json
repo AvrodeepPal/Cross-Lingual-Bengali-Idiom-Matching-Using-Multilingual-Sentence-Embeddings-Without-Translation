@@ -1,0 +1,38 @@
+{
+  "id": "6857",
+  "idiom": "পারতপক্ষে",
+  "alternative_idioms": [],
+  "literal_meaning": "পারলে (if able) + পক্ষে (as much as possible/in favor)",
+  "figurative_meaning_bn": "এড়াতে পারলে, সম্ভব হলে",
+  "figurative_meaning_en": "If possible to avoid, if at all possible",
+  "similar_in_english": [
+    "If possible",
+    "All things being equal",
+    "If one can help it"
+  ],
+  "example_sentences_in_bangla": [
+    "ভিড়ের মধ্যে আমি পারতপক্ষে যাই না।",
+    "এই কাজটি পারতপক্ষে এড়িয়ে চলো।"
+  ],
+  "example_sentences_in_english": [
+    "I avoid crowds if possible.",
+    "Try to steer clear of this task if you can."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Advice and preference"
+  ],
+  "tags": [
+    "adverbial idiom",
+    "conditional expression",
+    "avoidance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in spoken Bengali to express preference for avoidance without strong obligation."
+}

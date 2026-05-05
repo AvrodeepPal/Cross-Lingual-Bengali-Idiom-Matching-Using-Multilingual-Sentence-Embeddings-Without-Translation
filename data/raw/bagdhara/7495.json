@@ -1,0 +1,38 @@
+{
+  "id": "7495",
+  "idiom": "বাছাবাছি",
+  "alternative_idioms": [],
+  "literal_meaning": "নির্বাচন করা বা বাছাই করা",
+  "figurative_meaning_bn": "ভালমন্দ নির্ণয় করা",
+  "figurative_meaning_en": "To carefully select or distinguish between good and bad; to be picky or choosy",
+  "similar_in_english": [
+    "Pick and choose",
+    "Cherry-pick"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খাবার খেতে খুব বাছাবাছি করে।",
+    "বাজারে ফল কিনতে গিয়ে অত বাছাবাছি করো না।"
+  ],
+  "example_sentences_in_english": [
+    "She is very picky about the food she eats.",
+    "Don't be so choosy when buying fruits at the market."
+  ],
+  "usage_domain": [
+    "daily life",
+    "shopping",
+    "food selection"
+  ],
+  "tags": [
+    "selectivity",
+    "choosiness",
+    "discernment"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts implying excessive selectivity, common in Bengali household and market interactions"
+}

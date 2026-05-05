@@ -1,0 +1,40 @@
+{
+  "id": "3403",
+  "idiom": "ঘটঘটানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘটের মতো শব্দ করে ঘুরে বেড়ানো (clattering or rattling around like pots)",
+  "figurative_meaning_bn": "উদ্দেশ্যবিহীনভাবে ঘুরে বেড়ানো",
+  "figurative_meaning_en": "Wandering around aimlessly or without purpose",
+  "similar_in_english": [
+    "Pottering about",
+    "Milling around",
+    "Wandering aimlessly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সারাদিন ঘরে ঘটঘটানো করে কোনো কাজই করল না।",
+    "বাজারে ঘটঘটানো করে সময় নষ্ট করবেন না।"
+  ],
+  "example_sentences_in_english": [
+    "He pottered about the house all day without doing any work.",
+    "Don't waste time milling around in the market."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Daily life",
+    "Behavior description"
+  ],
+  "tags": [
+    "aimless",
+    "wandering",
+    "informal",
+    "onomatopoeic"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is onomatopoeic, evoking the sound of idle movement in a household setting."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "6288",
+  "idiom": "নাকখত দেওয়া",
+  "alternative_idioms": [
+    "নাকে খত দেওয়া"
+  ],
+  "literal_meaning": "নাকে খত বা চিহ্ন দেওয়া (to put a mark or signature on the nose)",
+  "figurative_meaning_bn": "নিজের অপরাধের বা ভুলের প্রায়শ্চিত্ত করা",
+  "figurative_meaning_en": "To atone for one's own crime or mistake",
+  "similar_in_english": [
+    "To wear sackcloth and ashes",
+    "To do penance"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ভুলের জন্য নাকখত দিয়ে ক্ষমা চেয়েছে।",
+    "অপরাধের পর নাকখত দেওয়া ছাড়া আর কোনো উপায় ছিল না।"
+  ],
+  "example_sentences_in_english": [
+    "He atoned for his mistake by marking his nose in remorse.",
+    "After the wrongdoing, there was no way but to do penance for it."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Moral and ethical discussions"
+  ],
+  "tags": [
+    "remorse",
+    "atonement",
+    "mistake",
+    "crime",
+    "penance"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from ancient practices where marking the nose was a visible sign of guilt or self-punishment in rural Bengali society."
+  ],
+  "note": "The idiom reflects traditional methods of expressing contrition in Bengali culture."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2642",
+  "idiom": "খিঁচে নেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "খিঁচিয়ে বা মোচড় দিয়ে নেওয়া",
+  "figurative_meaning_bn": "ইচ্ছার বিরুদ্ধে বলপূর্বক আদায় করা",
+  "figurative_meaning_en": "To forcibly extract or extort against one's will",
+  "similar_in_english": [
+    "to wring out",
+    "to squeeze from",
+    "to extort"
+  ],
+  "example_sentences_in_bangla": [
+    "আমাকে তার কাছ থেকে টাকা খিঁচে নিতে হয়েছে।",
+    "দোকানদার গ্রাহকের কাছ থেকে অতিরিক্ত দাম খিঁচে নিল।"
+  ],
+  "example_sentences_in_english": [
+    "I had to squeeze the money out of him against his will.",
+    "The shopkeeper extorted extra money from the customer."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily disputes",
+    "business"
+  ],
+  "tags": [
+    "force",
+    "extortion",
+    "money",
+    "coercion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes the image of physically pinching to extract something, metaphorically applied to unwilling extraction of resources."
+}

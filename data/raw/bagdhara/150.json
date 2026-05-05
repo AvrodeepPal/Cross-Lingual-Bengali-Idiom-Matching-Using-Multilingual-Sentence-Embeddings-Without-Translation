@@ -1,0 +1,40 @@
+{
+  "id": "150",
+  "idiom": "অনুরোধে ঢেঁকি গেলা",
+  "alternative_idioms": [],
+  "literal_meaning": "অনুরোধে ঢেঁকি চলে গেলা (upon request, the pestle went)",
+  "figurative_meaning_bn": "অনুরোধে দুরূহ কাজ করতে সম্মত হওয়া",
+  "figurative_meaning_en": "Agreeing to undertake a difficult task upon request",
+  "similar_in_english": [
+    "go the extra mile",
+    "bend over backwards"
+  ],
+  "example_sentences_in_bangla": [
+    "বন্ধুর অনুরোধে ঢেঁকি গেলা, এখন সেই ভারী কাজে জড়িয়ে পড়েছে।",
+    "সে অনুরোধে ঢেঁকি গেলা, কিন্তু পরে অনুতাপ করল।"
+  ],
+  "example_sentences_in_english": [
+    "Upon his friend's request, he agreed to the tough job, like taking the pestle.",
+    "She went the pestle on request but later regretted the burdensome task."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "rural life"
+  ],
+  "tags": [
+    "request",
+    "difficulty",
+    "agreement",
+    "burden"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom references the traditional Bengali rural tool 'ঢেঁকি' (dheki), a heavy wooden pestle used for pounding rice, symbolizing laborious chores often done as favors in village settings."
+  ],
+  "note": "This idiom highlights the cultural norm of not refusing requests in close-knit rural communities, often leading to personal hardship."
+}

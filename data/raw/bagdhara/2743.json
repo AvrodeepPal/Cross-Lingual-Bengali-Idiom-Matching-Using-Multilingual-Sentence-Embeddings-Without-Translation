@@ -1,0 +1,40 @@
+{
+  "id": "2743",
+  "idiom": "খোঁজখবর",
+  "alternative_idioms": [
+    "খবরাখবর"
+  ],
+  "literal_meaning": "খোঁজ (inquiry/search) + খবর (news/information)",
+  "figurative_meaning_bn": "সংবাদ",
+  "figurative_meaning_en": "news or information",
+  "similar_in_english": [
+    "news and updates",
+    "word on the street"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কোনো খোঁজখবর পাইনি।",
+    "প্রতিদিন খবরাখবর নেওয়া উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "I have no news of him.",
+    "It's good to keep up with the news and updates every day."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "inquiry",
+    "communication"
+  ],
+  "tags": [
+    "synonymous pair",
+    "information",
+    "news"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a tautological expression using redundant synonyms common in Bengali for emphasis."
+}

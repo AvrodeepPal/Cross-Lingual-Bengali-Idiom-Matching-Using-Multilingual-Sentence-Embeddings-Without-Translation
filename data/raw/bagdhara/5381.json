@@ -1,0 +1,38 @@
+{
+  "id": "5381",
+  "idiom": "তাবৈকি",
+  "alternative_idioms": [],
+  "literal_meaning": "তা বৈ কি (সেটা কি সত্যিই?)",
+  "figurative_meaning_bn": "সন্দেহে বোধহয় তা নয়; হয়তোবা",
+  "figurative_meaning_en": "Perhaps not; Maybe; I doubt it",
+  "similar_in_english": [
+    "I doubt it",
+    "Maybe not",
+    "Perchance"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি আজ আসবে কি? - তাবৈকি।",
+    "এটা সত্যি হবে? - তাবৈকি।"
+  ],
+  "example_sentences_in_english": [
+    "Will you come today? - Perhaps not.",
+    "Is this true? - I doubt it."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Expressing doubt"
+  ],
+  "tags": [
+    "uncertainty",
+    "colloquial",
+    "archaic expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "An archaic colloquial expression used in spoken Bengali to express mild doubt or uncertainty."
+}

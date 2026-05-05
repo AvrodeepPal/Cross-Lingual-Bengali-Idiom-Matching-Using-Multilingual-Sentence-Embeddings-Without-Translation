@@ -1,0 +1,38 @@
+{
+  "id": "3325",
+  "idiom": "গোড়ে গোড় দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "গোড়ায় গোড়ায় পা দেওয়া (হিল থেকে হিলে পা রাখা)",
+  "figurative_meaning_bn": "পদাঙ্ক অনুসরণ করা",
+  "figurative_meaning_en": "To follow in someone's footsteps",
+  "similar_in_english": [
+    "Follow in one's footsteps",
+    "Walk in someone's shoes"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার পিতার গোড়ে গোড় দেয়ার চেষ্টা করে।",
+    "ছেলেটি তার ভাইয়ের পথে গোড়ে গোড় দেওয়া শুরু করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He tries to follow in his father's footsteps.",
+    "The boy has started to follow in his brother's footsteps."
+  ],
+  "usage_domain": [
+    "family",
+    "career",
+    "daily life"
+  ],
+  "tags": [
+    "imitation",
+    "following",
+    "inheritance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom reflects traditional values of lineage and emulation in Bengali society."
+}

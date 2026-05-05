@@ -1,0 +1,37 @@
+{
+  "id": "1218",
+  "idiom": "এযাত্রা",
+  "alternative_idioms": [],
+  "literal_meaning": "এই যাত্রা (this journey)",
+  "figurative_meaning_bn": "এবারের মতো",
+  "figurative_meaning_en": "For this time",
+  "similar_in_english": [
+    "This time around",
+    "Dodged a bullet this time"
+  ],
+  "example_sentences_in_bangla": [
+    "এযাত্রায় বেঁচে গেছি, পরেরবার আর হবে না।",
+    "এযাত্রা কাজটা হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "I survived this time, but next time I might not.",
+    "This time the job got done."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Expressions of relief"
+  ],
+  "tags": [
+    "relief",
+    "temporary escape",
+    "luck"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to express narrowly avoiding danger or misfortune for the current instance."
+}

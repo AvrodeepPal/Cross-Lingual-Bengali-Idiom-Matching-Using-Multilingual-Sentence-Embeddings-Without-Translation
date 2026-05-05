@@ -1,0 +1,42 @@
+{
+  "id": "2557",
+  "idiom": "খাঁদা-বোচা",
+  "alternative_idioms": [],
+  "literal_meaning": "খাঁদা (দাগযুক্ত বা ফোকা) এবং বোচা (একচোখা বা অন্ধ)",
+  "figurative_meaning_bn": "নির্লজ্জ; নাক-কান-কাটা",
+  "figurative_meaning_en": "shameless; nose and ears cut off (utterly disgraced or without shame)",
+  "similar_in_english": [
+    "thick-skinned",
+    "have no shame",
+    "brazen-faced"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খাঁদা-বোচা হয়ে গেছে, কোনো লজ্জা বোধ করে না।",
+    "এই খাঁদা-বোচা লোকের কথা কেউ শোনে না।"
+  ],
+  "example_sentences_in_english": [
+    "He has become shameless, feeling no embarrassment at all.",
+    "No one listens to this brazen-faced person."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insults",
+    "social commentary"
+  ],
+  "tags": [
+    "negative",
+    "disgrace",
+    "shame",
+    "traditional punishment"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Refers to ancient punishments in Bengali society where cutting off nose and ears was a mark of public disgrace for adultery or moral offenses, symbolizing loss of honor."
+  ],
+  "note": "The idiom evokes imagery of physical deformity as metaphor for moral shamelessness, common in rural folklore."
+}

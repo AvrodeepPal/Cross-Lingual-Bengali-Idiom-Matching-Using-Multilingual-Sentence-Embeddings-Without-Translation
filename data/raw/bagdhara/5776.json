@@ -1,0 +1,39 @@
+{
+  "id": "5776",
+  "idiom": "দাম",
+  "alternative_idioms": [
+    "দামী"
+  ],
+  "literal_meaning": "মূল্য বা দাম (price or value)",
+  "figurative_meaning_bn": "মর্যাদা/মর্যাদাবান",
+  "figurative_meaning_en": "prestige / prestigious",
+  "similar_in_english": [
+    "worth one's weight in gold",
+    "of high value"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথার দাম অনেক।",
+    "এই লোকটি খুব দামী মানুষ।"
+  ],
+  "example_sentences_in_english": [
+    "His words carry a lot of weight.",
+    "This man is highly respected."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "conversation"
+  ],
+  "tags": [
+    "respect",
+    "value",
+    "honor"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts emphasizing the importance or reliability of speech or persons."
+}

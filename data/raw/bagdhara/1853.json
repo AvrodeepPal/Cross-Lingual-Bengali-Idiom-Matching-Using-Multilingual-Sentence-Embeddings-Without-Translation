@@ -1,0 +1,43 @@
+{
+  "id": "1853",
+  "idiom": "কাচ্চাবাচ্চা",
+  "alternative_idioms": [
+    "কচিকাঁচা",
+    "বাচ্চাকাচ্চা"
+  ],
+  "literal_meaning": "বাচ্চার সহচর শব্দ কাচ্চা",
+  "figurative_meaning_bn": "কচি ছেলেমেয়ে; অতি অল্পবয়সী ছেলেমেয়ে",
+  "figurative_meaning_en": "Young children; Very young boys and girls",
+  "similar_in_english": [
+    "little ones",
+    "small fry",
+    "tots"
+  ],
+  "example_sentences_in_bangla": [
+    "মেলায় কাচ্চাবাচ্চাদের ভিড় জমেছে।",
+    "গ্রামের কাচ্চাবাচ্চারা সকলে খেলছে।"
+  ],
+  "example_sentences_in_english": [
+    "The fair is crowded with young children.",
+    "The village kids are all playing together."
+  ],
+  "usage_domain": [
+    "family",
+    "children",
+    "informal speech"
+  ],
+  "tags": [
+    "children",
+    "youth",
+    "affectionate",
+    "informal"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Rhyming reduplication emphasizing tenderness and youth in colloquial Bengali."
+}

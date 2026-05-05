@@ -1,0 +1,42 @@
+{
+  "id": "5678",
+  "idiom": "দরকচা মারা",
+  "alternative_idioms": [
+    "কাঁচা মারা"
+  ],
+  "literal_meaning": "দর (দরজা বা চুক্তি) কচা (কাঁচা বা অপরিপক্ক) মারা (আঘাত করা বা আটকে যাওয়া)",
+  "figurative_meaning_bn": "জামড়া পড়া; আধপাকা বা আধকাঁচা থাকা; পুরাপুরি সিদ্ধ বা পাকা না হওয়া",
+  "figurative_meaning_en": "To get stuck or jammed; to remain half-cooked or half-raw; not being fully matured or completed",
+  "similar_in_english": [
+    "half-baked idea",
+    "green around the gills",
+    "stuck in a rut"
+  ],
+  "example_sentences_in_bangla": [
+    "এই প্রকল্পটা দরকচা মেরে আধপাকা অবস্থায় আটকে গেছে।",
+    "বাচ্চাটা এখনও দরকচা মেরে আছে, পুরোপুরি বড় হয়নি।"
+  ],
+  "example_sentences_in_english": [
+    "This project has gotten stuck in a half-baked state.",
+    "The kid is still immature and not fully grown up."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "personal development",
+    "cooking and preparation"
+  ],
+  "tags": [
+    "immaturity",
+    "incompleteness",
+    "obstruction",
+    "undeveloped"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from everyday experiences of things getting jammed or not ripening properly in rural or household contexts."
+}

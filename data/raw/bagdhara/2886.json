@@ -1,0 +1,40 @@
+{
+  "id": "2886",
+  "idiom": "গণশত্রু",
+  "alternative_idioms": [],
+  "literal_meaning": "গণ (people) + শত্রু (enemy)",
+  "figurative_meaning_bn": "জনসাধারণের শত্রু",
+  "figurative_meaning_en": "Enemy of the people",
+  "similar_in_english": [
+    "Public enemy",
+    "Enemy of the state"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দেশের গণশত্রু হিসেবে পরিচিত।",
+    "যারা জনকল্যাণের বিরোধী, তারা গণশত্রু।"
+  ],
+  "example_sentences_in_english": [
+    "He is known as an enemy of the people.",
+    "Those who oppose public welfare are enemies of the people."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Society",
+    "Literature"
+  ],
+  "tags": [
+    "Political",
+    "Derogatory",
+    "Social criticism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term gained prominence in Bengali political discourse during the independence movement and post-colonial era, often used to describe traitors or oppressors."
+  ],
+  "note": "This idiom is frequently used in journalistic and literary contexts to denote individuals or groups harmful to societal interests."
+}

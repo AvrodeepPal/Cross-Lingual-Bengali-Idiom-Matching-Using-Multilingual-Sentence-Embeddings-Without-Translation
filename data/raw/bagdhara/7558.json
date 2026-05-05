@@ -1,0 +1,41 @@
+{
+  "id": "7558",
+  "idiom": "বানপ্রস্থ",
+  "alternative_idioms": [],
+  "literal_meaning": "বনে প্রস্থান করা (forest dwelling or retiring to the forest)",
+  "figurative_meaning_bn": "প্রৌঢ় বয়সে সংসারধর্ম ত্যাগ করে তৃতীয় আশ্রম বনে গিয়ে ঈশ্বরচিন্তায় অবশিষ্ট জীবনযাপন করা",
+  "figurative_meaning_en": "In middle age, renouncing household duties and entering the third stage of life by retiring to the forest to spend the remaining years in contemplation of the divine",
+  "similar_in_english": [
+    "retire from the world",
+    "take up the hermit life"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি বয়স হওয়ার সাথে সাথে বানপ্রস্থ গ্রহণ করে গ্রামের বাইরে চলে গেলেন।",
+    "সংসারের বন্ধন থেকে মুক্তি পেয়ে বানপ্রস্থে অবস্থান করা তার স্বপ্ন ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "He adopted vanaprastha and left for the outskirts of the village as he aged.",
+    "Settling into vanaprastha life, free from family ties, was his lifelong dream."
+  ],
+  "usage_domain": [
+    "religion",
+    "philosophy",
+    "life stages"
+  ],
+  "tags": [
+    "hinduism",
+    "ashrama",
+    "renunciation",
+    "spirituality"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Derived from the ancient Hindu concept of the four ashramas (stages of life) described in texts like the Manusmriti, where vanaprastha is the third stage after grihastha (householder)."
+  ],
+  "note": "This term is rooted in Vedic traditions and reflects the ideal progression of human life in Hindu philosophy."
+}

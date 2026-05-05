@@ -1,0 +1,40 @@
+{
+  "id": "2649",
+  "idiom": "খিটখিটে",
+  "alternative_idioms": [
+    "কেলে"
+  ],
+  "literal_meaning": "খিটখিট শব্দের অনুকরণ (irritated grumbling sound imitation)",
+  "figurative_meaning_bn": "অসহিষ্ণু, সারাক্ষণ খিটখট করে এমন",
+  "figurative_meaning_en": "impatient, always grumbling or irritable",
+  "similar_in_english": [
+    "grumpy",
+    "short-tempered",
+    "always finding fault"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খুব খিটখিটে, ছোটখাটো বিষয়েও রাগ করে।",
+    "আজকাল অফিসের বসটা খিটখিটে হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is very irritable and gets angry over small things.",
+    "Lately, the boss has become grumpy."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "personality description"
+  ],
+  "tags": [
+    "irritability",
+    "negative trait",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom text appeared garbled in input; cleaned based on contextual meaning and standard Bengali usage."
+}

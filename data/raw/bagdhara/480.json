@@ -1,0 +1,40 @@
+{
+  "id": "480",
+  "idiom": "আড়ালে আবডালে",
+  "alternative_idioms": [],
+  "literal_meaning": "আড়ালের পিছনে এবং বিভিন্ন আবরণের মধ্যে",
+  "figurative_meaning_bn": "লোকচক্ষু এড়িয়ে; লুকিয়ে চুরিয়ে",
+  "figurative_meaning_en": "Avoiding public scrutiny; secretly or stealthily",
+  "similar_in_english": [
+    "Behind closed doors",
+    "On the sly",
+    "Under the radar"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আড়ালে আবডালে তার পরিকল্পনা বাস্তবায়ন করছে।",
+    "গ্রামে আড়ালে আবডালে অনেক কথা চলে।"
+  ],
+  "example_sentences_in_english": [
+    "He is implementing his plan behind the scenes.",
+    "In the village, many things happen secretly."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Gossip",
+    "Secrecy"
+  ],
+  "tags": [
+    "secrecy",
+    "hiding",
+    "stealth",
+    "gossip"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes imagery of concealment in traditional Bengali settings, often used in oral folklore."
+}

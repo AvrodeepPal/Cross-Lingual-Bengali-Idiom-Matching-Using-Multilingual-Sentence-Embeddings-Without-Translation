@@ -1,0 +1,40 @@
+{
+  "id": "890",
+  "idiom": "এঁটো-কাঁটা",
+  "alternative_idioms": [],
+  "literal_meaning": "খাওয়ার পর পাতে আটকে থাকা খাদ্যের অবশিষ্টাংশ এবং কাঁটা বা হাড়",
+  "figurative_meaning_bn": "ভুক্তাবশেষ; খাওয়ার পর পাতে পড়ে থাকা অবশিষ্ট খাদ্য",
+  "figurative_meaning_en": "remnants of a meal; leftover food scraps remaining on the plate after eating, often implying meager sustenance",
+  "similar_in_english": [
+    "table scraps",
+    "crumbs from the table"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা এঁটো-কাঁটা খেয়ে কোনোমতে জীবন যাপন করছে।",
+    "দারিদ্র্যের কারণে পরিবারটি এঁটো-কাঁটায় আশ্রিত।"
+  ],
+  "example_sentences_in_english": [
+    "They are barely surviving by eating scraps.",
+    "Due to poverty, the family is dependent on leftovers."
+  ],
+  "usage_domain": [
+    "daily life",
+    "poverty",
+    "food"
+  ],
+  "tags": [
+    "food-related",
+    "poverty",
+    "survival"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in 19th-century Bengali poet Ishwar Gupta's work, symbolizing extreme hardship and survival on minimal means."
+  ],
+  "note": "Often used metaphorically to denote living in abject poverty."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8747",
+  "idiom": "মুখ শুকিয়ে আমশি",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখ শুকনো আমের বীজের মতো",
+  "figurative_meaning_bn": "ভয়, ব্যাধি, উদ্বেগ ইত্যাদি কারণে মুখ বিবর্ণ/বিরস/বিশীর্ণ",
+  "figurative_meaning_en": "Face becoming pale, dull, or withered due to fear, illness, anxiety, etc.",
+  "similar_in_english": [
+    "pale as a ghost",
+    "face as white as a sheet"
+  ],
+  "example_sentences_in_bangla": [
+    "ভয়ে তার মুখ শুকিয়ে আমশি হয়ে গেছে।",
+    "রোগে ক্লান্ত হয়ে তার মুখ শুকিয়ে আমশি দেখাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "His face turned pale as a dried mango pit from fear.",
+    "Her face looked withered like a mango seed due to illness."
+  ],
+  "usage_domain": [
+    "emotions",
+    "health",
+    "daily conversation"
+  ],
+  "tags": [
+    "fear",
+    "anxiety",
+    "illness",
+    "pallor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from everyday rural imagery of dried mango pits, symbolizing desiccation and loss of vitality."
+}

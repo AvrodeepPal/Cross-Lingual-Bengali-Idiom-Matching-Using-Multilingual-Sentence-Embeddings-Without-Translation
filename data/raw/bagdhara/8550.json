@@ -1,0 +1,38 @@
+{
+  "id": "8550",
+  "idiom": "মাথার উপর কেউ না থাকা",
+  "alternative_idioms": [],
+  "literal_meaning": "মাথার উপর কোনো ব্যক্তি না থাকা",
+  "figurative_meaning_bn": "অবিভাবকহীন হওয়া",
+  "figurative_meaning_en": "To be without a guardian or protector",
+  "similar_in_english": [
+    "On one's own",
+    "Without oversight"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মাথার উপর কেউ না থাকায় সে সবকিছু নিজের মতো করে সিদ্ধান্ত নেয়।",
+    "গ্রামে বড় হয়ে ওঠার পর তার মাথার উপর কেউ না থাকলে জীবন কঠিন হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "With no one above him, he makes all decisions on his own terms.",
+    "After growing up in the village, life becomes tough when there's no one above to guide you."
+  ],
+  "usage_domain": [
+    "family",
+    "personal independence",
+    "daily life"
+  ],
+  "tags": [
+    "guardian",
+    "autonomy",
+    "family structure"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali family hierarchies where elders provide protection."
+}

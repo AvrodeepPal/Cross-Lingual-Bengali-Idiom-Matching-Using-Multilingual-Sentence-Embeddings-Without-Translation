@@ -1,0 +1,39 @@
+{
+  "id": "8725",
+  "idiom": "মুখভঙ্গি",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখের ভঙ্গি বা অভিব্যক্তি",
+  "figurative_meaning_bn": "মনোভাবব্যঞ্জক মুখের নানা বিন্যাস",
+  "figurative_meaning_en": "Various facial expressions or grimaces that reveal one's mental state or emotions",
+  "similar_in_english": [
+    "make a face",
+    "grimace",
+    "pull a face"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খারাপ খবর শুনে মুখভঙ্গি করল।",
+    "বাচ্চারা খাবার দেখে মুখভঙ্গি করে না খেতে চায় না।"
+  ],
+  "example_sentences_in_english": [
+    "She made a face upon hearing the bad news.",
+    "The children grimaced at the sight of the food, not wanting to eat it."
+  ],
+  "usage_domain": [
+    "emotions",
+    "non-verbal communication",
+    "daily conversation"
+  ],
+  "tags": [
+    "facial expression",
+    "grimace",
+    "mood indicator"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often implies a distorted or exaggerated facial expression to convey displeasure or reaction."
+}

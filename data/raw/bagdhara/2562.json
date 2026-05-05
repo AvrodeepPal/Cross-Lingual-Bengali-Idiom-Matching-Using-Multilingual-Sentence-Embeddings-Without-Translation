@@ -1,0 +1,41 @@
+{
+  "id": "2562",
+  "idiom": "খাই-খালাসি",
+  "alternative_idioms": [],
+  "literal_meaning": "খাওয়া এবং মুক্তি/পরিশোধ (আয় থেকে ঋণ মিটানোর অর্থে)",
+  "figurative_meaning_bn": "জমির আয় থেকে ঋণ পরিশোধ",
+  "figurative_meaning_en": "Repaying a loan from the income derived from the land",
+  "similar_in_english": [
+    "Sharecropping",
+    "Working off a debt"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের অনেক কৃষক খাই-খালাসির শর্তে জমি চাষ করে ঋণ শোধ করে।",
+    "আমাদের পরিবার খাই-খালাসি করে বছরের ফসল থেকে সব ঋণ পরিশোধ করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Many farmers in the village cultivate land on khai-khalasi terms to repay their loans.",
+    "Our family has cleared all debts by sharecropping the harvest under khai-khalasi arrangement."
+  ],
+  "usage_domain": [
+    "agriculture",
+    "finance",
+    "rural economy"
+  ],
+  "tags": [
+    "farming",
+    "debt repayment",
+    "tenancy",
+    "agrarian"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the traditional Bengali agrarian system, particularly during the British colonial period, where 'khas' land (government-owned) was leased to tenants who repaid rent or loans directly from crop yields without fixed cash payments."
+  ],
+  "note": "Refers to a specific form of tenancy in Bengal's rural history, emphasizing subsistence farming tied to debt clearance."
+}

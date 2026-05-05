@@ -1,0 +1,41 @@
+{
+  "id": "7214",
+  "idiom": "বউকাঁটকি",
+  "alternative_idioms": [],
+  "literal_meaning": "বউয়ের কাঁটা (দেবরের বা শাশুড়ির দ্বারা বউকে কষ্ট দেওয়া কাঁটার মতো)",
+  "figurative_meaning_bn": "দজ্জাল শাশুড়ি যে গঞ্জনা দিয়ে বউকে কষ্ট দেয়",
+  "figurative_meaning_en": "A wicked mother-in-law who torments her daughter-in-law with nagging and harassment",
+  "similar_in_english": [
+    "Mother-in-law from hell",
+    "Battle-axe (for a harsh woman)"
+  ],
+  "example_sentences_in_bangla": [
+    "শাশুড়িমাগী বড় বউকাঁটকি, সারাদিন গঞ্জনা করে।",
+    "নতুন বউটা শাশুড়ির বউকাঁটকির কারণে ঘর ছেড়ে চলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The mother-in-law is a real thorn, nagging all day long.",
+    "The new bride left home because of her thorny mother-in-law's harassment."
+  ],
+  "usage_domain": [
+    "Family dynamics",
+    "Domestic relationships"
+  ],
+  "tags": [
+    "mother-in-law",
+    "daughter-in-law",
+    "nagging",
+    "family conflict",
+    "traditional gender roles"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the traditional Bengali proverb 'শাশুড়িমাগী বড় বউকাঁটকি' associated with folklore like 'আলালের ঘরের দুলাল', reflecting joint family tensions."
+  ],
+  "note": "This idiom highlights gender and generational conflicts in traditional Bengali households."
+}

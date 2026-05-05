@@ -1,0 +1,38 @@
+{
+  "id": "742",
+  "idiom": "উচট খেয়ে প্রণাম",
+  "alternative_idioms": [],
+  "literal_meaning": "উচট (অবশিষ্ট বা উল্টো) খেয়ে প্রণাম করা",
+  "figurative_meaning_bn": "অনিচ্ছায় প্রণাম",
+  "figurative_meaning_en": "Unwilling or reluctant obeisance",
+  "similar_in_english": [
+    "Grudging respect",
+    "Begrudging homage"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বসের সামনে উচট খেয়ে প্রণাম করল।",
+    "শত্রুর সামনে উচট খেয়ে প্রণাম করতে হলে কী অবস্থা!"
+  ],
+  "example_sentences_in_english": [
+    "He paid unwilling obeisance in front of his boss.",
+    "What a situation to bow reluctantly before an enemy!"
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "reluctance",
+    "respect",
+    "sarcasm",
+    "hierarchy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom implies forced respect, often in hierarchical or adversarial contexts in Bengali culture."
+}

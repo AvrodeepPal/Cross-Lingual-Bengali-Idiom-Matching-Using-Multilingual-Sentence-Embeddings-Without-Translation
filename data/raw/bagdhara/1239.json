@@ -1,0 +1,44 @@
+{
+  "id": "1239",
+  "idiom": "ওত পাতা",
+  "alternative_idioms": [
+    "ওঁত"
+  ],
+  "literal_meaning": "ধনুক বা তীর দিয়ে ফাঁদ পাতা (bow or arrow trap laying)",
+  "figurative_meaning_bn": "আক্রমণের জন্য সতর্কতার সহিত প্রতীক্ষা করা",
+  "figurative_meaning_en": "To wait cautiously in ambush for an opportunity to attack",
+  "similar_in_english": [
+    "Lie in wait",
+    "Bide one's time",
+    "Lay an ambush"
+  ],
+  "example_sentences_in_bangla": [
+    "শত্রুর আক্রমণের অপেক্ষায় সে ওত পাতা করছে।",
+    "ব্যবসায়িক প্রতিদ্বন্দ্বীদের জন্য কোম্পানি ওত পাতা করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is lying in wait for the enemy's attack.",
+    "The company has laid an ambush for its business rivals."
+  ],
+  "usage_domain": [
+    "Military/Strategy",
+    "Everyday Caution",
+    "Business Competition"
+  ],
+  "tags": [
+    "Ambush",
+    "Waiting",
+    "Caution",
+    "Trap"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from ancient hunting and warfare practices in Bengal, where hunters or warriors would set traps using bows and arrows in forests or rural areas."
+  ],
+  "note": "The idiom reflects traditional rural tactics and is often used metaphorically in modern contexts."
+}

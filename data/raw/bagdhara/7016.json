@@ -1,0 +1,39 @@
+{
+  "id": "7016",
+  "idiom": "প্রতিজ্ঞাবিবাহিতা",
+  "alternative_idioms": [],
+  "literal_meaning": "প্রতিজ্ঞা (vow/promise) + বিবাহিতা (married woman)",
+  "figurative_meaning_bn": "বাগদত্তা",
+  "figurative_meaning_en": "Betrothed woman or a woman promised in marriage",
+  "similar_in_english": [
+    "Betrothed",
+    "Promised bride"
+  ],
+  "example_sentences_in_bangla": [
+    "সে প্রতিজ্ঞাবিবাহিতা হয়ে উঠেছে তার শৈশবের বন্ধুত্বের কারণে।",
+    "প্রতিজ্ঞাবিবাহিতা হিসেবে তাকে অনেক দায়িত্ব নিতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "She became a betrothed woman due to her childhood friendship.",
+    "As a promised bride, she has many responsibilities to uphold."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Relationships",
+    "Traditions"
+  ],
+  "tags": [
+    "vow",
+    "betrothal",
+    "cultural marriage",
+    "promise"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term reflects traditional Bengali marriage customs where betrothal is formalized through vows."
+}

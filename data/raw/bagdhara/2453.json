@@ -1,0 +1,44 @@
+{
+  "id": "2453",
+  "idiom": "খই ভাজা",
+  "alternative_idioms": [
+    "খই ভাজার দল"
+  ],
+  "literal_meaning": "খই ভাজা (puffed rice frying)",
+  "figurative_meaning_bn": "নিতান্ত অকিঞ্চিৎকর কাজ",
+  "figurative_meaning_en": "Utterly insignificant or trivial work",
+  "similar_in_english": [
+    "busywork",
+    "make-work",
+    "fiddling with trifles"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খই ভাজার মতো অকিঞ্চিৎকর কাজে সময় নষ্ট করছে।",
+    "এই প্রকল্পটা খই ভাজা জিনিস, কোনো গুরুত্ব নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He's wasting time on work as trivial as frying khoi.",
+    "This project is like frying khoi—utterly insignificant."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work",
+    "conversation"
+  ],
+  "tags": [
+    "trivial",
+    "insignificant",
+    "colloquial",
+    "rural"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom draws from the simple, menial task of frying puffed rice (khoi), a common rural activity in Bengal often done in groups, symbolizing pointless or low-value labor."
+  ],
+  "note": "Frequently extended to 'খই ভাজার দল' to refer to a group engaged in such trivial activities."
+}

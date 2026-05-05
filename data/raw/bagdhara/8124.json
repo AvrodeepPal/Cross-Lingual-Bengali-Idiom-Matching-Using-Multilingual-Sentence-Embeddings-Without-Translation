@@ -1,0 +1,41 @@
+{
+  "id": "8124",
+  "idiom": "ভূতের বাপের শ্রাদ্ধ",
+  "alternative_idioms": [],
+  "literal_meaning": "ভূতের বাপের শ্রাদ্ধ অনুষ্ঠান",
+  "figurative_meaning_bn": "অনর্থক অর্থের অপচয়",
+  "figurative_meaning_en": "Wasting money on useless or pointless endeavors",
+  "similar_in_english": [
+    "Throwing money down the drain",
+    "Burning money"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ভূতের বাপের শ্রাদ্ধ করছে, এত টাকা বাজে প্রকল্পে নষ্ট করছে।",
+    "এই ব্যবসায় ভূতের বাপের শ্রাদ্ধের মতো টাকা লাগবে, কোনো লাভ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He's performing the shraddha of a ghost's father by wasting so much money on that futile project.",
+    "Investing in this business is like the shraddha of a ghost's father—pure waste of money with no return."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Daily life",
+    "Criticism"
+  ],
+  "tags": [
+    "Waste",
+    "Futility",
+    "Money",
+    "Supernatural"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from Hindu shraddha rituals for ancestors, emphasizing the absurdity of performing such rites for non-existent entities like ghosts."
+  ],
+  "note": "References Bengali cultural beliefs in ghosts and ancestral rites."
+}

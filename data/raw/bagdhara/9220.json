@@ -1,0 +1,40 @@
+{
+  "id": "9220",
+  "idiom": "লঘুগুরু জ্ঞান",
+  "alternative_idioms": [],
+  "literal_meaning": "লঘু (ছোট/জুনিয়র) এবং গুরু (বড়/সিনিয়র) সম্পর্কিত জ্ঞান",
+  "figurative_meaning_bn": "কে ছোট, কে বড় সেই জ্ঞান; বয়ঃকনিষ্ঠ ও বয়োজ্যেষ্ঠের মধ্যে তারতম্য সম্বন্ধে ধারণা বা সেই অনুযায়ী উপযুক্ত আচরণ; কাণ্ডজ্ঞান",
+  "figurative_meaning_en": "Knowledge of who is junior and who is senior; Understanding the distinction between younger and elder individuals or behaving appropriately accordingly; Sense of propriety or common sense in social hierarchy",
+  "similar_in_english": [
+    "Know one's place",
+    "Respect the pecking order",
+    "Understand seniority"
+  ],
+  "example_sentences_in_bangla": [
+    "তার লঘুগুরু জ্ঞান নেই, তাই অফিসে সবার সাথে একই রকম ব্যবহার করে।",
+    "পরিবারে লঘুগুরু জ্ঞান থাকলে সম্পর্কগুলো মসৃণ থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He lacks knowledge of junior and senior, so he behaves the same way with everyone in the office.",
+    "Having a sense of hierarchy in the family keeps relationships smooth."
+  ],
+  "usage_domain": [
+    "Social etiquette",
+    "Family dynamics",
+    "Workplace interactions"
+  ],
+  "tags": [
+    "hierarchy",
+    "respect",
+    "common sense",
+    "social norms"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes traditional Bengali values of respecting age and status differences."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2182",
+  "idiom": "কাহিল",
+  "alternative_idioms": [],
+  "literal_meaning": "exhausted or weakened (from Arabic origin, meaning fatigued)",
+  "figurative_meaning_bn": "দুর্বল; নিস্তেজ; বেদম; শ্রান্ত",
+  "figurative_meaning_en": "weak; listless; breathless; tired",
+  "similar_in_english": [
+    "worn out",
+    "beat",
+    "run down"
+  ],
+  "example_sentences_in_bangla": [
+    "রোগে ভুগতে ভুগতে কাহিল হয়ে পড়েছি।",
+    "দীর্ঘ যাত্রায় সবাই কাহিল হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "I became exhausted from suffering from the illness.",
+    "Everyone got tired from the long journey."
+  ],
+  "usage_domain": [
+    "health",
+    "daily life",
+    "emotions"
+  ],
+  "tags": [
+    "weakness",
+    "fatigue",
+    "exhaustion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Arabic 'kāhil', commonly used in Bengali to describe physical or mental fatigue."
+}

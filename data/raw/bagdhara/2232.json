@@ -1,0 +1,45 @@
+{
+  "id": "2232",
+  "idiom": "কুকুরের আড়াই পাক",
+  "alternative_idioms": [
+    "গাধার জল খাওয়া",
+    "বিড়ালের তিন পা",
+    "শিয়ালের রা"
+  ],
+  "literal_meaning": "কুকুরের লেজের আড়াই পাক (dog's tail curling two and a half times)",
+  "figurative_meaning_bn": "স্বভাবগত দোষ",
+  "figurative_meaning_en": "An inherent flaw or unchangeable bad habit in one's nature",
+  "similar_in_english": [
+    "A leopard can't change its spots",
+    "Set in one's ways"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কুকুরের আড়াই পাক স্বভাব, কখনো সৎ হবে না।",
+    "এই অভ্যাস তার কুকুরের আড়াই পাক, বদলানো অসম্ভব।"
+  ],
+  "example_sentences_in_english": [
+    "His dog's two-and-a-half curl nature means he'll never be honest.",
+    "This habit is his inherent flaw, impossible to change."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Character description",
+    "Moral lessons"
+  ],
+  "tags": [
+    "animal metaphor",
+    "innate defect",
+    "unchangeable trait",
+    "folklore"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originated from observing the natural curl of a dog's tail, symbolizing traits that cannot be altered, common in rural Bengali oral traditions."
+  ],
+  "note": "The idiom draws from everyday animal behavior in Bengali rural life."
+}

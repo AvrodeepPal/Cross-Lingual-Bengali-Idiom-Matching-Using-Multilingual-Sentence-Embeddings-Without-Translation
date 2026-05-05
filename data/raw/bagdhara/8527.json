@@ -1,0 +1,40 @@
+{
+  "id": "8527",
+  "idiom": "মাথায় ঘোল ঢালা",
+  "alternative_idioms": [],
+  "literal_meaning": "মাথায় ঘোল ঢালা (head on mud pour)",
+  "figurative_meaning_bn": "অপদস্ত/অপমান/জব্দ করা",
+  "figurative_meaning_en": "To humiliate, defeat, or subdue",
+  "similar_in_english": [
+    "To throw mud at someone",
+    "To put someone in their place"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার প্রতিদ্বন্দ্বীকে মাথায় ঘোল ঢেলে অপমান করল।",
+    "পুলিশ চোরটাকে মাথায় ঘোল ঢেলে ছেড়ে দিল।"
+  ],
+  "example_sentences_in_english": [
+    "He humiliated his rival by pouring mud on his head.",
+    "The police let the thief go after pouring mud on his head."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "conflict",
+    "everyday speech"
+  ],
+  "tags": [
+    "humiliation",
+    "defeat",
+    "insult"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from a traditional practice of humiliating wrongdoers by pouring mud or dirt on their head as a form of public shaming before release."
+  ],
+  "note": "The expression is often used in contexts of verbal or social defeat."
+}

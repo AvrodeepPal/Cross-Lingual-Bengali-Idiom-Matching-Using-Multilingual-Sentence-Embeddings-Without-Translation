@@ -1,0 +1,39 @@
+{
+  "id": "1518",
+  "idiom": "কদক্ষর",
+  "alternative_idioms": [],
+  "literal_meaning": "কদ (বিশ্রি বা খারাপ) + ক্ষর (অক্ষর বা লেখা)",
+  "figurative_meaning_bn": "বিশ্রি হাতের লেখা",
+  "figurative_meaning_en": "ugly or illegible handwriting",
+  "similar_in_english": [
+    "chicken scratch",
+    "doctor's handwriting"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চিঠির লেখা দেখে বুঝতে পারলাম এটা কদক্ষর।",
+    "স্কুলে শিক্ষক বললেন, তোমার হাতের লেখা কদক্ষর, পরিষ্কার করে লিখো।"
+  ],
+  "example_sentences_in_english": [
+    "I could barely read the letter because it was chicken scratch.",
+    "The teacher said, 'Your handwriting is illegible; write more neatly.'"
+  ],
+  "usage_domain": [
+    "education",
+    "communication",
+    "writing"
+  ],
+  "tags": [
+    "handwriting",
+    "negative",
+    "descriptive",
+    "everyday language"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in informal contexts to criticize poor penmanship in Bengali-speaking regions."
+}

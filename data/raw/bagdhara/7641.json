@@ -1,0 +1,39 @@
+{
+  "id": "7641",
+  "idiom": "বাসাবাড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "বাসা (সাময়িক আশ্রয়) + বাড়ি (ঘর)",
+  "figurative_meaning_bn": "সাময়িক বাসের জন্য ভাড়াটে বাড়ি",
+  "figurative_meaning_en": "A rented house for temporary residence",
+  "similar_in_english": [
+    "temporary digs",
+    "crash pad",
+    "rental accommodation"
+  ],
+  "example_sentences_in_bangla": [
+    "কলকাতায় চাকরির জন্য একটা বাসাবাড়ি নিয়েছি।",
+    "পড়াশোনার সময় শহরে বাসাবাড়িতে থাকতাম।"
+  ],
+  "example_sentences_in_english": [
+    "I've taken a rented place in Kolkata for my job.",
+    "I used to stay in temporary lodging in the city during my studies."
+  ],
+  "usage_domain": [
+    "housing",
+    "urban life",
+    "daily conversation"
+  ],
+  "tags": [
+    "rental",
+    "temporary residence",
+    "urban migration"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Commonly used in contexts of urban relocation in Bengal, especially Kolkata."
+}

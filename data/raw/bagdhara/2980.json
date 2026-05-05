@@ -1,0 +1,42 @@
+{
+  "id": "2980",
+  "idiom": "গলতি",
+  "alternative_idioms": [
+    "গলদ",
+    "গলত"
+  ],
+  "literal_meaning": "ভুল বা ত্রুটির অবস্থা (পার্সিয়ান/উর্দু 'ঘলত' থেকে উদ্ভূত)",
+  "figurative_meaning_bn": "দোষ, ত্রুটি, ভুল",
+  "figurative_meaning_en": "fault, error, mistake",
+  "similar_in_english": [
+    "make a mistake",
+    "slip-up"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কাজে কোনো গলতি হয়নি।",
+    "তার বক্তৃতায় একটি ছোট গলতি ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "There was no mistake in this work.",
+    "There was a small error in his speech."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "formal writing",
+    "education"
+  ],
+  "tags": [
+    "error",
+    "fault",
+    "mistake",
+    "correction"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি উর্দু/পার্সিয়ান 'ঘলত' থেকে আগত শব্দ, বাংলায় ব্যাপকভাবে ব্যবহৃত হয়"
+}

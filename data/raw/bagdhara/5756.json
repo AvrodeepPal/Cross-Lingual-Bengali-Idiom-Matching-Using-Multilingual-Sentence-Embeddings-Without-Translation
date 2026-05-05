@@ -1,0 +1,40 @@
+{
+  "id": "5756",
+  "idiom": "দাগ লাগা",
+  "alternative_idioms": [],
+  "literal_meaning": "to apply or stick a mark or stain",
+  "figurative_meaning_bn": "দোষ/কলঙ্ক স্পর্শ করা",
+  "figurative_meaning_en": "to incur a fault or blemish on one's reputation",
+  "similar_in_english": [
+    "stain on one's character",
+    "black mark against someone",
+    "tarnish one's reputation"
+  ],
+  "example_sentences_in_bangla": [
+    "নেতার চরিত্রে দাগ লেগেছে।",
+    "তার নামে এই ঘটনায় দাগ লেগেছে।"
+  ],
+  "example_sentences_in_english": [
+    "A stain has been put on the leader's character.",
+    "This incident has left a blemish on his name."
+  ],
+  "usage_domain": [
+    "politics",
+    "personal reputation",
+    "morality"
+  ],
+  "tags": [
+    "negative",
+    "reputation",
+    "fault",
+    "character"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in contexts of moral or reputational damage in Bengali discourse."
+}

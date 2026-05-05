@@ -1,0 +1,39 @@
+{
+  "id": "1820",
+  "idiom": "কাকপদ",
+  "alternative_idioms": [],
+  "literal_meaning": "কাকের পা (crow's foot)",
+  "figurative_meaning_bn": "লেখায় বাদপড়া অক্ষরের স্থান নির্দেশক (^) চিহ্ন",
+  "figurative_meaning_en": "The caret symbol (^) indicating the place of omitted letters in writing",
+  "similar_in_english": [
+    "caret mark"
+  ],
+  "example_sentences_in_bangla": [
+    "বইয়ের এই পৃষ্ঠায় কাকপদ চিহ্ন দিয়ে বাদ পড়া শব্দগুলো নির্দেশ করা হয়েছে।",
+    "সম্পাদনার সময় কাকপদ ব্যবহার করে অভাবী অংশ দেখানো হয়।"
+  ],
+  "example_sentences_in_english": [
+    "In this page of the book, the omitted words are indicated by the caret symbol.",
+    "During editing, the caret is used to show the missing part."
+  ],
+  "usage_domain": [
+    "writing",
+    "editing",
+    "literature"
+  ],
+  "tags": [
+    "punctuation",
+    "symbol",
+    "editing mark"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term derives from the visual resemblance of the caret symbol to a crow's footprint, a traditional observation in Bengali scribal practices."
+  ],
+  "note": "This is a specialized term in Bengali orthography and editing."
+}

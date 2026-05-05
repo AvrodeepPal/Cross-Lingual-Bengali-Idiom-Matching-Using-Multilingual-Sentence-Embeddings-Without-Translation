@@ -1,0 +1,41 @@
+{
+  "id": "9279",
+  "idiom": "লাথির ঢেঁকি চড়ে ওঠে না",
+  "alternative_idioms": [],
+  "literal_meaning": "লাথি খেলেও ঢেঁকি চড়ে ওঠে না (কিক খেলেও মসা উঠে না)",
+  "figurative_meaning_bn": "বদলোক লঘু শাসন মানে না; যার যে স্বভাব তার সাথে সেইরকম আচরণ",
+  "figurative_meaning_en": "A rogue does not heed mild punishment; one should behave towards a person according to their inherent nature",
+  "similar_in_english": [
+    "A leopard can't change its spots",
+    "Spare the rod and spoil the child"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই দুষ্টু ছেলেকে শুধু বলে কাজ চলবে না, লাথির ঢেঁকি চড়ে ওঠে না।",
+    "বদমাশ লোকের সাথে নরম আচরণ করলে কোনো লাভ নেই, লাথির ঢেঁকি চড়ে ওঠে না।"
+  ],
+  "example_sentences_in_english": [
+    "Just scolding that naughty boy won't work; a kicked mortar doesn't rise.",
+    "Being soft with a rogue brings no benefit; a kicked mortar doesn't rise."
+  ],
+  "usage_domain": [
+    "moral advice",
+    "discipline",
+    "human behavior"
+  ],
+  "tags": [
+    "punishment",
+    "nature",
+    "proverb",
+    "rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from rural Bengali life where a ঢেঁকি (heavy wooden mortar for pounding grain) remains unmoved even if kicked, symbolizing the need for firm action against stubborn or wicked behavior."
+  ],
+  "note": "The idiom emphasizes the futility of mild measures on unyielding subjects, rooted in agrarian tools."
+}

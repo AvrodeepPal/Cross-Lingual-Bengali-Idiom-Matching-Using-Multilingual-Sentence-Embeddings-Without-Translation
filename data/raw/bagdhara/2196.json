@@ -1,0 +1,39 @@
+{
+  "id": "2196",
+  "idiom": "কিমাশ্চর্য্যমতঃপরম",
+  "alternative_idioms": [],
+  "literal_meaning": "কী আশ্চর্য এর পর থেকে পরম (সংস্কৃত: কিমাশ্চর্যমতঃ পরম - এর পর থেকে আর কী আশ্চর্য?)",
+  "figurative_meaning_bn": "এরপর আর আশ্চর্যের কী আছে; কী অদ্ভুত ব্যাপার",
+  "figurative_meaning_en": "What more is there to be surprised about after this; what a strange affair",
+  "similar_in_english": [
+    "What's the big surprise?",
+    "What else is new?"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এমনই করেছে, কিমাশ্চর্য্যমতঃপরম।",
+    "এখন এটা ঘটেছে, এরপর আর কিমাশ্চর্য্যমতঃপরম।"
+  ],
+  "example_sentences_in_english": [
+    "He did exactly that, what more surprise is there after this.",
+    "This has happened now, what wonder after this."
+  ],
+  "usage_domain": [
+    "conversation",
+    "literature"
+  ],
+  "tags": [
+    "surprise",
+    "dismissal",
+    "sarcasm"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from classical Sanskrit literature, often used in epics like Mahabharata to express unsurprise in the face of extraordinary events."
+  ],
+  "note": "This idiom has roots in ancient Indian texts and is more common in literary or formal Bengali contexts."
+}

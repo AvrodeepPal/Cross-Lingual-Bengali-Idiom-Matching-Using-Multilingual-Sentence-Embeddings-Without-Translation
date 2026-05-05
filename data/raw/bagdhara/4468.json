@@ -1,0 +1,39 @@
+{
+  "id": "4468",
+  "idiom": "জতুগৃহ",
+  "alternative_idioms": [],
+  "literal_meaning": "জতুর তৈরি ঘর (জ্বলনশীল উপাদান দিয়ে নির্মিত বাড়ি)",
+  "figurative_meaning_bn": "সহজদাহ্য ঘরবাড়ী; যেকোন সময় আগুন লেগে ধ্বংস হতে পারে এমন",
+  "figurative_meaning_en": "Easily combustible dwelling; something that can catch fire and be destroyed at any moment",
+  "similar_in_english": [
+    "tinderbox",
+    "powder keg"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ঘনবসতিপূর্ণ এলাকাটি একটা জতুগৃহের মতো হয়ে উঠেছে।",
+    "তাদের সম্পর্কটি জতুগৃহের ন্যায় অস্থির এবং বিপজ্জনক।"
+  ],
+  "example_sentences_in_english": [
+    "This densely populated area has become like a tinderbox.",
+    "Their relationship is as unstable and dangerous as a powder keg."
+  ],
+  "usage_domain": [
+    "urban issues",
+    "social fragility",
+    "hazard description"
+  ],
+  "tags": [
+    "fire risk",
+    "urban slum",
+    "vulnerability",
+    "instability"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Refers to the flammability of jute structures common in Bengali urban contexts"
+}

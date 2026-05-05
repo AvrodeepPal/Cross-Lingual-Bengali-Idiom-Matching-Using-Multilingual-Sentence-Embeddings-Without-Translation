@@ -1,0 +1,39 @@
+{
+  "id": "6493",
+  "idiom": "নেপথ্যে",
+  "alternative_idioms": [],
+  "literal_meaning": "পরদার পিছনে বা মঞ্চের পিছনে",
+  "figurative_meaning_bn": "সাধারণের আড়ালে বা অগোচরে; গোপনে",
+  "figurative_meaning_en": "behind the scenes or unnoticed; secretly",
+  "similar_in_english": [
+    "behind the scenes",
+    "in the shadows",
+    "under the radar"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সকল কার্যকলাপ নেপথ্যে পরিচালিত হয়।",
+    "নেপথ্যে কাজ করে সে প্রকাশ্যে সাফল্য পায়।"
+  ],
+  "example_sentences_in_english": [
+    "All his activities are conducted behind the scenes.",
+    "He works in secret to achieve public success."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "politics"
+  ],
+  "tags": [
+    "secrecy",
+    "hidden actions",
+    "background influence"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from theatrical term 'nepothyo' meaning backstage, commonly used in Bengali to denote concealed activities."
+}

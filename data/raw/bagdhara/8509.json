@@ -1,0 +1,41 @@
+{
+  "id": "8509",
+  "idiom": "মাথামুণ্ড",
+  "alternative_idioms": [
+    "মুণ্ডু"
+  ],
+  "literal_meaning": "মাথা এবং মুণ্ডু (head and skull)",
+  "figurative_meaning_bn": "জ্ঞাতব্য/বোধগম্য বিষয়; বক্তব্যের পূর্বাপর শৃঙ্খলা",
+  "figurative_meaning_en": "Something knowable or understandable; the beginning-to-end sequence or logical structure of a statement",
+  "similar_in_english": [
+    "No head or tail",
+    "No rhyme or reason"
+  ],
+  "example_sentences_in_bangla": [
+    "ওর বক্তৃতার কোনো মাথামুণ্ডু নেই।",
+    "এই গল্পের মাথামুণ্ডু বুঝতে পারছি না।"
+  ],
+  "example_sentences_in_english": [
+    "His speech has no head or tail.",
+    "I can't make head or tail of this story."
+  ],
+  "usage_domain": [
+    "conversation",
+    "literature",
+    "criticism"
+  ],
+  "tags": [
+    "logic",
+    "structure",
+    "confusion",
+    "sequence"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom metaphorically refers to the absence of logical flow, akin to a headless or tailless entity."
+}

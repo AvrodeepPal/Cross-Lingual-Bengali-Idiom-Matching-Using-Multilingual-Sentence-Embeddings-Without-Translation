@@ -1,0 +1,42 @@
+{
+  "id": "4880",
+  "idiom": "টলটল",
+  "alternative_idioms": [
+    "টলবল",
+    "টলমল"
+  ],
+  "literal_meaning": "কম্পিত বা দোলানো অবস্থা, যেমন মৃদু বায়ুতে জলের টলমল",
+  "figurative_meaning_bn": "অস্থির, কম্পমান, বিক্ষিপ্ত",
+  "figurative_meaning_en": "Unsteady, trembling, distraught",
+  "similar_in_english": [
+    "Shaky",
+    "Wobbly",
+    "All at sea"
+  ],
+  "example_sentences_in_bangla": [
+    "ভয়ে তার হাত টলটল করে উঠল।",
+    "মনটা টলমল করে উঠেছে খবর শুনে।"
+  ],
+  "example_sentences_in_english": [
+    "His hands trembled with fear.",
+    "Her mind became distraught upon hearing the news."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Physical description",
+    "Everyday language"
+  ],
+  "tags": [
+    "Onomatopoeia",
+    "Instability",
+    "Anxiety"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression mimicking gentle rippling or shaking"
+}

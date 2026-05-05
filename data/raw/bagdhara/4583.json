@@ -1,0 +1,40 @@
+{
+  "id": "4583",
+  "idiom": "জাঁহাবাজ",
+  "alternative_idioms": [
+    "জাহাঁবাজ"
+  ],
+  "literal_meaning": "জাহাজের বাজ (নৌকা বা জাহাজে দক্ষ ব্যক্তি, যেখানে 'জাহাজ' মানে জাহাজ এবং 'বাজ' মানে দক্ষতাসম্পন্ন বা শিকারি পাখি)",
+  "figurative_meaning_bn": "প্রশংসার্থে বহুগুণসম্পন্ন ব্যক্তি",
+  "figurative_meaning_en": "A person endowed with many qualities or highly accomplished individual, used in praise",
+  "similar_in_english": [
+    "Jack of all trades",
+    "Renaissance man"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন জাঁহাবাজ মানুষ, সব কাজেই পারদর্শী।",
+    "এই প্রকল্পের সাফল্য তার জাঁহাবাজ প্রতিভার ফল।"
+  ],
+  "example_sentences_in_english": [
+    "He is a jahabaj person, skilled in every task.",
+    "The success of this project is the result of his multifaceted talents as a jahabaj."
+  ],
+  "usage_domain": [
+    "praise",
+    "personal description",
+    "admiration"
+  ],
+  "tags": [
+    "প্রশংসা",
+    "দক্ষতা",
+    "বহুমুখী প্রতিভা"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom likely derives from nautical expertise in Bengali maritime culture, implying versatility like a skilled sailor."
+}

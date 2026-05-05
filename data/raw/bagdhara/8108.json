@@ -1,0 +1,41 @@
+{
+  "id": "8108",
+  "idiom": "ভুশুণ্ডির কাক",
+  "alternative_idioms": [],
+  "literal_meaning": "ভুশুণ্ডি (মৌচাক) এর কাক (ভূঁড়ি বা মৌচাকের কাক)",
+  "figurative_meaning_bn": "যে মৃত্যুর বয়স হওয়া সত্ত্বেও বহু বছর ধরে জীবিত আছে; অন্যায়ভাবে দীর্ঘজীবী ব্যক্তি",
+  "figurative_meaning_en": "A person who, despite having reached the age of death, continues to live for many more years; an unjustly long-lived individual",
+  "similar_in_english": [
+    "living on borrowed time",
+    "the devil looks after his own"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই দুর্নীতিগ্রস্ত রাজনীতিবিদকে সবাই ভুশুণ্ডির কাক বলে, কারণ তার মৃত্যুর সময় হয়ে গেলেও সে এখনও জীবিত।",
+    "আমাদের প্রতিবেশীর বাবা ভুশুণ্ডির কাকের মতো দীর্ঘজীবী হয়ে আছেন, যদিও তার শরীর ভাঙা পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "That corrupt politician is called a beehive crow by everyone, because despite his time to die having passed, he is still alive.",
+    "Our neighbor's father is living like a beehive crow, unnaturally long-lived even though his body is failing."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "criticism",
+    "folklore"
+  ],
+  "tags": [
+    "longevity",
+    "negative",
+    "survival",
+    "critique"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from rural Bengali folklore where a crow improbably survives in a beehive, symbolizing unnatural or undeserved longevity amid adversity."
+  ],
+  "note": "The idiom evokes imagery of rural life with bees and crows, often used in derogatory contexts to mock persistent survival."
+}

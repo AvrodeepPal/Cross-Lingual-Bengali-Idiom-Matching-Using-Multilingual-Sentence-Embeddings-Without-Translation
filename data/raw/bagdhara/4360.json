@@ -1,0 +1,41 @@
+{
+  "id": "4360",
+  "idiom": "ছুঁচোর কচাকচি",
+  "alternative_idioms": [
+    "কীর্তন",
+    "কেত্তন"
+  ],
+  "literal_meaning": "ছুঁচোর (ইঁদুরের) কচাকচি (ফিসফিস বা কিচিরমিচির শব্দ)",
+  "figurative_meaning_bn": "বিরক্তিকর চেঁচামেচি",
+  "figurative_meaning_en": "Irritating clamor or annoying chatter",
+  "similar_in_english": [
+    "making a racket",
+    "babble"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় সবাই ছুঁচোর কচাকচি করছে, কোনো স্বাভাবিক আলোচনা হচ্ছে না।",
+    "পাড়ায় রাতে ছুঁচোর কচাকচির মতো শব্দ হচ্ছে, ঘুম আসছে না।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone in the meeting is making rat's chatter; there's no proper discussion.",
+    "The noise in the neighborhood at night is like rat's chatter; I can't sleep."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "daily conversation"
+  ],
+  "tags": [
+    "noise",
+    "irritation",
+    "animals",
+    "sound"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Alternatives like কীর্তন may refer to noisy devotional singing in a mocking sense."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "572",
+  "idiom": "আমগন্ধি",
+  "alternative_idioms": [],
+  "literal_meaning": "আমের গন্ধযুক্ত",
+  "figurative_meaning_bn": "কাঁচাগন্ধযুক্ত; যে খাবার পুরো রান্না হয়নি",
+  "figurative_meaning_en": "Having a raw smell; food that is not fully cooked",
+  "similar_in_english": [
+    "half-baked"
+  ],
+  "example_sentences_in_bangla": [
+    "এই মাংসের টুকরোগুলো আমগন্ধি লাগছে, আরও রান্না করো।",
+    "ভাতটা আমগন্ধি হয়েছে, পুরোপুরি সিদ্ধ হয়নি।"
+  ],
+  "example_sentences_in_english": [
+    "This meat piece smells raw mango-like; cook it more.",
+    "The rice is raw-smelling; it's not fully cooked."
+  ],
+  "usage_domain": [
+    "food",
+    "cooking"
+  ],
+  "tags": [
+    "smell",
+    "undercooked",
+    "culinary"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the tangy, unripe mango smell indicating incomplete cooking in Bengali households."
+}

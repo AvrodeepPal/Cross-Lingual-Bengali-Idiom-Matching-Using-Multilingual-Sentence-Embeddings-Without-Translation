@@ -1,0 +1,39 @@
+{
+  "id": "869",
+  "idiom": "ঊনপাঁজুরে",
+  "alternative_idioms": [],
+  "literal_meaning": "একাদশ আঙ্গুলযুক্ত ব্যক্তি",
+  "figurative_meaning_bn": "দুর্বল, মন্দভাগ্যবান, অলক্ষণীয় লোক",
+  "figurative_meaning_en": "Weak, unfortunate, inauspicious person",
+  "similar_in_english": [
+    "Born under a bad sign",
+    "Jinxed individual"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ঊনপাঁজুরে লোক, কোনো কাজেই সফল হয় না।",
+    "ঊনপাঁজুরের মতো তার জীবন সবসময় দুর্ভাগ্যে ভরা।"
+  ],
+  "example_sentences_in_english": [
+    "He is an unlucky person like one with eleven fingers; nothing ever goes right for him.",
+    "Her life is filled with misfortune, just like that of an inauspicious fellow."
+  ],
+  "usage_domain": [
+    "Superstition",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "misfortune",
+    "superstition",
+    "inauspicious"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom stems from the Bengali folk belief that being born with eleven fingers is a sign of bad omen and weakness, rooted in traditional superstitions about physical anomalies."
+  ],
+  "note": "The idiom reflects cultural views on physical differences as indicators of fate."
+}

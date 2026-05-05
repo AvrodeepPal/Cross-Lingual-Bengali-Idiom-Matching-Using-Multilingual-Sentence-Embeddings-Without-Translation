@@ -1,0 +1,39 @@
+{
+  "id": "2225",
+  "idiom": "কুঁড়ের বাদশা",
+  "alternative_idioms": [
+    "গোঁফ খেজুরে"
+  ],
+  "literal_meaning": "কুঁড়ের (অলস ব্যক্তির) রাজা",
+  "figurative_meaning_bn": "ভয়ানক অলস",
+  "figurative_meaning_en": "Extremely lazy",
+  "similar_in_english": [
+    "Lazy as a sloth",
+    "The laziest of the lazy"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কুঁড়ের বাদশা, সারাদিন শুয়ে থাকে।",
+    "এই অলস ছেলেটি কুঁড়ের বাদশা হয়ে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is the king of laziness, lying around all day.",
+    "This lazy boy has become the sloth king."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation"
+  ],
+  "tags": [
+    "laziness",
+    "negative trait",
+    "figurative expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to extreme laziness in a hyperbolic, regal manner typical of Bengali idiomatic humor."
+}

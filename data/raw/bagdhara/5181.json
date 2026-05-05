@@ -1,0 +1,38 @@
+{
+  "id": "5181",
+  "idiom": "ডিসমিস",
+  "alternative_idioms": [],
+  "literal_meaning": "খারিজ করা বা প্রত্যাখ্যান করা (আদালত বা আনুষ্ঠানিক প্রসঙ্গে)",
+  "figurative_meaning_bn": "বাতিল; খারিজ; অগ্রাহ্য",
+  "figurative_meaning_en": "invalid; rejected; disregarded",
+  "similar_in_english": [
+    "dismissed out of hand",
+    "thrown out"
+  ],
+  "example_sentences_in_bangla": [
+    "আদালত তার দাবিকে ডিসমিস করে দিয়েছে।",
+    "সেই প্রস্তাবটি সম্পূর্ণ ডিসমিস হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The court dismissed his claim.",
+    "That proposal was completely dismissed."
+  ],
+  "usage_domain": [
+    "legal",
+    "formal communication",
+    "administration"
+  ],
+  "tags": [
+    "rejection",
+    "invalidation",
+    "formal dismissal"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "city",
+  "history": [],
+  "note": "This is a loanword from English 'dismiss', commonly used in modern Bengali, especially in legal and official contexts; not a traditional idiom."
+}

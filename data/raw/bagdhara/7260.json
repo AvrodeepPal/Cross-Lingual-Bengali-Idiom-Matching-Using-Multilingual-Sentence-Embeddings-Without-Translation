@@ -1,0 +1,37 @@
+{
+  "id": "7260",
+  "idiom": "বড়পেট",
+  "alternative_idioms": [],
+  "literal_meaning": "বড় পেট (big stomach)",
+  "figurative_meaning_bn": "অত্যন্ত পেটুক",
+  "figurative_meaning_en": "extremely gluttonous",
+  "similar_in_english": [
+    "eat like a horse",
+    "have a hollow leg"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বড়পেট, একা একা পুরো থালা খাবার শেষ করে ফেলে।",
+    "এই বাচ্চাটা বড়পেট, সারাদিন খেতে থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He is big-stomached; he finishes the entire plate of food by himself.",
+    "This child has a big stomach; he keeps eating all day."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "food and eating"
+  ],
+  "tags": [
+    "gluttony",
+    "appetite",
+    "greed for food"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to someone with an insatiable appetite, common in Bengali household conversations."
+}

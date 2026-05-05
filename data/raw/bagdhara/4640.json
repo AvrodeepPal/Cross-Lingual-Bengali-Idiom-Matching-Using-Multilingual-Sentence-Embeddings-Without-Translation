@@ -1,0 +1,42 @@
+{
+  "id": "4640",
+  "idiom": "জাল দিয়ে বাতাস ধরা",
+  "alternative_idioms": [
+    "ছায়ার পিছনে ছুটে ছায়া ধরা"
+  ],
+  "literal_meaning": "জাল দিয়ে বাতাস ধরা (net দিয়ে বাতাস ধরার চেষ্টা)",
+  "figurative_meaning_bn": "অসম্ভব কাজ; খোশগল্প",
+  "figurative_meaning_en": "An impossible task; a tall tale or fabrication",
+  "similar_in_english": [
+    "A fool's errand",
+    "Chasing shadows",
+    "Tilting at windmills"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পরিকল্পনা শুনে মনে হলো এটা জাল দিয়ে বাতাস ধরার মতো অসম্ভব কাজ।",
+    "সে সবসময় খোশগল্প করে, যেন জাল দিয়ে বাতাস ধরতে চায়।"
+  ],
+  "example_sentences_in_english": [
+    "His plan sounds like trying to catch the wind with a net—an impossible task.",
+    "He always spins tall tales, as if attempting to catch air with a net."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "literature",
+    "everyday conversation"
+  ],
+  "tags": [
+    "futility",
+    "impossibility",
+    "exaggeration",
+    "folklore"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from everyday imagery of fishing nets, emphasizing futility in Bengali oral tradition."
+}

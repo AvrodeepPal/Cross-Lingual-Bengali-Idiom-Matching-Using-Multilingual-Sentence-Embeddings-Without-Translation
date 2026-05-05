@@ -1,0 +1,42 @@
+{
+  "id": "7071",
+  "idiom": "ফর্সা",
+  "alternative_idioms": [],
+  "literal_meaning": "সাদা বা পরিষ্কার করা (made white or cleaned)",
+  "figurative_meaning_bn": "খতম, নিশ্চিহ্ন, শূন্য, সাবাড়",
+  "figurative_meaning_en": "finished, destroyed, empty, barren",
+  "similar_in_english": [
+    "wiped off the map",
+    "razed to the ground",
+    "left in ruins"
+  ],
+  "example_sentences_in_bangla": [
+    "ঝড়ের পর গ্রামটি সম্পূর্ণ ফর্সা হয়ে গেছে।",
+    "যুদ্ধে শহর ফর্সা হয়ে শূন্যপথে দাঁড়িয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The village was completely wiped out after the storm.",
+    "The city stood empty and barren after the war."
+  ],
+  "usage_domain": [
+    "disaster",
+    "destruction",
+    "everyday language"
+  ],
+  "tags": [
+    "destruction",
+    "emptiness",
+    "devastation",
+    "natural calamity"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Often used in contexts of natural disasters like cyclones in Bengal, reflecting vulnerability to weather events."
+  ],
+  "note": "The idiom evokes imagery of total clearance, as if everything is 'whitened' or erased."
+}

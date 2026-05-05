@@ -1,0 +1,39 @@
+{
+  "id": "4370",
+  "idiom": "ছুটকি",
+  "alternative_idioms": [],
+  "literal_meaning": "ছোট মেয়ে বা শিশু বালিকা",
+  "figurative_meaning_bn": "অবজ্ঞায় শিশু বা বালিকা",
+  "figurative_meaning_en": "A child or young girl, used in a contemptuous or dismissive manner",
+  "similar_in_english": [
+    "little miss",
+    "brat (for a girl)"
+  ],
+  "example_sentences_in_bangla": [
+    "সবাই আমাকে ছুটকি বলে ডাকে, যেন আমি কোনো ছোট্ট বাচ্চা।",
+    "ওকে ছুটকি বলে হাসাহাসি করো না, সে তোমার থেকে বড়।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone calls me 'chhutki,' as if I'm just a little kid.",
+    "Don't mock her by calling her 'chhutki'; she's older than you."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "family interactions",
+    "derogatory address"
+  ],
+  "tags": [
+    "derogatory",
+    "nickname",
+    "gender-specific (female)",
+    "childhood"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is often used affectionately in some contexts but carries a dismissive tone as per the idiom's figurative use."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3939",
+  "idiom": "চিমড়া",
+  "alternative_idioms": [
+    "চিমড়ে"
+  ],
+  "literal_meaning": "শুকনো চামড়া",
+  "figurative_meaning_bn": "শুকনো চামড়ার মত শক্ত",
+  "figurative_meaning_en": "hard like dry skin",
+  "similar_in_english": [
+    "tough as leather",
+    "hard as nails"
+  ],
+  "example_sentences_in_bangla": [
+    "এই রুটিটা চিমড়ার মত শক্ত হয়ে গেছে।",
+    "তার কথা শুনে আমার মন চিমড়া খেয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "This roti has become as hard as dry skin.",
+    "Hearing his words made my heart shrivel up like dry skin."
+  ],
+  "usage_domain": [
+    "culinary",
+    "everyday description",
+    "emotional state"
+  ],
+  "tags": [
+    "texture",
+    "food-related",
+    "negative connotation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in context of overcooked flatbreads like luchi in Bengali households"
+}

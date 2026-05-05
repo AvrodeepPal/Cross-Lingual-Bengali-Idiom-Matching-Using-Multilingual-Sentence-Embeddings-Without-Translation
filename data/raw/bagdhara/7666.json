@@ -1,0 +1,43 @@
+{
+  "id": "7666",
+  "idiom": "বিড়ালের আড়াই পা",
+  "alternative_idioms": [
+    "কুকুরের আড়াই পাক",
+    "গাধার জল খাওয়া",
+    "শিয়ালের রা"
+  ],
+  "literal_meaning": "বিড়ালের দুই ও অর্ধেক পা (cat's two and a half steps)",
+  "figurative_meaning_bn": "ক্ষণকালের মধ্যে রাগ/প্রতিজ্ঞা/মান-অপমানবোধ বিস্মরণ, বেহায়াপনা; স্বভাব দোষ",
+  "figurative_meaning_en": "Forgetting anger, vows, or feelings of insult in a very short time; shamelessness; inherent character flaw",
+  "similar_in_english": [
+    "short memory for grudges",
+    "quick to forgive and forget"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বিড়ালের আড়াই পা মতো রাগ ভুলে গিয়ে আবার বন্ধুর সাথে মিলিত হলো।",
+    "তার স্বভাবে বিড়ালের আড়াই পা আছে, কখনো কোনো অভিযোগ মনে রাখে না।"
+  ],
+  "example_sentences_in_english": [
+    "He forgot his anger like a cat's two and a half steps and reconciled with his friend.",
+    "He has a cat's two and a half steps in his nature; he never holds onto any complaints."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "emotional expression",
+    "character description"
+  ],
+  "tags": [
+    "forgetfulness",
+    "anger",
+    "shamelessness",
+    "animal metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the quick, fleeting movements of cats to metaphorically describe transient emotions or flaws."
+}

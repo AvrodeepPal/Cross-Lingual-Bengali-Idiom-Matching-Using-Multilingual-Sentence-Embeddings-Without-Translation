@@ -1,0 +1,39 @@
+{
+  "id": "4366",
+  "idiom": "ছুটি",
+  "alternative_idioms": [
+    "ছুটকারা"
+  ],
+  "literal_meaning": "ছুটি (leave or holiday)",
+  "figurative_meaning_bn": "অব্যাহতি; মুক্তি",
+  "figurative_meaning_en": "exemption; freedom",
+  "similar_in_english": [
+    "get a day off",
+    "secure a reprieve"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অফিস থেকে ছুটি পেয়েছে।",
+    "দায়িত্ব থেকে ছুটি পাওয়া তার জন্য মুক্তির মতো।"
+  ],
+  "example_sentences_in_english": [
+    "He got leave from the office.",
+    "Getting exemption from duty feels like freedom to him."
+  ],
+  "usage_domain": [
+    "employment",
+    "daily life"
+  ],
+  "tags": [
+    "freedom",
+    "relief",
+    "exemption"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The original text 'ছুট১' appears to be a variant or OCR error for 'ছুটি', a common term used idiomatically for relief or freedom."
+}

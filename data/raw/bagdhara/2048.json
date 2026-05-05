@@ -1,0 +1,38 @@
+{
+  "id": "2048",
+  "idiom": "কানে মন্ত্র দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কানে মন্ত্র দেওয়া (ear-এ mantra/incantation দেওয়া)",
+  "figurative_meaning_bn": "কানে কানে গোপন কথা বা রহস্য বলা",
+  "figurative_meaning_en": "To whisper a secret or confide privately in someone's ear",
+  "similar_in_english": [
+    "Whisper in one's ear",
+    "Have a word in someone's ear"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বোনের কানে মন্ত্র দিয়ে সারপ্রাইজ পার্টির কথা জানাল।",
+    "প্রতিবেশীরা একে অপরের কানে মন্ত্র দিয়ে গুজব ছড়াচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "She whispered a mantra into her sister's ear about the surprise party.",
+    "The neighbors are spreading gossip by giving mantras in each other's ears."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Gossip and secrecy"
+  ],
+  "tags": [
+    "secrecy",
+    "whisper",
+    "confidentiality",
+    "gossip"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the cultural practice of whispering secrets, akin to 'কান ভাঙানো' for similar secretive communication."
+}

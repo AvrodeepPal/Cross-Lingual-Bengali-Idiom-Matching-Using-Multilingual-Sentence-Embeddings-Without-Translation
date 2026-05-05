@@ -1,0 +1,40 @@
+{
+  "id": "5492",
+  "idiom": "তেড়েফুঁড়ে",
+  "alternative_idioms": [],
+  "literal_meaning": "তাড়া করে ফুঁড়ে বেরিয়ে আসা (rushing and bursting out)",
+  "figurative_meaning_bn": "ভিতর থেকে তাড়া করে বাহিরে আসার ভাব; তর্জন গর্জন করে; ধমকিয়ে এবং রেগে গিয়ে; হঠাৎ তাড়া করে",
+  "figurative_meaning_en": "The sense of chasing out from inside; rebuking with a roar; scolding and in anger; suddenly pursuing",
+  "similar_in_english": [
+    "come charging at",
+    "bear down on",
+    "rush headlong"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ লাঠি উঁচিয়ে তেড়েফুঁড়ে মারতে এলো।",
+    "সে রাগে তেড়েফুঁড়ে আমাদের দিকে ছুটে এলো।"
+  ],
+  "example_sentences_in_english": [
+    "The police came charging with sticks raised to beat us.",
+    "He rushed at us in anger, roaring threats."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "descriptive action",
+    "conflict"
+  ],
+  "tags": [
+    "anger",
+    "pursuit",
+    "threat",
+    "sudden action"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression capturing aggressive movement in Bengali vernacular"
+}

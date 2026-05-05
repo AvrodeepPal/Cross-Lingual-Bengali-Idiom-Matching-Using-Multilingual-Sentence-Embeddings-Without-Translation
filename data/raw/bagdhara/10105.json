@@ -1,0 +1,39 @@
+{
+  "id": "10105",
+  "idiom": "হাত খালি",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত খালি (empty hand)",
+  "figurative_meaning_bn": "হাতে পয়সা নেই, রিক্তহস্ত",
+  "figurative_meaning_en": "No money in hand, empty-handed",
+  "similar_in_english": [
+    "Broke",
+    "Penniless",
+    "Empty-handed"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার হাত খালি, কোনো টাকা নেই।",
+    "বাজার থেকে ফিরে এসে দেখলাম হাত খালি।"
+  ],
+  "example_sentences_in_english": [
+    "I'm broke, no money in hand.",
+    "I came back from the market empty-handed."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Daily life",
+    "Poverty"
+  ],
+  "tags": [
+    "Money",
+    "Emptiness",
+    "Financial hardship"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in everyday conversations to express financial shortage"
+}

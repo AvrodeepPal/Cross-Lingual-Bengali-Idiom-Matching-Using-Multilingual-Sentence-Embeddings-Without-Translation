@@ -1,0 +1,37 @@
+{
+  "id": "7515",
+  "idiom": "বাজিয়ে দেখা",
+  "alternative_idioms": [],
+  "literal_meaning": "বাজানোর মাধ্যমে দেখা (to see by playing or testing)",
+  "figurative_meaning_bn": "পরখ করা",
+  "figurative_meaning_en": "to test or examine",
+  "similar_in_english": [
+    "put to the test",
+    "give it a whirl"
+  ],
+  "example_sentences_in_bangla": [
+    "নতুন গাড়িটি বাজিয়ে দেখো, কেমন চলে।",
+    "এই রেসিপিটি বাজিয়ে দেখলে বুঝবে এর স্বাদ কেমন।"
+  ],
+  "example_sentences_in_english": [
+    "Try out the new car to see how it runs.",
+    "Test this recipe and you'll know its taste."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "practical testing"
+  ],
+  "tags": [
+    "testing",
+    "examination",
+    "trial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to testing something like an instrument or device by operating it."
+}

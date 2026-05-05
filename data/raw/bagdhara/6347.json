@@ -1,0 +1,37 @@
+{
+  "id": "6347",
+  "idiom": "নাড়িজ্ঞান",
+  "alternative_idioms": [],
+  "literal_meaning": "নাড়ির স্পন্দন অনুভব করে রোগীর প্রকৃত অবস্থা নির্ণয় ক্ষমতা",
+  "figurative_meaning_bn": "কোনবিষয়ে সম্যক ধারণা",
+  "figurative_meaning_en": "Proper understanding or grasp of something",
+  "similar_in_english": [
+    "Have one's finger on the pulse"
+  ],
+  "example_sentences_in_bangla": [
+    "তার নাড়িজ্ঞান খুব ভালো, তাই বাজারের অবস্থা সে সঠিকভাবে বুঝতে পারে।",
+    "এই বিষয়ে তোমার নাড়িজ্ঞান নেই, তাই মতামত দেওয়া উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He has a good pulse on the market, so he understands the situation accurately.",
+    "You don't have a grasp on this matter, so you shouldn't give an opinion."
+  ],
+  "usage_domain": [
+    "medicine",
+    "general knowledge",
+    "perception"
+  ],
+  "tags": [
+    "understanding",
+    "awareness",
+    "traditional medicine"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from traditional Ayurvedic pulse diagnosis practices in Bengali culture"
+}

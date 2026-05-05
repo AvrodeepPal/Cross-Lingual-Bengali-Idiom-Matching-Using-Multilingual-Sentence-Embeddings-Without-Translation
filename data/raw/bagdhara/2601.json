@@ -1,0 +1,39 @@
+{
+  "id": "2601",
+  "idiom": "খানাখন্দ",
+  "alternative_idioms": [],
+  "literal_meaning": "খানা (গর্ত বা খাদ) এবং খন্দ (খাদ বা গহ্বর); গর্ত বা খাদের জন্য একার্থক যুগ্মশব্দ",
+  "figurative_meaning_bn": "একার্থক যুগ্মশব্দ; গর্ত, খাদ ইত্যাদি",
+  "figurative_meaning_en": "Synonymous compound word; pits, chasms, ditches, etc.",
+  "similar_in_english": [
+    "potholes and ruts",
+    "pits and hollows"
+  ],
+  "example_sentences_in_bangla": [
+    "রাস্তায় অনেক খানাখন্দ আছে, সাবধানে চলো।",
+    "পাহাড়ি এলাকায় খানাখন্দ দেখে গাড়ি চালানো কঠিন।"
+  ],
+  "example_sentences_in_english": [
+    "There are many pits and chasms on the road, drive carefully.",
+    "Driving in hilly areas requires watching for potholes and ditches."
+  ],
+  "usage_domain": [
+    "travel",
+    "geography",
+    "daily conversation"
+  ],
+  "tags": [
+    "synonymic compound",
+    "nature",
+    "caution",
+    "descriptive"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a tautological expression common in Bengali to emphasize types of depressions in terrain."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "755",
+  "idiom": "উটকা নারী",
+  "alternative_idioms": [],
+  "literal_meaning": "উটের কুঁজের মতো অস্থির বা অসমর্থিত নারী",
+  "figurative_meaning_bn": "স্বামীগৃহ ছেড়ে পিতৃগৃহে চলে যেতে চায় এমন নারী",
+  "figurative_meaning_en": "A woman who desires to leave her husband's home and return to her parental home",
+  "similar_in_english": [
+    "Mama's girl",
+    "Run back home to parents"
+  ],
+  "example_sentences_in_bangla": [
+    "সে উটকা নারীর মতো সবসময় স্বামীর বাড়ি থেকে পিতৃগৃহে ফিরে যাওয়ার কথা ভাবে।",
+    "বিয়ের পরও তার মনে উটকা নারীর ভাবনা রয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "She behaves like a utka nari, always thinking of leaving her husband's home for her parents'.",
+    "Even after marriage, she harbors thoughts like an utka nari."
+  ],
+  "usage_domain": [
+    "Family",
+    "Marriage",
+    "Gender roles"
+  ],
+  "tags": [
+    "Women",
+    "Marital discord",
+    "Traditional values"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali societal expectations around marriage and women's roles."
+}

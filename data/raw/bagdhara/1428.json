@@ -1,0 +1,42 @@
+{
+  "id": "1428",
+  "idiom": "কথা ঠেলা",
+  "alternative_idioms": [
+    "কথা ফেলা"
+  ],
+  "literal_meaning": "কথা ঠেলে দেওয়া (words to push away)",
+  "figurative_meaning_bn": "অগ্রাহ্য করা",
+  "figurative_meaning_en": "to disregard or ignore",
+  "similar_in_english": [
+    "brush off",
+    "turn a deaf ear",
+    "pay no heed"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার পরামর্শ কথা ঠেলে দিল।",
+    "গুরুজনের কথা ঠেলা উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He brushed off my advice completely.",
+    "One should not disregard the words of elders."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "family advice",
+    "social etiquette"
+  ],
+  "tags": [
+    "disregard",
+    "ignore",
+    "disrespect",
+    "elders"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Emphasizes cultural respect for elders in Bengali society"
+}

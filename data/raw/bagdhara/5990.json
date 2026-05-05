@@ -1,0 +1,38 @@
+{
+  "id": "5990",
+  "idiom": "ধড়াচূড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ধড়া (পোশাক বা শরীর) এবং চূড়া (আভরণ বা বালা) দিয়ে সজ্জিত",
+  "figurative_meaning_bn": "বিজাতীয় পোশাক বা অফিস-আদালতের বিশেষ ধরনের সাজ-পোশাক",
+  "figurative_meaning_en": "Foreign or unusual attire, or the special dress code of offices and courts",
+  "similar_in_english": [
+    "Dressed to the nines",
+    "All dolled up"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ধড়াচূড়া পরে অফিসে গেছে।",
+    "ধড়াচূড়া সাজ করে তুমি কোথায় যাচ্ছ?"
+  ],
+  "example_sentences_in_english": [
+    "He went to the office dressed in his finery.",
+    "Where are you going all dressed up?"
+  ],
+  "usage_domain": [
+    "clothing",
+    "appearance",
+    "formal occasions"
+  ],
+  "tags": [
+    "saj-poshak",
+    "formal",
+    "unusual attire"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Refers to elaborate or atypical dressing, often implying formality or unfamiliarity in Bengali social contexts"
+}

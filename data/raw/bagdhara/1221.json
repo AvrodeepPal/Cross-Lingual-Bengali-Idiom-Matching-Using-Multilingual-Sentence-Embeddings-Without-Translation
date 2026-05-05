@@ -1,0 +1,40 @@
+{
+  "id": "1221",
+  "idiom": "এরপর কথা নেই",
+  "alternative_idioms": [],
+  "literal_meaning": "এর পর কোনো কথা নেই",
+  "figurative_meaning_bn": "কথা সমাপ্ত; গল্প শেষ",
+  "figurative_meaning_en": "The conversation is over; the story is finished",
+  "similar_in_english": [
+    "End of story",
+    "Case closed",
+    "That's all folks"
+  ],
+  "example_sentences_in_bangla": [
+    "সে যা বলেছে তা সত্যি, এরপর কথা নেই।",
+    "ভুল হয়েছে, এরপর কথা নেই।"
+  ],
+  "example_sentences_in_english": [
+    "What he said is true, end of story.",
+    "A mistake was made, case closed."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Storytelling",
+    "Debate resolution"
+  ],
+  "tags": [
+    "conclusion",
+    "finality",
+    "agreement",
+    "disagreement"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes abrupt closure in discussions, rooted in oral traditions."
+}

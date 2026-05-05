@@ -1,0 +1,40 @@
+{
+  "id": "2727",
+  "idiom": "খেয়োখেয়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "খাওয়া-দাওয়ার শব্দানুকরণ বা ঝগড়ার আওয়াজের অনুকরণ",
+  "figurative_meaning_bn": "ঝগড়াবিবাদ",
+  "figurative_meaning_en": "quarrel or bickering",
+  "similar_in_english": [
+    "bickering",
+    "squabbling",
+    "at loggerheads"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই ভাইয়ের মধ্যে খেয়োখেয়ি লেগেছে।",
+    "পাড়ায় খেয়োখেয়ির জন্য শান্তি নেই।"
+  ],
+  "example_sentences_in_english": [
+    "There is bickering between the two brothers.",
+    "The neighborhood has no peace due to constant squabbling."
+  ],
+  "usage_domain": [
+    "family",
+    "politics",
+    "daily life"
+  ],
+  "tags": [
+    "quarrel",
+    "dispute",
+    "bickering",
+    "conflict"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom mimics the noisy sounds of petty arguments, common in colloquial Bengali."
+}

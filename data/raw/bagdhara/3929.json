@@ -1,0 +1,41 @@
+{
+  "id": "3929",
+  "idiom": "ছিনে জোঁক",
+  "alternative_idioms": [
+    "চিনে জোঁক"
+  ],
+  "literal_meaning": "ছিনে ধরা জোঁক (clinging leech)",
+  "figurative_meaning_bn": "নাছোড়বান্দা",
+  "figurative_meaning_en": "a tenacious or unrelenting person",
+  "similar_in_english": [
+    "clings like a leech",
+    "like a burr under the saddle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ছিনে জোঁকের মতো কাজ থেকে ছাড়বে না।",
+    "এই নাছোড়বান্দা ছিনে জোঁকের মতো লেগে আছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is like a clinging leech and won't let go of the task.",
+    "This tenacious fellow sticks like a leech."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "descriptive"
+  ],
+  "tags": [
+    "persistence",
+    "animal metaphor",
+    "negative trait"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Originates from rural Bengali experiences with leeches in ponds and rivers that cling tightly to the skin."
+  ],
+  "note": "Variants may reflect regional pronunciations; commonly used in spoken Bengali to describe stubbornness."
+}

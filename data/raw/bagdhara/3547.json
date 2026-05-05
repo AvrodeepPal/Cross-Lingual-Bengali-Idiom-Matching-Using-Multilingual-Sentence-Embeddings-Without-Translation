@@ -1,0 +1,43 @@
+{
+  "id": "3547",
+  "idiom": "ঘুঁটের মালা",
+  "alternative_idioms": [
+    "ঘুঁটের মেডেল"
+  ],
+  "literal_meaning": "শিলনোড়ার ঘুঁটির মালা",
+  "figurative_meaning_bn": "অসম্মানিক উপহার",
+  "figurative_meaning_en": "An insulting or dishonorable gift",
+  "similar_in_english": [
+    "poisoned chalice",
+    "backhanded compliment"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার শত্রুকে ঘুঁটের মালা দিয়ে সম্মানিত করল, যা আসলে অসম্মানের প্রতীক।",
+    "কাজে ব্যর্থ হওয়ায় তাকে ঘুঁটের মালা দেওয়া হলো।"
+  ],
+  "example_sentences_in_english": [
+    "He honored his rival with a grinding stone garland, which was actually an insult.",
+    "After failing the task, he was given the mortar medal as a dishonorable gift."
+  ],
+  "usage_domain": [
+    "conversational",
+    "sarcasm",
+    "social criticism"
+  ],
+  "tags": [
+    "insult",
+    "gift",
+    "sarcasm",
+    "traditional"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from rural Bengali life where the 'ঘুঁট' (grinding stone) symbolizes menial labor; presenting it as a 'garland' or 'medal' mocks false honor."
+  ],
+  "note": "Variants reflect modern adaptations like 'medal' for contemporary sarcasm."
+}

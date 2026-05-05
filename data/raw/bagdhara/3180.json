@@ -1,0 +1,39 @@
+{
+  "id": "3180",
+  "idiom": "গায়েব",
+  "alternative_idioms": [],
+  "literal_meaning": "অদৃশ্য বা অন্তর্হিত (আরবি 'গায়েব' থেকে, যা অদৃশ্যতা বোঝায়)",
+  "figurative_meaning_bn": "অদৃশ্য",
+  "figurative_meaning_en": "Disappeared or vanished suddenly",
+  "similar_in_english": [
+    "Vanished into thin air",
+    "Gone missing"
+  ],
+  "example_sentences_in_bangla": [
+    "হঠাৎ করে সে গায়েব হয়ে গেল।",
+    "পকেট থেকে টাকা গায়েব হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He suddenly vanished without a trace.",
+    "The money has disappeared from my pocket."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Expressing surprise"
+  ],
+  "tags": [
+    "disappearance",
+    "sudden absence",
+    "mystery"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই শব্দটি আরবি 'আল-গায়েব' (অদৃশ্য) থেকে উদ্ভূত, যা বাংলায় প্রচলিত হয়েছে মুসলিম সংস্কৃতির প্রভাবে।"
+  ],
+  "note": "এটি প্রধানত হঠাৎ অন্তর্ধানের জন্য ব্যবহৃত হয়।"
+}

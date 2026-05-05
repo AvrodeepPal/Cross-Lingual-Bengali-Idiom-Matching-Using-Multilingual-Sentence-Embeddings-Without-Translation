@@ -1,0 +1,41 @@
+{
+  "id": "6636",
+  "idiom": "পরলোক গমন",
+  "alternative_idioms": [],
+  "literal_meaning": "পরলোক যাত্রা বা অন্য জগতে যাওয়া",
+  "figurative_meaning_bn": "মারা যাওয়া",
+  "figurative_meaning_en": "to die or pass away",
+  "similar_in_english": [
+    "pass away",
+    "go to meet one's maker",
+    "depart this life"
+  ],
+  "example_sentences_in_bangla": [
+    "তার দাদু গতকাল পরলোক গমন করেছেন।",
+    "যুদ্ধে অনেক সৈনিক পরলোক গমন করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "His grandfather passed away yesterday.",
+    "Many soldiers departed for the afterlife in the war."
+  ],
+  "usage_domain": [
+    "death announcements",
+    "eulogies",
+    "formal writing"
+  ],
+  "tags": [
+    "euphemism",
+    "death",
+    "afterlife"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Sanskrit 'paraloka', referring to the realm beyond earthly life in Hindu philosophy."
+  ],
+  "note": "This idiom is a polite euphemism for death, often used in Bengali literature and formal contexts to soften the harshness of mortality."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2916",
+  "idiom": "গতরের মাথা খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "গতরের মাথা খাওয়া (waist-head eating)",
+  "figurative_meaning_bn": "নিস্কর্মা হয়ে বসে থাকা",
+  "figurative_meaning_en": "to sit idle without work",
+  "similar_in_english": [
+    "twiddling one's thumbs",
+    "sitting on one's hands"
+  ],
+  "example_sentences_in_bangla": [
+    "চাকরি না পেয়ে সে গতরের মাথা খাচ্ছে।",
+    "বাজারে কাজ না পাওয়ায় গতরের মাথা খেয়ে দিন কাটাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "After losing his job, he is sitting idle without work.",
+    "Unable to find work in the market, he spends his days twiddling his thumbs."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "unemployment",
+    "laziness"
+  ],
+  "tags": [
+    "idleness",
+    "rustic",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom uses rustic imagery from rural Bengali life, evoking idleness in a traditional context."
+}

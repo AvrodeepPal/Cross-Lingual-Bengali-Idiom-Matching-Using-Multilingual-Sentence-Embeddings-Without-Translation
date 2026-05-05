@@ -1,0 +1,37 @@
+{
+  "id": "7402",
+  "idiom": "বাঁকা কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "বাঁকা (crooked/bent) কথা (words/speech)",
+  "figurative_meaning_bn": "কুটিল বা প্যাঁচালো কথা",
+  "figurative_meaning_en": "Twisted or roundabout speech",
+  "similar_in_english": [
+    "Beat around the bush",
+    "Talk in circles"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি সরাসরি বলো, বাঁকা কথা বলো না।",
+    "এই বাঁকা কথা দিয়ে কিছু বোঝানো যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "Don't speak in crooked words; just say it directly.",
+    "His twisted speech made it hard to understand the point."
+  ],
+  "usage_domain": [
+    "Conversation",
+    "Rhetoric"
+  ],
+  "tags": [
+    "indirectness",
+    "evasion",
+    "sarcasm"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to indirect or insincere manner of speaking in everyday Bengali discourse."
+}

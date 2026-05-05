@@ -1,0 +1,41 @@
+{
+  "id": "3280",
+  "idiom": "গেঁজেল",
+  "alternative_idioms": [],
+  "literal_meaning": "গাঁজা সেবনকারী ব্যক্তি (ganja consumer)",
+  "figurative_meaning_bn": "গাঁজাখোর",
+  "figurative_meaning_en": "ganja smoker or marijuana addict",
+  "similar_in_english": [
+    "pothead",
+    "stoner"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো একটা গেঁজেল, সারাদিন গাঁজা খেয়ে ঘুরে বেড়ায়।",
+    "গেঁজেলদের সঙ্গে মিশিস না, তারা খারাপ লাগবে।"
+  ],
+  "example_sentences_in_english": [
+    "He's a total ganja smoker, wandering around high all day.",
+    "Don't hang out with those potheads; they'll get you in trouble."
+  ],
+  "usage_domain": [
+    "slang",
+    "informal conversation",
+    "drug-related contexts"
+  ],
+  "tags": [
+    "drugs",
+    "addiction",
+    "negative slang",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term derives from the widespread use of ganja (cannabis) in rural and semi-urban Bengal, often associated with informal or subcultural practices."
+  ],
+  "note": "The term is a colloquial variant of 'গাঁজাখোর' and carries a derogatory connotation in everyday Bengali speech."
+}

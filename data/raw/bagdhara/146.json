@@ -1,0 +1,39 @@
+{
+  "id": "146",
+  "idiom": "অনাহারী",
+  "alternative_idioms": [],
+  "literal_meaning": "অনাহারে ভুগতে থাকা ব্যক্তি (হাফাতা বা ক্ষুধার্ত)",
+  "figurative_meaning_bn": "ব্যঙ্গে অবৈতনিক; কাজ করে কিন্তু বেতন পায় না",
+  "figurative_meaning_en": "Sarcastically, unpaid; works but receives no salary",
+  "similar_in_english": [
+    "unpaid labor",
+    "working for free"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি এখানে এক অনাহারী কর্মচারী হয়ে গেছি।",
+    "অনেক ছোট কোম্পানিতে অনাহারী শ্রমিকরা কাজ করে।"
+  ],
+  "example_sentences_in_english": [
+    "I've become an unpaid employee here.",
+    "Many small companies have starving workers who labor without pay."
+  ],
+  "usage_domain": [
+    "কর্মজীবন",
+    "ব্যবসা",
+    "সামাজিক সমালোচনা"
+  ],
+  "tags": [
+    "ব্যঙ্গ",
+    "অবৈতনিক",
+    "শ্রম",
+    "সারকাস্টিক"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "এই বাগধারা আধুনিক শ্রমিক অধিকারের প্রসঙ্গে ব্যবহৃত হয়, বাঙালি সমাজের ব্যঙ্গাত্মক অভিব্যক্তির অংশ"
+}

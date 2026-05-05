@@ -1,0 +1,38 @@
+{
+  "id": "6702",
+  "idiom": "পাকা করা",
+  "alternative_idioms": [],
+  "literal_meaning": "পাকা (দৃঢ় বা পরিপক্ক) করা (করে তোলা)",
+  "figurative_meaning_bn": "নির্দিষ্ট করা",
+  "figurative_meaning_en": "to finalize or confirm definitely",
+  "similar_in_english": [
+    "seal the deal",
+    "make it official"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা বিয়ের তারিখ পাকা করে ফেলেছে।",
+    "এই চুক্তি এখন পাকা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "They have finalized the wedding date.",
+    "This agreement is now confirmed."
+  ],
+  "usage_domain": [
+    "marriage",
+    "agreements",
+    "everyday decisions"
+  ],
+  "tags": [
+    "confirmation",
+    "arrangement",
+    "commitment"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Originates from 'pakka' implying firmness, commonly used in arranged marriage contexts in Bengali culture."
+}

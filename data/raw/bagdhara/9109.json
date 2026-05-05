@@ -1,0 +1,47 @@
+{
+  "id": "9109",
+  "idiom": "রাম বল",
+  "alternative_idioms": [
+    "রামঃ",
+    "রামো",
+    "রাম কহ",
+    "রামচন্দ্র"
+  ],
+  "literal_meaning": "রাম বলেন (Lord Ram says)",
+  "figurative_meaning_bn": "অবজ্ঞা বা ঘৃণাসুচক উক্তি",
+  "figurative_meaning_en": "A dismissive or contemptuous remark indicating refusal or disbelief",
+  "similar_in_english": [
+    "As if!",
+    "Yeah, right!",
+    "In your dreams!"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার সাথে যাব? রাম বল!",
+    "এটা করব? রাম কহ!"
+  ],
+  "example_sentences_in_english": [
+    "Go with you? As if!",
+    "Do that? Yeah, right!"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Refusal",
+    "Sarcasm"
+  ],
+  "tags": [
+    "dismissal",
+    "contempt",
+    "religious invocation",
+    "refusal"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from invoking Lord Ram from the Ramayana epic, used to emphatically deny something unlikely or undesirable"
+  ],
+  "note": "Variations reflect regional pronunciations or archaic forms in Bengali dialects"
+}

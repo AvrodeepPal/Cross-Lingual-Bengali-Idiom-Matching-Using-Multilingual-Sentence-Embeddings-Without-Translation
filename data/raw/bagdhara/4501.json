@@ -1,0 +1,39 @@
+{
+  "id": "4501",
+  "idiom": "জমিজমা",
+  "alternative_idioms": [],
+  "literal_meaning": "জমি (ভূমি) এবং জমা (মূলধন বা সম্পদ)",
+  "figurative_meaning_bn": "ভূসম্পত্তি ও মূলধন",
+  "figurative_meaning_en": "Real estate and capital assets",
+  "similar_in_english": [
+    "land and money",
+    "property and wealth"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার জমিজমা কিছুই নেই।",
+    "তার জমিজমা অনেক, তাই সে ব্যবসা করে।"
+  ],
+  "example_sentences_in_english": [
+    "I have no real estate or capital.",
+    "He has plenty of property and capital, so he invests in business."
+  ],
+  "usage_domain": [
+    "finance",
+    "economy",
+    "daily life"
+  ],
+  "tags": [
+    "wealth",
+    "property",
+    "assets",
+    "possession"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali agrarian and economic values, emphasizing tangible assets like land."
+}

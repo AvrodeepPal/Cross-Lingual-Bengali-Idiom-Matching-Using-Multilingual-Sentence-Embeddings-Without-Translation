@@ -1,0 +1,47 @@
+{
+  "id": "3412",
+  "idiom": "ঘণ্টা",
+  "alternative_idioms": [
+    "অষ্টরম্ভা",
+    "কচু",
+    "ঘেচু",
+    "কলা",
+    "কাঁচকলা",
+    "ঘোড়ার ডিম"
+  ],
+  "literal_meaning": "ঘণ্টা (bell)",
+  "figurative_meaning_bn": "বিদ্রুপে কিছুই না; ফাঁকি",
+  "figurative_meaning_en": "Sarcastically, nothing at all; to fool or deceive",
+  "similar_in_english": [
+    "a hill of beans",
+    "horse feathers",
+    "baloney"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি আমার সাথে ঘণ্টা করছ কেন?",
+    "এটা তো শুধু ঘণ্টা, কোনো মূল্য নেই।"
+  ],
+  "example_sentences_in_english": [
+    "Why are you fooling around with me like that?",
+    "That's just nothing, no real value at all."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "sarcasm",
+    "deception"
+  ],
+  "tags": [
+    "sarcasm",
+    "nothingness",
+    "fooling",
+    "dismissive"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is part of a family of Bengali expressions denoting worthlessness or deception, often used in informal speech."
+}

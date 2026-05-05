@@ -1,0 +1,40 @@
+{
+  "id": "8615",
+  "idiom": "মালা জপা",
+  "alternative_idioms": [],
+  "literal_meaning": "Chanting or repeating with a rosary beads",
+  "figurative_meaning_bn": "ঈশ্বরের নাম আবৃত্তি করা",
+  "figurative_meaning_en": "Reciting or chanting the name of God",
+  "similar_in_english": [
+    "telling one's beads",
+    "saying the rosary"
+  ],
+  "example_sentences_in_bangla": [
+    "সে প্রতিদিন সকালে মালা জপে ভক্তি প্রকাশ করে।",
+    "দুঃখের সময় মালা জপা মনকে শান্ত করে।"
+  ],
+  "example_sentences_in_english": [
+    "He expresses devotion by chanting the rosary every morning.",
+    "Chanting the rosary brings peace to the mind in times of sorrow."
+  ],
+  "usage_domain": [
+    "religion",
+    "spirituality"
+  ],
+  "tags": [
+    "prayer",
+    "devotion",
+    "chanting",
+    "meditation"
+  ],
+  "frequency": "very common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the ancient Hindu practice of japa, where a mala (string of beads) is used to count repetitions of mantras or divine names, a tradition also adopted in Bengali Muslim tasbih practices."
+  ],
+  "note": "Common in both Hindu and Muslim Bengali communities for devotional purposes."
+}

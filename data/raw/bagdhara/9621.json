@@ -1,0 +1,39 @@
+{
+  "id": "9621",
+  "idiom": "সবুজবাতি",
+  "alternative_idioms": [],
+  "literal_meaning": "সবুজ আলো",
+  "figurative_meaning_bn": "অনুমোদন আছে",
+  "figurative_meaning_en": "Approval or permission granted",
+  "similar_in_english": [
+    "Green light"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রকল্পটি সরকারের কাছ থেকে সবুজবাতি পেয়েছে।",
+    "ম্যানেজার সবুজবাতি দিয়ে কাজ শুরু করার অনুমতি দিয়েছেন।"
+  ],
+  "example_sentences_in_english": [
+    "The project has received the green light from the government.",
+    "The manager gave the green light to start the work."
+  ],
+  "usage_domain": [
+    "business",
+    "administration",
+    "everyday conversation"
+  ],
+  "tags": [
+    "approval",
+    "permission",
+    "modern idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "This idiom originates from traffic signal terminology, where a green light indicates permission to proceed, adapted into Bengali in urban contexts during the 20th century with the introduction of modern traffic systems."
+  ],
+  "note": "Borrowed from English but widely used in Bengali media and official language."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6669",
+  "idiom": "পাঁকাল মাছ",
+  "alternative_idioms": [],
+  "literal_meaning": "পাঁকা বা কাদামাখা মাছ",
+  "figurative_meaning_bn": "ধরাছোঁয়ার বাইরে, কিছুতে নিজেকে জড়ায় না, এমন ব্যক্তি",
+  "figurative_meaning_en": "An elusive person who avoids getting involved in anything and is hard to catch or pin down",
+  "similar_in_english": [
+    "Slippery as an eel",
+    "Hard to pin down"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা পাঁকাল মাছ, কোনো দায়িত্ব নেয় না।",
+    "পলিটিক্সে তার মতো পাঁকাল মাছ খুব কম দেখা যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He's a slippery fish; he never takes any responsibility.",
+    "In politics, people like him are rare slippery fish who avoid commitments."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Describing personality"
+  ],
+  "tags": [
+    "elusiveness",
+    "avoidance",
+    "unreliability"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from rural Bengali life where mudfish (like eels or loaches) in paddy fields are hard to catch due to their slippery nature in mud."
+  ],
+  "note": "Reflects agrarian imagery common in Bengali folklore."
+}

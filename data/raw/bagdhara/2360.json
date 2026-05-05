@@ -1,0 +1,44 @@
+{
+  "id": "2360",
+  "idiom": "কেল্লা ফতে",
+  "alternative_idioms": [
+    "কেল্লামাত",
+    "কেল্লা মারা"
+  ],
+  "literal_meaning": "কেল্লা দখল বা পরাজিত করা (fort capturing or defeating)",
+  "figurative_meaning_bn": "কোন কঠিন বিষয়ে উদ্যোগ সফল; কাজ হাসিল; বাজিমাত",
+  "figurative_meaning_en": "Success in a difficult endeavor; achieving the goal; winning the bet",
+  "similar_in_english": [
+    "Storm the fort",
+    "Win the battle",
+    "Carry the day"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় ভালো ফল পেয়ে সে কেল্লা ফতে করেছে।",
+    "ব্যবসায়ের চ্যালেঞ্জ মোকাবিলা করে তারা কেল্লা মাত করল।"
+  ],
+  "example_sentences_in_english": [
+    "By scoring well in the exam, he stormed the fort.",
+    "They won the battle by overcoming the business challenges."
+  ],
+  "usage_domain": [
+    "success",
+    "achievement",
+    "competition"
+  ],
+  "tags": [
+    "victory",
+    "challenge",
+    "triumph"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References military conquests and sieges of forts in historical Bengali contexts, such as Mughal era battles."
+  ],
+  "note": "The idiom draws from warfare imagery, symbolizing overcoming obstacles like capturing a stronghold."
+}

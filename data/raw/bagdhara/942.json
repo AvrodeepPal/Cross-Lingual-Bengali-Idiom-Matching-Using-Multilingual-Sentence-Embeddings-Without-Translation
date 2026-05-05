@@ -1,0 +1,37 @@
+{
+  "id": "942",
+  "idiom": "এককাঠি সরেস",
+  "alternative_idioms": [],
+  "literal_meaning": "এক কাঠি (মাপকাঠি বা লম্বাই) সরেস (অত্যুত্তম বা উন্নত)",
+  "figurative_meaning_bn": "নিন্দার্থে- অন্যের তুলনায় একটু বেশি বদ",
+  "figurative_meaning_en": "Derogatorily - a little worse or more bad compared to others",
+  "similar_in_english": [
+    "a cut below",
+    "one of the worst"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি দেখছি এককাঠি সরেস, সবার থেকে একটু বেশি খারাপ।",
+    "এই ছেলেটা এককাঠি সরেস, অন্যদের মধ্যে সবচেয়ে বেশি অলস।"
+  ],
+  "example_sentences_in_english": [
+    "You seem a cut below, a bit worse than everyone else.",
+    "This guy is one of the worst, the laziest among the others."
+  ],
+  "usage_domain": [
+    "conversational",
+    "comparative insults"
+  ],
+  "tags": [
+    "derogatory",
+    "comparison",
+    "negative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses 'কাঠি' metaphorically as a measure of superiority, but in a negative context for inferiority in quality."
+}

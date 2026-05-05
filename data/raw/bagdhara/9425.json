@@ -1,0 +1,39 @@
+{
+  "id": "9425",
+  "idiom": "শাকে বালি",
+  "alternative_idioms": [],
+  "literal_meaning": "শাকের মধ্যে বালি (sand in vegetables)",
+  "figurative_meaning_bn": "ভোজনে বিঘ্ন",
+  "figurative_meaning_en": "hindrance or obstacle in eating/meals",
+  "similar_in_english": [
+    "a fly in the ointment",
+    "spoil the broth"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকের খাবারে শাকে বালি পড়েছে, সবাই মুখ ফিরিয়ে নিল।",
+    "পার্টিতে শাকে বালি হয়ে গেল, মেজাজ খারাপ হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "There was sand in the vegetables at today's meal, and everyone lost their appetite.",
+    "The party was ruined by a sand-in-the-vegetables moment, spoiling the mood."
+  ],
+  "usage_domain": [
+    "daily life",
+    "culinary",
+    "social gatherings"
+  ],
+  "tags": [
+    "food",
+    "obstacle",
+    "inconvenience",
+    "meal"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a common rural issue with unwashed vegetables from fields"
+}

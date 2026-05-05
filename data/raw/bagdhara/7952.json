@@ -1,0 +1,40 @@
+{
+  "id": "7952",
+  "idiom": "ভণ্ড তপস্বী",
+  "alternative_idioms": [],
+  "literal_meaning": "ভণ্ড (hypocrite or pretender) তপস্বী (ascetic or hermit)",
+  "figurative_meaning_bn": "বাইরে ধার্মিকতার ভান করে এবং ভিতরে দুস্কার্য করার প্রতি বিদ্রুপোক্তি",
+  "figurative_meaning_en": "A sarcastic remark for someone who feigns religious piety outwardly while engaging in wicked deeds inwardly",
+  "similar_in_english": [
+    "wolf in sheep's clothing",
+    "hypocrite",
+    "false prophet"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন ভণ্ড তপস্বী, মন্দিরে প্রার্থনা করে কিন্তু বাড়িতে প্রতারণা করে।",
+    "রাজনীতিতে অনেক ভণ্ড তপস্বী দেখা যায়, যারা ধর্মের নামে লাভবান হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a phony ascetic, praying in the temple but deceiving at home.",
+    "Many phony ascetics are seen in politics, who profit in the name of religion."
+  ],
+  "usage_domain": [
+    "religion",
+    "morality",
+    "criticism"
+  ],
+  "tags": [
+    "hypocrisy",
+    "sarcasm",
+    "piety",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from traditional Bengali skepticism towards insincere religious figures, common in folklore and literature."
+}

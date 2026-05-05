@@ -1,0 +1,41 @@
+{
+  "id": "2837",
+  "idiom": "গজকচ্ছপের লড়াই",
+  "alternative_idioms": [
+    "গজকচ্ছপী"
+  ],
+  "literal_meaning": "হাতি এবং কচ্ছপের লড়াই",
+  "figurative_meaning_bn": "প্রবল প্রতিদ্বন্দিতা; সমান দুইশক্তির দীর্ঘস্থায়ী জবরদস্ত লড়াই",
+  "figurative_meaning_en": "Fierce rivalry; a prolonged and intense battle between two equally powerful forces",
+  "similar_in_english": [
+    "Clash of the titans",
+    "Battle of equals"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই রাজনৈতিক দলের মধ্যে গজকচ্ছপের লড়াই চলছে।",
+    "ব্যবসায়িক প্রতিযোগিতায় এটি গজকচ্ছপের লড়াইয়ের মতো।"
+  ],
+  "example_sentences_in_english": [
+    "There's an elephant-tortoise fight going on between the two political parties.",
+    "This business competition is like a battle between an elephant and a tortoise."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Business",
+    "Sports"
+  ],
+  "tags": [
+    "rivalry",
+    "competition",
+    "prolonged conflict",
+    "equal forces"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from mythological imagery of elephant (gaja) and tortoise (kachhapa) symbolizing enduring, balanced struggle."
+}

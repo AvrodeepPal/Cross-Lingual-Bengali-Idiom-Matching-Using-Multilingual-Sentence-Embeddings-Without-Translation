@@ -1,0 +1,37 @@
+{
+  "id": "10136",
+  "idiom": "হাত দেখা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত দেখা (hand seeing)",
+  "figurative_meaning_bn": "নাড়ির গতি পরীক্ষা করা",
+  "figurative_meaning_en": "To check the pulse",
+  "similar_in_english": [
+    "Take someone's pulse",
+    "Feel the pulse"
+  ],
+  "example_sentences_in_bangla": [
+    "ডাক্তার রোগীর হাত দেখে তার অবস্থা বুঝলেন।",
+    "বাড়িতে অসুস্থ হলে প্রথমে হাত দেখানো উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "The doctor checked the patient's pulse to assess his condition.",
+    "When someone falls ill at home, it's best to first check their pulse."
+  ],
+  "usage_domain": [
+    "Medical",
+    "Health"
+  ],
+  "tags": [
+    "পরীক্ষা",
+    "চিকিত্সা",
+    "স্বাস্থ্য"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in both traditional and modern Bengali contexts for pulse diagnosis, rooted in Ayurvedic practices."
+}

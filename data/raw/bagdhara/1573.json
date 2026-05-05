@@ -1,0 +1,38 @@
+{
+  "id": "1573",
+  "idiom": "কবর দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কবর দেওয়া (grave giving or burying)",
+  "figurative_meaning_bn": "বিসর্জন দেওয়া, সম্পূর্ণ পরিত্যাগ করা",
+  "figurative_meaning_en": "to bid farewell, to completely abandon",
+  "similar_in_english": [
+    "to bury the past",
+    "to put to rest"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার অতীতের স্মৃতিকে কবর দিয়েছে।",
+    "আমি এই খারাপ অভ্যাসকে কবর দিলাম।"
+  ],
+  "example_sentences_in_english": [
+    "He has buried his past memories.",
+    "I buried this bad habit."
+  ],
+  "usage_domain": [
+    "personal life",
+    "relationships",
+    "habits"
+  ],
+  "tags": [
+    "abandonment",
+    "farewell",
+    "closure"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the concept of burial as finality, common in Bengali expressions for letting go."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7119",
+  "idiom": "ফাটা কপাল",
+  "alternative_idioms": [
+    "ভাঙা কপাল"
+  ],
+  "literal_meaning": "ফাটা (cracked) কপাল (forehead)",
+  "figurative_meaning_bn": "দুর্ভাগ্য",
+  "figurative_meaning_en": "misfortune or bad luck",
+  "similar_in_english": [
+    "hard luck",
+    "tough break"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ফাটা কপালের জন্য চাকরিটা হারিয়ে গেল।",
+    "আজকের ম্যাচে আমাদের ফাটা কপাল দেখা গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Due to his bad luck, he lost the job.",
+    "Our misfortune was evident in today's match."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "superstition"
+  ],
+  "tags": [
+    "misfortune",
+    "fate",
+    "body part"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from traditional Bengali beliefs where a cracked forehead symbolizes irreversible bad fate, akin to superstitions about omens."
+  ],
+  "note": "The idiom implies misfortune that cannot be easily remedied, reflecting cultural views on destiny."
+}

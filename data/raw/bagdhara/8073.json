@@ -1,0 +1,37 @@
+{
+  "id": "8073",
+  "idiom": "ভিক্ষার চাল কাঁড়া আর আকাঁড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ভিক্ষায় পাওয়া চাল কাঁড়া (ভাঙা) এবং আকাঁড়া (অসমতল বা নিম্নমানের)",
+  "figurative_meaning_bn": "মাগনায় যা পাওয়া যায় তাই লাভ; বিনাপয়সার পাওয়া জিনিসের গুণাগুণ বিচার হয় না; প্রার্থনাদ্বারা লব্ধ দ্রব্যের মান বিচার নিরর্থক; দয়ার দান উৎকৃষ্ট মানের হয় না",
+  "figurative_meaning_en": "What is obtained for free is considered a gain; the quality of items received without payment is not examined; judging the worth of things begged for is futile; gifts from charity are not of high quality",
+  "similar_in_english": [
+    "Beggars can't be choosers"
+  ],
+  "example_sentences_in_bangla": [
+    "ভিক্ষার চাল কাঁড়া আর আকাঁড়া, তাই সে কোনো অভিযোগ না করে খেয়ে নিল।",
+    "জীবনে যখন কিছু পাওয়াই মুশকিল, তখন ভিক্ষার চাল কাঁড়া আর আকাঁড়া বলে মেনে নিতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "Beggars can't be choosers, so he ate the coarse alms rice without complaint.",
+    "When survival is tough, you have to accept the coarse and broken rice of charity."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "poverty and charity"
+  ],
+  "tags": [
+    "poverty",
+    "charity",
+    "acceptance",
+    "humility"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali rural life where alms often consisted of low-quality rice."
+}

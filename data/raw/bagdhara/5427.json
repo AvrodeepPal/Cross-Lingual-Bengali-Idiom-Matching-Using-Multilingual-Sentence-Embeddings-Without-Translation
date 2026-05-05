@@ -1,0 +1,41 @@
+{
+  "id": "5427",
+  "idiom": "তিনশত্রু",
+  "alternative_idioms": [],
+  "literal_meaning": "তিনটি শত্রু",
+  "figurative_meaning_bn": "শত্রুকে তিনটি দ্রব্য দেওয়ার ভাবনা থেকে উৎপন্ন বাগধারা",
+  "figurative_meaning_en": "An idiom originating from the idea of giving three items to an enemy",
+  "similar_in_english": [
+    "aid and abet the enemy",
+    "give the enemy an inch and he'll take a mile"
+  ],
+  "example_sentences_in_bangla": [
+    "কথায় বলে, শত্রুকে তিনশত্রু দিতে নাই, কারণ তা তার শক্তি বাড়িয়ে দেবে।",
+    "এই সিদ্ধান্ত নেওয়ায় সে যেন তিনশত্রু দিয়ে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "As the saying goes, one should not give three items to an enemy, as it would strengthen them.",
+    "By making that decision, he essentially gave three items to his enemy."
+  ],
+  "usage_domain": [
+    "proverbs",
+    "cautionary advice",
+    "interpersonal relations"
+  ],
+  "tags": [
+    "শত্রু",
+    "সতর্কতা",
+    "প্রবাদ",
+    "বিশ্বাসঘাতকতা"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originated from traditional Bengali wisdom advising against providing resources or items to enemies, possibly referring to specific three substances or tools that could be turned against the giver."
+  ],
+  "note": "The specific 'three items' (দ্রব্য) are not detailed in the input, but imply objects that could empower or harm when given to foes."
+}

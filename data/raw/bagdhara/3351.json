@@ -1,0 +1,40 @@
+{
+  "id": "3351",
+  "idiom": "গোরু মেরে জুতো দান",
+  "alternative_idioms": [],
+  "literal_meaning": "গোরু মারা এবং জুতো দান করা",
+  "figurative_meaning_bn": "বড় অপরাধের পর যৎসামান্য ক্ষতি স্বীকার করা",
+  "figurative_meaning_en": "Making a token or minimal acknowledgment of harm after committing a grave offense",
+  "similar_in_english": [
+    "too little, too late",
+    "token gesture"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বড় ভুলের পর গোরু মেরে জুতো দান করে ক্ষমা চাইল।",
+    "প্রতারণার পর তারা গোরু মেরে জুতো দানের মতো ছোটখাটো ক্ষতিপূরণ দিল।"
+  ],
+  "example_sentences_in_english": [
+    "After his major blunder, he sought forgiveness by killing the cow and donating shoes.",
+    "Following the betrayal, they offered a token compensation like killing the cow and donating shoes."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "moral discussions",
+    "everyday ethics"
+  ],
+  "tags": [
+    "atonement",
+    "insufficient compensation",
+    "hypocrisy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from rural Bengali traditions where cows hold high economic and symbolic value, especially in Hindu-influenced culture, making their slaughter a profound loss contrasted with the trivial act of donating shoes."
+  ],
+  "note": "The idiom highlights cultural taboos around cows in Bengali society."
+}

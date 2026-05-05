@@ -1,0 +1,42 @@
+{
+  "id": "5582",
+  "idiom": "থাবা দেওয়া",
+  "alternative_idioms": [
+    "থাবা বসানো",
+    "থাবা মারা"
+  ],
+  "literal_meaning": "প্রাণীর থাবা দিয়ে আঘাত করা বা রাখা",
+  "figurative_meaning_bn": "হস্তক্ষেপ করা",
+  "figurative_meaning_en": "To interfere or meddle in someone's affairs",
+  "similar_in_english": [
+    "Put one's oar in",
+    "Stick one's nose in",
+    "Meddle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার ব্যক্তিগত কাজে থাবা দিচ্ছে।",
+    "এখানে কেউ থাবা বসাতে চাইলে আমি সহ্য করব না।"
+  ],
+  "example_sentences_in_english": [
+    "He's interfering in my personal matters.",
+    "If anyone tries to meddle here, I won't tolerate it."
+  ],
+  "usage_domain": [
+    "Interpersonal conflicts",
+    "Daily conversations",
+    "Warnings"
+  ],
+  "tags": [
+    "Interference",
+    "Animal metaphor",
+    "Negative action"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from animal behavior, implying unwanted intrusion like a beast's paw encroaching on territory."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "8428",
+  "idiom": "মাটি কামড়ে থাকা",
+  "alternative_idioms": [
+    "মাটি কামড় দিয়ে থাকা",
+    "মাটি কামড়ে পরে থাকা"
+  ],
+  "literal_meaning": "মাটি কামড়ে ধরে থাকা (to hold onto the earth/soil by biting it)",
+  "figurative_meaning_bn": "নাছোড়বান্দা হয়ে লেগে থাকা বা স্বস্থানে অটল থাকা; প্রবল বিরুদ্ধতার মধ্যেও অবিচলিত থাকা",
+  "figurative_meaning_en": "To persist tenaciously or remain steadfast in one's position; to stay unwavering even amid strong opposition",
+  "similar_in_english": [
+    "Dig in one's heels",
+    "Stand one's ground",
+    "Hold firm"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার দাবিতে মাটি কামড়ে থাকল, কেউ তাকে সরাতে পারল না।",
+    "কাজে সফল হতে হলে মাটি কামড়ে লেগে থাকতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He dug in his heels on his claim, and no one could budge him.",
+    "To succeed in work, you have to hold on tenaciously like biting the soil."
+  ],
+  "usage_domain": [
+    "persistence",
+    "determination",
+    "conflict resolution"
+  ],
+  "tags": [
+    "steadfastness",
+    "tenacity",
+    "rural imagery"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from rural Bengali imagery of stubbornly clinging to the land, possibly evoking farmers or animals holding ground during struggles, rooted in agrarian lifestyle."
+  ],
+  "note": "Variations reflect dialectical differences in verb forms."
+}

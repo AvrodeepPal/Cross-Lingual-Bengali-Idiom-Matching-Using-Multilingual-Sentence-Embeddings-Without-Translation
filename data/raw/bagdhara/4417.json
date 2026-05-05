@@ -1,0 +1,38 @@
+{
+  "id": "4417",
+  "idiom": "ছোট ছেলে",
+  "alternative_idioms": [],
+  "literal_meaning": "ছোট (small/young) + ছেলে (boy/son)",
+  "figurative_meaning_bn": "কনিষ্ঠ পুত্র",
+  "figurative_meaning_en": "youngest son",
+  "similar_in_english": [
+    "baby of the family",
+    "little brother"
+  ],
+  "example_sentences_in_bangla": [
+    "পরিবারের ছোট ছেলে হিসেবে তাকে সবাই খুব ভালোবাসে।",
+    "গ্রামের ছোট ছেলেরা সকলে একসাথে খেলতে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "As the youngest son of the family, he is loved by everyone.",
+    "The youngest sons of the village all go to play together."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships"
+  ],
+  "tags": [
+    "family",
+    "son",
+    "youngest",
+    "kinship"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a straightforward familial term often used idiomatically to denote the youngest male child in Bengali households."
+}

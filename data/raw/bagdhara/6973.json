@@ -1,0 +1,40 @@
+{
+  "id": "6973",
+  "idiom": "পেটের দায়",
+  "alternative_idioms": [
+    "পেটের জ্বালা"
+  ],
+  "literal_meaning": "পেটের দায় বা জ্বালা (stomach's responsibility or burning)",
+  "figurative_meaning_bn": "অন্নচিন্তা, অন্নাভাব, ক্ষুধার তাড়না",
+  "figurative_meaning_en": "worry about sustenance, lack of food, pangs of hunger",
+  "similar_in_english": [
+    "working on an empty stomach",
+    "hunger pangs"
+  ],
+  "example_sentences_in_bangla": [
+    "পেটের দায়ে সে অনেক কঠিন কাজ করে।",
+    "অন্নাভাবের কারণে পেটের জ্বালায় তার মন খারাপ হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Due to the stomach's need, he does many hard jobs.",
+    "Because of lack of food, the burning in his stomach has made him upset."
+  ],
+  "usage_domain": [
+    "daily life",
+    "poverty",
+    "economy"
+  ],
+  "tags": [
+    "hunger",
+    "necessity",
+    "survival"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the struggles of food scarcity in everyday Bengali life, often linked to rural or working-class experiences."
+}

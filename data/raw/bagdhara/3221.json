@@ -1,0 +1,39 @@
+{
+  "id": "3221",
+  "idiom": "গুজগুজ",
+  "alternative_idioms": [],
+  "literal_meaning": "whispering or murmuring sound",
+  "figurative_meaning_bn": "গোপনে শলাপরামর্শ",
+  "figurative_meaning_en": "secret consultation or whispering conspiracy",
+  "similar_in_english": [
+    "whispering behind one's back",
+    "hatching a plot"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা কোণায় গুজগুজ করে কথা বলছে।",
+    "দু'জন মিলে গুজগুজ শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "They are whispering in the corner.",
+    "The two huddled together and started whispering."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "social interactions",
+    "gossip"
+  ],
+  "tags": [
+    "secret",
+    "whisper",
+    "conspiracy",
+    "gossip"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Common expression for secretive talks in Bengali culture"
+}

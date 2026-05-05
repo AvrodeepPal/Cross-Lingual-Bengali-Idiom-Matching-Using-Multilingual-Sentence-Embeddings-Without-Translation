@@ -1,0 +1,41 @@
+{
+  "id": "8403",
+  "idiom": "মাছরাঙার কলঙ্ক",
+  "alternative_idioms": [],
+  "literal_meaning": "মাছরাঙা পাখির কলঙ্ক বা দাগ",
+  "figurative_meaning_bn": "অনেক পাখি মাছ খায় দোষী বলে পরিচিত হয় শুধু মাছরাঙা",
+  "figurative_meaning_en": "Many birds eat fish, but only the osprey is known or blamed as guilty",
+  "similar_in_english": [
+    "Scapegoat",
+    "Taking the fall for others"
+  ],
+  "example_sentences_in_bangla": [
+    "সবাই চুরি করে কিন্তু মাছরাঙার কলঙ্ক পড়ল শুধু তারই উপর।",
+    "কোম্পানির লসের জন্য মাছরাঙার কলঙ্ক লাগল নতুন কর্মীর কপালে।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone cheats, but the blame fell only on him like the osprey's stigma.",
+    "The company's loss was pinned on the new employee unfairly, like the osprey taking all the blame."
+  ],
+  "usage_domain": [
+    "Criticism",
+    "Unfair blame",
+    "Social commentary"
+  ],
+  "tags": [
+    "পাখি",
+    "দোষারোপ",
+    "অন্যায়",
+    "প্রকৃতি"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "এই প্রবাদটি বাংলার নদীমাতৃক এলাকায় প্রচলিত, যেখানে মাছরাঙা পাখিকে মাছ ধরার জন্য অন্যান্য পাখির থেকে আলাদা করে দোষারোপ করা হয়েছে লোককথায়।"
+  ],
+  "note": "মাছরাঙা (osprey) একটি মাছ ধরার পাখি, যা বাঙালি সংস্কৃতিতে প্রতীকীভাবে অবিচারিত দোষের উদাহরণ।"
+}

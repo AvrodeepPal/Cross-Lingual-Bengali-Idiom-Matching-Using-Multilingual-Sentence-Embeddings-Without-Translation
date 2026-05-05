@@ -1,0 +1,40 @@
+{
+  "id": "2831",
+  "idiom": "গচ্চা",
+  "alternative_idioms": [],
+  "literal_meaning": "অনাবশ্যক জরিমানা বা অর্থদণ্ড (শাব্দিকভাবে 'গচ্চা' একটি অনুকরণমূলক শব্দ যা অস্পষ্ট বা আটকে যাওয়ার ধারণা নির্দেশ করে)",
+  "figurative_meaning_bn": "অকারণ অর্থদণ্ড",
+  "figurative_meaning_en": "Unnecessary or unjustified monetary fine",
+  "similar_in_english": [
+    "Highway robbery",
+    "Shakedown"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ আমাকে গচ্চা দিয়েছে, কোনো ভুল ছিল না।",
+    "এই দোকানদার সবসময় গ্রাহকের কাছে গচ্চা করে।"
+  ],
+  "example_sentences_in_english": [
+    "The police hit me with a gachcha; there was no mistake on my part.",
+    "This shopkeeper always imposes a gachcha on customers."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Legal and traffic contexts",
+    "Colloquial slang"
+  ],
+  "tags": [
+    "fine",
+    "penalty",
+    "unnecessary",
+    "slang",
+    "urban"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is a colloquial term often used in urban Bengali speech to express frustration over arbitrary fines, possibly derived from onomatopoeic sounds of hassle or stickiness in dealings."
+}

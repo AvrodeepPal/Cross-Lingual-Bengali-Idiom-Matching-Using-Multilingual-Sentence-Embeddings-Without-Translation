@@ -1,0 +1,40 @@
+{
+  "id": "8339",
+  "idiom": "মন্দাগ্নি",
+  "alternative_idioms": [],
+  "literal_meaning": "দুর্বল বা মন্দ অগ্নি (weak or slow fire)",
+  "figurative_meaning_bn": "খিদের অভাব; অগ্নিমান্দ্য",
+  "figurative_meaning_en": "Lack of appetite; indigestion",
+  "similar_in_english": [
+    "loss of appetite",
+    "weak stomach"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকাল তার মন্দাগ্নির জন্য খাবার খেতে ইচ্ছে করে না।",
+    "ডাক্তার বলেছেন, এই মন্দাগ্নি দূর করতে হালকা খাবার খাও।"
+  ],
+  "example_sentences_in_english": [
+    "Lately, he has no appetite due to indigestion.",
+    "The doctor said to eat light food to cure this indigestion."
+  ],
+  "usage_domain": [
+    "health",
+    "medicine",
+    "daily life"
+  ],
+  "tags": [
+    "digestion",
+    "ayurveda",
+    "appetite"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Ayurvedic concept of 'Mandagni', referring to impaired digestive fire in traditional Indian medicine."
+  ],
+  "note": "Rooted in traditional Bengali health practices influenced by Ayurveda."
+}

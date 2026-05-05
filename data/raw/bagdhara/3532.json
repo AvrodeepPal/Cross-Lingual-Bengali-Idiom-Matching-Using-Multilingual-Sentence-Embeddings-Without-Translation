@@ -1,0 +1,40 @@
+{
+  "id": "3532",
+  "idiom": "ঘাস কাটা",
+  "alternative_idioms": [
+    "নেই কাজ তো খই ভাজ্"
+  ],
+  "literal_meaning": "ঘাস কাটা (grass cutting)",
+  "figurative_meaning_bn": "বৃথা কাজে সময় নষ্ট করা বা কিছুই না করা; বেকার বসে থাকা",
+  "figurative_meaning_en": "Wasting time on futile tasks or doing nothing at all; sitting idle or unemployed",
+  "similar_in_english": [
+    "twiddling one's thumbs",
+    "killing time"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সারাদিন ঘাস কাটা করে বসে আছে, কোনো কাজই করে না।",
+    "এখন চাকরি না পেয়ে ঘাস কাটা ছাড়া আর কী করবে?"
+  ],
+  "example_sentences_in_english": [
+    "He's been cutting grass all day, doing absolutely nothing productive.",
+    "Without a job, what else can he do but cut grass and idle away?"
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "work and employment"
+  ],
+  "tags": [
+    "idleness",
+    "futility",
+    "unemployment",
+    "laziness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from rural agricultural imagery where cutting grass is a low-effort, unproductive activity symbolizing idleness."
+}

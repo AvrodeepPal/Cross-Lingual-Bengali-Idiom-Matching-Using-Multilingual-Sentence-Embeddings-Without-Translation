@@ -1,0 +1,39 @@
+{
+  "id": "6514",
+  "idiom": "পকেটস্থ করা",
+  "alternative_idioms": [],
+  "literal_meaning": "পকেটে রাখা বা পকেটস্থ করা",
+  "figurative_meaning_bn": "আত্মসাৎ করা",
+  "figurative_meaning_en": "To appropriate or take for oneself, often illicitly",
+  "similar_in_english": [
+    "To pocket",
+    "To line one's pockets"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কোম্পানির অর্থ পকেটস্থ করে ফেলল।",
+    "অফিসের সরঞ্জামগুলো তিনি নিজের পকেটস্থ করেছেন।"
+  ],
+  "example_sentences_in_english": [
+    "He pocketed the company's money.",
+    "She appropriated the office supplies for herself."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Everyday language",
+    "Business"
+  ],
+  "tags": [
+    "appropriation",
+    "theft",
+    "possession",
+    "dishonesty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday colloquial usage in Bengali, often implying subtle embezzlement."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3046",
+  "idiom": "গাঁইগোত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "গ্রাম এবং গোত্র (village and clan/lineage)",
+  "figurative_meaning_bn": "পূর্বপুরুষের গ্রাম ও গোত্রপরিচয়, কুলপরিচয়",
+  "figurative_meaning_en": "Ancestral village and clan identity, family lineage",
+  "similar_in_english": [
+    "family roots",
+    "pedigree",
+    "lineage"
+  ],
+  "example_sentences_in_bangla": [
+    "তার গাঁইগোত্র সম্পর্কে কেউ কিছু জানে না।",
+    "বিয়ের আগে ছেলের গাঁইগোত্র যাচাই করা উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "No one knows anything about his family lineage.",
+    "It's advisable to verify the groom's ancestry before marriage."
+  ],
+  "usage_domain": [
+    "family",
+    "genealogy",
+    "social identity"
+  ],
+  "tags": [
+    "ancestry",
+    "lineage",
+    "rural origin",
+    "traditional identity"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The term 'গোত্র' draws from Hindu traditions, emphasizing clan-based social structures in Bengali culture."
+}

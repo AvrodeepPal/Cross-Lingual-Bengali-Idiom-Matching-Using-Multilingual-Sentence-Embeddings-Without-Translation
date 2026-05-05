@@ -1,0 +1,40 @@
+{
+  "id": "3095",
+  "idiom": "গা ঢাকা দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "শরীর ঢেকে দেওয়া",
+  "figurative_meaning_bn": "আত্মগোপন করা; পালিয়ে যাওয়া; লুকানো; লুকিয়ে চলাফেরা করা",
+  "figurative_meaning_en": "to hide oneself; to flee; to conceal; to move about secretly",
+  "similar_in_english": [
+    "go into hiding",
+    "lie low",
+    "take cover"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশের ভয়ে সে গা ঢাকা দিয়েছে।",
+    "অপরাধীরা সুযোগ পেয়ে গা ঢাকা দিল।"
+  ],
+  "example_sentences_in_english": [
+    "He went into hiding out of fear of the police.",
+    "The criminals took cover when they got the chance."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "crime",
+    "evasion"
+  ],
+  "tags": [
+    "hiding",
+    "escape",
+    "secrecy",
+    "concealment"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in Bengali literature and everyday speech to describe evasion or secrecy, often in contexts of wrongdoing."
+}

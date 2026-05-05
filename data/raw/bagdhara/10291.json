@@ -1,0 +1,41 @@
+{
+  "id": "10291",
+  "idiom": "হালচাল",
+  "alternative_idioms": [
+    "হাল-হকিকৎ"
+  ],
+  "literal_meaning": "হাল (অবস্থা বা অবস্থান) + চাল (চলমান অবস্থা বা পদ্ধতি)",
+  "figurative_meaning_bn": "পারিপার্শ্বিক অবস্থা; বর্তমান পরিস্থিতির রূপরেখা; প্রকৃত অবস্থা",
+  "figurative_meaning_en": "The surrounding situation; the outline of the current circumstances; the actual state of affairs",
+  "similar_in_english": [
+    "State of affairs",
+    "What's going on",
+    "The lay of the land"
+  ],
+  "example_sentences_in_bangla": [
+    "এখানকার হালচাল জানতে চাই।",
+    "শহরের হালচাল বদলে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "I want to know the state of affairs here.",
+    "The state of affairs in the city has changed."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "news and current events",
+    "informal discussions"
+  ],
+  "tags": [
+    "situation",
+    "circumstances",
+    "current state"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "সমার্থক হিসেবে 'হাল-হকিকৎ' ব্যবহৃত হয়, যা আরবি-উর্দু প্রভাবিত।"
+}

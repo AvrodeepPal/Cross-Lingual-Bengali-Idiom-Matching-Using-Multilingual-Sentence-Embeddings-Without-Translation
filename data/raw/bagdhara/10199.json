@@ -1,0 +1,43 @@
+{
+  "id": "10199",
+  "idiom": "হাতীর পাঁচ পা দেখা",
+  "alternative_idioms": [
+    "সাপের পাঁচ পা দেখা"
+  ],
+  "literal_meaning": "হাতির পাঁচটি পা দেখা (elephant's five legs being seen)",
+  "figurative_meaning_bn": "অহঙ্কারে অসম্ভবকে সম্ভব মনে করা",
+  "figurative_meaning_en": "Considering the impossible as possible due to arrogance",
+  "similar_in_english": [
+    "Delusions of grandeur",
+    "Biting off more than one can chew"
+  ],
+  "example_sentences_in_bangla": [
+    "অহঙ্কারে সে হাতীর পাঁচ পা দেখছে, মনে করছে সব সম্ভব।",
+    "এই প্রকল্পটি সম্পূর্ণ অসম্ভব, কিন্তু তার হাতীর পাঁচ পা দেখা হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "Due to his arrogance, he is seeing five legs on an elephant, thinking everything is possible.",
+    "This project is utterly impossible, but he's seeing five legs on an elephant in his hubris."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "proverbial",
+    "literature"
+  ],
+  "tags": [
+    "arrogance",
+    "impossibility",
+    "hubris",
+    "animal metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom derives from the biological fact that elephants have four legs, rendering the sight of five legs impossible, symbolizing delusional thinking induced by excessive pride in Bengali oral traditions."
+  ],
+  "note": "This idiom highlights overconfidence leading to unrealistic perceptions, deeply embedded in everyday Bengali speech."
+}

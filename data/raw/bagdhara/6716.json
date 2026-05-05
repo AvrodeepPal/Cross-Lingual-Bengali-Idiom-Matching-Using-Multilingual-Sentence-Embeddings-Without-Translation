@@ -1,0 +1,38 @@
+{
+  "id": "6716",
+  "idiom": "পাকাবাড়ী",
+  "alternative_idioms": [],
+  "literal_meaning": "ইঁট-পাথরে তৈরী বাড়ী",
+  "figurative_meaning_bn": "স্থায়ী এবং মজবুত বাড়ি",
+  "figurative_meaning_en": "A permanent and sturdy house",
+  "similar_in_english": [
+    "Brick and mortar house",
+    "Pucca house"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা পাকাবাড়ীতে থাকে, কাঁচা ঘরে নয়।",
+    "গ্রামে পাকাবাড়ী বানানোর স্বপ্ন দেখে সবাই।"
+  ],
+  "example_sentences_in_english": [
+    "They live in a pucca house, not a mud one.",
+    "Everyone in the village dreams of building a permanent house."
+  ],
+  "usage_domain": [
+    "Housing",
+    "Daily life",
+    "Architecture"
+  ],
+  "tags": [
+    "স্থায়িত্ব",
+    "বাড়ি",
+    "গ্রামীণ জীবন"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to contrast with 'কাঁচা বাড়ি' in traditional Bengali housing practices."
+}

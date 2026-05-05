@@ -1,0 +1,40 @@
+{
+  "id": "9294",
+  "idiom": "লালবাতি",
+  "alternative_idioms": [],
+  "literal_meaning": "লাল আলো (red light)",
+  "figurative_meaning_bn": "অনুমতি বা অনুমোদন নেই",
+  "figurative_meaning_en": "No permission or approval",
+  "similar_in_english": [
+    "Red light (as in stop or disapproval)",
+    "Give the green light (opposite, meaning approval)"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রকল্পটি লালবাতি পেয়েছে, তাই এগোতে পারবে না।",
+    "সরকারের লালবাতির কারণে ব্যবসা শুরু হল না।"
+  ],
+  "example_sentences_in_english": [
+    "The project received a red light and couldn't proceed.",
+    "Due to the government's red light, the business couldn't start."
+  ],
+  "usage_domain": [
+    "Bureaucracy",
+    "Legal",
+    "Business approvals"
+  ],
+  "tags": [
+    "Disapproval",
+    "Prohibition",
+    "Permission denial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Originated from traffic signal terminology in urban areas, symbolizing 'stop' in modern Bengali usage for bureaucratic rejections."
+  ],
+  "note": "Commonly used in media and official contexts to denote rejection of proposals."
+}

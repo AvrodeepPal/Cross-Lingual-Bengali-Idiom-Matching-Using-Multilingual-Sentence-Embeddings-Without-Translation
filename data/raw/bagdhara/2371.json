@@ -1,0 +1,38 @@
+{
+  "id": "2371",
+  "idiom": "কেস",
+  "alternative_idioms": [],
+  "literal_meaning": "আইনি মামলা বা কেস (legal case)",
+  "figurative_meaning_bn": "মামলা",
+  "figurative_meaning_en": "lawsuit or legal case",
+  "similar_in_english": [
+    "file a case against someone",
+    "bring charges"
+  ],
+  "example_sentences_in_bangla": [
+    "তার নামে একটা কেস ঠুকে দিয়েছি।",
+    "এই ঘটনায় কেস চলছে।"
+  ],
+  "example_sentences_in_english": [
+    "I've filed a case against him.",
+    "There's a case ongoing about this incident."
+  ],
+  "usage_domain": [
+    "legal",
+    "disputes",
+    "everyday conflicts"
+  ],
+  "tags": [
+    "slang",
+    "borrowed word",
+    "modern usage"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is a borrowed English word used idiomatically in Bengali for legal proceedings, common in urban colloquial speech."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "10274",
+  "idiom": "হামদর্দি",
+  "alternative_idioms": [
+    "দর্দী"
+  ],
+  "literal_meaning": "হাম (সম/সাথী) + দর্দি (ব্যথা/কষ্ট) – কষ্ট ভাগ করে নেওয়া",
+  "figurative_meaning_bn": "সমবেদনা",
+  "figurative_meaning_en": "sympathy or compassion",
+  "similar_in_english": [
+    "put yourself in someone's shoes",
+    "feel for someone"
+  ],
+  "example_sentences_in_bangla": [
+    "তার দুঃখে আমার হামদর্দি হয়েছে।",
+    "বন্ধুর সমস্যায় হামদর্দি দেখানো উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "I felt sympathy for him in his sorrow.",
+    "It's important to show compassion to a friend in trouble."
+  ],
+  "usage_domain": [
+    "emotions",
+    "social interactions",
+    "literature"
+  ],
+  "tags": [
+    "sympathy",
+    "compassion",
+    "empathy",
+    "relationship"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Persian/Urdu 'hamdardi', commonly used in Bengali for expressing shared feelings of sorrow."
+}

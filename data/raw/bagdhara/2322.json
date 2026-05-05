@@ -1,0 +1,41 @@
+{
+  "id": "2322",
+  "idiom": "কৃতাঞ্জলিপুট",
+  "alternative_idioms": [],
+  "literal_meaning": "জোড় হাতে বা নমস্কারের ভঙ্গিতে",
+  "figurative_meaning_bn": "জোড়হস্ত",
+  "figurative_meaning_en": "With folded hands (gesture of supplication or respect)",
+  "similar_in_english": [
+    "With folded hands",
+    "Clasped hands in prayer"
+  ],
+  "example_sentences_in_bangla": [
+    "হুজুর, কৃতাঞ্জলিপুটে নিবেদন করি, আমি এই কাজ করিনি।",
+    "তিনি কৃতাঞ্জলিপুটে তার অনুরোধটি উপস্থাপন করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "Sir, with folded hands I submit that I did not do this work.",
+    "He presented his request with folded hands."
+  ],
+  "usage_domain": [
+    "Formal communication",
+    "Respectful plea",
+    "Religious context"
+  ],
+  "tags": [
+    "gesture",
+    "supplication",
+    "respect",
+    "formal"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Sanskrit 'kṛtāñjali', a traditional Indian gesture of reverence used in Hindu rituals and literature."
+  ],
+  "note": "This idiom reflects a formal, deferential posture common in South Asian etiquette."
+}

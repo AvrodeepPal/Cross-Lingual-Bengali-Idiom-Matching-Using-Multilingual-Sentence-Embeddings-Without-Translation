@@ -1,0 +1,42 @@
+{
+  "id": "7936",
+  "idiom": "ব্যাঙের সর্দি",
+  "alternative_idioms": [
+    "কুমিরের কান্না",
+    "সান্নিপাত",
+    "মাছের মায়ের কান্না"
+  ],
+  "literal_meaning": "ব্যাঙের সর্দি (frog's cold or sniffles)",
+  "figurative_meaning_bn": "অসম্ভব ব্যাপার; সহজেই ধরা যায় এমন ভণ্ডামি বা ভান",
+  "figurative_meaning_en": "An impossible event; a fake pretense or show that is easily detectable",
+  "similar_in_english": [
+    "crocodile tears",
+    "when hell freezes over"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কান্না তো ব্যাঙের সর্দি, কেউ বিশ্বাস করে না।",
+    "এটা হওয়া ব্যাঙের সর্দির মতো অসম্ভব।"
+  ],
+  "example_sentences_in_english": [
+    "His crying is just a frog's cold; no one believes it.",
+    "That's as impossible as a frog's cold."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "sarcasm",
+    "everyday conversation"
+  ],
+  "tags": [
+    "fake pretense",
+    "impossibility",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from rural observations of animals, emphasizing insincerity in Bengali folklore."
+}

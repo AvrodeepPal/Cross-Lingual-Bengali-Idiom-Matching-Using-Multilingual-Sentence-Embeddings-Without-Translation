@@ -1,0 +1,39 @@
+{
+  "id": "8337",
+  "idiom": "মন্দ মন্দ",
+  "alternative_idioms": [],
+  "literal_meaning": "মন্দ (ধীর বা মৃদু) এর দ্বিত্ব; শব্দশঃ 'ধীরে ধীরে' বা 'মৃদু মৃদু'",
+  "figurative_meaning_bn": "ধীরগতি ভাবার্থে দ্বিত্ব",
+  "figurative_meaning_en": "Reduplication to indicate slow or gentle pace",
+  "similar_in_english": [
+    "slowly but surely",
+    "nice and easy"
+  ],
+  "example_sentences_in_bangla": [
+    "মন্দ মন্দ বাতাস বইছে।",
+    "তুমি মন্দ মন্দ হাঁটো, তাড়াহুড়ো করো না।"
+  ],
+  "example_sentences_in_english": [
+    "The wind is blowing gently.",
+    "Walk slowly, don't rush."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "descriptive language",
+    "weather descriptions"
+  ],
+  "tags": [
+    "reduplication",
+    "adverb",
+    "slow movement",
+    "gentle pace"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom exemplifies Bengali's use of reduplication for intensification or manner, common in oral traditions."
+}

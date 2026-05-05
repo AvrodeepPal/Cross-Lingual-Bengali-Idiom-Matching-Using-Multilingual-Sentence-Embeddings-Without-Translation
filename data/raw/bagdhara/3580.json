@@ -1,0 +1,42 @@
+{
+  "id": "3580",
+  "idiom": "ঘুরাঘুরি",
+  "alternative_idioms": [
+    "ঘোরাঘুরি"
+  ],
+  "literal_meaning": "ঘুরে বেড়ানোর পুনরাবৃত্তিমূলক শব্দ (reduplicated form of wandering or turning around)",
+  "figurative_meaning_bn": "সহচর শব্দ; অপ্রয়োজনে বারংবার যাতায়াত; ইতস্তত হাঁটাহাঁটি",
+  "figurative_meaning_en": "Reduplicated word; unnecessary repeated travel; wandering here and there",
+  "similar_in_english": [
+    "pacing back and forth",
+    "wandering aimlessly",
+    "roaming around"
+  ],
+  "example_sentences_in_bangla": [
+    "একটু ঘুরাঘুরি করলে শরীর ভালো থাকে।",
+    "বাজারে ঘুরাঘুরি করে সময় কাটাচ্ছিলাম।"
+  ],
+  "example_sentences_in_english": [
+    "A little wandering keeps the body healthy.",
+    "I was passing time by wandering around the market."
+  ],
+  "usage_domain": [
+    "daily life",
+    "health",
+    "leisure"
+  ],
+  "tags": [
+    "reduplication",
+    "informal",
+    "movement",
+    "everyday expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a typical example of Bengali reduplication for emphasis on aimless activity."
+}

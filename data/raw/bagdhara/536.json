@@ -1,0 +1,41 @@
+{
+  "id": "536",
+  "idiom": "আনাচ-কানাচ",
+  "alternative_idioms": [
+    "আনাচে-কানাচে"
+  ],
+  "literal_meaning": "ঘরের নানান কোণ-কোণা বা ছোটখাটো জায়গা (আনা: ছোট ঘর বা কোণ; কানা: কানার জায়গা)",
+  "figurative_meaning_bn": "অস্থানকুস্থান; চারপাশ; জানা-অজানা সবস্থান",
+  "figurative_meaning_en": "Every nook and cranny; all around; known and unknown places",
+  "similar_in_english": [
+    "nooks and crannies",
+    "far and wide",
+    "every inch"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরের আনাচেকানাচে খুঁজে দেখো, কোথাও থাকতে পারে।",
+    "সে আনাচেকানাচে ঘুরে বেড়ায় না, শুধু বাইরে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "Search every nook and cranny of the house; it might be there.",
+    "He doesn't wander in nooks and crannies, he just goes outside."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "searching",
+    "description of places"
+  ],
+  "tags": [
+    "household",
+    "search",
+    "comprehensive"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the intricate, hidden spaces in traditional Bengali homes"
+}

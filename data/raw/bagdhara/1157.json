@@ -1,0 +1,36 @@
+{
+  "id": "1157",
+  "idiom": "একোদিষ্ট",
+  "alternative_idioms": [],
+  "literal_meaning": "একজনের উদ্দেশ্যে নিবেদিত",
+  "figurative_meaning_bn": "অন্যান্যদের বাদ দিয়ে একজনমাত্র মৃতব্যক্তির উদ্দেশে কৃৎ বাৎসরিক শ্রাদ্ধ",
+  "figurative_meaning_en": "Annual shraddha ceremony performed exclusively for one deceased person, excluding others",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "পরিবারের সদস্যরা তার মাতার একোদিষ্ট শ্রাদ্ধ পালন করলেন।",
+    "একোদিষ্ট অনুষ্ঠানে শুধুমাত্র একজনের জন্য প্রার্থনা করা হয়।"
+  ],
+  "example_sentences_in_english": [
+    "The family performed the ekoddishtha shraddha for his mother.",
+    "In the ekoddishtha ceremony, prayers are offered only for one person."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Rituals",
+    "Funeral Rites"
+  ],
+  "tags": [
+    "হিন্দু",
+    "শ্রাদ্ধ",
+    "পূর্বপুরুষ পূজা",
+    "মৃত্যু অনুষ্ঠান"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a specific ritual term rather than a colloquial idiom, rooted in Hindu traditions."
+}

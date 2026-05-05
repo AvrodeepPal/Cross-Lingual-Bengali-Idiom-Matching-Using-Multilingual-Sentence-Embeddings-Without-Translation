@@ -1,0 +1,43 @@
+{
+  "id": "3365",
+  "idiom": "গোলমাল",
+  "alternative_idioms": [
+    "হট্টগোল"
+  ],
+  "literal_meaning": "গোল (হট্টাকার বা উচ্চস্বর) + মাল (অগোছালো বা বিশৃঙ্খলা); সম্মিলিত উচ্চস্বরের বিশৃঙ্খলা",
+  "figurative_meaning_bn": "বহুলোকের মিলিত চিৎকার; কোলাহল",
+  "figurative_meaning_en": "Collective shouting of many people; uproar or commotion",
+  "similar_in_english": [
+    "hubbub",
+    "ruckus",
+    "commotion",
+    "din"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে অনেক গোলমাল হচ্ছে।",
+    "সভায় হঠাৎ গোলমাল শুরু হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "There's a lot of commotion in the market.",
+    "Suddenly, an uproar broke out in the meeting."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing crowds",
+    "social situations"
+  ],
+  "tags": [
+    "noise",
+    "confusion",
+    "crowd",
+    "disorder"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom is widely used in colloquial Bengali to describe noisy gatherings, reflecting urban and market life in Bengal."
+}

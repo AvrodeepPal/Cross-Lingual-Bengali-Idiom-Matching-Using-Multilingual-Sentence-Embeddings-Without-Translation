@@ -1,0 +1,39 @@
+{
+  "id": "196",
+  "idiom": "অন্নজলের নাড়ী কোটা",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্নজলের নাড়ী কাটা (rice water's vein being cut)",
+  "figurative_meaning_bn": "শিশুর ভাতজল খাওয়ার বয়স হওয়া",
+  "figurative_meaning_en": "The child reaching the age to start eating rice gruel",
+  "similar_in_english": [
+    "Starting to cut teeth",
+    "Weaning age"
+  ],
+  "example_sentences_in_bangla": [
+    "বাচ্চাটির অন্নজলের নাড়ী কোটা হয়েছে, এখন সে ভাত খেতে পারবে।",
+    "দিদির ছেলের অন্নজলের নাড়ী কোটা হওয়ায় পরিবারে উৎসবের পরিবেশ।"
+  ],
+  "example_sentences_in_english": [
+    "The baby's rice water vein has been cut; now he can start eating rice.",
+    "With my nephew's weaning milestone, the family is in a festive mood."
+  ],
+  "usage_domain": [
+    "family",
+    "child-rearing",
+    "daily life"
+  ],
+  "tags": [
+    "childhood",
+    "milestone",
+    "traditional food",
+    "bengali culture"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional Bengali practice of introducing semi-solid rice-based food to infants around 6 months."
+}

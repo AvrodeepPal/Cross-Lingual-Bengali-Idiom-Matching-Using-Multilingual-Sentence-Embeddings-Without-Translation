@@ -1,0 +1,40 @@
+{
+  "id": "4692",
+  "idiom": "জুতসই",
+  "alternative_idioms": [
+    "লাগসই"
+  ],
+  "literal_meaning": "জুতোর মতো সই (shoe-fitting or suiting like a shoe)",
+  "figurative_meaning_bn": "উপযুক্ত; ঠিকঠাক; সুবিধাজনক",
+  "figurative_meaning_en": "suitable; appropriate; convenient",
+  "similar_in_english": [
+    "fits like a glove",
+    "just right"
+  ],
+  "example_sentences_in_bangla": [
+    "এই জামাটা আমার জন্য জুতসই নয়।",
+    "খাওয়াটা জুতসই হল না।"
+  ],
+  "example_sentences_in_english": [
+    "This shirt is not suitable for me.",
+    "The meal didn't sit well with me."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "food and diet",
+    "clothing and fit"
+  ],
+  "tags": [
+    "suitability",
+    "appropriateness",
+    "convenience"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from the concept of a shoe fitting well, extended metaphorically to general suitability in Bengali usage."
+}

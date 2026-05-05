@@ -1,0 +1,42 @@
+{
+  "id": "6625",
+  "idiom": "পরপার",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্য পাড় (the other shore)",
+  "figurative_meaning_bn": "মৃত্যুর পরবর্তী অবস্থানস্থল",
+  "figurative_meaning_en": "The abode or realm after death (the afterlife)",
+  "similar_in_english": [
+    "The great beyond",
+    "Crossing the River Jordan",
+    "The other side"
+  ],
+  "example_sentences_in_bangla": [
+    "তার আত্মা পরপারে পৌঁছে গেছে।",
+    "জীবনের যাত্রা শেষ করে সে পরপারের দিকে রওনা হলো।"
+  ],
+  "example_sentences_in_english": [
+    "His soul has reached the other shore.",
+    "Having ended his life's journey, he set off towards the afterlife."
+  ],
+  "usage_domain": [
+    "Death and mourning",
+    "Spirituality",
+    "Literature"
+  ],
+  "tags": [
+    "afterlife",
+    "metaphorical",
+    "poetic",
+    "eulogy"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References in Bengali folk songs and Baul traditions, evoking the metaphorical journey across the river of life to death, often linked to Hindu and Vaishnava concepts of moksha."
+  ],
+  "note": "The provided original meaning includes a garbled poetic excerpt, possibly from a traditional song alluding to Yama (god of death) ferrying the soul."
+}

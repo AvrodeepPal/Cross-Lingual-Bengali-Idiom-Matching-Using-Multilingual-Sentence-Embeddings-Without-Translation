@@ -1,0 +1,38 @@
+{
+  "id": "8817",
+  "idiom": "মুঠোমুঠো",
+  "alternative_idioms": [],
+  "literal_meaning": "মুঠোবহুল (হাতমুঠো ভরে ভরে)",
+  "figurative_meaning_bn": "প্রচুর পরিমাণে",
+  "figurative_meaning_en": "In large quantities",
+  "similar_in_english": [
+    "Hand over fist",
+    "By the handful"
+  ],
+  "example_sentences_in_bangla": [
+    "সে মুঠোমুঠো টাকা উপার্জন করে।",
+    "বাজারে ফল মুঠোমুঠো পাওয়া যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He earns money hand over fist.",
+    "Fruits are available by the handful in the market."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Finance",
+    "Commerce"
+  ],
+  "tags": [
+    "Abundance",
+    "Quantity",
+    "Money"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the imagery of grabbing handfuls, common in agrarian Bengali society."
+}

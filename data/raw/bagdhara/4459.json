@@ -1,0 +1,41 @@
+{
+  "id": "4459",
+  "idiom": "জঠরযন্ত্রণা",
+  "alternative_idioms": [],
+  "literal_meaning": "জঠরে যন্ত্রণা (গর্ভাশয়ের ব্যথা)",
+  "figurative_meaning_bn": "গর্ভধারণের ক্লেশ ও প্রসববেদনা",
+  "figurative_meaning_en": "The suffering of pregnancy and the pain of childbirth",
+  "similar_in_english": [
+    "Labor pains",
+    "Pangs of childbirth"
+  ],
+  "example_sentences_in_bangla": [
+    "মাতৃত্বের জঠরযন্ত্রণা অতুলনীয়।",
+    "তিনি জঠরযন্ত্রণা সহ্য করে সন্তান লাভ করেছেন।"
+  ],
+  "example_sentences_in_english": [
+    "The agony of motherhood is incomparable to the pangs of childbirth.",
+    "She endured the suffering of pregnancy to give birth to her child."
+  ],
+  "usage_domain": [
+    "family",
+    "motherhood",
+    "suffering"
+  ],
+  "tags": [
+    "idiom",
+    "pain",
+    "birth",
+    "literary"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the devotional poetry of Ramprasad Sen, an 18th-century Bengali saint-poet devoted to Goddess Kali, where it symbolizes the repeated pains of birth and rebirth in a spiritual context."
+  ],
+  "note": "This idiom is often used in literary and poetic contexts referencing Ramprasad's works."
+}

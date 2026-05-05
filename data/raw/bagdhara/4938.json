@@ -1,0 +1,38 @@
+{
+  "id": "4938",
+  "idiom": "টিউশনি",
+  "alternative_idioms": [],
+  "literal_meaning": "ব্যক্তিগত শিক্ষাদানের কাজ",
+  "figurative_meaning_bn": "গৃহশিক্ষকতা করা",
+  "figurative_meaning_en": "to engage in private tutoring",
+  "similar_in_english": [
+    "tutoring on the side",
+    "moonlighting as a tutor"
+  ],
+  "example_sentences_in_bangla": [
+    "টিউশনি করে পেট চালাই।",
+    "সে টিউশনি করে অতিরিক্ত আয় করে।"
+  ],
+  "example_sentences_in_english": [
+    "I make ends meet by doing tuition.",
+    "She earns extra income by doing private tutoring."
+  ],
+  "usage_domain": [
+    "education",
+    "livelihood",
+    "daily life"
+  ],
+  "tags": [
+    "colloquial",
+    "education",
+    "employment"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This term is a colloquial adaptation of the English word 'tuition' and reflects the common practice of private tutoring in Bengali-speaking urban communities for supplemental income."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3521",
+  "idiom": "ঘাতঘোত",
+  "alternative_idioms": [
+    "ঘাঁতঘোঁত"
+  ],
+  "literal_meaning": "ঘাত (আঘাত বা ধাক্কা) + ঘোত (প্রভাবের শব্দ)",
+  "figurative_meaning_bn": "ভারী বস্তু পড়ার ঘর্ঘর শব্দ",
+  "figurative_meaning_en": "The sound of a heavy object falling with a dull thud",
+  "similar_in_english": [
+    "thud",
+    "thump"
+  ],
+  "example_sentences_in_bangla": [
+    "সে মাটিতে ঘাতঘোত করে পড়ল।",
+    "বইগুলো ঘাতঘোত শব্দে মেঝেতে পড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He fell to the ground with a thud.",
+    "The books hit the floor with a heavy thud."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "descriptive",
+    "everyday speech"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "sound imitation",
+    "impact description"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression rooted in Bengali phonetic traditions for describing physical impacts."
+}

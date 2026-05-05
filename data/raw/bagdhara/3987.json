@@ -1,0 +1,39 @@
+{
+  "id": "3987",
+  "idiom": "চুরিচামারি",
+  "alternative_idioms": [],
+  "literal_meaning": "চুরি (theft) এবং চামারি (leather work or lowly criminal acts, rhyming compound)",
+  "figurative_meaning_bn": "একার্থক সহচরশব্দ; চুরি ও চুরির মতো অপকর্ম",
+  "figurative_meaning_en": "Synonymous compound; theft and similar criminal acts",
+  "similar_in_english": [
+    "theft and robbery",
+    "crime and misdemeanor"
+  ],
+  "example_sentences_in_bangla": [
+    "দেশে চুরিচামারি অনেক বেড়ে গেছে।",
+    "শহরে চুরিচামারির ঘটনা দৈনন্দিন হয়ে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Theft and robbery have increased a lot in the country.",
+    "Incidents of theft and criminal acts have become daily in the city."
+  ],
+  "usage_domain": [
+    "crime",
+    "society",
+    "daily life"
+  ],
+  "tags": [
+    "theft",
+    "crime",
+    "negative",
+    "rhyming compound"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "A rhyming reduplicative expression common in colloquial Bengali for petty crimes."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "9265",
+  "idiom": "লাজবাব",
+  "alternative_idioms": [],
+  "literal_meaning": "উত্তরহীন (পারসিক উৎস থেকে 'লা-জবাব' অর্থাৎ 'জবাব ছাড়া')",
+  "figurative_meaning_bn": "নিরুত্তর",
+  "figurative_meaning_en": "speechless or without reply",
+  "similar_in_english": [
+    "at a loss for words",
+    "speechless"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বক্তৃতায় সকলে লাজবাব হয়ে গেল।",
+    "এমন প্রশ্নের উত্তর দিতে পারল না, লাজবাব।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone was speechless after his speech.",
+    "He couldn't reply to such a question; he was at a loss for words."
+  ],
+  "usage_domain": [
+    "conversation",
+    "response to surprise"
+  ],
+  "tags": [
+    "speech",
+    "surprise",
+    "unanswerable"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি পারসিক/উর্দু থেকে ধার করা শব্দ, বাংলায় ব্যাপকভাবে ব্যবহৃত।"
+}

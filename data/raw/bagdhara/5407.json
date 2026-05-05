@@ -1,0 +1,40 @@
+{
+  "id": "5407",
+  "idiom": "তালমিল",
+  "alternative_idioms": [],
+  "literal_meaning": "তালের মিল বা ছন্দের সামঞ্জস্য",
+  "figurative_meaning_bn": "কাজে সঙ্গতি, মাত্রার সামঞ্জস্য",
+  "figurative_meaning_en": "Consistency in actions, harmony in proportion or synchronization",
+  "similar_in_english": [
+    "In sync",
+    "In tune",
+    "March to the same beat"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার কথায় ও কাজে কোন তালমিল নেই।",
+    "দুই ভাইয়ের মধ্যে পুরো তালমিল আছে।"
+  ],
+  "example_sentences_in_english": [
+    "There is no harmony between your words and actions.",
+    "There is complete synchronization between the two brothers."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Relationships",
+    "Work and coordination"
+  ],
+  "tags": [
+    "harmony",
+    "consistency",
+    "synchronization",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from musical rhythm, commonly used in colloquial Bengali to denote alignment in behavior or efforts."
+}

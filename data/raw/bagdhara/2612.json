@@ -1,0 +1,42 @@
+{
+  "id": "2612",
+  "idiom": "খাপ পাতা",
+  "alternative_idioms": [
+    "খাপ পেতে থাকা"
+  ],
+  "literal_meaning": "তলোয়ারের খাপ পাতা বা প্রসারিত করা (sword sheath spreading or preparing)",
+  "figurative_meaning_bn": "আক্রমণের জন্য সতর্কতার সহিত প্রতীক্ষা করা",
+  "figurative_meaning_en": "Waiting cautiously for an opportunity to attack",
+  "similar_in_english": [
+    "Lying in wait",
+    "Biding one's time",
+    "Waiting to pounce"
+  ],
+  "example_sentences_in_bangla": [
+    "শত্রুরা খাপ পেতে বসে আছে, কোনো ভুল হলে আক্রমণ করবে।",
+    "বন্যপ্রাণী শিকারীর খাপ পাতা দেখে সতর্ক হয়ে ওঠে।"
+  ],
+  "example_sentences_in_english": [
+    "The enemies are lying in wait, ready to strike at the first mistake.",
+    "The wild animal senses the hunter biding his time and becomes alert."
+  ],
+  "usage_domain": [
+    "military",
+    "hunting",
+    "interpersonal conflict"
+  ],
+  "tags": [
+    "ambush",
+    "caution",
+    "predatory",
+    "waiting"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from traditional weaponry and hunting practices in Bengali rural life."
+}

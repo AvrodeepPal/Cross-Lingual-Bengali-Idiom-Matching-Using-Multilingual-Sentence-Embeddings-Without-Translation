@@ -1,0 +1,39 @@
+{
+  "id": "4899",
+  "idiom": "টাকাওয়ালা",
+  "alternative_idioms": [
+    "টাকার মানুষ"
+  ],
+  "literal_meaning": "টাকার অধিকারী বা টাকার সংশ্লিষ্ট ব্যক্তি",
+  "figurative_meaning_bn": "অর্থশালী ব্যক্তি",
+  "figurative_meaning_en": "Wealthy person",
+  "similar_in_english": [
+    "Moneybags",
+    "Fat cat"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই টাকাওয়ালা লোকটি শহরের সবচেয়ে বড় বাড়িটা কিনে নিয়েছে।",
+    "পাড়ায় নতুন এসেছে একটা টাকার মানুষ, সে সবাইকে সাহায্য করছে।"
+  ],
+  "example_sentences_in_english": [
+    "That moneyed man has bought the biggest house in the city.",
+    "A wealthy person has just moved to the neighborhood and is helping everyone."
+  ],
+  "usage_domain": [
+    "Social status",
+    "Finance"
+  ],
+  "tags": [
+    "Wealth",
+    "Rich",
+    "Money"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali perceptions of wealth and social hierarchy."
+}

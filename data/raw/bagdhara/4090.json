@@ -1,0 +1,42 @@
+{
+  "id": "4090",
+  "idiom": "চোখ লাল করা",
+  "alternative_idioms": [
+    "চোখ দেখানো",
+    "চোখ পাকানো",
+    "চোখ রাঙানো"
+  ],
+  "literal_meaning": "চোখ লাল করে তোলা (eyes to make red)",
+  "figurative_meaning_bn": "রাগ দেখানো",
+  "figurative_meaning_en": "To show anger or glare threateningly",
+  "similar_in_english": [
+    "To glare at someone",
+    "To look daggers"
+  ],
+  "example_sentences_in_bangla": [
+    "সে রাগ করে চোখ লাল করে তাকাল।",
+    "কথায় কথায় চোখ লাল করো না।"
+  ],
+  "example_sentences_in_english": [
+    "He glared at her with red eyes in anger.",
+    "Don't glare like that over a mere argument."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Emotional expression"
+  ],
+  "tags": [
+    "anger",
+    "facial expression",
+    "threat",
+    "emotion"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects common Bengali ways of describing intense anger through physical metaphors."
+}

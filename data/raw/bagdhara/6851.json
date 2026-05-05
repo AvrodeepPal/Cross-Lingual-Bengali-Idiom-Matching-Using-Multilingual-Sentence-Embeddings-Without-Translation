@@ -1,0 +1,38 @@
+{
+  "id": "6851",
+  "idiom": "পায়ের তলায় মাটি সরে যাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পায়ের নিচে মাটি সরে যাওয়া",
+  "figurative_meaning_bn": "নিরাশ্রয় হওয়া; সাহায্য থেকে বঞ্চিত হওয়া; জনসমর্থন হারিয়ে ফেলা",
+  "figurative_meaning_en": "To become destitute; to be deprived of support; to lose public backing",
+  "similar_in_english": [
+    "The ground slipping from under one's feet",
+    "Losing ground"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকারের পায়ের তলায় মাটি সরে যাচ্ছে কারণ জনগণের সমর্থন কমছে।",
+    "ব্যবসায়ের পায়ের তলায় মাটি সরে গেল যখন বাজারে সংকট দেখা দিল।"
+  ],
+  "example_sentences_in_english": [
+    "The government's ground is slipping away as public support wanes.",
+    "The business lost its footing when the market crisis hit."
+  ],
+  "usage_domain": [
+    "politics",
+    "personal hardship",
+    "business"
+  ],
+  "tags": [
+    "instability",
+    "loss of support",
+    "vulnerability"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used metaphorically to describe precarious situations in Bengali discourse."
+}

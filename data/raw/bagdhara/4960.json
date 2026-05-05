@@ -1,0 +1,44 @@
+{
+  "id": "4960",
+  "idiom": "টুঁটি চাপা",
+  "alternative_idioms": [
+    "টুঁটি টেপা"
+  ],
+  "literal_meaning": "নাক বা ঠোঁট চেপে ধরা (pressing the nose or beak)",
+  "figurative_meaning_bn": "মুখ্য- হত্যা করার চেষ্টা করা; গৌণ- কিছু বলতে না দেওয়া; বাকস্বাধীনতা হরণ করা",
+  "figurative_meaning_en": "Primary: Attempt to murder; Secondary: Not allowing someone to speak; Depriving freedom of speech",
+  "similar_in_english": [
+    "To shut someone's mouth",
+    "To gag someone",
+    "To muzzle"
+  ],
+  "example_sentences_in_bangla": [
+    "শত্রুরা তার টুঁটি চেপে হত্যার চেষ্টা করল।",
+    "সরকার বিরোধীদের টুঁটি চেপে তাদের কণ্ঠস্বর দমন করছে।"
+  ],
+  "example_sentences_in_english": [
+    "The enemies tried to press his nose to murder him.",
+    "The government is pressing the noses of the opposition to suppress their voices."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Conflict",
+    "Suppression"
+  ],
+  "tags": [
+    "Violence",
+    "Silencing",
+    "Freedom of speech",
+    "Oppression"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in Kazi Nazrul Islam's poetry, symbolizing the suppression of voices during colonial oppression and revolutionary struggles."
+  ],
+  "note": "The idiom draws from the physical act of pinching to silence or kill, often used metaphorically in literature for censorship."
+}

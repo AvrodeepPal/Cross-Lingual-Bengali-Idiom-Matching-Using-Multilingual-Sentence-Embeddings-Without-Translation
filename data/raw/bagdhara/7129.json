@@ -1,0 +1,39 @@
+{
+  "id": "7129",
+  "idiom": "ফালা-ফালা করা",
+  "alternative_idioms": [],
+  "literal_meaning": "পাতলা-পাতলা ফালি বা টুকরো তৈরি করা",
+  "figurative_meaning_bn": "লম্বা-লম্বা টুকরা করা",
+  "figurative_meaning_en": "To cut into long thin strips",
+  "similar_in_english": [
+    "cut into julienne strips",
+    "slice thinly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আলু ফালা-ফালা করে ভাজির জন্য প্রস্তুত করল।",
+    "কাগজটি ফালা-ফালা করে ছিঁড়ে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "She cut the potatoes into thin strips to prepare for frying.",
+    "He tore the paper into long thin strips."
+  ],
+  "usage_domain": [
+    "cooking",
+    "daily life",
+    "food preparation"
+  ],
+  "tags": [
+    "kitchen",
+    "cutting",
+    "vegetables",
+    "division"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in Bengali household cooking contexts, reflecting everyday culinary practices."
+}

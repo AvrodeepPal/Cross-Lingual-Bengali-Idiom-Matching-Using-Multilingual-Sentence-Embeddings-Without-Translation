@@ -1,0 +1,44 @@
+{
+  "id": "1164",
+  "idiom": "এখন-তখন অবস্থা",
+  "alternative_idioms": [
+    "যখন-তখন অবস্থা",
+    "যায় যায় অবস্থা",
+    "অখন-তখন অবস্থা"
+  ],
+  "literal_meaning": "এখন-তখন অবস্থা (now-then condition, implying fluctuating or uncertain state)",
+  "figurative_meaning_bn": "প্রতিমুহূর্তে মৃত্যুর আশঙ্কা; মরমর; মূমুর্ষু",
+  "figurative_meaning_en": "Fear of death every moment; on the verge of dying; moribund",
+  "similar_in_english": [
+    "Touch and go",
+    "On one's last legs",
+    "Hanging by a thread"
+  ],
+  "example_sentences_in_bangla": [
+    "রোগীর এখন-তখন অবস্থা দেখে সকলে চিন্তিত হয়ে পড়েছে।",
+    "যুদ্ধের সময় সৈনিকেরা এখন-তখন অবস্থায় ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "The patient's touch-and-go condition has everyone worried.",
+    "During the war, the soldiers were in a touch-and-go situation."
+  ],
+  "usage_domain": [
+    "Health",
+    "Medical",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "illness",
+    "death",
+    "uncertainty",
+    "critical condition"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in contexts of severe illness or life-threatening situations in Bengali culture."
+}

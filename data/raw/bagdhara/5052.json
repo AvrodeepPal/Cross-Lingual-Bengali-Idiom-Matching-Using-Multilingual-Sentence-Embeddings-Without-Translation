@@ -1,0 +1,43 @@
+{
+  "id": "5052",
+  "idiom": "ঠাণ্ডা করা/হওয়া",
+  "alternative_idioms": [
+    "ঠাণ্ডা করা",
+    "ঠাণ্ডা হওয়া"
+  ],
+  "literal_meaning": "to make cool / to become cool",
+  "figurative_meaning_bn": "জুড়ানো, ক্রোধ প্রশমিত করা",
+  "figurative_meaning_en": "to soothe, to calm or appease anger",
+  "similar_in_english": [
+    "cool off",
+    "calm down",
+    "blow off steam"
+  ],
+  "example_sentences_in_bangla": [
+    "তার রাগ ঠাণ্ডা করার জন্য আমি একটি উপহার দিলাম।",
+    "একটু সময় দাও, মন ঠাণ্ডা হয়ে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "I gave him a gift to cool down his anger.",
+    "Give it some time, and your mind will calm down."
+  ],
+  "usage_domain": [
+    "emotions",
+    "conflict resolution",
+    "daily conversation"
+  ],
+  "tags": [
+    "anger",
+    "calm",
+    "pacify",
+    "soothe"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the physical sensation of cooling to metaphorically describe emotional relief, common in Bengali expressive language."
+}

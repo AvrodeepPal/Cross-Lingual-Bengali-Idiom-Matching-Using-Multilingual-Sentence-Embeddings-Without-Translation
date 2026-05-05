@@ -1,0 +1,41 @@
+{
+  "id": "2835",
+  "idiom": "গজকচ্ছপ",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতি এবং কচ্ছপ (elephant and tortoise)",
+  "figurative_meaning_bn": "দুই বলশালী, স্থূলকায় ও প্রবল প্রতিদ্বন্দ্বী/প্রতিপক্ষ",
+  "figurative_meaning_en": "Two powerful, stout-bodied and formidable rivals or opponents",
+  "similar_in_english": [
+    "Clash of the titans",
+    "David and Goliath (for unequal rivalry)"
+  ],
+  "example_sentences_in_bangla": [
+    "রাজনীতিতে দুই দল গজকচ্ছপের মতো লড়াই করছে।",
+    "ব্যবসায়িক প্রতিযোগিতায় তারা গজকচ্ছপের সমান শক্তিশালী প্রতিপক্ষ।"
+  ],
+  "example_sentences_in_english": [
+    "In politics, the two parties are fighting like an elephant and a tortoise.",
+    "In business competition, they are formidable rivals akin to an elephant and a tortoise."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Sports",
+    "Business rivalry"
+  ],
+  "tags": [
+    "rivalry",
+    "animals",
+    "conflict",
+    "strength"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from folklore tales depicting the fierce battle between an elephant and a tortoise, symbolizing intense rivalry between unlikely strong opponents, possibly inspired by ancient Indian fables like those in Panchatantra."
+  ],
+  "note": "The idiom highlights the unexpected intensity of conflict between two powerful entities of different natures."
+}

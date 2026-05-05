@@ -1,0 +1,41 @@
+{
+  "id": "340",
+  "idiom": "আকছার",
+  "alternative_idioms": [
+    "আকচার"
+  ],
+  "literal_meaning": "অনুকরণমূলক শব্দ যা ঘন ঘন ঘটনার শব্দানুকরণ করে (onomatopoeic expression mimicking frequent occurrences)",
+  "figurative_meaning_bn": "প্রায়ই; সর্বদা",
+  "figurative_meaning_en": "frequently; always",
+  "similar_in_english": [
+    "all the time",
+    "day in and day out",
+    "time and again"
+  ],
+  "example_sentences_in_bangla": [
+    "ভাইয়েরা আকছার মারামারি করে।",
+    "সে আকছার দেরি করে কাজে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "Brothers fight frequently among themselves.",
+    "He is always late to work."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "daily conversations",
+    "family matters"
+  ],
+  "tags": [
+    "adverbial idiom",
+    "frequency expression",
+    "spoken Bengali"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a variant form used in informal Bengali to emphasize repetition; no specific historical origin documented."
+}

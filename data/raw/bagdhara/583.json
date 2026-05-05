@@ -1,0 +1,40 @@
+{
+  "id": "583",
+  "idiom": "আমল দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "আমল (মনোযোগ বা গুরুত্ব) দেওয়া",
+  "figurative_meaning_bn": "কর্ণপাত করা; গুরুত্ব/পাত্তা/প্রশ্রয় দেওয়া; গ্রাহ্য করা",
+  "figurative_meaning_en": "to pay attention; to give importance/notice/indulgence; to take into account",
+  "similar_in_english": [
+    "pay heed",
+    "take notice",
+    "lend an ear"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পরামর্শে আমল দাও।",
+    "সরকারের নির্দেশে আমল দেওয়া উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "Pay attention to his advice.",
+    "It is proper to pay heed to the government's instructions."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "advice",
+    "formal instructions"
+  ],
+  "tags": [
+    "attention",
+    "heed",
+    "importance",
+    "regard"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom is commonly used in both positive and negative contexts, often advising against indiscriminate attention."
+}

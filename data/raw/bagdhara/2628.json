@@ -1,0 +1,39 @@
+{
+  "id": "2628",
+  "idiom": "খালিখালি",
+  "alternative_idioms": [],
+  "literal_meaning": "খালি (empty) এর দ্বিত্বশব্দ (re duplication of empty)",
+  "figurative_meaning_bn": "প্রায় ফাঁকা বা শূন্যতাভাবব্যঞ্জক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "A reduplicated expression suggesting a sense of near-emptiness or void",
+  "similar_in_english": [
+    "feels hollow",
+    "echoes with emptiness"
+  ],
+  "example_sentences_in_bangla": [
+    "বাড়িটা খালিখালি লাগছে।",
+    "মনটা খালিখালি হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The house feels so empty and hollow.",
+    "My heart feels empty and void."
+  ],
+  "usage_domain": [
+    "emotions",
+    "descriptive",
+    "everyday conversation"
+  ],
+  "tags": [
+    "reduplication",
+    "emptiness",
+    "feeling",
+    "spatial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a common reduplicative idiom in colloquial Bengali to emphasize a pervasive sense of emptiness."
+}

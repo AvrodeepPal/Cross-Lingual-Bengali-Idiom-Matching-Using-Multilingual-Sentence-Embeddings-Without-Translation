@@ -1,0 +1,38 @@
+{
+  "id": "6561",
+  "idiom": "পণ্ডিতি",
+  "alternative_idioms": [],
+  "literal_meaning": "পণ্ডিতের জ্ঞান বা পাণ্ডিত্য",
+  "figurative_meaning_bn": "ব্যঙ্গে পাণ্ডিত্য",
+  "figurative_meaning_en": "Sarcastic reference to excessive or fruitless scholarship",
+  "similar_in_english": [
+    "A little learning is a dangerous thing",
+    "Ivory tower intellectualism"
+  ],
+  "example_sentences_in_bangla": [
+    "সে শুধু পণ্ডিতি করে, কোনো কাজের কথা বলে না।",
+    "এই পণ্ডিতি করে কী লাভ? বাস্তব জীবনের সাথে মিলছে না।"
+  ],
+  "example_sentences_in_english": [
+    "He just shows off his pedantry without saying anything useful.",
+    "What's the point of all this scholarship? It doesn't connect with real life."
+  ],
+  "usage_domain": [
+    "education",
+    "conversation",
+    "literature"
+  ],
+  "tags": [
+    "sarcasm",
+    "criticism",
+    "intellectualism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to mocking overly theoretical or unproductive knowledge in Bengali discourse"
+}

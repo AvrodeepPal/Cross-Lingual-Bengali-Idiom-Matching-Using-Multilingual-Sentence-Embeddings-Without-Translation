@@ -1,0 +1,37 @@
+{
+  "id": "1284",
+  "idiom": "ওস্তাদি",
+  "alternative_idioms": [],
+  "literal_meaning": "দক্ষতা প্রদর্শন বা ওস্তাদপনা",
+  "figurative_meaning_bn": "নিন্দার্থে উপর চালাকি, চালবাজী",
+  "figurative_meaning_en": "In a derogatory sense, excessive cleverness or trickery",
+  "similar_in_english": [
+    "too clever by half",
+    "smart aleck"
+  ],
+  "example_sentences_in_bangla": [
+    "বেশি ওস্তাদি করিস না, একদিন ধরা পড়ে যাবি।",
+    "সে ওস্তাদি করে সবাইকে ঠকাতে চায়।"
+  ],
+  "example_sentences_in_english": [
+    "Don't show too much ostadi, you'll get caught one day.",
+    "He tries to trick everyone with his ostadi."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "warnings"
+  ],
+  "tags": [
+    "negative",
+    "cleverness",
+    "trickery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom warns against overconfidence in cunning behavior, common in Bengali oral traditions."
+}

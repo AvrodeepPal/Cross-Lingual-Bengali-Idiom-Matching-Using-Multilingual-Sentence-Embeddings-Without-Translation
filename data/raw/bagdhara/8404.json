@@ -1,0 +1,38 @@
+{
+  "id": "8404",
+  "idiom": "মাছরাঙার কলঙ্ক",
+  "alternative_idioms": [],
+  "literal_meaning": "মাছরাঙা পাখির কলঙ্ক বা দাগ",
+  "figurative_meaning_bn": "দোষ অনেকেই করে কিন্তু দোষী বলে পরিচিত হয় বিশেষব্যক্তি; সকলের অপরাধ উপেক্ষা করে একজনকে অপরাধী সাব্যস্ত করা",
+  "figurative_meaning_en": "Many people commit faults, but a particular person becomes known as the guilty one; ignoring everyone's crimes and declaring one person as the criminal",
+  "similar_in_english": [
+    "scapegoat",
+    "take the fall for others"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রকল্পে সকলের ভুল হয়েছে, কিন্তু মাছরাঙার কলঙ্ক হলো শুধু ম্যানেজারকে।",
+    "এই দুর্ঘটনায় সবাই দায়ী, তবু মাছরাঙার কলঙ্ক পড়ল একজনের উপর।"
+  ],
+  "example_sentences_in_english": [
+    "In the project, everyone made mistakes, but the manager bears the stigma like the fish eagle's blemish.",
+    "Everyone was responsible for the accident, yet the blame fell solely on one person as the fish eagle's stigma."
+  ],
+  "usage_domain": [
+    "social",
+    "justice",
+    "blame"
+  ],
+  "tags": [
+    "scapegoat",
+    "injustice",
+    "fault attribution"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the imagery of the fish eagle (মাছরাঙা), a bird often seen as solitary and marked, symbolizing undeserved blame in Bengali folklore."
+}

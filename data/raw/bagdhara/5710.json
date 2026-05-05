@@ -1,0 +1,37 @@
+{
+  "id": "5710",
+  "idiom": "দশগুণ",
+  "alternative_idioms": [],
+  "literal_meaning": "দশ বারগুণ বা দশগুণ",
+  "figurative_meaning_bn": "বহুগুণ",
+  "figurative_meaning_en": "many times over or manifold",
+  "similar_in_english": [
+    "tenfold",
+    "a hundred times more"
+  ],
+  "example_sentences_in_bangla": [
+    "একটা সত্য কথা বললে দশগুণ মিথ্যা বলা হয়েছে।",
+    "তার কাজের ফল দশগুণ বেড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "For one truth spoken, ten lies are told.",
+    "The results of his work have increased tenfold."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "exaggeration"
+  ],
+  "tags": [
+    "quantity",
+    "multiplication",
+    "hyperbole"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to emphasize exaggeration or significant increase in quantity."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3052",
+  "idiom": "গাঁজাখুরি",
+  "alternative_idioms": [],
+  "literal_meaning": "গাঁজার খুরি (গাঁজার একটি ছোট পরিমাণ)",
+  "figurative_meaning_bn": "অবিশ্বাস্য, অলীক কল্পনা",
+  "figurative_meaning_en": "Unbelievable, imaginary fantasy",
+  "similar_in_english": [
+    "tall tale",
+    "cock and bull story",
+    "fish story"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বলা গল্পটা পুরো গাঁজাখুরি।",
+    "এসব গাঁজাখুরি কথা কেউ বিশ্বাস করবে না।"
+  ],
+  "example_sentences_in_english": [
+    "His story is nothing but a tall tale.",
+    "Nobody will believe such cock and bull stories."
+  ],
+  "usage_domain": [
+    "conversational",
+    "storytelling",
+    "disbelief expression"
+  ],
+  "tags": [
+    "idiom",
+    "disbelief",
+    "fantasy",
+    "slang"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom originates from the hallucinatory effects of ganja (cannabis), implying stories as unreal as drug-induced visions in rural Bengali folklore."
+  ],
+  "note": "Often used to dismiss implausible narratives in everyday speech."
+}

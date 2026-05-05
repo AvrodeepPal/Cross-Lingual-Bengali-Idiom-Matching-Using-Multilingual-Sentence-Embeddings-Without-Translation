@@ -1,0 +1,45 @@
+{
+  "id": "13",
+  "idiom": "অকালপক্ব",
+  "alternative_idioms": [
+    "ইঁচড়ে পাকা",
+    "এঁচোড়ে পাকা"
+  ],
+  "literal_meaning": "অকালে পাকা (untimely ripe)",
+  "figurative_meaning_bn": "ডেঁপো; বয়সের তুলনায় বেশি পাকা; বালকবয়সে বড়দের মতো আচরণকারী",
+  "figurative_meaning_en": "Precocious; mature beyond one's years; someone who behaves like an adult during childhood",
+  "similar_in_english": [
+    "Wise beyond one's years",
+    "Old soul",
+    "Prematurely developed"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অকালপক্ব ছেলে, তার বয়সের তুলনায় অনেক বেশি পরিণত চিন্তাভাবনা করে।",
+    "অকালপক্বতার কারণে মেয়েটি বন্ধুদের থেকে আলাদা হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a precocious boy, thinking much more maturely than his age suggests.",
+    "Due to her precociousness, the girl stands out from her peers."
+  ],
+  "usage_domain": [
+    "Literature",
+    "Everyday conversation",
+    "Child psychology"
+  ],
+  "tags": [
+    "maturity",
+    "childhood",
+    "behavior",
+    "literary"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced by Rabindranath Tagore in his works, where he contrasts it with 'অকাল-অপক্ব' to describe immature precocity."
+  ],
+  "note": "The idiom draws from agricultural metaphors common in Bengali culture, implying fruits ripening out of season."
+}

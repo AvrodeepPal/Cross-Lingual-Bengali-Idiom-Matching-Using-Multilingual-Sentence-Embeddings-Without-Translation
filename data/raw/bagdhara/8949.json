@@ -1,0 +1,38 @@
+{
+  "id": "8949",
+  "idiom": "যাই যাই",
+  "alternative_idioms": [],
+  "literal_meaning": "যাওয়ার পুনরাবৃত্তি (go go)",
+  "figurative_meaning_bn": "যাবার উপক্রম",
+  "figurative_meaning_en": "on the verge of leaving or repeatedly claiming to depart without action",
+  "similar_in_english": [
+    "all talk and no action",
+    "put up or shut up"
+  ],
+  "example_sentences_in_bangla": [
+    "সে যাই যাই করে বসে আছে, কিন্তু এক পা বাড়ায়নি।",
+    "যাই যাই বলে সময় নষ্ট করো না, চলো বের হওয়া যাক।"
+  ],
+  "example_sentences_in_english": [
+    "He's just saying 'I'm going' but hasn't moved an inch.",
+    "Don't keep saying 'I'm leaving' and waste time; let's go already."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "impatience in departure"
+  ],
+  "tags": [
+    "hesitation",
+    "procrastination",
+    "colloquial",
+    "spoken language"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to express frustration with someone delaying their exit"
+}

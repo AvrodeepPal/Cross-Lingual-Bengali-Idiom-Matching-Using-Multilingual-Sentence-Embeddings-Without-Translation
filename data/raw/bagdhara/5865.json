@@ -1,0 +1,40 @@
+{
+  "id": "5865",
+  "idiom": "দুড়দাড়",
+  "alternative_idioms": [],
+  "literal_meaning": "অনুকরণমূলক শব্দ যা দ্রুত ও জোরালো গতির শব্দ প্রকাশ করে (onomatopoeic sound of rushing or thudding)",
+  "figurative_meaning_bn": "অতি দ্রুত ও জোর শব্দ",
+  "figurative_meaning_en": "with great speed and loud noise",
+  "similar_in_english": [
+    "in a rush",
+    "with a bang",
+    "pell-mell"
+  ],
+  "example_sentences_in_bangla": [
+    "দুড়দাড় করে ওপর থেকে নেমে এলো।",
+    "ভয়ে লোকেরা দুড়দাড় করে দরজা জানালা বন্ধ করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He came down from above with a great thud and rush.",
+    "In fear, people are hurriedly closing doors and windows with loud noises."
+  ],
+  "usage_domain": [
+    "descriptive narrative",
+    "everyday speech",
+    "literature"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "sound effect",
+    "hurry",
+    "noise"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is primarily an onomatopoeic expression used to vividly describe hasty or noisy movements in Bengali folklore and daily conversation."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2050",
+  "idiom": "কানে লাগা",
+  "alternative_idioms": [
+    "কানে বাজা"
+  ],
+  "literal_meaning": "কানে স্পর্শ করা বা লাগা (to touch or sting the ear)",
+  "figurative_meaning_bn": "কানে কঠোর মনে হওয়া; শ্রুতিকটু মনে হওয়া",
+  "figurative_meaning_en": "To sound harsh or unpleasant to the ears",
+  "similar_in_english": [
+    "Grating on the ears",
+    "Harsh on the ears",
+    "Nails on a chalkboard"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কণ্ঠস্বর কানে লাগে, শুনতে খুবই অস্বস্তিকর।",
+    "এই শব্দটা কানে লাগছে, একটু নরম করে বলো।"
+  ],
+  "example_sentences_in_english": [
+    "His voice grates on my ears; it's so uncomfortable to listen to.",
+    "This noise is stinging my ears; please turn it down."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism",
+    "Auditory descriptions"
+  ],
+  "tags": [
+    "auditory",
+    "negative",
+    "sound",
+    "unpleasant"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in spoken Bengali to describe displeasing sounds or words."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3161",
+  "idiom": "গায়ে থুথু দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "শরীরে থুতু ফেলা",
+  "figurative_meaning_bn": "ঘৃণা করা, ধিক্কার দেওয়া, নিন্দা করা",
+  "figurative_meaning_en": "to express contempt, to condemn, to denounce harshly",
+  "similar_in_english": [
+    "to spit on someone",
+    "to pour scorn on",
+    "to hold in contempt"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার ব্যবহারে সবাই গায়ে থুথু দিচ্ছে।",
+    "আমার প্রস্তাবের জন্য তারা গায়ে থুথু দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone is spitting on you for your behavior.",
+    "They spat on my proposal in disgust."
+  ],
+  "usage_domain": [
+    "social",
+    "emotional",
+    "criticism"
+  ],
+  "tags": [
+    "contempt",
+    "disgust",
+    "condemnation",
+    "disdain"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures the cultural aversion to public shaming through a taboo act like spitting."
+}

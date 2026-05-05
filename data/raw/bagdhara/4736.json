@@ -1,0 +1,39 @@
+{
+  "id": "4736",
+  "idiom": "জৌহুকুম",
+  "alternative_idioms": [],
+  "literal_meaning": "যে আজ্ঞা",
+  "figurative_meaning_bn": "তোষামোদকারী",
+  "figurative_meaning_en": "flattering or sycophantic",
+  "similar_in_english": [
+    "At your command",
+    "Yes, master"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি সবসময় বসের জৌহুকুম করে থাকেন।",
+    "জৌহুকুম করে কাজ পাবেন ভেবো না।"
+  ],
+  "example_sentences_in_english": [
+    "He is always flattering the boss with 'jo hukum'.",
+    "Don't think you'll get the job by being a sycophant."
+  ],
+  "usage_domain": [
+    "conversation",
+    "workplace"
+  ],
+  "tags": [
+    "flattery",
+    "sarcasm",
+    "persian_origin"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Persian 'jo hukum' meaning 'as per order', commonly used during Mughal influence in Bengal to denote subservience or flattery."
+  ],
+  "note": "Often used sarcastically in modern Bengali speech."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2648",
+  "idiom": "খিটকেল",
+  "alternative_idioms": [
+    "খিটকাল"
+  ],
+  "literal_meaning": "খিট (ঝগড়া বা বিবাদ) + কেল (বিঘ্ন বা জটিলতা)",
+  "figurative_meaning_bn": "ঝঞ্ঝাট, বাধা, বিঘ্ন, বিবাদ",
+  "figurative_meaning_en": "hassle, obstacle, hindrance, dispute",
+  "similar_in_english": [
+    "a snag",
+    "a hitch",
+    "fly in the ointment"
+  ],
+  "example_sentences_in_bangla": [
+    "চাকুরীস্থলে নানা খিটকেল বেঁধেছে।",
+    "প্রকল্পটি শুরু করতে গিয়ে অনেক খিটকেল দেখা দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "There are many hassles at the workplace.",
+    "The project faced numerous obstacles right from the start."
+  ],
+  "usage_domain": [
+    "workplace",
+    "daily life",
+    "projects"
+  ],
+  "tags": [
+    "trouble",
+    "obstacle",
+    "conflict"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom is commonly used in colloquial Bengali to describe minor conflicts or complications."
+}

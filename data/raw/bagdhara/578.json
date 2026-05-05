@@ -1,0 +1,41 @@
+{
+  "id": "578",
+  "idiom": "আমড়াগাছি করা",
+  "alternative_idioms": [
+    "আমড়াগাছি গেছে করা"
+  ],
+  "literal_meaning": "আমড়া (অপক্ব আম) গাছি (গাছের সাথে সম্পর্কিত কাজ, যেমন চড়া বা তোলা) করা",
+  "figurative_meaning_bn": "অযথা প্রশংসা করা; চাটুবোক্যে ভুলানো, বিশেষ উদ্দেশ্যসাধনের জন্য তোষামোদ করা, স্তুতি করা",
+  "figurative_meaning_en": "To praise unnecessarily; to deceive with flattery, to appease or eulogize for a specific purpose",
+  "similar_in_english": [
+    "butter someone up",
+    "brown-nose",
+    "apple-polish"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বসের আমড়াগাছি করে প্রমোশন পেয়েছে।",
+    "পলিটিক্সে সফল হতে হলে আমড়াগাছি করতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He got the promotion by buttering up the boss.",
+    "In politics, you have to brown-nose to succeed."
+  ],
+  "usage_domain": [
+    "workplace",
+    "politics",
+    "social interactions"
+  ],
+  "tags": [
+    "flattery",
+    "sycophancy",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from rural imagery of climbing mango trees for unripe fruit, symbolizing desperate or insincere efforts to gain favor."
+}

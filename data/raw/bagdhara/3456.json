@@ -1,0 +1,37 @@
+{
+  "id": "3456",
+  "idiom": "ঘরে থাকা",
+  "alternative_idioms": [],
+  "literal_meaning": "গৃহে উপস্থিত থাকা",
+  "figurative_meaning_bn": "গৃহে উপস্থিত থাকা",
+  "figurative_meaning_en": "Being present at home",
+  "similar_in_english": [
+    "Stay at home",
+    "Be home"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ সে ঘরে থাকবে না, বাইরে যাবে।",
+    "বাচ্চারা স্কুলে গেছে, আমি একা ঘরে থাকব।"
+  ],
+  "example_sentences_in_english": [
+    "Today he won't stay at home; he'll go out.",
+    "The children have gone to school, I'll be alone at home."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Family life"
+  ],
+  "tags": [
+    "home",
+    "presence",
+    "daily routine"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This expression is straightforward and commonly used in Bengali for literal presence at home, with minimal figurative extension."
+}

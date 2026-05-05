@@ -1,0 +1,40 @@
+{
+  "id": "5673",
+  "idiom": "দমে ভারী",
+  "alternative_idioms": [],
+  "literal_meaning": "বাষ্পে ভারী (দম বা বাষ্পে ভারী হওয়া)",
+  "figurative_meaning_bn": "যা সিদ্ধ হতে বেশি সময় লাগে",
+  "figurative_meaning_en": "Something that takes a long time to cook or complete",
+  "similar_in_english": [
+    "A watched pot never boils",
+    "Slow burn"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বইটি লিখতে দমে ভারী লাগছে।",
+    "পুরানো চাল দমে ভারী, তাই ধৈর্য ধরো।"
+  ],
+  "example_sentences_in_english": [
+    "Writing this book feels like old rice in steam; it's taking forever.",
+    "Be patient; this task is heavy in steam and will take time."
+  ],
+  "usage_domain": [
+    "Cooking",
+    "Daily life",
+    "Metaphors for patience"
+  ],
+  "tags": [
+    "Time-consuming",
+    "Traditional cooking",
+    "Patience"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from traditional Bengali cooking practices where old or dry rice takes longer to soften when steamed or pressure-cooked, symbolizing any prolonged process."
+  ],
+  "note": "Often used in contexts involving food preparation in rural or semi-urban Bengali households."
+}

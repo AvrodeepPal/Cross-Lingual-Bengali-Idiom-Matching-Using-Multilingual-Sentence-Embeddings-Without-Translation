@@ -1,0 +1,43 @@
+{
+  "id": "4095",
+  "idiom": "চোখাচোখা",
+  "alternative_idioms": [
+    "কাটকাট",
+    "কাটাকাটা"
+  ],
+  "literal_meaning": "চোখা (তীক্ষ্ণ বা ধারালো) শব্দের দ্বিত্বপদী রূপ",
+  "figurative_meaning_bn": "তীব্রতা বা তীক্ষ্ণতা ব্যঞ্জক; মর্মভেদী",
+  "figurative_meaning_en": "Indicating intensity or sharpness; poignant or piercing to the core",
+  "similar_in_english": [
+    "cutting remarks",
+    "stinging words",
+    "biting sarcasm"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চোখাচোখা সমালোচনা সকলকে বিব্রত করে তুলল।",
+    "চোখাচোখা কথা বলে সে প্রত্যেকের মনে দাগ কাটে।"
+  ],
+  "example_sentences_in_english": [
+    "Her sharp criticism made everyone uncomfortable.",
+    "He leaves a mark on everyone's mind with his poignant words."
+  ],
+  "usage_domain": [
+    "conversation",
+    "literature",
+    "rhetoric"
+  ],
+  "tags": [
+    "sharpness",
+    "intensity",
+    "poignancy",
+    "criticism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a reduplicative form emphasizing verbal acuity in Bengali expressive tradition."
+}

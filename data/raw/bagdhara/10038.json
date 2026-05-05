@@ -1,0 +1,41 @@
+{
+  "id": "10038",
+  "idiom": "হাড্ডিসার",
+  "alternative_idioms": [
+    "কঙ্কালসার",
+    "হাড়-জিরজিরে"
+  ],
+  "literal_meaning": "হাড়ের সার (bone essence, implying pure bones without flesh)",
+  "figurative_meaning_bn": "অতিশয় শীর্ণ",
+  "figurative_meaning_en": "Extremely thin or emaciated",
+  "similar_in_english": [
+    "Skin and bones",
+    "Bag of bones"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দুর্ভিক্ষের কারণে হাড্ডিসার হয়ে গেছে।",
+    "গরিব লোকটি খাবারের অভাবে হাড্ডিসার অবস্থায় পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has become skin and bones due to famine.",
+    "The poor man is emaciated from lack of food."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Health and body description"
+  ],
+  "tags": [
+    "thinness",
+    "emaciation",
+    "physical appearance",
+    "poverty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly describes severe thinness, often linked to hardship in Bengali folklore and everyday rural life."
+}

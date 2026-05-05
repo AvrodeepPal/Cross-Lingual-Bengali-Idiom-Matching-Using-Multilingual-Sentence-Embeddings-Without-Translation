@@ -1,0 +1,37 @@
+{
+  "id": "6109",
+  "idiom": "ধূলাবালি",
+  "alternative_idioms": [],
+  "literal_meaning": "ধুলো এবং বালি",
+  "figurative_meaning_bn": "অকিঞ্চিৎকর পদার্থ",
+  "figurative_meaning_en": "insignificant or worthless substance",
+  "similar_in_english": [
+    "small potatoes",
+    "not worth a dime"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পুরনো বইটি এখন ধূলাবালি হয়ে গেছে।",
+    "তার প্রতিশ্রুতি শুধু ধূলাবালি।"
+  ],
+  "example_sentences_in_english": [
+    "This old book has become mere dust and sand.",
+    "His promises are just worthless dust."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing triviality"
+  ],
+  "tags": [
+    "figurative",
+    "negative",
+    "trivial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to something as inconsequential as dust particles in daily Bengali speech."
+}

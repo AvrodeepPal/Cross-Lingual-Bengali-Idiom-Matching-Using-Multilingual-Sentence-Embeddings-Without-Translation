@@ -1,0 +1,40 @@
+{
+  "id": "4867",
+  "idiom": "টঙটঙ করা",
+  "alternative_idioms": [
+    "টংটং করা",
+    "ট্যাঙ্‌ট্যাঙ করা"
+  ],
+  "literal_meaning": "টঙটঙ শব্দ করে চলা (অনুকরণমূলক শব্দ যা পদচারণার ধ্বনি নির্দেশ করে)",
+  "figurative_meaning_bn": "লক্ষহীনভাবে নিরলস পদচারণা করা",
+  "figurative_meaning_en": "To wander aimlessly and tirelessly",
+  "similar_in_english": [
+    "to roam about",
+    "to pace restlessly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সারাদিন টঙটঙ করে ঘুরে বেড়াল।",
+    "কোথায় টঙটঙ করে ঘুরছো?"
+  ],
+  "example_sentences_in_english": [
+    "He wandered aimlessly all day long.",
+    "Where are you roaming about without any purpose?"
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "movement and behavior"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "aimless walking",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is onomatopoeic, mimicking the rhythmic sound of footsteps during purposeless walking, common in Bengali oral tradition."
+}

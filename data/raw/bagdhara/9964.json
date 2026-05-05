@@ -1,0 +1,42 @@
+{
+  "id": "9964",
+  "idiom": "হাঁকুপাঁকু",
+  "alternative_idioms": [
+    "আকুপাঁকু"
+  ],
+  "literal_meaning": "onomatopoeic expression mimicking hurried, flustered movements (হাঁকু-পাঁকু: ব্যস্ততার অনুকরণ)",
+  "figurative_meaning_bn": "অতিশয় ব্যস্ততা; উদবেগজনিত রুদ্ধশ্বাস অবস্থা",
+  "figurative_meaning_en": "excessive busyness; breathless state caused by anxiety or flurry",
+  "similar_in_english": [
+    "in a flap",
+    "all in a tizzy",
+    "running around like a headless chicken"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষার আগে ছাত্ররা হাঁকুপাঁকু করে উঠল।",
+    "অফিসে হঠাৎ কাজের চাপে সবাই হাঁকুপাঁকু করছে।"
+  ],
+  "example_sentences_in_english": [
+    "The students got into a flap just before the exam.",
+    "Everyone in the office is in a tizzy due to the sudden workload."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "emotional states",
+    "workplace scenarios"
+  ],
+  "tags": [
+    "busyness",
+    "anxiety",
+    "fluster",
+    "haste"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a reduplicative form typical in Bengali for expressing chaotic haste, deeply embedded in colloquial speech."
+}

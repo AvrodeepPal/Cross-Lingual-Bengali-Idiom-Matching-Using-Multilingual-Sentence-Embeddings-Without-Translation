@@ -1,0 +1,38 @@
+{
+  "id": "791",
+  "idiom": "উত্তমমধ্যম দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "উত্তম (সেরা) মধ্যম (মাঝারি) দেওয়া",
+  "figurative_meaning_bn": "আচ্ছা করে পিটুনি দেওয়া; প্রচুর প্রহার করা",
+  "figurative_meaning_en": "To give a thorough beating; to thrash someone severely",
+  "similar_in_english": [
+    "Give someone a sound thrashing",
+    "Beat the living daylights out of someone"
+  ],
+  "example_sentences_in_bangla": [
+    "বাবা ছেলের দুষ্টুমির জন্য তাকে উত্তমমধ্যম দিলেন।",
+    "পড়াশোনায় ফেল করায় শিক্ষক ছাত্রকে উত্তমমধ্যম দিয়েছেন।"
+  ],
+  "example_sentences_in_english": [
+    "The father gave his son a thorough thrashing for his mischief.",
+    "The teacher thrashed the student severely for failing the exam."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "punishment",
+    "informal speech"
+  ],
+  "tags": [
+    "violence",
+    "physical punishment",
+    "discipline"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional disciplinary practices in Bengali households."
+}

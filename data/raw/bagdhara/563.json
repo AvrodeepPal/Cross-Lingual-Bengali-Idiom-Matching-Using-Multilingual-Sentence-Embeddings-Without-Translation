@@ -1,0 +1,40 @@
+{
+  "id": "563",
+  "idiom": "আবহাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "আবহাওয়া (weather or atmosphere)",
+  "figurative_meaning_bn": "অবস্থা; পরিস্থিতি; হাল",
+  "figurative_meaning_en": "state; situation; condition",
+  "similar_in_english": [
+    "political climate",
+    "weather the storm",
+    "atmosphere"
+  ],
+  "example_sentences_in_bangla": [
+    "দেশের রাজনৈতিক আবহাওয়া খুবই খারাপ।",
+    "কোম্পানির অভ্যন্তরীণ আবহাওয়া উত্তপ্ত হয়ে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The political weather in the country is very bad.",
+    "The internal atmosphere in the company has become tense."
+  ],
+  "usage_domain": [
+    "politics",
+    "general situation",
+    "social context"
+  ],
+  "tags": [
+    "metaphor",
+    "situation",
+    "politics",
+    "atmosphere"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses the literal sense of weather to metaphorically describe prevailing conditions, especially in socio-political contexts."
+}

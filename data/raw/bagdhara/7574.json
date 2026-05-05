@@ -1,0 +1,41 @@
+{
+  "id": "7574",
+  "idiom": "বাপ-ঠাকুর",
+  "alternative_idioms": [],
+  "literal_meaning": "বাপ (পিতা) - ঠাকুর (প্রভু বা ব্রাহ্মণের সম্মানসূচক উপাধি)",
+  "figurative_meaning_bn": "ব্রাহ্মণের প্রতি সম্ভ্রমসূচক সম্বোধন",
+  "figurative_meaning_en": "A respectful form of address used for Brahmins",
+  "similar_in_english": [
+    "Sir (as a term of respect)",
+    "Reverend (for religious figures)"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের পুরোহিতকে বাপ-ঠাকুর বলে সম্মান করা হয়।",
+    "তিনি এত বিজ্ঞ যে সকলে তাঁকে বাপ-ঠাকুর বলে ডাকেন।"
+  ],
+  "example_sentences_in_english": [
+    "The village priest is addressed as Baba-Thakur out of respect.",
+    "He is so wise that everyone calls him Baba-Thakur."
+  ],
+  "usage_domain": [
+    "Social respect",
+    "Religious address",
+    "Traditional etiquette"
+  ],
+  "tags": [
+    "Brahmin",
+    "Respect",
+    "Honorific",
+    "Hindu tradition"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term originates from traditional Bengali Hindu society where Brahmins held esteemed positions as priests and scholars, used to denote paternal and divine respect."
+  ],
+  "note": "Primarily used in older or rural contexts; less common in modern urban settings due to evolving social norms."
+}

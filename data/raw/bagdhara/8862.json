@@ -1,0 +1,38 @@
+{
+  "id": "8862",
+  "idiom": "মোচড় মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "মোচড় দেওয়া বা টেনে ধরা",
+  "figurative_meaning_bn": "বাগে পেয়ে চাপ দেওয়া",
+  "figurative_meaning_en": "To apply pressure or extort when exploiting someone's weakness",
+  "similar_in_english": [
+    "Arm-twisting",
+    "Putting the screws on"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুর দুর্বলতার সুযোগ নিয়ে মোচড় মেরে ঋণ আদায় করল।",
+    "পুলিশ মোচড় মেরে স্বীকারোক্তি নিল।"
+  ],
+  "example_sentences_in_english": [
+    "He twisted his friend's arm to recover the debt by exploiting his weakness.",
+    "The police put pressure on him to extract a confession."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "extortion",
+    "negotiation"
+  ],
+  "tags": [
+    "চাপ",
+    "ব্ল্যাকমেইল",
+    "দুর্বলতা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা শারীরিক চাপের ধারণা থেকে উদ্ভূত, বাংলা সংস্কৃতিতে সাধারণত অর্থনৈতিক বা সামাজিক চাপের প্রসঙ্গে ব্যবহৃত হয়।"
+}

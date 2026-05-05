@@ -1,0 +1,40 @@
+{
+  "id": "9715",
+  "idiom": "সাতপাঁচ",
+  "alternative_idioms": [
+    "সাত সতেরো",
+    "পাঁচসাত"
+  ],
+  "literal_meaning": "সাত এবং পাঁচ (seven and five)",
+  "figurative_meaning_bn": "অগ্রপশ্চাৎ, নানাদিক",
+  "figurative_meaning_en": "back and forth, in various directions (indicating confusion or hesitation)",
+  "similar_in_english": [
+    "at sixes and sevens",
+    "this way and that"
+  ],
+  "example_sentences_in_bangla": [
+    "সাতপাঁচ ভেবে সে কাজটা আর হাতে নিল না।",
+    "আমরা সাতপাঁচ করে সময় নষ্ট করছি।"
+  ],
+  "example_sentences_in_english": [
+    "Thinking this way and that, he didn't take up the task.",
+    "We're wasting time dithering back and forth."
+  ],
+  "usage_domain": [
+    "decision-making",
+    "everyday conversation"
+  ],
+  "tags": [
+    "confusion",
+    "hesitation",
+    "directional"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom likely derives from numerical confusion, symbolizing disarray in thoughts or directions."
+}

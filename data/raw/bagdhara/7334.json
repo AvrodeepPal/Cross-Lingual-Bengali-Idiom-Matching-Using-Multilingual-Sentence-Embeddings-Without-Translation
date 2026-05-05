@@ -1,0 +1,39 @@
+{
+  "id": "7334",
+  "idiom": "বর্ণজ্ঞানহীন",
+  "alternative_idioms": [],
+  "literal_meaning": "বর্ণ বা অক্ষরের জ্ঞান থেকে বঞ্চিত",
+  "figurative_meaning_bn": "অক্ষরের সঙ্গে পরিচয় নেই এমন; নিরক্ষর",
+  "figurative_meaning_en": "Without acquaintance with letters; illiterate",
+  "similar_in_english": [
+    "illiterate",
+    "can't read or write"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বর্ণজ্ঞানহীন হওয়ায় কোনো চিঠি পড়তে পারে না।",
+    "গ্রামের অনেক বৃদ্ধ বর্ণজ্ঞানহীন, তাই তাদের জীবন কঠিন।"
+  ],
+  "example_sentences_in_english": [
+    "He is illiterate and cannot read any letter.",
+    "Many elderly people in the village are illiterate, making their lives difficult."
+  ],
+  "usage_domain": [
+    "education",
+    "literacy",
+    "social commentary"
+  ],
+  "tags": [
+    "illiteracy",
+    "ignorance",
+    "rural life",
+    "education"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights historical literacy challenges in Bengali society."
+}

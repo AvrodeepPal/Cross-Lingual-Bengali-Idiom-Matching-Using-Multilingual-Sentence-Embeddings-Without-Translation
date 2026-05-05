@@ -1,0 +1,40 @@
+{
+  "id": "4668",
+  "idiom": "জিগির তোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "জিগির (আওয়াজ বা চিৎকার) তোলা",
+  "figurative_meaning_bn": "বিশেষ জোর দিয়ে বলা; দাবীর স্বপক্ষে জোরে আওয়াজ তোলা; শোরগোল করা; স্লোগান দেওয়া",
+  "figurative_meaning_en": "To speak with special emphasis; to raise a loud voice in support of a claim; to create a commotion; to chant slogans",
+  "similar_in_english": [
+    "Raise a hue and cry",
+    "Make a fuss",
+    "Kick up a row",
+    "Raise hell"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অধিকারের জন্য সে রাস্তায় জিগির তুলল।",
+    "মিছিলে সকলে জিগির তুলে স্লোগান দিল।"
+  ],
+  "example_sentences_in_english": [
+    "He raised a hue and cry on the street for his rights.",
+    "In the rally, everyone made a commotion by chanting slogans."
+  ],
+  "usage_domain": [
+    "politics",
+    "protests",
+    "arguments"
+  ],
+  "tags": [
+    "protest expression",
+    "loud advocacy",
+    "commotion"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used in contexts of public demonstrations in Bengali-speaking regions."
+}

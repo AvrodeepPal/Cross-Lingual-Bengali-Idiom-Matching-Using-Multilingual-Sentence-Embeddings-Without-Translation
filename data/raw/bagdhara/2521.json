@@ -1,0 +1,41 @@
+{
+  "id": "2521",
+  "idiom": "খবিশ",
+  "alternative_idioms": [],
+  "literal_meaning": "খবিশ (আরবি 'খবীث' থেকে উদ্ভূত, অশুদ্ধ বা দুষ্ট আত্মা)",
+  "figurative_meaning_bn": "মুসলমান বিশ্বাস অনুযায়ী ভুতপ্রেত",
+  "figurative_meaning_en": "According to Muslim beliefs, an evil spirit or ghost",
+  "similar_in_english": [
+    "possessed by a jinn",
+    "haunted by demons"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে সেই বাড়িতে খবিশের ভয়ে কেউ যায় না।",
+    "ওঝা ডেকে খবিশ তাড়ানো হলো।"
+  ],
+  "example_sentences_in_english": [
+    "No one goes to that house in the village for fear of khobish.",
+    "An ojha was called to exorcise the khobish."
+  ],
+  "usage_domain": [
+    "folklore",
+    "supernatural",
+    "religion"
+  ],
+  "tags": [
+    "islam",
+    "evil spirits",
+    "exorcism",
+    "muslim folklore"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Referenced in the 18th-century Bengali poet Bharat Chandra Ray Gunakar's work: 'খবিশ পাইল বলি ডাকি আনি ওঝা', highlighting traditional exorcism practices."
+  ],
+  "note": "The term draws from Islamic concepts of jinn or impure spirits prevalent in Bengali Muslim culture."
+}

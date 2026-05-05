@@ -1,0 +1,40 @@
+{
+  "id": "5675",
+  "idiom": "দহে পড়া",
+  "alternative_idioms": [
+    "দহে মজা"
+  ],
+  "literal_meaning": "আগুনের গর্তে পড়া",
+  "figurative_meaning_bn": "গভীর সংকটে পড়া",
+  "figurative_meaning_en": "To fall into deep trouble or crisis",
+  "similar_in_english": [
+    "Out of the frying pan into the fire",
+    "In dire straits"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসায়ের কারণে সে দহে পড়েছে।",
+    "পরীক্ষায় ফেল করার পর তার জীবন দহে পড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Due to his business losses, he has fallen into the fire.",
+    "After failing the exam, his life fell into deep crisis."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "emotional",
+    "daily life"
+  ],
+  "tags": [
+    "trouble",
+    "crisis",
+    "danger"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from imagery of fire pits, common in rural Bengali folklore for expressing peril."
+}

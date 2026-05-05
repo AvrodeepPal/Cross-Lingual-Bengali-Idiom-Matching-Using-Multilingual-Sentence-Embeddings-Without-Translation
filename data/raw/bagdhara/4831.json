@@ -1,0 +1,39 @@
+{
+  "id": "4831",
+  "idiom": "ঝুটঝামেলা",
+  "alternative_idioms": [],
+  "literal_meaning": "অযথা বা মিথ্যা ঝামেলা",
+  "figurative_meaning_bn": "অবাঞ্ছিত বা ফালতু ঝগড়া",
+  "figurative_meaning_en": "Unwanted or unnecessary quarrel",
+  "similar_in_english": [
+    "much ado about nothing",
+    "tempest in a teapot"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি কোন ঝুটঝামেলায় জড়াতে চাই না।",
+    "এটা শুধু ঝুটঝামেলা, তুমি এড়িয়ে যাও।"
+  ],
+  "example_sentences_in_english": [
+    "I don't want to get involved in any unnecessary quarrel.",
+    "This is just pointless trouble; avoid it."
+  ],
+  "usage_domain": [
+    "daily life",
+    "social interactions",
+    "conflict resolution"
+  ],
+  "tags": [
+    "quarrel",
+    "unnecessary",
+    "trouble",
+    "avoidance"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in colloquial Bengali to dismiss petty disputes."
+}

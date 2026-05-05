@@ -1,0 +1,41 @@
+{
+  "id": "7454",
+  "idiom": "বাগ্দত্তা",
+  "alternative_idioms": [],
+  "literal_meaning": "বাগ (প্রতিশ্রুতি) + দত্ত (দান করা) – প্রতিশ্রুতিবদ্ধ দেওয়া মেয়ে",
+  "figurative_meaning_bn": "নির্দিষ্ট কোনো পাত্রের সঙ্গে বিবাহের প্রতিশ্রুতি দেওয়া হয়েছে এমন পাত্রী",
+  "figurative_meaning_en": "A girl who has been promised in marriage to a specific groom",
+  "similar_in_english": [
+    "Betrothed girl",
+    "Promised bride"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের সেই বাগ্দত্তা মেয়েটি এখনো তার বাগদানের স্মৃতি মনে রাখে।",
+    "পরিবারের ঐতিহ্য অনুসারে, সে ছোটবেলা থেকেই বাগ্দত্তা।"
+  ],
+  "example_sentences_in_english": [
+    "The betrothed girl from the village still remembers her promise of marriage.",
+    "According to family tradition, she has been promised in marriage since childhood."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Family traditions",
+    "Relationships"
+  ],
+  "tags": [
+    "বিবাহ",
+    "প্রতিশ্রুতি",
+    "পারিবারিক ঐতিহ্য",
+    "মেয়ে"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term originates from traditional Bengali arranged marriage practices, often involving child betrothals in rural families during the 19th-20th centuries, reflecting social norms of the time."
+  ],
+  "note": "Primarily used in formal or literary contexts to describe pre-arranged marital commitments."
+}

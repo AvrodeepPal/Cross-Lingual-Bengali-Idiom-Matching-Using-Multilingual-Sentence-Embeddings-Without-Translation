@@ -1,0 +1,37 @@
+{
+  "id": "9646",
+  "idiom": "সরেজমিন",
+  "alternative_idioms": [],
+  "literal_meaning": "সরে (তাৎক্ষণিকভাবে) + জমিন (স্থান বা মাটি) = ঘটনাস্থলে তাৎক্ষণিকভাবে",
+  "figurative_meaning_bn": "অকুস্থল; ঘটনাসংগঠনস্থল",
+  "figurative_meaning_en": "scene of the crime; site of the incident",
+  "similar_in_english": [
+    "on the spot",
+    "scene of the crime"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ ঘটনাস্থলে সরেজমিন তদন্ত শুরু করেছে।",
+    "সরেজমিন পরিদর্শনে বিচারক অকুস্থল পরিদর্শন করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "The police started an on-site investigation at the scene of the incident.",
+    "The judge conducted a local inspection at the crime scene."
+  ],
+  "usage_domain": [
+    "legal",
+    "investigation"
+  ],
+  "tags": [
+    "তদন্ত",
+    "অকুস্থল",
+    "আইনি"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "সাধারণত আইনি প্রসঙ্গে ব্যবহৃত, বিশেষ করে তদন্তের ক্ষেত্রে।"
+}

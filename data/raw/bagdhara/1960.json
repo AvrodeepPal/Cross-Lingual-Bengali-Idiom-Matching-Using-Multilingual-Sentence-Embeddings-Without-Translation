@@ -1,0 +1,41 @@
+{
+  "id": "1960",
+  "idiom": "কাড়াকাড়ি",
+  "alternative_idioms": [
+    "টানাটানি"
+  ],
+  "literal_meaning": "পরস্পর ছিনিয়ে নেওয়ার চেষ্টা",
+  "figurative_meaning_bn": "পরস্পরের কাছ থেকে ছিনিয়ে নেবার চেষ্টা",
+  "figurative_meaning_en": "Attempts to snatch or grab something from each other",
+  "similar_in_english": [
+    "Tug of war",
+    "Scramble for possession"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই বন্ধু কাড়াকাড়ি করে বলটা নিয়ে লড়াই করছে।",
+    "বাজারে দরদামের সময় কাড়াকাড়ি শুরু হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The two friends are snatching the ball from each other in a tug-of-war.",
+    "A scramble broke out during the bargaining in the market."
+  ],
+  "usage_domain": [
+    "Everyday disputes",
+    "Children's play",
+    "Market interactions"
+  ],
+  "tags": [
+    "conflict",
+    "competition",
+    "snatching",
+    "rivalry"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in contexts of petty quarrels or competitive grabbing in Bengali daily life."
+}

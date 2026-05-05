@@ -1,0 +1,42 @@
+{
+  "id": "1837",
+  "idiom": "কাকের ছাঁ বকের ছাঁ",
+  "alternative_idioms": [
+    "কাকের ঠ্যাঙ বকের ঠ্যাঙ",
+    "কাগের ছা বগের ছা"
+  ],
+  "literal_meaning": "কাকের ছানা বকের ছানা (crow's chick and heron's chick)",
+  "figurative_meaning_bn": "অত্যন্ত কুৎসিত লেখার ছাঁদ",
+  "figurative_meaning_en": "An extremely ugly style of writing",
+  "similar_in_english": [
+    "Chicken scratch",
+    "Doctor's handwriting"
+  ],
+  "example_sentences_in_bangla": [
+    "তার হাতের লেখ দেখে মনে হয় কাকের ছাঁ বকের ছাঁ।",
+    "এই বইয়ের মুদ্রণ কাকের ছাঁ বকের ছাঁ-এর মতো অসুন্দর।"
+  ],
+  "example_sentences_in_english": [
+    "His handwriting looks like chicken scratch.",
+    "The printing in this book is as ugly as chicken scratch."
+  ],
+  "usage_domain": [
+    "Writing",
+    "Literature",
+    "Education"
+  ],
+  "tags": [
+    "handwriting",
+    "ugly",
+    "criticism",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Synonymous with 'খুট আখর' for describing poor or illegible handwriting"
+}

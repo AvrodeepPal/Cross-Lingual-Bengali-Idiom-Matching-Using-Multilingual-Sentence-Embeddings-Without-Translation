@@ -1,0 +1,42 @@
+{
+  "id": "5654",
+  "idiom": "দম খাওয়া",
+  "alternative_idioms": [
+    "দম খানা"
+  ],
+  "literal_meaning": "শ্বাস খাওয়া বা শ্বাস নেওয়া",
+  "figurative_meaning_bn": "চুপ করে থাকা",
+  "figurative_meaning_en": "to remain silent or keep quiet",
+  "similar_in_english": [
+    "hold one's tongue",
+    "keep mum"
+  ],
+  "example_sentences_in_bangla": [
+    "বাবা রাগ করেছেন, তাই সবাই দম খেয়ে বসে আছে।",
+    "মিটিংয়ে বিতর্ক চলছে, তুমি দম খাও।"
+  ],
+  "example_sentences_in_english": [
+    "Dad is angry, so everyone is keeping quiet.",
+    "There's a debate in the meeting, so you stay silent."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "family disputes",
+    "formal discussions"
+  ],
+  "tags": [
+    "silence",
+    "restraint",
+    "caution"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from Hindi influence in Bengali language, commonly used in spoken dialects."
+  ],
+  "note": "Noted as Hindi origin, adapted in Bengali usage."
+}

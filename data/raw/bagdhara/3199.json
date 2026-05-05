@@ -1,0 +1,42 @@
+{
+  "id": "3199",
+  "idiom": "গালে চড়",
+  "alternative_idioms": [],
+  "literal_meaning": "গালে চড়ানো (চোখার উপর চড় দেওয়া)",
+  "figurative_meaning_bn": "বেদনাদায়ক অভিজ্ঞতা অর্জন",
+  "figurative_meaning_en": "To gain a painful experience",
+  "similar_in_english": [
+    "Slap in the face",
+    "Learn the hard way",
+    "Reap what you sow"
+  ],
+  "example_sentences_in_bangla": [
+    "মশা তাড়াতে গিয়ে সে নিজের গালে চড় মারল।",
+    "ভুল করার পর গালে চড় খেয়ে সে শিক্ষা নিল।"
+  ],
+  "example_sentences_in_english": [
+    "He tried to swat a mosquito and ended up slapping his own cheek.",
+    "After making a mistake, he got a slap in the face and learned his lesson."
+  ],
+  "usage_domain": [
+    "Proverbs",
+    "Everyday conversation",
+    "Cautionary tales"
+  ],
+  "tags": [
+    "consequence",
+    "painful lesson",
+    "self-inflicted",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the Bengali proverb illustrating 'as you sow, so shall you reap,' where attempting to swat a mosquito results in accidentally slapping one's own cheek, symbolizing unintended painful consequences from one's actions."
+  ],
+  "note": "Often used to describe self-inflicted mishaps leading to regret or learning."
+}

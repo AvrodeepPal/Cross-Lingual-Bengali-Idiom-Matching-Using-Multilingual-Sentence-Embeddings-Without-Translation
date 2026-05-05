@@ -1,0 +1,40 @@
+{
+  "id": "6685",
+  "idiom": "পাঁচিল তোলা",
+  "alternative_idioms": [
+    "পাঁচিল দেওয়া"
+  ],
+  "literal_meaning": "পাঁচিল তুলা বা নির্মাণ করা",
+  "figurative_meaning_bn": "আড়াল করা; ব্যবধান সৃষ্টি করা",
+  "figurative_meaning_en": "To create a barrier or separation",
+  "similar_in_english": [
+    "Build a wall between",
+    "Put up a fence"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা পাঁচিল তুলে সম্পর্কের ব্যবধান সৃষ্টি করল।",
+    "রাজনৈতিক দলগুলো পাঁচিল তুলে জনগণকে বিভক্ত করছে।"
+  ],
+  "example_sentences_in_english": [
+    "They built a wall between them, creating a rift in their relationship.",
+    "The political parties are erecting walls to divide the people."
+  ],
+  "usage_domain": [
+    "Interpersonal relations",
+    "Politics",
+    "Conflicts"
+  ],
+  "tags": [
+    "separation",
+    "barrier",
+    "division"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from everyday rural imagery of constructing physical walls for protection or division."
+}

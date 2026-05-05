@@ -1,0 +1,43 @@
+{
+  "id": "3802",
+  "idiom": "চাঁদোয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "চাঁদের মতো আলোকিত আচ্ছাদন বা ছাউনি",
+  "figurative_meaning_bn": "আচ্ছাদন; ছাউনি; শামিয়ানা",
+  "figurative_meaning_en": "covering; canopy; shamiana",
+  "similar_in_english": [
+    "canopy",
+    "awning",
+    "marquee"
+  ],
+  "example_sentences_in_bangla": [
+    "বাড়ির উঠোনে বিয়ের জন্য চাঁদোয়া তোলা হয়েছে।",
+    "ফুর্তির অনুষ্ঠানে বড় চাঁদোয়া বসানো হবে।"
+  ],
+  "example_sentences_in_english": [
+    "A shamiana has been set up in the courtyard for the wedding.",
+    "A large canopy will be erected for the fair."
+  ],
+  "usage_domain": [
+    "events",
+    "weddings",
+    "festivals",
+    "outdoor gatherings"
+  ],
+  "tags": [
+    "canopy",
+    "tent",
+    "covering",
+    "traditional setup"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term 'চাঁদোয়া' derives from Persian influences during the Mughal era, referring to ornate tents resembling moonlight, commonly used in South Asian celebrations."
+  ],
+  "note": "This is more of a cultural term than a strictly idiomatic expression, often used literally in Bengali contexts for temporary shelters."
+}

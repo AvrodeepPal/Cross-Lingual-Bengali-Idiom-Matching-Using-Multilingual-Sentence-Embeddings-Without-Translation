@@ -1,0 +1,37 @@
+{
+  "id": "1106",
+  "idiom": "একলা-দোকলা",
+  "alternative_idioms": [],
+  "literal_meaning": "একজন বা দুজনের মতো অত্যল্প সংখ্যা",
+  "figurative_meaning_bn": "অত্যল্প",
+  "figurative_meaning_en": "very few or scanty",
+  "similar_in_english": [
+    "one or two",
+    "a handful"
+  ],
+  "example_sentences_in_bangla": [
+    "একলা-দোকলা লোক এসেছে অনুষ্ঠানে।",
+    "এই কাজ একলা-দোকলার নয়, অনেকের দরকার।"
+  ],
+  "example_sentences_in_english": [
+    "Only one or two people came to the event.",
+    "This task is not for one or two people; it needs many hands."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "quantity description"
+  ],
+  "tags": [
+    "quantity",
+    "few",
+    "scarcity"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom emphasizes minimal numbers in a colloquial Bengali context."
+}

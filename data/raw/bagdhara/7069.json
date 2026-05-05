@@ -1,0 +1,40 @@
+{
+  "id": "7069",
+  "idiom": "ফর্দাফাই",
+  "alternative_idioms": [],
+  "literal_meaning": "ছিন্নভিন্ন টুকরো বা ছেঁড়া অবস্থা",
+  "figurative_meaning_bn": "আবরণের অনুপযুক্ত; ছিন্নভিন্ন হয়ে ব্যবহারের অযোগ্য হয়েছে এমন",
+  "figurative_meaning_en": "Unfit for covering; torn to pieces and rendered unusable",
+  "similar_in_english": [
+    "In tatters",
+    "Torn to shreds",
+    "In rags"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পুরনো শাড়িটা এখন ফর্দাফাই হয়ে গেছে।",
+    "ঝড়ে পর্দাটা ছিঁড়ে ফর্দাফাই।"
+  ],
+  "example_sentences_in_english": [
+    "His old shirt is now in tatters.",
+    "The curtain tore to shreds in the storm."
+  ],
+  "usage_domain": [
+    "Clothing",
+    "Description of damage",
+    "Everyday language"
+  ],
+  "tags": [
+    "idiom",
+    "destruction",
+    "clothing",
+    "bengali"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to everyday wear and tear in traditional Bengali households"
+}

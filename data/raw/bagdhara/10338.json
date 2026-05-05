@@ -1,0 +1,40 @@
+{
+  "id": "10338",
+  "idiom": "হুড়াহুড়ি",
+  "alternative_idioms": [
+    "হুড়োহুড়ি",
+    "হুটোপাটি"
+  ],
+  "literal_meaning": "হুড়াহুড়ি (ধ্বন্যাত্মক শব্দ যা তাড়াহুড়ো বা ব্যস্ততার শব্দ অনুকরণ করে)",
+  "figurative_meaning_bn": "অত্যধিক ব্যস্ততা",
+  "figurative_meaning_en": "Excessive busyness or haste",
+  "similar_in_english": [
+    "hustle and bustle",
+    "hurry-scurry"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে হুড়াহুড়ি চলছে সকাল থেকে।",
+    "পরীক্ষার আগে ছাত্রদের মধ্যে হুড়াহুড়ি পড়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's hustle and bustle in the market since morning.",
+    "There's a flurry of activity among students before the exam."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Describing busy situations"
+  ],
+  "tags": [
+    "ব্যস্ততা",
+    "তাড়াহুড়ো",
+    "অরাজকতা"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি ধ্বন্যাত্মক বাগধারা যা বাংলা ভাষায় দৈনন্দিন ব্যবহারে প্রচলিত।"
+}

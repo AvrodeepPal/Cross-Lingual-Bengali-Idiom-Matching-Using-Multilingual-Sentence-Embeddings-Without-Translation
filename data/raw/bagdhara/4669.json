@@ -1,0 +1,38 @@
+{
+  "id": "4669",
+  "idiom": "জিতাক্ষর",
+  "alternative_idioms": [],
+  "literal_meaning": "জীত (পুরনো বা ম্লান) অক্ষর",
+  "figurative_meaning_bn": "দুর্বোধ্য হস্তাক্ষর পাঠে দক্ষব্যক্তি",
+  "figurative_meaning_en": "A person skilled in reading difficult or illegible handwriting",
+  "similar_in_english": [
+    "Able to read doctor's handwriting (humorous equivalent)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন জিতাক্ষর, পুরনো হাতের লেখা সহজেই পড়ে ফেলে।",
+    "আমাদের গ্রামের লেখক জিতাক্ষর বলে পরিচিত।"
+  ],
+  "example_sentences_in_english": [
+    "He is a jitakshor, easily deciphering old handwritten notes.",
+    "The village scribe is known as a jitakshor for his skill."
+  ],
+  "usage_domain": [
+    "Linguistics",
+    "Daily conversation",
+    "Document analysis"
+  ],
+  "tags": [
+    "handwriting",
+    "deciphering",
+    "skill",
+    "expertise"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to expertise in paleography-like skills in Bengali context"
+}

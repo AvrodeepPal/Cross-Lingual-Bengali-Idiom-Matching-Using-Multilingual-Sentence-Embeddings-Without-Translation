@@ -1,0 +1,39 @@
+{
+  "id": "9019",
+  "idiom": "রগরগে",
+  "alternative_idioms": [],
+  "literal_meaning": "রগ (শিরা বা নাড়ি) থেকে উদ্ভূত দ্বিত্বশব্দ, যা উত্তেজনার সঙ্গে সম্পর্কিত",
+  "figurative_meaning_bn": "উত্তেজনার ভাবপ্রকাশক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "A reduplicative word expressing the feeling of excitement or thrill",
+  "similar_in_english": [
+    "edge-of-your-seat",
+    "heart-pounding"
+  ],
+  "example_sentences_in_bangla": [
+    "রগরগে অ্যাডভেঞ্চারের গল্প পড়লে মনটা কেঁপে ওঠে।",
+    "এই রগরগে খবর শুনে সবাই উত্তেজিত হয়ে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "Reading this thrilling adventure story makes the heart race.",
+    "Everyone got excited hearing this heart-pounding news."
+  ],
+  "usage_domain": [
+    "literature",
+    "conversation",
+    "media"
+  ],
+  "tags": [
+    "excitement",
+    "reduplicative",
+    "emotion",
+    "thrill"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used in descriptive contexts to evoke sensory excitement in Bengali narratives."
+}

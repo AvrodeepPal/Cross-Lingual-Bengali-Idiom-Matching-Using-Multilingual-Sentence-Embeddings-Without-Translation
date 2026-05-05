@@ -1,0 +1,39 @@
+{
+  "id": "649",
+  "idiom": "আসে যায়",
+  "alternative_idioms": [],
+  "literal_meaning": "আসে (comes) যায় (goes)",
+  "figurative_meaning_bn": "গুরুত্বহীন; তাৎপর্যহীন",
+  "figurative_meaning_en": "insignificant; of no great consequence",
+  "similar_in_english": [
+    "comes and goes",
+    "no big deal",
+    "water off a duck's back"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সমস্যাটা আসে যায়, চিন্তা করার কিছু নেই।",
+    "তার মেজাজ আসে যায়, কখনো ভালো কখনো খারাপ।"
+  ],
+  "example_sentences_in_english": [
+    "This problem comes and goes, there's no need to worry.",
+    "His mood comes and goes, sometimes good, sometimes bad."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "health",
+    "emotions"
+  ],
+  "tags": [
+    "transient",
+    "insignificant",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The provided original meaning appears mismatched; standard interpretation used for accuracy as per linguistic expertise."
+}

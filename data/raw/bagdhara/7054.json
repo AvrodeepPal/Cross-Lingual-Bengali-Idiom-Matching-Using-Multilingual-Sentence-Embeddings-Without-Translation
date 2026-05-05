@@ -1,0 +1,38 @@
+{
+  "id": "7054",
+  "idiom": "ফতো কাপ্তান",
+  "alternative_idioms": [],
+  "literal_meaning": "মোটা কাপ্তান",
+  "figurative_meaning_bn": "দায়িত্বজ্ঞানহীন লোক",
+  "figurative_meaning_en": "An irresponsible person",
+  "similar_in_english": [
+    "figurehead",
+    "all talk no action"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ফতো কাপ্তানের মতো শুধু বক্তৃতা করে, কোনো কাজ করে না।",
+    "অফিসের বসটি ফতো কাপ্তান, দায়িত্ব নেয় না কখনো।"
+  ],
+  "example_sentences_in_english": [
+    "He is like a fat captain, just giving speeches without doing any work.",
+    "The office boss is a fat captain, never taking any responsibility."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "leadership",
+    "criticism"
+  ],
+  "tags": [
+    "irresponsibility",
+    "negative",
+    "leadership"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom likely originates from nautical imagery, portraying a leader who appears authoritative but lacks competence or responsibility."
+}

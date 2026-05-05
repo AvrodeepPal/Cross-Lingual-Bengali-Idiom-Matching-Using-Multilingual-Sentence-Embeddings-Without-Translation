@@ -1,0 +1,40 @@
+{
+  "id": "1718",
+  "idiom": "কসাইগিরি",
+  "alternative_idioms": [],
+  "literal_meaning": "কসাইয়ের কাজ বা আচরণ",
+  "figurative_meaning_bn": "কসাইয়ের মতো ব্যবহার; হৃদয়হীন আচরণ",
+  "figurative_meaning_en": "Behavior like a butcher; heartless conduct",
+  "similar_in_english": [
+    "Butchery (figurative)",
+    "Cold-blooded actions",
+    "Ruthless behavior"
+  ],
+  "example_sentences_in_bangla": [
+    "এই রাজনীতিতে সর্বত্র কসাইগিরি চলছে।",
+    "তার হৃদয়হীনতা কসাইগিরির মতো।"
+  ],
+  "example_sentences_in_english": [
+    "Butchery is rampant in this politics everywhere.",
+    "His heartlessness is like that of a butcher."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Social criticism",
+    "Daily behavior"
+  ],
+  "tags": [
+    "negative",
+    "violence",
+    "heartless",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the stereotypical ruthless nature associated with butchers in Bengali society."
+}

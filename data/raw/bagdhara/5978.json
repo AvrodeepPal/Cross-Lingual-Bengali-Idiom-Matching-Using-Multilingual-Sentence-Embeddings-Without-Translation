@@ -1,0 +1,41 @@
+{
+  "id": "5978",
+  "idiom": "মোল্লার দৌড় মসজিদ পর্যন্ত",
+  "alternative_idioms": [],
+  "literal_meaning": "মোল্লার দৌড় মসজিদ পর্যন্ত (mullah's run up to the mosque)",
+  "figurative_meaning_bn": "ব্যঙ্গে ক্ষমতা",
+  "figurative_meaning_en": "limited authority or power (sarcastically)",
+  "similar_in_english": [
+    "all bark and no bite",
+    "authority ends at the door"
+  ],
+  "example_sentences_in_bangla": [
+    "তার প্রভাব মোল্লার দৌড় মসজিদ পর্যন্ত, বাইরে কিছু নেই।",
+    "এই অফিসারের ক্ষমতা মোল্লার দৌড় মসজিদ পর্যন্ত।"
+  ],
+  "example_sentences_in_english": [
+    "His influence is like the mullah's run—only up to the mosque, nothing beyond.",
+    "The manager's authority is the mullah's run to the mosque; it doesn't extend outside."
+  ],
+  "usage_domain": [
+    "sarcasm",
+    "authority",
+    "social commentary"
+  ],
+  "tags": [
+    "proverb",
+    "religious reference",
+    "bengali folklore",
+    "irony"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This proverb originates from traditional Bengali folklore, highlighting the confined role of religious figures like mullahs in village or community settings."
+  ],
+  "note": "The input idiom text 'দৌড়' appears to be a fragment; the full proverb is derived from the provided meaning for accurate analysis."
+}

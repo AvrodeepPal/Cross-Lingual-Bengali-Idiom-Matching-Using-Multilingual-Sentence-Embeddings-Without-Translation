@@ -1,0 +1,40 @@
+{
+  "id": "2976",
+  "idiom": "গর্ভযন্ত্রণা",
+  "alternative_idioms": [],
+  "literal_meaning": "গর্ভের যন্ত্রণা (womb pain or labor pains)",
+  "figurative_meaning_bn": "দীর্ঘকালব্যাপী উৎবেগ ও উৎকণ্ঠা, নিদারুণ কষ্ট",
+  "figurative_meaning_en": "Prolonged anxiety and worry, severe suffering",
+  "similar_in_english": [
+    "birth pangs",
+    "labor pains (metaphorical)",
+    "prolonged agony"
+  ],
+  "example_sentences_in_bangla": [
+    "যুদ্ধের পর দেশটি গর্ভযন্ত্রণার মতো দীর্ঘ কষ্ট ভোগ করছে।",
+    "তার মনে গর্ভযন্ত্রণার মতো উৎকণ্ঠা জেগে উঠেছে পরীক্ষার আগে।"
+  ],
+  "example_sentences_in_english": [
+    "The country is enduring prolonged suffering like labor pains after the war.",
+    "Anxiety akin to birth pangs arose in his mind before the exam."
+  ],
+  "usage_domain": [
+    "emotions",
+    "suffering",
+    "daily life"
+  ],
+  "tags": [
+    "anxiety",
+    "pain",
+    "prolonged distress",
+    "anguish"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the universal experience of childbirth to metaphorically describe enduring emotional or physical torment."
+}

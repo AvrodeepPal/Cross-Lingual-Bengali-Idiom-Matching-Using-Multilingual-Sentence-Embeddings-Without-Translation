@@ -1,0 +1,42 @@
+{
+  "id": "6803",
+  "idiom": "পাতে মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "পাত দিয়ে আঘাত করা",
+  "figurative_meaning_bn": "জাতিচ্যুত করা",
+  "figurative_meaning_en": "To excommunicate or ostracize from caste/community",
+  "similar_in_english": [
+    "To cast out",
+    "To shun",
+    "To excommunicate"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের লোকেরা তাকে পাতে মেরে সমাজ থেকে বহিষ্কার করে দিয়েছে।",
+    "অনৈতিক কাজের জন্য তাকে পাতে মারা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The villagers excommunicated him by striking him with a leaf, banishing him from the community.",
+    "He was ostracized from society for his immoral actions."
+  ],
+  "usage_domain": [
+    "Social",
+    "Cultural",
+    "Punishment"
+  ],
+  "tags": [
+    "caste system",
+    "excommunication",
+    "social ostracism",
+    "traditional punishment"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "In traditional Bengali village society, 'পাতে মারা' was a ritualistic act where a person was symbolically struck with a leaf (often from a tulsi plant) to declare them outcast from the caste or community, prohibiting participation in social, religious, and economic activities. This practice dates back to pre-colonial times and reflects the rigid caste hierarchies in rural Bengal."
+  ],
+  "note": "This idiom is rooted in Hindu caste customs and is less common in modern urban contexts."
+}

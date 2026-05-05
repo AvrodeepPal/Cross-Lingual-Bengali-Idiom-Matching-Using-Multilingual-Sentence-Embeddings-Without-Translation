@@ -1,0 +1,39 @@
+{
+  "id": "4643",
+  "idiom": "জালি",
+  "alternative_idioms": [],
+  "literal_meaning": "জাল বা নকল (counterfeit or fake)",
+  "figurative_meaning_bn": "কূটকচালে; প্রতারক; বাজেলোক",
+  "figurative_meaning_en": "Fraudulent schemer; deceiver; swindler",
+  "similar_in_english": [
+    "con artist",
+    "impostor",
+    "snake oil salesman"
+  ],
+  "example_sentences_in_bangla": [
+    "দলে কয়েকজন জালি ঢুকে পড়েছে।",
+    "সে একটা জালি মানুষ, কাউকে বিশ্বাস করিস না।"
+  ],
+  "example_sentences_in_english": [
+    "Some frauds have infiltrated the group.",
+    "He's a total impostor, don't trust him."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "politics",
+    "business"
+  ],
+  "tags": [
+    "deception",
+    "fraud",
+    "impostor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to counterfeit or fake individuals in social or group contexts"
+}

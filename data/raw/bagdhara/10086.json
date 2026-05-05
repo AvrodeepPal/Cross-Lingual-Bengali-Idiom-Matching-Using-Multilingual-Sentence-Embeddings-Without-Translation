@@ -1,0 +1,39 @@
+{
+  "id": "10086",
+  "idiom": "হাত ওঠানো",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত উঠানো (raising the hand)",
+  "figurative_meaning_bn": "সমর্থনের জন্য হাত উঠানো",
+  "figurative_meaning_en": "To raise one's hand in support or agreement",
+  "similar_in_english": [
+    "Raise one's hand",
+    "Hands up for support"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় প্রস্তাবের সমর্থনে সকলে হাত ওঠালো।",
+    "ভোটের সময় সমর্থকরা হাত ওঠানোর মাধ্যমে তার পক্ষে ভোট দিল।"
+  ],
+  "example_sentences_in_english": [
+    "In the meeting, everyone raised their hands in support of the proposal.",
+    "During the vote, supporters raised their hands in his favor."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Meetings",
+    "Everyday agreement"
+  ],
+  "tags": [
+    "support",
+    "agreement",
+    "gesture",
+    "voting"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Input had a numerical suffix '৩' which was cleaned; original meaning had minor typos like 'উচুঁতে' likely meaning 'উঁচুতে' or simplified to 'উঠানো'."
+}

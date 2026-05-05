@@ -1,0 +1,42 @@
+{
+  "id": "6612",
+  "idiom": "পরকাল",
+  "alternative_idioms": [
+    "আখেরাত",
+    "পরলোক"
+  ],
+  "literal_meaning": "পরবর্তী কাল/সময়",
+  "figurative_meaning_bn": "মৃত্যুর পরবর্তী অবস্থা",
+  "figurative_meaning_en": "The state or existence after death",
+  "similar_in_english": [
+    "Afterlife",
+    "The hereafter"
+  ],
+  "example_sentences_in_bangla": [
+    "পরকালের কথা ভেবে সে দুঃখী হয়ে পড়ল।",
+    "ধর্মগ্রন্থে পরকালের বর্ণনা পাওয়া যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He became sad thinking about the afterlife.",
+    "Descriptions of the afterlife are found in religious texts."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Philosophy",
+    "Spirituality"
+  ],
+  "tags": [
+    "death",
+    "afterlife",
+    "spiritual",
+    "eternal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is widely used in Bengali literature and religious discourse, drawing from both Hindu and Islamic traditions."
+}

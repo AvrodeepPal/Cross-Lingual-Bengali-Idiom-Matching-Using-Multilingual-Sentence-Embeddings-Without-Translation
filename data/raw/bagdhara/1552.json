@@ -1,0 +1,40 @@
+{
+  "id": "1552",
+  "idiom": "কপাল ঠোকা",
+  "alternative_idioms": [],
+  "literal_meaning": "কপালে আঘাত করা বা কপাল ছোঁয়া",
+  "figurative_meaning_bn": "হিন্দু প্রথায় প্রণাম করা",
+  "figurative_meaning_en": "To perform pranam by touching the forehead in Hindu tradition",
+  "similar_in_english": [
+    "bow down in respect",
+    "pay obeisance"
+  ],
+  "example_sentences_in_bangla": [
+    "গুরুর পায়ে কপাল ঠোকা করে তিনি আশীর্বাদ নিলেন।",
+    "পূজার সময় মূর্তির সামনে কপাল ঠোকা করা হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He touched his forehead to the guru's feet to receive blessings.",
+    "During the puja, one touches the forehead to the idol in reverence."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Respect",
+    "Tradition"
+  ],
+  "tags": [
+    "হিন্দু",
+    "প্রণাম",
+    "সংস্কৃতি"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এটি হিন্দু ঐতিহ্যের প্রণামের অংশ, যেখানে সম্মান প্রকাশের জন্য কপাল পায়ে বা মাটিতে ঠেকানো হয়।"
+  ],
+  "note": "মূল টেক্সটে '১' সম্ভবত ফুটনোট সূচক।"
+}

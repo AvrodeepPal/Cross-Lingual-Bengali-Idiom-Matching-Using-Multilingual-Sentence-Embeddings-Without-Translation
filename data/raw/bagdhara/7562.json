@@ -1,0 +1,41 @@
+{
+  "id": "7562",
+  "idiom": "বানরের গলায় মুক্তার হার",
+  "alternative_idioms": [
+    "বানরের ভূষণ"
+  ],
+  "literal_meaning": "বানরের গলায় মুক্তার হার",
+  "figurative_meaning_bn": "অযোগ্যের হাতে মূল্যবান জিনিস; যে জিনিসের মূল্য বোঝে না তাকে সেই জিনিস দান",
+  "figurative_meaning_en": "A valuable item in the possession of an unworthy or unappreciative person; giving something precious to someone who cannot value it",
+  "similar_in_english": [
+    "Pearls before swine",
+    "Casting pearls before swine"
+  ],
+  "example_sentences_in_bangla": [
+    "এই অযোগ্য লোকটিকে এত দামি উপহার দেওয়া হলো বানরের গলায় মুক্তার হারের মতো।",
+    "তার কাছে এই সুন্দর বই দিলে তা বানরের গলায় মুক্তার হার হয়ে যাবে, সে তো পড়বে না।"
+  ],
+  "example_sentences_in_english": [
+    "Giving such an expensive gift to that unworthy person is like putting a pearl necklace on a monkey.",
+    "Handing this beautiful book to him would be like a pearl necklace around a monkey's neck; he won't appreciate it."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "everyday conversation",
+    "literature"
+  ],
+  "tags": [
+    "criticism",
+    "value",
+    "folklore",
+    "irony"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Similar to 'ছুঁচোর গলায় চন্দ্রহার' which conveys a comparable idea of mismatch between value and recipient."
+}

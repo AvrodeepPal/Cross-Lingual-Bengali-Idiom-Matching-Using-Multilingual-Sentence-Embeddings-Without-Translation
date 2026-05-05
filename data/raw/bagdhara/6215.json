@@ -1,0 +1,40 @@
+{
+  "id": "6215",
+  "idiom": "নম নম",
+  "alternative_idioms": [
+    "নমো নমো"
+  ],
+  "literal_meaning": "বারবার নমস্কার বা প্রণাম (quick repeated bows or prostrations)",
+  "figurative_meaning_bn": "দায়সারাভাব, তাড়াতাড়ি",
+  "figurative_meaning_en": "In a superficial or hasty manner",
+  "similar_in_english": [
+    "Going through the motions",
+    "In a rush"
+  ],
+  "example_sentences_in_bangla": [
+    "নম নম করে পূজোটা সেরেছি।",
+    "কাজটা নমো নমো করে শেষ করলাম।"
+  ],
+  "example_sentences_in_english": [
+    "I finished the puja by bowing hastily.",
+    "I rushed through the task with quick nods."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Daily life"
+  ],
+  "tags": [
+    "haste",
+    "superficial",
+    "worship",
+    "ritual"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to quick, perfunctory obeisance in Hindu rituals, common in Bengali traditions."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2508",
+  "idiom": "খবর করা",
+  "alternative_idioms": [],
+  "literal_meaning": "খবর দেওয়া বা খোঁজাখুঁজি করা",
+  "figurative_meaning_bn": "খোঁজ নেওয়া; ডেকে পাঠানো",
+  "figurative_meaning_en": "To inquire about; to send for someone",
+  "similar_in_english": [
+    "Send for",
+    "Check up on"
+  ],
+  "example_sentences_in_bangla": [
+    "আজই ছেলেটির খবর কর।",
+    "ডাক্তারের খবর করো, সে কোথায় আছে?"
+  ],
+  "example_sentences_in_english": [
+    "Send for the boy today.",
+    "Inquire about the doctor; where is he?"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Family matters"
+  ],
+  "tags": [
+    "Inquiry",
+    "Communication",
+    "Summoning"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali communication practices for seeking information or summoning."
+}

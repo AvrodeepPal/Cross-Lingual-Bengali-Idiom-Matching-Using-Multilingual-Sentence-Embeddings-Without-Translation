@@ -1,0 +1,45 @@
+{
+  "id": "740",
+  "idiom": "উগ্রচণ্ড",
+  "alternative_idioms": [
+    "উগ্রচণ্ডা",
+    "চণ্ডী"
+  ],
+  "literal_meaning": "উগ্র (আক্রমণাত্মক বা ক্রুদ্ধ) চণ্ড (দেবী চণ্ডীর মতো শক্তিশালী এবং ভয়ঙ্কর)",
+  "figurative_meaning_bn": "কলহপ্রিয়/প্রিয়া পুরুষ/নারী; কোপনস্বভাবের পুরুষ/নারী",
+  "figurative_meaning_en": "quarrelsome or quarrel-loving man/woman; irritable or short-tempered man/woman",
+  "similar_in_english": [
+    "hot-tempered person",
+    "firebrand",
+    "shrew (for women)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে উগ্রচণ্ড স্বভাবের মানুষ, সামান্য কথায় রাগ করে ওঠে।",
+    "ঘরের মেয়েটি উগ্রচণ্ডা হয়ে গেছে, সবসময় ঝগড়া করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a hot-tempered man who gets angry over small matters.",
+    "The girl at home has become a shrew, always picking fights."
+  ],
+  "usage_domain": [
+    "family relationships",
+    "personality description",
+    "colloquial speech"
+  ],
+  "tags": [
+    "anger",
+    "temperament",
+    "gender-specific",
+    "Hindu mythology"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the fierce form of Goddess Durga known as Chandi in Hindu mythology, symbolizing destructive power and wrath."
+  ],
+  "note": "The idiom draws from mythological imagery of the goddess, often used to describe volatile personalities in Bengali folklore and literature."
+}

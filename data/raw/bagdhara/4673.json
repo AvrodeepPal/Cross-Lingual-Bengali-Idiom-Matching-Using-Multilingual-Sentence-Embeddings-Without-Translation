@@ -1,0 +1,38 @@
+{
+  "id": "4673",
+  "idiom": "জিভ বার হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "জিভের বাইরে বের হয়ে আসা",
+  "figurative_meaning_bn": "প্রাণান্তকর পরিশ্রমে ক্লান্ত হওয়া",
+  "figurative_meaning_en": "To become exhausted from grueling, life-draining hard work",
+  "similar_in_english": [
+    "dog-tired",
+    "beat",
+    "worn out"
+  ],
+  "example_sentences_in_bangla": [
+    "সারাদিন মাঠে কাজ করে তার জিভ বার হয়ে গেছে।",
+    "এতো পরিশ্রমের পর আমার জিভ বার হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "After working in the field all day, his tongue is hanging out from exhaustion.",
+    "After all that grueling labor, my tongue is hanging out."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work and labor"
+  ],
+  "tags": [
+    "exhaustion",
+    "fatigue",
+    "hard work"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes the image of a dog panting from extreme fatigue, common in agrarian Bengali contexts."
+}

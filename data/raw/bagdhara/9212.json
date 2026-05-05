@@ -1,0 +1,41 @@
+{
+  "id": "9212",
+  "idiom": "লক্ষ্মীর পুত্র ভিক্ষা মাগে",
+  "alternative_idioms": [
+    "লক্ষ্মীর পুত্ ভিখ মাগে"
+  ],
+  "literal_meaning": "লক্ষ্মীর পুত্র ভিক্ষা মাগে (Lakshmi's son begs for alms)",
+  "figurative_meaning_bn": "ধনী লোক ধনের কাঙাল",
+  "figurative_meaning_en": "A wealthy person who is always short of money",
+  "similar_in_english": [
+    "Money burns a hole in one's pocket",
+    "A fool and his money are soon parted"
+  ],
+  "example_sentences_in_bangla": [
+    "সে লক্ষ্মীর পুত্র ভিক্ষা মাগে, কখনো টাকা শেষ হয় না তার কাছে।",
+    "এই ব্যবসায়ী লক্ষ্মীর পুত্র ভিক্ষা মাগে, সবসময় ঋণ নিতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is Lakshmi's son begging alms; he never has enough money despite his wealth.",
+    "This businessman is like Lakshmi's son begging alms, always needing to borrow money."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Wealth",
+    "Daily conversation"
+  ],
+  "tags": [
+    "Wealth",
+    "Irony",
+    "Extravagance",
+    "Greed"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from Hindu mythology where Lakshmi represents prosperity, highlighting the irony of wealth leading to constant need."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1865",
+  "idiom": "কাজকাম",
+  "alternative_idioms": [
+    "কাজকারবার"
+  ],
+  "literal_meaning": "কাজ (work) + কাম (affairs or chores)",
+  "figurative_meaning_bn": "কার্যমাত্র",
+  "figurative_meaning_en": "one's work or daily tasks",
+  "similar_in_english": [
+    "daily chores",
+    "line of work"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার কাজকাম সব শেষ হয়ে গেছে।",
+    "তার কাজকাম নিয়ে ব্যস্ত আছে।"
+  ],
+  "example_sentences_in_english": [
+    "My work is all done.",
+    "He is busy with his daily tasks."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work"
+  ],
+  "tags": [
+    "chores",
+    "affairs",
+    "occupation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to everyday work or business matters in colloquial Bengali."
+}

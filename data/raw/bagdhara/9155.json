@@ -1,0 +1,38 @@
+{
+  "id": "9155",
+  "idiom": "রুটি মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "রুটি আঘাত করা (bread to hit/strike)",
+  "figurative_meaning_bn": "রোজগারের পথ বন্ধ করা",
+  "figurative_meaning_en": "To block someone's means of livelihood",
+  "similar_in_english": [
+    "To take the bread out of someone's mouth",
+    "To cut off someone's source of income"
+  ],
+  "example_sentences_in_bangla": [
+    "শত্রুরা তার ব্যবসার রুটি মেরে দিয়েছে।",
+    "এই সিদ্ধান্ত তার পরিবারের রুটি মারার মতো হবে।"
+  ],
+  "example_sentences_in_english": [
+    "His rivals have struck his business, blocking his livelihood.",
+    "This decision will be like hitting his family's bread, cutting off their income."
+  ],
+  "usage_domain": [
+    "economy",
+    "employment",
+    "rivalry"
+  ],
+  "tags": [
+    "livelihood",
+    "obstruction",
+    "daily struggle"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects the cultural emphasis on basic sustenance like roti in Bengali daily life."
+}

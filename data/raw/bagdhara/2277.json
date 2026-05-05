@@ -1,0 +1,39 @@
+{
+  "id": "2277",
+  "idiom": "কুল মজানো",
+  "alternative_idioms": [],
+  "literal_meaning": "কুল (বংশ বা পরিবার) মজানো (নষ্ট বা কলুষিত করা)",
+  "figurative_meaning_bn": "বংশের সুনাম নষ্ট করা",
+  "figurative_meaning_en": "To tarnish the family's reputation",
+  "similar_in_english": [
+    "Bring shame to the family",
+    "Blacken the family name"
+  ],
+  "example_sentences_in_bangla": [
+    "তার এই কাজে পুরো কুল মজানো হয়ে গেল।",
+    "এমন অন্যায় করলে কুল মজানো করবি না।"
+  ],
+  "example_sentences_in_english": [
+    "His actions have tarnished the entire family's reputation.",
+    "Don't do something unjust; it will bring shame to our lineage."
+  ],
+  "usage_domain": [
+    "family",
+    "society",
+    "ethics"
+  ],
+  "tags": [
+    "reputation",
+    "honor",
+    "disgrace",
+    "family"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali emphasis on familial honor and social standing."
+}

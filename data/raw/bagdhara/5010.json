@@ -1,0 +1,41 @@
+{
+  "id": "5010",
+  "idiom": "টো টো করা",
+  "alternative_idioms": [
+    "টো টো করে ফেরা"
+  ],
+  "literal_meaning": "এদিক-ওদিক টোকা-টাকা করে ঘুরে বেড়ানোর শব্দানুকরণ",
+  "figurative_meaning_bn": "লক্ষ্যহীনভাবে এদিক-ওদিক নানাস্থানে ঘুরে বেড়ানো",
+  "figurative_meaning_en": "To wander aimlessly here and there or roam around various places without purpose",
+  "similar_in_english": [
+    "Wander aimlessly",
+    "Mill about",
+    "Putter around"
+  ],
+  "example_sentences_in_bangla": [
+    "সারাদিন কোথায় টো টো করে ঘুরে বেড়াচ্ছ?",
+    "বাজারে টো টো করে সময় কাটিয়ে দিলাম।"
+  ],
+  "example_sentences_in_english": [
+    "Where have you been wandering aimlessly all day?",
+    "I spent the time puttering around the market."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Describing idleness"
+  ],
+  "tags": [
+    "wandering",
+    "aimless",
+    "roaming",
+    "idleness"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "সমার্থক: চষে বেড়ানো"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2234",
+  "idiom": "কুগ্রহ",
+  "alternative_idioms": [
+    "ধনি"
+  ],
+  "literal_meaning": "কু (খারাপ) + গ্রহ (গ্রহ বা নক্ষত্র)",
+  "figurative_meaning_bn": "উৎপাত, উপদ্রব",
+  "figurative_meaning_en": "nuisance, mischief, or malefic influence causing trouble",
+  "similar_in_english": [
+    "jinx",
+    "curse",
+    "ill omen"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার জীবনে একটা মূর্তিমান কুগ্রহ।",
+    "কুগ্রহের প্রভাবে তার সব কাজ ব্যর্থ হয়ে যাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a living jinx in my life.",
+    "Due to the influence of malefic planets, all his endeavors are failing."
+  ],
+  "usage_domain": [
+    "Astrology",
+    "Daily conversation",
+    "Literature"
+  ],
+  "tags": [
+    "misfortune",
+    "nuisance",
+    "astrological influence",
+    "superstition"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Vedic astrology concepts where planets like Saturn and Rahu are considered 'ku-graha' or malefic, influencing human fate adversely."
+  ],
+  "note": "Often used metaphorically to describe persistent bad luck or troublesome people, rooted in Hindu astrological traditions prevalent in Bengali culture."
+}

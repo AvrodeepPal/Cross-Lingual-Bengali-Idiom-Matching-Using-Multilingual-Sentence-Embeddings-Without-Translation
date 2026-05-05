@@ -1,0 +1,40 @@
+{
+  "id": "8341",
+  "idiom": "মন্বন্তর",
+  "alternative_idioms": [],
+  "literal_meaning": "দীর্ঘ অবক্ষয়কাল বা অনাবৃষ্টির সময় (সংস্কৃত মন্বন্তর থেকে উদ্ভূত, যা কস্মিক চক্র বোঝায় কিন্তু এখানে দুর্ভিক্ষের অর্থে ব্যবহৃত)",
+  "figurative_meaning_bn": "দুর্ভিক্ষ, দেশব্যাপী অকাল",
+  "figurative_meaning_en": "Famine, widespread drought or scarcity",
+  "similar_in_english": [
+    "Famine in the land",
+    "Lean times"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে মন্বন্তরের কারণে সবাই কষ্ট পাচ্ছে।",
+    "সেই বছর মন্বন্তরে ফসল নষ্ট হয়ে গিয়েছিল।"
+  ],
+  "example_sentences_in_english": [
+    "The village is suffering due to the famine.",
+    "That year, the crops were destroyed by the widespread drought."
+  ],
+  "usage_domain": [
+    "Agriculture",
+    "Economy",
+    "Disaster"
+  ],
+  "tags": [
+    "দুর্ভিক্ষ",
+    "অকাল",
+    "সংকট"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "বাংলা সাহিত্যে সত্যেন্দ্রনাথ দত্তের কবিতায় উল্লেখিত, যা বাংলার ঐতিহাসিক দুর্ভিক্ষের প্রতিফলন করে।"
+  ],
+  "note": "এটি একটি প্রাচীন শব্দ, আধুনিক বাংলায় কম ব্যবহৃত হয়।"
+}

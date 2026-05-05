@@ -1,0 +1,37 @@
+{
+  "id": "2460",
+  "idiom": "খচখচ",
+  "alternative_idioms": [],
+  "literal_meaning": "খসখস বা ঘর্ষণের শব্দের অনুকরণমূলক দ্বিত্বশব্দ",
+  "figurative_meaning_bn": "অস্বস্তিকর বেদনার অনুভূতির ভাবসূচক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "An onomatopoeic reduplicated expression indicating an uncomfortable, nagging sensation",
+  "similar_in_english": [
+    "nagging feeling",
+    "ants in one's pants"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মনে খচখচ করছে কোনো অস্বস্তিকর চিন্তা নিয়ে।",
+    "এই খচখচ অনুভূতি কাটিয়ে উঠতে পারছি না।"
+  ],
+  "example_sentences_in_english": [
+    "There's a khachkhoch in his mind about some uncomfortable thought.",
+    "I can't shake off this nagging discomfort."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "discomfort",
+    "reduplication"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic idiom commonly used in spoken Bengali to describe internal unease."
+}

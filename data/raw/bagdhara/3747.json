@@ -1,0 +1,40 @@
+{
+  "id": "3747",
+  "idiom": "চর্বিতচর্বণ",
+  "alternative_idioms": [],
+  "literal_meaning": "চিবানো এবং পুনরায় চিবানো (repeated chewing)",
+  "figurative_meaning_bn": "একই বিষয়ের বারবার নিরস আলোচনা; পূর্বে আলোচিত বিষ্যের পুনরায় আলোচনা; পুনরাবৃত্তি",
+  "figurative_meaning_en": "Repeated boring discussion of the same topic; rehashing of previously discussed matters; repetition",
+  "similar_in_english": [
+    "Beating a dead horse",
+    "Chewing the cud",
+    "Going over old ground"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় সেই পুরনো ঘটনার চর্বিতচর্বণ করে যাচ্ছেন, কেউ শুনতে চায় না।",
+    "বইটিতে লেখক একই ধারণার চর্বিতচর্বণ করেছেন, পাঠক বিরক্ত হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "They are beating a dead horse by discussing that old incident in the meeting; no one wants to hear it.",
+    "The author chews the cud on the same idea in the book, boring the readers."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature",
+    "public speaking"
+  ],
+  "tags": [
+    "repetition",
+    "boredom",
+    "discussion",
+    "redundancy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Sanskrit roots, often used in literary contexts to denote tedious repetition."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "8433",
+  "idiom": "মাটি মাটি",
+  "alternative_idioms": [
+    "ম্যাজ ম্যাজ"
+  ],
+  "literal_meaning": "মাটি (soil/earth) repeated for emphasis, implying heaviness or groundedness",
+  "figurative_meaning_bn": "আলস্যবোধ",
+  "figurative_meaning_en": "Feeling of laziness or lethargy",
+  "similar_in_english": [
+    "Feeling sluggish",
+    "Heavy with laziness"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকের আবহাওয়ায় আমার গা মাটি মাটি লাগছে।",
+    "পড়াশোনা করতে গিয়ে মাটি মাটি ভাব হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The humid weather is making me feel so lethargic today.",
+    "I tried to study, but a wave of laziness hit me."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Health and emotions"
+  ],
+  "tags": [
+    "laziness",
+    "lethargy",
+    "colloquial",
+    "physical sensation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom evokes the sensation of the body feeling as heavy as soil, common in rural Bengali expressions."
+}

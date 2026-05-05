@@ -1,0 +1,41 @@
+{
+  "id": "8065",
+  "idiom": "ভাসানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাসানো (to float or make something float)",
+  "figurative_meaning_bn": "সর্বনাশ করা",
+  "figurative_meaning_en": "To cause complete ruin or destruction",
+  "similar_in_english": [
+    "To sink without a trace",
+    "To lead to utter ruin"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ঋণের জন্য আমার জীবন ভাসানো হয়ে গেল।",
+    "এই সিদ্ধান্ত আমাদের ব্যবসাকে ভাসিয়ে দিল।"
+  ],
+  "example_sentences_in_english": [
+    "His debts have completely ruined my life.",
+    "This decision sank our business without hope."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Folk songs"
+  ],
+  "tags": [
+    "destruction",
+    "ruin",
+    "betrayal",
+    "folk expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Originating from the palligeeti (folk song) by Abbasuddin Ahmed: 'আমায় ভাসাইলি রে, আমায় ডুবাইলি রে অকুলদরিয়ার কোনো কূল নাই রে'"
+  ],
+  "note": "This idiom draws from imagery of being adrift in an endless sea, symbolizing hopeless ruin in Bengali folk tradition."
+}

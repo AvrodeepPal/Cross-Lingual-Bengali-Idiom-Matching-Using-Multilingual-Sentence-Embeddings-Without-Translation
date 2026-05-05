@@ -1,0 +1,43 @@
+{
+  "id": "1245",
+  "idiom": "উগরানো",
+  "alternative_idioms": [
+    "ওগরানো",
+    "ওগলানো",
+    "উগলানো"
+  ],
+  "literal_meaning": "বমন করা বা পাকস্থলী থেকে উগরে দেওয়া",
+  "figurative_meaning_bn": "বাধ্য হয়ে গৃহীত বস্তু ফেরত দেওয়া",
+  "figurative_meaning_en": "To reluctantly return something that was taken or borrowed under compulsion",
+  "similar_in_english": [
+    "cough up (money or information)",
+    "throw up (for literal vomiting)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অত খেয়ে উগরানো করল।",
+    "ধার নেওয়া টাকাটা এখন ওগরাও দাও।"
+  ],
+  "example_sentences_in_english": [
+    "He vomited after eating too much.",
+    "Cough up the borrowed money now."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "finance",
+    "health"
+  ],
+  "tags": [
+    "body-related",
+    "reluctance",
+    "money",
+    "figurative return"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variants reflect regional phonetic differences in Bengali dialects."
+}

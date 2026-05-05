@@ -1,0 +1,39 @@
+{
+  "id": "7966",
+  "idiom": "ভয়ে ভয়ে",
+  "alternative_idioms": [],
+  "literal_meaning": "ভয়ে ভয়ে (দ্বিত্বের মাধ্যমে ভয়ের অনুভূতি প্রকাশ)",
+  "figurative_meaning_bn": "ত্রস্তভাবে",
+  "figurative_meaning_en": "timidly or in a frightened manner",
+  "similar_in_english": [
+    "with bated breath",
+    "in fear and trembling"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ভয়ে ভয়ে অন্ধকার রাস্তা দিয়ে হাঁটছিল।",
+    "বাচ্চাটা ভয়ে ভয়ে তার ভুল স্বীকার করল।"
+  ],
+  "example_sentences_in_english": [
+    "He walked down the dark street timidly.",
+    "The child timidly admitted his mistake."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "emotions",
+    "fear and hesitation"
+  ],
+  "tags": [
+    "fear",
+    "hesitation",
+    "emotion",
+    "reduplication"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses reduplication, a common feature in Bengali for emphasis on emotions."
+}

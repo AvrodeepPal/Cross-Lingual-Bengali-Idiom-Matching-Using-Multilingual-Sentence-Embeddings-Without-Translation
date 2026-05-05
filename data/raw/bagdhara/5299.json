@@ -1,0 +1,39 @@
+{
+  "id": "5299",
+  "idiom": "ঢোঁড়াসাপ",
+  "alternative_idioms": [],
+  "literal_meaning": "ধোঁয়ার সাপ (a snake made of smoke)",
+  "figurative_meaning_bn": "বিদ্রুপে অপদার্থ ব্যক্তি; অকর্মণ্য; তেজোবীর্যহীন; যার শক্তি নেই অথচ আস্ফালন বা ক্রোধ আছে",
+  "figurative_meaning_en": "In a mocking sense, a worthless person; inactive or lazy; lacking vitality and vigor; someone without real power but full of fussing or empty anger",
+  "similar_in_english": [
+    "all bark and no bite",
+    "much ado about nothing"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ঢোঁড়াসাপ, অনেক চেঁচামেচি করে কিন্তু কোনো কাজে হাত দেয় না।",
+    "আমাদের বসকে ঢোঁড়াসাপ বলে ডাকা যায়, ক্রোধ দেখায় কিন্তু কিছু করতে পারে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a smoke snake, making a lot of noise but never getting anything done.",
+    "Our boss can be called a smoke snake, full of anger but powerless to act."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "derogatory",
+    "everyday conversation"
+  ],
+  "tags": [
+    "insult",
+    "laziness",
+    "futility",
+    "empty threats"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the imagery of smoke dissipating like a snake, symbolizing insubstantial threats in Bengali folklore."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "5716",
+  "idiom": "দশবার",
+  "alternative_idioms": [],
+  "literal_meaning": "দশ বার (ten times)",
+  "figurative_meaning_bn": "বহুবার",
+  "figurative_meaning_en": "many times",
+  "similar_in_english": [
+    "time and again",
+    "over and over"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি দশবার বলেছি, কিন্তু সে মনোযোগ দেয় না।",
+    "দশবার চেষ্টা করেও সফল হলাম না।"
+  ],
+  "example_sentences_in_english": [
+    "I told him ten times, but he doesn't pay attention.",
+    "I tried ten times but still failed."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "persuasion"
+  ],
+  "tags": [
+    "repetition",
+    "insistence",
+    "frustration"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom exaggerates repetition for emphasis in colloquial Bengali."
+}

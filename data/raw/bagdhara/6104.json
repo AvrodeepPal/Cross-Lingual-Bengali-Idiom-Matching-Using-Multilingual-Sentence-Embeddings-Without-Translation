@@ -1,0 +1,42 @@
+{
+  "id": "6104",
+  "idiom": "ধূমধাম",
+  "alternative_idioms": [
+    "ধূমধড়াক্কা"
+  ],
+  "literal_meaning": "ধোঁয়া এবং ঢাকের শব্দ (smoke and drum beats, evoking noisy celebrations)",
+  "figurative_meaning_bn": "খুব ঘটা; মহাসমারোহ",
+  "figurative_meaning_en": "Great pomp and show; grand ceremony with much fanfare",
+  "similar_in_english": [
+    "With great fanfare",
+    "In grand style",
+    "With bells and whistles"
+  ],
+  "example_sentences_in_bangla": [
+    "ধূমধাম করে তার বাড়ির উদ্বোধন হল।",
+    "বিয়েটি ধূমধাম করে সম্পন্ন হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The inauguration of his house was done with great pomp.",
+    "The wedding was celebrated with much fanfare."
+  ],
+  "usage_domain": [
+    "Celebrations",
+    "Weddings",
+    "Events"
+  ],
+  "tags": [
+    "pomp",
+    "ceremony",
+    "lavish",
+    "festive"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variants like ধূমধড়াক্কা emphasize noisy spectacle in traditional Bengali festivities."
+}

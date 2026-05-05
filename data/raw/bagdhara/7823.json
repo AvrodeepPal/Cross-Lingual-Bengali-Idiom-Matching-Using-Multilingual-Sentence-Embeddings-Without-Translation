@@ -1,0 +1,40 @@
+{
+  "id": "7823",
+  "idiom": "বুলি আওড়ানো",
+  "alternative_idioms": [],
+  "literal_meaning": "শব্দগুলো আওড়ানো বা উচ্চারণ করা",
+  "figurative_meaning_bn": "বাঁধা গল্পে শিক্ষিত কথা বলে যাওয়া",
+  "figurative_meaning_en": "Speaking in a rehearsed or memorized manner without sincerity",
+  "similar_in_english": [
+    "Parroting words",
+    "Reciting by rote",
+    "Reading from a script"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বক্তৃতায় শুধু বুলি আওড়ায়, কোনো আসল অনুভূতি নেই।",
+    "পরীক্ষার জন্য ছেলেটা পাঠ্যবইয়ের লাইন বুলি আওড়াচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He just mutters words in his speech, with no real emotion.",
+    "The boy is reciting textbook lines by rote for the exam."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Education",
+    "Public speaking"
+  ],
+  "tags": [
+    "speech",
+    "insincerity",
+    "rote learning",
+    "mumbling"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects Bengali oral traditions where rote recitation is common in learning and rituals."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6384",
+  "idiom": "নাম নেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "নাম গ্রহণ করা (name to take)",
+  "figurative_meaning_bn": "উপাসনা করা",
+  "figurative_meaning_en": "To worship or chant the divine name",
+  "similar_in_english": [
+    "To say one's prayers",
+    "To invoke the Lord's name"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি প্রতিদিন সকালে নাম নেন।",
+    "ভক্তরা মন্দিরে গিয়ে নাম নেয়।"
+  ],
+  "example_sentences_in_english": [
+    "He takes the name every morning in devotion.",
+    "The devotees chant the name in the temple."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Spirituality"
+  ],
+  "tags": [
+    "worship",
+    "prayer",
+    "devotion",
+    "bhakti"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Common in Vaishnava traditions where chanting God's name is a form of worship"
+}

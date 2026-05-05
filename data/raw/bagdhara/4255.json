@@ -1,0 +1,39 @@
+{
+  "id": "4255",
+  "idiom": "ছল ধরা",
+  "alternative_idioms": [],
+  "literal_meaning": "ছল (trick or pretext) ধরা (to catch or grasp)",
+  "figurative_meaning_bn": "কথার খুঁত বা দোষ বার করা",
+  "figurative_meaning_en": "To find faults or flaws in someone's words or speech",
+  "similar_in_english": [
+    "Pick holes in an argument",
+    "Nitpick",
+    "Find fault with"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বক্তব্যে ছল ধরে ফেললাম।",
+    "এই যুক্তিতে সহজেই ছল ধরা যায়।"
+  ],
+  "example_sentences_in_english": [
+    "I caught the flaw in his statement.",
+    "It's easy to pick holes in this argument."
+  ],
+  "usage_domain": [
+    "debate",
+    "conversation",
+    "criticism"
+  ],
+  "tags": [
+    "fault-finding",
+    "speech",
+    "argument"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": ""
+}

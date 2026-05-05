@@ -1,0 +1,41 @@
+{
+  "id": "9261",
+  "idiom": "লাগালাগি",
+  "alternative_idioms": [],
+  "literal_meaning": "লাগানোর লাগানো (পরস্পর লাগানোর কাজ)",
+  "figurative_meaning_bn": "পরস্পরের নিন্দা পরস্পরের কানে তোলা",
+  "figurative_meaning_en": "Instigating conflict by carrying complaints or slander from one person to another",
+  "similar_in_english": [
+    "Playing both ends against the middle",
+    "Stirring the pot",
+    "Tale-bearing"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দুই ভাইয়ের মধ্যে লাগালাগি করে তাদের সম্পর্ক নষ্ট করে দিল।",
+    "পাড়ায় লাগালাগির জন্য অনেক ঝগড়া হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He ruined the relationship between the two brothers by engaging in lagalagi.",
+    "Many quarrels happen in the neighborhood due to tale-carrying."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "family disputes",
+    "gossip"
+  ],
+  "tags": [
+    "নিন্দা",
+    "ঝগড়া",
+    "উসকানি",
+    "gossip",
+    "instigation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects common social behaviors in Bengali communities where gossip can escalate minor issues."
+}

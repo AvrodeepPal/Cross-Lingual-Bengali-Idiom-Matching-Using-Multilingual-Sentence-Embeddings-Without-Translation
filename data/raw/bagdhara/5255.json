@@ -1,0 +1,39 @@
+{
+  "id": "5255",
+  "idiom": "ঢিল ছোঁড়া দূরত্ব",
+  "alternative_idioms": [
+    "মারা দূরত্ব"
+  ],
+  "literal_meaning": "পাথর ছুঁড়ে পৌঁছানো যায় এমন দূরত্ব",
+  "figurative_meaning_bn": "খুব কাছেই; বেশি দূরে নয়",
+  "figurative_meaning_en": "Very close; not too far away",
+  "similar_in_english": [
+    "a stone's throw away",
+    "within a stone's throw"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার বাড়ি থেকে দোকান ঢিল ছোঁড়া দূরত্বে।",
+    "কর্মস্থলটি বাড়ির খুব কাছে, ঢিল ছোঁড়া দূরত্বে।"
+  ],
+  "example_sentences_in_english": [
+    "The shop is a stone's throw from my house.",
+    "The workplace is very close to home, just a stone's throw away."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "location and distance"
+  ],
+  "tags": [
+    "proximity",
+    "distance",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday spatial awareness in Bengali-speaking regions, emphasizing short distances without modern measurements."
+}

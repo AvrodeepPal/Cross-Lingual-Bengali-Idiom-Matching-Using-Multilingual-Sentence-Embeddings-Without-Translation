@@ -1,0 +1,44 @@
+{
+  "id": "1028",
+  "idiom": "এক্তিয়ার",
+  "alternative_idioms": [
+    "একতিয়ার",
+    "এখতিয়ার"
+  ],
+  "literal_meaning": "অধিকার বা নিয়ন্ত্রণের ক্ষমতা (আরবি 'ইখতিয়ার' থেকে উদ্ভূত)",
+  "figurative_meaning_bn": "অধিকার; ক্ষমতা",
+  "figurative_meaning_en": "authority; power",
+  "similar_in_english": [
+    "within one's power",
+    "under one's authority"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সিদ্ধান্ত নেওয়ার এক্তিয়ার আমার নেই।",
+    "সরকারের এক্তিয়ারে এই এলাকা পড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "I don't have the authority to make this decision.",
+    "This area falls under the government's power."
+  ],
+  "usage_domain": [
+    "administration",
+    "legal",
+    "daily conversation"
+  ],
+  "tags": [
+    "authority",
+    "control",
+    "jurisdiction",
+    "loanword"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এটি আরবি 'ইখতিয়ার' শব্দ থেকে বাংলায় প্রবেশ করেছে, মুসলিম শাসনকালের প্রভাবে প্রশাসনিক প্রসঙ্গে ব্যবহৃত।"
+  ],
+  "note": "এটি একটি ধারণা শব্দ, কিন্তু বাংলায় বাগধারা হিসেবে বিবেচিত হয়েছে প্রসঙ্গভিত্তিক ব্যবহারে।"
+}

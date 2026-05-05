@@ -1,0 +1,39 @@
+{
+  "id": "5679",
+  "idiom": "দরকচা মারা",
+  "alternative_idioms": [
+    "কাঁচা মারা"
+  ],
+  "literal_meaning": "কৃশতা বা পাতলা হয়ে যাওয়া",
+  "figurative_meaning_bn": "কৃশ/ক্ষীণ হওয়া",
+  "figurative_meaning_en": "To become thin or emaciated",
+  "similar_in_english": [
+    "skin and bones",
+    "wasting away"
+  ],
+  "example_sentences_in_bangla": [
+    "চেহারাটা দরকচা মেরে গেছে।",
+    "রোগে ভুগে তার শরীর দরকচা মেরেছে।"
+  ],
+  "example_sentences_in_english": [
+    "His appearance has become emaciated.",
+    "Suffering from illness, his body has wasted away."
+  ],
+  "usage_domain": [
+    "health",
+    "physical description"
+  ],
+  "tags": [
+    "body",
+    "illness",
+    "appearance"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom reflects everyday observations of physical decline in Bengali rural life."
+}

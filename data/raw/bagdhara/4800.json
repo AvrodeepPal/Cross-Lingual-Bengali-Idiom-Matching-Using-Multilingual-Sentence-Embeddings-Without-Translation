@@ -1,0 +1,43 @@
+{
+  "id": "4800",
+  "idiom": "ঝাঁকের কই",
+  "alternative_idioms": [
+    "একগোয়ালের গরু",
+    "একগাঙের চিল",
+    "একবনের শিয়াল"
+  ],
+  "literal_meaning": "ঝাঁকের স্থান বা উৎস (ঝাঁক অর্থ দল বা পক্ষীগোষ্ঠী, কই অর্থ কোথায়)",
+  "figurative_meaning_bn": "একদলভুক্ত; সমগোত্রীয়",
+  "figurative_meaning_en": "Member of the same group; of the same clan or lineage",
+  "similar_in_english": [
+    "Birds of a feather",
+    "One of our own",
+    "From the same flock"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমাদের ঝাঁকের কই, তাই সবাই তার সাথে মিলে যায়।",
+    "এই গ্রামের লোকেরা সবাই এক ঝাঁকের কই।"
+  ],
+  "example_sentences_in_english": [
+    "He is one of our flock, so everyone gets along with him.",
+    "The people of this village are all from the same group."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "group belonging",
+    "community"
+  ],
+  "tags": [
+    "group identity",
+    "solidarity",
+    "rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from imagery of animal flocks, common in Bengali agrarian society."
+}

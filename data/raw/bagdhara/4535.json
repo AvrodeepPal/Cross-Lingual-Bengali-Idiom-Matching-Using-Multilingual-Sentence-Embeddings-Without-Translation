@@ -1,0 +1,38 @@
+{
+  "id": "4535",
+  "idiom": "জলধর",
+  "alternative_idioms": [],
+  "literal_meaning": "জলধারক (water holder)",
+  "figurative_meaning_bn": "মেঘ; সমুদ্র",
+  "figurative_meaning_en": "Cloud; Ocean",
+  "similar_in_english": [
+    "Rain cloud",
+    "Water bearer"
+  ],
+  "example_sentences_in_bangla": [
+    "আকাশে কালো জলধর জমে উঠেছে, বৃষ্টি হবে বলে মনে হচ্ছে।",
+    "বঙ্গোপসাগরকে প্রাচীন কবিরা জলধর বলে অভিহিত করেছেন।"
+  ],
+  "example_sentences_in_english": [
+    "Dark clouds are gathering in the sky, it seems like rain is coming.",
+    "The Bay of Bengal was referred to as a water holder by ancient poets."
+  ],
+  "usage_domain": [
+    "Weather",
+    "Nature",
+    "Poetry"
+  ],
+  "tags": [
+    "metaphor",
+    "nature",
+    "literary"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term originates from Sanskrit and is commonly used in Bengali literature to poetically describe clouds or vast bodies of water."
+}

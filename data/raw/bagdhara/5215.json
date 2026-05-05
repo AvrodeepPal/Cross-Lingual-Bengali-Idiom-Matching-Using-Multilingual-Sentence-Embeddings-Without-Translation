@@ -1,0 +1,38 @@
+{
+  "id": "5215",
+  "idiom": "ঢক্ঢক্",
+  "alternative_idioms": [],
+  "literal_meaning": "জল দ্রুত গিলে পান করার শব্দানুকরণ (onomatopoeic sound of gulping water rapidly)",
+  "figurative_meaning_bn": "দ্রুত জল পান করার ভাব অর্থে দ্বিত্ব",
+  "figurative_meaning_en": "Reduplication expressing the manner of drinking water quickly",
+  "similar_in_english": [
+    "gulp down",
+    "glug glug"
+  ],
+  "example_sentences_in_bangla": [
+    "ঢকঢক করে জলটা খেয়ে ফেলো।",
+    "গরমে তৃষ্ণায় সে ঢকঢক করে পানি পান করল।"
+  ],
+  "example_sentences_in_english": [
+    "Gulp down the water quickly.",
+    "Thirsty from the heat, he glugged down the water."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing actions"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "reduplication",
+    "sound imitation",
+    "haste"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in spoken Bengali to mimic the sound of rapid drinking."
+}

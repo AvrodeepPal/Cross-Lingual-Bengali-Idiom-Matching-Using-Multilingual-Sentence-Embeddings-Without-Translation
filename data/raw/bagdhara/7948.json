@@ -1,0 +1,41 @@
+{
+  "id": "7948",
+  "idiom": "ভগ্নদূত",
+  "alternative_idioms": [],
+  "literal_meaning": "ভগ্ন (পরাজিত বা ভাঙা) দূত (দূত বা বার্তাবাহক)",
+  "figurative_meaning_bn": "যে দূত রণক্ষেত্র থেকে স্বপক্ষের পরাজয়ের খবর নিয়ে আসে",
+  "figurative_meaning_en": "A messenger who brings news of one's own side's defeat from the battlefield",
+  "similar_in_english": [
+    "bearer of bad news",
+    "herald of defeat"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ভগ্নদূতের মতো খবরটা জানালো, সবাই মুহূর্তে হতাশ হয়ে গেল।",
+    "যুদ্ধের পর ভগ্নদূত ফিরে এসে পরাজয়ের কথা বলল।"
+  ],
+  "example_sentences_in_english": [
+    "He announced the news like a bearer of bad tidings, and everyone was instantly disheartened.",
+    "After the battle, the defeated messenger returned to report the loss."
+  ],
+  "usage_domain": [
+    "warfare",
+    "military",
+    "news delivery"
+  ],
+  "tags": [
+    "defeat",
+    "messenger",
+    "battlefield",
+    "bad news"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from historical and literary depictions of ancient battles in Bengali and Indian epics, where messengers often carried tidings of defeat from the front lines."
+  ],
+  "note": "Rooted in classical Bengali literature and historical narratives of warfare."
+}

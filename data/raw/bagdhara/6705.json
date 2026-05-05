@@ -1,0 +1,41 @@
+{
+  "id": "6705",
+  "idiom": "পাকা ঘুঁটি কাচানো",
+  "alternative_idioms": [
+    "পাকা ঘুঁটি কেঁচে যাওয়া"
+  ],
+  "literal_meaning": "পাকা (দৃঢ়) ঘুঁটি (খুঁটি বা পেগ) কাচানো (পোড়ানো বা চাপ দিয়ে নষ্ট করা)",
+  "figurative_meaning_bn": "প্রায় সুসম্পন্ন কাজ পণ্ড করা",
+  "figurative_meaning_en": "To ruin a task that is almost successfully completed",
+  "similar_in_english": [
+    "Snatch defeat from the jaws of victory",
+    "Fumble the ball at the one-yard line"
+  ],
+  "example_sentences_in_bangla": [
+    "শেষ মুহূর্তে একটা ছোট ভুলে তার পুরো প্রকল্পের পাকা ঘুঁটি কাচানো হয়ে গেল।",
+    "আমরা জয়ের দ্বারপ্রান্তে ছিলাম, কিন্তু সেই ভুলে পাকা ঘুঁটি কেঁচে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "A small mistake at the last moment burned his firm peg on the entire project.",
+    "We were on the verge of victory, but that error spoiled it all."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "work and projects",
+    "sports"
+  ],
+  "tags": [
+    "failure",
+    "ruin",
+    "last-minute mistake",
+    "frustration"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from rural imagery of securing tents or structures with firm pegs, which if damaged, cause collapse."
+}

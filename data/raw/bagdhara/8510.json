@@ -1,0 +1,43 @@
+{
+  "id": "8510",
+  "idiom": "মাথামোটা",
+  "alternative_idioms": [
+    "ঘিলুহীনখুলি",
+    "মাথায় ঘি নেই",
+    "মাথায় ঘিলু নেই"
+  ],
+  "literal_meaning": "মাথা (head) + মোটা (thick/fat); thick-headed",
+  "figurative_meaning_bn": "স্থূলবুদ্ধি, বুদ্ধিহীন",
+  "figurative_meaning_en": "Dull-witted, lacking intelligence",
+  "similar_in_english": [
+    "thick-headed",
+    "dense",
+    "not the sharpest tool in the shed"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এত মাথামোটা যে সহজ কথাও বুঝতে পারে না।",
+    "মাথামোটা লোকের সাথে কথা বলা বৃথা।"
+  ],
+  "example_sentences_in_english": [
+    "He's so thick-headed that he can't understand even simple things.",
+    "It's futile to talk with such a dull-witted person."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation",
+    "insults"
+  ],
+  "tags": [
+    "intelligence",
+    "negative trait",
+    "figurative insult"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the cultural notion of 'ghiu' (clarified butter) symbolizing brain matter or intelligence in traditional Bengali expressions."
+}

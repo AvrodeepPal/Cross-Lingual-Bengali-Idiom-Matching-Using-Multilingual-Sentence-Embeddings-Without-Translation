@@ -1,0 +1,43 @@
+{
+  "id": "3449",
+  "idiom": "ঘরসন্ধানে রাবণ নষ্ট",
+  "alternative_idioms": [
+    "ঘরভেদে রাবণ নষ্ট"
+  ],
+  "literal_meaning": "ঘর খোঁজার সময় রাবণের ধ্বংস",
+  "figurative_meaning_bn": "ঘরসন্ধানরাই ঘর বিনাশ করে",
+  "figurative_meaning_en": "Those who meddle in others' household affairs end up destroying them or themselves",
+  "similar_in_english": [
+    "Curiosity killed the cat",
+    "He who digs a pit for others falls in it himself"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অন্যের পরিবারের ব্যাপারে অনেক হস্তক্ষেপ করেছে, ফলে ঘরসন্ধানে রাবণ নষ্ট হয়েছে তার মতো।",
+    "ঘরের কাজে বাইরের লোকেরা এলে ঘরসন্ধানে রাবণ নষ্ট হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He interfered too much in their family matters and ended up like Ravana destroyed in house-searching.",
+    "When outsiders meddle in home affairs, it's like Ravana's destruction in seeking a house."
+  ],
+  "usage_domain": [
+    "family",
+    "advice",
+    "warnings"
+  ],
+  "tags": [
+    "meddling",
+    "destruction",
+    "family interference",
+    "mythological reference"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the Ramayana epic, where Ravana's attempt to abduct Sita (interfering in Rama's household) leads to his ultimate destruction."
+  ],
+  "note": "The idiom warns against interfering in others' domestic matters, using Ravana as a cautionary figure from Hindu mythology."
+}

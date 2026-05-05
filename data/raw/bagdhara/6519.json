@@ -1,0 +1,39 @@
+{
+  "id": "6519",
+  "idiom": "পক্ষচ্ছেদ করা",
+  "alternative_idioms": [
+    "পক্ষচ্ছেদন"
+  ],
+  "literal_meaning": "পক্ষ কাটা (wings to cut)",
+  "figurative_meaning_bn": "ক্ষমতাশূন্য করা",
+  "figurative_meaning_en": "to render powerless",
+  "similar_in_english": [
+    "clip one's wings"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকার বিরোধী দলের পক্ষচ্ছেদ করার চেষ্টা করছে।",
+    "পিতা তার ছেলের পক্ষচ্ছেদ করে দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The government is trying to clip the opposition party's wings.",
+    "The father has clipped his son's wings."
+  ],
+  "usage_domain": [
+    "politics",
+    "family dynamics",
+    "power relations"
+  ],
+  "tags": [
+    "power",
+    "restriction",
+    "politics"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in political contexts to describe limiting an opponent's influence."
+}

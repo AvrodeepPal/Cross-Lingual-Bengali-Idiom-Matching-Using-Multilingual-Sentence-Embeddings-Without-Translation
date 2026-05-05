@@ -1,0 +1,41 @@
+{
+  "id": "7147",
+  "idiom": "ফুটানি",
+  "alternative_idioms": [
+    "ফুটুনি"
+  ],
+  "literal_meaning": "ফুটে ওঠা বা দেখানোর ভঙ্গি (showing off or displaying flamboyantly)",
+  "figurative_meaning_bn": "অশোভন বাবুগিরি; লোকদেখানো বাবুগিরি",
+  "figurative_meaning_en": "Vulgar pretentiousness; showy behavior to impress others",
+  "similar_in_english": [
+    "Putting on airs",
+    "Showing off",
+    "All hat and no cattle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হঠাৎ ধনী হয়ে ফুটানি শুরু করেছে।",
+    "ফুটানি করে কোনো লাভ নেই, সত্যিকারের কাজ করো।"
+  ],
+  "example_sentences_in_english": [
+    "He started showing off as soon as he got some money.",
+    "There's no point in putting on airs; just do the real work."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Social commentary"
+  ],
+  "tags": [
+    "colloquial",
+    "negative",
+    "urban",
+    "pretentiousness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Refers to the stereotypical urban 'babu' class's ostentatious behavior in Bengali society."
+}

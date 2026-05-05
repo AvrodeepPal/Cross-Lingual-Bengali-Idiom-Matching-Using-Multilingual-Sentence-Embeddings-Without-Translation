@@ -1,0 +1,39 @@
+{
+  "id": "5300",
+  "idiom": "ঢোল",
+  "alternative_idioms": [],
+  "literal_meaning": "ঢোল (ড্রাম বা ঢাকের মতো বাদ্যযন্ত্র)",
+  "figurative_meaning_bn": "ডোলের মত ফাঁপা বা ফোলা অবস্থা",
+  "figurative_meaning_en": "A swollen or bloated state like a drum",
+  "similar_in_english": [
+    "puffed up like a balloon",
+    "swollen to bursting"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পেট ফুলে ঢোল হয়ে গেছে।",
+    "আলু টা এত ফুলে ঢোল দেখাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "His stomach has swollen up like a drum.",
+    "The potato looks bloated like a drum."
+  ],
+  "usage_domain": [
+    "descriptive",
+    "health",
+    "everyday language"
+  ],
+  "tags": [
+    "swelling",
+    "bloating",
+    "physical description",
+    "body"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the round, taut shape of a traditional Bengali drum (ঢোল), commonly used in folk music and festivals."
+}

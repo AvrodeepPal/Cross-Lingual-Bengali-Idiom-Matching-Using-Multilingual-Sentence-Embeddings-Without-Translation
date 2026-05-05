@@ -1,0 +1,38 @@
+{
+  "id": "10158",
+  "idiom": "হাত পাতা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত বিস্তার করা (to extend or spread the hand)",
+  "figurative_meaning_bn": "ঘুষ নেওয়া",
+  "figurative_meaning_en": "to take or accept a bribe",
+  "similar_in_english": [
+    "to have one's hand out",
+    "to grease someone's palm"
+  ],
+  "example_sentences_in_bangla": [
+    "অফিসারটি হাত পাতার জন্য পরিচিত।",
+    "সে প্রকল্পের অনুমোদনের বিনিময়ে হাত পাতল।"
+  ],
+  "example_sentences_in_english": [
+    "The officer is known for having his hand out.",
+    "He extended his hand in exchange for project approval."
+  ],
+  "usage_domain": [
+    "politics",
+    "business",
+    "administration"
+  ],
+  "tags": [
+    "corruption",
+    "bribery",
+    "greed"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday perceptions of corruption in Bengali society."
+}

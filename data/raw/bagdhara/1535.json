@@ -1,0 +1,41 @@
+{
+  "id": "1535",
+  "idiom": "কন্যাপণ",
+  "alternative_idioms": [],
+  "literal_meaning": "কন্যার মূল্য বা দাম",
+  "figurative_meaning_bn": "পাত্রীপক্ষের কাছে পাত্রপক্ষের অবৈধ দাবী, যৌতুক",
+  "figurative_meaning_en": "Illegal demand for dowry from the groom's side to the bride's side",
+  "similar_in_english": [
+    "dowry demand",
+    "bride price extortion"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের আয়োজনে কন্যাপণের দাবি করে তারা পরিবারকে বিপর্যস্ত করল।",
+    "আধুনিক সমাজে কন্যাপণের প্রথা এখনও প্রচলিত, যা নারীদের অধিকার লঙ্ঘন করে।"
+  ],
+  "example_sentences_in_english": [
+    "They tormented the family by demanding kanyapan during the wedding arrangements.",
+    "In modern society, the practice of kanyapan persists, violating women's rights."
+  ],
+  "usage_domain": [
+    "marriage",
+    "social issues",
+    "gender equality"
+  ],
+  "tags": [
+    "dowry",
+    "wedding customs",
+    "patriarchy",
+    "social evil"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom reflects the longstanding dowry system in Bengali and broader Indian culture, originating from ancient customs where families provided gifts to the groom, but evolving into exploitative demands."
+  ],
+  "note": "The term highlights the negative aspect of traditional marriage practices in Bengal."
+}

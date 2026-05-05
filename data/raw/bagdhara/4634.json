@@ -1,0 +1,40 @@
+{
+  "id": "4634",
+  "idiom": "জাল",
+  "alternative_idioms": [],
+  "literal_meaning": "মাছ ধরার জাল বা ফাঁদের মতো জাল",
+  "figurative_meaning_bn": "ঝামেলা; ফাঁদ",
+  "figurative_meaning_en": "Trouble; Trap",
+  "similar_in_english": [
+    "Fall into a trap",
+    "Caught in a web"
+  ],
+  "example_sentences_in_bangla": [
+    "অযথা জালে জড়িয়ো না, নাহলে পরে পস্তাবে।",
+    "এই ব্যবসায় জাল বিস্তার করা হয়েছে, সাবধান।"
+  ],
+  "example_sentences_in_english": [
+    "Don't get entangled in unnecessary trouble, or you'll regret it later.",
+    "A trap has been set in this business, be careful."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Warnings and advice"
+  ],
+  "tags": [
+    "trouble",
+    "trap",
+    "caution",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from the metaphor of fishing nets used in rural Bengal to catch fish, extended to mean any ensnaring complication or deceitful setup."
+  ],
+  "note": "The idiom draws from everyday rural life involving nets for fishing or trapping, symbolizing entanglement in problems."
+}

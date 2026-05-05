@@ -1,0 +1,43 @@
+{
+  "id": "5876",
+  "idiom": "দুধের মাছি",
+  "alternative_idioms": [
+    "ফুলেরো ভ্রমরা",
+    "বসন্তের কোকিল",
+    "লক্ষ্মীর বরযাত্রী",
+    "শরতের শিশির",
+    "সুখের পায়রা"
+  ],
+  "literal_meaning": "দুধের মাছি (milk's fly)",
+  "figurative_meaning_bn": "সুসময়ের বন্ধু/সঙ্গী যা শুধুমাত্র সুখের সময়ে উপস্থিত থাকে এবং দুঃখের সময়ে অন্যত্র চলে যায়",
+  "figurative_meaning_en": "A fair-weather friend who is only present during good times and abandons in adversity",
+  "similar_in_english": [
+    "fair-weather friend"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দুধের মাছির মতো, আমার সফলতার সময় সবসময় পাশে থাকে কিন্তু সমস্যার সময় কোথাও নেই।",
+    "জীবনে দুধের মাছির মতো বন্ধু এড়িয়ে চলা উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "He is like a milk fly, always by my side during success but nowhere to be found in times of trouble.",
+    "One should avoid fair-weather friends like the milk fly in life."
+  ],
+  "usage_domain": [
+    "relationships",
+    "friendship",
+    "social commentary"
+  ],
+  "tags": [
+    "figurative",
+    "pejorative",
+    "nature-based"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from everyday rural observations of flies preferring milk, symbolizing opportunistic companionship in Bengali folklore."
+}

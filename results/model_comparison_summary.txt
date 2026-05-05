@@ -1,0 +1,33 @@
+=================================================================
+  MODEL COMPARISON VERDICT
+=================================================================
+
+[1] SEMANTIC SIMILARITY (Mean Cosine Score)
+  bn-en: mSBERT=0.4376  LaBSE=0.3878  → mSBERT wins
+  [bn-en] Difference is statistically significant (t=7.9144, p=0.0)
+
+[2] RETRIEVAL METRICS
+  MRR: mSBERT=0.0011  LaBSE=0.0084  → LaBSE wins
+  P@1: mSBERT=0.0004  LaBSE=0.0055  → LaBSE wins
+  P@5: mSBERT=0.0019  LaBSE=0.0119  → LaBSE wins
+  Hit@10: mSBERT=0.0028  LaBSE=0.0148  → LaBSE wins
+
+[3] CLUSTERING METRICS
+  silhouette: mSBERT=-0.0204  LaBSE=0.0412  → LaBSE wins
+  purity: mSBERT=0.9164  LaBSE=0.7511  → mSBERT wins
+  triplet_cohesion: mSBERT=0.0000  LaBSE=0.0000  → LaBSE wins
+
+=================================================================
+  SCORE TALLY:  mSBERT=2  LaBSE=6
+
+  OVERALL WINNER: LaBSE
+=================================================================
+
+  INTERPRETATION:
+  LaBSE (Language-Agnostic BERT Sentence Embeddings) outperforms mSBERT
+  on this cross-lingual idiom task. This is expected because LaBSE was
+  specifically trained to align representations across 109 languages
+  using a dual-encoder framework with cross-lingual transfer. Its training
+  objective directly optimised for cross-lingual similarity, making it
+  better suited for low-resource language pairs like Bengali–Hindi and
+  Bengali–English in an idiomatic context.

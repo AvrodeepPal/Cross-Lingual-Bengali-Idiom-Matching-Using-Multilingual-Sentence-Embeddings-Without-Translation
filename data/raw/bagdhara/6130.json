@@ -1,0 +1,44 @@
+{
+  "id": "6130",
+  "idiom": "ধোপার গাধা",
+  "alternative_idioms": [
+    "কলুর বলদ"
+  ],
+  "literal_meaning": "ধোয়ার জন্য কাজ করা গাধা (washerman's donkey)",
+  "figurative_meaning_bn": "পরের জন্য খেটে মরা ব্যক্তি",
+  "figurative_meaning_en": "A person who toils endlessly for others without recognition",
+  "similar_in_english": [
+    "Workhorse",
+    "Beast of burden",
+    "Unsung hero"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ধোপার গাধার মতো সারাদিন অন্যের জন্য খেটে যায়।",
+    "অফিসে সবাই উপভোগ করে, কিন্তু কাজটা করে ধোপার গাধা হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He toils like a washerman's donkey all day for others.",
+    "Everyone enjoys the benefits, but he ends up being the washerman's donkey doing all the work."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "work and labor",
+    "daily conversation"
+  ],
+  "tags": [
+    "proverbial",
+    "exploitation",
+    "hard work",
+    "rural imagery"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from rural Bengali life where washermen (dhopae) relied on donkeys to carry heavy loads of laundry, symbolizing tireless, unrewarded labor."
+  ],
+  "note": "The idiom highlights themes of exploitation in traditional occupations."
+}

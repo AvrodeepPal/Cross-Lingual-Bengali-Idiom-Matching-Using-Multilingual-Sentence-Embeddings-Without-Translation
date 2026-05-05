@@ -1,0 +1,43 @@
+{
+  "id": "7525",
+  "idiom": "বাটপাড়ি",
+  "alternative_idioms": [
+    "বাট্‌পাড়"
+  ],
+  "literal_meaning": "পথ বা গ্রামের বাট (শিল/পথ) পাড়া বা লুট করা (raiding or clearing the path/mortar area)",
+  "figurative_meaning_bn": "ঠগ, প্রতারক লুটেরা; দস্যুপনা, রাহাজানি, লুটতরাজ",
+  "figurative_meaning_en": "Thugs, fraudulent looters; banditry, highway robbery, plundering",
+  "similar_in_english": [
+    "highwaymen",
+    "band of robbers",
+    "footpads"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই লোকটি একজন সত্যিকারের বাটপাড়ি, সে সবসময় প্রতারণা করে লুট করে।",
+    "গ্রামে বাটপাড়ির দস্যুপনা শুরু হয়েছে, সবাই ভয় পাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "That man is a real highway robber; he always cheats and loots people.",
+    "Banditry by dacoits has started in the village, and everyone is scared."
+  ],
+  "usage_domain": [
+    "crime",
+    "colloquial",
+    "rural narratives"
+  ],
+  "tags": [
+    "negative",
+    "proverbial",
+    "historical slang"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The term refers to historical dacoits in rural Bengal who raided villages for plunder. It is linked to the proverb 'চোরের উপর বাটপাড়ি', meaning even robbing a thief, highlighting opportunistic crime in colonial and pre-colonial Bengal."
+  ],
+  "note": "This idiom evokes the era of dacoity in Bengali folklore and literature."
+}

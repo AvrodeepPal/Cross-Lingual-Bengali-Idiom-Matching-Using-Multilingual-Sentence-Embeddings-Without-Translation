@@ -1,0 +1,45 @@
+{
+  "id": "3401",
+  "idiom": "গ্রাসাচ্ছাদন",
+  "alternative_idioms": [
+    "অন্নবস্ত্র",
+    "খাওয়াপরা",
+    "ভাতকাপড়",
+    "খোরপোশ"
+  ],
+  "literal_meaning": "গ্রাস (খাদ্য) এবং আচ্ছাদন (বস্ত্র বা আবরণ)",
+  "figurative_meaning_bn": "অন্নবস্ত্র; খাওয়াপরা; ভাতকাপড়",
+  "figurative_meaning_en": "Food and clothing; basic necessities for sustenance and covering",
+  "similar_in_english": [
+    "Bread and butter",
+    "Food and raiment",
+    "Daily bread"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পরিবারের গ্রাসাচ্ছাদনের জন্য তিনি কঠোর পরিশ্রম করেন।",
+    "গ্রামে গ্রাসাচ্ছাদনের জন্য কৃষিকাজই প্রধান উপায়।"
+  ],
+  "example_sentences_in_english": [
+    "He works hard to provide for his family's food and clothing.",
+    "In the village, farming is the main way to ensure food and clothing."
+  ],
+  "usage_domain": [
+    "Daily life",
+    "Economics",
+    "Family welfare"
+  ],
+  "tags": [
+    "necessities",
+    "livelihood",
+    "sustenance",
+    "basic needs"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes the fundamental human needs in Bengali cultural context, often used in discussions of poverty or self-sufficiency."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "9820",
+  "idiom": "সেলাম করা",
+  "alternative_idioms": [],
+  "literal_meaning": "সালাম দেওয়া বা অভিবাদন করা",
+  "figurative_meaning_bn": "বিদ্রুপে নতি স্বীকার করা",
+  "figurative_meaning_en": "To concede or submit in a mocking or sarcastic manner",
+  "similar_in_english": [
+    "Tip one's hat sarcastically",
+    "Bow down mockingly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বিদ্রুপে সেলাম করে বলল, 'ঠিক আছে, তুমি জিতেছ।'",
+    "বিতর্কে হেরে যাওয়ার পর সে হাসতে হাসতে সেলাম করল।"
+  ],
+  "example_sentences_in_english": [
+    "He mockingly saluted and said, 'Alright, you win.'",
+    "After losing the argument, he saluted sarcastically with a grin."
+  ],
+  "usage_domain": [
+    "Conversation",
+    "Humor",
+    "Sarcasm"
+  ],
+  "tags": [
+    "বিদ্রুপ",
+    "সার্কাস্টিক",
+    "স্বীকৃতি"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the cultural greeting 'salam' but twists it into sarcasm, common in everyday Bengali banter."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "63",
+  "idiom": "অগ্নিমূর্তি",
+  "alternative_idioms": [
+    "অগ্নি-অবতার",
+    "অগ্নিশর্মা",
+    "ভস্মলোচন"
+  ],
+  "literal_meaning": "অগ্নির মূর্তি (fire's form or image of fire)",
+  "figurative_meaning_bn": "অতিশয় ক্রুদ্ধ",
+  "figurative_meaning_en": "extremely angry or furious",
+  "similar_in_english": [
+    "seeing red",
+    "burning with rage",
+    "like a fire-breathing dragon"
+  ],
+  "example_sentences_in_bangla": [
+    "বস্তুতালার ঘটনায় বাবা অগ্নিমূর্তি হয়ে উঠলেন।",
+    "ম্যানেজারের ভুলের জন্য বস অগ্নিমূর্তি ধারণ করেছেন।"
+  ],
+  "example_sentences_in_english": [
+    "Father became furious like a fire image over the Basta incident.",
+    "The boss assumed a fiery form due to the manager's mistake."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "emotional expression"
+  ],
+  "tags": [
+    "anger",
+    "emotion",
+    "fire metaphor",
+    "intense fury"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Draws from Vedic fire deity Agni for metaphorical intensity in expressing wrath."
+}

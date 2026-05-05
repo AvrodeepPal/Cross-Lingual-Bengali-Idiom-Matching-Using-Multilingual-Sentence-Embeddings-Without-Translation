@@ -1,0 +1,41 @@
+{
+  "id": "173",
+  "idiom": "অন্ধকূপ",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ধ কূপ (অন্ধকারময় কূপ)",
+  "figurative_meaning_bn": "নিবিড় অন্ধকারময় অপরিসর কক্ষ",
+  "figurative_meaning_en": "A narrow, pitch-dark chamber or cell",
+  "similar_in_english": [
+    "black hole",
+    "dungeon of despair"
+  ],
+  "example_sentences_in_bangla": [
+    "শত্রুদের অন্ধকূপে বন্দী করে হত্যা করা হতো।",
+    "সেই অন্ধকূপের মতো অন্ধকার ঘরে সে ভয়ে কাঁপছিল।"
+  ],
+  "example_sentences_in_english": [
+    "Enemies were imprisoned and killed in the blind well.",
+    "He was trembling in fear in that pitch-dark room like a blind well."
+  ],
+  "usage_domain": [
+    "literature",
+    "history",
+    "crime"
+  ],
+  "tags": [
+    "darkness",
+    "confinement",
+    "torture",
+    "secrecy"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to dark, narrow wells or pits historically used in Bengal for secret executions or hiding during feudal times."
+  ],
+  "note": "Often associated with clandestine murders in medieval Bengali contexts."
+}

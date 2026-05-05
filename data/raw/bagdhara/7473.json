@@ -1,0 +1,47 @@
+{
+  "id": "7473",
+  "idiom": "বাঘের গায়ে নামাবলী",
+  "alternative_idioms": [
+    "তিলককাটা বামুন",
+    "তুলসীবনের বাঘ",
+    "বকধার্মিক",
+    "বিড়ালের গলায় তুলসীমালা",
+    "বিড়াল-তপস্বী",
+    "ভিজে বিড়াল"
+  ],
+  "literal_meaning": "বাঘের গায়ে নামাবলী (তিগের শরীরে জপমালা বা নামের মালা)",
+  "figurative_meaning_bn": "কপট বা ভেকধারী ব্যক্তি, ভণ্ড বা মেকী ধার্মিক",
+  "figurative_meaning_en": "A hypocritical or fake religious person, used mockingly",
+  "similar_in_english": [
+    "Wolf in sheep's clothing",
+    "Holier-than-thou attitude",
+    "Pious fraud"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বাঘের গায়ে নামাবলী পরার মতো করে ধর্মের কথা বলে, কিন্তু তার কাজ সব বিপরীত।",
+    "রাজনীতিতে অনেকে বাঘের গায়ে নামাবলী হয়ে উঠেছে, শুধু ভোটের জন্য ধর্ম দেখান।"
+  ],
+  "example_sentences_in_english": [
+    "He preaches religion like a tiger wearing prayer beads, but his actions are completely opposite.",
+    "In politics, many have become tigers with prayer beads, showing religion only for votes."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Hypocrisy",
+    "Social Criticism"
+  ],
+  "tags": [
+    "বিদ্রুপ",
+    "ধর্ম",
+    "কপটতা",
+    "ভণ্ডামি"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws on the contrast between a fierce tiger and sacred prayer beads to highlight insincerity in religious practice."
+}

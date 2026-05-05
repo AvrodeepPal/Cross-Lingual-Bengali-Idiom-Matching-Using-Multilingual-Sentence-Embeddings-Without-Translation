@@ -1,0 +1,37 @@
+{
+  "id": "7112",
+  "idiom": "ফাঁস করা",
+  "alternative_idioms": [],
+  "literal_meaning": "To trap or ensnare (like putting a noose around something)",
+  "figurative_meaning_bn": "গোপন কথা প্রকাশ করা",
+  "figurative_meaning_en": "To reveal a secret",
+  "similar_in_english": [
+    "Let the cat out of the bag",
+    "Spill the beans"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুর গোপন কথা ফাঁস করে দিল।",
+    "যেন কেউ ফাঁস না করে, সতর্ক থেকো।"
+  ],
+  "example_sentences_in_english": [
+    "He let out his friend's secret by mistake.",
+    "Be careful so that no one spills the beans."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "gossip"
+  ],
+  "tags": [
+    "secrets",
+    "disclosure",
+    "betrayal"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom derives from the idea of trapping, metaphorically applied to exposing hidden information in everyday Bengali speech."
+}

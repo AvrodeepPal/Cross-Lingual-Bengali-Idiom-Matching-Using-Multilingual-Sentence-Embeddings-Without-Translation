@@ -1,0 +1,39 @@
+{
+  "id": "1349",
+  "idiom": "কড়ঙ্কস্য করে চালানো",
+  "alternative_idioms": [],
+  "literal_meaning": "কড়ঙ্কস্য (কঠোরভাবে বা কৃপণতার সাথে) করে চালানো (চালানো বা পরিচালনা করা)",
+  "figurative_meaning_bn": "টানাটানি করে সংসার চালানো",
+  "figurative_meaning_en": "Running the household with great difficulty or scrimping and saving",
+  "similar_in_english": [
+    "Making ends meet",
+    "Living hand to mouth"
+  ],
+  "example_sentences_in_bangla": [
+    "গরিব পরিবারগুলো প্রায়ই কড়ঙ্কস্য করে চালানো করে সংসার চালায়।",
+    "অর্থনৈতিক সংকটের সময় তারা কড়ঙ্কস্য করে চালানো করে দিন কাটাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "Poor families often run their households by scrimping and saving.",
+    "During the economic crisis, they are making ends meet with great difficulty."
+  ],
+  "usage_domain": [
+    "Family life",
+    "Economy",
+    "Daily struggles"
+  ],
+  "tags": [
+    "poverty",
+    "frugality",
+    "hardship",
+    "household management"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali values of resourcefulness in times of scarcity."
+}

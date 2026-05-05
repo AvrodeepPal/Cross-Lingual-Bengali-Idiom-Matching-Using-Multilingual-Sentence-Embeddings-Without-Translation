@@ -1,0 +1,42 @@
+{
+  "id": "7132",
+  "idiom": "ফিকির",
+  "alternative_idioms": [
+    "ধান্ধা",
+    "মতলব"
+  ],
+  "literal_meaning": "চিন্তা বা উদ্বেগ (thought or worry)",
+  "figurative_meaning_bn": "উদ্দেশ্য, কাজকর্মের সন্ধান",
+  "figurative_meaning_en": "intention or purpose, inquiry into one's affairs or motives",
+  "similar_in_english": [
+    "What's your game?",
+    "What's the idea?"
+  ],
+  "example_sentences_in_bangla": [
+    "কী ফিকিরে এখানে এসেছ?",
+    "তার ফিকির কী, বলো তো?"
+  ],
+  "example_sentences_in_english": [
+    "What's the purpose of coming here?",
+    "What's on his mind, tell me?"
+  ],
+  "usage_domain": [
+    "conversation",
+    "inquiry",
+    "daily interaction"
+  ],
+  "tags": [
+    "intention",
+    "motive",
+    "purpose",
+    "curiosity"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Persian 'fikr' meaning thought, commonly used in colloquial Bengali to probe intentions"
+}

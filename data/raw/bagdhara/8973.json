@@ -1,0 +1,39 @@
+{
+  "id": "8973",
+  "idiom": "যেতে বসা",
+  "alternative_idioms": [],
+  "literal_meaning": "যাওয়ার জন্য বসা (to sit to go)",
+  "figurative_meaning_bn": "নষ্ট হওয়ার উপক্রম",
+  "figurative_meaning_en": "on the verge of ruin or destruction",
+  "similar_in_english": [
+    "going down the drain",
+    "on the brink of collapse",
+    "about to go under"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ব্যবসা দেখার লোকের অভাবে যেতে বসেছে।",
+    "এই অবস্থায় পরীক্ষাটা যেতে বসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "His business is on the verge of ruin due to lack of customers.",
+    "In this situation, the exam is about to go down the drain."
+  ],
+  "usage_domain": [
+    "business",
+    "finance",
+    "personal affairs"
+  ],
+  "tags": [
+    "decline",
+    "warning",
+    "failure"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday concerns in Bengali socio-economic contexts, often used in discussions of livelihood and stability."
+}

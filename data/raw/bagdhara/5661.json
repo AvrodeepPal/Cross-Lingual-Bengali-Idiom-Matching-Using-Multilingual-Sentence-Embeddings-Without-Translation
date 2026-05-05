@@ -1,0 +1,40 @@
+{
+  "id": "5661",
+  "idiom": "দম নেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "শ্বাস নেওয়া (breath taking)",
+  "figurative_meaning_bn": "বিশ্রাম করা",
+  "figurative_meaning_en": "to rest or take a break",
+  "similar_in_english": [
+    "take a breather",
+    "catch one's breath",
+    "take a break"
+  ],
+  "example_sentences_in_bangla": [
+    "অনেক পরিশ্রমের পর একটু দম নাও।",
+    "দৌড়ানো শেষ করে সে একটু দম নিল।"
+  ],
+  "example_sentences_in_english": [
+    "After a lot of hard work, take a rest now.",
+    "After finishing the run, he took a moment to catch his breath."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work",
+    "sports"
+  ],
+  "tags": [
+    "rest",
+    "break",
+    "fatigue",
+    "relief"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is derived from the physical act of breathing, commonly used in everyday Bengali speech to indicate a pause for recovery."
+}

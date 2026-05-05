@@ -1,0 +1,40 @@
+{
+  "id": "3220",
+  "idiom": "গুজগুজ",
+  "alternative_idioms": [],
+  "literal_meaning": "ধ্বন্যাত্মক দ্বিত্বশব্দ (অনুকরণমূলক শব্দ যা মৃদু গুঞ্জনের ধ্বনি প্রকাশ করে)",
+  "figurative_meaning_bn": "অল্পলোকের সমাবেশের মৃদু গুঞ্জনশব্দ",
+  "figurative_meaning_en": "The soft murmuring or humming sound of a small group of people",
+  "similar_in_english": [
+    "murmur",
+    "buzz",
+    "whispering"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে লোকজনের গুজগুজ শোনা যাচ্ছে।",
+    "পড়াশোনার সময় ক্লাসে গুজগুজ করা উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "There's a murmur among the people in the market.",
+    "Whispering in class during study time is not appropriate."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "sound description",
+    "social gatherings"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "sound",
+    "gathering",
+    "murmur"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is primarily an onomatopoeic expression rooted in everyday Bengali phonetics, not tied to specific historical narratives."
+}

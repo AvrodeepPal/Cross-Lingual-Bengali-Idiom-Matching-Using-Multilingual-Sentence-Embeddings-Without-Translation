@@ -1,0 +1,41 @@
+{
+  "id": "760",
+  "idiom": "উটের কাঁটাভোজ",
+  "alternative_idioms": [],
+  "literal_meaning": "উটের কাঁটা-ভোজন (camel's thorn feast)",
+  "figurative_meaning_bn": "অল্পসুখের জন্য বেশি কষ্ট স্বীকার",
+  "figurative_meaning_en": "Enduring much hardship for little pleasure",
+  "similar_in_english": [
+    "No pain, no gain",
+    "Beggars can't be choosers"
+  ],
+  "example_sentences_in_bangla": [
+    "সে উটের কাঁটাভোজ করে অল্প মজুরির জন্য দিনরাত পরিশ্রম করছে।",
+    "জীবনে অনেকে উটের কাঁটাভোজ করে ছোটখাটো লাভের পেছনে ছুটে বেড়ায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is enduring the camel's thorn feast by toiling day and night for meager wages.",
+    "Many people in life chase small gains, accepting the camel's thorn feast of hardships."
+  ],
+  "usage_domain": [
+    "Daily life",
+    "Cautionary tales",
+    "Motivational advice"
+  ],
+  "tags": [
+    "Hardship",
+    "Sacrifice",
+    "Endurance",
+    "Folklore"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the natural behavior of camels grazing on thorny bushes in arid regions, symbolizing painful sustenance for survival, adapted into Bengali proverbial wisdom."
+  ],
+  "note": "This idiom highlights the imbalance of effort and reward, common in rural and agrarian contexts."
+}

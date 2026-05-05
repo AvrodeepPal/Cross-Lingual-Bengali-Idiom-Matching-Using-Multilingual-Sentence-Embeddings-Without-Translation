@@ -1,0 +1,41 @@
+{
+  "id": "6264",
+  "idiom": "না ঘাটকা, না ঘরকা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘাটেরও নয়, ঘরেরও নয় (না নদীর তীরের অংশ, না বাড়ির অংশ)",
+  "figurative_meaning_bn": "সর্বত্র অনাদৃত ব্যক্তি",
+  "figurative_meaning_en": "A person who is unwelcome or out of place everywhere",
+  "similar_in_english": [
+    "Neither fish nor fowl",
+    "A man without a country"
+  ],
+  "example_sentences_in_bangla": [
+    "সে না ঘাটকা না ঘরকা, কোথাও তার জায়গা নেই।",
+    "এই শহরে তার অবস্থা না ঘাটকা না ঘরকা হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is neither of the ghat nor the house; he has no place anywhere.",
+    "His situation in this city has become like neither ghat nor house, feeling out of place everywhere."
+  ],
+  "usage_domain": [
+    "Social commentary",
+    "Everyday conversation",
+    "Literature"
+  ],
+  "tags": [
+    "Rejection",
+    "Outsider",
+    "Displacement",
+    "Proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from rural Bengali life, where 'ghat' refers to riverbanks used for communal activities and 'ghar' to household, symbolizing someone who belongs nowhere in the social fabric."
+  ],
+  "note": "The idiom reflects themes of social exclusion common in Bengali folklore."
+}

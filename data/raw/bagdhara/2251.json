@@ -1,0 +1,37 @@
+{
+  "id": "2251",
+  "idiom": "কুপো",
+  "alternative_idioms": [],
+  "literal_meaning": "কুঁজো পাত্র বা পেটের আকার",
+  "figurative_meaning_bn": "নাদাপেটা/পেটমোটা লোক",
+  "figurative_meaning_en": "pot-bellied or fat-bellied person (used sarcastically)",
+  "similar_in_english": [
+    "potbelly",
+    "beer belly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো একটা কুপো, সারাদিন খেয়ে বসে থাকে।",
+    "আমাদের প্রতিবেশী কুপো হয়ে গেছে, এখন সিঁড়ি ভাঙতে পারে না।"
+  ],
+  "example_sentences_in_english": [
+    "He's such a potbelly, sitting and eating all day.",
+    "Our neighbor has become a potbelly; he can't even climb stairs now."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "derogatory"
+  ],
+  "tags": [
+    "sarcasm",
+    "body shaming",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom used to mock overweight individuals, common in everyday Bengali speech."
+}

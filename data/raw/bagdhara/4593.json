@@ -1,0 +1,39 @@
+{
+  "id": "4593",
+  "idiom": "জাতব্রাহ্মণ",
+  "alternative_idioms": [],
+  "literal_meaning": "জাত বা জন্মের ভিত্তিতে ব্রাহ্মণ",
+  "figurative_meaning_bn": "ব্যঙ্গার্থে ভণ্ড বা ছদ্মবেশী ব্রাহ্মণ",
+  "figurative_meaning_en": "sarcastically, a fake or pretentious Brahmin",
+  "similar_in_english": [
+    "pseudo-intellectual",
+    "wolf in sheep's clothing"
+  ],
+  "example_sentences_in_bangla": [
+    "সে জাতব্রাহ্মণ হয়ে ধর্মীয়তার কথা বলে কিন্তু নিজের জীবনে তা মেনে চলে না।",
+    "গ্রামের এই জাতব্রাহ্মণের মতো লোক দেখলে বিশ্বাস করা কঠিন।"
+  ],
+  "example_sentences_in_english": [
+    "He, a caste Brahmin, preaches piety but doesn't practice it in his life.",
+    "It's hard to trust people like that village caste Brahmin who are all show."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "sarcasm",
+    "caste critique"
+  ],
+  "tags": [
+    "ব্রাহ্মণ",
+    "জাতিভেদ",
+    "ব্যঙ্গ",
+    "ভণ্ডামি"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা হিন্দু জাতিব্যবস্থার প্রেক্ষিতে ব্যবহৃত হয়, বিশেষ করে ব্রাহ্মণ্যবাদের সমালোচনায়।"
+}

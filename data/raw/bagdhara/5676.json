@@ -1,0 +1,42 @@
+{
+  "id": "5676",
+  "idiom": "দহ ফেলা",
+  "alternative_idioms": [
+    "দয়ে ফেলা",
+    "দয়ে মজানো"
+  ],
+  "literal_meaning": "কোনো গর্ত বা দহে ফেলে দেওয়া (throwing into a pit or pond)",
+  "figurative_meaning_bn": "গভীর সংকটে ফেলা; সর্বনাশ করা; সর্বস্বান্ত করা",
+  "figurative_meaning_en": "To put in deep trouble; to completely ruin; to destroy everything",
+  "similar_in_english": [
+    "Throw under the bus",
+    "Leave in the lurch",
+    "Seal one's fate"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমাকে দহে ফেলে মারবো।",
+    "এই সিদ্ধান্ত তার জীবনকে দহে ফেলে দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "I'll throw you into the pit and finish you off.",
+    "This decision has thrown his life into complete ruin."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "threats",
+    "everyday speech"
+  ],
+  "tags": [
+    "destruction",
+    "ruin",
+    "threat"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom evokes imagery of rural pits or ponds used for disposal, common in traditional Bengali contexts."
+}

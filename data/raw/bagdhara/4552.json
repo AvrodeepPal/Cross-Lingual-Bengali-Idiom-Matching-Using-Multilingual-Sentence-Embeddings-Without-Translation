@@ -1,0 +1,38 @@
+{
+  "id": "4552",
+  "idiom": "জল হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "জল হয়ে যাওয়া (পানি হয়ে যাওয়া)",
+  "figurative_meaning_bn": "গলে যাওয়া",
+  "figurative_meaning_en": "to melt or become liquid",
+  "similar_in_english": [
+    "melt away",
+    "turn to water"
+  ],
+  "example_sentences_in_bangla": [
+    "গরমে আইসক্রিমটি জল হয়ে গেছে।",
+    "তার আশা জল হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The ice cream melted into water in the heat.",
+    "His hopes melted away."
+  ],
+  "usage_domain": [
+    "everyday language",
+    "food and weather",
+    "emotions"
+  ],
+  "tags": [
+    "melting",
+    "transformation",
+    "dissolution"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used for physical melting like ice or snow, and metaphorically for fading enthusiasm."
+}

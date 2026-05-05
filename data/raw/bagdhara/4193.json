@@ -1,0 +1,41 @@
+{
+  "id": "4193",
+  "idiom": "চৌপল",
+  "alternative_idioms": [
+    "চৌপল বোতল"
+  ],
+  "literal_meaning": "চার দিকবিশিষ্ট স্থান",
+  "figurative_meaning_bn": "চারপার্শ্বদেশবিশিষ্ট",
+  "figurative_meaning_en": "distinguished by or surrounded on all four sides",
+  "similar_in_english": [
+    "surrounded on all sides",
+    "from the four corners"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের চৌপল চারপার্শ্বে ঘন জঙ্গলে ঘেরা।",
+    "এই বাড়িটি চৌপলের মতো চারদিক থেকে নিরাপদে রক্ষিত।"
+  ],
+  "example_sentences_in_english": [
+    "The village chaupal is surrounded by dense forests on all sides.",
+    "This house is secured on all four sides like a chaupal."
+  ],
+  "usage_domain": [
+    "rural description",
+    "geographical reference"
+  ],
+  "tags": [
+    "village",
+    "surrounding",
+    "traditional place"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "চৌপল is a traditional raised platform in Bengali villages used for community meetings and panchayat gatherings, symbolizing a central, surrounded space in rural life."
+  ],
+  "note": "Refers to a village square or platform, often used figuratively for enclosed or centrally located areas."
+}

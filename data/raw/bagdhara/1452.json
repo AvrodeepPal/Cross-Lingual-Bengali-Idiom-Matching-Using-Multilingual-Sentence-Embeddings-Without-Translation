@@ -1,0 +1,38 @@
+{
+  "id": "1452",
+  "idiom": "কথা বেচে খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা বিক্রি করে খাওয়া (words selling to eat)",
+  "figurative_meaning_bn": "বাকচাতুর্যে লোকের মন জুগিয়ে জীবিকানির্বাহ",
+  "figurative_meaning_en": "Earning a living by captivating people's minds with eloquence or persuasive speech",
+  "similar_in_english": [
+    "talk one's way to success",
+    "live by one's wits (verbally)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কথা বেচে খায়, কোনো হাতের কাজ করে না।",
+    "রাজনীতিতে অনেকে কথা বেচে খাওয়ার পেশা গ্রহণ করে।"
+  ],
+  "example_sentences_in_english": [
+    "He lives by selling words; he doesn't do any manual labor.",
+    "Many politicians earn their living by selling words."
+  ],
+  "usage_domain": [
+    "politics",
+    "rhetoric",
+    "everyday conversation"
+  ],
+  "tags": [
+    "eloquence",
+    "livelihood",
+    "persuasion"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to describe professions relying on verbal skills, like politics or sales."
+}

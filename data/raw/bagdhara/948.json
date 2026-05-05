@@ -1,0 +1,38 @@
+{
+  "id": "948",
+  "idiom": "এককালীন",
+  "alternative_idioms": [],
+  "literal_meaning": "এক কালীন (একবারের জন্য বা অস্থায়ী সময়ের)",
+  "figurative_meaning_bn": "একবারের মত",
+  "figurative_meaning_en": "Once and for all or for one time only",
+  "similar_in_english": [
+    "One-off",
+    "One-time deal"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সুযোগটি এককালীন, আর কোনোদিন পাবে না।",
+    "সরকার এককালীন ছাড় দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "This opportunity is one-time; you won't get it again.",
+    "The government has given a one-time waiver."
+  ],
+  "usage_domain": [
+    "Administrative",
+    "Legal",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "temporary",
+    "unique opportunity",
+    "administrative term"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in bureaucratic or official contexts in Bengali-speaking regions."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6375",
+  "idiom": "নাম কাটানো",
+  "alternative_idioms": [],
+  "literal_meaning": "নাম কাটা (নামটি তালিকা থেকে মুছে ফেলা)",
+  "figurative_meaning_bn": "দল ছাড়া",
+  "figurative_meaning_en": "to leave or defect from a group or party",
+  "similar_in_english": [
+    "jump ship",
+    "bail out",
+    "defect"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি পুরনো দল থেকে নাম কাটিয়ে নতুন দলে যোগ দিয়েছেন।",
+    "কোম্পানি থেকে নাম কাটানোর পর তিনি স্বাধীনভাবে কাজ শুরু করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "He struck off his name from the old party and joined a new one.",
+    "After cutting his name from the company, he started working independently."
+  ],
+  "usage_domain": [
+    "politics",
+    "organizations",
+    "social groups"
+  ],
+  "tags": [
+    "defection",
+    "resignation",
+    "leaving"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in political contexts in Bengali-speaking regions"
+}

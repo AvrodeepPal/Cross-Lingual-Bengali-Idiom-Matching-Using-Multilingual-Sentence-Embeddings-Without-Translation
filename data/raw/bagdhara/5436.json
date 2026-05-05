@@ -1,0 +1,42 @@
+{
+  "id": "5436",
+  "idiom": "তিল",
+  "alternative_idioms": [],
+  "literal_meaning": "তিল (সিমের বীজ)",
+  "figurative_meaning_bn": "অতিসামান্য পরিমাণ বা অংশ",
+  "figurative_meaning_en": "a very small amount or portion",
+  "similar_in_english": [
+    "not an iota",
+    "not a jot",
+    "a mere speck"
+  ],
+  "example_sentences_in_bangla": [
+    "তার হৃদয়ে তিলমাত্র দুঃখ নেই।",
+    "আকাশে মেঘে তিল ঠাঁই নেই।"
+  ],
+  "example_sentences_in_english": [
+    "There is not an iota of sorrow in his heart.",
+    "There is no room for even a speck in the cloud-filled sky."
+  ],
+  "usage_domain": [
+    "literature",
+    "everyday conversation",
+    "poetry"
+  ],
+  "tags": [
+    "quantity",
+    "smallness",
+    "negation",
+    "literary"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Rabindranath Tagore's poem 'নীল নবঘন আষাঢ় গগনে তিল ঠাঁই আর নাহিরে', symbolizing the dense monsoon sky with no space even for a sesame seed."
+  ],
+  "note": "Often used in phrases like 'তিলমাত্র না' to emphasize absence of even the tiniest amount."
+}

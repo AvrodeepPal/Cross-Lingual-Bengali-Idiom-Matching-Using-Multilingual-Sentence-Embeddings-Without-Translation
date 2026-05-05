@@ -1,0 +1,40 @@
+{
+  "id": "2670",
+  "idiom": "খুঁটিয়ে আনা",
+  "alternative_idioms": [],
+  "literal_meaning": "খুঁটি দিয়ে খুঁজে বা বিস্তারিত পরীক্ষা করে আনা",
+  "figurative_meaning_bn": "বিস্তৃত অনুসন্ধান করে খবর আনা",
+  "figurative_meaning_en": "To bring information or news through thorough and extensive search",
+  "similar_in_english": [
+    "leave no stone unturned",
+    "dig up information",
+    "ferret out details"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ ঘটনার পুরো বিবরণ খুঁটিয়ে আনা করছে।",
+    "সাংবাদিকরা খবর খুঁটিয়ে আনা করে সত্য উন্মোচন করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "The police are digging deep to bring out the full details of the incident.",
+    "The journalists left no stone unturned to uncover the truth."
+  ],
+  "usage_domain": [
+    "investigation",
+    "journalism",
+    "daily conversation"
+  ],
+  "tags": [
+    "search",
+    "inquiry",
+    "discovery",
+    "thoroughness"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes meticulous effort in gathering facts, common in Bengali narrative styles."
+}

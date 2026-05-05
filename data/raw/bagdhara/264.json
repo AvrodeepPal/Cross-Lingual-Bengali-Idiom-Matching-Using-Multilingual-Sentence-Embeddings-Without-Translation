@@ -1,0 +1,41 @@
+{
+  "id": "264",
+  "idiom": "অল্প জলের মাছ",
+  "alternative_idioms": [
+    "পানির মাছ"
+  ],
+  "literal_meaning": "অল্প জলের মাছ (fish in shallow or little water)",
+  "figurative_meaning_bn": "অল্পবিদ্যার লোক; সামান্য বিদ্যা নিয়ে পণ্ডিত্যের ভানকারী ব্যক্তি",
+  "figurative_meaning_en": "A person with little knowledge; someone who pretends to be scholarly with minimal education",
+  "similar_in_english": [
+    "A little knowledge is a dangerous thing",
+    "All hat and no cattle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অল্প জলের মাছ, সামান্য জেনেই সবার সামনে পণ্ডিত্য দেখায়।",
+    "এই লোকটি অল্প জলের মাছের মতো, অল্প বিদ্যায় গভীর জ্ঞানের ভান করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a fish in shallow water, pretending to be an expert with just a little knowledge.",
+    "This man acts like a fish in shallow water, showing off scholarly airs with minimal education."
+  ],
+  "usage_domain": [
+    "education",
+    "social criticism",
+    "conversation"
+  ],
+  "tags": [
+    "knowledge",
+    "pretension",
+    "mockery",
+    "wisdom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from rural Bengali imagery of fish thriving only in shallow ponds, symbolizing limited depth in knowledge."
+}

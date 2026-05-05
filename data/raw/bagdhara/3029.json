@@ -1,0 +1,38 @@
+{
+  "id": "3029",
+  "idiom": "গলায় লাগা",
+  "alternative_idioms": [],
+  "literal_meaning": "গলায় আটকে যাওয়া",
+  "figurative_meaning_bn": "বলতে/গিলতে কষ্ট হওয়া",
+  "figurative_meaning_en": "difficulty in speaking or swallowing",
+  "similar_in_english": [
+    "stick in one's throat",
+    "a lump in one's throat"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই অপমানজনক কথা তার গলায় লেগে গেছে, বলতে পারছে না।",
+    "খাবারটা গলায় লেগে গিয়েছে, গিলতে কষ্ট হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "That insulting remark sticks in his throat; he can't bring himself to say it.",
+    "The food is stuck in his throat, making it hard to swallow."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "emotional expression"
+  ],
+  "tags": [
+    "emotion",
+    "speech",
+    "discomfort",
+    "physical sensation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often conveys emotional reluctance to speak rather than literal physical obstruction."
+}

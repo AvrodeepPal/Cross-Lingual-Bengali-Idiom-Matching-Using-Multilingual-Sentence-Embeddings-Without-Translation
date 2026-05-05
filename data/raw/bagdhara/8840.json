@@ -1,0 +1,44 @@
+{
+  "id": "8840",
+  "idiom": "মূলেই গলদ",
+  "alternative_idioms": [
+    "বিসমিল্লায় গলদ"
+  ],
+  "literal_meaning": "মূল বা শিকড় থেকেই পিছলে পড়া বা ভুল হওয়া",
+  "figurative_meaning_bn": "শুরুতেই ভুল বা ত্রুটি",
+  "figurative_meaning_en": "Mistake or error right from the beginning",
+  "similar_in_english": [
+    "Starting on the wrong foot",
+    "Off to a bad start",
+    "Biting the dust from the outset"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ব্যবসা মূলেই গলদ হয়ে গেল, কোনো লাভ হল না।",
+    "পরীক্ষার প্রস্তুতি মূলেই গলদ, তাই ফলাফল খারাপ এল।"
+  ],
+  "example_sentences_in_english": [
+    "His business went wrong from the very beginning, with no profits at all.",
+    "The exam preparation slipped up right from the start, leading to poor results."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Business and planning",
+    "Education"
+  ],
+  "tags": [
+    "mistake",
+    "beginning",
+    "error",
+    "failure"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই বাগধারার উৎপত্তি সম্ভবত ইসলামী প্রথা 'বিসমিল্লাহ' (আল্লাহর নামে শুরু করা) থেকে, যেখানে শুরুতেই ভুল হওয়াকে নির্দেশ করে; বাংলা সংস্কৃতিতে এটি সাধারণভাবে ব্যবহৃত হয়।"
+  ],
+  "note": "সমার্থক 'বিসমিল্লায় গলদ' ধর্মীয় প্রসঙ্গ বহন করে, যা মূল বাগধারার সাথে যুক্ত।"
+}

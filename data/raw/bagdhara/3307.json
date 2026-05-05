@@ -1,0 +1,44 @@
+{
+  "id": "3307",
+  "idiom": "গোকুলের ষাঁড়",
+  "alternative_idioms": [
+    "খোদার খাসি",
+    "ধর্মের ষাঁড়"
+  ],
+  "literal_meaning": "গোকুলের ষাঁড় (Gokul's bull)",
+  "figurative_meaning_bn": "অসংযত স্বেচ্ছাচারী মুক্তপুরুষ, যাকে বাধা দেবার কেউ নেই; স্বচ্ছন্দে বিচরণকারী ও পরের অনিষ্টকারী ব্যক্তি",
+  "figurative_meaning_en": "An unrestrained, willful free spirit whom no one can control; a person who roams freely and causes harm to others",
+  "similar_in_english": [
+    "loose cannon",
+    "a law unto himself"
+  ],
+  "example_sentences_in_bangla": [
+    "সে গোকুলের ষাঁড়ের মতো সর্বত্র বিশৃঙ্খলা ছড়ায়।",
+    "গ্রামের এই লোকটি গোকুলের ষাঁড়ের ন্যায় অসংযত।"
+  ],
+  "example_sentences_in_english": [
+    "He spreads chaos everywhere like the bull of Gokul.",
+    "This man in the village is as unrestrained as the bull of Gokul."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "rural life",
+    "behavior description"
+  ],
+  "tags": [
+    "unrestrained",
+    "harmful",
+    "free-spirited",
+    "negative behavior"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom draws from the mythological setting of Gokul in Krishna's life, where sacred bulls roam freely in pastoral villages, symbolizing untamed liberty often leading to mischief."
+  ],
+  "note": "Rooted in Hindu mythology, emphasizing the contrast between sacred freedom and potential disruption."
+}

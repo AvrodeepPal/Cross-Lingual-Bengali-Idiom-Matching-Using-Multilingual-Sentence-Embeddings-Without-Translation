@@ -1,0 +1,40 @@
+{
+  "id": "8661",
+  "idiom": "মুখ খিঁচানো",
+  "alternative_idioms": [
+    "ভ্যাংচানো",
+    "ভেংচি কাটা"
+  ],
+  "literal_meaning": "মুখ বিকৃত করা",
+  "figurative_meaning_bn": "মুখবিকৃতি করে তিরস্কার করা",
+  "figurative_meaning_en": "To scold or express disapproval by distorting one's face",
+  "similar_in_english": [
+    "make a face",
+    "pull a face"
+  ],
+  "example_sentences_in_bangla": [
+    "সে মুখ খিঁচিয়ে বলল, 'এভাবে খাবি না।'",
+    "মা মুখ খিঁচানো করে ছেলেকে ধমক দিল।"
+  ],
+  "example_sentences_in_english": [
+    "She made a face and said, 'Don't eat like that.'",
+    "The mother scolded her son by pulling a face."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "family interactions"
+  ],
+  "tags": [
+    "disapproval",
+    "scolding",
+    "facial expression"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in informal Bengali speech to convey mild rebuke through facial gestures."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "4036",
+  "idiom": "চোখ খাওয়া",
+  "alternative_idioms": [
+    "চোখের মাথা খাওয়া"
+  ],
+  "literal_meaning": "চোখ খাওয়া (eyes being eaten)",
+  "figurative_meaning_bn": "চোখ বন্ধ হওয়া; দেখতে না পাওয়া; দৃষ্টিশক্তি হারানো",
+  "figurative_meaning_en": "eyes closing; inability to see; loss of eyesight",
+  "similar_in_english": [
+    "go blind",
+    "lose one's sight"
+  ],
+  "example_sentences_in_bangla": [
+    "অল্প বয়সেই তার চোখ খেয়ে গেছে।",
+    "দীর্ঘক্ষণ পড়ায় আমার চোখ খেয়ে এসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He lost his eyesight at a young age.",
+    "My eyes are closing after reading for so long."
+  ],
+  "usage_domain": [
+    "health",
+    "vision",
+    "daily life"
+  ],
+  "tags": [
+    "body parts",
+    "disability",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom metaphorically describes sudden or gradual loss of vision, often due to age or strain."
+}

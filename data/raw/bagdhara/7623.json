@@ -1,0 +1,41 @@
+{
+  "id": "7623",
+  "idiom": "বারোমাস",
+  "alternative_idioms": [
+    "বারোমাস ত্রিশদিন"
+  ],
+  "literal_meaning": "বারো মাস (twelve months)",
+  "figurative_meaning_bn": "নিত্য, প্রতিদিন, সর্বদা, সর্বক্ষণ, সারা বছর ধরে",
+  "figurative_meaning_en": "daily, every day, always, all the time, throughout the year",
+  "similar_in_english": [
+    "day in and day out",
+    "all year round",
+    "round the clock"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বারোমাস এখানে থাকে, কখনো যায় না।",
+    "আমাদের সমস্যা বারোমাস চলতে থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He stays here throughout the year, never leaves.",
+    "Our problems persist all year round."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "time and persistence"
+  ],
+  "tags": [
+    "time",
+    "continuity",
+    "year-long",
+    "routine"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the Bengali calendar's twelve months, emphasizing unbroken continuity."
+}

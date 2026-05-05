@@ -1,0 +1,40 @@
+{
+  "id": "4404",
+  "idiom": "ছেলে-ভুলানো",
+  "alternative_idioms": [],
+  "literal_meaning": "শিশুকে বিভ্রান্তকারী বা আকৃষ্টকারী (child-confusing or child-bewitching)",
+  "figurative_meaning_bn": "যাতে কেবল শিশুরাই ভোলে বা আকৃষ্ট হয় তেমন কিছু",
+  "figurative_meaning_en": "Something that only children are deceived by or attracted to",
+  "similar_in_english": [
+    "kid stuff",
+    "child's play",
+    "fool's gold for kids"
+  ],
+  "example_sentences_in_bangla": [
+    "এই গল্পটা তো ছেলে-ভুলানো, বড়রা কেউ বিশ্বাস করে না।",
+    "ছেলে-ভুলানো খেলনা দিয়ে সময় নষ্ট করব না।"
+  ],
+  "example_sentences_in_english": [
+    "This story is just kid stuff; adults don't believe it.",
+    "I won't waste time on childish toys that only fool children."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "children's literature",
+    "everyday conversation"
+  ],
+  "tags": [
+    "children",
+    "deception",
+    "immaturity",
+    "attraction"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to dismiss simplistic or naive ideas, with cultural ties to Bengali nursery rhymes and folklore."
+}

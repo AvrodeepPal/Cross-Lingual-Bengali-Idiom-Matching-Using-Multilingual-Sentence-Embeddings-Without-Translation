@@ -1,0 +1,42 @@
+{
+  "id": "5210",
+  "idiom": "ড্যাংড্যাং",
+  "alternative_idioms": [],
+  "literal_meaning": "ঢাক বা বাদ্যের অনুকরণমূলক শব্দ (ড্যাং-ড্যাং শব্দ)",
+  "figurative_meaning_bn": "ঢাকের বাদ্যি, উৎসব, জয়ধ্বনি",
+  "figurative_meaning_en": "Drum beats of celebration, festivity, victory cheers",
+  "similar_in_english": [
+    "With fanfare",
+    "In grand style",
+    "With bells on"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়েতে সবাই ড্যাংড্যাং করে উদযাপন করল।",
+    "জয়ের পর দলটি ড্যাংড্যাং করে ফিরল।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone celebrated the wedding with great fanfare.",
+    "The team returned with victory cheers after the win."
+  ],
+  "usage_domain": [
+    "Festivals",
+    "Celebrations",
+    "Victory announcements"
+  ],
+  "tags": [
+    "Onomatopoeia",
+    "Celebratory",
+    "Sound imitation",
+    "Festive"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originating from the rhythmic sounds of dhak drums used in Bengali festivals like Durga Puja, evoking communal joy and processions."
+  ],
+  "note": "This idiom captures the exuberant auditory essence of Bengali cultural events."
+}

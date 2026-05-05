@@ -1,0 +1,39 @@
+{
+  "id": "4790",
+  "idiom": "ঝরঝরে",
+  "alternative_idioms": [],
+  "literal_meaning": "ঝরঝর শব্দ করে পড়ে যাওয়া বা ক্ষয়িষ্ণু অবস্থা",
+  "figurative_meaning_bn": "জীর্ণ; ঝাঁঝরা; ভাঙাচোরা",
+  "figurative_meaning_en": "dilapidated; rickety; broken-down",
+  "similar_in_english": [
+    "on its last legs",
+    "falling apart",
+    "ramshackle"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বাড়িটা ঝরঝরে হয়ে গেছে, থাকা বিপজ্জনক।",
+    "তার ঝরঝরে সাইকেলটা চালাতে গিয়ে পড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "This house has become dilapidated; it's dangerous to stay here.",
+    "His rickety bicycle broke down while riding."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing objects",
+    "vehicles and buildings"
+  ],
+  "tags": [
+    "descriptive",
+    "negative",
+    "onomatopoeic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic idiom mimicking the sound of something falling apart"
+}

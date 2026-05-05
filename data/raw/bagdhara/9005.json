@@ -1,0 +1,43 @@
+{
+  "id": "9005",
+  "idiom": "রক্তবীজের বংশ",
+  "alternative_idioms": [
+    "রক্তবীজের ঝাড়"
+  ],
+  "literal_meaning": "রক্তবীজের বংশধর বা বংশ",
+  "figurative_meaning_bn": "যা শেষ হয় না এমন",
+  "figurative_meaning_en": "Something that does not end or is inexhaustible",
+  "similar_in_english": [
+    "Hydra-headed problem",
+    "Never-ending cycle"
+  ],
+  "example_sentences_in_bangla": [
+    "এই দুর্নীতির জাল রক্তবীজের বংশের মতো শেষ হয় না।",
+    "তাদের ঝগড়া রক্তবীজের বংশের মতো চলতেই থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "This corruption network is like the lineage of Raktabija; it never ends.",
+    "Their quarrel persists like the progeny of Raktabija."
+  ],
+  "usage_domain": [
+    "Literature",
+    "Everyday conversation",
+    "Mythological reference"
+  ],
+  "tags": [
+    "mythological",
+    "persistence",
+    "inexhaustible",
+    "negative connotation"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the demon Raktabija from Hindu mythology in the Devi Mahatmya, where each drop of his blood creates a new demon upon touching the ground, symbolizing endless proliferation until defeated by Goddess Durga."
+  ],
+  "note": "Idiom draws from Puranic stories common in Bengali folklore and literature."
+}

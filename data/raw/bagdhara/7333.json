@@ -1,0 +1,37 @@
+{
+  "id": "7333",
+  "idiom": "বর্ণপরিচয়",
+  "alternative_idioms": [],
+  "literal_meaning": "বর্ণের পরিচয় (letters' introduction)",
+  "figurative_meaning_bn": "বিষয়বিশেষের সূত্রপাত",
+  "figurative_meaning_en": "The inception or beginning of a particular matter",
+  "similar_in_english": [
+    "the first step",
+    "the opening chapter"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ঘটনাটি একটি নতুন যুগের বর্ণপরিচয়।",
+    "তার জীবনের বর্ণপরিচয় ছিল অত্যন্ত সাধারণ।"
+  ],
+  "example_sentences_in_english": [
+    "This event marks the varnoporichoy of a new era.",
+    "The beginning of his life was quite ordinary."
+  ],
+  "usage_domain": [
+    "general conversation",
+    "literature"
+  ],
+  "tags": [
+    "beginning",
+    "introduction",
+    "inception"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the concept of introducing the alphabet as a metaphor for starting something foundational."
+}

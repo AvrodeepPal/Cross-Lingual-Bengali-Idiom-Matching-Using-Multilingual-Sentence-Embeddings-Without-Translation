@@ -1,0 +1,41 @@
+{
+  "id": "5309",
+  "idiom": "ঢ্যারা",
+  "alternative_idioms": [],
+  "literal_meaning": "ক্রস চিহ্ন বা X আকারের চিহ্ন",
+  "figurative_meaning_bn": "অশিক্ষিত ব্যক্তির সই বা অজ্ঞতার প্রতীক",
+  "figurative_meaning_en": "The cross mark (X) used as a signature by illiterate people, symbolizing ignorance or lack of education",
+  "similar_in_english": [
+    "Sign with an X (for illiterates)",
+    "Make one's mark (crudely)"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি পড়তে-লিখতে জানেন না, তাই ঢ্যারা দিয়ে সই করলেন।",
+    "এই চুক্তিতে শুধু ঢ্যারা আছে, কোনো স্বাক্ষর নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He can't read or write, so he signed with a cross mark.",
+    "This agreement only has an X mark, no proper signature."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Legal documents",
+    "Education and literacy"
+  ],
+  "tags": [
+    "illiteracy",
+    "signature",
+    "ignorance",
+    "rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originated from the practice in colonial and pre-independence Bengal where illiterate individuals used a cross (X) to signify agreement on documents, reflecting widespread illiteracy in rural areas."
+  ],
+  "note": "The term 'ঢ্যারা' mimics the sound of drawing the cross mark."
+}

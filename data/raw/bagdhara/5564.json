@@ -1,0 +1,45 @@
+{
+  "id": "5564",
+  "idiom": "থতমত খাওয়া",
+  "alternative_idioms": [
+    "থতিয়ে যাওয়া"
+  ],
+  "literal_meaning": "থতমত করে কথা বলা বা আটকে যাওয়া (অনুকরণমূলক শব্দ থেকে উদ্ভূত, যা কাঁপুনি বা আটকে যাওয়ার অবস্থা বোঝায়)",
+  "figurative_meaning_bn": "কিংকর্তব্যবিমূঢ় হওয়া; কিছু বলতে গিয়ে ইতস্তত করা; কিছু দেখে বা শুনে অপ্রতিভ হওয়া; মুখে কথা না ফোটার অবস্থা; ঘাবড়ে গিয়ে কিছু স্থির করতে না পারা",
+  "figurative_meaning_en": "To become perplexed and indecisive; to hesitate or falter while speaking; to feel embarrassed or awkward upon seeing or hearing something; the state of being speechless; to panic and fail to make a decision",
+  "similar_in_english": [
+    "tongue-tied",
+    "at a loss for words",
+    "flustered",
+    "lost for words"
+  ],
+  "example_sentences_in_bangla": [
+    "খবর শুনে সে থতমত খেয়ে গেল এবং কিছু বলতে পারল না।",
+    "পরীক্ষায় কঠিন প্রশ্ন দেখে ছাত্রটি থতমত খেয়ে উত্তর দিতে অসমর্থ হল।"
+  ],
+  "example_sentences_in_english": [
+    "Upon hearing the news, he was left flustered and couldn't say a word.",
+    "Seeing the tough question in the exam, the student became tongue-tied and couldn't answer."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "emotions",
+    "social interactions"
+  ],
+  "tags": [
+    "hesitation",
+    "embarrassment",
+    "panic",
+    "speech impediment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই বাগধারার উল্লেখ পাওয়া যায় গোপাল উড়ের বিখ্যাত পালায়: 'ভয়ে ভয়ে কথা কই খেয়ে থতমত'"
+  ],
+  "note": "এটি বাংলা সাহিত্যে বহুল প্রচলিত এবং দৈনন্দিন কথোপকথনে ব্যবহৃত হয় ভয় বা অপ্রতিভতার অবস্থা বর্ণনায়।"
+}

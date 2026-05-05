@@ -1,0 +1,38 @@
+{
+  "id": "2471",
+  "idiom": "খচ্চর",
+  "alternative_idioms": [],
+  "literal_meaning": "খচ্চর (mule, a hybrid animal)",
+  "figurative_meaning_bn": "দুর্বৃত্ত, বদমাইশ লোক, অতিধূর্ত- গালিবিশেষ",
+  "figurative_meaning_en": "rogue, mischievous or wicked person, extremely cunning - a term of abuse",
+  "similar_in_english": [
+    "stubborn as a mule",
+    "jackass"
+  ],
+  "example_sentences_in_bangla": [
+    "লোকটা আচ্ছা খচ্চর তো।",
+    "সে একটা খচ্চরের মতো বদমাইশ।"
+  ],
+  "example_sentences_in_english": [
+    "That guy is a real rogue.",
+    "He's as cunning as a fox, a total scoundrel."
+  ],
+  "usage_domain": [
+    "colloquial insults",
+    "everyday conversation"
+  ],
+  "tags": [
+    "insult",
+    "animal metaphor",
+    "negative",
+    "cunning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from the animal 'mule' implying hybrid stubbornness or mischief in Bengali folklore"
+}

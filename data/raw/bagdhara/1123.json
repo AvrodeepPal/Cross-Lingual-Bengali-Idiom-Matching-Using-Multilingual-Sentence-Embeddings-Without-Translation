@@ -1,0 +1,43 @@
+{
+  "id": "1123",
+  "idiom": "একা একা",
+  "alternative_idioms": [],
+  "literal_meaning": "একা একা (alone alone)",
+  "figurative_meaning_bn": "একাকী, নিঃসঙ্গ",
+  "figurative_meaning_en": "lonely, solitary",
+  "similar_in_english": [
+    "all alone",
+    "by oneself",
+    "feeling lonesome"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একা একা রাত কাটায়, কারো সঙ্গ নেই তার।",
+    "বৃষ্টির দিনে একা একা বসে থাকলে মন খারাপ হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "She spends the night all alone, with no one for company.",
+    "Sitting by oneself on a rainy day makes one feel melancholic."
+  ],
+  "usage_domain": [
+    "literature",
+    "poetry",
+    "everyday conversation",
+    "songs"
+  ],
+  "tags": [
+    "loneliness",
+    "solitude",
+    "emotion",
+    "melancholy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in Rabindranath Tagore's song: 'না পেয়ে তোমার দেখা, একা একা দিন যে আমার কাটে না রে', highlighting themes of longing and isolation in Bengali romantic literature."
+  ],
+  "note": "This expression is deeply embedded in Bengali emotional and poetic expression, often evoking nostalgia."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1231",
+  "idiom": "এলো বলে",
+  "alternative_idioms": [],
+  "literal_meaning": "এলো (আসল বা উপস্থিত হলো) বলে (বলা বা উক্ত করে)",
+  "figurative_meaning_bn": "যেকোনো মুহূর্তে আসতে পারে তার সম্ভাবনা বিষয়ক উক্তি; সমূহ উপস্থিত",
+  "figurative_meaning_en": "A statement indicating the possibility of arrival at any moment; all are present or imminent",
+  "similar_in_english": [
+    "Any minute now",
+    "It's on the way",
+    "About to happen"
+  ],
+  "example_sentences_in_bangla": [
+    "ঝড় এলো বলে, সবাই বাড়ির ভিতরে চলে এসো।",
+    "গেস্ট এলো বলে, প্রস্তুতি নাও।"
+  ],
+  "example_sentences_in_english": [
+    "The storm is coming, everyone get inside.",
+    "The guests are arriving, get ready."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "weather",
+    "events"
+  ],
+  "tags": [
+    "imminence",
+    "prediction",
+    "urgency"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts involving natural phenomena or expected arrivals in everyday Bengali speech"
+}

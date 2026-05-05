@@ -1,0 +1,45 @@
+{
+  "id": "343",
+  "idiom": "আকবরের আমল",
+  "alternative_idioms": [
+    "বাবরের আমল",
+    "মান্ধাতার আমল",
+    "হোসেনশাহর আমল"
+  ],
+  "literal_meaning": "আকবরের যুগ বা আমল",
+  "figurative_meaning_bn": "অনেকদিন আগের কথা",
+  "figurative_meaning_en": "Something from a long time ago",
+  "similar_in_english": [
+    "Ancient history",
+    "Back in the day",
+    "Bygone era"
+  ],
+  "example_sentences_in_bangla": [
+    "এই গল্পটা তো আকবরের আমলের, এখন আর কেউ মনে রাখে না।",
+    "তার কথাগুলো শুনে মনে হলো আকবরের আমলের ঘটনা।"
+  ],
+  "example_sentences_in_english": [
+    "That story is from Akbar's era; no one remembers it now.",
+    "His words sounded like events from Akbar's time."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "storytelling",
+    "historical reference"
+  ],
+  "tags": [
+    "historical",
+    "past reference",
+    "figurative time"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the era of Akbar the Great, the Mughal emperor (1556-1605), used to denote very ancient or outdated matters. Alternatives like Babur's era reference the Mughal founder, Mandhata a mythical ancient king, and Hussain Shah a Bengal sultan."
+  ],
+  "note": "The idiom draws from Mughal and ancient Indian history to evoke remoteness in time."
+}

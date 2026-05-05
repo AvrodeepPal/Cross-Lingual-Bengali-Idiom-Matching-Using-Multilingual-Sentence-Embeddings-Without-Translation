@@ -1,0 +1,38 @@
+{
+  "id": "10319",
+  "idiom": "হিতে বিপরীত",
+  "alternative_idioms": [],
+  "literal_meaning": "হিতে (ভালোর জন্য বা সুবিধায়) বিপরীত (বিপরীত বা উল্টো)",
+  "figurative_meaning_bn": "ভালো না হয়ে খারাপ হওয়া; উলটো বিপত্তি",
+  "figurative_meaning_en": "To turn out badly instead of well; resulting in the opposite of the intended benefit",
+  "similar_in_english": [
+    "The road to hell is paved with good intentions",
+    "Backfire"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পরামর্শ দেওয়ার উদ্দেশ্য ছিল ভালো, কিন্তু হিতে বিপরীত হলো এবং সমস্যা বাড়িয়ে দিল।",
+    "ঔষধ খাওয়ার পরিবর্তে রোগ বেড়ে গেল, এটা হিতে বিপরীতের উদাহরণ।"
+  ],
+  "example_sentences_in_english": [
+    "His advice was meant to help, but it backfired and caused more problems.",
+    "Instead of curing the illness, the medicine worsened it—an example of good intentions leading to the opposite."
+  ],
+  "usage_domain": [
+    "daily life",
+    "decision making",
+    "advice"
+  ],
+  "tags": [
+    "negative outcome",
+    "irony",
+    "intention vs result"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom contrasts with 'শাপে বর' (blessing in disguise), highlighting ironic reversals in Bengali expressive tradition."
+}

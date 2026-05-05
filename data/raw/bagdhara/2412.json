@@ -1,0 +1,39 @@
+{
+  "id": "2412",
+  "idiom": "কোলের ছেলে",
+  "alternative_idioms": [
+    "কোলপোঁছা"
+  ],
+  "literal_meaning": "কোলের (mother's lap) ছেলে (son)",
+  "figurative_meaning_bn": "কনিষ্টপুত্র",
+  "figurative_meaning_en": "youngest son",
+  "similar_in_english": [
+    "baby of the family",
+    "youngest child"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরিবারের কোলের ছেলে হিসেবে সবাইকে আদর করে।",
+    "কোলের ছেলে হওয়ার সুবিধা পেয়ে সে বড় হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is pampered as the youngest son of the family.",
+    "Being the baby of the family, he grew up with many advantages."
+  ],
+  "usage_domain": [
+    "family",
+    "kinship"
+  ],
+  "tags": [
+    "family idiom",
+    "endearment",
+    "youngest sibling"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the pampered youngest son in traditional Bengali families."
+}

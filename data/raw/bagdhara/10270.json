@@ -1,0 +1,40 @@
+{
+  "id": "10270",
+  "idiom": "হাভাত",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ন বা ভাতের জন্য হাহাকার",
+  "figurative_meaning_bn": "অন্নের জন্য আর্তনাদ বা হাহাকার; দুর্ভিক্ষ",
+  "figurative_meaning_en": "Cries of distress for food; famine",
+  "similar_in_english": [
+    "Cry for bread",
+    "Howl of hunger"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে দুর্ভিক্ষের সময় হাভাত শোনা যায়।",
+    "অনেক পরিবারে হাভাতের আওয়াজ উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "During the famine, cries of hunger echoed in the village.",
+    "Many families are raising wails for food amid scarcity."
+  ],
+  "usage_domain": [
+    "famine",
+    "poverty",
+    "agriculture"
+  ],
+  "tags": [
+    "দুর্ভিক্ষ",
+    "আর্তনাদ",
+    "গ্রামীণ জীবন"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from historical famines in Bengal, such as the Bengal Famine of 1770 or 1943, where people cried out for rice and food in desperation."
+  ],
+  "note": "An archaic expression often used in literature to depict rural distress."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5761",
+  "idiom": "দাগি",
+  "alternative_idioms": [],
+  "literal_meaning": "দাগযুক্ত ব্যক্তি (ব্র্যান্ডেড বা চিহ্নিত ব্যক্তি)",
+  "figurative_meaning_bn": "পুরানো চোর; পূর্বে সাজাপ্রাপ্ত",
+  "figurative_meaning_en": "Habitual thief; previously convicted",
+  "similar_in_english": [
+    "Career criminal",
+    "Old offender"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা দাগি চোর, আবার ধরা পড়লে কঠোর শাস্তি পাবে।",
+    "পুলিশ বলল, এই দাগি আসামীকে ছাড়া যাবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a career criminal and will face severe punishment if caught again.",
+    "The police said this convicted offender cannot be released."
+  ],
+  "usage_domain": [
+    "Crime",
+    "Legal",
+    "Colloquial"
+  ],
+  "tags": [
+    "চোর",
+    "আসামী",
+    "শাস্তি",
+    "অপরাধ"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term originates from the colonial-era practice in Bengal where convicts were branded with hot irons on their foreheads or bodies to mark them as criminals, a punishment system influenced by British and earlier Mughal administrations."
+  ],
+  "note": "This idiom reflects historical penal practices and is still used metaphorically to denote repeat offenders."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "10141",
+  "idiom": "হাত ধুয়ে বসা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত ধোয়া এবং বসা (washing hands and sitting down)",
+  "figurative_meaning_bn": "সাধু সাজা",
+  "figurative_meaning_en": "Pretending to be a saint or pious person",
+  "similar_in_english": [
+    "Playing the saint",
+    "Holier-than-thou attitude"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় হাত ধুয়ে বসে, কিন্তু আসলে খুব লোভী।",
+    "প্রতিবেশী হাত ধুয়ে বসার ভান করে, কিন্তু গল্পে সবার খারাপ বলে।"
+  ],
+  "example_sentences_in_english": [
+    "He always washes his hands and sits down, but he's actually very greedy.",
+    "The neighbor pretends to be pious by washing hands and sitting, but gossips about everyone."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Moral critique"
+  ],
+  "tags": [
+    "Hypocrisy",
+    "Pretense",
+    "Piety"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the cultural practice of ritual hand-washing before prayers or meals, symbolizing false sanctity."
+}

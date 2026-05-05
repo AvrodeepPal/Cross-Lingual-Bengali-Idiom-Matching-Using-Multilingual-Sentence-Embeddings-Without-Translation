@@ -1,0 +1,38 @@
+{
+  "id": "2621",
+  "idiom": "খামোশ",
+  "alternative_idioms": [],
+  "literal_meaning": "নীরব বা চুপ",
+  "figurative_meaning_bn": "চুপ করার আদেশ",
+  "figurative_meaning_en": "Command to be quiet",
+  "similar_in_english": [
+    "Shut up!",
+    "Be quiet!",
+    "Hush!"
+  ],
+  "example_sentences_in_bangla": [
+    "খামোশ! এখন কথা বলার দরকার নেই।",
+    "শিশুটিকে খামোশ করিয়ে দাও।"
+  ],
+  "example_sentences_in_english": [
+    "Be quiet! There's no need to talk now.",
+    "Quiet the child down."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Commands"
+  ],
+  "tags": [
+    "Imperative",
+    "Silence",
+    "Urdu borrowing"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Borrowed from Urdu/Persian, widely used in colloquial Bengali for abrupt silencing."
+}

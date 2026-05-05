@@ -1,0 +1,40 @@
+{
+  "id": "1282",
+  "idiom": "ওস্তাদ",
+  "alternative_idioms": [],
+  "literal_meaning": "মাস্টার বা বিশেষজ্ঞ",
+  "figurative_meaning_bn": "ব্যঙ্গাত্মকভাবে অত্যন্ত চালাক; ফাজিল",
+  "figurative_meaning_en": "sarcastically, overly clever or sly; mischievous",
+  "similar_in_english": [
+    "smart aleck",
+    "wise guy",
+    "know-it-all"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ওস্তাদ ছেলে, সবসময় চালাকি করে।",
+    "বেড়ে ওস্তাদ হয়েছে, এখন কারো কথা শোনে না।"
+  ],
+  "example_sentences_in_english": [
+    "He's a real smart aleck, always trying to outsmart everyone.",
+    "He's grown into quite the wise guy, ignoring everyone's advice now."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "family interactions",
+    "child-rearing"
+  ],
+  "tags": [
+    "sarcasm",
+    "cleverness",
+    "mischief",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Persian 'ustad' meaning master, used ironically in Bengali for overly clever behavior."
+}

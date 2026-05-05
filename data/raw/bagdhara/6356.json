@@ -1,0 +1,36 @@
+{
+  "id": "6356",
+  "idiom": "নাথবতী",
+  "alternative_idioms": [],
+  "literal_meaning": "নাথ (স্বামী) সম্পন্ন নারী",
+  "figurative_meaning_bn": "সধবা নারী",
+  "figurative_meaning_en": "Married woman",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "সে নাথবতী হয়ে সংসারের দায়িত্ব পালন করে।",
+    "গ্রামে নাথবতী মহিলারা প্রায়ই সমাজের কেন্দ্রবিন্দু।"
+  ],
+  "example_sentences_in_english": [
+    "She fulfills household responsibilities as a married woman.",
+    "In the village, married women are often the center of society."
+  ],
+  "usage_domain": [
+    "family",
+    "marriage",
+    "society"
+  ],
+  "tags": [
+    "women",
+    "marriage",
+    "traditional roles",
+    "Hindu culture"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The parenthetical '(নাথবতী অনাধবৎ)' in the input may indicate a contrast with 'অনাথবতী' (widow), emphasizing the state of having a husband in traditional contexts."
+}

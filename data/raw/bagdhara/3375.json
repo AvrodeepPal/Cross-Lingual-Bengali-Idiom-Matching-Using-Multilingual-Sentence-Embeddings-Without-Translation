@@ -1,0 +1,40 @@
+{
+  "id": "3375",
+  "idiom": "গোলামখানা",
+  "alternative_idioms": [],
+  "literal_meaning": "গোলাম তৈরির কারখানা",
+  "figurative_meaning_bn": "গোলামের মনোবৃত্তিসম্পন্ন লোক তৈরি করার কারখানা, যেখান থেকে উদ্ধার পাওয়া কঠিন",
+  "figurative_meaning_en": "A factory that produces people with a slave mentality, from which escape or redemption is difficult",
+  "similar_in_english": [
+    "brainwashing factory",
+    "indoctrination mill"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই প্রতিষ্ঠানটি একটি গোলামখানা, যেখানে কর্মীরা নিজেদের পরিচয় হারিয়ে ফেলে।",
+    "পুরনো জমিদারির ব্যবস্থা ছিল গোলামখানার মতো, যা থেকে মুক্তি পাওয়া অসম্ভব ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "That institution is a slave factory, where workers lose their sense of self.",
+    "The old zamindari system was like a slave factory, from which freedom was impossible."
+  ],
+  "usage_domain": [
+    "society",
+    "politics",
+    "education"
+  ],
+  "tags": [
+    "slavery",
+    "subservience",
+    "oppression"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from historical contexts of slavery and feudal systems in Bengal, particularly under Mughal and British rule, where people were conditioned into subservience."
+  ],
+  "note": "Emphasizes the difficulty of breaking free from oppressive mental conditioning."
+}

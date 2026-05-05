@@ -1,0 +1,38 @@
+{
+  "id": "3151",
+  "idiom": "গাপ করা",
+  "alternative_idioms": [],
+  "literal_meaning": "গোপন গহ্বর বা ফাঁক তৈরি করা (শাব্দিকভাবে মুখ খোলা বা গিলে ফেলার অর্থে)",
+  "figurative_meaning_bn": "গোপনে আত্মস্মাৎ করা",
+  "figurative_meaning_en": "To secretly appropriate or swallow up something",
+  "similar_in_english": [
+    "To line one's pockets",
+    "To pocket something dishonestly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার অংশটা গোপনে গাপ করে নিয়েছে।",
+    "কোম্পানির অর্থ বেমালুম গাপ করে দিয়েছে চোরাচালাক ম্যানেজার।"
+  ],
+  "example_sentences_in_english": [
+    "He secretly pocketed my share.",
+    "The sneaky manager swallowed up the company's funds."
+  ],
+  "usage_domain": [
+    "finance",
+    "property",
+    "deception"
+  ],
+  "tags": [
+    "misappropriation",
+    "secretive",
+    "negative action"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali expressions of dishonesty in handling assets."
+}

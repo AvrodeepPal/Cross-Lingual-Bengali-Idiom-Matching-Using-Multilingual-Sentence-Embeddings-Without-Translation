@@ -1,0 +1,42 @@
+{
+  "id": "7534",
+  "idiom": "বাড়াভাতে ছাই",
+  "alternative_idioms": [],
+  "literal_meaning": "বাড়াভাতের অনুষ্ঠানে ছাই (বিয়ের পর বধূর বাড়িতে প্রথম ভাতের উৎসবে ছাই মেশানো)",
+  "figurative_meaning_bn": "ফলপ্রাপ্তির মুখে বাধা/বাগড়া",
+  "figurative_meaning_en": "An obstacle or interference just before achieving success or fruition",
+  "similar_in_english": [
+    "Throw a wrench in the works",
+    "Rain on someone's parade",
+    "Pour cold water on plans"
+  ],
+  "example_sentences_in_bangla": [
+    "আমাদের প্রকল্প সফল হওয়ার মুখে বাড়াভাতে ছাই দিয়ে দিল সেই অপ্রত্যাশিত খবর।",
+    "তার সাহায্যের পরিবর্তে বাড়াভাতে ছাই দিয়ে সম্পর্কটা নষ্ট করে দিল।"
+  ],
+  "example_sentences_in_english": [
+    "The unexpected delay threw ash in our wedding feast just as the project was about to succeed.",
+    "Instead of helping, he interfered and spoiled the whole plan at the last moment."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Family and social contexts",
+    "Business interruptions"
+  ],
+  "tags": [
+    "obstacle",
+    "interference",
+    "wedding custom",
+    "spoiling joy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from Bengali wedding traditions where 'bāṛābhāta' is the first family meal after marriage, symbolizing harmony; adding ash represents deliberate spoiling of a joyous occasion."
+  ],
+  "note": "Deeply tied to rural Bengali matrimonial customs, emphasizing untimely disruptions."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2239",
+  "idiom": "কুটকচালে",
+  "alternative_idioms": [],
+  "literal_meaning": "পিষে কচা করা (প্রতীকীভাবে জটিল বা অস্পষ্ট অবস্থা)",
+  "figurative_meaning_bn": "দুর্বোধ্য ও তর্কবিতর্কের বিষয়ীভূত",
+  "figurative_meaning_en": "Incomprehensible and prone to debate or argumentation",
+  "similar_in_english": [
+    "splitting hairs",
+    "much ado about nothing"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বিষয়টি কুটকচালে হয়ে গেছে, কেউ বুঝতে পারছে না।",
+    "তাদের আলোচনা কুটকচালে, শুধু তর্ক হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "This matter has become a kutkuchale, no one can understand it.",
+    "Their discussion turned into a kutkuchale, just endless arguments."
+  ],
+  "usage_domain": [
+    "conversation",
+    "debate",
+    "literature"
+  ],
+  "tags": [
+    "complexity",
+    "argument",
+    "confusion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom reflects everyday Bengali linguistic nuances around complexity in discourse."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1228",
+  "idiom": "এলোকেশ",
+  "alternative_idioms": [
+    "চুল"
+  ],
+  "literal_meaning": "এলো (ঢিলা বা ছড়ানো) কেশ (চুল)",
+  "figurative_meaning_bn": "খোলাচুল",
+  "figurative_meaning_en": "disheveled hair implying a terrifying or demonic appearance",
+  "similar_in_english": [
+    "wild-haired witch",
+    "hair like a banshee"
+  ],
+  "example_sentences_in_bangla": [
+    "রাতের অন্ধকারে তার এলোকেশ দেখে সবাই ভয় পেয়ে গেল।",
+    "গল্পের ভূতনীটি এলোকেশ করে উঠে দাঁড়াল।"
+  ],
+  "example_sentences_in_english": [
+    "In the darkness of night, her disheveled hair made everyone terrified.",
+    "The ghost in the story rose with wild, unkempt hair."
+  ],
+  "usage_domain": [
+    "literature",
+    "music",
+    "descriptive language"
+  ],
+  "tags": [
+    "hair",
+    "fear",
+    "appearance",
+    "poetic",
+    "demoniac"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References Shyama Sangeet, devotional songs to Goddess Kali depicting her fierce form with disheveled hair."
+  ],
+  "note": "Often used in poetic or devotional contexts to evoke a fearsome divine feminine image."
+}

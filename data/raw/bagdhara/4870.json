@@ -1,0 +1,39 @@
+{
+  "id": "4870",
+  "idiom": "টনক নড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "দরজার তালা বা টনক নড়ে ওঠা",
+  "figurative_meaning_bn": "হঠাৎ মনে পড়া",
+  "figurative_meaning_en": "to suddenly remember or recall",
+  "similar_in_english": [
+    "it rings a bell",
+    "it suddenly comes to mind"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার টনক নড়ল যে বইটি কোথায় রেখেছি।",
+    "শুনে তার টনক নড়ে গেল পুরনো বন্ধুর কথা মনে পড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "It suddenly came to my mind where I had left the book.",
+    "Hearing that, it struck him about his old friend."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "memory and recollection"
+  ],
+  "tags": [
+    "sudden recall",
+    "memory",
+    "realization"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom originates from the imagery of a door bolt (tonk) suddenly moving, symbolizing an unlocked memory in everyday Bengali life."
+  ],
+  "note": "This idiom vividly captures the spontaneous nature of human memory in Bengali linguistic tradition."
+}

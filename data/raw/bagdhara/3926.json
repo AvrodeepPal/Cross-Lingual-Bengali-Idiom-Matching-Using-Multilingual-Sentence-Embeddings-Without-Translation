@@ -1,0 +1,42 @@
+{
+  "id": "3926",
+  "idiom": "চিনির বলদ",
+  "alternative_idioms": [
+    "ধোপা-ভাঁড়ারী"
+  ],
+  "literal_meaning": "চিনির বলদ (sugar's bullock)",
+  "figurative_meaning_bn": "ভারবাহী কিন্তু ফলভোগী নয়; অপরের সমৃদ্ধির জন্য খেটেমরা ব্যক্তি",
+  "figurative_meaning_en": "One who bears the burden but does not enjoy the fruits; a person who toils hard for others' prosperity",
+  "similar_in_english": [
+    "beast of burden",
+    "workhorse"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চিনির বলদের মতো কোম্পানির জন্য দিনরাত খেটে মরে, কিন্তু কোনো লাভ পায় না।",
+    "গ্রামের এই কৃষক চিনির বলদের ভূমিকায় আছে, ফসলের উপভোগ তো দূরের কথা, খরচও মেটাতে পারে না।"
+  ],
+  "example_sentences_in_english": [
+    "He works like a sugar ox for the company day and night but gets no benefits.",
+    "This village farmer plays the role of a sugar ox, unable to even cover costs, let alone enjoy the harvest."
+  ],
+  "usage_domain": [
+    "labor",
+    "exploitation",
+    "work ethic"
+  ],
+  "tags": [
+    "agrarian",
+    "toil",
+    "inequity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Originates from rural Bengali agrarian life where bullocks transport valuable goods like sugar cane loads but are denied access to the cargo, symbolizing exploited labor."
+  ],
+  "note": "Synonymous with ধোপা-ভাঁড়ারী, which refers to a washerman carrying pots for others without personal gain."
+}

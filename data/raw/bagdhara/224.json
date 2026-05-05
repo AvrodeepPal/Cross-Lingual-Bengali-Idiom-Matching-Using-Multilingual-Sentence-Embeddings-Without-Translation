@@ -1,0 +1,39 @@
+{
+  "id": "224",
+  "idiom": "অভাবে স্বভাব নষ্ট",
+  "alternative_idioms": [],
+  "literal_meaning": "অভাবে স্বভাব নষ্ট হয়",
+  "figurative_meaning_bn": "অনটনের চাপে সৎপথে থাকা যায় না",
+  "figurative_meaning_en": "Under the pressure of hardship, one cannot remain on the path of righteousness",
+  "similar_in_english": [
+    "Desperate times call for desperate measures",
+    "Poverty corrupts the soul"
+  ],
+  "example_sentences_in_bangla": [
+    "অভাবে স্বভাব নষ্ট হয়ে গেছে, তাই সে এখন অনৈতিক কাজ করছে।",
+    "গ্রামের অনেক লোক অভাবে স্বভাব নষ্ট করে চুরির পথে নামে।"
+  ],
+  "example_sentences_in_english": [
+    "His character has been spoiled in want, so now he is resorting to unethical acts.",
+    "Many villagers turn to theft as their nature gets corrupted by poverty."
+  ],
+  "usage_domain": [
+    "morality",
+    "poverty",
+    "social behavior"
+  ],
+  "tags": [
+    "poverty",
+    "character",
+    "hardship",
+    "morals"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali views on how economic deprivation affects personal integrity."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7430",
+  "idiom": "বাঁশের চেয়ে কঞ্চি দড়",
+  "alternative_idioms": [
+    "বাঁশের চেয়ে কঞ্চি শক্ত"
+  ],
+  "literal_meaning": "বাঁশের চেয়ে কঞ্চি দড়/শক্ত (the thin bamboo cane is stronger/thicker than the bamboo)",
+  "figurative_meaning_bn": "আসল লোকের চেয়ে তার অনুচরের লাফানি বেশি",
+  "figurative_meaning_en": "The subordinate's audacity or boldness exceeds that of the principal person",
+  "similar_in_english": [
+    "The tail wags the dog",
+    "Barking dogs seldom bite (implying overcompensation)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বসের চেয়ে বেশি কথা বলে, বাঁশের চেয়ে কঞ্চি দড়।",
+    "প্রধানের অনুপস্থিতিতে অনুচরের সাহস বেড়ে যায়, বাঁশের চেয়ে কঞ্চি শক্ত।"
+  ],
+  "example_sentences_in_english": [
+    "He talks more boldly than his boss; the cane is stronger than the bamboo.",
+    "In the leader's absence, the follower's courage swells; the whip is tougher than the bamboo."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "workplace hierarchy",
+    "politics"
+  ],
+  "tags": [
+    "comparison",
+    "hierarchy",
+    "audacity",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from rural imagery of bamboo materials used in everyday life, highlighting power dynamics."
+}

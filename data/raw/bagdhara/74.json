@@ -1,0 +1,40 @@
+{
+  "id": "74",
+  "idiom": "অগ্রদূত",
+  "alternative_idioms": [],
+  "literal_meaning": "অগ্র (সামনে) + দূত (দূত বা বার্তাবাহক)",
+  "figurative_meaning_bn": "প্রথম সংবাদবাহক",
+  "figurative_meaning_en": "The first bearer of news",
+  "similar_in_english": [
+    "harbinger",
+    "forerunner",
+    "pioneer messenger"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অগ্রদূতের মতো খবরটা প্রথম জানালো সকলকে।",
+    "যুদ্ধের অগ্রদূত হিসেবে সৈনিকরা এগিয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He acted as the harbinger, bringing the news first to everyone.",
+    "The soldiers advanced as the forerunners of the battle."
+  ],
+  "usage_domain": [
+    "communication",
+    "news",
+    "pioneering"
+  ],
+  "tags": [
+    "messenger",
+    "first",
+    "news bearer",
+    "advance"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from classical Bengali literature and metaphorical use of messengers in historical contexts."
+}

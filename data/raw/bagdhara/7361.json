@@ -1,0 +1,40 @@
+{
+  "id": "7361",
+  "idiom": "বসন্তের সখা",
+  "alternative_idioms": [],
+  "literal_meaning": "বসন্তের বন্ধু",
+  "figurative_meaning_bn": "কোকিল",
+  "figurative_meaning_en": "cuckoo (the bird that heralds spring)",
+  "similar_in_english": [
+    "harbinger of spring"
+  ],
+  "example_sentences_in_bangla": [
+    "বসন্তের সখা এসে গেছে, কোকিলের কুহু কুহু শোনা যাচ্ছে।",
+    "গ্রামে বসন্তের সখা দেখলে মনে হয় নতুন বছর শুরু হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The friend of spring has arrived; the cuckoo's call can be heard.",
+    "Seeing the friend of spring in the village makes it feel like the new year has begun."
+  ],
+  "usage_domain": [
+    "nature",
+    "poetry",
+    "seasons"
+  ],
+  "tags": [
+    "bird",
+    "spring",
+    "figurative",
+    "poetic"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from traditional Bengali folklore and literature, where the cuckoo is poetically linked to the arrival of spring, symbolizing renewal and joy in rural life."
+  ],
+  "note": "Commonly used in Rabindra Sangeet and classical Bengali poetry to evoke seasonal imagery."
+}

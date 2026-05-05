@@ -1,0 +1,41 @@
+{
+  "id": "5933",
+  "idiom": "দেখাশুনা",
+  "alternative_idioms": [
+    "শোনা"
+  ],
+  "literal_meaning": "seeing and hearing",
+  "figurative_meaning_bn": "অনুসন্ধান, খোঁজখবর",
+  "figurative_meaning_en": "inquiry, seeking information or prospects",
+  "similar_in_english": [
+    "checking out",
+    "scouting around",
+    "sizing up"
+  ],
+  "example_sentences_in_bangla": [
+    "মেয়ের জন্য পাত্র দেখাশুনা চলছে।",
+    "নতুন ব্যবসার জন্য স্থান দেখাশুনা করছি।"
+  ],
+  "example_sentences_in_english": [
+    "They are looking into prospects for a groom for the girl.",
+    "I'm checking out locations for a new business."
+  ],
+  "usage_domain": [
+    "marriage",
+    "family",
+    "social"
+  ],
+  "tags": [
+    "idiom",
+    "inquiry",
+    "prospecting"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in the context of arranged marriages in Bengali culture"
+}

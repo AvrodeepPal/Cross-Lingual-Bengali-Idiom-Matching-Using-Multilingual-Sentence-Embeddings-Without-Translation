@@ -1,0 +1,43 @@
+{
+  "id": "9070",
+  "idiom": "রাই কুড়িয়ে বেল",
+  "alternative_idioms": [
+    "তিল কুড়িয় তাল",
+    "তিলে তিলে তাল"
+  ],
+  "literal_meaning": "রাই (সরিষার বীজ) কুড়িয়ে বেল (বেলফলের গাছ) তৈরি করা",
+  "figurative_meaning_bn": "একটু একটু করে বিরাট আকার; অল্প অল্প করে প্রভূত অর্থ সঞ্চয়",
+  "figurative_meaning_en": "Building something massive bit by bit; accumulating vast wealth little by little",
+  "similar_in_english": [
+    "Every little helps",
+    "Little strokes fell great oaks",
+    "Rome wasn't built in a day"
+  ],
+  "example_sentences_in_bangla": [
+    "সে রাই কুড়িয়ে বেল করে ধনী হয়েছে।",
+    "ব্যবসায় সাফল্য পেতে রাই কুড়িয়ে বেলের মতো ধৈর্য ধরতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He became rich by collecting mustard seeds to build a wood apple tree, metaphorically speaking.",
+    "To succeed in business, one must have the patience to build bit by bit like gathering tiny seeds into a great tree."
+  ],
+  "usage_domain": [
+    "wealth accumulation",
+    "gradual progress",
+    "perseverance"
+  ],
+  "tags": [
+    "accumulation",
+    "patience",
+    "agrarian",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from rural Bengali agrarian life, emphasizing small efforts leading to big results, similar to other seed-based proverbs."
+}

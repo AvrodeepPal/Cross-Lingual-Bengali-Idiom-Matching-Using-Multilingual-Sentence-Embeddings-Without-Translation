@@ -1,0 +1,40 @@
+{
+  "id": "9016",
+  "idiom": "রগড়ারগড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "রগড়া (ঘষা বা ঝগড়া) এর পুনরাবৃত্তি; অর্থাৎ অর্থহীন বা অতিরিক্ত পুনরাবৃত্তিমূলক আলোচনা",
+  "figurative_meaning_bn": "সহচরশব্দ; একই বিষয়ের বহু আলোচনা",
+  "figurative_meaning_en": "Synonymous expression; excessive or repetitive discussion of the same topic",
+  "similar_in_english": [
+    "beating a dead horse",
+    "going around in circles",
+    "enough is enough"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বিষয় নিয়ে অনেক রগড়ারগড়ি হয়েছে, এবার ইতি টানো।",
+    "সভায় একই কথা নিয়ে রগড়ারগড়ি করে লাভ কী?"
+  ],
+  "example_sentences_in_english": [
+    "There's been enough back-and-forth on this issue; let's wrap it up.",
+    "What's the point of all this fuss over the same thing in the meeting?"
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "debates",
+    "informal discussions"
+  ],
+  "tags": [
+    "reduplication",
+    "repetition",
+    "fuss",
+    "annoyance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses reduplication, a common feature in Bengali for emphasizing repetition or triviality."
+}

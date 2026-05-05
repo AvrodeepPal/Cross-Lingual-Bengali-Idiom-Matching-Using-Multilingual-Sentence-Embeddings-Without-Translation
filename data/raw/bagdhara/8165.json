@@ -1,0 +1,38 @@
+{
+  "id": "8165",
+  "idiom": "ভোগীরাম",
+  "alternative_idioms": [],
+  "literal_meaning": "ভোগ করা রাম (যিনি উপভোগ করে, রামের নামে)",
+  "figurative_meaning_bn": "যে ব্যক্তি বাপের অর্জিত সম্পত্তি ভোগ করে",
+  "figurative_meaning_en": "A person who lives off the wealth acquired by his father",
+  "similar_in_english": [
+    "Trust fund baby",
+    "Living off inherited wealth"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা খাঁটি ভোগীরাম, বাবার সম্পত্তি খরচ করে দিন কাটায়।",
+    "ভোগীরাম হয়ে থাকলে জীবনের কোনো লক্ষ্য থাকে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real Bhogi Ram, spending his father's money without working.",
+    "Becoming a Bhogi Ram means having no goals in life."
+  ],
+  "usage_domain": [
+    "family",
+    "wealth",
+    "lifestyle"
+  ],
+  "tags": [
+    "inheritance",
+    "laziness",
+    "privilege"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term may allude to stereotypical characters in Bengali folklore who idle away on family fortunes."
+}

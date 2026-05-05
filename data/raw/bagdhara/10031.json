@@ -1,0 +1,39 @@
+{
+  "id": "10031",
+  "idiom": "হাট করা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাট (বাজার বা মেলা) করা (করা বা যাওয়া)",
+  "figurative_meaning_bn": "বাজার থেকে দ্রব্যাদি কেনা",
+  "figurative_meaning_en": "To buy goods from the market or go shopping",
+  "similar_in_english": [
+    "Go to market",
+    "Hit the shops"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ সকালে আমি হাট করতে গিয়েছিলাম নতুন জামা কিনতে।",
+    "প্রতি শুক্রবার গ্রামের লোকেরা হাট করতে আসে।"
+  ],
+  "example_sentences_in_english": [
+    "This morning I went to the market to buy new clothes.",
+    "Every Friday, people from the village come to shop at the market."
+  ],
+  "usage_domain": [
+    "Daily life",
+    "Commerce",
+    "Shopping"
+  ],
+  "tags": [
+    "market",
+    "shopping",
+    "rural economy",
+    "everyday activity"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "হাট refers to traditional weekly rural markets in Bengal, central to local trade and social interaction."
+}

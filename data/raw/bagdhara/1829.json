@@ -1,0 +1,38 @@
+{
+  "id": "1829",
+  "idiom": "কাকভোর",
+  "alternative_idioms": [],
+  "literal_meaning": "কাকের ভোর (crows' dawn)",
+  "figurative_meaning_bn": "ভোরের যে সময় কাকেরা প্রথম ডাকা শুরু করে, খুব সকাল",
+  "figurative_meaning_en": "Very early in the morning, at the time when crows begin to caw at dawn",
+  "similar_in_english": [
+    "crack of dawn",
+    "cockcrow"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি কাকভোরে বেড়াতে বেরুই।",
+    "কাকভোরে উঠে কাজ শুরু করো।"
+  ],
+  "example_sentences_in_english": [
+    "I go for a walk at the crack of dawn.",
+    "Get up at dawn and start your work."
+  ],
+  "usage_domain": [
+    "Time",
+    "Daily routine"
+  ],
+  "tags": [
+    "Nature",
+    "Morning",
+    "Birds",
+    "Rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from observations of natural sounds in Bengali rural environments."
+}

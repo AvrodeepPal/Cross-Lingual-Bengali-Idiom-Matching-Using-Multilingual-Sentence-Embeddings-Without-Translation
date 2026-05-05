@@ -1,0 +1,45 @@
+{
+  "id": "10360",
+  "idiom": "হোসেন শার আমল",
+  "alternative_idioms": [
+    "আকবরের আমন",
+    "বাবরের আমল",
+    "মান্ধাতার আমল"
+  ],
+  "literal_meaning": "হোসেন শাহের আমল বা যুগ",
+  "figurative_meaning_bn": "বহুদিন আগের কথা",
+  "figurative_meaning_en": "A matter from a long time ago",
+  "similar_in_english": [
+    "Ancient history",
+    "From the Stone Age"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ঘটনাটা তো হোসেন শার আমলের, এখন আর কেউ মনে রাখে না।",
+    "তার কথাগুলো হোসেন শার আমলের মতো পুরনো লাগছে।"
+  ],
+  "example_sentences_in_english": [
+    "That incident is from Hossain Shah's era; no one remembers it now.",
+    "His stories feel as old as Hossain Shah's time."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Storytelling",
+    "Historical references"
+  ],
+  "tags": [
+    "historical",
+    "time",
+    "old",
+    "past"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the era of Hussain Shah I (1493–1519), a prominent Sultan of Bengal known for his rule during a golden age of Bengali culture and administration."
+  ],
+  "note": "The idiom evokes a sense of remoteness in time, often used to dismiss outdated ideas or events."
+}

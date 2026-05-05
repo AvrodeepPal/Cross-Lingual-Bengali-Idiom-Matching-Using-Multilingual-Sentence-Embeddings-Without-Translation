@@ -1,0 +1,41 @@
+{
+  "id": "8858",
+  "idiom": "মেরে দেওয়া",
+  "alternative_idioms": [
+    "ঝেঁপে দেওয়া"
+  ],
+  "literal_meaning": "আঘাত করে দেওয়া (to strike or beat and give)",
+  "figurative_meaning_bn": "আত্মসাৎ করা, চুরি করা",
+  "figurative_meaning_en": "to embezzle, to steal",
+  "similar_in_english": [
+    "to pocket",
+    "to swipe",
+    "to rip off"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কোম্পানির টাকা মেরে দিয়েছে।",
+    "ভাইয়ের সঞ্চয় মেরে দিয়ে সে পালিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has embezzled the company's money.",
+    "He stole his brother's savings and ran away."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "finance",
+    "theft"
+  ],
+  "tags": [
+    "stealing",
+    "deception",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in informal Bengali speech to describe dishonest appropriation of money or property."
+}

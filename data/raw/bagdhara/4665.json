@@ -1,0 +1,37 @@
+{
+  "id": "4665",
+  "idiom": "জিগর",
+  "alternative_idioms": [],
+  "literal_meaning": "কলিজা (liver)",
+  "figurative_meaning_bn": "বুকের পাটা; সাহস",
+  "figurative_meaning_en": "guts; courage",
+  "similar_in_english": [
+    "have guts",
+    "show backbone"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার জিগর নেই, এটা করতে পারবে না।",
+    "সে জিগর দেখিয়ে চুরির ঘটনায় সাক্ষী দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "You don't have the guts to do this.",
+    "He showed courage by testifying in the theft case."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "motivational"
+  ],
+  "tags": [
+    "courage",
+    "bravery",
+    "fearlessness"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Borrowed from Persian/Urdu, commonly used in Bengali to denote inner strength or bravery."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "41",
+  "idiom": "অগভীর জলের পুঁটিমাছ",
+  "alternative_idioms": [],
+  "literal_meaning": "অগভীর জলের ছোট মাছ",
+  "figurative_meaning_bn": "অল্প ধন/বিদ্যা নিয়ে বড়াইকারী লোক",
+  "figurative_meaning_en": "A person who boasts despite having little wealth or knowledge",
+  "similar_in_english": [
+    "Big fish in a small pond",
+    "All hat and no cattle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অগভীর জলের পুঁটিমাছের মতো তার সামান্য জ্ঞান নিয়ে সবাইকে শেখাতে চায়।",
+    "গ্রামের এই ছেলেটি শহরে গিয়ে অগভীর জলের পুঁটিমাছের ভঙ্গিতে বড়াই করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He tries to teach everyone like a minnow in shallow water boasting about his meager knowledge.",
+    "This village boy is acting like a minnow in shallow water, bragging in the city."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Criticism"
+  ],
+  "tags": [
+    "arrogance",
+    "boasting",
+    "humility",
+    "rural imagery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from everyday observations of small fish in shallow ponds, common in Bengali rural life."
+}

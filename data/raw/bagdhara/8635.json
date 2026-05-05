@@ -1,0 +1,39 @@
+{
+  "id": "8635",
+  "idiom": "মিনমিনে",
+  "alternative_idioms": [],
+  "literal_meaning": "মিন মিন করে এমন শব্দ বা আচরণ",
+  "figurative_meaning_bn": "মিন মিন করে এমন",
+  "figurative_meaning_en": "whining or complaining in a low, persistent, petty manner",
+  "similar_in_english": [
+    "nitpicking",
+    "whining",
+    "making mountains out of molehills"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় মিনমিনে অভিযোগ করে।",
+    "এই মিনমিনে কাজ নিয়ে সময় নষ্ট করো না।"
+  ],
+  "example_sentences_in_english": [
+    "He always whines about petty things.",
+    "Don't waste time on such trivial nitpicking."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing behavior"
+  ],
+  "tags": [
+    "whining",
+    "petty",
+    "complaining",
+    "onomatopoeic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression mimicking a low whining sound, common in colloquial Bengali."
+}

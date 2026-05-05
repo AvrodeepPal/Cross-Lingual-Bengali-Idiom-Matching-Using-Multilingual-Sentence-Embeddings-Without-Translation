@@ -1,0 +1,39 @@
+{
+  "id": "8959",
+  "idiom": "যাহা বাহান্ন তাহা তিপ্পান্ন",
+  "alternative_idioms": [],
+  "literal_meaning": "যা বাহান্ন (৫২), তা তিপ্পান্ন (৫৩); অর্থাৎ সংখ্যা দিয়ে প্রায় একই রকম কিন্তু সামান্য পার্থক্য",
+  "figurative_meaning_bn": "অতিসামান্য পার্থক্য বা প্রভেদশূন্য; প্রায় হওয়ার কথা নয় এমন ভাব",
+  "figurative_meaning_en": "Insignificant difference or indistinguishable; almost but not quite the intended way",
+  "similar_in_english": [
+    "Six of one and half a dozen of the other",
+    "Close but no cigar"
+  ],
+  "example_sentences_in_bangla": [
+    "দুটো প্রস্তাব যাহা বাহান্ন তাহা তিপ্পান্ন, কোনোটাই আলাদা নয়।",
+    "তার কাজটা প্রায় হয়েছে, কিন্তু যাহা বাহান্ন তাহা তিপ্পান্ন।"
+  ],
+  "example_sentences_in_english": [
+    "The two proposals are like 52 and 53, no real difference.",
+    "His work is almost done, but it's like 52 and 53—not quite there."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Comparisons",
+    "Decision-making"
+  ],
+  "tags": [
+    "similarity",
+    "difference",
+    "numbers",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses consecutive numbers to emphasize negligible differences, common in spoken Bengali."
+}

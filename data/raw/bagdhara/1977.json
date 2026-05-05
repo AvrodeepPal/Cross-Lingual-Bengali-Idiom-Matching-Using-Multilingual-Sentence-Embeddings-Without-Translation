@@ -1,0 +1,41 @@
+{
+  "id": "1977",
+  "idiom": "কান কাটা",
+  "alternative_idioms": [],
+  "literal_meaning": "কান কাটা (ear cutting)",
+  "figurative_meaning_bn": "অপমান/হতমান করা",
+  "figurative_meaning_en": "to insult or humiliate",
+  "similar_in_english": [
+    "to cut someone down to size",
+    "to publicly humiliate"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার প্রতিদ্বন্দ্বীর কান কাটতে চায় সবার সামনে।",
+    "এই ঘটনায় তার কান কাটা হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He wants to cut his rival's ears in front of everyone.",
+    "He was humiliated by this incident."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "conflict",
+    "everyday conversation"
+  ],
+  "tags": [
+    "insult",
+    "humiliation",
+    "revenge",
+    "shame"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom may originate from historical practices of corporal punishment involving ear mutilation as a form of public shaming in pre-colonial Bengal."
+  ],
+  "note": "The idiom evokes imagery of visible punishment to denote social disgrace."
+}

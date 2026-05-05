@@ -1,0 +1,42 @@
+{
+  "id": "2377",
+  "idiom": "কোটনা",
+  "alternative_idioms": [
+    "কোটনী"
+  ],
+  "literal_meaning": "কোট পরিহিত বা কোট-সম্পর্কিত ব্যক্তি (যদিও এটি একটি লোকসানাতিক শব্দ যা বিশেষভাবে কোনো শাব্দিক অর্থ নির্দেশ করে না; এটি একটি প্রচলিত উপাধি)",
+  "figurative_meaning_bn": "কান ভাঙানি দিয়ে বিবাদ সৃষ্টি করে এমন পুরুষ বা নারী",
+  "figurative_meaning_en": "A man or woman who creates disputes by gossiping or spreading rumors",
+  "similar_in_english": [
+    "Troublemaker",
+    "Stir the pot",
+    "Busybody"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা কোটনা, সবসময় অন্যের কথা ছড়িয়ে ঝগড়া বাধায়।",
+    "গ্রামে কোটনীদের কারণে শান্তি নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real kotona, always spreading rumors to start fights.",
+    "In the village, troublemakers like kotoni disrupt the peace."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Everyday conversation",
+    "Rural disputes"
+  ],
+  "tags": [
+    "gossip",
+    "quarrelsome",
+    "mischief-maker",
+    "negative social behavior"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "এটি বাংলা লোকসাহিত্য এবং গ্রামীণ উপভাষায় প্রচলিত, যা গসিপের মাধ্যমে বিবাদ সৃষ্টির সাংস্কৃতিক চিত্রায়ন করে।"
+}

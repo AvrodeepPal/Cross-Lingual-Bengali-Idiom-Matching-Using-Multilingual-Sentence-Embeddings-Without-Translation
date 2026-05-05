@@ -1,0 +1,45 @@
+{
+  "id": "3147",
+  "idiom": "গাধার জল খাওয়া",
+  "alternative_idioms": [
+    "কুকুরের আড়াই পাক",
+    "বিড়ালের তিন পা",
+    "শিয়ালের রা"
+  ],
+  "literal_meaning": "গাধার জল খাওয়া (donkey drinking water, implying stirring it up first)",
+  "figurative_meaning_bn": "স্বভাবের দোষ",
+  "figurative_meaning_en": "An inherent defect in one's nature or an incurable bad habit",
+  "similar_in_english": [
+    "A leopard can't change its spots",
+    "Set in one's ways"
+  ],
+  "example_sentences_in_bangla": [
+    "তার এই গাধার জল খাওয়ার মতো অভ্যাস কিছুতেই শোধরানো যায় না।",
+    "এই কাজটা তার স্বভাবের দোষ, গাধার জল খাওয়ার মতো।"
+  ],
+  "example_sentences_in_english": [
+    "His habit is like a donkey drinking water; it can't be changed.",
+    "That's a flaw in his nature, just like a donkey stirring up water before drinking."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "proverbs",
+    "everyday criticism"
+  ],
+  "tags": [
+    "animal-based",
+    "habit",
+    "negative trait",
+    "folklore"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Derived from the observed behavior of donkeys in rural Bengal, which muddy the water before drinking, symbolizing unchangeable flaws in human character."
+  ],
+  "note": "This idiom highlights ingrained habits through animal analogy, common in Bengali oral traditions."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5429",
+  "idiom": "তিনসন্ধ্যা",
+  "alternative_idioms": [
+    "ত্রিসন্ধায়"
+  ],
+  "literal_meaning": "তিনটি সন্ধ্যা বা সন্ধিক্ষণ (three twilights or junctions)",
+  "figurative_meaning_bn": "পূর্বাহ্ন, মধ্যাহ্ন ও অপরাহ্ন",
+  "figurative_meaning_en": "forenoon, midday, and afternoon",
+  "similar_in_english": [
+    "morning, noon, and night"
+  ],
+  "example_sentences_in_bangla": [
+    "ত্রিসন্ধ্যায় নিয়মিত প্রার্থনা করলে মন শান্ত হয়।",
+    "দিনের তিনসন্ধ্যা কাজ করে সে কখনো বিশ্রাম নেয় না।"
+  ],
+  "example_sentences_in_english": [
+    "Praying regularly at the three sandhyas brings peace of mind.",
+    "He works through the three parts of the day without taking any rest."
+  ],
+  "usage_domain": [
+    "religion",
+    "time",
+    "daily routine"
+  ],
+  "tags": [
+    "hinduism",
+    "prayer",
+    "day divisions"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the Hindu tradition of 'sandhya' rituals, referring to the three key times of the day for worship: dawn (pratah sandhya), noon (madhyahna sandhya), and evening (sayam sandhya), though the given meaning specifies forenoon, midday, and afternoon."
+  ],
+  "note": "The term is rooted in Vedic practices and is commonly used in Bengali Hindu contexts to denote structured daily spiritual observance."
+}

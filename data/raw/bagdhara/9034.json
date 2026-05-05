@@ -1,0 +1,43 @@
+{
+  "id": "9034",
+  "idiom": "রণভঙ্গ",
+  "alternative_idioms": [],
+  "literal_meaning": "রণের ভঙ্গ বা যুদ্ধের বিঘ্ন",
+  "figurative_meaning_bn": "প্রতিযোগিতা বিতর্ক ইত্যাদি থেকে মাঝপথে সরে যাওয়া; লড়াইয়ের ময়দান থেকে পলায়ন",
+  "figurative_meaning_en": "Withdrawing midway from competitions, debates, etc.; fleeing from the battlefield",
+  "similar_in_english": [
+    "To beat a retreat",
+    "To cut and run",
+    "To throw in the towel"
+  ],
+  "example_sentences_in_bangla": [
+    "যুদ্ধের মাঝখানে সৈন্যরা রণভঙ্গ করল।",
+    "আলোচনার সময় তিনি হঠাৎ রণভঙ্গ করে চলে গেলেন।"
+  ],
+  "example_sentences_in_english": [
+    "The soldiers beat a retreat in the middle of the battle.",
+    "He suddenly cut and run from the discussion."
+  ],
+  "usage_domain": [
+    "Military",
+    "Politics",
+    "Sports",
+    "Debates"
+  ],
+  "tags": [
+    "Withdrawal",
+    "Defeat",
+    "Cowardice",
+    "Military origin"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom references historical military retreats, such as the British fleeing during colonial battles in India, as in the example of English forces' rout."
+  ],
+  "note": "Often used in literary and historical narratives to denote strategic or cowardly withdrawal."
+}

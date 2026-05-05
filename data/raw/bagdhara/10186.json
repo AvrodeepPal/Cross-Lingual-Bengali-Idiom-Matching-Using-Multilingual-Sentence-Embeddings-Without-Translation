@@ -1,0 +1,39 @@
+{
+  "id": "10186",
+  "idiom": "হাতসাফাই",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত পরিষ্কার করা",
+  "figurative_meaning_bn": "চুরি",
+  "figurative_meaning_en": "Theft or stealing",
+  "similar_in_english": [
+    "Sticky fingers",
+    "Light-fingered"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অফিস থেকে টাকা চুরি করার জন্য হাতসাফাই করেছে।",
+    "হাতসাফাই করে ধরা পড়লে জেল হয়ে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "He committed theft by embezzling money from the office.",
+    "Getting caught in theft will land you in jail."
+  ],
+  "usage_domain": [
+    "Crime",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "চুরি",
+    "অপরাধ",
+    "সাধারণ ভাষা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom alludes to a habitual thief who metaphorically 'washes' both hands with milk daily, implying luxurious living from stolen goods like milk, a common household item in rural Bengal."
+  ],
+  "note": "The parenthetical explanation in the input provides cultural context for habitual theft."
+}

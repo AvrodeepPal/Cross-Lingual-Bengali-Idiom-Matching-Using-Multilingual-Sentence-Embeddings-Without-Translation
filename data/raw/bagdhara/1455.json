@@ -1,0 +1,39 @@
+{
+  "id": "1455",
+  "idiom": "কথামাত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "শুধুমাত্র কথা",
+  "figurative_meaning_bn": "কেবল বলা, কার্যে অনুষ্ঠিত নয়",
+  "figurative_meaning_en": "Mere words, not put into action",
+  "similar_in_english": [
+    "All talk and no action",
+    "Empty words",
+    "Lip service"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সব প্রতিশ্রুতি কথামাত্র।",
+    "এই পরিকল্পনা কথামাত্র, কোনো কাজ হয়নি।"
+  ],
+  "example_sentences_in_english": [
+    "His promises are just empty words.",
+    "The plan was mere talk and nothing came of it."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Politics",
+    "Personal promises"
+  ],
+  "tags": [
+    "insincerity",
+    "deception",
+    "unfulfilled promises"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to criticize unfulfilled commitments in Bengali discourse"
+}

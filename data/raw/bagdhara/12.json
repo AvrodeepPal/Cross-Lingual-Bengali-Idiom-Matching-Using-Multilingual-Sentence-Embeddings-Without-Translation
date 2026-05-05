@@ -1,0 +1,39 @@
+{
+  "id": "12",
+  "idiom": "অকালকুষ্মাণ্ড",
+  "alternative_idioms": [],
+  "literal_meaning": "অকালে জন্মগ্রহণকারী কুস্মাণ্ডাকার মাংসপিণ্ড (untimely pumpkin-like flesh mass)",
+  "figurative_meaning_bn": "কুলনাশক",
+  "figurative_meaning_en": "destroyer of the family lineage",
+  "similar_in_english": [
+    "black sheep of the family",
+    "family wrecker"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার পরিবারের অকালকুষ্মাণ্ড, সবসময় বিপদ ডেকে আনে।",
+    "এই ছেলেটি অকালকুষ্মাণ্ডের মতো, কুলের ক্ষতি করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is the untimely pumpkin of his family, always bringing trouble.",
+    "This boy is like an untimely pumpkin, destroying the family lineage."
+  ],
+  "usage_domain": [
+    "family matters",
+    "curses and rebukes"
+  ],
+  "tags": [
+    "mythological",
+    "negative",
+    "family destruction"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "In the Mahabharata epic, Gandhari prematurely delivered a lump of flesh resembling a pumpkin (kushmanda), from which Duryodhana and his 99 brothers were born, ultimately leading to the destruction of the Kuru dynasty."
+  ],
+  "note": "Derived from Hindu mythology, used to scold someone causing family ruin."
+}

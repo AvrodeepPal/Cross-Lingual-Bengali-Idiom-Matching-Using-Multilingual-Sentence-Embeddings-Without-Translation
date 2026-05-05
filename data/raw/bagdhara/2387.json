@@ -1,0 +1,38 @@
+{
+  "id": "2387",
+  "idiom": "কোদাল দিয়ে দাড়ি চাঁচা",
+  "alternative_idioms": [],
+  "literal_meaning": "কোদাল দিয়ে দাড়ি চাঁচানো (using a spade to shave the beard)",
+  "figurative_meaning_bn": "অসম্ভব বা ব্যর্থ প্রয়াস",
+  "figurative_meaning_en": "An impossible or futile attempt",
+  "similar_in_english": [
+    "Using a sledgehammer to crack a nut",
+    "Barking up the wrong tree"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কাজটি কোদাল দিয়ে দাড়ি চাঁচার মতো অসম্ভব।",
+    "তার প্রচেষ্টা কোদাল দিয়ে দাড়ি চাঁচার মতোই ব্যর্থ হবে।"
+  ],
+  "example_sentences_in_english": [
+    "This task is as impossible as trying to shave a beard with a spade.",
+    "His effort will be as futile as shaving with a shovel."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism of efforts"
+  ],
+  "tags": [
+    "impossibility",
+    "futility",
+    "absurdity",
+    "wrong tool"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from rural farming imagery where a kodal (spade) is a common tool, highlighting mismatch in tools for delicate tasks."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "1700",
+  "idiom": "কলের পুতুল",
+  "alternative_idioms": [],
+  "literal_meaning": "কলের চালিত পুতুল (steam-powered puppet)",
+  "figurative_meaning_bn": "যে ব্যক্তির মতি স্থির নেই, একবার কথা বলে পরমুহূর্তে অন্য কথা বলে",
+  "figurative_meaning_en": "A person whose mind is unsteady, who says one thing one moment and something else the next",
+  "similar_in_english": [
+    "Fickle as the weather",
+    "Blow hot and cold"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কলের পুতুলের মতো, আজ এই কথা বললো কাল অন্য কথা বলবে।",
+    "তার সিদ্ধান্ত কলের পুতুলের মতো অস্থির।"
+  ],
+  "example_sentences_in_english": [
+    "He is like a steam puppet; he says one thing today and another tomorrow.",
+    "Her decisions are as unsteady as a steam puppet."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Personality description"
+  ],
+  "tags": [
+    "fickle",
+    "inconsistent",
+    "unreliable",
+    "personality"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the imagery of mechanical toys or puppets powered by steam engines, symbolizing lack of independent will."
+}

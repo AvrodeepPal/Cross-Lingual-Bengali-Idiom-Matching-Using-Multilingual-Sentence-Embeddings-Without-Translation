@@ -1,0 +1,42 @@
+{
+  "id": "10353",
+  "idiom": "হেস্তনেস্ত",
+  "alternative_idioms": [
+    "এসপার-ওসপার"
+  ],
+  "literal_meaning": "অস্পষ্ট বা অনিয়মিত নিষ্পত্তির শব্দচিত্র (যেন হাতে-নেস্তনেস্ত ধরা বা টেনে নেওয়া)",
+  "figurative_meaning_bn": "যে-কোনো রূপ নিষ্পত্তি বা সমাধান; ভালোমন্দ যাই হোক একটা মীমাংসা; যা হবার হবে; চরম নিস্পত্তি",
+  "figurative_meaning_en": "Any form of settlement or resolution; a conclusion good or bad; what will be, will be; ultimate finality",
+  "similar_in_english": [
+    "Come what may",
+    "One way or another",
+    "Sink or swim"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ঝগড়াটা হেস্তনেস্ত করে ফেলবো, আর কোনো দেরি নয়।",
+    "ব্যবসাটা হেস্তনেস্ত হয়েছে, এখন শান্তিতে থাকবো।"
+  ],
+  "example_sentences_in_english": [
+    "I'll settle this quarrel come what may, no more delays.",
+    "The business has been resolved one way or another; now I can rest in peace."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Decision-making",
+    "Conflict resolution"
+  ],
+  "tags": [
+    "finality",
+    "determination",
+    "resolution",
+    "indifference to outcome"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects a pragmatic Bengali attitude towards resolving uncertainties without overthinking outcomes."
+}

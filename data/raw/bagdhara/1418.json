@@ -1,0 +1,37 @@
+{
+  "id": "1418",
+  "idiom": "কথা চালানো",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা চালানো (শব্দগুলো চালানো বা সঞ্চালন করা)",
+  "figurative_meaning_bn": "এক কান থেকে অন্য কানে সংবাদ রটানো",
+  "figurative_meaning_en": "To spread news or rumors from one ear to another",
+  "similar_in_english": [
+    "Hear it through the grapevine",
+    "Word of mouth"
+  ],
+  "example_sentences_in_bangla": [
+    "গাঁয়ে একটা খবর কথা চালানোর পর সবাই জেনে গেল।",
+    "সে সবসময় কথা চালিয়ে অন্যদের কানে কানে খবর পৌঁছে দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "Once the news started spreading in the village, everyone knew about it.",
+    "She always passes information from ear to ear among others."
+  ],
+  "usage_domain": [
+    "social communication",
+    "gossip"
+  ],
+  "tags": [
+    "rumor",
+    "word of mouth",
+    "spreading news"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the oral tradition of information sharing in Bengali rural communities."
+}

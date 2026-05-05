@@ -1,0 +1,1005 @@
+[
+    {
+        "idiom": "नज़रबंद करना",
+        "literal_meaning": "To put under house arrest.",
+        "figurative_meaning": "To restrict someone's freedom.",
+        "example": "Usne apne vicharon ko nazarband kiya, kyunki wo jaanta tha ki samaj unhe sweekar nahi karega.",
+        "language": "Hindi"
+    },
+    {
+        "idiom": "धरना देना",
+        "literal_meaning": "To sit in protest.",
+        "figurative_meaning": "To stand firm on an issue.",
+        "example": "Kisaan dharna dekar apni maangein manwane mein safal hue.",
+        "language": "Hindi"
+    },
+    {
+        "idiom": "दीवारों के कान होना",
+        "literal_meaning": "Walls have ears.",
+        "figurative_meaning": "Confidential matters may be overheard.",
+        "example": "Jab bhi tum baat karo, yaad rakho deewaron ke kaan hote hain.",
+        "language": "Hindi"
+    },
+    {
+        "idiom": "थक कर चूर होना",
+        "literal_meaning": "To be completely exhausted.",
+        "figurative_meaning": "To be extremely tired.",
+        "example": "Kaam karte-karate woh thak kar choor ho gaya.",
+        "language": "Hindi"
+    },
+    {
+        "idiom": "तिनके का सहारा",
+        "literal_meaning": "A straw's support.",
+        "figurative_meaning": "A small help in a difficult situation.",
+        "example": "Uski madad tinke ka sahara saabit hui jab sab kuch ulat gaya.",
+        "language": "Hindi"
+    },
+    {
+        "idiom": "सांप भी मर जाए और लाठी भी न टूटे",
+        "literal_meaning": "The snake should die, but the stick should not break.",
+        "figurative_meaning": "Finding a solution that satisfies all parties without loss.",
+        "example": "Is samasya ka samadhan aisa hona chahiye ki saanp bhi mar jaye aur laathi bhi na toote.",
+        "language": "Hindi"
+    },
+    {
+        "idiom": "बंदर क्या जाने अदरक का",
+        "literal_meaning": "What does a monkey know of ginger?",
+        "figurative_meaning": "Someone is unaware of the value or significance of something.",
+        "example": "Usne jab us kitaab ki keemat dekhi to mujhe laga ki woh bandar kya jaane adrak ka.",
+        "language": "Hindi"
+    },
+    {
+        "idiom": "छोटा मुँह बड़ी बात",
+        "literal_meaning": "Small mouth, big talk.",
+        "figurative_meaning": "Talking beyond one's status.",
+        "example": "Uska chhota munh badi baat karna sabko chaukata deta hai.",
+        "language": "Hindi"
+    },
+    {
+        "idiom": "जख्म पर नमक छिड़कना",
+        "literal_meaning": "Sprinkling salt on wounds.",
+        "figurative_meaning": "Adding to someone's pain.",
+        "example": "Usne mere jakhm par namak chhidka jab usne meri asafalta ka mazak udaaya.",
+        "language": "Hindi"
+    },
+    {
+        "idiom": "टक्कर खाना",
+        "literal_meaning": "To take a hit.",
+        "figurative_meaning": "To compete or confront.",
+        "example": "Bazaar mein pratispardha ke chalte humein takkar khana pada.",
+        "language": "Hindi"
+    },
+    {
+        "idiom": "ठिकाने लगाना",
+        "literal_meaning": "To put in place.",
+        "figurative_meaning": "To eliminate someone.",
+        "example": "Usne apne dushmanon ko thikane lagane ki yojana banayi.",
+        "language": "Hindi"
+    },
+    {
+        "idiom": "दिल बाग-बाग होना",
+        "literal_meaning": "Heart blooming like a garden.",
+        "figurative_meaning": "Feeling extremely happy.",
+        "example": "Uski safalta se uska dil bag-bag ho gaya.",
+        "language": "Hindi"
+    },
+      {
+    "idiom": "आसमान सिर पर उठाना",
+    "literal_meaning": "To lift the sky on one's head.",
+    "figurative_meaning": "To create a lot of noise or chaos.",
+    "example": "Bachchon ne ghar mein aasman sir par utha liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नाक कटना",
+    "literal_meaning": "To have one's nose cut off.",
+    "figurative_meaning": "To lose respect or honor.",
+    "example": "Uski harkaton se parivaar ki naak kat gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दाँत खट्टे करना",
+    "literal_meaning": "To make someone's teeth sour.",
+    "figurative_meaning": "To defeat someone badly.",
+    "example": "Police ne choron ke daant khatte kar diye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों में धूल झोंकना",
+    "literal_meaning": "To throw dust into someone's eyes.",
+    "figurative_meaning": "To deceive someone.",
+    "example": "Usne sabki aankhon mein dhool jhonk di.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल पर पत्थर रखना",
+    "literal_meaning": "To place a stone on the heart.",
+    "figurative_meaning": "To control emotions with difficulty.",
+    "example": "Usne dil par patthar rakhkar faisla liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ मलना",
+    "literal_meaning": "To rub hands.",
+    "figurative_meaning": "To regret deeply.",
+    "example": "Mauka chookne par woh haath malta reh gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "खून खौलना",
+    "literal_meaning": "Blood boiling.",
+    "figurative_meaning": "To feel extreme anger.",
+    "example": "Anyaay dekh kar uska khoon khol gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कान खड़े होना",
+    "literal_meaning": "Ears standing up.",
+    "figurative_meaning": "To become alert.",
+    "example": "Awaaz sunte hi uske kaan khade ho gaye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पानी-पानी होना",
+    "literal_meaning": "To become water.",
+    "figurative_meaning": "To feel embarrassed.",
+    "example": "Sabke saamne woh pani-pani ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँख दिखाना",
+    "literal_meaning": "To show eyes.",
+    "figurative_meaning": "To threaten someone.",
+    "example": "Usne mujhe aankh dikhayi.",
+    "language": "Hindi"
+  },
+
+  {
+    "idiom": "बाल-बाल बचना",
+    "literal_meaning": "Saved by a hair.",
+    "figurative_meaning": "To narrowly escape danger.",
+    "example": "Woh accident se baal-baal bach gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नाक में दम करना",
+    "literal_meaning": "To trouble someone's nose.",
+    "figurative_meaning": "To annoy greatly.",
+    "example": "Bachchon ne meri naak mein dum kar diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर पर चढ़ाना",
+    "literal_meaning": "To lift onto the head.",
+    "figurative_meaning": "To spoil someone with too much affection.",
+    "example": "Tumne use sir par chadha rakha hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "रंग में भंग डालना",
+    "literal_meaning": "To spoil color.",
+    "figurative_meaning": "To ruin enjoyment.",
+    "example": "Usne party mein rang mein bhang daal diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आसमान से गिरा खजूर में अटका",
+    "literal_meaning": "Fell from sky, stuck in date tree.",
+    "figurative_meaning": "From bad to worse.",
+    "example": "Naukri chhuti aur woh aur musibat mein phas gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "तेल देखो तेल की धार देखो",
+    "literal_meaning": "Watch oil and its flow.",
+    "figurative_meaning": "Wait and observe carefully.",
+    "example": "Faisla lene se pehle tel ki dhar dekho.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "घर का भेदी लंका ढाए",
+    "literal_meaning": "Insider destroys Lanka.",
+    "figurative_meaning": "An insider can cause downfall.",
+    "example": "Ghar ka bhedi hi sabse bada khatra hota hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "ऊँट के मुँह में जीरा",
+    "literal_meaning": "Cumin in camel's mouth.",
+    "figurative_meaning": "Too little for need.",
+    "example": "Yeh paisa to oont ke muh mein jeera hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नौ दो ग्यारह होना",
+    "literal_meaning": "Nine two eleven.",
+    "figurative_meaning": "To run away quickly.",
+    "example": "Police dekhte hi woh nau do gyarah ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँख का तारा",
+    "literal_meaning": "Star of the eye.",
+    "figurative_meaning": "Very प्रिय person.",
+    "example": "Woh apni maa ka aankh ka tara hai.",
+    "language": "Hindi"
+  },
+
+  {
+    "idiom": "दिल जीत लेना",
+    "literal_meaning": "To win heart.",
+    "figurative_meaning": "To impress deeply.",
+    "example": "Usne sabka dil jeet liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नाक ऊँची करना",
+    "literal_meaning": "To raise nose.",
+    "figurative_meaning": "To make proud.",
+    "example": "Usne desh ki naak unchi kar di.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कलेजा मुँह को आना",
+    "literal_meaning": "Heart comes to mouth.",
+    "figurative_meaning": "To be extremely scared.",
+    "example": "Accident dekh kar mera kaleja muh ko aa gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पैरों तले जमीन खिसकना",
+    "literal_meaning": "Ground slipping under feet.",
+    "figurative_meaning": "To be shocked.",
+    "example": "Khabar sun kar uske pairon tale zameen khisak gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखें खुलना",
+    "literal_meaning": "Eyes opening.",
+    "figurative_meaning": "To realize truth.",
+    "example": "Sach jaan kar meri aankhen khul gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ साफ करना",
+    "literal_meaning": "To clean hands.",
+    "figurative_meaning": "To steal.",
+    "example": "Chor ne paise par haath saaf kar diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँख मूँदना",
+    "literal_meaning": "To close eyes.",
+    "figurative_meaning": "To ignore.",
+    "example": "Galti par aankh moond lena galat hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "साँप सूँघ जाना",
+    "literal_meaning": "Snake smelling.",
+    "figurative_meaning": "To become silent suddenly.",
+    "example": "Teacher ke aate hi sabko saanp soongh gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "धूल चटाना",
+    "literal_meaning": "Make eat dust.",
+    "figurative_meaning": "To defeat badly.",
+    "example": "Team ne opponent ko dhool chata di.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ खड़े करना",
+    "literal_meaning": "Raise hands.",
+    "figurative_meaning": "To give up.",
+    "example": "Usne mushkil dekh kar haath khade kar diye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों का काँटा",
+    "literal_meaning": "Thorn in the eyes.",
+    "figurative_meaning": "A person who is disliked or irritating.",
+    "example": "Woh uska aankhon ka kaanta ban gaya hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "चार चाँद लगना",
+    "literal_meaning": "To add four moons.",
+    "figurative_meaning": "To enhance beauty or value.",
+    "example": "Uski kala ne program mein char chand laga diye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों से गिरना",
+    "literal_meaning": "To fall from eyes.",
+    "figurative_meaning": "To lose respect.",
+    "example": "Uski harkaton se woh sabki aankhon se gir gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पानी सिर से गुजरना",
+    "literal_meaning": "Water crossing the head.",
+    "figurative_meaning": "Situation getting out of control.",
+    "example": "Ab to paani sir se guzar gaya hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मुँह की खाना",
+    "literal_meaning": "To eat one's face.",
+    "figurative_meaning": "To face defeat.",
+    "example": "Usne competition mein muh ki kha li.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आग बबूला होना",
+    "literal_meaning": "To become fire bubble.",
+    "figurative_meaning": "To become extremely angry.",
+    "example": "Woh baat sun kar aag baboola ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "घी के दीये जलाना",
+    "literal_meaning": "To light lamps of ghee.",
+    "figurative_meaning": "To celebrate happily.",
+    "example": "Jeet ki khushi mein logon ne ghee ke diye jalaye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों में बसना",
+    "literal_meaning": "To reside in eyes.",
+    "figurative_meaning": "To be dearly loved.",
+    "example": "Woh apne maa-baap ki aankhon mein basta hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ से निकलना",
+    "literal_meaning": "To slip from hands.",
+    "figurative_meaning": "To lose control.",
+    "example": "Mauka haath se nikal gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पीठ दिखाना",
+    "literal_meaning": "To show one's back.",
+    "figurative_meaning": "To run away.",
+    "example": "Darr ke maare woh peeth dikha kar bhaag gaya.",
+    "language": "Hindi"
+  },
+
+  {
+    "idiom": "पसीना छूटना",
+    "literal_meaning": "Sweat breaking out.",
+    "figurative_meaning": "To become nervous or scared.",
+    "example": "Exam dekh kar mera paseena chhoot gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर चढ़ना",
+    "literal_meaning": "To climb on head.",
+    "figurative_meaning": "To become arrogant.",
+    "example": "Usko zyada pyar dene se woh sir chadh gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नाक में नकेल डालना",
+    "literal_meaning": "To put a ring in nose.",
+    "figurative_meaning": "To control strictly.",
+    "example": "Usne badmashon ki naak mein nakel daal di.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल छोटा करना",
+    "literal_meaning": "To make heart small.",
+    "figurative_meaning": "To lose courage.",
+    "example": "Itni si baat par dil chhota mat karo.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कान भरना",
+    "literal_meaning": "To fill ears.",
+    "figurative_meaning": "To instigate someone.",
+    "example": "Usne boss ke kaan bhar diye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर खपाना",
+    "literal_meaning": "To grind head.",
+    "figurative_meaning": "To think hard.",
+    "example": "Maine is problem par bahut sir khapaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दाल गलना",
+    "literal_meaning": "Lentils getting cooked.",
+    "figurative_meaning": "To succeed in a plan.",
+    "example": "Yahan tumhari daal nahi galne wali.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखें फेर लेना",
+    "literal_meaning": "To turn eyes away.",
+    "figurative_meaning": "To ignore or abandon.",
+    "example": "Mushkil mein sabne aankhen pher li.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ पैर फूलना",
+    "literal_meaning": "Hands and legs swelling.",
+    "figurative_meaning": "To panic.",
+    "example": "Interview se pehle mere haath pair phool gaye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कलेजा ठंडा होना",
+    "literal_meaning": "Heart becoming cool.",
+    "figurative_meaning": "To feel satisfied after revenge.",
+    "example": "Badla lene ke baad uska kaleja thanda hua.",
+    "language": "Hindi"
+  },
+
+  {
+    "idiom": "रातों-रात बदल जाना",
+    "literal_meaning": "To change overnight.",
+    "figurative_meaning": "Sudden change.",
+    "example": "Uski zindagi raaton raat badal gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पाँव जमाना",
+    "literal_meaning": "To fix feet.",
+    "figurative_meaning": "To establish oneself.",
+    "example": "Usne shehar mein apne paav jama liye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मुँह फुलाना",
+    "literal_meaning": "To puff face.",
+    "figurative_meaning": "To sulk.",
+    "example": "Chhoti si baat par muh phula liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "रंग बदलना",
+    "literal_meaning": "To change color.",
+    "figurative_meaning": "To change attitude quickly.",
+    "example": "Woh girgit ki tarah rang badalta hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "खून पसीना एक करना",
+    "literal_meaning": "To mix blood and sweat.",
+    "figurative_meaning": "To work extremely hard.",
+    "example": "Usne safalta ke liye khoon paseena ek kar diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मुँह में पानी आना",
+    "literal_meaning": "Water in mouth.",
+    "figurative_meaning": "To crave food.",
+    "example": "Khane ko dekh kar muh mein pani aa gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों पर पर्दा पड़ना",
+    "literal_meaning": "Curtain over eyes.",
+    "figurative_meaning": "To be unaware of truth.",
+    "example": "Uski aankhon par parda pada hua hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ तंग होना",
+    "literal_meaning": "Hands being tight.",
+    "figurative_meaning": "To be financially weak.",
+    "example": "Aajkal mera haath tang hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिमाग खराब होना",
+    "literal_meaning": "Mind getting spoiled.",
+    "figurative_meaning": "To get irritated.",
+    "example": "Zyada shor se mera dimaag kharab ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जुबान फिसलना",
+    "literal_meaning": "Tongue slipping.",
+    "figurative_meaning": "To say something unintentionally.",
+    "example": "Uski jubaan phisal gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों का पानी उतरना",
+    "literal_meaning": "Water of the eyes falling.",
+    "figurative_meaning": "To lose self-respect.",
+    "example": "Uski harkaton se uski aankhon ka pani utar gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कान पकड़ना",
+    "literal_meaning": "To hold ears.",
+    "figurative_meaning": "To promise not to repeat a mistake.",
+    "example": "Usne galti ke baad kaan pakad liye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल लगाना",
+    "literal_meaning": "To attach heart.",
+    "figurative_meaning": "To become emotionally involved.",
+    "example": "Usne kaam mein dil laga liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पीठ पीछे वार करना",
+    "literal_meaning": "To attack from behind.",
+    "figurative_meaning": "To betray someone.",
+    "example": "Usne dosti mein peeth peeche vaar kiya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखें चार होना",
+    "literal_meaning": "Four eyes meeting.",
+    "figurative_meaning": "To meet face to face.",
+    "example": "Dono ki aankhen chaar ho gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दाल में काला होना",
+    "literal_meaning": "Black in lentils.",
+    "figurative_meaning": "Something suspicious.",
+    "example": "Mujhe lagta hai daal mein kuch kala hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर पर हाथ रखना",
+    "literal_meaning": "To place hand on head.",
+    "figurative_meaning": "To bless or support.",
+    "example": "Guru ne uske sir par haath rakha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों में चमक आना",
+    "literal_meaning": "Spark in eyes.",
+    "figurative_meaning": "To feel excitement.",
+    "example": "Jeet ki khabar sun kar uski aankhon mein chamak aa gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ धोकर पीछे पड़ना",
+    "literal_meaning": "To chase after washing hands.",
+    "figurative_meaning": "To be persistently after someone.",
+    "example": "Woh mere peeche haath dho kar pada hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "माथा ठोकना",
+    "literal_meaning": "To hit forehead.",
+    "figurative_meaning": "To regret or be frustrated.",
+    "example": "Galti samajh kar woh matha thokne laga.",
+    "language": "Hindi"
+  },
+
+  {
+    "idiom": "कान काटना",
+    "literal_meaning": "To cut ears.",
+    "figurative_meaning": "To outsmart someone.",
+    "example": "Woh chalak aadmi sabke kaan kaat leta hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल बहलाना",
+    "literal_meaning": "To entertain the heart.",
+    "figurative_meaning": "To divert attention.",
+    "example": "Bachche apna dil behla rahe hain.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नाक में दम हो जाना",
+    "literal_meaning": "Nose getting troubled.",
+    "figurative_meaning": "To be extremely troubled.",
+    "example": "Uski wajah se sabki naak mein dum ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पसीना पोंछना",
+    "literal_meaning": "To wipe sweat.",
+    "figurative_meaning": "To relax after effort.",
+    "example": "Kaam ke baad woh paseena ponch raha tha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर पकड़ लेना",
+    "literal_meaning": "To hold head.",
+    "figurative_meaning": "To feel stressed.",
+    "example": "Problem dekh kar woh sir pakad kar baith gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ जोड़ना",
+    "literal_meaning": "To join hands.",
+    "figurative_meaning": "To request humbly.",
+    "example": "Usne haath jod kar maafi maangi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल टूटना",
+    "literal_meaning": "Heart breaking.",
+    "figurative_meaning": "To feel emotional pain.",
+    "example": "Uska dil toot gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पैर उखड़ जाना",
+    "literal_meaning": "Feet uprooted.",
+    "figurative_meaning": "To lose stability.",
+    "example": "Mushkil mein uske pair ukhad gaye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "रास्ता निकालना",
+    "literal_meaning": "To find a path.",
+    "figurative_meaning": "To find a solution.",
+    "example": "Hum koi na koi rasta nikaal lenge.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल पर लेना",
+    "literal_meaning": "To take on heart.",
+    "figurative_meaning": "To take something personally.",
+    "example": "Chhoti baat ko dil par mat lo.",
+    "language": "Hindi"
+  },
+
+  {
+    "idiom": "हाथ से जाना",
+    "literal_meaning": "To go from hand.",
+    "figurative_meaning": "To lose something.",
+    "example": "Mauka haath se chala gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखें तरेरना",
+    "literal_meaning": "To widen eyes.",
+    "figurative_meaning": "To show anger.",
+    "example": "Teacher ne aankhen tarer di.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल साफ होना",
+    "literal_meaning": "Heart being clean.",
+    "figurative_meaning": "To be honest.",
+    "example": "Uska dil bahut saaf hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर झुकाना",
+    "literal_meaning": "To bow head.",
+    "figurative_meaning": "To accept defeat.",
+    "example": "Usne haar maan kar sir jhuka liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पैर जमाना मुश्किल होना",
+    "literal_meaning": "Difficult to fix feet.",
+    "figurative_meaning": "Hard to establish oneself.",
+    "example": "Naye shehar mein paav jamana mushkil hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल खुश करना",
+    "literal_meaning": "To make heart happy.",
+    "figurative_meaning": "To please someone.",
+    "example": "Uski baat ne mera dil khush kar diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर दर्द बनना",
+    "literal_meaning": "To become headache.",
+    "figurative_meaning": "To become a problem.",
+    "example": "Yeh kaam ab sir dard ban gaya hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कान में कहना",
+    "literal_meaning": "To say in ear.",
+    "figurative_meaning": "To speak secretly.",
+    "example": "Usne mere kaan mein kuch kaha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल बहक जाना",
+    "literal_meaning": "Heart getting misled.",
+    "figurative_meaning": "To be tempted.",
+    "example": "Uska dil bahak gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ में लेना",
+    "literal_meaning": "To take in hand.",
+    "figurative_meaning": "To take responsibility.",
+    "example": "Usne project apne haath mein le liya.",
+    "language": "Hindi"
+  },
+   {
+    "idiom": "आँखों में बस जाना",
+    "literal_meaning": "To settle in the eyes.",
+    "figurative_meaning": "To be deeply loved or admired.",
+    "example": "Woh bachcha sabki aankhon mein bas gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल में बसाना",
+    "literal_meaning": "To place in the heart.",
+    "figurative_meaning": "To cherish someone deeply.",
+    "example": "Usne use dil mein basa liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पैर भारी होना",
+    "literal_meaning": "Feet becoming heavy.",
+    "figurative_meaning": "To feel reluctant to move.",
+    "example": "Uske pair bhari ho gaye the ghar chhodte waqt.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर पर कफन बाँधना",
+    "literal_meaning": "To tie a shroud on the head.",
+    "figurative_meaning": "To be ready to risk life.",
+    "example": "Sainikon ne sir par kafan baandh liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों का नूर",
+    "literal_meaning": "Light of the eyes.",
+    "figurative_meaning": "Someone very dear.",
+    "example": "Woh apne pita ki aankhon ka noor hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ से फिसलना",
+    "literal_meaning": "To slip from the hand.",
+    "figurative_meaning": "To lose an opportunity.",
+    "example": "Mauka haath se phisal gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल का बोझ हल्का करना",
+    "literal_meaning": "To lighten the heart's burden.",
+    "figurative_meaning": "To express feelings.",
+    "example": "Usne baat karke dil ka bojh halka kiya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नाक रगड़ना",
+    "literal_meaning": "To rub the nose.",
+    "figurative_meaning": "To beg humbly.",
+    "example": "Usne maafi ke liye naak ragdi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पैर पकड़ना",
+    "literal_meaning": "To hold feet.",
+    "figurative_meaning": "To plead sincerely.",
+    "example": "Woh maafi ke liye pair pakadne laga.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल में चुभना",
+    "literal_meaning": "To prick the heart.",
+    "figurative_meaning": "To hurt emotionally.",
+    "example": "Uski baat dil mein chubh gayi.",
+    "language": "Hindi"
+  },
+
+  {
+    "idiom": "हाथ झाड़ लेना",
+    "literal_meaning": "To shake off hands.",
+    "figurative_meaning": "To abandon responsibility.",
+    "example": "Usne kaam se haath jhad liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर पर सवार होना",
+    "literal_meaning": "To ride on the head.",
+    "figurative_meaning": "To dominate or overwhelm.",
+    "example": "Gussa uske sir par sawar ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल में गाँठ पड़ना",
+    "literal_meaning": "Knot in heart.",
+    "figurative_meaning": "To hold grudges.",
+    "example": "Uske dil mein baat ki gaanth pad gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पसीना बहाना",
+    "literal_meaning": "To shed sweat.",
+    "figurative_meaning": "To work hard.",
+    "example": "Usne safalta ke liye paseena bahaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों में खटकना",
+    "literal_meaning": "To prick in eyes.",
+    "figurative_meaning": "To be unpleasant.",
+    "example": "Uska vyavahar sabko aankhon mein khatakta hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल बैठ जाना",
+    "literal_meaning": "Heart sinking.",
+    "figurative_meaning": "To feel hopeless.",
+    "example": "Khabar sun kar mera dil baith gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ बाँधना",
+    "literal_meaning": "To tie hands.",
+    "figurative_meaning": "To be helpless.",
+    "example": "Main majboor tha, mere haath bandhe the.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर उठाना",
+    "literal_meaning": "To raise head.",
+    "figurative_meaning": "To show courage.",
+    "example": "Usne himmat karke sir uthaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल पिघलना",
+    "literal_meaning": "Heart melting.",
+    "figurative_meaning": "To feel compassion.",
+    "example": "Bachche ko dekh kar uska dil pighal gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पैर टिकाना",
+    "literal_meaning": "To fix feet.",
+    "figurative_meaning": "To settle.",
+    "example": "Usne shehar mein pair tika liye.",
+    "language": "Hindi"
+  },
+
+  {
+    "idiom": "आँखों में भर लेना",
+    "literal_meaning": "To fill in eyes.",
+    "figurative_meaning": "To admire deeply.",
+    "example": "Usne nazara aankhon mein bhar liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल में जगह बनाना",
+    "literal_meaning": "To make space in heart.",
+    "figurative_meaning": "To gain affection.",
+    "example": "Usne sabke dil mein jagah bana li.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ खींच लेना",
+    "literal_meaning": "To pull back hands.",
+    "figurative_meaning": "To withdraw support.",
+    "example": "Usne project se haath kheench liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर पर बोझ होना",
+    "literal_meaning": "Load on head.",
+    "figurative_meaning": "To be a burden.",
+    "example": "Yeh zimmedari uske sir par bojh hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल लगाकर काम करना",
+    "literal_meaning": "Work with heart.",
+    "figurative_meaning": "To work sincerely.",
+    "example": "Usne dil lagakar kaam kiya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पैरों में जंजीर होना",
+    "literal_meaning": "Chains in feet.",
+    "figurative_meaning": "To be restricted.",
+    "example": "Uski azadi par jaise pairon mein zanjeer thi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों से ओझल होना",
+    "literal_meaning": "Out of sight.",
+    "figurative_meaning": "To disappear.",
+    "example": "Woh aankhon se ojhal ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल में डर बैठना",
+    "literal_meaning": "Fear settling in heart.",
+    "figurative_meaning": "To become afraid.",
+    "example": "Uske dil mein dar baith gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ ताली बजाना",
+    "literal_meaning": "To clap hands.",
+    "figurative_meaning": "To show approval.",
+    "example": "Logon ne haath tali bajayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर घुमाना",
+    "literal_meaning": "To rotate head.",
+    "figurative_meaning": "To confuse.",
+    "example": "Yeh sawal mera sir ghuma raha hai.",
+    "language": "Hindi"
+  },
+
+  {
+    "idiom": "दिल उछलना",
+    "literal_meaning": "Heart jumping.",
+    "figurative_meaning": "To feel excited.",
+    "example": "Jeet ki khabar se dil uchhal gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पैर पीछे हटाना",
+    "literal_meaning": "To step back.",
+    "figurative_meaning": "To withdraw.",
+    "example": "Woh zimmedari se pair peeche hata gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों में आँसू भरना",
+    "literal_meaning": "Tears filling eyes.",
+    "figurative_meaning": "To feel emotional.",
+    "example": "Uski aankhon mein aansu bhar aaye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल में चिंगारी होना",
+    "literal_meaning": "Spark in heart.",
+    "figurative_meaning": "To have passion.",
+    "example": "Uske dil mein junoon ki chingari hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ फैलाना",
+    "literal_meaning": "To spread hands.",
+    "figurative_meaning": "To beg.",
+    "example": "Woh paison ke liye haath phaila raha tha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर नीचे करना",
+    "literal_meaning": "To lower head.",
+    "figurative_meaning": "To feel ashamed.",
+    "example": "Usne sharm se sir neeche kar liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल में आग लगना",
+    "literal_meaning": "Fire in heart.",
+    "figurative_meaning": "To feel jealousy or anger.",
+    "example": "Uski safalta dekh kar dil mein aag lag gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पैर उखाड़ देना",
+    "literal_meaning": "To uproot feet.",
+    "figurative_meaning": "To defeat completely.",
+    "example": "Team ne opponent ke pair ukhad diye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों में धुंध छा जाना",
+    "literal_meaning": "Fog covering eyes.",
+    "figurative_meaning": "To lose clarity.",
+    "example": "Use kuch samajh nahi aaya, aankhon mein dhund chha gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल बहल जाना",
+    "literal_meaning": "Heart getting entertained.",
+    "figurative_meaning": "To feel relieved.",
+    "example": "Doston ke saath dil behal gaya.",
+    "language": "Hindi"
+  }
+]

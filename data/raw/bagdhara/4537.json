@@ -1,0 +1,41 @@
+{
+  "id": "4537",
+  "idiom": "জলপড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "মন্ত্র পড়া জল",
+  "figurative_meaning_bn": "রোগ, বালাই, ভূত ইত্যাদি দূর করার জন্য মন্ত্রপূত জল",
+  "figurative_meaning_en": "Mantra-infused water used to ward off diseases, calamities, ghosts, and the like",
+  "similar_in_english": [
+    "snake oil",
+    "quack remedy"
+  ],
+  "example_sentences_in_bangla": [
+    "জলপড়া খাওয়ালে রোগ সারে না।",
+    "ওরা শুধু জলপড়া দিয়ে ভূত তাড়ানোর চেষ্টা করছে।"
+  ],
+  "example_sentences_in_english": [
+    "Feeding jalpodra won't cure the disease.",
+    "They are just trying to exorcise the ghost with jalpodra."
+  ],
+  "usage_domain": [
+    "health",
+    "superstition",
+    "folk medicine"
+  ],
+  "tags": [
+    "remedy",
+    "mantra",
+    "exorcism",
+    "ineffective cure"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Rooted in traditional Bengali tantric and folk healing practices involving incantations over water."
+  ],
+  "note": "Often used to highlight the futility of superstitious remedies in modern contexts."
+}

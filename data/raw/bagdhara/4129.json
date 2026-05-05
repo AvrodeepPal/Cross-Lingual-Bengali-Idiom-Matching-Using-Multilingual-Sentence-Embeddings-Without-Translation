@@ -1,0 +1,40 @@
+{
+  "id": "4129",
+  "idiom": "চোখের জলে নাকের জলে",
+  "alternative_idioms": [],
+  "literal_meaning": "চোখের জল এবং নাকের জলে (অশ্রু এবং নাক দিয়ে পড়া জল মিশ্রিত অবস্থা)",
+  "figurative_meaning_bn": "বিপর্যস্ত অবস্থা; ভোগান্তির একশেষ",
+  "figurative_meaning_en": "A state of extreme distress; unending suffering",
+  "similar_in_english": [
+    "bawling one's eyes out",
+    "in a sorry state",
+    "tears and snot (informal)"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় খারাপ ফল পেয়ে ছেলেটি চোখের জলে নাকের জলে পড়ে রইল।",
+    "দুর্ভিক্ষের সময় গ্রামের লোকেরা চোখের জলে নাকের জলে দিন কাটাতো।"
+  ],
+  "example_sentences_in_english": [
+    "After getting poor exam results, the boy was in tears and snot.",
+    "During the famine, the villagers spent their days in a state of tears and snot."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily life",
+    "suffering"
+  ],
+  "tags": [
+    "distress",
+    "crying",
+    "misery",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures the physical messiness of intense emotional distress in Bengali culture."
+}

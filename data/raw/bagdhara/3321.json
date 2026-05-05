@@ -1,0 +1,38 @@
+{
+  "id": "3321",
+  "idiom": "গোড়া কেটে আগায় জল",
+  "alternative_idioms": [],
+  "literal_meaning": "গোড়া কেটে আগায় জল দেওয়া (root cutting and tip watering)",
+  "figurative_meaning_bn": "আগে নষ্ট করে পরে ভালো করার চেষ্টা",
+  "figurative_meaning_en": "Attempting to fix or improve something after first ruining or damaging it",
+  "similar_in_english": [
+    "closing the stable door after the horse has bolted",
+    "too little, too late"
+  ],
+  "example_sentences_in_bangla": [
+    "সে গোড়া কেটে আগায় জল দিয়ে প্রকল্পটি বাঁচাতে চায়, কিন্তু এখন আর কোনো লাভ নেই।",
+    "ব্যবসায়িক সিদ্ধান্তে গোড়া কেটে আগায় জল দেওয়ার মতো ভুল করবেন না।"
+  ],
+  "example_sentences_in_english": [
+    "He's trying to save the project by cutting the roots and watering the tips, but it's too late now.",
+    "Don't make the mistake in business decisions of ruining it first and then trying to fix it afterward."
+  ],
+  "usage_domain": [
+    "daily life",
+    "business",
+    "agriculture"
+  ],
+  "tags": [
+    "futility",
+    "warning",
+    "poor judgment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from agricultural imagery, emphasizing the folly of undermining foundations before attempting growth."
+}

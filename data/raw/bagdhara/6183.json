@@ -1,0 +1,40 @@
+{
+  "id": "6183",
+  "idiom": "অন্ধের নড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ধের লাঠি বা বেড়",
+  "figurative_meaning_bn": "অবলম্বন; আশ্রয়; নির্ভর",
+  "figurative_meaning_en": "support; refuge; dependence",
+  "similar_in_english": [
+    "crutch to lean on",
+    "staff of life"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ভাইয়ের উপর অন্ধের নড়ির মতো নির্ভর করে।",
+    "এই চাকরিটি তার জন্য অন্ধের নড়ি।"
+  ],
+  "example_sentences_in_english": [
+    "He relies on his brother like a blind man on his staff.",
+    "This job is his staff of support."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "relationships",
+    "dependence"
+  ],
+  "tags": [
+    "support",
+    "reliance",
+    "metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the everyday imagery of a blind person using a staff for navigation, symbolizing essential support in Bengali folklore and proverbs."
+  ],
+  "note": "The idiom draws from universal human experiences but is deeply embedded in Bengali oral traditions."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1134",
+  "idiom": "একান্তপক্ষে",
+  "alternative_idioms": [],
+  "literal_meaning": "একান্তভাবে এক পক্ষে (absolutely on one side)",
+  "figurative_meaning_bn": "নিতান্তই যদি",
+  "figurative_meaning_en": "only if absolutely necessary",
+  "similar_in_english": [
+    "if need be",
+    "only if you must"
+  ],
+  "example_sentences_in_bangla": [
+    "একান্তপক্ষে যাওয়া দরকার হলে আমাকে জানিও।",
+    "একান্তপক্ষে এই কাজটি করতে হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "If you absolutely have to go, let me know.",
+    "You don't need to do this unless it's absolutely necessary."
+  ],
+  "usage_domain": [
+    "conversational",
+    "conditional advice"
+  ],
+  "tags": [
+    "necessity",
+    "reluctance",
+    "conditional"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom expresses a sense of last resort or extreme condition in Bengali speech."
+}

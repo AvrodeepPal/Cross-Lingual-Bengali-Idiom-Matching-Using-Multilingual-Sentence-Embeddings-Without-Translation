@@ -1,0 +1,39 @@
+{
+  "id": "4466",
+  "idiom": "জড়িপটি খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "জড়িয়ে যাওয়া লতাপাতা বা জড় খাওয়া",
+  "figurative_meaning_bn": "চলতে চলতে পা জড়িয়ে যাওয়া",
+  "figurative_meaning_en": "To stumble or trip while walking, with feet getting entangled",
+  "similar_in_english": [
+    "Trip over one's own feet",
+    "Stumble and fall"
+  ],
+  "example_sentences_in_bangla": [
+    "রাস্তায় হাঁটতে গিয়ে সে জড়িপটি খেয়ে পড়ে গেল।",
+    "দৌড়াতে গিয়ে তার পা জড়িপটি খেল, তাই সে ধাক্কা খেল।"
+  ],
+  "example_sentences_in_english": [
+    "While walking on the road, he tripped over his feet and fell.",
+    "While running, his feet got entangled, causing him to stumble."
+  ],
+  "usage_domain": [
+    "daily life",
+    "physical actions",
+    "clumsiness"
+  ],
+  "tags": [
+    "stumbling",
+    "accident",
+    "entanglement",
+    "movement"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from imagery of rural paths overgrown with tangled vines, evoking everyday mishaps in natural settings."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "10242",
+  "idiom": "হাতের পুতুল",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতের পুতুল (hand's doll or puppet)",
+  "figurative_meaning_bn": "যাকে দিয়ে ইচ্ছা মতো কাজ করানো যায়",
+  "figurative_meaning_en": "Someone who can be manipulated or controlled to do one's bidding",
+  "similar_in_english": [
+    "Puppet on a string",
+    "Yes-man"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার স্ত্রীর হাতের পুতুল হয়ে গেছে।",
+    "রাজনীতিতে অনেক নেতা দলীয় প্রধানের হাতের পুতুল।"
+  ],
+  "example_sentences_in_english": [
+    "He has become a puppet in his wife's hands.",
+    "In politics, many leaders are puppets of the party chief."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Personal Relationships",
+    "Manipulation"
+  ],
+  "tags": [
+    "Control",
+    "Dependency",
+    "Subordination"
+  ],
+  "frequency": "Common",
+  "sentiment": "Negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "In the colonial era (পরাধীন আমল), many political leaders were puppets in the hands of British rulers (ইংরাজ শাসক)."
+  ],
+  "note": "This idiom often carries connotations of loss of autonomy in power dynamics."
+}

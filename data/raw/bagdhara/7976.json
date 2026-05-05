@@ -1,0 +1,44 @@
+{
+  "id": "7976",
+  "idiom": "ভস্মে ঘি ঢালা",
+  "alternative_idioms": [
+    "অরণে রোদন",
+    "ফুটোপাত্রে জল ঢালা",
+    "শুকনো কাঠে ব্রহ্মশাপ",
+    "শুকনো গাছে জলসেচন"
+  ],
+  "literal_meaning": "ভস্মে (অংশগারে) ঘি (ঘৃত) ঢালা (ঢালা)",
+  "figurative_meaning_bn": "অপাত্রে দান, নিরর্থক চেষ্টা, নিষ্ফল প্রচেষ্টা",
+  "figurative_meaning_en": "Giving to an unworthy recipient, futile effort, fruitless endeavor",
+  "similar_in_english": [
+    "casting pearls before swine",
+    "pouring water into a sieve",
+    "beating a dead horse"
+  ],
+  "example_sentences_in_bangla": [
+    "তাকে বোঝানোর চেষ্টা করা ভস্মে ঘি ঢালার মতো নিরর্থক।",
+    "এই প্রকল্পে অর্থ বিনিয়োগ করা ভস্মে ঘি ঢালা হবে।"
+  ],
+  "example_sentences_in_english": [
+    "Trying to convince him is like pouring ghee on ashes—completely futile.",
+    "Investing money in this project would be like pouring ghee on ashes."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "advice",
+    "literature"
+  ],
+  "tags": [
+    "futility",
+    "waste",
+    "unworthy effort"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from everyday rural imagery of waste in traditional Bengali life."
+}

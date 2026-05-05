@@ -1,0 +1,42 @@
+{
+  "id": "5697",
+  "idiom": "দলবল",
+  "alternative_idioms": [
+    "সাঙ্গপাঙ্গ"
+  ],
+  "literal_meaning": "দলের বল বা শক্তি (group's strength or force)",
+  "figurative_meaning_bn": "অনুবর্তীগণ, স্বপক্ষীয় লোকজন",
+  "figurative_meaning_en": "followers, supporters, or one's own allies",
+  "similar_in_english": [
+    "entourage",
+    "posse",
+    "henchmen"
+  ],
+  "example_sentences_in_bangla": [
+    "নেতা তার দলবল নিয়ে সভায় উপস্থিত হলেন।",
+    "সে দলবল ছাড়া কোনো সিদ্ধান্ত নেয় না।"
+  ],
+  "example_sentences_in_english": [
+    "The leader arrived at the meeting with his entourage.",
+    "He doesn't make any decisions without his posse."
+  ],
+  "usage_domain": [
+    "politics",
+    "social interactions",
+    "everyday conversation"
+  ],
+  "tags": [
+    "followers",
+    "supporters",
+    "group",
+    "allies"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to collective support in social or political contexts, common in Bengali colloquial usage."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3222",
+  "idiom": "গুজগুজে",
+  "alternative_idioms": [
+    "গুজগুজিয়া"
+  ],
+  "literal_meaning": "মুখে মুখে অস্পষ্টভাবে কথা বলা বা গুঞ্জন করা (mumbling or whispering indistinctly)",
+  "figurative_meaning_bn": "যার পেটের কথা স্পষ্ট পাওয়া যায় না; যে মনের কথা স্পষ্ট করে প্রকাশ করে না",
+  "figurative_meaning_en": "One whose inner thoughts or feelings are not clearly discernible; who does not express their mind openly and clearly",
+  "similar_in_english": [
+    "beat around the bush",
+    "keep one's cards close to the chest"
+  ],
+  "example_sentences_in_bangla": [
+    "সে গুজগুজে স্বভাবের, কখনো তার মনের কথা স্পষ্ট করে বলে না।",
+    "এই গুজগুজে লোকের সাথে কথা বলা কঠিন, কিছুই বোঝা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He has a mumbling nature and never expresses his true thoughts clearly.",
+    "It's hard to converse with this reticent person; nothing is ever clear."
+  ],
+  "usage_domain": [
+    "personality description",
+    "communication"
+  ],
+  "tags": [
+    "personality trait",
+    "indirect expression",
+    "synonym: ভিদভিদে"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a personality trait of vagueness in speech and thought, common in everyday Bengali discourse."
+}

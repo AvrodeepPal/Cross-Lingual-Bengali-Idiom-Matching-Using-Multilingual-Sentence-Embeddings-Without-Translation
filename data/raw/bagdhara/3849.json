@@ -1,0 +1,40 @@
+{
+  "id": "3849",
+  "idiom": "চারডবল",
+  "alternative_idioms": [],
+  "literal_meaning": "চার (four) + ডবল (double)",
+  "figurative_meaning_bn": "চারগুণ; হিসাবের অনেক বেশি",
+  "figurative_meaning_en": "four times; much more than expected or calculated",
+  "similar_in_english": [
+    "fourfold",
+    "quadruple",
+    "many times over"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার চারডবল বয়স আমার।",
+    "এই কাজের খরচ হিসাবের চারডবল হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "My age is four times yours.",
+    "The cost of this work turned out to be four times the estimated amount."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "quantitative comparison",
+    "exaggeration"
+  ],
+  "tags": [
+    "quantity",
+    "multiplication",
+    "surprise",
+    "calculation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a colloquial way to express multiplication by four, often used in informal speech to emphasize excess."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "4804",
+  "idiom": "ঝাঁ ঝাঁ",
+  "alternative_idioms": [],
+  "literal_meaning": "তীব্র আলো বা তাপের অনুকরণমূলক শব্দ (ঝাঁ শব্দের পুনরাবৃত্তি)",
+  "figurative_meaning_bn": "তীব্রতার ভাব",
+  "figurative_meaning_en": "Sense of intensity or fierceness",
+  "similar_in_english": [
+    "blazing hot",
+    "scorching sun"
+  ],
+  "example_sentences_in_bangla": [
+    "রোদটা ঝাঁ ঝাঁ করছে।",
+    "গরমটা ঝাঁ ঝাঁ করে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The sun is shining fiercely.",
+    "The heat is intense and blistering."
+  ],
+  "usage_domain": [
+    "weather",
+    "daily life"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "intensity",
+    "heat",
+    "brightness"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used to describe extreme heat or brightness in everyday Bengali speech."
+}

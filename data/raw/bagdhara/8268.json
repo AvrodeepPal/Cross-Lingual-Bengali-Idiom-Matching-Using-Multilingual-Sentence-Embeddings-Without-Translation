@@ -1,0 +1,44 @@
+{
+  "id": "8268",
+  "idiom": "মন বসা",
+  "alternative_idioms": [
+    "মন লাগা"
+  ],
+  "literal_meaning": "মনের বসা বা স্থির হওয়া (mind sitting or settling)",
+  "figurative_meaning_bn": "চিত্তস্থির হওয়া; নিবিষ্ট হওয়া, ভালো লাগা, মনযোগ দেওয়া",
+  "figurative_meaning_en": "To become mentally settled or focused; to take interest in or pay attention to something",
+  "similar_in_english": [
+    "take to something",
+    "get into something",
+    "be absorbed in"
+  ],
+  "example_sentences_in_bangla": [
+    "এই নতুন কাজে আমার মন বসেছে।",
+    "পড়াশোনায় মন বসে না যখন ক্লান্ত লাগে।"
+  ],
+  "example_sentences_in_english": [
+    "I've taken a liking to this new job.",
+    "I can't focus on studies when I'm tired."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "education",
+    "work",
+    "personal interests"
+  ],
+  "tags": [
+    "mind",
+    "focus",
+    "interest",
+    "attention",
+    "emotion"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the Bengali cultural emphasis on mental engagement and emotional attachment in everyday activities."
+}

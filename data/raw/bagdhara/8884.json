@@ -1,0 +1,39 @@
+{
+  "id": "8884",
+  "idiom": "মেয়াদ মেরে যাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "মেয়াদ (সময়সীমা) মেরে (আঘাত করে) যাওয়া",
+  "figurative_meaning_bn": "অকর্মণ্য বা উৎসাহহীন হয়ে পড়া",
+  "figurative_meaning_en": "To become indolent or lose one's enthusiasm",
+  "similar_in_english": [
+    "To go stale",
+    "To lose steam",
+    "To burn out"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রকল্পে কাজ করতে গিয়ে সে মেয়াদ মেরে যাওয়া শুরু করেছে।",
+    "উঠো-বসোর কাজে মেয়াদ মেরে যাওয়া তার স্বভাব হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He started to lose his enthusiasm while working on the project.",
+    "Becoming indolent in routine tasks has become his habit."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work",
+    "motivation"
+  ],
+  "tags": [
+    "laziness",
+    "demotivation",
+    "ineffectiveness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the concept of something exceeding its term or deadline, leading to ineffectiveness, common in colloquial Bengali."
+}

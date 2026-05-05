@@ -1,0 +1,40 @@
+{
+  "id": "7802",
+  "idiom": "বুড়োভাম",
+  "alternative_idioms": [],
+  "literal_meaning": "বুড়ো ভাম (বয়স্ক চাচা বা কাকা)",
+  "figurative_meaning_bn": "ধান্ধাবাজ",
+  "figurative_meaning_en": "cunning or sly person",
+  "similar_in_english": [
+    "sly fox",
+    "old fox"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা বুড়োভাম, সবসময় চালাকির ফন্দি করে।",
+    "গাঁয়ের লোকে তাকে বুড়োভাম বলে ডাকে কারণ তার কথায় বিশ্বাস করা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real sly fox, always plotting clever tricks.",
+    "The villagers call him an old fox because you can't trust his words."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "folklore",
+    "literature"
+  ],
+  "tags": [
+    "cunning",
+    "deceit",
+    "folk expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Derived from a traditional Bengali laghu geeti (short folk song) where the phrase 'লোকে বলে আমি বুড়ো ভাম' is used to describe a crafty character."
+  ],
+  "note": "The idiom draws from Bengali oral traditions and folk songs, emphasizing rural trickster archetypes."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2871",
+  "idiom": "গড়াগড়ি দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "to roll around or tumble repeatedly",
+  "figurative_meaning_bn": "এপাশ ওপাশ করা",
+  "figurative_meaning_en": "to toss and turn restlessly",
+  "similar_in_english": [
+    "toss and turn"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘুম আসছে না, বিছানায় গড়াগড়ি দিচ্ছি।",
+    "চিন্তায় ভরা মনে রাত কাটাচ্ছি গড়াগড়ি দিয়ে।"
+  ],
+  "example_sentences_in_english": [
+    "I can't sleep; I'm tossing and turning in bed.",
+    "I'm spending the night rolling around in worry."
+  ],
+  "usage_domain": [
+    "sleep",
+    "restlessness",
+    "emotions"
+  ],
+  "tags": [
+    "idiom",
+    "figurative",
+    "daily life",
+    "insomnia"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used to describe physical discomfort from sleeplessness in everyday Bengali speech."
+}

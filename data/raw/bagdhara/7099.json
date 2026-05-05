@@ -1,0 +1,41 @@
+{
+  "id": "7099",
+  "idiom": "ফাঁকিতে পড়া",
+  "alternative_idioms": [
+    "ফাঁকে পড়া"
+  ],
+  "literal_meaning": "কোনো ফাঁক বা ছিদ্রে পড়ে যাওয়া বা প্রতারণার ফাঁদে পড়া",
+  "figurative_meaning_bn": "প্রবঞ্চিত হওয়া; প্রাপ্য বিষয়ে বঞ্চিত হওয়া",
+  "figurative_meaning_en": "To be deceived or cheated; to be deprived of one's rightful share",
+  "similar_in_english": [
+    "To fall through the cracks",
+    "To be left out in the cold",
+    "To be shortchanged"
+  ],
+  "example_sentences_in_bangla": [
+    "সম্পত্তি বণ্টনে আমি ফাঁকিতে পড়েছি।",
+    "চাকরির সুযোগে সে ফাঁকিতে পড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "I was left out during the property division.",
+    "He was cheated out of the job opportunity."
+  ],
+  "usage_domain": [
+    "family disputes",
+    "inheritance",
+    "deception"
+  ],
+  "tags": [
+    "প্রতারণা",
+    "বঞ্চনা",
+    "অধিকারহরণ"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often appears in contexts of unfair dealings in everyday Bengali life."
+}

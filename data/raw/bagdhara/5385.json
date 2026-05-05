@@ -1,0 +1,42 @@
+{
+  "id": "5385",
+  "idiom": "তারকাটা",
+  "alternative_idioms": [
+    "মটকা খালি",
+    "স্ক্রু ঢিলা"
+  ],
+  "literal_meaning": "তারকা কাটা (যেন মাথায় তারকা কেটে যাওয়া বা তারকার মতো ছিন্নভিন্ন)",
+  "figurative_meaning_bn": "বুদ্ধিহীন, মাথার গোলমাল",
+  "figurative_meaning_en": "Lacking intelligence, mental confusion or muddled thinking",
+  "similar_in_english": [
+    "Has a screw loose",
+    "Not playing with a full deck",
+    "A few fries short of a happy meal"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তারকাটা লোক, কখনো কোনো সিদ্ধান্ত নিতে পারে না।",
+    "এই তারকাটা ছেলের কথা শুনে মাথা ঘুরে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He's a dimwit; he can never make a proper decision.",
+    "Listening to that confused guy's talk makes my head spin."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Describing personality flaws"
+  ],
+  "tags": [
+    "foolishness",
+    "confusion",
+    "informal",
+    "derogatory"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes imagery of mental disarray, possibly from the idea of stars 'cutting' or bursting in one's vision due to confusion."
+}

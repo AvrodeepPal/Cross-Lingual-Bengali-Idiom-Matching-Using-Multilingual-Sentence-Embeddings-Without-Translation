@@ -1,0 +1,41 @@
+{
+  "id": "5967",
+  "idiom": "দোটানায় পড়া",
+  "alternative_idioms": [
+    "দোনোমনো করা"
+  ],
+  "literal_meaning": "দুটি টান বা আকর্ষণের মধ্যে পড়ে যাওয়া",
+  "figurative_meaning_bn": "কি করতে হবে, কোন দিকে যেতে হবে বুঝতে না পারা; দ্বিধা; পরস্পর বিপরীতধর্মী দুইপক্ষ, দিক বা বস্তুর প্রতি সমান আকর্ষণ",
+  "figurative_meaning_en": "Unable to decide what to do or which way to go; hesitation; equal attraction to two opposing sides, directions, or things",
+  "similar_in_english": [
+    "On the horns of a dilemma",
+    "Torn between two choices",
+    "Between a rock and a hard place"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দুই বন্ধুর মধ্যে দোটানায় পড়েছে।",
+    "চাকরির প্রস্তাব নিয়ে আমি দোনোমনো করছি।"
+  ],
+  "example_sentences_in_english": [
+    "He is caught in a dilemma between two friends.",
+    "I am hesitating over the job offer."
+  ],
+  "usage_domain": [
+    "decision making",
+    "emotions",
+    "relationships"
+  ],
+  "tags": [
+    "dilemma",
+    "indecision",
+    "hesitation"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali expressions of internal conflict, common in literature and conversation."
+}

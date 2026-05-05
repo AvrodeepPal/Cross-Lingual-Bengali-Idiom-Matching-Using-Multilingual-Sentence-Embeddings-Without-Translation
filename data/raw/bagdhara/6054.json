@@ -1,0 +1,41 @@
+{
+  "id": "6054",
+  "idiom": "ধানদূর্বা দিয়ে পূজা করা",
+  "alternative_idioms": [],
+  "literal_meaning": "ধান এবং দূর্বা ঘাস দিয়ে পূজা করা",
+  "figurative_meaning_bn": "বিদ্রুপে সম্মান/সমীহ করা",
+  "figurative_meaning_en": "sarcastically honoring or showing mock respect",
+  "similar_in_english": [
+    "putting someone on a pedestal (sarcastically)",
+    "worshipping the unworthy"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই অযোগ্য লোকটিকে ধানদূর্বা দিয়ে পূজা করতে হবে নাকি?",
+    "তার প্রতি ধানদূর্বা দিয়ে পূজা করার মতো সম্মান দেখানো হাস্যকর।"
+  ],
+  "example_sentences_in_english": [
+    "Do we have to honor that unworthy person with rice and Durva grass?",
+    "Showing him respect like worshipping with rice and Durva grass is ridiculous."
+  ],
+  "usage_domain": [
+    "conversational",
+    "literary",
+    "sarcasm"
+  ],
+  "tags": [
+    "irony",
+    "mockery",
+    "respect",
+    "Hindu ritual"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from Hindu worship practices where Durva grass (a sacred grass) and rice are offered to deities like Ganesha, contrasting divine reverence with ironic human disrespect."
+  ],
+  "note": "The idiom highlights cultural irony in Bengali expressions rooted in religious rituals."
+}

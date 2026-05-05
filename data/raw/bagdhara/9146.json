@@ -1,0 +1,37 @@
+{
+  "id": "9146",
+  "idiom": "রাস্তা বন্ধ",
+  "alternative_idioms": [],
+  "literal_meaning": "The road is closed",
+  "figurative_meaning_bn": "কোনো উপায় না থাকা",
+  "figurative_meaning_en": "No means or way left",
+  "similar_in_english": [
+    "Dead end",
+    "No way out"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার ব্যবসায়ের সব রাস্তা বন্ধ হয়ে গেছে।",
+    "জীবনের এই পরিস্থিতিতে তার কোনো রাস্তা বন্ধ নয় বললেই চলে।"
+  ],
+  "example_sentences_in_english": [
+    "All roads in my business are closed now.",
+    "In this situation of life, it's as if all his paths are blocked."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Personal crisis"
+  ],
+  "tags": [
+    "Despair",
+    "Obstacle",
+    "Hopelessness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom metaphorically uses the blocking of physical roads to express lack of opportunities, common in everyday Bengali discourse."
+}

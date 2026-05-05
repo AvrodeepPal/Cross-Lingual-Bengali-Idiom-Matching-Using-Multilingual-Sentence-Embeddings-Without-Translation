@@ -1,0 +1,38 @@
+{
+  "id": "1844",
+  "idiom": "কাগজে কলমে",
+  "alternative_idioms": [],
+  "literal_meaning": "কাগজে কলম দিয়ে",
+  "figurative_meaning_bn": "লিখিতভাবে, মুখে মুখে নয়া থাকা",
+  "figurative_meaning_en": "In writing, not merely verbal",
+  "similar_in_english": [
+    "In black and white",
+    "Put it in writing"
+  ],
+  "example_sentences_in_bangla": [
+    "চুক্তিটি কাগজে কলমে করে নেওয়া উচিত।",
+    "মৌখিক কথা নয়, কাগজে কলমে লিখে দাও।"
+  ],
+  "example_sentences_in_english": [
+    "The agreement should be put in writing.",
+    "Don't just say it verbally; write it down on paper."
+  ],
+  "usage_domain": [
+    "legal",
+    "business",
+    "formal agreements"
+  ],
+  "tags": [
+    "writing",
+    "documentation",
+    "formality"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Emphasizes the importance of written records in Bengali formal interactions to avoid disputes."
+}

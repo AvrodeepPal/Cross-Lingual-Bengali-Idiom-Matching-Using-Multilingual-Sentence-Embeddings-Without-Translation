@@ -1,0 +1,43 @@
+{
+  "id": "1027",
+  "idiom": "একতালে",
+  "alternative_idioms": [],
+  "literal_meaning": "এক তালে (একই ছন্দ বা লয়ে)",
+  "figurative_meaning_bn": "একভাবে; টানা; সমানভাবে",
+  "figurative_meaning_en": "in the same manner; continuously; uniformly",
+  "similar_in_english": [
+    "in step",
+    "to the same beat",
+    "in unison"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা সবাই একতালে নাচছে।",
+    "জীবনের এই পর্যায়ে সবকিছু একতালে চলছে।"
+  ],
+  "example_sentences_in_english": [
+    "They are all dancing in unison.",
+    "Everything is proceeding uniformly in this phase of life."
+  ],
+  "usage_domain": [
+    "music",
+    "dance",
+    "coordination",
+    "daily life"
+  ],
+  "tags": [
+    "unity",
+    "rhythm",
+    "continuity",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from Bengali musical and dance traditions where 'tala' refers to rhythmic cycles, implying synchronized movement."
+  ],
+  "note": "Often used in contexts of harmony or steady progression, rooted in performing arts."
+}

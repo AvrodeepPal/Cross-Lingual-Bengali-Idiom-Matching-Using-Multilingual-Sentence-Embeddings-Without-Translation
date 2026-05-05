@@ -1,0 +1,40 @@
+{
+  "id": "2271",
+  "idiom": "কুলকলঙ্ক",
+  "alternative_idioms": [
+    "কলঙ্কিনী"
+  ],
+  "literal_meaning": "কুল (বংশ/পরিবার) + কলঙ্ক (কলুষ/দাগ/অপমান)",
+  "figurative_meaning_bn": "বংশের গ্লানি বা অগৌরব; বংশের সম্মানহানিকারী পুরুষ বা নারী; কুলত্যাগিনী নারী",
+  "figurative_meaning_en": "Disgrace or dishonor to the family lineage; A man or woman who brings shame to the family; A woman who forsakes her clan",
+  "similar_in_english": [
+    "Black sheep of the family",
+    "Family disgrace"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার পরিবারের কুলকলঙ্ক হয়ে উঠেছে তার অসৎ কাজের জন্য।",
+    "গ্রামে সবাই তাকে কলঙ্কিনী বলে অভিহিত করে।"
+  ],
+  "example_sentences_in_english": [
+    "He has become the black sheep of his family due to his dishonest actions.",
+    "Everyone in the village calls her a family disgrace."
+  ],
+  "usage_domain": [
+    "Family and society",
+    "Literature and folklore"
+  ],
+  "tags": [
+    "পরিবারের অপমান",
+    "সম্মানহানি",
+    "বংশকলঙ্ক",
+    "নারী-পুরুষ সম্পর্কিত"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলা সংস্কৃতিতে পরিবারের সম্মান ও ঐতিহ্যের গুরুত্বকে তুলে ধরে।"
+}

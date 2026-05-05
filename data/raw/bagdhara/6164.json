@@ -1,0 +1,41 @@
+{
+  "id": "6164",
+  "idiom": "নজর দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "দৃষ্টি দেওয়া বা চোখ ফেলা",
+  "figurative_meaning_bn": "অশুভ কুদৃষ্টি বা ঈর্ষালু দৃষ্টি",
+  "figurative_meaning_en": "To cast an evil eye or envious gaze",
+  "similar_in_english": [
+    "Give the evil eye",
+    "Cast a jealous glance"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই নতুন গাড়ির উপর তার প্রতিবেশী নজর দিয়েছে।",
+    "বাচ্চাটির সুন্দর মুখের দিকে দেখন্তি নজর দিল।"
+  ],
+  "example_sentences_in_english": [
+    "His neighbor cast an envious eye on the new car.",
+    "The aunt gave an evil eye to the child's beautiful face."
+  ],
+  "usage_domain": [
+    "Superstition",
+    "Envy",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "evil eye",
+    "jealousy",
+    "superstition",
+    "gaze"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom derives from the widespread belief in the 'evil eye' (nazar) influenced by Arabic and Islamic traditions in Bengali culture, where an envious glance is thought to bring misfortune."
+  ],
+  "note": "Often used to ward off bad luck with protective charms like black dots or taweez in Bengali households."
+}

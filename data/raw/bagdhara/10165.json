@@ -1,0 +1,38 @@
+{
+  "id": "10165",
+  "idiom": "হাত-পা গজানো",
+  "alternative_idioms": [
+    "হাত-পা বের হওয়া"
+  ],
+  "literal_meaning": "হাত এবং পা গজানো বা বের হওয়া (hands and feet sprouting or emerging)",
+  "figurative_meaning_bn": "যথেষ্ট পরিমাণে অতিরঞ্জিত হওয়া",
+  "figurative_meaning_en": "Exaggerating something excessively, making a trivial matter seem significant",
+  "similar_in_english": [
+    "making a mountain out of a molehill"
+  ],
+  "example_sentences_in_bangla": [
+    "সামান্য একটা ঘটনায় সে হাত-পা গজিয়ে উঠলো।",
+    "এটা হাত-পা বের করে বলার মতো নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He exaggerated a small incident by making it seem huge.",
+    "There's no need to blow this out of proportion."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "storytelling"
+  ],
+  "tags": [
+    "exaggeration",
+    "colloquialism",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly illustrates the Bengali tendency to use body-part imagery for emphasis in everyday speech."
+}

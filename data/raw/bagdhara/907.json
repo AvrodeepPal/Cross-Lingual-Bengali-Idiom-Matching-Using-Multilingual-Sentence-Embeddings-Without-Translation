@@ -1,0 +1,41 @@
+{
+  "id": "907",
+  "idiom": "এওতা",
+  "alternative_idioms": [
+    "আজেবাজে",
+    "আবোলতাবোল"
+  ],
+  "literal_meaning": "এ (this) ও (and) তা (that)",
+  "figurative_meaning_bn": "অপ্রাসঙ্গিক কথা; নানা বিষয় বা প্রসঙ্গ; যা তা ব্যাপার",
+  "figurative_meaning_en": "Irrelevant or miscellaneous talk; various topics or matters; this and that",
+  "similar_in_english": [
+    "this and that",
+    "odds and ends",
+    "beating around the bush"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এওতা বলে সময় নষ্ট করছে।",
+    "বিষয়টা নিয়ে সোজা কথা না বলে এওতা করে যাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is wasting time talking about this and that.",
+    "Instead of speaking directly about the matter, he is rambling on about this and that."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "everyday speech"
+  ],
+  "tags": [
+    "irrelevant talk",
+    "miscellaneous",
+    "rambling"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom captures the essence of casual, unfocused chatter common in Bengali oral traditions."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3463",
+  "idiom": "ঘরের কুমির",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘরের কুমির (house's crocodile)",
+  "figurative_meaning_bn": "ঘরশত্রু",
+  "figurative_meaning_en": "enemy within the home",
+  "similar_in_english": [
+    "snake in the grass",
+    "fifth columnist",
+    "Trojan horse"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ঘরের কুমির, সবাইকে ধোঁকা দিয়েছে।",
+    "ঘরের কুমিরকে চিনতে না পারলে বড় ক্ষতি হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a crocodile in the house, betraying everyone around him.",
+    "Failing to recognize the crocodile in the house can lead to great harm."
+  ],
+  "usage_domain": [
+    "betrayal",
+    "family",
+    "politics"
+  ],
+  "tags": [
+    "negative",
+    "deception",
+    "internal threat"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom metaphorically warns against hidden dangers from trusted insiders, drawing on the image of a crocodile lurking in familiar surroundings."
+}

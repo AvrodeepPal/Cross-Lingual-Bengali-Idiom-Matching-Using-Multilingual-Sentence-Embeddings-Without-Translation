@@ -1,0 +1,40 @@
+{
+  "id": "2335",
+  "idiom": "কেউ-না-কেউ",
+  "alternative_idioms": [
+    "কেউবা"
+  ],
+  "literal_meaning": "কেউ বা না কেউ (someone or no one)",
+  "figurative_meaning_bn": "অনির্দিষ্ট কোন একজন, এ বা সে",
+  "figurative_meaning_en": "Some unspecified person, this one or that one",
+  "similar_in_english": [
+    "Someone or other",
+    "Somebody",
+    "One or the other"
+  ],
+  "example_sentences_in_bangla": [
+    "কেউ না কেউ এই কাজটা করে দেবে।",
+    "পার্টিতে কেউ-না-কেউ উপস্থিত থাকবে।"
+  ],
+  "example_sentences_in_english": [
+    "Someone or other will do this job.",
+    "Somebody will be present at the party."
+  ],
+  "usage_domain": [
+    "conversational",
+    "everyday language"
+  ],
+  "tags": [
+    "indefinite pronoun",
+    "informal",
+    "general usage"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a standard indefinite expression in colloquial Bengali, emphasizing vagueness in reference to persons."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1297",
+  "idiom": "কইয়ের তেলে কই ভাজা",
+  "alternative_idioms": [],
+  "literal_meaning": "কই মাছের তেলে কই মাছ ভাজা",
+  "figurative_meaning_bn": "কোনো কাজের লাভ থেকে সেই কাজ চালানো",
+  "figurative_meaning_en": "Sustaining an activity using the proceeds or output from that very activity itself",
+  "similar_in_english": [
+    "Bootstrapping",
+    "Living hand to mouth",
+    "Robbing Peter to pay Paul"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ছোট দোকানটা কইয়ের তেলে কই ভাজা হয়ে চলছে, কোনো বাইরের সাহায্য নেই।",
+    "এই প্রকল্পটি তার নিজের আয় থেকেই চালানো হচ্ছে, একেবারে কইয়ের তেলে কই ভাজা।"
+  ],
+  "example_sentences_in_english": [
+    "His small shop is running like frying koi in its own oil, without any external help.",
+    "This project is being sustained entirely from its own revenue, just like frying koi in koi oil."
+  ],
+  "usage_domain": [
+    "Business",
+    "Finance",
+    "Everyday life"
+  ],
+  "tags": [
+    "Self-sustenance",
+    "Economy",
+    "Resource management"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from everyday Bengali rural life involving fishing and cooking with local fish like koi, emphasizing resource scarcity and self-reliance."
+}

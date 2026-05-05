@@ -1,0 +1,38 @@
+{
+  "id": "4802",
+  "idiom": "ঝাঁ ঝাঁ",
+  "alternative_idioms": [],
+  "literal_meaning": "ঝাঁ শব্দের পুনরাবৃত্তি (দ্রুততার অনুকরণমূলক শব্দ)",
+  "figurative_meaning_bn": "অতিদ্রুত্তার ভাব",
+  "figurative_meaning_en": "In a very quick or hasty manner",
+  "similar_in_english": [
+    "In a flash",
+    "In the blink of an eye",
+    "At the drop of a hat"
+  ],
+  "example_sentences_in_bangla": [
+    "ঝাঁ ঝাঁ করে কাজটা সারিয়ে ফেললাম।",
+    "সে ঝাঁ ঝাঁ করে চলে গেল ঘর থেকে।"
+  ],
+  "example_sentences_in_english": [
+    "I finished the work in a jiffy.",
+    "She left the room in a flash."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Actions and speed"
+  ],
+  "tags": [
+    "Speed",
+    "Quickness",
+    "Onomatopoeia"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in colloquial Bengali to denote rapidity."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3227",
+  "idiom": "গুটিসুটি",
+  "alternative_idioms": [
+    "গুড়িশুড়ি",
+    "জড়সড়"
+  ],
+  "literal_meaning": "হাত-পা গুটিয়ে সঙ্কুচিত হয়ে থাকা",
+  "figurative_meaning_bn": "সঙ্কুচিত, হাত পা গুটিয়ে থাকা",
+  "figurative_meaning_en": "Shrinking or curling up, withdrawing into oneself",
+  "similar_in_english": [
+    "Curl up into a ball",
+    "Shrink back"
+  ],
+  "example_sentences_in_bangla": [
+    "সে লজ্জায় গুটিসুটি করে কোণে বসে আছে।",
+    "ঠান্ডায় সবাই গুটিসুটি মেরে শুয়ে পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "She is curled up in the corner out of shyness.",
+    "Everyone is huddled up sleeping due to the cold."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Describing emotions"
+  ],
+  "tags": [
+    "shyness",
+    "withdrawal",
+    "fear",
+    "posture"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression mimicking the action of folding or shrinking"
+}

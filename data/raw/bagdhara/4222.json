@@ -1,0 +1,38 @@
+{
+  "id": "4222",
+  "idiom": "ছড়ছড়",
+  "alternative_idioms": [],
+  "literal_meaning": "বেগে বৃষ্টি পড়ার শব্দবোধক দ্বিত্বশব্দ",
+  "figurative_meaning_bn": "বেগে বৃষ্টি পড়ার শব্দবোধক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "An onomatopoeic reduplicated word denoting the sound of rain falling rapidly",
+  "similar_in_english": [
+    "pitter-patter"
+  ],
+  "example_sentences_in_bangla": [
+    "ছড়ছড় করে বৃষ্টি পড়তে শুরু করল।",
+    "জানালার কাছে দাঁড়িয়ে ছড়ছড় শব্দ শুনছিলাম।"
+  ],
+  "example_sentences_in_english": [
+    "The rain started falling with a chhadchhad sound.",
+    "I stood by the window listening to the chhadchhad of the rain."
+  ],
+  "usage_domain": [
+    "weather description",
+    "literature",
+    "daily conversation"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "rain",
+    "sound",
+    "monsoon"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Primarily used in descriptive contexts to mimic the sound of heavy rain, common in Bengali poetry and prose depicting monsoons."
+}

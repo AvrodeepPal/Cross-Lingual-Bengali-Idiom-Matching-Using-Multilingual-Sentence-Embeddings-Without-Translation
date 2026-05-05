@@ -1,0 +1,41 @@
+{
+  "id": "3378",
+  "idiom": "গোল্লায় যাওয়া",
+  "alternative_idioms": [
+    "রসাতলে যাওয়া"
+  ],
+  "literal_meaning": "গোল্লা (ভান্ডার বা ধ্বংসস্থান) এ যাওয়া",
+  "figurative_meaning_bn": "অধঃপাতে যাওয়া; নষ্ট হওয়া",
+  "figurative_meaning_en": "To go to ruin; to be destroyed or perish",
+  "similar_in_english": [
+    "Go to hell",
+    "Go down the drain",
+    "Go to the dogs"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সব পরিকল্পনা গোল্লায় চলে গেছে।",
+    "এই বৃষ্টিতে ফসল গোল্লায় যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "All his plans have gone to ruin.",
+    "The crops will be destroyed in this rain."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Business and finance",
+    "Personal setbacks"
+  ],
+  "tags": [
+    "destruction",
+    "failure",
+    "negative outcome"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from colloquial imagery of a 'godown' or storage as a place of neglect leading to decay, common in Bengali vernacular."
+}

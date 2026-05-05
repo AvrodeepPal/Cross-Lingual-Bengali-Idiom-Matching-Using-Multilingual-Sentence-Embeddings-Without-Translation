@@ -1,0 +1,44 @@
+{
+  "id": "10200",
+  "idiom": "হাতুড়ে",
+  "alternative_idioms": [
+    "হাতুড়ে বদ্যি"
+  ],
+  "literal_meaning": "হাতুড়ি (hammer)",
+  "figurative_meaning_bn": "অনভিজ্ঞ, অশিক্ষিত, আনাড়ি",
+  "figurative_meaning_en": "inexperienced, uneducated, unskilled",
+  "similar_in_english": [
+    "quack",
+    "amateur",
+    "jack of all trades"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন হাতুড়ে ডাক্তার, রোগীদের জীবন বিপন্ন করে।",
+    "এই হাতুড়ে কারিগরের কাজ দেখলে হাসি পায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a quack doctor who endangers patients' lives.",
+    "The work of this unskilled craftsman is laughable."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "professional incompetence",
+    "everyday criticism"
+  ],
+  "tags": [
+    "unskilled",
+    "inexperienced",
+    "amateur",
+    "derogatory"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to crude, hammer-wielding practitioners in rural settings, evoking traditional village healers without formal training."
+  ],
+  "note": "Commonly extended to 'হাতুড়ে বদ্যি' implying a fake or incompetent physician."
+}

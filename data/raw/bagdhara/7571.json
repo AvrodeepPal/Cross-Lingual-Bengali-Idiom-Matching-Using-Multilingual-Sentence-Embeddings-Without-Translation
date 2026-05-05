@@ -1,0 +1,38 @@
+{
+  "id": "7571",
+  "idiom": "বাপকেলে",
+  "alternative_idioms": [],
+  "literal_meaning": "বাপের কালের (father's era/time)",
+  "figurative_meaning_bn": "পৈত্রিক; পিতার আমলের",
+  "figurative_meaning_en": "Ancestral; from the father's era",
+  "similar_in_english": [
+    "ancestral property",
+    "paternal inheritance"
+  ],
+  "example_sentences_in_bangla": [
+    "এই জমিটি আমাদের বাপকেলে সম্পত্তি।",
+    "বাপকেলে রীতি এখনও চলে আসছে।"
+  ],
+  "example_sentences_in_english": [
+    "This land is our ancestral property.",
+    "The paternal tradition is still being followed."
+  ],
+  "usage_domain": [
+    "inheritance",
+    "family",
+    "property"
+  ],
+  "tags": [
+    "পৈত্রিক",
+    "সম্পত্তি",
+    "পিতৃসম্পত্তি"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to inherited assets or traditions from the paternal line, common in Bengali familial contexts."
+}

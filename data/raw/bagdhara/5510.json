@@ -1,0 +1,40 @@
+{
+  "id": "5510",
+  "idiom": "তেলে ভাজা",
+  "alternative_idioms": [],
+  "literal_meaning": "তেলে ভাজা (oil-এ fried)",
+  "figurative_meaning_bn": "রোদে পুড়ে তামাটে বর্ণ",
+  "figurative_meaning_en": "Sunburnt to a tawny or tanned complexion from prolonged exposure to the sun",
+  "similar_in_english": [
+    "sun-kissed",
+    "weather-beaten",
+    "tanned like leather"
+  ],
+  "example_sentences_in_bangla": [
+    "সারাদিন খেতে কাজ করায় তার মুখ তেলে ভাজা হয়ে গেছে।",
+    "গ্রামের শ্রমিকদের চেহারা প্রায় সবাই তেলে ভাজা।"
+  ],
+  "example_sentences_in_english": [
+    "Working in the fields all day has left his face sunburnt to a tawny hue.",
+    "The laborers in the village all have that tanned, sun-baked complexion."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "description of appearance",
+    "rural life"
+  ],
+  "tags": [
+    "sun exposure",
+    "physical labor",
+    "complexion",
+    "agrarian"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom reflects the harsh outdoor working conditions in traditional Bengali agrarian society."
+}

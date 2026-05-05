@@ -1,0 +1,37 @@
+{
+  "id": "6403",
+  "idiom": "না হয়",
+  "alternative_idioms": [],
+  "literal_meaning": "না (no) + হয় (happens/becomes)",
+  "figurative_meaning_bn": "নতুবা",
+  "figurative_meaning_en": "otherwise",
+  "similar_in_english": [
+    "or else",
+    "if not"
+  ],
+  "example_sentences_in_bangla": [
+    "এটা কর না হয় ওটা করো।",
+    "যদি না যাও না হয় বাড়িতে থাকো।"
+  ],
+  "example_sentences_in_english": [
+    "Do this, otherwise do that.",
+    "If you don't go, otherwise stay at home."
+  ],
+  "usage_domain": [
+    "conversation",
+    "decision-making"
+  ],
+  "tags": [
+    "conjunction",
+    "alternative",
+    "conditional"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in phrases like 'হয় কর না হয় মর' meaning 'do or die'"
+}

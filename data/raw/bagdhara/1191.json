@@ -1,0 +1,38 @@
+{
+  "id": "1191",
+  "idiom": "এদিক ওদিক করা",
+  "alternative_idioms": [],
+  "literal_meaning": "এদিকে-ওদিকে কাজ করা বা ফিরে তাকানো (to act or look towards this side and that side)",
+  "figurative_meaning_bn": "পক্ষপাতিত্ব করা",
+  "figurative_meaning_en": "To show partiality or bias",
+  "similar_in_english": [
+    "Play favorites",
+    "Take sides"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরীক্ষায় এদিক ওদিক করে ছাত্রদের মধ্যে পক্ষপাত দেখায়।",
+    "পরিবারের ব্যাপারে মা সবসময় এদিক ওদিক করে।"
+  ],
+  "example_sentences_in_english": [
+    "He shows partiality by playing favorites among the students during exams.",
+    "In family matters, the mother always plays both sides."
+  ],
+  "usage_domain": [
+    "social",
+    "family",
+    "politics"
+  ],
+  "tags": [
+    "পক্ষপাত",
+    "bias",
+    "favoritism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday biases in decision-making within Bengali social contexts."
+}

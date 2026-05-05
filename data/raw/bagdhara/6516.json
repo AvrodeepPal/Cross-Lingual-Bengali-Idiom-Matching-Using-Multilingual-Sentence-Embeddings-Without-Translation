@@ -1,0 +1,38 @@
+{
+  "id": "6516",
+  "idiom": "পকেটে হাত পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পকেটে হাত পড়ে যাওয়া",
+  "figurative_meaning_bn": "স্বার্থে আঘাত পড়া",
+  "figurative_meaning_en": "To suffer a blow to one's interests or finances",
+  "similar_in_english": [
+    "Hit where it hurts",
+    "Hit in the pocketbook"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারের দাম বাড়ায় তার পকেটে হাত পড়ল।",
+    "চাকরি হারানোর পর তার স্বার্থে আঘাত পড়ল, অর্থাৎ পকেটে হাত পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "The rising prices hit him in the pocket.",
+    "Losing his job struck a blow to his interests, hitting him where it hurts financially."
+  ],
+  "usage_domain": [
+    "finance",
+    "business",
+    "personal loss"
+  ],
+  "tags": [
+    "financial harm",
+    "self-interest",
+    "damage"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday economic concerns in Bengali-speaking regions."
+}

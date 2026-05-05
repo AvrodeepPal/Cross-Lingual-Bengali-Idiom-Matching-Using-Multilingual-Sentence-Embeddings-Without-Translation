@@ -1,0 +1,39 @@
+{
+  "id": "8903",
+  "idiom": "যত নষ্টের গোড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "সকল ধ্বংস বা অনিষ্টের মূল বা গোড়াপত্তন",
+  "figurative_meaning_bn": "সব অনাসৃষ্টি বা অনিষ্টের কারণ; বিষম অনিষ্টকারী",
+  "figurative_meaning_en": "The root cause of all mischief or harm; a severe troublemaker",
+  "similar_in_english": [
+    "The root of all evil",
+    "Source of all trouble"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই লোকটি গ্রামের যত নষ্টের গোড়া, তার জন্য সবাই কষ্ট পায়।",
+    "এই রাজনীতি যত নষ্টের গোড়া হয়ে দাঁড়িয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "That man is the root of all mischief in the village, causing everyone suffering.",
+    "This politics has become the root of all evil."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "social criticism",
+    "everyday conversation"
+  ],
+  "tags": [
+    "negative",
+    "mischief",
+    "troublemaker",
+    "folksy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali expressions for attributing blame to a primary source of problems."
+}

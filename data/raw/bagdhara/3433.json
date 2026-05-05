@@ -1,0 +1,41 @@
+{
+  "id": "3433",
+  "idiom": "ঘরবাড়ি",
+  "alternative_idioms": [
+    "সংসার"
+  ],
+  "literal_meaning": "ঘর এবং বাড়ি",
+  "figurative_meaning_bn": "আসবাবপত্রসহ বাড়ি; গৃহস্থালী; বাসস্থান; সংসারের কাজকর্ম",
+  "figurative_meaning_en": "A house including furniture; household; residence; household affairs",
+  "similar_in_english": [
+    "home and hearth",
+    "family life"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ঘরবাড়ি খুব পরিচ্ছন্ন এবং সুন্দর।",
+    "সংসার চালানোর জন্য অনেক পরিশ্রম লাগে।"
+  ],
+  "example_sentences_in_english": [
+    "His home is very clean and beautiful.",
+    "Running a household requires a lot of effort."
+  ],
+  "usage_domain": [
+    "family",
+    "daily life",
+    "household management"
+  ],
+  "tags": [
+    "home",
+    "family",
+    "residence",
+    "domestic life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This phrase reflects everyday Bengali domestic life without specific historical or religious ties."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "8336",
+  "idiom": "মন্দভাগ্য",
+  "alternative_idioms": [],
+  "literal_meaning": "মন্দ (bad) + ভাগ্য (fate)",
+  "figurative_meaning_bn": "দুর্ভাগ্য",
+  "figurative_meaning_en": "misfortune",
+  "similar_in_english": [
+    "bad luck",
+    "ill fortune"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মন্দভাগ্যের জন্য চাকরিটা হারিয়ে গেল।",
+    "মন্দভাগ্যে আজ বৃষ্টি হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Due to his misfortune, he lost the job.",
+    "Unfortunately, it rained today because of bad luck."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature"
+  ],
+  "tags": [
+    "fate",
+    "misfortune",
+    "luck"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the Bengali cultural emphasis on fate and destiny."
+}

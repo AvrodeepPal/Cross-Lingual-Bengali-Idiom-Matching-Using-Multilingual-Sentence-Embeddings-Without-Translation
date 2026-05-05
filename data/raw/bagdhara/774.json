@@ -1,0 +1,41 @@
+{
+  "id": "774",
+  "idiom": "উঠি-কি-পড়ি",
+  "alternative_idioms": [
+    "উঠি-তো-পড়ি"
+  ],
+  "literal_meaning": "উঠতে না উঠতেই পড়ে যাওয়া (উঠা এবং তৎক্ষণাৎ পড়া)",
+  "figurative_meaning_bn": "অতিদ্রুত; ঊর্ধ্বশ্বাসে; ত্রস্তব্যস্ত; ব্যস্তসমস্ত",
+  "figurative_meaning_en": "Very quickly; breathlessly; in a flurry; in a great hurry",
+  "similar_in_english": [
+    "in a jiffy",
+    "helter-skelter",
+    "posthaste"
+  ],
+  "example_sentences_in_bangla": [
+    "উঠি-কি-পড়ি করে সে দোকানে ছুটল।",
+    "খবর পেয়ে উঠি-কি-পড়ি আমরা সবাই উঠে পড়লাম।"
+  ],
+  "example_sentences_in_english": [
+    "He rushed to the shop in a great hurry.",
+    "Upon hearing the news, we all jumped up in a flurry."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "situations of urgency"
+  ],
+  "tags": [
+    "haste",
+    "hurry",
+    "speed",
+    "flurry"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variants reflect dialectical differences in Bengali spoken forms."
+}

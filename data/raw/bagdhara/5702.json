@@ -1,0 +1,38 @@
+{
+  "id": "5702",
+  "idiom": "দলিল-দস্তাবেজ",
+  "alternative_idioms": [],
+  "literal_meaning": "দলিল (legal deed) - দস্তাবেজ (documents)",
+  "figurative_meaning_bn": "লিখিত প্রমাণস্বরূপ কাগজপত্র",
+  "figurative_meaning_en": "Written documents serving as proof",
+  "similar_in_english": [
+    "deeds and documents",
+    "legal paperwork"
+  ],
+  "example_sentences_in_bangla": [
+    "সম্পত্তির মালিকানা প্রমাণ করতে দলিল-দস্তাবেজ জমা দিতে হবে।",
+    "আদালতে মামলা করতে দলিল-দস্তাবেজের প্রয়োজন।"
+  ],
+  "example_sentences_in_english": [
+    "Deeds and documents must be submitted to prove ownership of the property.",
+    "Legal proceedings require deeds and documents."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Property",
+    "Formal"
+  ],
+  "tags": [
+    "official",
+    "proof",
+    "evidence"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in property and inheritance contexts in Bengali society"
+}

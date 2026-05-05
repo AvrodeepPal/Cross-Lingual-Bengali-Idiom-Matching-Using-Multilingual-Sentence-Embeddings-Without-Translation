@@ -1,0 +1,39 @@
+{
+  "id": "10084",
+  "idiom": "হাত ওঠানো",
+  "alternative_idioms": [
+    "হাত গুটানো"
+  ],
+  "literal_meaning": "হাত তোলা বা উত্তোলন করা",
+  "figurative_meaning_bn": "নিরস্ত হওয়া",
+  "figurative_meaning_en": "to be defeated or to give up",
+  "similar_in_english": [
+    "throw in the towel",
+    "wave the white flag"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় বারবার ব্যর্থ হওয়ার পর তার হাত ওঠানো হয়েছে।",
+    "ব্যবসায় লোকসান হতে থাকায় কোম্পানির হাত ওঠানো হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "After repeated failures in the exam, he threw in the towel.",
+    "The company waved the white flag as losses continued in business."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "competition and effort"
+  ],
+  "tags": [
+    "surrender",
+    "defeat",
+    "giving up"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom metaphorically refers to raising hands in surrender, similar to gestures of defeat in various cultures."
+}

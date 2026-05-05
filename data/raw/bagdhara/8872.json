@@ -1,0 +1,38 @@
+{
+  "id": "8872",
+  "idiom": "মোটেই না",
+  "alternative_idioms": [],
+  "literal_meaning": "মোটে + এই + না (absolutely + not)",
+  "figurative_meaning_bn": "আদৌ না, একেবারেই সত্য নয়",
+  "figurative_meaning_en": "Not at all, absolutely not true",
+  "similar_in_english": [
+    "Not at all",
+    "By no means",
+    "Far from it"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি মোটেই না খুশি এই সিদ্ধান্ত নিয়ে।",
+    "এটা মোটেই না আমার দোষ।"
+  ],
+  "example_sentences_in_english": [
+    "I am not at all happy with this decision.",
+    "This is not at all my fault."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Denial and negation"
+  ],
+  "tags": [
+    "negation",
+    "emphasis",
+    "denial"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Common emphatic negation in spoken Bengali"
+}

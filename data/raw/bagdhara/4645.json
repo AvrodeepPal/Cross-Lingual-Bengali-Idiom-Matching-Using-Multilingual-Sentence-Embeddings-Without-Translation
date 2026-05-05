@@ -1,0 +1,39 @@
+{
+  "id": "4645",
+  "idiom": "জালিয়াত",
+  "alternative_idioms": [],
+  "literal_meaning": "জাল (নকল বা জালিয়াতি) করার ব্যক্তি",
+  "figurative_meaning_bn": "অন্যের অবিকল নকলকারী",
+  "figurative_meaning_en": "A person who makes exact copies or imitations of others' work",
+  "similar_in_english": [
+    "copycat",
+    "plagiarist"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন জালিয়াত, তার লেখায় অন্যের কথা অবিকল নকল করে।",
+    "এই শিল্পীকে জালিয়াত বলা যায়, কারণ সে বিখ্যাত চিত্রকরদের স্টাইল কপি করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a copycat; he plagiarizes others' words exactly in his writing.",
+    "This artist can be called a plagiarist because he copies the styles of famous painters."
+  ],
+  "usage_domain": [
+    "literature",
+    "art",
+    "daily conversation"
+  ],
+  "tags": [
+    "imitation",
+    "copying",
+    "forgery",
+    "negative"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to forgery or exact imitation, common in contexts of intellectual property in Bengali culture."
+}

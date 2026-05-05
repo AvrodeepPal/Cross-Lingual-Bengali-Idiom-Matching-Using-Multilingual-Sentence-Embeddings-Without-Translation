@@ -1,0 +1,39 @@
+{
+  "id": "6816",
+  "idiom": "পানীয়",
+  "alternative_idioms": [],
+  "literal_meaning": "পান করার উপযোগী পদার্থ (beverage or drinkable substance)",
+  "figurative_meaning_bn": "অ্যালকোহলমুক্ত চা, কফি ইত্যাদি কোমল পানীয় এবং অ্যালকোহলযুক্ত মদ, বিয়ার ইত্যাদি উত্তেজক পানীয়",
+  "figurative_meaning_en": "Non-alcoholic soft beverages like tea, coffee, etc., and alcoholic stimulating drinks like wine, beer, etc.",
+  "similar_in_english": [
+    "soft drink vs. hard liquor",
+    "soft or hard?"
+  ],
+  "example_sentences_in_bangla": [
+    "পার্টিতে কী খাবেন, নরম পানীয় না গরম?",
+    "তিনি সাধারণত নরম পানীয় পছন্দ করেন, গরম এড়িয়ে চলেন।"
+  ],
+  "example_sentences_in_english": [
+    "At the party, what will you have, soft drink or hard?",
+    "He usually prefers soft drinks and avoids hard ones."
+  ],
+  "usage_domain": [
+    "social gatherings",
+    "beverages",
+    "daily conversation"
+  ],
+  "tags": [
+    "drinks",
+    "alcohol",
+    "non-alcoholic",
+    "choice"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term often implies a distinction between non-alcoholic and alcoholic beverages in casual Bengali speech, akin to 'soft vs. hard' in English."
+}

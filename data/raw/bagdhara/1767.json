@@ -1,0 +1,34 @@
+{
+  "id": "1767",
+  "idiom": "কাঁচা রাস্তা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁচা (অপাকা বা কাঁচা অবস্থার) রাস্তা",
+  "figurative_meaning_bn": "মাটির রাস্তা, বাঁধানো নয় এমন রাস্তা",
+  "figurative_meaning_en": "Dirt road, a road that is not paved",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "গ্রামের দিকে যাওয়ার জন্য কাঁচা রাস্তা দিয়ে হাঁটতে হয়েছে।",
+    "বর্ষায় কাঁচা রাস্তা পিচ্ছিল হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "To go towards the village, we had to walk on an unpaved road.",
+    "Unpaved roads become slippery during the rainy season."
+  ],
+  "usage_domain": [
+    "travel",
+    "rural infrastructure"
+  ],
+  "tags": [
+    "রাস্তা",
+    "গ্রামীণ",
+    "অপাকা"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This expression is more literal than figurative, commonly used to describe rural pathways in Bengali contexts."
+}

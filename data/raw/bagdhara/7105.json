@@ -1,0 +1,42 @@
+{
+  "id": "7105",
+  "idiom": "ফাঁড়া কেটে যাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ফাঁড়া (ফাঁদ বা ফাঁস) কেটে (ছেড়ে) যাওয়া",
+  "figurative_meaning_bn": "প্রাণসঙ্কট বা বিপদমুহূর্ত কেটে যাওয়া",
+  "figurative_meaning_en": "Escaping a life-threatening danger or crisis passing by",
+  "similar_in_english": [
+    "Dodging a bullet",
+    "A close call",
+    "Out of the frying pan into the fire (in reverse sense)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দুর্ঘটনায় ফাঁড়া কেটে যাওয়ার মতোই বেঁচে গেছে।",
+    "যুদ্ধের সময় অনেক সৈনিক ফাঁড়া কেটে ফিরে এসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He survived the accident as if the noose had been cut. ",
+    "Many soldiers returned from the war having narrowly escaped death."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Danger and relief contexts"
+  ],
+  "tags": [
+    "danger",
+    "escape",
+    "crisis",
+    "relief"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the imagery of a noose or trap used in hunting or execution being severed, symbolizing narrow escape from peril in traditional Bengali rural life."
+  ],
+  "note": "Commonly used to express relief after averting disaster."
+}

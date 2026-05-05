@@ -1,0 +1,40 @@
+{
+  "id": "10017",
+  "idiom": "হায় কপাল",
+  "alternative_idioms": [
+    "হা কপাল"
+  ],
+  "literal_meaning": "হায় (দুঃখের আহ্বান) কপাল (কপাল বা ভাগ্যের প্রতীক)",
+  "figurative_meaning_bn": "মন্দভাগ্যের প্রতি ইঙ্গিত",
+  "figurative_meaning_en": "Indication of misfortune or bad luck",
+  "similar_in_english": [
+    "Alas, my fate!",
+    "Woe is me!"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় খারাপ ফল পেয়ে সে হায় কপাল বলে উঠল।",
+    "চাকরি হারিয়ে সে হায় কপাল করে বসল।"
+  ],
+  "example_sentences_in_english": [
+    "After getting poor exam results, he exclaimed 'Hay kopal!'",
+    "Losing his job, he sat lamenting 'Alas, my fate!'"
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "expressions of disappointment"
+  ],
+  "tags": [
+    "misfortune",
+    "exclamation",
+    "fate",
+    "sorrow"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is an exclamatory expression commonly used in Bengali to convey despair over unlucky circumstances."
+}

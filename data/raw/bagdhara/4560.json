@@ -1,0 +1,41 @@
+{
+  "id": "4560",
+  "idiom": "জলাঞ্জলি দেওয়া",
+  "alternative_idioms": [
+    "জলে দেওয়া"
+  ],
+  "literal_meaning": "শ্রাদ্ধকর্মে মৃত আত্মার জন্য জল অর্পণ করা",
+  "figurative_meaning_bn": "অনর্থক ব্যয়; অর্থের অপচয়",
+  "figurative_meaning_en": "wasteful expenditure; squandering of money",
+  "similar_in_english": [
+    "pour money down the drain",
+    "throw money away"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার সঞ্চিত টাকা একটা ব্যর্থ প্রকল্পে জলাঞ্জলি দিয়েছে।",
+    "এই অপ্রয়োজনীয় কেনাকাটায় জলাঞ্জলি দেওয়ার কোনো মানে হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "He squandered his savings on a failed project.",
+    "There's no point in wasting money on unnecessary shopping."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily conversation"
+  ],
+  "tags": [
+    "wastefulness",
+    "money",
+    "ritual"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom originates from the Hindu ritual of 'jalanjoli', where water is offered to the deceased during shraddha ceremonies, symbolizing an act that benefits no one alive."
+  ],
+  "note": "The idiom emphasizes futility, drawing from cultural funeral practices."
+}

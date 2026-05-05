@@ -1,0 +1,40 @@
+{
+  "id": "8327",
+  "idiom": "মন্ত্রশিষ্য",
+  "alternative_idioms": [],
+  "literal_meaning": "মন্ত্রের শিষ্য (mantra's disciple)",
+  "figurative_meaning_bn": "একান্ত অনুগামী ব্যক্তি",
+  "figurative_meaning_en": "A staunch or blindly obedient follower",
+  "similar_in_english": [
+    "yes-man",
+    "blind follower"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার নেতার মন্ত্রশিষ্যের মতো যা বলা হয় তাই করে।",
+    "পার্টির মন্ত্রশিষ্যরা কখনো প্রশ্ন তোলে না।"
+  ],
+  "example_sentences_in_english": [
+    "He acts like a yes-man to his leader, doing whatever he's told.",
+    "The party's blind followers never question the decisions."
+  ],
+  "usage_domain": [
+    "politics",
+    "personal relationships",
+    "leadership"
+  ],
+  "tags": [
+    "loyalty",
+    "obedience",
+    "devotion"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from the guru-shishya tradition in Indian spirituality, where a disciple follows the guru's mantra without question, adapted in Bengali to denote unquestioning loyalty."
+  ],
+  "note": "Often used in contexts implying excessive or unquestioning adherence."
+}

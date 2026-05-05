@@ -1,0 +1,40 @@
+{
+  "id": "1292",
+  "idiom": "ক খ",
+  "alternative_idioms": [
+    "অ আ ক খ"
+  ],
+  "literal_meaning": "বাংলা বর্ণমালার প্রথম অক্ষরসমূহ (প্রথম দুটি বর্ণ)",
+  "figurative_meaning_bn": "প্রাথমিক জ্ঞান",
+  "figurative_meaning_en": "Basic or elementary knowledge",
+  "similar_in_english": [
+    "The ABCs of something",
+    "Know the ropes"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি সঙ্গীতের ক খ জানি না।",
+    "তুমি ব্যবসার ক খ শিখে নাও।"
+  ],
+  "example_sentences_in_english": [
+    "I don't know the ABCs of music.",
+    "Learn the basics of business first."
+  ],
+  "usage_domain": [
+    "Education",
+    "Everyday conversation",
+    "Learning and skills"
+  ],
+  "tags": [
+    "beginner",
+    "fundamentals",
+    "alphabet-based"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the traditional Bengali alphabet learning process, emphasizing foundational education."
+}

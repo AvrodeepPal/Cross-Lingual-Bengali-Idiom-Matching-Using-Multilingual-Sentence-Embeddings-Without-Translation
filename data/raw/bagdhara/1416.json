@@ -1,0 +1,39 @@
+{
+  "id": "1416",
+  "idiom": "কথা কাটা",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা কাটা (শব্দ বা কথায় বাধা দেওয়া বা ছেড়ে দেওয়া)",
+  "figurative_meaning_bn": "অগ্রাহ্য করা; এড়ানোর চেষ্টায় প্রত্যুত্তর করা; প্রতিবাদ করা; বিতর্ক উত্থাপন করা; যুক্তি খণ্ডন করা",
+  "figurative_meaning_en": "To ignore; to respond in an attempt to avoid; to protest; to raise a debate; to refute an argument",
+  "similar_in_english": [
+    "cut someone off",
+    "talk back",
+    "interrupt"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় সে সবার কথা কাটতে লাগল।",
+    "বাচ্চাটা মায়ের কথা কাটে না।"
+  ],
+  "example_sentences_in_english": [
+    "He started cutting everyone off during the meeting.",
+    "The child doesn't talk back to his mother."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "debates",
+    "family interactions"
+  ],
+  "tags": [
+    "interruption",
+    "contradiction",
+    "argument"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday conversational dynamics in Bengali culture, often implying rudeness or assertiveness."
+}

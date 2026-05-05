@@ -1,0 +1,37 @@
+{
+  "id": "1868",
+  "idiom": "কাজ দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কাজ প্রদান করা (work to give)",
+  "figurative_meaning_bn": "কাজে নিযুক্ত করা",
+  "figurative_meaning_en": "To assign or give someone a job or task",
+  "similar_in_english": [
+    "Put to work",
+    "Give someone a job"
+  ],
+  "example_sentences_in_bangla": [
+    "কোম্পানিটি নতুন কর্মীকে কাজ দিয়েছে।",
+    "পিতা তার ছেলেকে একটি ভালো কাজ দেওয়ার ব্যবস্থা করেছেন।"
+  ],
+  "example_sentences_in_english": [
+    "The company has given a job to the new employee.",
+    "The father has arranged a good job for his son."
+  ],
+  "usage_domain": [
+    "Employment",
+    "Daily life"
+  ],
+  "tags": [
+    "কর্মসংস্থান",
+    "দৈনন্দিন",
+    "পেশা"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in contexts of employment and task assignment in Bengali-speaking regions."
+}

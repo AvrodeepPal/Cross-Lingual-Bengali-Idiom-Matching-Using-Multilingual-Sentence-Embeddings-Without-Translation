@@ -1,0 +1,39 @@
+{
+  "id": "5851",
+  "idiom": "দু’কাঠি বাজানো",
+  "alternative_idioms": [],
+  "literal_meaning": "দুটি কাঠি একসঙ্গে বাজানো বা আঘাত করা",
+  "figurative_meaning_bn": "দুপক্ষের মাঝে ঝগড়া বাঁধিয়ে দেওয়া",
+  "figurative_meaning_en": "Instigating a quarrel between two parties",
+  "similar_in_english": [
+    "Stir up trouble",
+    "Play both ends against the middle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দু’কাঠি বাজিয়ে প্রতিবেশীদের মধ্যে ঝগড়া বাধিয়েছে।",
+    "এই রকম দু’কাঠি বাজানোর ফলে পরিবারে বিভেদ দেখা দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He played the two sticks to start a fight between the neighbors.",
+    "Such instigation led to division in the family."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "conflicts"
+  ],
+  "tags": [
+    "quarrel",
+    "instigation",
+    "discord"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এটি কাঠি দিয়ে আঘাত করলে ঝগড়া বা বিবাদের ধারণা থেকে উদ্ভূত, যা বাংলা লোকসংস্কৃতিতে প্রচলিত।"
+  ],
+  "note": "Idiom evokes imagery of rural or traditional conflicts."
+}

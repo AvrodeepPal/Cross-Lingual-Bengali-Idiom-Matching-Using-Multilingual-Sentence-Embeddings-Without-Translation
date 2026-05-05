@@ -1,0 +1,41 @@
+{
+  "id": "6542",
+  "idiom": "পটল তোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "বস্তু বা পটল তুলে নেওয়া (to pick up a bundle or package)",
+  "figurative_meaning_bn": "গুটিয়ে যাওয়া; বিনষ্ট হওয়া",
+  "figurative_meaning_en": "to pack up and leave; to be ruined or fail",
+  "similar_in_english": [
+    "pack up and go",
+    "go bust",
+    "throw in the towel"
+  ],
+  "example_sentences_in_bangla": [
+    "তার দোকানের ব্যবসা পটল তুলেছে।",
+    "প্রকল্পটি শুরু হওয়ার কিছুদিন পরেই পটল তুলে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "His shop's business has packed up.",
+    "The project folded just a few days after starting."
+  ],
+  "usage_domain": [
+    "business",
+    "failure",
+    "everyday life"
+  ],
+  "tags": [
+    "negative",
+    "commerce",
+    "abandonment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the traditional practice of Bengali merchants or traders who would bundle their goods in a 'patol' (cloth bundle) and leave a place when their business failed or trade was unprofitable."
+  ],
+  "note": "Commonly used in contexts of economic setback or discontinuation of activities."
+}

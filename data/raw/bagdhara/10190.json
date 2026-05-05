@@ -1,0 +1,43 @@
+{
+  "id": "10190",
+  "idiom": "হাতাহাতি",
+  "alternative_idioms": [
+    "ধস্তাধস্তি",
+    "মারামারি"
+  ],
+  "literal_meaning": "হাতের আঘাত আঘাত (hand-to-hand striking)",
+  "figurative_meaning_bn": "পরস্পরের প্রতি বলপ্রয়োগ, দলবদ্ধভাবে ঝগড়া",
+  "figurative_meaning_en": "Mutual use of force; group quarrel or brawl",
+  "similar_in_english": [
+    "come to blows",
+    "fisticuffs",
+    "brawl"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় হাতাহাতি শুরু হয়ে গেল।",
+    "দুই দলের মধ্যে হাতাহাতি হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "A brawl broke out in the meeting.",
+    "There was a group fight between the two sides."
+  ],
+  "usage_domain": [
+    "conflict",
+    "social interactions",
+    "violence"
+  ],
+  "tags": [
+    "fighting",
+    "quarrel",
+    "group conflict",
+    "physical altercation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "সহচর শব্দ হিসেবে ব্যবহৃত হয়, প্রায়শই দলীয় ঝগড়ার প্রসঙ্গে।"
+}

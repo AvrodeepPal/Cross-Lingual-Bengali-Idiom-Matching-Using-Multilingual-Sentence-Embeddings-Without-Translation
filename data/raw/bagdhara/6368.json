@@ -1,0 +1,39 @@
+{
+  "id": "6368",
+  "idiom": "নাম",
+  "alternative_idioms": [],
+  "literal_meaning": "নাম (name)",
+  "figurative_meaning_bn": "শপথ",
+  "figurative_meaning_en": "swearing an oath by God's name to assert ignorance or innocence",
+  "similar_in_english": [
+    "I swear to God",
+    "Cross my heart and hope to die"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি নামে বলছি, আমার কোনো দোষ নেই।",
+    "নাম ধরে শপথ নিয়ে বললাম, সত্যি কথা।"
+  ],
+  "example_sentences_in_english": [
+    "I swear by God's name, I know nothing about it.",
+    "Taking an oath by name, I assure you it's true."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "denial",
+    "assurance"
+  ],
+  "tags": [
+    "oath",
+    "swear",
+    "denial",
+    "religious invocation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom text appears garbled; interpreted as invoking 'নাম' (divine name) for oaths, common in Bengali speech for emphasis."
+}

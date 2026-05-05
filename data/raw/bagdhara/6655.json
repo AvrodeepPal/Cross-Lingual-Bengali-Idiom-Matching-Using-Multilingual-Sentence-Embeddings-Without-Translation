@@ -1,0 +1,38 @@
+{
+  "id": "6655",
+  "idiom": "পরের মুখে ঝাল খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কারও মুখ থেকে ঝাল (তীব্রতা বা তিক্ততা) খাওয়া",
+  "figurative_meaning_bn": "পরের কথার ভিত্তিতে মন্তব্য করা; পরের করা কটূক্তি মেনে লওয়া",
+  "figurative_meaning_en": "Making comments based on someone else's words; accepting someone else's sarcastic or bitter remarks",
+  "similar_in_english": [
+    "Taking the bait",
+    "Swallowing one's words uncritically"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরের মুখে ঝাল খেয়ে সকলকে অভিযোগ করতে শুরু করল।",
+    "এই ঘটনায় পরের মুখে ঝাল খেয়ে তুমি কেন এত রাগ করছ?"
+  ],
+  "example_sentences_in_english": [
+    "He started accusing everyone after taking the spice from someone else's mouth.",
+    "Why are you so angry after accepting the bitter remark from others?"
+  ],
+  "usage_domain": [
+    "social interactions",
+    "conversation",
+    "gossip"
+  ],
+  "tags": [
+    "sarcasm",
+    "influence",
+    "gullibility"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday social dynamics in Bengali culture, emphasizing caution against unverified opinions."
+}

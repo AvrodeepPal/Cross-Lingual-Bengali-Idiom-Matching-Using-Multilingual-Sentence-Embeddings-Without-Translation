@@ -1,0 +1,37 @@
+{
+  "id": "2841",
+  "idiom": "গজগজ",
+  "alternative_idioms": [],
+  "literal_meaning": "গর্জন বা বিরক্তিকর শব্দের অনুকরণ (onomatopoeic reduplication mimicking grumbling sounds)",
+  "figurative_meaning_bn": "অসন্তোষ বা বিরক্তিভাবসূচক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "A reduplicative word indicating dissatisfaction or irritation",
+  "similar_in_english": [
+    "Grumbling under one's breath",
+    "Muttering complaints"
+  ],
+  "example_sentences_in_bangla": [
+    "সে রাগে গজগজ করতে লাগল।",
+    "বাচ্চারা খাবার না পেয়ে গজগজ করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He started grumbling in anger.",
+    "The children are muttering complaints because they didn't get food."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Expressing emotions"
+  ],
+  "tags": [
+    "Reduplication",
+    "Onomatopoeia",
+    "Negative emotion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in spoken Bengali to denote low-level annoyance."
+}

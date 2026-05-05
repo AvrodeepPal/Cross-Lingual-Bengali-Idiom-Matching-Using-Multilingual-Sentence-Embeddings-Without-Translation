@@ -1,0 +1,41 @@
+{
+  "id": "7033",
+  "idiom": "প্রাতঃপ্রণাম",
+  "alternative_idioms": [],
+  "literal_meaning": "প্রথমদর্শনে করণীয় প্রণাম; প্রধানত প্রাতঃকালে কৃত প্রণাম",
+  "figurative_meaning_bn": "প্রথমদর্শনে করণীয় প্রণাম; প্রধানত প্রাতঃকালে কৃত প্রণাম",
+  "figurative_meaning_en": "The salutation performed upon first sight; primarily the greeting done in the early morning",
+  "similar_in_english": [
+    "Good morning greeting",
+    "Paying morning respects"
+  ],
+  "example_sentences_in_bangla": [
+    "সকালে উঠে আমি ঠাকুরমশাইকে প্রাতঃপ্রণাম করলাম।",
+    "প্রাতঃপ্রণাম করে দিন শুরু করা আমাদের রীতি।"
+  ],
+  "example_sentences_in_english": [
+    "Upon waking in the morning, I paid my prātḥpranām to Thakurmasai.",
+    "Starting the day with a morning salutation is our tradition."
+  ],
+  "usage_domain": [
+    "Greetings",
+    "Daily rituals",
+    "Family traditions"
+  ],
+  "tags": [
+    "salutation",
+    "morning",
+    "respect",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the morning salutation custom associated with 'Thakurmasai', likely alluding to Rabindranath Tagore's family traditions in Bengali literature and culture."
+  ],
+  "note": "This term carries a sense of respectful morning obeisance, often in a familial or reverential context."
+}

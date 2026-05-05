@@ -1,0 +1,39 @@
+{
+  "id": "1577",
+  "idiom": "কবুল",
+  "alternative_idioms": [],
+  "literal_meaning": "স্বীকৃতি বা গ্রহণ",
+  "figurative_meaning_bn": "অনুমোগন, সম্মতি, স্বীকার",
+  "figurative_meaning_en": "acceptance, agreement, admission",
+  "similar_in_english": [
+    "come clean",
+    "plead guilty",
+    "own up"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি আমার দোষ কবুল করছি।",
+    "তিনি প্রস্তাবটি কবুল করেছেন।"
+  ],
+  "example_sentences_in_english": [
+    "I admit my fault.",
+    "He has accepted the proposal."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "legal",
+    "formal agreements"
+  ],
+  "tags": [
+    "admission",
+    "consent",
+    "confession"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Arabic 'qabool', commonly used in Bengali for verbal acceptance or confession."
+}

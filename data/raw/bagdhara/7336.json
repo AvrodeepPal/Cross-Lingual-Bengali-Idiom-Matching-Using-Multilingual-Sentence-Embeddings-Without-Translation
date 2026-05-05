@@ -1,0 +1,42 @@
+{
+  "id": "7336",
+  "idiom": "বর্ণসঙ্কর",
+  "alternative_idioms": [],
+  "literal_meaning": "বর্ণের সঙ্করণ (caste mixture)",
+  "figurative_meaning_bn": "অকুলীন, দো-আঁশলা, ভিন্ন বর্ণ/জাতির মাতাপিতা থেকে উৎপন্ন ব্যক্তি বা প্রাণী",
+  "figurative_meaning_en": "Of mixed or illegitimate lineage, half-breed, a person or animal born from parents of different castes or races",
+  "similar_in_english": [
+    "half-breed",
+    "mixed blood",
+    "mongrel"
+  ],
+  "example_sentences_in_bangla": [
+    "সমাজে বর্ণসঙ্করদের প্রতি সবসময়ই বৈষম্যের দৃষ্টি পড়ে।",
+    "প্রাচীন গ্রন্থে বর্ণসঙ্করকে অশুভ বলে উল্লেখ করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "In society, varnasankaras are always viewed with discrimination.",
+    "Ancient texts describe varnasankara as inauspicious."
+  ],
+  "usage_domain": [
+    "social",
+    "caste system",
+    "genealogy"
+  ],
+  "tags": [
+    "caste",
+    "mixed origin",
+    "derogatory",
+    "traditional"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term originates from ancient Hindu scriptures like the Manusmriti, which prohibits inter-caste marriages to maintain social order and purity of varnas."
+  ],
+  "note": "This idiom carries strong connotations from the Hindu caste system and is considered archaic and offensive in modern contexts."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "5762",
+  "idiom": "দাঙ্গাহাঙ্গামা",
+  "alternative_idioms": [],
+  "literal_meaning": "দাঙ্গা (হঙ্গামা বা দাঙ্গা) + হাঙ্গামা (উচ্ছ্বাস বা বিশৃঙ্খলা)",
+  "figurative_meaning_bn": "বিভিন্ন শ্রেণির মধ্যে অনবরত মারামারি কাটাকাটি",
+  "figurative_meaning_en": "Continuous fighting and clashes among various groups or classes",
+  "similar_in_english": [
+    "all hell breaking loose",
+    "chaos and mayhem"
+  ],
+  "example_sentences_in_bangla": [
+    "শহরে দাঙ্গাহাঙ্গামা শুরু হয়ে গেছে, সবাই ভয় পেয়ে বাড়িতে আটকে আছে।",
+    "রাজনৈতিক দাঙ্গাহাঙ্গামার কারণে অর্থনীতি ক্ষতিগ্রস্ত হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Riots and commotion have broken out in the city, with everyone scared and confined to their homes.",
+    "The political unrest and clashes have damaged the economy."
+  ],
+  "usage_domain": [
+    "social unrest",
+    "politics",
+    "news"
+  ],
+  "tags": [
+    "riot",
+    "commotion",
+    "conflict",
+    "violence"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom is often used in contexts of urban or communal disturbances in Bengali literature and media."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7993",
+  "idiom": "ভাগ্য দোষে",
+  "alternative_idioms": [
+    "কপাল দোষে"
+  ],
+  "literal_meaning": "ভাগ্যের দোষ বা ত্রুটির কারণে",
+  "figurative_meaning_bn": "দুর্ভাগ্যবশতঃ",
+  "figurative_meaning_en": "Due to misfortune or bad luck",
+  "similar_in_english": [
+    "Blame it on fate",
+    "Hard luck",
+    "It was my misfortune"
+  ],
+  "example_sentences_in_bangla": [
+    "ভাগ্য দোষে আমার সব পরিকল্পনা ব্যর্থ হয়ে গেল।",
+    "ভাগ্য দোষে সে তার স্বপ্নের চাকরিটি হারিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Due to bad luck, all my plans fell through.",
+    "It was fate's fault that he lost his dream job."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Expressing regret"
+  ],
+  "tags": [
+    "fate",
+    "misfortune",
+    "destiny",
+    "bad luck"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural belief in predestined fate common in Bengali society."
+}

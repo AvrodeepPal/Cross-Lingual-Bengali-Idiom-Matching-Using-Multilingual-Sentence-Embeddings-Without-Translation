@@ -1,0 +1,44 @@
+{
+  "id": "5440",
+  "idiom": "তিলককাটা বামুন",
+  "alternative_idioms": [
+    "তিলককাটা বৈষ্ণব"
+  ],
+  "literal_meaning": "তিলক কাটা ব্রাহ্মণ (যার কপালের তিলক মুছে ফেলা হয়েছে)",
+  "figurative_meaning_bn": "বিদ্রুপে ভণ্ড বা মেকী ধার্মিক",
+  "figurative_meaning_en": "Mockingly referring to a hypocritical or fake religious person",
+  "similar_in_english": [
+    "wolf in sheep's clothing",
+    "holier-than-thou hypocrite"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো তিলককাটা বামুন, মুখে ধর্মের কথা বলে কিন্তু হৃদয়ে নেই।",
+    "গ্রামের এই লোকটি তিলককাটা বৈষ্ণবের মতো, শুধু দেখানোর জন্য ভক্তি করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a tilak-shaven Brahmin, preaches religion from the mouth but has none in his heart.",
+    "This village man is like a tilak-shaven Vaishnava, devout only for show."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Social Criticism",
+    "Hypocrisy"
+  ],
+  "tags": [
+    "বিদ্রুপ",
+    "ভণ্ডামি",
+    "ধর্ম",
+    "ব্রাহ্মণ",
+    "বৈষ্ণব"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই প্রবাদটি হিন্দু ঐতিহ্যে তিলকের প্রতীকী গুরুত্ব থেকে উদ্ভূত, যেখানে তিলক ধার্মিক পরিচয়ের চিহ্ন, এবং এর অপসারণ মেকী ভক্তির প্রতীক।"
+  ],
+  "note": "প্রবাদটি বাংলা সংস্কৃতিতে ধর্মীয় ভণ্ডামির সমালোচনা করে।"
+}

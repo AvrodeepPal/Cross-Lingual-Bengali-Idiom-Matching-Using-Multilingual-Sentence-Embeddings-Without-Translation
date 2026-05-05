@@ -1,0 +1,41 @@
+{
+  "id": "4265",
+  "idiom": "ছাঁদনাতলা",
+  "alternative_idioms": [],
+  "literal_meaning": "ছাঁদনার তলা বা ছায়ামণ্ডপের নিচে",
+  "figurative_meaning_bn": "হিন্দুবিয়ের ছায়ামন্ডপ, যেখানে বিয়ের আসর বসে",
+  "figurative_meaning_en": "The canopy in a Hindu wedding where the marriage ceremony is held",
+  "similar_in_english": [
+    "Under the chuppah (Jewish wedding canopy)",
+    "Wedding altar"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের দিন ছাঁদনাতলায় সবাই উপস্থিত হয়েছে।",
+    "ছাঁদনাতলার নিচে বর-কনের ফেরা সম্পন্ন হলো।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone gathered under the chandanatala on the wedding day.",
+    "The bride and groom exchanged garlands under the chandanatala."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Ceremony",
+    "Hindu rituals"
+  ],
+  "tags": [
+    "Wedding",
+    "Hindu",
+    "Canopy",
+    "Ceremony"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References Ravana's chandanatala from the Ramayana epic, symbolizing a grand wedding venue in mythological context."
+  ],
+  "note": "This term is rooted in Hindu mythology and traditional Bengali wedding practices."
+}

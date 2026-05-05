@@ -1,0 +1,39 @@
+{
+  "id": "2350",
+  "idiom": "কেয়াবাত",
+  "alternative_idioms": [],
+  "literal_meaning": "কেয়া (একটি উদ্ভিদের নাম) + বাত (কথা); শাব্দিকভাবে 'কেয়ার কথা', কিন্তু প্রকৃতপক্ষে অস্পষ্ট বা আড়াল-আচ্ছাদনা সম্পর্কিত কথাবার্তা",
+  "figurative_meaning_bn": "প্রশংসার আড়ালে নিন্দা; উপহাস",
+  "figurative_meaning_en": "Criticism or mockery disguised as praise",
+  "similar_in_english": [
+    "backhanded compliment",
+    "damning with faint praise"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথায় কেয়াবাতের ছোঁয়া লেগেছে, প্রশংসা করে আসলে খোঁচা দিচ্ছে।",
+    "সভায় সবাই কেয়াবাত করে তার সাফল্যের প্রশংসা করল, কিন্তু মনে মনে হাসছিল।"
+  ],
+  "example_sentences_in_english": [
+    "His words were full of kebabat, praising her effort while subtly mocking it.",
+    "She responded with kebabat, saying 'bravo, that's so original' but implying it was unoriginal."
+  ],
+  "usage_domain": [
+    "social interaction",
+    "conversation",
+    "literature"
+  ],
+  "tags": [
+    "sarcasm",
+    "irony",
+    "criticism",
+    "praise"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারাটি সম্ভবত আঞ্চলিক বা কথ্য ভাষায় ব্যবহৃত; সাধারণ বাংলা অভিধানে অস্পষ্ট, কিন্তু উপহাসাত্মক প্রশংসার জন্য উপযোগী।"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "289",
+  "idiom": "অস্তিনাস্তি",
+  "alternative_idioms": [],
+  "literal_meaning": "অস্তিত্ব এবং অস্তিত্বের অভাব (existence and non-existence)",
+  "figurative_meaning_bn": "থাকা-না-থাকা; আছে আবার নাই",
+  "figurative_meaning_en": "being present or absent; here one moment and gone the next",
+  "similar_in_english": [
+    "here today, gone tomorrow",
+    "touch and go"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জ্বর অস্তিনাস্তি, ডাক্তার বলেছে সতর্ক থাকতে।",
+    "বাজারের দাম অস্তিনাস্তি, কোনো দিন বাড়ে কোনো দিন পড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "His fever is touch and go; the doctor said to stay vigilant.",
+    "The market prices are here today, gone tomorrow; they rise one day and fall the next."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "health and uncertainty",
+    "economy"
+  ],
+  "tags": [
+    "uncertainty",
+    "existence",
+    "philosophical",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Sanskrit philosophical concepts in Hindu texts, often used in Bengali literature to denote impermanence."
+  ],
+  "note": "The idiom reflects deeper philosophical undertones from Vedantic ideas of being and non-being."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "6333",
+  "idiom": "নাজেহাল",
+  "alternative_idioms": [
+    "নাস্তানাবুদ",
+    "হয়রান পরেশান"
+  ],
+  "literal_meaning": "নাজুক অবস্থা (delicate or precarious condition)",
+  "figurative_meaning_bn": "অতিশয় লাঞ্ছিত বা বিপন্ন; নাকাল; নাজুক হাল; পরিশ্রান্ত; হাল খুব খারাপ",
+  "figurative_meaning_en": "In a state of extreme distress, humiliation, or exhaustion; in dire straits or very bad condition",
+  "similar_in_english": [
+    "In dire straits",
+    "Down and out",
+    "Worn to a frazzle"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রচণ্ড গরমে সবাই নাজেহাল হয়ে গেছে।",
+    "কাজের চাপে সে সম্পূর্ণ নাজেহাল।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone is in a bad way due to the intense heat.",
+    "He is completely exhausted from the workload."
+  ],
+  "usage_domain": [
+    "daily life",
+    "emotions",
+    "weather"
+  ],
+  "tags": [
+    "distress",
+    "exhaustion",
+    "plight",
+    "hardship"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Persian 'naazuk haal', commonly used in colloquial Bengali to express severe discomfort."
+}

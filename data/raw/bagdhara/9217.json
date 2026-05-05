@@ -1,0 +1,43 @@
+{
+  "id": "9217",
+  "idiom": "লগনচাঁদ",
+  "alternative_idioms": [
+    "চাঁদ"
+  ],
+  "literal_meaning": "লগন (মঙ্গলকর সময়) চাঁদ (চন্দ্র)",
+  "figurative_meaning_bn": "ভাগ্যবান",
+  "figurative_meaning_en": "fortunate or lucky",
+  "similar_in_english": [
+    "born under a lucky star",
+    "lucky break"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন লগনচাঁদ লোক, সবসময় ভাগ্য তার পক্ষে যায়।",
+    "এই লগনচাঁদ দিনে বিয়ে হলে সবকিছু মঙ্গল হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a lucky person; fortune always favors him.",
+    "Getting married on this auspicious day will bring good luck."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "astrology",
+    "fortune-telling"
+  ],
+  "tags": [
+    "luck",
+    "fortune",
+    "astrology",
+    "auspicious"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from Hindu astrological traditions where 'lagna' refers to the ascendant or auspicious moment, and 'chanda' symbolizes the moon's benevolent influence."
+  ],
+  "note": "Often used in contexts involving horoscopes or predicting good fortune."
+}

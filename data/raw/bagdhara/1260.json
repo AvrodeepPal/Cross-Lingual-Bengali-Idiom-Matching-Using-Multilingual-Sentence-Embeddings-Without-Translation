@@ -1,0 +1,38 @@
+{
+  "id": "1260",
+  "idiom": "ওয়াক্ত-বে-ওয়াক্ত",
+  "alternative_idioms": [],
+  "literal_meaning": "সময় অনুসারে সময় (time by time)",
+  "figurative_meaning_bn": "যখন তখন; সময়-অসময়; ভালোমন্দ সময়কাল",
+  "figurative_meaning_en": "from time to time; at any time; good and bad periods",
+  "similar_in_english": [
+    "from time to time",
+    "now and then",
+    "at times"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ওয়াক্ত-বে-ওয়াক্ত ফোন করে।",
+    "জীবনে ওয়াক্ত-বে-ওয়াক্ত সুখ-দুঃখ আসে।"
+  ],
+  "example_sentences_in_english": [
+    "He calls from time to time.",
+    "Life brings joys and sorrows from time to time."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "temporal expressions"
+  ],
+  "tags": [
+    "time",
+    "variability",
+    "persian influence"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom has Persian origins and is commonly used in Bengali to denote irregularity or variability in time."
+}

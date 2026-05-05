@@ -1,0 +1,40 @@
+{
+  "id": "4549",
+  "idiom": "জলযোগ",
+  "alternative_idioms": [
+    "জলপান"
+  ],
+  "literal_meaning": "জলের যোগ বা সংযোগ (water addition or connection)",
+  "figurative_meaning_bn": "হালকা খাবার; মিষ্টি খাবার",
+  "figurative_meaning_en": "light snacks; sweet refreshments",
+  "similar_in_english": [
+    "light refreshment",
+    "bite to eat"
+  ],
+  "example_sentences_in_bangla": [
+    "পার্টিতে জলযোগ দেওয়া হয়েছে।",
+    "দুপুরের জলযোগে চা আর বিস্কুট খেলাম।"
+  ],
+  "example_sentences_in_english": [
+    "Refreshments were served at the party.",
+    "I had tea and biscuits as light snacks in the afternoon."
+  ],
+  "usage_domain": [
+    "food",
+    "hospitality",
+    "daily life"
+  ],
+  "tags": [
+    "refreshment",
+    "snack",
+    "bengali cuisine"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to simple, water-based or light beverages and snacks in social gatherings"
+}

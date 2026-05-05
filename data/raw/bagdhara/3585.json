@@ -1,0 +1,41 @@
+{
+  "id": "3585",
+  "idiom": "ঘুর্ণিপাক",
+  "alternative_idioms": [],
+  "literal_meaning": "জল বা বাতাসের প্রচণ্ড আবর্ত",
+  "figurative_meaning_bn": "যুগান্তরের প্রচণ্ড পরিবর্তন বা বিপ্লবের ঘূর্ণি",
+  "figurative_meaning_en": "The whirlwind of epochal change or revolutionary turmoil",
+  "similar_in_english": [
+    "whirlwind of change",
+    "maelstrom of events"
+  ],
+  "example_sentences_in_bangla": [
+    "স্বাধীনতার ঘুর্ণিপাকে দেশটি নতুন রূপ নিল।",
+    "জীবনের ঘুর্ণিপাকে সে নিজেকে হারিয়ে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "The country took on a new form in the whirlwind of independence.",
+    "He lost himself in the whirlwind of life."
+  ],
+  "usage_domain": [
+    "literature",
+    "politics",
+    "social change"
+  ],
+  "tags": [
+    "poetic",
+    "turbulent",
+    "transformative",
+    "nature-derived"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Used in Kazi Nazrul Islam's poem to describe the turbulent changes at the end of an era, reflecting revolutionary fervor in early 20th-century Bengal."
+  ],
+  "note": "Primarily literary usage from Nazrul's works, symbolizing dynamic historical shifts."
+}

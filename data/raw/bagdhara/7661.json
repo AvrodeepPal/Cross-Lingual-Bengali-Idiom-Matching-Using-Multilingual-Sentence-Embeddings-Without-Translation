@@ -1,0 +1,49 @@
+{
+  "id": "7661",
+  "idiom": "বিড়ালতপস্বী",
+  "alternative_idioms": [
+    "তিলককাটা বামুন",
+    "তুলসীবনের বাঘ",
+    "বকধার্মিক",
+    "বাঘের গায়ে নামাবলী",
+    "ভিজে বিড়াল"
+  ],
+  "literal_meaning": "বিড়াল যে তপস্যা করে (cat ascetic)",
+  "figurative_meaning_bn": "বিদ্রুপে- কপট/ভেকধারী ব্যক্তি, ভণ্ড/মেকী ধার্মিক, সাধুর ছদ্মবেশে শয়তান; অসৎ কর্মে রত ব্যক্তি নীতিকথা শোনায় এমন",
+  "figurative_meaning_en": "Sarcastically - a hypocritical or deceitful person, a fake or pretentious religious figure, a devil disguised as a saint; a person engaged in immoral acts who preaches moral lessons",
+  "similar_in_english": [
+    "wolf in sheep's clothing",
+    "holier-than-thou",
+    "sanctimonious hypocrite"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা বিড়ালতপস্বী, বাইরে ধার্মিকতার ভান করে কিন্তু গোপনে অনেক অসৎ কাজ করে।",
+    "রাজনীতিতে এমন বিড়ালতপস্বী লোকের অভাব নেই, যারা জনকল্যাণের কথা বলে নিজের স্বার্থ নিয়ে থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a cat ascetic, pretending to be pious on the outside but engaging in many dishonest deeds secretly.",
+    "There is no shortage of cat ascetics in politics, who talk about public welfare while pursuing their own interests."
+  ],
+  "usage_domain": [
+    "religion",
+    "morality",
+    "hypocrisy",
+    "satire"
+  ],
+  "tags": [
+    "hypocrisy",
+    "fake piety",
+    "deception",
+    "moral preaching"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from fables in Hitopadesha, where a cat pretends to be an ascetic to deceive and catch birds, symbolizing false piety."
+  ],
+  "note": "This idiom draws from ancient Indian storytelling traditions to critique insincere religious behavior."
+}

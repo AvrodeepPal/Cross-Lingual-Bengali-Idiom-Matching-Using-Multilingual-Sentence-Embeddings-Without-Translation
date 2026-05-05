@@ -1,0 +1,41 @@
+{
+  "id": "8694",
+  "idiom": "মুখ রাখা",
+  "alternative_idioms": [
+    "মুখ থাকা"
+  ],
+  "literal_meaning": "মুখ (face) রাখা/থাকা (to keep/remain)",
+  "figurative_meaning_bn": "সম্মান বজায় রাখা",
+  "figurative_meaning_en": "To maintain one's honor or dignity",
+  "similar_in_english": [
+    "Save face",
+    "Keep one's dignity"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ভুল স্বীকার করে সে মুখ রাখতে পারেনি।",
+    "পরিবারের সম্মান রক্ষায় আমাকে মুখ রাখতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "By admitting his mistake, he couldn't save face.",
+    "To protect the family's honor, I have to maintain my dignity."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Family matters",
+    "Personal reputation"
+  ],
+  "tags": [
+    "honor",
+    "dignity",
+    "respect",
+    "shame avoidance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural emphasis on 'izzat' or social prestige in Bengali society."
+}

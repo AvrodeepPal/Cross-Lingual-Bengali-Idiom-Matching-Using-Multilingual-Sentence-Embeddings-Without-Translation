@@ -1,0 +1,37 @@
+{
+  "id": "8582",
+  "idiom": "মামলা",
+  "alternative_idioms": [],
+  "literal_meaning": "আইনি মামলা বা কেস",
+  "figurative_meaning_bn": "ঘটনা, ব্যাপার",
+  "figurative_meaning_en": "incident, matter",
+  "similar_in_english": [
+    "much ado about nothing",
+    "a storm in a teacup"
+  ],
+  "example_sentences_in_bangla": [
+    "এটা তো শুধু দু'চার দিনের মামলা।",
+    "সেই ঘটনাটা একটা ছোট মামলা ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "This is just a matter of a few days.",
+    "That incident was a small affair."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "informal speech"
+  ],
+  "tags": [
+    "figurative",
+    "temporary issue",
+    "trivial matter"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to downplay the importance of an event, implying it's short-lived or insignificant."
+}

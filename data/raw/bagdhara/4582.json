@@ -1,0 +1,43 @@
+{
+  "id": "4582",
+  "idiom": "জাঁতিকলে পড়া",
+  "alternative_idioms": [
+    "জাঁতায় পড়া"
+  ],
+  "literal_meaning": "তেলকলে বা জাঁতায় পড়ে যাওয়া",
+  "figurative_meaning_bn": "লোভের বশে ফাঁদে পড়া",
+  "figurative_meaning_en": "To fall into a trap due to greed",
+  "similar_in_english": [
+    "Take the bait",
+    "Fall into the trap"
+  ],
+  "example_sentences_in_bangla": [
+    "লোভের কারণে সে জাঁতিকলে পড়ে গেল এবং তার সব সম্পদ হারাল।",
+    "ব্যবসায়ীটি লোভে জাঁতিকলে পড়ে প্রতারিত হল।"
+  ],
+  "example_sentences_in_english": [
+    "Due to his greed, he fell into the trap and lost everything.",
+    "The businessman fell into the trap out of greed and got cheated."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Moral lessons",
+    "Cautionary tales"
+  ],
+  "tags": [
+    "greed",
+    "trap",
+    "deception",
+    "caution"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from traditional Bengali rural life where oil mills (জাঁতা) were common; animals or pests would fall into them attracted by the oil, symbolizing greed leading to downfall."
+  ],
+  "note": "Synonymous with 'কলে পড়া', emphasizing entrapment through avarice."
+}

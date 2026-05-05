@@ -1,0 +1,41 @@
+{
+  "id": "9583",
+  "idiom": "সঙ্গদোষ",
+  "alternative_idioms": [],
+  "literal_meaning": "সঙ্গের দোষ (company's fault)",
+  "figurative_meaning_bn": "কুসঙ্গের দোষ",
+  "figurative_meaning_en": "The fault of bad company",
+  "similar_in_english": [
+    "Bad company corrupts good morals",
+    "You are known by the company you keep"
+  ],
+  "example_sentences_in_bangla": [
+    "সঙ্গদোষে তার জীবন নষ্ট হয়ে গেছে।",
+    "কুসঙ্গের প্রভাবে সে খারাপ কাজে লিপ্ত হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Due to bad company, his life has been ruined.",
+    "He got involved in bad activities because of the influence of bad association."
+  ],
+  "usage_domain": [
+    "social",
+    "moral",
+    "advice"
+  ],
+  "tags": [
+    "bad company",
+    "influence",
+    "corruption",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This is a traditional Bengali proverb emphasizing the impact of associations, often cited in moral teachings without specific historical events."
+  ],
+  "note": "The idiom is part of the proverb 'সঙ্গদোষে সাধু চোর হয়' which warns against the corrupting influence of bad company."
+}

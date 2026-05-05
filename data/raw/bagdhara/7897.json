@@ -1,0 +1,42 @@
+{
+  "id": "7897",
+  "idiom": "বৈতরণী পার হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বৈতরণী নদী পার হয়ে যাওয়া",
+  "figurative_meaning_bn": "বিপদ বা সঙ্কট থেকে উদ্ধার পাওয়া",
+  "figurative_meaning_en": "To be rescued from danger or crisis",
+  "similar_in_english": [
+    "To cheat death",
+    "To escape by the skin of one's teeth",
+    "To come through unscathed"
+  ],
+  "example_sentences_in_bangla": [
+    "সে গুরুতর অসুস্থতা থেকে বৈতরণী পার হয়েছে।",
+    "দুর্ঘটনায় তারা সকলে বৈতরণী পার হয়ে জীবিত ফিরেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He crossed the Vaitarani after a severe illness.",
+    "They all crossed the Vaitarani and returned alive from the accident."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature",
+    "crisis narratives"
+  ],
+  "tags": [
+    "rescue",
+    "danger",
+    "mythological",
+    "survival"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom derives from Hindu mythology where the Vaitarani is a treacherous river that souls must cross after death; virtuous souls cross easily, while sinners struggle, symbolizing overcoming life's ordeals."
+  ],
+  "note": "Rooted in Puranic texts, often used in Bengali literature to denote narrow escapes."
+}

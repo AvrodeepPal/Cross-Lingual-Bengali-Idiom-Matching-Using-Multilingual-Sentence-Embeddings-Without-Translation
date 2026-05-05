@@ -1,0 +1,39 @@
+{
+  "id": "7415",
+  "idiom": "বাঁটুল",
+  "alternative_idioms": [
+    "বাঁটকুল"
+  ],
+  "literal_meaning": "খর্ব এবং মোটা (short and stout)",
+  "figurative_meaning_bn": "খর্বকায় ব্যক্তি",
+  "figurative_meaning_en": "A short-statured person",
+  "similar_in_english": [
+    "short and stout",
+    "dwarf-like figure"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা বাঁটুল মানুষ, খুব ছোটখাটো।",
+    "গ্রামের বাঁটুল চাচাকে সবাই চেনে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a short-statured man, very diminutive.",
+    "Everyone in the village knows the short and plump uncle."
+  ],
+  "usage_domain": [
+    "physical description",
+    "informal conversation"
+  ],
+  "tags": [
+    "body type",
+    "colloquial",
+    "descriptive"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term often carries a light-hearted connotation in everyday Bengali speech."
+}

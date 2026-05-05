@@ -1,0 +1,38 @@
+{
+  "id": "1769",
+  "idiom": "কাঁচা লেখা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁচা (অপরিশোধিত বা অসম্পূর্ণ) লেখা (রচনা)",
+  "figurative_meaning_bn": "নিম্নমানের রচনা",
+  "figurative_meaning_en": "Low-quality or unrefined composition",
+  "similar_in_english": [
+    "half-baked writing",
+    "rough draft"
+  ],
+  "example_sentences_in_bangla": [
+    "তার লেখাটি কাঁচা লেখা, আরও পরিমার্জন দরকার।",
+    "এই উপন্যাসটি কাঁচা লেখা বলে সমালোচকরা মনে করেন।"
+  ],
+  "example_sentences_in_english": [
+    "His writing is raw and needs more polishing.",
+    "The novel was criticized as half-baked writing by reviewers."
+  ],
+  "usage_domain": [
+    "literature",
+    "education",
+    "writing"
+  ],
+  "tags": [
+    "রচনা",
+    "সমালোচনা",
+    "অসম্পূর্ণতা"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলা সাহিত্যিক প্রসঙ্গে ব্যবহৃত হয়, যা অপরিশোধিত রচনার অভাবকে নির্দেশ করে।"
+}

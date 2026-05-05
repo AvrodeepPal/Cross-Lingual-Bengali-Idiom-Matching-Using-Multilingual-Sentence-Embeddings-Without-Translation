@@ -1,0 +1,37 @@
+{
+  "id": "6113",
+  "idiom": "ধেই-ধেই",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘুরে বেড়ানোর শব্দানুকরণ (যেন ধেই ধেই করে চলা)",
+  "figurative_meaning_bn": "নির্লজ্জভাবে ঘুরে বেড়ানোর ভাব",
+  "figurative_meaning_en": "The manner of wandering around shamelessly or without purpose",
+  "similar_in_english": [
+    "Loitering about",
+    "Prowling aimlessly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ধেই-ধেই করে গলিতে ঘুরে বেড়াচ্ছে।",
+    "বাচ্চাটা ধেই-ধেই করে বাড়ির সামনে খেলছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is wandering around the lane shamelessly.",
+    "The child is loitering aimlessly in front of the house."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Behavior description"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "movement",
+    "negative behavior"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses onomatopoeia to mimic shuffling or swaying movements, common in colloquial Bengali."
+}

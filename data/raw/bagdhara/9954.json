@@ -1,0 +1,38 @@
+{
+  "id": "9954",
+  "idiom": "হলদে চোখ",
+  "alternative_idioms": [],
+  "literal_meaning": "হলুদ রঙের চোখ (yellow eyes)",
+  "figurative_meaning_bn": "আবিল/ঈর্ষাপরায়ণ দৃষ্টি",
+  "figurative_meaning_en": "A gaze clouded by jealousy or suspicion",
+  "similar_in_english": [
+    "Jaundiced eyes",
+    "Green with envy"
+  ],
+  "example_sentences_in_bangla": [
+    "তার হলদে চোখে সবকিছু খারাপ লাগে।",
+    "ঈর্ষায় তার হলদে চোখে বন্ধুর সাফল্য অসহ্য হয়ে ওঠে।"
+  ],
+  "example_sentences_in_english": [
+    "He sees everything negatively through his jaundiced eyes.",
+    "Her jealous gaze makes her friend's success unbearable."
+  ],
+  "usage_domain": [
+    "emotions",
+    "perception",
+    "social interactions"
+  ],
+  "tags": [
+    "jealousy",
+    "suspicion",
+    "negative bias"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the association of yellow discoloration (like in jaundice) with a tainted, envious perspective in Bengali culture."
+}

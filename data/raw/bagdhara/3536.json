@@ -1,0 +1,38 @@
+{
+  "id": "3536",
+  "idiom": "ঘিনঘিন করা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘৃণা বা অপ্রীতির অনুভূতি প্রকাশকারী দ্বিত্বশব্দ; অস্বস্তিকর অনুভূতি হওয়া",
+  "figurative_meaning_bn": "ঘেন্নার জন্য অস্বস্তি বোধ করা",
+  "figurative_meaning_en": "To feel a sense of discomfort or repulsion due to disgust",
+  "similar_in_english": [
+    "To give someone the creeps",
+    "To make one's skin crawl"
+  ],
+  "example_sentences_in_bangla": [
+    "এই নোংরা জায়গায় থাকলে গা ঘিনঘিন করে।",
+    "তার কথা শুনে আমার মন ঘিনঘিন করছে।"
+  ],
+  "example_sentences_in_english": [
+    "Staying in this dirty place makes my skin crawl.",
+    "Hearing his words fills me with repulsion."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Emotional expression"
+  ],
+  "tags": [
+    "disgust",
+    "emotion",
+    "onomatopoeic",
+    "reduplication"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses reduplication, a common feature in Bengali for intensifying emotions."
+}

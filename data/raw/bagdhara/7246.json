@@ -1,0 +1,43 @@
+{
+  "id": "7246",
+  "idiom": "বড়কথা",
+  "alternative_idioms": [
+    "ছোটোমুখে বড়কথা",
+    "যতবড় মুখ নয় ততবড় কথা"
+  ],
+  "literal_meaning": "বড় (big) কথা (words/talk)",
+  "figurative_meaning_bn": "অহঙ্কারপূর্ণ বা স্পর্ধাব্যঞ্জক উক্তি",
+  "figurative_meaning_en": "Arrogant or boastful statements",
+  "similar_in_english": [
+    "Big talk",
+    "All talk no action",
+    "Blowing one's own trumpet"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় বড়কথা বলে, কিন্তু কিছু করে না।",
+    "ছোটোমুখে বড়কথা বললে লোকে হাসে।"
+  ],
+  "example_sentences_in_english": [
+    "He always talks big but does nothing.",
+    "Talking big with a small mouth makes people laugh."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "social interactions",
+    "everyday conversation"
+  ],
+  "tags": [
+    "arrogance",
+    "boasting",
+    "pride",
+    "warning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali cultural emphasis on humility and warns against overconfidence."
+}

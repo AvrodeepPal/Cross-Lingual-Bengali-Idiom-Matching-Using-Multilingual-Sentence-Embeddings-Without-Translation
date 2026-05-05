@@ -1,0 +1,42 @@
+{
+  "id": "6309",
+  "idiom": "নাকে খত দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "নাকে চিহ্ন বা খত দেওয়া (to mark or put a dot on the nose)",
+  "figurative_meaning_bn": "দোষ কবুল করা; প্রায়শ্চিত্ত করা; ভবিষ্যতে এই ভুল আর হবে না এই প্রতিজ্ঞা করা",
+  "figurative_meaning_en": "To admit one's fault; to repent; to vow not to repeat the mistake in the future",
+  "similar_in_english": [
+    "to eat one's words",
+    "to do penance",
+    "to swear on one's honor"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ভুল স্বীকার করে নাকে খত দিয়েছে।",
+    "আমি আর কখনো এমন করব না, নাকে খত দিচ্ছি।"
+  ],
+  "example_sentences_in_english": [
+    "He admitted his mistake and vowed never to repeat it by touching his nose to the ground.",
+    "I promise I won't do it again; I'm marking my nose in repentance."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "apology",
+    "personal commitment"
+  ],
+  "tags": [
+    "repentance",
+    "promise",
+    "admission of fault",
+    "solemn vow"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from traditional Bengali practices where a person touches their nose to the ground to make a solemn promise, symbolizing writing a vow on the earth with the nose, emphasizing unbreakable commitment to avoid repeating a fault."
+  ],
+  "note": "The gesture reflects humility and cultural emphasis on honor in promises."
+}

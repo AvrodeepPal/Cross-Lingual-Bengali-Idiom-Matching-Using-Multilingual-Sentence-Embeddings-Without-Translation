@@ -1,0 +1,45 @@
+{
+  "id": "1496",
+  "idiom": "কথার ভটচাজ্জি",
+  "alternative_idioms": [
+    "কথার ধোকড়",
+    "বাক্যনবাব",
+    "বাক্যবাগীশ",
+    "বাক্যের ডোঙা"
+  ],
+  "literal_meaning": "কথার (শব্দের বা বাক্যের) ভটচাজ্জি (খালি বা ফাঁপা পাত্র বা ব্যক্তি, যা শব্দগুলির খোসা বোঝায়)",
+  "figurative_meaning_bn": "বাকসর্বস্ব, ফাঁকা কথা বলে, বাক্যবাগীশ",
+  "figurative_meaning_en": "A person who is all talk and no substance, verbose with empty words, a smooth talker without action",
+  "similar_in_english": [
+    "All talk and no action",
+    "Empty vessel makes the most noise",
+    "Hot air balloon"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা কথার ভটচাজ্জি, সবসময় বড় বড় কথা বলে কিন্তু কিছু করে না।",
+    "প্রমাণ করার সময় এলে দেখা যায়, তার সব কথাই ভটচাজ্জি।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real word-spinner, always talking big but never following through.",
+    "When it came to proving it, all his words turned out to be empty chatter."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism",
+    "Social commentary"
+  ],
+  "tags": [
+    "talkative",
+    "insincere",
+    "verbose",
+    "empty promises"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights the cultural disdain in Bengali society for superficial verbosity over genuine action."
+}

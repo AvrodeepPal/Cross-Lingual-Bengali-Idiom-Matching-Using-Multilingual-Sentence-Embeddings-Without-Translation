@@ -1,0 +1,42 @@
+{
+  "id": "7359",
+  "idiom": "বশংবদ",
+  "alternative_idioms": [
+    "চামচা"
+  ],
+  "literal_meaning": "যে বলে 'আমি বশ' (যিনি বলেন 'আমি নিয়ন্ত্রণের অধীন')",
+  "figurative_meaning_bn": "একান্ত অনুগত",
+  "figurative_meaning_en": "Extremely obedient or subservient",
+  "similar_in_english": [
+    "Yes-man",
+    "Bootlicker",
+    "Toady"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বসের কাছে সম্পূর্ণ বশংবদ।",
+    "রাজনীতিতে অনেকে নেতার বশংবদ হয়ে যান।"
+  ],
+  "example_sentences_in_english": [
+    "He is completely subservient to his boss.",
+    "Many in politics become yes-men to their leaders."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Workplace",
+    "Politics"
+  ],
+  "tags": [
+    "obedience",
+    "sycophancy",
+    "loyalty",
+    "subservience"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom implies blind or excessive obedience, often with a connotation of flattery."
+}

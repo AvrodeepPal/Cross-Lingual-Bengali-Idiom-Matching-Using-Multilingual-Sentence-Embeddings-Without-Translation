@@ -1,0 +1,41 @@
+{
+  "id": "6950",
+  "idiom": "পেটাঘড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঠের হাতুড়ি দিয়ে বাজানোর কাঁসার চাকতি; বেলঘণ্টা",
+  "figurative_meaning_bn": "কাঠের হাতুড়ি দিয়ে বাজানোর কাঁসার চাকতি বা ছোট বেলঘণ্টা",
+  "figurative_meaning_en": "A brass disc struck with a wooden hammer or a small temple bell",
+  "similar_in_english": [
+    "handbell",
+    "dinner bell"
+  ],
+  "example_sentences_in_bangla": [
+    "মন্দিরে পূজার সময় পেটাঘড়ি বাজিয়ে ডাকা হয়।",
+    "বাড়িতে ছোট পেটাঘড়ি রেখে সময় জানানো হয়।"
+  ],
+  "example_sentences_in_english": [
+    "The petaghori is rung to call for worship in the temple.",
+    "A small petaghori is kept at home to signal time."
+  ],
+  "usage_domain": [
+    "religion",
+    "daily life",
+    "rituals"
+  ],
+  "tags": [
+    "bell",
+    "instrument",
+    "temple",
+    "signal"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Traditionally used in Bengali households and temples for signaling prayers or events, rooted in everyday rural practices."
+  ],
+  "note": "Refers to a simple, handmade bell common in traditional Bengali settings."
+}

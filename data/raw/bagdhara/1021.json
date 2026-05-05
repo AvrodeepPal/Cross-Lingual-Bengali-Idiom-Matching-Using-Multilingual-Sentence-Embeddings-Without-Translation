@@ -1,0 +1,42 @@
+{
+  "id": "1021",
+  "idiom": "এক ডাকের পথ",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি ডাক বা চিৎকারের দূরত্বের পথ",
+  "figurative_meaning_bn": "অনতিদূর; খুব অল্প পথ; যতদূর থেকে চিৎকার শোনা যায় ততটা পথ",
+  "figurative_meaning_en": "Not far away; a very short distance; as far as a shout can be heard",
+  "similar_in_english": [
+    "A stone's throw away",
+    "Within earshot",
+    "Just around the corner"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বাড়ি আমার থেকে এক ডাকের পথ দূরে।",
+    "দোকানটা এক ডাকের পথেই আছে, হাঁটতে সময় লাগবে না।"
+  ],
+  "example_sentences_in_english": [
+    "His house is just a shout away from mine.",
+    "The shop is within earshot; it won't take time to walk there."
+  ],
+  "usage_domain": [
+    "distance",
+    "proximity",
+    "everyday conversation"
+  ],
+  "tags": [
+    "idiom",
+    "distance",
+    "figurative",
+    "rural"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই প্রকাশটি প্রাচীনকালের গ্রামীণ যোগাযোগের উপর ভিত্তি করে, যখন লোকেরা দূর থেকে চিৎকার করে কথা বলত।"
+  ],
+  "note": "এটি বাংলা সংস্কৃতিতে দৈনন্দিন দূরত্ব বোঝাতে ব্যবহৃত হয়, বিশেষ করে গ্রামাঞ্চলে।"
+}

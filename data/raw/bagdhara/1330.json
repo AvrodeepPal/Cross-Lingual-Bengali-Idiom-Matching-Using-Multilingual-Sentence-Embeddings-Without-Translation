@@ -1,0 +1,42 @@
+{
+  "id": "1330",
+  "idiom": "কটকেনা",
+  "alternative_idioms": [
+    "কটকিনা"
+  ],
+  "literal_meaning": "কড়া নিয়মকানুনের কঠোর অনুসরণ (কট=কড়া, কেনা=করা বা অনুসরণের রূপ)",
+  "figurative_meaning_bn": "নিয়মের কড়াকড়ি",
+  "figurative_meaning_en": "strict adherence to rules or fussiness over regulations",
+  "similar_in_english": [
+    "stickler for the rules",
+    "by the book"
+  ],
+  "example_sentences_in_bangla": [
+    "বাড়িতে এত কটকেনা যে ছেলেরা বাইরে খেয়ে আসে।",
+    "পুরনো দিনের কটকেনা এখনও অনেক পরিবারে দেখা যায়।"
+  ],
+  "example_sentences_in_english": [
+    "There's so much strictness at home that the boys eat outside.",
+    "The old-fashioned fuss over rules is still seen in many families."
+  ],
+  "usage_domain": [
+    "social norms",
+    "family traditions"
+  ],
+  "tags": [
+    "rules",
+    "purity",
+    "orthodoxy",
+    "Hindu customs"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in Rabindranath Tagore's works, where he questions why women endure excessive strictness regarding touch, food, and purity rituals."
+  ],
+  "note": "The idiom often pertains to orthodox Hindu practices emphasizing ritual purity."
+}

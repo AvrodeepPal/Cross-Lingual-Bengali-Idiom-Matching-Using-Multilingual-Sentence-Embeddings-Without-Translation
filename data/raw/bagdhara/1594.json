@@ -1,0 +1,41 @@
+{
+  "id": "1594",
+  "idiom": "কম-সে-কম",
+  "alternative_idioms": [
+    "অন্ততঃপক্ষে",
+    "কমপক্ষে",
+    "নিদেনপক্ষে"
+  ],
+  "literal_meaning": "কম থেকে কম (শব্দশঃ অর্থে সর্বনিম্ন পরিমাণ)",
+  "figurative_meaning_bn": "অন্ততঃপক্ষে, কমপক্ষে, নিদেনপক্ষে",
+  "figurative_meaning_en": "at least, at the minimum, to say the least",
+  "similar_in_english": [
+    "at least",
+    "at any rate"
+  ],
+  "example_sentences_in_bangla": [
+    "কম-সে-কম একশ টাকা চাই।",
+    "এটা কম-সে-কম সত্য।"
+  ],
+  "example_sentences_in_english": [
+    "I need at least 100 taka.",
+    "This is at least true."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "formal language"
+  ],
+  "tags": [
+    "minimum expression",
+    "quantifier",
+    "concessive phrase"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a colloquial way to express the bare minimum in Bengali speech, widely used in both spoken and written forms."
+}

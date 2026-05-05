@@ -1,0 +1,38 @@
+{
+  "id": "4396",
+  "idiom": "ছেঁদো কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাঙা বা ছেঁদো কথা",
+  "figurative_meaning_bn": "অসার/কপট/বাঁকা কথা",
+  "figurative_meaning_en": "empty, hypocritical, or evasive words",
+  "similar_in_english": [
+    "empty words",
+    "beat around the bush",
+    "hot air"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ছেঁদো কথায় কেউ আর বিশ্বাস করে না।",
+    "ছেঁদো কথা বলে সময় নষ্ট করো না।"
+  ],
+  "example_sentences_in_english": [
+    "No one believes his empty words anymore.",
+    "Don't waste time with evasive talk."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature"
+  ],
+  "tags": [
+    "deception",
+    "insincerity",
+    "evasiveness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural disdain for insincere communication in Bengali society."
+}

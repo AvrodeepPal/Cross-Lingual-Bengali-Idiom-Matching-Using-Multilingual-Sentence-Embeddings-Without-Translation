@@ -1,0 +1,37 @@
+{
+  "id": "4319",
+  "idiom": "ছারপোকা",
+  "alternative_idioms": [],
+  "literal_meaning": "ছোটো পোকা বা কীটপতঙ্গ",
+  "figurative_meaning_bn": "নগণ্য বা হীন ব্যক্তি",
+  "figurative_meaning_en": "Insignificant or lowly person",
+  "similar_in_english": [
+    "small fry",
+    "nobody"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এই সমাজে একটা ছারপোকা মাত্র।",
+    "এই ছারপোকার কথা কেউ শোনে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is just a small fry in this society.",
+    "Nobody listens to this nobody."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "derogatory"
+  ],
+  "tags": [
+    "insult",
+    "person",
+    "insignificance"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a small, insignificant insect commonly found in rural Bengal."
+}

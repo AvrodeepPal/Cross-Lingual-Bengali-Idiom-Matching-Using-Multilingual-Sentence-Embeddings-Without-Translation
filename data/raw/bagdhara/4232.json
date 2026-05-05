@@ -1,0 +1,42 @@
+{
+  "id": "4232",
+  "idiom": "ছত্রভঙ্গ",
+  "alternative_idioms": [],
+  "literal_meaning": "ছত্র (সৈন্যদলের ছাউনি বা ছায়া) ভাঙা; সৈন্যদলের ছত্রভঙ্গ",
+  "figurative_meaning_bn": "সারিভাঙা; দলে বিশৃঙ্খলা; সঙ্গীগণের পরস্পর থেকে বিচ্ছিন্ন",
+  "figurative_meaning_en": "Breaking of ranks; disorder in a group; separation of companions from each other",
+  "similar_in_english": [
+    "Break ranks",
+    "Scatter to the four winds",
+    "Fall apart"
+  ],
+  "example_sentences_in_bangla": [
+    "শত্রুর হঠাৎ আক্রমণে সৈন্যরা ছত্রভঙ্গ হয়ে পড়ল।",
+    "পার্টির অভ্যন্তরীণ কলহের কারণে সদস্যগণ ছত্রভঙ্গ হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The soldiers scattered in disarray after the sudden enemy attack.",
+    "The party members fell apart due to internal conflicts."
+  ],
+  "usage_domain": [
+    "military",
+    "politics",
+    "social groups"
+  ],
+  "tags": [
+    "disorder",
+    "separation",
+    "defeat",
+    "chaos"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "উদ্ভূত সামরিক পরিভাষা থেকে, যা যুদ্ধক্ষেত্রে সৈন্যদলের ছত্রভঙ্গ বর্ণনা করে; বাংলা সাহিত্যে ঐতিহাসিক যুদ্ধের প্রসঙ্গে ব্যবহৃত।"
+  ],
+  "note": "সংস্কৃত-ভিত্তিক শব্দ, বাংলা সাহিত্যে প্রচলিত"
+}

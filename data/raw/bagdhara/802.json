@@ -1,0 +1,44 @@
+{
+  "id": "802",
+  "idiom": "উধোর পিণ্ডি বুধোর ঘাড়ে",
+  "alternative_idioms": [
+    "উদোর পিণ্ডি বুধোর ঘাড়ে"
+  ],
+  "literal_meaning": "উধোরের পিণ্ডি (ভার বা দোষের টুকরো) বুধোর ঘাড়ে (বুধোর গলায় বা কাঁধে)",
+  "figurative_meaning_bn": "একজনের দায় বা দোষ অন্য একজন নিরীহ নির্দোষ ব্যক্তির ঘাড়ে অন্যায়ভাবে বা তার অজ্ঞাতসারে চাপানো",
+  "figurative_meaning_en": "Unjustly or without their knowledge, placing the responsibility or fault of one person on the neck of another innocent and blameless individual",
+  "similar_in_english": [
+    "Passing the buck",
+    "Scapegoating",
+    "Throwing someone under the bus"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার অপরাধের দোষ উধোর পিণ্ডি বুধোর ঘাড়ে চাপিয়ে দিয়ে পালিয়ে গেল।",
+    "এই কোম্পানিতে প্রায়ই বসের ভুল কর্মচারীর ঘাড়ে চাপানো হয়, ঠিক উধোর পিণ্ডি বুধোর ঘাড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "He shifted the blame for his crime onto an innocent colleague, just like putting Udhor's lump on Budho's neck.",
+    "In this office, the boss's mistakes are often dumped on employees, akin to placing Udhor's burden on Budho's shoulders."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Workplace disputes",
+    "Family arguments"
+  ],
+  "tags": [
+    "blame shifting",
+    "injustice",
+    "folklore",
+    "proverbial expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from Bengali folk traditions, where 'Udhor' and 'Budho' are archetypal characters representing a wrongdoer and an innocent elder, respectively, illustrating rural storytelling motifs."
+  ],
+  "note": "Variants like 'উদোর' reflect regional pronunciations in Bengali dialects."
+}

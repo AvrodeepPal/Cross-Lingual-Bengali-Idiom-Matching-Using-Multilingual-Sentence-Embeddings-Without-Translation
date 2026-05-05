@@ -1,0 +1,38 @@
+{
+  "id": "610",
+  "idiom": "আল্টিমেটাম",
+  "alternative_idioms": [],
+  "literal_meaning": "শেষ প্রস্তাব বা চূড়ান্ত শর্ত",
+  "figurative_meaning_bn": "শেষ সতর্কীকরণ",
+  "figurative_meaning_en": "Final warning",
+  "similar_in_english": [
+    "Ultimatum",
+    "Last warning"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকার বিদ্রোহীদের আল্টিমেটাম দিয়েছে।",
+    "বস কর্মচারীকে শেষবারের মতো আল্টিমেটাম জারি করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "The government has issued an ultimatum to the rebels.",
+    "The boss gave the employee a final ultimatum."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Diplomacy",
+    "Negotiations"
+  ],
+  "tags": [
+    "Warning",
+    "Threat",
+    "Final demand"
+  ],
+  "frequency": "Common",
+  "sentiment": "Negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is a loanword from English 'ultimatum', commonly used in formal Bengali contexts."
+}

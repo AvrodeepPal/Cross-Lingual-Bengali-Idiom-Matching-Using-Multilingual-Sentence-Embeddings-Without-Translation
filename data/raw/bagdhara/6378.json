@@ -1,0 +1,39 @@
+{
+  "id": "6378",
+  "idiom": "নাম জপা",
+  "alternative_idioms": [],
+  "literal_meaning": "নামের বারবার উচ্চারণ বা জপ",
+  "figurative_meaning_bn": "বারবার নাম উচ্চারণ করা; ইষ্টনাম নেওয়া",
+  "figurative_meaning_en": "Repeatedly uttering or chanting a name; adopting a cherished name for devotion",
+  "similar_in_english": [
+    "Chanting the name of God",
+    "Saying one's prayers repetitively"
+  ],
+  "example_sentences_in_bangla": [
+    "সকালে উঠে সে নাম জপা করে ভক্তি প্রকাশ করে।",
+    "ভক্তরা মন্দিরে জড়ো হয়ে নাম জপা শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "He chants the name every morning to express his devotion.",
+    "The devotees gathered in the temple and began chanting the name."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Spirituality"
+  ],
+  "tags": [
+    "devotion",
+    "prayer",
+    "bhakti"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from Vaishnava traditions in Bengal, where chanting the name of Lord Krishna or Hari is a key devotional practice popularized by saints like Chaitanya Mahaprabhu."
+  ],
+  "note": "Primarily used in Hindu devotional contexts in Bengali culture."
+}

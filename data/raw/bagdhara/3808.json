@@ -1,0 +1,39 @@
+{
+  "id": "3808",
+  "idiom": "চাকরি-বাকরি",
+  "alternative_idioms": [],
+  "literal_meaning": "চাকরি (job or service) এবং বাকরি (rhyming extension, implying similar employments)",
+  "figurative_meaning_bn": "কাজকর্ম; চাকরি বা ঐ ধরণের জীবিকা; জীবিকার সংস্থান",
+  "figurative_meaning_en": "Jobs and employment; work or means of livelihood",
+  "similar_in_english": [
+    "daily grind",
+    "rat race",
+    "bread and butter"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চাকরি-বাকরি নিয়ে সবসময় চিন্তা করে।",
+    "গ্রামে চাকরি-বাকরি খুঁজে পাওয়া কঠিন।"
+  ],
+  "example_sentences_in_english": [
+    "He is always worried about his job and employment.",
+    "Finding jobs and work in the village is difficult."
+  ],
+  "usage_domain": [
+    "employment",
+    "daily life",
+    "livelihood"
+  ],
+  "tags": [
+    "reduplicative",
+    "colloquial",
+    "work-related"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a rhyming idiom (sahachara shabda) commonly used in everyday Bengali speech to refer to occupational pursuits."
+}

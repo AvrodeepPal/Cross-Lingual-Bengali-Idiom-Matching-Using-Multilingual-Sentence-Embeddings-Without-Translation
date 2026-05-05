@@ -1,0 +1,40 @@
+{
+  "id": "3548",
+  "idiom": "ঘুঘু",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘুঘু (পাখি, যেমন ঘুঘু পাখি বা কবুতরের মতো)",
+  "figurative_meaning_bn": "প্রশংসার্থে দক্ষ বা বিশেষ অভিজ্ঞ",
+  "figurative_meaning_en": "Used in praise for someone skilled or exceptionally experienced",
+  "similar_in_english": [
+    "wise as an owl",
+    "sharp as a tack"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা সত্যিকারের ঘুঘু, সবকিছুতে দক্ষ।",
+    "তার বুদ্ধির প্রশংসায় আমরা তাকে ঘুঘু বলে ডাকি।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real ghughu, skilled in everything.",
+    "We call him ghughu to praise his intelligence."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "praise and compliments"
+  ],
+  "tags": [
+    "praise",
+    "intelligence",
+    "skill",
+    "experience"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References Bengali folk tradition where the dove (ghughu) symbolizes cleverness, as noted in works like those by Prathom Chowdhury."
+  ],
+  "note": "The idiom draws from the perceived wisdom of the dove in rural Bengali culture."
+}

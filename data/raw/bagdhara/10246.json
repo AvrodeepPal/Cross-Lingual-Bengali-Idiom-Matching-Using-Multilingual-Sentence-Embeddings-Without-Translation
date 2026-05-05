@@ -1,0 +1,42 @@
+{
+  "id": "10246",
+  "idiom": "হানাহানি",
+  "alternative_idioms": [
+    "মারামারি"
+  ],
+  "literal_meaning": "পরস্পর আঘাত বা হানা (mutual strikes or attacks)",
+  "figurative_meaning_bn": "দুটি বিরুদ্ধ পক্ষের পরস্পর যুদ্ধ বা আক্রমণ",
+  "figurative_meaning_en": "Mutual war or attack between two opposing parties",
+  "similar_in_english": [
+    "tit for tat",
+    "exchange blows",
+    "mutual combat"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই দলের মধ্যে হানাহানি চলছে।",
+    "রাজনৈতিক প্রতিদ্বন্দ্বিতায় হানাহানি শুরু হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's a clash going on between the two groups.",
+    "Mutual attacks have started in the political rivalry."
+  ],
+  "usage_domain": [
+    "conflict",
+    "politics",
+    "disputes"
+  ],
+  "tags": [
+    "violence",
+    "fight",
+    "opposition",
+    "aggression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in contexts of rivalry and is a staple in everyday Bengali conversation."
+}

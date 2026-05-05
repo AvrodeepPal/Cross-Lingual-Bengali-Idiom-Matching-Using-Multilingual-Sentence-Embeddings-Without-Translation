@@ -1,0 +1,40 @@
+{
+  "id": "9812",
+  "idiom": "সুস্থ দেহে সুস্থ মন",
+  "alternative_idioms": [],
+  "literal_meaning": "সুস্থ শরীরে সুস্থ মন",
+  "figurative_meaning_bn": "শারীরিক ব্যায়াম মানসিক এবং মনস্তাত্ত্বিক সুস্থতার একটি গুরুত্বপূর্ণ বা অপরিহার্য অংশ",
+  "figurative_meaning_en": "Physical exercise is an important or indispensable part of mental and psychological well-being",
+  "similar_in_english": [
+    "A sound mind in a sound body",
+    "Mens sana in corpore sano"
+  ],
+  "example_sentences_in_bangla": [
+    "সুস্থ দেহে সুস্থ মন থাকে, তাই প্রতিদিন ব্যায়াম করো।",
+    "যদি সুস্থ দেহে সুস্থ মন না থাকে, তাহলে জীবনের কোনো উপভোগ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "A healthy body leads to a healthy mind, so exercise daily.",
+    "Without a healthy body and a healthy mind, life has no enjoyment."
+  ],
+  "usage_domain": [
+    "Health",
+    "Wellness",
+    "Motivation"
+  ],
+  "tags": [
+    "mind-body connection",
+    "proverb",
+    "health advice"
+  ],
+  "frequency": "very common",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom is derived from the ancient Latin phrase 'Mens sana in corpore sano' coined by the Roman poet Juvenal in the 1st century AD, emphasizing the interdependence of physical and mental health."
+  ],
+  "note": "The idiom underscores the holistic approach to health prevalent in Bengali culture, often promoted in educational and wellness contexts."
+}

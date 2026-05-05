@@ -1,0 +1,49 @@
+{
+  "id": "6090",
+  "idiom": "ধুন্ধুমারকাণ্ড",
+  "alternative_idioms": [
+    "কুরুক্ষেত্রকাণ্ড",
+    "খণ্ডপ্রলয়",
+    "তুলকালামকাণ্ড",
+    "মহামারিকাণ্ড",
+    "লঙ্কাকাণ্ড"
+  ],
+  "literal_meaning": "পুরাণে বর্ণিত অসুর ধুন্ধুমারের কাণ্ড",
+  "figurative_meaning_bn": "উৎস-পুরাণে বর্ণিত অসুর; তুলকালাম কাণ্ড, প্রচণ্ড গোলমাল",
+  "figurative_meaning_en": "The demon Dhundhumara described in ancient Puranas; unprecedented chaos, tremendous uproar",
+  "similar_in_english": [
+    "all hell broke loose",
+    "pandemonium",
+    "mayhem"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় ধুন্ধুমারকাণ্ড চলছে, কেউ শান্তি দিতে পারছে না।",
+    "রাস্তায় ধুন্ধুমারকাণ্ড হয়ে গেছে, পুলিশ নিয়ন্ত্রণ করতে ব্যস্ত।"
+  ],
+  "example_sentences_in_english": [
+    "There's complete pandemonium in the meeting; no one can restore order.",
+    "The street turned into mayhem, with police struggling to control the chaos."
+  ],
+  "usage_domain": [
+    "chaos",
+    "disorder",
+    "uproar",
+    "politics"
+  ],
+  "tags": [
+    "mythological",
+    "destruction",
+    "uproar",
+    "figurative"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the demon Dhundhumara from Puranic texts, known for causing massive destruction and chaos, symbolizing catastrophic events."
+  ],
+  "note": "Idiom draws from Hindu mythology to describe extreme disorder."
+}

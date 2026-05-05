@@ -1,0 +1,41 @@
+{
+  "id": "5594",
+  "idiom": "থুম মেরে যাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হঠাৎ থুম শব্দ করে পড়ে যাওয়া বা ধসে পড়া",
+  "figurative_meaning_bn": "ভয়ে বা বিস্ময়ে অনড়, নির্বাক, নিশ্চল, বাক্যহীন হওয়া",
+  "figurative_meaning_en": "To become motionless, speechless, immobile, and at a loss for words due to fear or astonishment",
+  "similar_in_english": [
+    "Frozen in fear",
+    "Struck dumb",
+    "Dumbfounded",
+    "Paralyzed with shock"
+  ],
+  "example_sentences_in_bangla": [
+    "খবরটা শুনে সে থুম মেরে চুপ করে গেল।",
+    "ভূতের গল্প শুনে বাচ্চারা থুম মেরে যাওয়া অবস্থায় বসে রইল।"
+  ],
+  "example_sentences_in_english": [
+    "Upon hearing the news, he was struck dumb and sat motionless.",
+    "The children froze in astonishment after hearing the ghost story."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Emotional expressions",
+    "Literature"
+  ],
+  "tags": [
+    "fear",
+    "astonishment",
+    "speechlessness",
+    "immobility"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom uses onomatopoeia 'থুম' to vividly depict sudden stillness, common in oral Bengali traditions."
+}
