@@ -203,11 +203,13 @@ def build_triplets(bengali_df: pd.DataFrame,
 
     # Pre-build Hindi lookup dict: english_meaning → row (for speed)
     hindi_lookup = {}
-    if not hindi_df.empty and "english_meaning" in hindi_df.columns:
+    if not hindi_df.empty:
         for _, hr in hindi_df.iterrows():
-            key = clean(str(hr.get("english_meaning", ""))).lower()
+            # meaning_hi in your dataset IS the English meaning (figurative_meaning field)
+            key = clean(str(hr.get("meaning_hi", ""))).lower()
             if key:
                 hindi_lookup[key] = hr
+    print(f"    Hindi lookup built: {len(hindi_lookup)} entries")
 
     def find_best_hindi(english_meaning: str):
         """Find best matching Hindi idiom for a given English meaning."""
@@ -287,7 +289,8 @@ def build_triplets(bengali_df: pd.DataFrame,
                     "meaning_bn":  meaning_bn,
                     "idiom_en":    en_idiom,
                     "meaning_en":  en_meaning,
-                    "idiom_hi":    hi_row["idiom_hi"] if hi_row is not None else "",
+                    # "idiom_hi":    hi_row["idiom_hi"] if hi_row is not None else "",
+                    "idiom_hi": hi_row["idiom_hi"] if hi_row is not None and hi_score >= 1 else "",
                     "meaning_hi":  hi_row.get("meaning_hi", "") if hi_row is not None else "",
                     "bridge_text": meaning_en_bridge,
                     "confidence":  "HIGH",   # always high (direct mapping)
