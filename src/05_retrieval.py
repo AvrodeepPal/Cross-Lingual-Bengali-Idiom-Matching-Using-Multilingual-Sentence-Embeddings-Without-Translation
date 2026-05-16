@@ -156,13 +156,12 @@ def run_retrieval(model_key: str,
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# NEW: Monolingual self-retrieval (query in its own language)
+# CORRECTED Monolingual self-retrieval
 def run_self_retrieval(model_key: str,
                        bn_embs: np.ndarray,
                        bn_idioms: list) -> dict:
     """
-    For each Bengali idiom, check if its own embedding is retrieved as rank-1
-    when using itself as query (after excluding the query from the candidate pool).
+    For each Bengali idiom, query itself in the Bengali pool (without exclusion).
     Returns a metric dictionary with MRR, P@1, etc.
     """
     n = len(bn_idioms)
@@ -170,17 +169,10 @@ def run_self_retrieval(model_key: str,
 
     for i, src in enumerate(bn_idioms):
         query_vec = bn_embs[i]
-        # Compute similarities with all candidates
         scores = bn_embs @ query_vec          # (n,)
-        # Set the query's own score to -inf so it cannot be retrieved
-        scores[i] = -np.inf
+        # Find rank of the query itself (index i) in descending similarity
         ranked_idx = np.argsort(scores)[::-1]
-
-       
-        # Reusing scores without setting diagonal to -inf.
-        full_scores = bn_embs @ query_vec
-        ranked_idx = np.argsort(full_scores)[::-1]
-        correct_rank = 1  # always rank 1
+        correct_rank = int(np.where(ranked_idx == i)[0][0]) + 1   # rank starting at 1
         metric_input.append({"correct_rank": correct_rank})
 
     metrics = compute_metrics(metric_input)
@@ -210,11 +202,11 @@ if __name__ == "__main__":
     hi_idioms = hi_df[hi_col].fillna("").tolist()
     en_idioms = en_df[en_col].fillna("").tolist()
 
-    # --- Cross-lingual retrieval (mSBERT, LaBSE) ---
+    # --- Cross-lingual retrieval (mSBERT, LaBSE, XLM-R) ---
     all_details = []
     all_metrics = []
 
-    for model_key in MODELS:
+    for model_key in CROSS_MODELS:   # <-- FIX: use CROSS_MODELS
         print(f"[*] Running cross-lingual retrieval with {model_key}...")
         emb = load_embeddings(model_key)
 
@@ -240,7 +232,7 @@ if __name__ == "__main__":
     print("\n── Cross-Lingual Retrieval Metrics Summary ──────────────────")
     print(metrics_df.to_string(index=False))
 
-    # --- NEW: Monolingual self-retrieval (all models with Bengali embeddings) ---
+    # --- Monolingual self-retrieval (all models with Bengali embeddings) ---
     print("\n" + "=" * 60)
     print("  Monolingual Self-Retrieval (Sanity Check)")
     print("=" * 60 + "\n")
@@ -255,7 +247,7 @@ if __name__ == "__main__":
         bn_embs = np.load(emb_path)
         met = run_self_retrieval(model_key, bn_embs, bn_idioms)
         self_ret_metrics.append(met)
-        print(f"    {model_key}: MRR={met['MRR']:.4f}  P@1={met['P@1']:.4f} (always 1.0 if embeddings are consistent)")
+        print(f"    {model_key}: MRR={met['MRR']:.4f}  P@1={met['P@1']:.4f} (should be 1.0 if embeddings are consistent)")
 
     if self_ret_metrics:
         self_ret_df = pd.DataFrame(self_ret_metrics)[["model","lang_pair","n_queries","MRR","P@1","P@5","Hit@10"]]
