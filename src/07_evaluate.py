@@ -2,15 +2,13 @@
 STEP 7: Evaluation Aggregator
 ================================
 Pulls all results from Steps 4, 5, 6 into one unified evaluation report.
-
-*** NEW: Also loads monolingual similarity, retrieval, and clustering results
-    and includes them in the report and separate radar chart. ***
+Now includes XLM‑R in the comparisons.
 
 Outputs:
-  results/full_evaluation_report.csv      — all metrics in one table
-  results/plots/evaluation_radar.png      — radar chart: mSBERT vs LaBSE (cross-lingual)
-  results/plots/monolingual_radar.png     — radar chart: all models (Bengali-only)
-  results/plots/score_distributions.png   — similarity score histograms (cross-lingual only)
+  results/full_evaluation_report.csv
+  results/plots/evaluation_radar.png        (cross-lingual)
+  results/plots/monolingual_radar.png       (Bengali-only)
+  results/plots/score_distributions.png
 
 Run: python src/07_evaluate.py
 """
@@ -28,8 +26,10 @@ warnings.filterwarnings("ignore")
 RESULTS_DIR = Path("../results")
 PLOTS_DIR   = Path("../results/plots")
 PLOTS_DIR.mkdir(parents=True, exist_ok=True)
-MODELS      = ["mSBERT", "LaBSE"]                     # cross-lingual models
-ALL_MODELS  = ["mSBERT", "LaBSE", "BanglaBERT"]       # all models for monolingual
+# Models for cross-lingual radar (multilingual models)
+CROSS_MODELS = ["mSBERT", "LaBSE", "XLM-R"]
+# All models (including BanglaBERT) for monolingual radar
+ALL_MODELS   = ["mSBERT", "LaBSE", "XLM-R", "BanglaBERT"] 
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -77,15 +77,15 @@ def plot_score_distributions(sim_df: pd.DataFrame):
     Plots histograms of similarity scores for both models and both language pairs.
     """
     lang_pairs = sim_df["lang_pair"].unique()
-    fig, axes = plt.subplots(len(lang_pairs), 2, figsize=(14, 5 * len(lang_pairs)))
+    fig, axes = plt.subplots(len(lang_pairs), len(CROSS_MODELS), figsize=(7 * len(CROSS_MODELS), 5 * len(lang_pairs)))
     if len(lang_pairs) == 1:
         axes = [axes]
 
-    colours = {"mSBERT": "#2a9d8f", "LaBSE": "#e63946"}
+    colours = {"mSBERT": "#2a9d8f", "LaBSE": "#e63946", "XLM-R": "#f4a261"}
 
     for row_i, lp in enumerate(lang_pairs):
         subset = sim_df[sim_df["lang_pair"] == lp]
-        for col_i, model_key in enumerate(MODELS):
+        for col_i, model_key in enumerate(CROSS_MODELS):
             ax  = axes[row_i][col_i]
             col = f"{model_key}_score"
             if col not in subset.columns:
@@ -142,7 +142,7 @@ def plot_crosslingual_radar(report_df: pd.DataFrame):
     numeric_df = cross.groupby("model")[available].mean().reset_index()
 
     # Ensure we only have mSBERT and LaBSE
-    numeric_df = numeric_df[numeric_df["model"].isin(MODELS)]
+    numeric_df = numeric_df[numeric_df["model"].isin(CROSS_MODELS)]
 
     labels  = available
     N       = len(labels)
@@ -150,7 +150,7 @@ def plot_crosslingual_radar(report_df: pd.DataFrame):
     angles += angles[:1]
 
     fig, ax = plt.subplots(figsize=(8, 8), subplot_kw={"polar": True})
-    colours = {"mSBERT": "#2a9d8f", "LaBSE": "#e63946"}
+    colours = {"mSBERT": "#2a9d8f", "LaBSE": "#e63946", "XLM-R": "#f4a261"}
 
     for _, row in numeric_df.iterrows():
         values  = [row[m] for m in labels]
@@ -161,7 +161,7 @@ def plot_crosslingual_radar(report_df: pd.DataFrame):
 
     ax.set_thetagrids(np.degrees(angles[:-1]), labels, fontsize=10)
     ax.set_ylim(0, 1)
-    ax.set_title("Cross‑Lingual Comparison: mSBERT vs LaBSE\n(metrics averaged across language pairs)",
+    ax.set_title("Cross‑Lingual Comparison: Multilingual Models\n(metrics averaged across language pairs)",
                  size=13, pad=20)
     ax.legend(loc="upper right", bbox_to_anchor=(1.3, 1.1))
 
@@ -202,7 +202,7 @@ def plot_monolingual_radar(report_df: pd.DataFrame):
     angles += angles[:1]
 
     fig, ax = plt.subplots(figsize=(8, 8), subplot_kw={"polar": True})
-    colours = {"mSBERT": "#2a9d8f", "LaBSE": "#e63946", "BanglaBERT": "#6a4c93"}
+    colours = {"mSBERT": "#2a9d8f", "LaBSE": "#e63946", "XLM-R": "#f4a261", "BanglaBERT": "#6a4c93"}
 
     for _, row in numeric_df.iterrows():
         values  = [row[m] for m in labels]
@@ -235,7 +235,7 @@ def build_full_report(results: dict) -> pd.DataFrame:
         sim = results["similarity"]
         for lp in sim["lang_pair"].unique():
             sub = sim[sim["lang_pair"] == lp]
-            for m in MODELS:
+            for m in CROSS_MODELS:    # <-- was previously MODELS, now CROSS_MODELS
                 col = f"{m}_score"
                 if col not in sub.columns:
                     continue

@@ -2,10 +2,9 @@
 STEP 6: Cross-Lingual Clustering  +  Monolingual Bengali Clustering
 ======================================================================
 Cross-lingual: Clusters Bengali, Hindi, and English embeddings together
-  for mSBERT and LaBSE. Metrics: Silhouette, Purity, Triplet Cohesion.
+  for mSBERT, LaBSE, XLM-R. Metrics: Silhouette, Purity, Triplet Cohesion.
 Monolingual: Clusters only Bengali embeddings for all models (incl.
-  BanglaBERT) and computes silhouette score to assess how well the
-  model separates Bengali idioms internally.
+  BanglaBERT, XLM-R) and computes silhouette score.
 
 Outputs:
   results/cluster_assignments.csv       (cross-lingual per model)
@@ -26,7 +25,6 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-# Optional: UMAP is better than t-SNE for large datasets
 try:
     import umap
     HAS_UMAP = True
@@ -41,9 +39,9 @@ EMB_DIR       = Path("../results/embeddings")
 PLOTS_DIR.mkdir(parents=True, exist_ok=True)
 
 # Cross-lingual models (have bn, hi, en embeddings)
-CROSS_MODELS = ["mSBERT", "LaBSE"]
-# All models that have Bengali embeddings (incl. monolingual)
-ALL_BENGALI_MODELS = ["mSBERT", "LaBSE", "BanglaBERT"]
+CROSS_MODELS = ["mSBERT", "LaBSE", "XLM-R"]
+# All models that have Bengali embeddings
+ALL_BENGALI_MODELS = ["mSBERT", "LaBSE", "XLM-R", "BanglaBERT"]  
 
 
 # ─────────────────────────────────────────────────────────────────────────────
