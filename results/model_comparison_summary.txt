@@ -3,34 +3,34 @@
 =================================================================
 
 [1] CROSS‑LINGUAL SEMANTIC SIMILARITY
-  bn-en: mSBERT=0.3224  LaBSE=0.1526  → mSBERT wins
-  bn-hi: mSBERT=0.4692  LaBSE=0.1985  → mSBERT wins
-  [bn-en] No significant difference (p=nan)
-  [bn-hi] No significant difference (p=nan)
+  bn-en: mSBERT=0.4376  LaBSE=0.3878  → mSBERT wins
+  bn-hi: mSBERT=0.5629  LaBSE=0.2879  → mSBERT wins
+  [bn-en] Difference is statistically significant (t=7.9144, p=0.0)
+  [bn-hi] Difference is statistically significant (t=146.6739, p=0.0)
 
 [2] CROSS‑LINGUAL RETRIEVAL
-  MRR: mSBERT=0.0000  LaBSE=0.0000  → LaBSE wins
-  P@1: mSBERT=0.0000  LaBSE=0.0000  → LaBSE wins
-  P@5: mSBERT=0.0000  LaBSE=0.0000  → LaBSE wins
-  Hit@10: mSBERT=0.0000  LaBSE=0.0000  → LaBSE wins
+  MRR: mSBERT=0.0042  LaBSE=0.0115  → LaBSE wins
+  P@1: mSBERT=0.0016  LaBSE=0.0065  → LaBSE wins
+  P@5: mSBERT=0.0067  LaBSE=0.0180  → LaBSE wins
+  Hit@10: mSBERT=0.0130  LaBSE=0.0249  → LaBSE wins
 
 [3] CROSS‑LINGUAL CLUSTERING
-  silhouette: mSBERT=0.0618  LaBSE=0.0573  → mSBERT wins
-  purity: mSBERT=0.9676  LaBSE=0.9676  → LaBSE wins
-  triplet_cohesion: mSBERT=0.0000  LaBSE=0.0000  → LaBSE wins
+  silhouette: mSBERT=-0.0214  LaBSE=0.0424  → LaBSE wins
+  purity: mSBERT=0.9020  LaBSE=0.7453  → mSBERT wins
+  triplet_cohesion: mSBERT=0.0106  LaBSE=0.0176  → LaBSE wins
 
 [4] MONOLINGUAL BENGALI EVALUATION
-  Self‑similarity (mSBERT): 0.4696
-  Self‑similarity (LaBSE): 0.2879
-  Self‑similarity (BanglaBERT): 0.8662
+  Self‑similarity (mSBERT): 0.6806
+  Self‑similarity (LaBSE): 0.3296
+  Self‑similarity (BanglaBERT): 0.8309
     → Winner: BanglaBERT
-  Clustering silhouette (mSBERT): 0.2882
-  Clustering silhouette (LaBSE): 0.0951
-  Clustering silhouette (BanglaBERT): 0.3704
-    → Winner: BanglaBERT
+  Clustering silhouette (mSBERT): -0.0292
+  Clustering silhouette (LaBSE): 0.0487
+  Clustering silhouette (BanglaBERT): -0.0268
+    → Winner: LaBSE
 
 =================================================================
-  SCORE TALLY:  mSBERT=3  LaBSE=6  BanglaBERT=2
+  SCORE TALLY:  mSBERT=3  LaBSE=7  BanglaBERT=1
 
   OVERALL WINNER: LaBSE
 =================================================================

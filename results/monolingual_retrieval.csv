@@ -1,4 +1,4 @@
 model,lang_pair,n_queries,MRR,P@1,P@5,Hit@10
-mSBERT,bn-bn,6,1.0,1.0,1.0,1.0
-LaBSE,bn-bn,6,1.0,1.0,1.0,1.0
-BanglaBERT,bn-bn,6,1.0,1.0,1.0,1.0
+mSBERT,bn-bn,8873,1.0,1.0,1.0,1.0
+LaBSE,bn-bn,8873,1.0,1.0,1.0,1.0
+BanglaBERT,bn-bn,8873,1.0,1.0,1.0,1.0
