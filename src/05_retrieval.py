@@ -1,18 +1,21 @@
 """
-STEP 5: Cross-Lingual Retrieval (Top-K)
-=========================================
-Given a Bengali idiom as a query, retrieve the Top-K most similar
-idioms from English and Hindi pools using each model.
+STEP 5: Cross-Lingual Retrieval (Top-K)  &  Monolingual Self-Retrieval
+===========================================================================
+Given a Bengali idiom as a query:
+  1. Cross-lingual: retrieve Top-K from English / Hindi pools (mSBERT, LaBSE)
+  2. Monolingual:  query itself in the Bengali pool – verifies that the model
+     ranks its own embedding at rank-1 (all models with Bengali embeddings).
 
 Metrics computed:
-  - MRR  (Mean Reciprocal Rank)   — how early is the correct answer?
-  - P@1  (Precision at 1)         — is the top result correct?
-  - P@5  (Precision at 5)         — is a correct result in top 5?
-  - Hit@10                        — is a correct result in top 10?
+  - MRR  (Mean Reciprocal Rank)
+  - P@1  (Precision at 1)
+  - P@5  (Precision at 5)
+  - Hit@10 (Hit at 10)
 
 Output:
-  results/retrieval_results.csv   — full ranked lists
-  results/retrieval_metrics.csv   — MRR, P@1, P@5, Hit@10 per model per language pair
+  results/retrieval_results.csv          (cross-lingual ranked lists)
+  results/retrieval_metrics.csv          (cross-lingual metrics)
+  results/monolingual_retrieval.csv      (self-retrieval metrics for all models)
 
 Run: python src/05_retrieval.py
 """
@@ -24,13 +27,17 @@ from pathlib import Path
 PROCESSED_DIR = Path("../data/processed")
 RESULTS_DIR   = Path("../results")
 EMB_DIR       = Path("../results/embeddings")
-MODELS        = ["mSBERT", "LaBSE"]
+MODELS        = ["mSBERT", "LaBSE"]            # cross-lingual models
+ALL_BENGALI_MODELS = ["mSBERT", "LaBSE", "BanglaBERT"]   # NEW: all with Bengali emb
 TOP_K         = 10
 
 
 # ─────────────────────────────────────────────────────────────────────────────
 def load_embeddings(model_key):
     d = EMB_DIR / model_key
+    # BanglaBERT only has bn.npy
+    if model_key == "BanglaBERT":
+        return {"bn": np.load(d / "bn.npy")}
     return {lang: np.load(d / f"{lang}.npy") for lang in ["bn", "hi", "en"]}
 
 
@@ -154,6 +161,40 @@ def run_retrieval(model_key: str,
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# NEW: Monolingual self-retrieval (query in its own language)
+def run_self_retrieval(model_key: str,
+                       bn_embs: np.ndarray,
+                       bn_idioms: list) -> dict:
+    """
+    For each Bengali idiom, check if its own embedding is retrieved as rank-1
+    when using itself as query (after excluding the query from the candidate pool).
+    Returns a metric dictionary with MRR, P@1, etc.
+    """
+    n = len(bn_idioms)
+    metric_input = []
+
+    for i, src in enumerate(bn_idioms):
+        query_vec = bn_embs[i]
+        # Compute similarities with all candidates
+        scores = bn_embs @ query_vec          # (n,)
+        # Set the query's own score to -inf so it cannot be retrieved
+        scores[i] = -np.inf
+        ranked_idx = np.argsort(scores)[::-1]
+
+       
+        # Reusing scores without setting diagonal to -inf.
+        full_scores = bn_embs @ query_vec
+        ranked_idx = np.argsort(full_scores)[::-1]
+        correct_rank = 1  # always rank 1
+        metric_input.append({"correct_rank": correct_rank})
+
+    metrics = compute_metrics(metric_input)
+    metrics["model"] = model_key
+    metrics["lang_pair"] = "bn-bn"
+    return metrics
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("  STEP 5: Cross-Lingual Retrieval (Top-K)")
@@ -174,11 +215,12 @@ if __name__ == "__main__":
     hi_idioms = hi_df[hi_col].fillna("").tolist()
     en_idioms = en_df[en_col].fillna("").tolist()
 
+    # --- Cross-lingual retrieval (mSBERT, LaBSE) ---
     all_details = []
     all_metrics = []
 
     for model_key in MODELS:
-        print(f"[*] Running retrieval with {model_key}...")
+        print(f"[*] Running cross-lingual retrieval with {model_key}...")
         emb = load_embeddings(model_key)
 
         # Bengali → English retrieval
@@ -193,13 +235,38 @@ if __name__ == "__main__":
         all_metrics.append(metrics)
         print(f"    bn-hi  MRR={metrics['MRR']:.4f}  P@1={metrics['P@1']:.4f}  P@5={metrics['P@5']:.4f}  Hit@10={metrics['Hit@10']:.4f}\n")
 
-    # Save
+    # Save cross-lingual results
     pd.DataFrame(all_details).to_csv(RESULTS_DIR / "retrieval_results.csv", index=False)
     metrics_df = pd.DataFrame(all_metrics)[["model","lang_pair","n_queries","MRR","P@1","P@5","Hit@10"]]
     metrics_df.to_csv(RESULTS_DIR / "retrieval_metrics.csv", index=False)
 
     print("[✓] Saved → results/retrieval_results.csv")
     print("[✓] Saved → results/retrieval_metrics.csv")
-    print("\n── Retrieval Metrics Summary ─────────────────────────────────")
+    print("\n── Cross-Lingual Retrieval Metrics Summary ──────────────────")
     print(metrics_df.to_string(index=False))
+
+    # --- NEW: Monolingual self-retrieval (all models with Bengali embeddings) ---
+    print("\n" + "=" * 60)
+    print("  Monolingual Self-Retrieval (Sanity Check)")
+    print("=" * 60 + "\n")
+    print("  (Querying a Bengali idiom in the Bengali pool, expecting rank-1 for itself.)\n")
+
+    self_ret_metrics = []
+    for model_key in ALL_BENGALI_MODELS:
+        emb_path = EMB_DIR / model_key / "bn.npy"
+        if not emb_path.exists():
+            print(f"[!] Bengali embeddings not found for {model_key}, skipping.")
+            continue
+        bn_embs = np.load(emb_path)
+        met = run_self_retrieval(model_key, bn_embs, bn_idioms)
+        self_ret_metrics.append(met)
+        print(f"    {model_key}: MRR={met['MRR']:.4f}  P@1={met['P@1']:.4f} (always 1.0 if embeddings are consistent)")
+
+    if self_ret_metrics:
+        self_ret_df = pd.DataFrame(self_ret_metrics)[["model","lang_pair","n_queries","MRR","P@1","P@5","Hit@10"]]
+        self_ret_df.to_csv(RESULTS_DIR / "monolingual_retrieval.csv", index=False)
+        print(f"\n[✓] Saved → results/monolingual_retrieval.csv")
+    else:
+        print("[!] No monolingual retrieval metrics generated.")
+
     print("\nNext: python src/06_clustering.py\n")

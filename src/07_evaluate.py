@@ -3,10 +3,14 @@ STEP 7: Evaluation Aggregator
 ================================
 Pulls all results from Steps 4, 5, 6 into one unified evaluation report.
 
+*** NEW: Also loads monolingual similarity, retrieval, and clustering results
+    and includes them in the report and separate radar chart. ***
+
 Outputs:
-  results/full_evaluation_report.csv   — all metrics in one table
-  results/plots/evaluation_radar.png   — radar chart: mSBERT vs LaBSE
-  results/plots/score_distributions.png — similarity score histograms
+  results/full_evaluation_report.csv      — all metrics in one table
+  results/plots/evaluation_radar.png      — radar chart: mSBERT vs LaBSE (cross-lingual)
+  results/plots/monolingual_radar.png     — radar chart: all models (Bengali-only)
+  results/plots/score_distributions.png   — similarity score histograms (cross-lingual only)
 
 Run: python src/07_evaluate.py
 """
@@ -24,7 +28,8 @@ warnings.filterwarnings("ignore")
 RESULTS_DIR = Path("../results")
 PLOTS_DIR   = Path("../results/plots")
 PLOTS_DIR.mkdir(parents=True, exist_ok=True)
-MODELS      = ["mSBERT", "LaBSE"]
+MODELS      = ["mSBERT", "LaBSE"]                     # cross-lingual models
+ALL_MODELS  = ["mSBERT", "LaBSE", "BanglaBERT"]       # all models for monolingual
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -33,23 +38,39 @@ MODELS      = ["mSBERT", "LaBSE"]
 def load_all_results():
     results = {}
 
+    # Original cross-lingual similarity
     sim_path = RESULTS_DIR / "similarity_scores.csv"
     if sim_path.exists():
         results["similarity"] = pd.read_csv(sim_path)
 
+    # Cross-lingual retrieval
     ret_path = RESULTS_DIR / "retrieval_metrics.csv"
     if ret_path.exists():
         results["retrieval"] = pd.read_csv(ret_path)
 
+    # Cross-lingual clustering
     clu_path = RESULTS_DIR / "clustering_metrics.csv"
     if clu_path.exists():
         results["clustering"] = pd.read_csv(clu_path)
+
+    # NEW: Monolingual files
+    mono_sim_path = RESULTS_DIR / "monolingual_similarity.csv"
+    if mono_sim_path.exists():
+        results["mono_sim"] = pd.read_csv(mono_sim_path)
+
+    mono_ret_path = RESULTS_DIR / "monolingual_retrieval.csv"
+    if mono_ret_path.exists():
+        results["mono_ret"] = pd.read_csv(mono_ret_path)
+
+    mono_clu_path = RESULTS_DIR / "monolingual_clustering.csv"
+    if mono_clu_path.exists():
+        results["mono_clu"] = pd.read_csv(mono_clu_path)
 
     return results
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Similarity distribution plots
+# Similarity distribution plots (cross-lingual only)
 # ─────────────────────────────────────────────────────────────────────────────
 def plot_score_distributions(sim_df: pd.DataFrame):
     """
@@ -88,28 +109,45 @@ def plot_score_distributions(sim_df: pd.DataFrame):
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Radar chart comparing both models across all metrics
+# Cross‑lingual radar chart (mSBERT vs LaBSE)
 # ─────────────────────────────────────────────────────────────────────────────
-def plot_radar_chart(report_df: pd.DataFrame):
+def plot_crosslingual_radar(report_df: pd.DataFrame):
     """
-    Radar chart: each spoke is one metric, each line is one model.
+    Radar chart comparing mSBERT and LaBSE across cross‑lingual metrics.
     """
-    # Metrics to show on radar (all should be 0–1 scale)
-    metric_cols = [c for c in report_df.columns
-                   if c not in ("model", "lang_pair", "n_queries", "n_idioms",
-                                "n_clusters", "metric_type")]
+    # Select only rows that are cross‑lingual (metric_type = similarity, retrieval, clustering)
+    cross = report_df[report_df["lang_pair"].isin(["bn-en", "bn-hi", "all"])].copy()
 
-    if not metric_cols:
-        print("[!] No numeric metrics found for radar chart.")
+    # Define which metrics to plot (0–1 scale)
+    metric_cols = [
+        "mean_cosine",  # similarity (we'll average over lang pairs)
+        "MRR",
+        "P@1",
+        "P@5",
+        "Hit@10",
+        "silhouette",
+        "purity",
+        "triplet_cohesion",
+    ]
+
+    # Keep only metrics that exist in the dataframe
+    available = [col for col in metric_cols if col in cross.columns]
+    if not available:
+        print("[!] No cross‑lingual metrics found for radar chart.")
         return
 
     # Average across language pairs per model
-    numeric_df = report_df.groupby("model")[metric_cols].mean().reset_index()
+    # For similarity, we have one row per model per lang_pair; we'll average 'mean_cosine'
+    # For retrieval, we'll average over lang pairs. For clustering, lang_pair='all', just take it.
+    numeric_df = cross.groupby("model")[available].mean().reset_index()
 
-    labels  = metric_cols
+    # Ensure we only have mSBERT and LaBSE
+    numeric_df = numeric_df[numeric_df["model"].isin(MODELS)]
+
+    labels  = available
     N       = len(labels)
     angles  = np.linspace(0, 2 * np.pi, N, endpoint=False).tolist()
-    angles += angles[:1]  # close the polygon
+    angles += angles[:1]
 
     fig, ax = plt.subplots(figsize=(8, 8), subplot_kw={"polar": True})
     colours = {"mSBERT": "#2a9d8f", "LaBSE": "#e63946"}
@@ -123,7 +161,7 @@ def plot_radar_chart(report_df: pd.DataFrame):
 
     ax.set_thetagrids(np.degrees(angles[:-1]), labels, fontsize=10)
     ax.set_ylim(0, 1)
-    ax.set_title("Model Comparison: mSBERT vs LaBSE\n(all metrics, averaged across language pairs)",
+    ax.set_title("Cross‑Lingual Comparison: mSBERT vs LaBSE\n(metrics averaged across language pairs)",
                  size=13, pad=20)
     ax.legend(loc="upper right", bbox_to_anchor=(1.3, 1.1))
 
@@ -131,7 +169,59 @@ def plot_radar_chart(report_df: pd.DataFrame):
     plt.tight_layout()
     plt.savefig(path, dpi=150)
     plt.close()
-    print(f"[✓] Radar chart saved → {path}")
+    print(f"[✓] Cross‑lingual radar chart saved → {path}")
+
+
+# NEW: Monolingual radar chart (all models with Bengali embeddings)
+def plot_monolingual_radar(report_df: pd.DataFrame):
+    """
+    Radar chart for monolingual Bengali metrics, comparing all models
+    that have Bengali embeddings (mSBERT, LaBSE, BanglaBERT).
+    """
+    # Select monolingual rows
+    mono = report_df[report_df["lang_pair"].isin(["bn-bn", "bn"])].copy()
+
+    # Metrics we want: mean_cosine (from monolingual similarity), silhouette (from monolingual clustering)
+    # Skip retrieval because it's a trivial sanity check (all perfect)
+    metric_cols = [
+        "mean_cosine",   # self-similarity
+        "silhouette",     # monolingual clustering
+    ]
+
+    available = [col for col in metric_cols if col in mono.columns]
+    if not available:
+        print("[!] No monolingual metrics found for radar chart.")
+        return
+
+    # Some models may have missing values, but we only plot what's there
+    numeric_df = mono.groupby("model")[available].mean().reset_index()
+
+    labels  = available
+    N       = len(labels)
+    angles  = np.linspace(0, 2 * np.pi, N, endpoint=False).tolist()
+    angles += angles[:1]
+
+    fig, ax = plt.subplots(figsize=(8, 8), subplot_kw={"polar": True})
+    colours = {"mSBERT": "#2a9d8f", "LaBSE": "#e63946", "BanglaBERT": "#6a4c93"}
+
+    for _, row in numeric_df.iterrows():
+        values  = [row[m] for m in labels]
+        values += values[:1]
+        colour  = colours.get(row["model"], "#555")
+        ax.plot(angles, values, colour, linewidth=2, label=row["model"])
+        ax.fill(angles, values, colour, alpha=0.15)
+
+    ax.set_thetagrids(np.degrees(angles[:-1]), labels, fontsize=10)
+    ax.set_ylim(0, 1)
+    ax.set_title("Monolingual Bengali Comparison\n(Self‑Similarity & Clustering Silhouette)",
+                 size=13, pad=20)
+    ax.legend(loc="upper right", bbox_to_anchor=(1.3, 1.1))
+
+    path = PLOTS_DIR / "monolingual_radar.png"
+    plt.tight_layout()
+    plt.savefig(path, dpi=150)
+    plt.close()
+    print(f"[✓] Monolingual radar chart saved → {path}")
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -140,7 +230,7 @@ def plot_radar_chart(report_df: pd.DataFrame):
 def build_full_report(results: dict) -> pd.DataFrame:
     rows = []
 
-    # ── Similarity stats ──────────────────────────────────────────────────────
+    # ── Cross‑lingual similarity stats ────────────────────────────────────────
     if "similarity" in results:
         sim = results["similarity"]
         for lp in sim["lang_pair"].unique():
@@ -159,7 +249,7 @@ def build_full_report(results: dict) -> pd.DataFrame:
                     "median_cosine": round(scores.median(), 4),
                 })
 
-    # ── Retrieval metrics ─────────────────────────────────────────────────────
+    # ── Cross‑lingual retrieval metrics ───────────────────────────────────────
     if "retrieval" in results:
         for _, row in results["retrieval"].iterrows():
             rows.append({
@@ -172,7 +262,7 @@ def build_full_report(results: dict) -> pd.DataFrame:
                 "Hit@10":      row.get("Hit@10", np.nan),
             })
 
-    # ── Clustering metrics ────────────────────────────────────────────────────
+    # ── Cross‑lingual clustering metrics ──────────────────────────────────────
     if "clustering" in results:
         for _, row in results["clustering"].iterrows():
             rows.append({
@@ -182,6 +272,42 @@ def build_full_report(results: dict) -> pd.DataFrame:
                 "silhouette":       row.get("silhouette", np.nan),
                 "purity":           row.get("purity", np.nan),
                 "triplet_cohesion": row.get("triplet_cohesion", np.nan),
+            })
+
+    # ── NEW: Monolingual Bengali similarity ───────────────────────────────────
+    if "mono_sim" in results:
+        mono_sim = results["mono_sim"]
+        for _, row in mono_sim.iterrows():
+            rows.append({
+                "model":       row["model"],
+                "lang_pair":   "bn-bn",       # indicates monolingual
+                "metric_type": "monolingual_similarity",
+                "mean_cosine": row.get("mean_cosine", np.nan),
+            })
+
+    # ── NEW: Monolingual retrieval (sanity check – all should be 1.0) ─────────
+    if "mono_ret" in results:
+        mono_ret = results["mono_ret"]
+        for _, row in mono_ret.iterrows():
+            rows.append({
+                "model":       row["model"],
+                "lang_pair":   "bn-bn",
+                "metric_type": "monolingual_retrieval",
+                "MRR":         row.get("MRR", np.nan),
+                "P@1":         row.get("P@1", np.nan),
+                "P@5":         row.get("P@5", np.nan),
+                "Hit@10":      row.get("Hit@10", np.nan),
+            })
+
+    # ── NEW: Monolingual Bengali clustering ───────────────────────────────────
+    if "mono_clu" in results:
+        mono_clu = results["mono_clu"]
+        for _, row in mono_clu.iterrows():
+            rows.append({
+                "model":       row["model"],
+                "lang_pair":   "bn",
+                "metric_type": "clustering_monolingual",
+                "silhouette":  row.get("silhouette", np.nan),
             })
 
     report_df = pd.DataFrame(rows)
@@ -205,10 +331,14 @@ if __name__ == "__main__":
     pd.set_option("display.width", 120)
     print(report_df.fillna("").to_string(index=False))
 
-    # Plots
+    # Cross‑lingual similarity distributions (unchanged)
     if "similarity" in results:
         plot_score_distributions(results["similarity"])
 
-    plot_radar_chart(report_df)
+    # Cross‑lingual radar
+    plot_crosslingual_radar(report_df)
+
+    # NEW: Monolingual radar
+    plot_monolingual_radar(report_df)
 
     print("\nNext: python src/08_compare_models.py\n")

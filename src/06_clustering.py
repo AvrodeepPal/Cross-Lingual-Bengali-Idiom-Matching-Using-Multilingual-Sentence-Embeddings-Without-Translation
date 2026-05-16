@@ -1,19 +1,17 @@
 """
-STEP 6: Cross-Lingual Clustering
-==================================
-Clusters all Bengali, Hindi, and English idiom embeddings together.
-If a model truly understands cross-lingual semantics, same-meaning idioms
-from different languages should fall in the same cluster.
-
-Metrics:
-  - Silhouette Score     — how well-separated are clusters overall?
-  - Cluster Purity       — what % of each cluster is one language/topic?
-  - Cross-lingual Cohesion — are triplet members in the same cluster?
+STEP 6: Cross-Lingual Clustering  +  Monolingual Bengali Clustering
+======================================================================
+Cross-lingual: Clusters Bengali, Hindi, and English embeddings together
+  for mSBERT and LaBSE. Metrics: Silhouette, Purity, Triplet Cohesion.
+Monolingual: Clusters only Bengali embeddings for all models (incl.
+  BanglaBERT) and computes silhouette score to assess how well the
+  model separates Bengali idioms internally.
 
 Outputs:
-  results/cluster_assignments.csv   — which cluster each idiom was assigned to
-  results/clustering_metrics.csv    — Silhouette + Purity per model
-  results/plots/clustering_*.png    — 2D UMAP/t-SNE visualisations
+  results/cluster_assignments.csv       (cross-lingual per model)
+  results/clustering_metrics.csv        (cross-lingual metrics)
+  results/monolingual_clustering.csv    (Bengali-only silhouette)
+  results/plots/clustering_*.png        (visualisations for cross-lingual)
 
 Run: python src/06_clustering.py
 """
@@ -21,7 +19,7 @@ Run: python src/06_clustering.py
 import numpy as np
 import pandas as pd
 from pathlib import Path
-from sklearn.cluster import KMeans, AgglomerativeClustering
+from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import LabelEncoder
 import matplotlib
@@ -41,12 +39,18 @@ RESULTS_DIR   = Path("../results")
 PLOTS_DIR     = Path("../results/plots")
 EMB_DIR       = Path("../results/embeddings")
 PLOTS_DIR.mkdir(parents=True, exist_ok=True)
-MODELS        = ["mSBERT", "LaBSE"]
+
+# Cross-lingual models (have bn, hi, en embeddings)
+CROSS_MODELS = ["mSBERT", "LaBSE"]
+# All models that have Bengali embeddings (incl. monolingual)
+ALL_BENGALI_MODELS = ["mSBERT", "LaBSE", "BanglaBERT"]
 
 
 # ─────────────────────────────────────────────────────────────────────────────
 def load_embeddings(model_key):
     d = EMB_DIR / model_key
+    if model_key == "BanglaBERT":
+        return {"bn": np.load(d / "bn.npy")}
     return {lang: np.load(d / f"{lang}.npy") for lang in ["bn", "hi", "en"]}
 
 
@@ -105,12 +109,12 @@ def triplet_cohesion(triplet_df: pd.DataFrame,
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-def run_clustering(model_key: str,
-                   emb: dict,
-                   bn_idioms: list,
-                   hi_idioms: list,
-                   en_idioms: list,
-                   triplet_df: pd.DataFrame) -> dict:
+def run_crosslingual_clustering(model_key: str,
+                                emb: dict,
+                                bn_idioms: list,
+                                hi_idioms: list,
+                                en_idioms: list,
+                                triplet_df: pd.DataFrame) -> dict:
     """
     Runs K-Means clustering on the combined embedding space of all three languages.
     """
@@ -196,6 +200,30 @@ def run_clustering(model_key: str,
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# NEW: Monolingual Bengali clustering (all models with Bengali embeddings)
+def run_monolingual_clustering(model_key: str,
+                               bn_embs: np.ndarray,
+                               n_clusters: int = None) -> float:
+    """
+    Cluster only Bengali embeddings and return silhouette score.
+    """
+    n = len(bn_embs)
+    if n < 2:
+        print(f"  [{model_key}] Not enough Bengali idioms for clustering.")
+        return np.nan
+
+    if n_clusters is None:
+        n_clusters = max(2, n // 10)
+    print(f"  [{model_key}] Monolingual clustering {n} Bengali idioms into {n_clusters} clusters...")
+
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
+    labels = kmeans.fit_predict(bn_embs)
+    sil = silhouette_score(bn_embs, labels, metric="cosine",
+                           sample_size=min(1000, n))
+    return sil
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("  STEP 6: Cross-Lingual Clustering")
@@ -214,24 +242,60 @@ if __name__ == "__main__":
     hi_idioms = hi_df[hi_col].fillna("").tolist()
     en_idioms = en_df[en_col].fillna("").tolist()
 
+    # --- Cross-lingual clustering (only mSBERT and LaBSE) ---
     all_assign = []
     all_metrics = []
 
-    for model_key in MODELS:
+    for model_key in CROSS_MODELS:
         print(f"\n── {model_key} ──────────────────────────────────────────────")
         emb    = load_embeddings(model_key)
-        result = run_clustering(model_key, emb, bn_idioms, hi_idioms, en_idioms, triplet_df)
+        result = run_crosslingual_clustering(model_key, emb,
+                                             bn_idioms, hi_idioms, en_idioms,
+                                             triplet_df)
         all_assign.append(result.pop("assign_df"))
         all_metrics.append(result)
 
-    # Save
+    # Save cross-lingual results
     pd.concat(all_assign, ignore_index=True).to_csv(
         RESULTS_DIR / "cluster_assignments.csv", index=False)
-    metrics_df = pd.DataFrame(all_metrics)
-    metrics_df.to_csv(RESULTS_DIR / "clustering_metrics.csv", index=False)
+    cross_metrics_df = pd.DataFrame(all_metrics)
+    cross_metrics_df.to_csv(RESULTS_DIR / "clustering_metrics.csv", index=False)
 
     print("\n[✓] Saved → results/cluster_assignments.csv")
     print("[✓] Saved → results/clustering_metrics.csv")
-    print("\n── Clustering Metrics Summary ────────────────────────────────")
-    print(metrics_df[["model","n_idioms","n_clusters","silhouette","purity","triplet_cohesion"]].to_string(index=False))
+    print("\n── Cross-Lingual Clustering Metrics Summary ───────────────────")
+    print(cross_metrics_df[["model","n_idioms","n_clusters","silhouette","purity","triplet_cohesion"]].to_string(index=False))
+
+    # --- NEW: Monolingual Bengali clustering (all models) ---
+    print("\n" + "=" * 60)
+    print("  Monolingual Bengali Clustering")
+    print("=" * 60 + "\n")
+
+    mono_metrics = []
+    for model_key in ALL_BENGALI_MODELS:
+        emb_path = EMB_DIR / model_key / "bn.npy"
+        if not emb_path.exists():
+            print(f"[!] {model_key}: Bengali embeddings not found, skipping.")
+            continue
+        bn_embs = np.load(emb_path)
+        sil = run_monolingual_clustering(model_key, bn_embs)
+        mono_metrics.append({
+            "model":        model_key,
+            "lang_pair":    "bn",
+            "silhouette":   round(sil, 4) if not np.isnan(sil) else sil,
+        })
+        if not np.isnan(sil):
+            print(f"    Silhouette: {sil:.4f}")
+        else:
+            print(f"    Silhouette: N/A")
+
+    if mono_metrics:
+        mono_df = pd.DataFrame(mono_metrics)
+        mono_df.to_csv(RESULTS_DIR / "monolingual_clustering.csv", index=False)
+        print(f"\n[✓] Saved → results/monolingual_clustering.csv")
+        print("\n── Monolingual Clustering Metrics Summary ───────────────────")
+        print(mono_df.to_string(index=False))
+    else:
+        print("[!] No monolingual clustering metrics generated.")
+
     print("\nNext: python src/07_evaluate.py\n")
