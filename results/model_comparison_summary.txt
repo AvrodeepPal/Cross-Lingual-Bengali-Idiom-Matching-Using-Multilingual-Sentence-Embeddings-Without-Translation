@@ -2,34 +2,43 @@
   MODEL COMPARISON VERDICT
 =================================================================
 
-[1] SEMANTIC SIMILARITY (Mean Cosine Score)
-  bn-en: mSBERT=0.4376  LaBSE=0.3878  → mSBERT wins
-  bn-hi: mSBERT=0.5467  LaBSE=0.3105  → mSBERT wins
-  [bn-en] Difference is statistically significant (t=7.9144, p=0.0)
-  [bn-hi] Difference is statistically significant (t=103.4623, p=0.0)
+[1] CROSS‑LINGUAL SEMANTIC SIMILARITY
+  bn-en: mSBERT=0.3224  LaBSE=0.1526  → mSBERT wins
+  bn-hi: mSBERT=0.4692  LaBSE=0.1985  → mSBERT wins
+  [bn-en] No significant difference (p=nan)
+  [bn-hi] No significant difference (p=nan)
 
-[2] RETRIEVAL METRICS
-  MRR: mSBERT=0.0134  LaBSE=0.0186  → LaBSE wins
-  P@1: mSBERT=0.0058  LaBSE=0.0092  → LaBSE wins
-  P@5: mSBERT=0.0234  LaBSE=0.0295  → LaBSE wins
-  Hit@10: mSBERT=0.0370  LaBSE=0.0504  → LaBSE wins
+[2] CROSS‑LINGUAL RETRIEVAL
+  MRR: mSBERT=0.0000  LaBSE=0.0000  → LaBSE wins
+  P@1: mSBERT=0.0000  LaBSE=0.0000  → LaBSE wins
+  P@5: mSBERT=0.0000  LaBSE=0.0000  → LaBSE wins
+  Hit@10: mSBERT=0.0000  LaBSE=0.0000  → LaBSE wins
 
-[3] CLUSTERING METRICS
-  silhouette: mSBERT=-0.0225  LaBSE=0.0330  → LaBSE wins
-  purity: mSBERT=0.9164  LaBSE=0.7511  → mSBERT wins
-  triplet_cohesion: mSBERT=0.0115  LaBSE=0.0000  → mSBERT wins
+[3] CROSS‑LINGUAL CLUSTERING
+  silhouette: mSBERT=0.0618  LaBSE=0.0573  → mSBERT wins
+  purity: mSBERT=0.9676  LaBSE=0.9676  → LaBSE wins
+  triplet_cohesion: mSBERT=0.0000  LaBSE=0.0000  → LaBSE wins
+
+[4] MONOLINGUAL BENGALI EVALUATION
+  Self‑similarity (mSBERT): 0.4696
+  Self‑similarity (LaBSE): 0.2879
+  Self‑similarity (BanglaBERT): 0.8662
+    → Winner: BanglaBERT
+  Clustering silhouette (mSBERT): 0.2882
+  Clustering silhouette (LaBSE): 0.0951
+  Clustering silhouette (BanglaBERT): 0.3704
+    → Winner: BanglaBERT
 
 =================================================================
-  SCORE TALLY:  mSBERT=4  LaBSE=5
+  SCORE TALLY:  mSBERT=3  LaBSE=6  BanglaBERT=2
 
   OVERALL WINNER: LaBSE
 =================================================================
 
-  INTERPRETATION:
-  LaBSE (Language-Agnostic BERT Sentence Embeddings) outperforms mSBERT
-  on this cross-lingual idiom task. This is expected because LaBSE was
-  specifically trained to align representations across 109 languages
-  using a dual-encoder framework with cross-lingual transfer. Its training
-  objective directly optimised for cross-lingual similarity, making it
-  better suited for low-resource language pairs like Bengali–Hindi and
-  Bengali–English in an idiomatic context.
+  CROSS‑LINGUAL WINNER: LaBSE
+
+  INTERPRETATION (cross‑lingual):
+  LaBSE (Language‑Agnostic BERT Sentence Embeddings) performs better for
+  cross‑lingual idiom matching, which aligns with its dual‑encoder training
+  specifically designed for cross‑lingual alignment. mSBERT, while strong
+  on paraphrases, may not align languages as tightly as LaBSE.
