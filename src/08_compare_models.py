@@ -1,12 +1,7 @@
 """
 STEP 8: Final Model Comparison
 ================================
-Produces the final comparison between mSBERT, LaBSE, and BanglaBERT with:
-  - Cross‑lingual side‑by‑side metrics (similarity, retrieval, clustering)
-  - Monolingual Bengali metrics (self‑similarity, clustering silhouette)
-  - Bar charts for each group
-  - Statistical significance test on cross‑lingual similarity scores
-  - A written verdict: which model is better and why
+Now compares mSBERT, LaBSE, XLM-R and BanglaBERT.
 
 Output:
   results/plots/final_comparison_crosslingual.png
@@ -30,12 +25,17 @@ RESULTS_DIR = Path("../results")
 PLOTS_DIR   = Path("../results/plots")
 PLOTS_DIR.mkdir(parents=True, exist_ok=True)
 
-# Cross‑lingual models (those with hi/en embeddings)
-CROSS_MODELS = ["mSBERT", "LaBSE"]
-# All models (including monolingual BanglaBERT)
-ALL_MODELS   = ["mSBERT", "LaBSE", "BanglaBERT"]
-COLOURS = {"mSBERT": "#2a9d8f", "LaBSE": "#e63946", "BanglaBERT": "#6a4c93"}
+# Cross‑lingual models (multilingual)
+CROSS_MODELS = ["mSBERT", "LaBSE", "XLM-R"]
+# All models (including BanglaBERT)
+ALL_MODELS   = ["mSBERT", "LaBSE", "XLM-R", "BanglaBERT"]
 
+COLOURS = {
+    "mSBERT": "#2a9d8f",
+    "LaBSE": "#e63946",
+    "XLM-R": "#f4a261",
+    "BanglaBERT": "#6a4c93",
+}
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Load all results (cross‑lingual + monolingual)

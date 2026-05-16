@@ -2,15 +2,9 @@
 STEP 5: Cross-Lingual Retrieval (Top-K)  &  Monolingual Self-Retrieval
 ===========================================================================
 Given a Bengali idiom as a query:
-  1. Cross-lingual: retrieve Top-K from English / Hindi pools (mSBERT, LaBSE)
+  1. Cross-lingual: retrieve Top-K from English / Hindi pools (mSBERT, LaBSE, XLM-R)
   2. Monolingual:  query itself in the Bengali pool – verifies that the model
      ranks its own embedding at rank-1 (all models with Bengali embeddings).
-
-Metrics computed:
-  - MRR  (Mean Reciprocal Rank)
-  - P@1  (Precision at 1)
-  - P@5  (Precision at 5)
-  - Hit@10 (Hit at 10)
 
 Output:
   results/retrieval_results.csv          (cross-lingual ranked lists)
@@ -27,9 +21,10 @@ from pathlib import Path
 PROCESSED_DIR = Path("../data/processed")
 RESULTS_DIR   = Path("../results")
 EMB_DIR       = Path("../results/embeddings")
-MODELS        = ["mSBERT", "LaBSE"]            # cross-lingual models
-ALL_BENGALI_MODELS = ["mSBERT", "LaBSE", "BanglaBERT"]   # NEW: all with Bengali emb
-TOP_K         = 10
+
+CROSS_MODELS = ["mSBERT", "LaBSE", "XLM-R"]                    # <-- NEW
+ALL_BENGALI_MODELS = ["mSBERT", "LaBSE", "XLM-R", "BanglaBERT"]   # <-- NEW
+TOP_K = 10
 
 
 # ─────────────────────────────────────────────────────────────────────────────

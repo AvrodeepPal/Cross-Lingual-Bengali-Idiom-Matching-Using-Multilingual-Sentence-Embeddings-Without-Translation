@@ -1,12 +1,13 @@
 """
 STEP 3: Embedder
 =================
-Generates embeddings for all idioms using THREE models:
+Generates embeddings for all idioms using FOUR models:
   Model 1: mSBERT    → paraphrase-multilingual-mpnet-base-v2
   Model 2: LaBSE     → sentence-transformers/LaBSE
-  Model 3: BanglaBERT → csebuetnlp/banglabert  (Bengali only)
+  Model 3: XLM-R     → FacebookAI/xlm-roberta-base  (multilingual)
+  Model 4: BanglaBERT → csebuetnlp/banglabert  (Bengali only)
 
-Both mSBERT & LaBSE embed Bengali, Hindi, and English into the SAME vector space.
+mSBERT, LaBSE & XLM-R embed Bengali, Hindi, and English into the SAME vector space.
 BanglaBERT is monolingual (Bengali only) and is NOT used for cross-lingual tasks.
 
 Embeddings are saved as .npy files.
@@ -23,10 +24,11 @@ PROCESSED_DIR = Path("../data/processed")
 RESULTS_DIR   = Path("../results/embeddings")
 RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
-# Cross-lingual models
+# Cross-lingual models (embed all three languages)
 MULTILINGUAL_MODELS = {
     "mSBERT": "paraphrase-multilingual-mpnet-base-v2",
     "LaBSE":  "sentence-transformers/LaBSE",
+    "XLM-R":  "FacebookAI/xlm-roberta-base",
 }
 
 # Monolingual Bengali model (only used for Bengali)
@@ -116,7 +118,7 @@ def load_idiom_lists():
 # ─────────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     print("\n" + "=" * 60)
-    print("  STEP 3: Generating Embeddings  (mSBERT, LaBSE & BanglaBERT)")
+    print("  STEP 3: Generating Embeddings  (mSBERT, LaBSE, XLM-R & BanglaBERT)")
     print("=" * 60 + "\n")
 
     bn_texts, hi_texts, en_texts, *_ = load_idiom_lists()
