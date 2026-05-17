@@ -91,11 +91,11 @@ def significance_test(sim_df: pd.DataFrame) -> dict:
 # ─────────────────────────────────────────────────────────────────────────────
 def plot_crosslingual_comparison(sim_df, ret_df, clu_df):
     """
-    Three subplots: similarity, retrieval, clustering – only mSBERT vs LaBSE.
+    Three subplots: similarity, retrieval, clustering – mSBERT, LaBSE, XLM-R.
     """
     fig, axes = plt.subplots(1, 3, figsize=(20, 6))
-    fig.suptitle("Cross‑Lingual Comparison: mSBERT vs LaBSE", fontsize=15, fontweight="bold")
-    bar_width = 0.35
+    fig.suptitle("Cross‑Lingual Comparison: mSBERT vs LaBSE vs XLM-R", fontsize=15, fontweight="bold")
+    bar_width = 0.25
 
     # ── Plot 1: Similarity ──────────────────────────────────────────────────
     ax = axes[0]
@@ -104,8 +104,11 @@ def plot_crosslingual_comparison(sim_df, ret_df, clu_df):
         x = np.arange(len(lang_pairs))
         for i, m in enumerate(CROSS_MODELS):
             col    = f"{m}_score"
+            # In case a model's column is missing, skip it
+            if col not in sim_df.columns:
+                continue
             means  = [sim_df[sim_df["lang_pair"]==lp][col].mean() for lp in lang_pairs]
-            offset = (i - 0.5) * bar_width
+            offset = (i - 1) * bar_width  # center three bars
             bars   = ax.bar(x + offset, means, bar_width,
                             label=m, color=COLOURS[m], alpha=0.85)
             for bar, val in zip(bars, means):
@@ -128,8 +131,10 @@ def plot_crosslingual_comparison(sim_df, ret_df, clu_df):
         for i, m in enumerate(CROSS_MODELS):
             if m not in agg.index:
                 continue
-            offset = (i - 0.5) * bar_width
-            vals   = [agg.loc[m, met] for met in metrics]
+            offset = (i - 1) * bar_width
+            vals   = [agg.loc[m, met] if met in agg.columns else np.nan for met in metrics]
+            # Replace NaN with 0 for plotting
+            vals   = [v if not np.isnan(v) else 0 for v in vals]
             bars   = ax.bar(x + offset, vals, bar_width,
                             label=m, color=COLOURS[m], alpha=0.85)
             for bar, val in zip(bars, vals):
@@ -152,7 +157,7 @@ def plot_crosslingual_comparison(sim_df, ret_df, clu_df):
             sub    = clu_df[clu_df["model"] == m]
             if sub.empty:
                 continue
-            offset = (i - 0.5) * bar_width
+            offset = (i - 1) * bar_width
             vals   = [sub[met].values[0] for met in metrics]
             bars   = ax.bar(x + offset, vals, bar_width,
                             label=m, color=COLOURS[m], alpha=0.85)
@@ -176,7 +181,7 @@ def plot_crosslingual_comparison(sim_df, ret_df, clu_df):
 def plot_monolingual_comparison(mono_sim_df, mono_clu_df):
     """
     Two subplots: monolingual similarity & monolingual clustering.
-    Compares mSBERT, LaBSE, and BanglaBERT.
+    Compares mSBERT, LaBSE, XLM-R, and BanglaBERT.
     """
     fig, axes = plt.subplots(1, 2, figsize=(14, 6))
     fig.suptitle("Monolingual Bengali Comparison: All Models", fontsize=14, fontweight="bold")
@@ -231,7 +236,8 @@ def compute_verdict(sim_df, ret_df, clu_df,
     Tallies wins per model for cross‑lingual and monolingual tasks,
     and writes a plain‑English verdict.
     """
-    scores = {"mSBERT": 0, "LaBSE": 0, "BanglaBERT": 0}
+    # Include all possible models (dynamic from data + known ones)
+    scores = {"mSBERT": 0, "LaBSE": 0, "XLM-R": 0, "BanglaBERT": 0}
     lines = []
     lines.append("=" * 65)
     lines.append("  MODEL COMPARISON VERDICT")
@@ -240,22 +246,37 @@ def compute_verdict(sim_df, ret_df, clu_df,
     # ── Cross‑lingual evaluation ─────────────────────────────────────────────
     lines.append("\n[1] CROSS‑LINGUAL SEMANTIC SIMILARITY")
     if not sim_df.empty:
+        # Determine which models have similarity columns
+        sim_models = [m for m in CROSS_MODELS if f"{m}_score" in sim_df.columns]
         for lp in sim_df["lang_pair"].unique():
             sub = sim_df[sim_df["lang_pair"] == lp]
-            s_m = sub["mSBERT_score"].mean()
-            s_l = sub["LaBSE_score"].mean()
-            winner = "LaBSE" if s_l > s_m else "mSBERT"
-            scores[winner] += 1
-            lines.append(f"  {lp}: mSBERT={s_m:.4f}  LaBSE={s_l:.4f}  → {winner} wins")
+            # Find best model for this language pair
+            best_model = None
+            best_mean = -1
+            means_list = []
+            for m in sim_models:
+                col = f"{m}_score"
+                mean_val = sub[col].mean()
+                means_list.append(f"{m}={mean_val:.4f}")
+                if mean_val > best_mean:
+                    best_mean = mean_val
+                    best_model = m
+            if best_model:
+                scores[best_model] += 1
+                lines.append(f"  {lp}: {'  '.join(means_list)}  → {best_model} wins")
         for lp, t in sig_tests.items():
             if t["significant"]:
                 lines.append(f"  [{lp}] Difference is statistically significant "
                               f"(t={t['t_stat']}, p={t['p_value']})")
             else:
                 lines.append(f"  [{lp}] No significant difference (p={t.get('p_value','N/A')})")
+    else:
+        lines.append("  No similarity data found.")
 
     lines.append("\n[2] CROSS‑LINGUAL RETRIEVAL")
     if not ret_df.empty:
+        # Determine which models are present in retrieval data
+        ret_models = ret_df["model"].unique()
         for metric in ["MRR", "P@1", "P@5", "Hit@10"]:
             if metric not in ret_df.columns:
                 continue
@@ -264,11 +285,14 @@ def compute_verdict(sim_df, ret_df, clu_df,
                 continue
             winner = agg.idxmax()
             scores[winner] += 1
-            lines.append(f"  {metric}: mSBERT={agg.get('mSBERT', np.nan):.4f}  "
-                         f"LaBSE={agg.get('LaBSE', np.nan):.4f}  → {winner} wins")
+            parts = [f"{m}={agg[m]:.4f}" for m in ret_models if m in agg.index]
+            lines.append(f"  {metric}: {'  '.join(parts)}  → {winner} wins")
+    else:
+        lines.append("  No retrieval metrics found.")
 
     lines.append("\n[3] CROSS‑LINGUAL CLUSTERING")
     if not clu_df.empty:
+        clu_models = clu_df["model"].unique()
         for metric in ["silhouette", "purity", "triplet_cohesion"]:
             if metric not in clu_df.columns:
                 continue
@@ -277,30 +301,32 @@ def compute_verdict(sim_df, ret_df, clu_df,
                 continue
             winner = agg.idxmax()
             scores[winner] += 1
-            lines.append(f"  {metric}: mSBERT={agg.get('mSBERT', np.nan):.4f}  "
-                         f"LaBSE={agg.get('LaBSE', np.nan):.4f}  → {winner} wins")
+            parts = [f"{m}={agg[m]:.4f}" for m in clu_models if m in agg.index]
+            lines.append(f"  {metric}: {'  '.join(parts)}  → {winner} wins")
+    else:
+        lines.append("  No clustering metrics found.")
 
     # ── Monolingual Bengali evaluation ───────────────────────────────────────
     lines.append("\n[4] MONOLINGUAL BENGALI EVALUATION")
     if not mono_sim_df.empty:
-        # winner for self‑similarity is the one with the highest mean
         best = mono_sim_df.loc[mono_sim_df["mean_cosine"].idxmax()]
         scores[best["model"]] += 1
         for _, row in mono_sim_df.iterrows():
             lines.append(f"  Self‑similarity ({row['model']}): {row['mean_cosine']:.4f}")
         lines.append(f"    → Winner: {best['model']}")
-
     if not mono_clu_df.empty:
         best = mono_clu_df.loc[mono_clu_df["silhouette"].idxmax()]
         scores[best["model"]] += 1
         for _, row in mono_clu_df.iterrows():
             lines.append(f"  Clustering silhouette ({row['model']}): {row['silhouette']:.4f}")
         lines.append(f"    → Winner: {best['model']}")
+    if mono_sim_df.empty and mono_clu_df.empty:
+        lines.append("  No monolingual evaluation data found.")
 
     # ── Final tally ──────────────────────────────────────────────────────────
     lines.append("\n" + "=" * 65)
-    lines.append(f"  SCORE TALLY:  mSBERT={scores['mSBERT']}  "
-                 f"LaBSE={scores['LaBSE']}  BanglaBERT={scores['BanglaBERT']}")
+    score_str = "  ".join([f"{m}={scores[m]}" for m in scores])
+    lines.append(f"  SCORE TALLY: {score_str}")
     overall_winner = max(scores, key=scores.get)
     lines.append(f"\n  OVERALL WINNER: {overall_winner}")
     lines.append("=" * 65)
@@ -315,9 +341,10 @@ def compute_verdict(sim_df, ret_df, clu_df,
   for cross‑lingual retrieval (it lacks English/Hindi embeddings).
   For cross‑lingual tasks, please refer to the cross‑lingual winner below.
 """)
-    # Also mention the cross‑lingual winner separately
-    if "mSBERT" in scores and "LaBSE" in scores:
-        cross_winner = "LaBSE" if scores["LaBSE"] > scores["mSBERT"] else "mSBERT"
+    # Determine cross‑lingual winner among multilingual models
+    multilingual_models = [m for m in ["mSBERT", "LaBSE", "XLM-R"] if m in scores]
+    if len(multilingual_models) > 0:
+        cross_winner = max(multilingual_models, key=lambda m: scores[m])
         lines.append(f"\n  CROSS‑LINGUAL WINNER: {cross_winner}")
         if cross_winner == "LaBSE":
             lines.append("""
@@ -327,13 +354,21 @@ def compute_verdict(sim_df, ret_df, clu_df,
   specifically designed for cross‑lingual alignment. mSBERT, while strong
   on paraphrases, may not align languages as tightly as LaBSE.
 """)
-        else:
+        elif cross_winner == "mSBERT":
             lines.append("""
   INTERPRETATION (cross‑lingual):
   mSBERT (Multilingual Sentence‑BERT) is the top cross‑lingual model.
   Its training on paraphrase data across many languages likely gives it
   an edge in capturing idiomatic equivalence, a skill closer to paraphrase
   detection than to literal translation alignment.
+""")
+        elif cross_winner == "XLM-R":
+            lines.append("""
+  INTERPRETATION (cross‑lingual):
+  XLM-R (XLM‑RoBERTa) shows the strongest cross‑lingual performance.
+  Its large‑scale multilingual pretraining with cross‑lingual masked language
+  modelling provides robust cross‑lingual alignment, which seems to benefit
+  idiomatic matching.
 """)
 
     return "\n".join(lines)
