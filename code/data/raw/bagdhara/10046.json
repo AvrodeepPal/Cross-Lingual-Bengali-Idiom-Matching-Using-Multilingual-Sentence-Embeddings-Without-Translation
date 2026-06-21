@@ -1,0 +1,37 @@
+{
+  "id": "10046",
+  "idiom": "হাড়গোড়",
+  "alternative_idioms": [],
+  "literal_meaning": "ছোটো-বড়ো সমস্ত হাড়-পাঁজরা",
+  "figurative_meaning_bn": "ছোটো-বড়ো সমস্ত হাড়-পাঁজরা",
+  "figurative_meaning_en": "every small and large bone and joint in the body",
+  "similar_in_english": [
+    "break every bone in your body",
+    "beat to a pulp"
+  ],
+  "example_sentences_in_bangla": [
+    "তোর হাড়গোড় ভেঙে দেবো!",
+    "আমার হাড়গোড়ে ব্যথা করছে।"
+  ],
+  "example_sentences_in_english": [
+    "I'll break every bone in your body!",
+    "My bones and joints are aching."
+  ],
+  "usage_domain": [
+    "colloquial threats",
+    "physical discomfort"
+  ],
+  "tags": [
+    "body parts",
+    "threat",
+    "pain"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in expressions of anger or to describe severe pain."
+}

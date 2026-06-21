@@ -1,0 +1,39 @@
+{
+  "id": "2108",
+  "idiom": "কাল কাটানো",
+  "alternative_idioms": [],
+  "literal_meaning": "সময় কাটানো বা সময় অতিক্রম করা",
+  "figurative_meaning_bn": "জীবনযাপন করা; জীবনধারণ করা",
+  "figurative_meaning_en": "to pass one's days; to sustain one's life",
+  "similar_in_english": [
+    "to get by",
+    "to make ends meet",
+    "to scrape by"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে বসবাস করে তিনি কোনমতে কাল কাটান।",
+    "অর্থের অভাবে তারা দিনরাত কাল কাটাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He barely passes his days living in the village.",
+    "Due to lack of money, they are struggling to get by day and night."
+  ],
+  "usage_domain": [
+    "daily life",
+    "poverty",
+    "survival"
+  ],
+  "tags": [
+    "hardship",
+    "livelihood",
+    "struggle"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the everyday struggles in Bengali society, often implying minimal sustenance."
+}

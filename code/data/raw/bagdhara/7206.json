@@ -1,0 +1,39 @@
+{
+  "id": "7206",
+  "idiom": "ফ্যাচাং",
+  "alternative_idioms": [],
+  "literal_meaning": "অশৃঙ্খলা বা ঝামেলার শব্দানুকরণ (onomatopoeic representation of chaos or fuss)",
+  "figurative_meaning_bn": "ঝঞ্ঝাট; ঝামেলা",
+  "figurative_meaning_en": "hassle; trouble",
+  "similar_in_english": [
+    "much ado about nothing",
+    "brouhaha",
+    "tempest in a teapot"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ছোটখাটো ব্যাপার নিয়ে মহা ফ্যাচাং করছিস কেন?",
+    "প্রস্তুতিতে ফ্যাচাং হয়ে গেল সবাই।"
+  ],
+  "example_sentences_in_english": [
+    "Why are you making such a fuss over this small matter?",
+    "Everyone got into a hassle during the preparations."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "everyday conversation"
+  ],
+  "tags": [
+    "trouble",
+    "hassle",
+    "informal",
+    "onomatopoeic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a colloquial expression often used in spoken Bengali to denote unnecessary commotion."
+}

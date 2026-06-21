@@ -1,0 +1,40 @@
+{
+  "id": "1067",
+  "idiom": "একবস্ত্রে",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি বস্ত্র পরে বা একই অবস্থায়",
+  "figurative_meaning_bn": "কিছুমাত্র প্রস্তুতি না নিয়ে যে অবস্থায় ছিল সেই অবস্থায়",
+  "figurative_meaning_en": "In the same state as one was, without any preparation whatsoever",
+  "similar_in_english": [
+    "on the spur of the moment",
+    "off the cuff",
+    "as is"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একবস্ত্রে বাড়ি ছেড়ে বেরিয়ে পড়ল যখন খবর পেল।",
+    "প্রস্তুতি ছাড়াই একবস্ত্রে কাজ শুরু করতে হলো।"
+  ],
+  "example_sentences_in_english": [
+    "He rushed out of the house in his underwear when he heard the news.",
+    "We had to start the work without preparation, just as we were."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "narrative literature",
+    "sudden actions"
+  ],
+  "tags": [
+    "haste",
+    "unpreparedness",
+    "simplicity",
+    "urgency"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the cultural context of minimal attire in rural or everyday Bengali life, emphasizing immediacy."
+}

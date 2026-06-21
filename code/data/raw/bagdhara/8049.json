@@ -1,0 +1,37 @@
+{
+  "id": "8049",
+  "idiom": "ভালো করা",
+  "alternative_idioms": [],
+  "literal_meaning": "ভালো করে তোলা বা সুস্থ করা",
+  "figurative_meaning_bn": "চিকিৎসা করে রোগ মুক্ত করা",
+  "figurative_meaning_en": "To cure someone of an illness through medical treatment",
+  "similar_in_english": [
+    "nurse back to health",
+    "cure of ailment"
+  ],
+  "example_sentences_in_bangla": [
+    "ডাক্তার তার জ্বর ভালো করে দিয়েছে।",
+    "মা ছেলেকে ভালো করে তুলল।"
+  ],
+  "example_sentences_in_english": [
+    "The doctor cured his fever.",
+    "The mother nursed her son back to health."
+  ],
+  "usage_domain": [
+    "health",
+    "medicine"
+  ],
+  "tags": [
+    "healing",
+    "recovery",
+    "medical"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in everyday Bengali speech to refer to recovery from illness, reflecting traditional views on healing."
+}

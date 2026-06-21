@@ -1,0 +1,40 @@
+{
+  "id": "4642",
+  "idiom": "জাল পাতা",
+  "alternative_idioms": [
+    "জাল বিস্তার করা"
+  ],
+  "literal_meaning": "জাল ছড়ানো বা বিস্তার করা (to spread or lay a net)",
+  "figurative_meaning_bn": "ষড়যন্ত্র করা",
+  "figurative_meaning_en": "To conspire or plot a scheme",
+  "similar_in_english": [
+    "Lay a trap",
+    "Weave a web of intrigue"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা আমার বিরুদ্ধে জাল পেতেছে।",
+    "প্রতিপক্ষ দল জাল বিস্তার করে নির্বাচনে জয়ের চেষ্টা করছে।"
+  ],
+  "example_sentences_in_english": [
+    "They are laying a trap against me.",
+    "The opposition party is plotting a scheme to win the election."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Interpersonal relations",
+    "Literature"
+  ],
+  "tags": [
+    "Conspiracy",
+    "Deception",
+    "Intrigue"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the imagery of fishing or hunting nets, common in rural Bengali life, symbolizing hidden plots."
+}

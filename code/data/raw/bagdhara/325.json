@@ -1,0 +1,40 @@
+{
+  "id": "325",
+  "idiom": "আঁতুড়ে খোকা",
+  "alternative_idioms": [
+    "আঁতুড়ে ছেলে"
+  ],
+  "literal_meaning": "অত্যন্ত ক্ষুদ্র বা শৈশবকালীন ছেলে (যেন এখনও আঁতুর পরে থাকে)",
+  "figurative_meaning_bn": "ব্যঙ্গার্থে নিতান্ত শিশু",
+  "figurative_meaning_en": "In a mocking sense, utterly childish or immature",
+  "similar_in_english": [
+    "Wet behind the ears",
+    "A babe in the woods"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এখনও আঁতুড়ে খোকা, এত বড় সিদ্ধান্ত নিতে পারবে না।",
+    "আঁতুড়ে খোকার মতো কাঁদতে থাকল সে।"
+  ],
+  "example_sentences_in_english": [
+    "He's still a wet-behind-the-ears kid; he can't make such big decisions.",
+    "He started crying like an utter child."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Mockery and criticism"
+  ],
+  "tags": [
+    "immaturity",
+    "childish",
+    "satirical",
+    "youth"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a child in the infantile stage, used derogatorily for adults behaving childishly"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1234",
+  "idiom": "অ্যাড হক",
+  "alternative_idioms": [],
+  "literal_meaning": "এই উদ্দেশ্যের জন্য (ল্যাটিন 'ad hoc' থেকে, অর্থ 'to this')",
+  "figurative_meaning_bn": "অনানুষ্ঠানিক; অপূর্বনির্ধারিত; বিশেষ উদ্দেশ্যে গঠিত",
+  "figurative_meaning_en": "informal; not predetermined; formed for a specific purpose",
+  "similar_in_english": [
+    "ad hoc",
+    "impromptu",
+    "makeshift"
+  ],
+  "example_sentences_in_bangla": [
+    "বিষয়টি নিয়ে তদন্ত করতে একটা অ্যাড হক কমিটি গড়ে দেওয়া হয়েছে।",
+    "এই সমস্যা সমাধানের জন্য অ্যাড হক ব্যবস্থা নেওয়া হলো।"
+  ],
+  "example_sentences_in_english": [
+    "An ad hoc committee was formed to investigate the matter.",
+    "Ad hoc measures were taken to resolve this issue."
+  ],
+  "usage_domain": [
+    "administration",
+    "law",
+    "business"
+  ],
+  "tags": [
+    "loanword",
+    "formal",
+    "latin origin"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "city",
+  "history": [],
+  "note": "Borrowed from Latin 'ad hoc' via English, commonly used in formal Bengali contexts without deep cultural roots."
+}

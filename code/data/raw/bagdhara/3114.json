@@ -1,0 +1,38 @@
+{
+  "id": "3114",
+  "idiom": "গাছগাছড়া",
+  "alternative_idioms": [
+    "গাছগাছালি"
+  ],
+  "literal_meaning": "গাছ এবং ছোট গাছপালা বা লতাগুল্ম",
+  "figurative_meaning_bn": "বুনো লতাগুল্ম, ওষুধ হিসাবে ব্যবহৃত ভেষজ উদ্ভিদ",
+  "figurative_meaning_en": "Wild creepers and shrubs, medicinal herbal plants used as remedies",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "জঙ্গলে গাছগাছড়া থেকে অনেক ওষুধ তৈরি হয়।",
+    "গ্রামের চারপাশে এই গাছগাছড়ার গুণ আমরা ভুলে গেছি।"
+  ],
+  "example_sentences_in_english": [
+    "Many medicines are made from the wild herbs and shrubs in the forest.",
+    "We have forgotten the benefits of these rural wild plants."
+  ],
+  "usage_domain": [
+    "botany",
+    "traditional medicine",
+    "nature"
+  ],
+  "tags": [
+    "plants",
+    "herbal",
+    "wild vegetation",
+    "rural life"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Refers to untamed vegetation commonly found in Bengali rural and forested areas, often linked to traditional Ayurvedic practices."
+}

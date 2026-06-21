@@ -1,0 +1,41 @@
+{
+  "id": "6967",
+  "idiom": "পেটে মারা",
+  "alternative_idioms": [
+    "ভাতে মারা"
+  ],
+  "literal_meaning": "পেটে আঘাত করা (striking or hitting in the stomach)",
+  "figurative_meaning_bn": "অনাহারে দুর্বল করে বিনষ্ট করা",
+  "figurative_meaning_en": "To weaken and destroy through starvation",
+  "similar_in_english": [
+    "starve to death",
+    "famine-stricken ruin"
+  ],
+  "example_sentences_in_bangla": [
+    "শত্রুদের পেটে মেরে তাদের পরাজিত করা হয়েছে।",
+    "দুর্ভিক্ষে গ্রামের লোকজনকে পেটে মারা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The enemies were weakened and destroyed by starving them.",
+    "The villagers were ruined through hunger during the famine."
+  ],
+  "usage_domain": [
+    "conflict",
+    "poverty",
+    "warfare"
+  ],
+  "tags": [
+    "starvation",
+    "weakness",
+    "destruction",
+    "hunger"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali expressions related to survival and hardship, with 'ভাতে মারা' as a close synonym emphasizing rice deprivation."
+}

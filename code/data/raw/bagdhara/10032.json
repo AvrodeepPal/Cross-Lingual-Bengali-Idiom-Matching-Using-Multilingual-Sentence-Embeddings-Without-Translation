@@ -1,0 +1,39 @@
+{
+  "id": "10032",
+  "idiom": "হাটকানা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাটে (বাজারে) কানা (চোখ টিপা বা তাক লেগে যাওয়া)",
+  "figurative_meaning_bn": "হাটের রকমারি জিনিস দেখে যার তাক লেগে যায় এবং কোনটা কিনবে ঠিক করতে পারে না",
+  "figurative_meaning_en": "Someone whose eyes are dazzled by the variety of items in the market and cannot decide what to buy",
+  "similar_in_english": [
+    "Like a kid in a candy store",
+    "Eyes bigger than one's stomach"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে গিয়ে সে হাটকানা হয়ে গেল, কোনটা কিনবে বুঝতে পারল না।",
+    "এত রকমের ফল দেখে মেয়েটি হাটকানা হয়ে দাঁড়িয়ে রইল।"
+  ],
+  "example_sentences_in_english": [
+    "She became hatkana at the market, unable to decide which saree to buy.",
+    "His eyes widened like hatkana seeing all the street food options."
+  ],
+  "usage_domain": [
+    "Shopping",
+    "Decision-making",
+    "Daily life"
+  ],
+  "tags": [
+    "Market",
+    "Indecision",
+    "Overwhelmed",
+    "Variety"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional Bengali village markets (haat) where abundance leads to choice paralysis"
+}

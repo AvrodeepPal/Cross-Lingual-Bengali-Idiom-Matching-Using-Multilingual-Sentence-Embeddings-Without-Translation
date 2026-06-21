@@ -1,0 +1,39 @@
+{
+  "id": "4165",
+  "idiom": "চোর মরে সাত ঘর মজায়",
+  "alternative_idioms": [],
+  "literal_meaning": "চোর মারা যায়, সাত ঘর আনন্দে মজায়",
+  "figurative_meaning_bn": "ধরা পড়লে দুস্কৃতি অনেককে মকদ্দমায় জড়ায়",
+  "figurative_meaning_en": "When a wrongdoer is caught, it drags many others into legal troubles",
+  "similar_in_english": [
+    "One arrest leads to a chain of indictments",
+    "When the head thief falls, the whole gang gets exposed"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রধান চোর ধরা পড়ার পর চোর মরে সাত ঘর মজায়ে হয়ে গেল, সব সহযোগীদেরও আদালতে টেনে নেওয়া হলো।",
+    "এই কেলেঙ্কারিতে যখন একজন ধরা পড়ল, তখন চোর মরে সাত ঘর মজায়ে, পুরো পরিবারটাই জড়িয়ে পড়ল মামলায়।"
+  ],
+  "example_sentences_in_english": [
+    "After the main culprit was caught, it was like the thief dies and seven houses rejoice, pulling all accomplices into court.",
+    "In this scandal, when one person got exposed, it turned into the thief dies and seven houses rejoice, involving the entire family in litigation."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Crime",
+    "Social consequences"
+  ],
+  "tags": [
+    "দুস্কৃতি",
+    "আইনি জটিলতা",
+    "সমাজ",
+    "অপরাধ"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom highlights the ripple effect of criminal exposure in Bengali social contexts."
+}

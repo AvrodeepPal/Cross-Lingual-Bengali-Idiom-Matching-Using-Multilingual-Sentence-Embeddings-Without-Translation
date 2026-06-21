@@ -1,0 +1,37 @@
+{
+  "id": "1285",
+  "idiom": "ঔষধ করা",
+  "alternative_idioms": [],
+  "literal_meaning": "ওষুধ দেওয়া বা প্রয়োগ করা",
+  "figurative_meaning_bn": "চিকিৎসা করা",
+  "figurative_meaning_en": "to provide medical treatment",
+  "similar_in_english": [
+    "to medicate",
+    "to administer treatment"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অসুস্থতার জন্য ঔষধ করলাম।",
+    "ডাক্তার এসে রোগীকে ঔষধ করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "I administered medicine for his illness.",
+    "The doctor came and treated the patient."
+  ],
+  "usage_domain": [
+    "health",
+    "medicine"
+  ],
+  "tags": [
+    "চিকিৎসা",
+    "ওষুধ",
+    "স্বাস্থ্য"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি মূলত শাব্দিক অর্থপ্রধান, কিন্তু বাংলায় চিকিৎসার প্রসঙ্গে প্রচলিত।"
+}

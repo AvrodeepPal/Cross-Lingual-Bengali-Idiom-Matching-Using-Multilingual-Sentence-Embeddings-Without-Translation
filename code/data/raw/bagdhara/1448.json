@@ -1,0 +1,40 @@
+{
+  "id": "1448",
+  "idiom": "কথা বাড়ানো",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা বাড়ানো (শব্দ বা কথাবার্তা বৃদ্ধি করা)",
+  "figurative_meaning_bn": "তর্কবিতর্কে জড়িয়ে পড়া, সামান্য বিষয়কে প্রলম্বিত করা",
+  "figurative_meaning_en": "Getting entangled in arguments, prolonging a trivial matter",
+  "similar_in_english": [
+    "Beat around the bush",
+    "Make a mountain out of a molehill",
+    "Drag one's feet"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ছোটখাটো ব্যাপার নিয়ে কথা বাড়ানোর কোনো মানে হয় না।",
+    "তুমি কেন এসব তর্কে কথা বাড়াচ্ছ?"
+  ],
+  "example_sentences_in_english": [
+    "There's no point in prolonging this trivial issue with more talk.",
+    "Why are you dragging this argument on unnecessarily?"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Advice",
+    "Conflict resolution"
+  ],
+  "tags": [
+    "Argument",
+    "Prolonging",
+    "Triviality",
+    "Cautionary"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used to advise brevity in discussions within Bengali social interactions."
+}

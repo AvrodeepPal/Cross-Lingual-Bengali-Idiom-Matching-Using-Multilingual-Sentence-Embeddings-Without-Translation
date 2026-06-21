@@ -1,0 +1,39 @@
+{
+  "id": "1182",
+  "idiom": "এতটুকু",
+  "alternative_idioms": [],
+  "literal_meaning": "এতটুকু (এই পরিমাণে বা সামান্য অংশে)",
+  "figurative_meaning_bn": "সামান্যতম পরিমাণ",
+  "figurative_meaning_en": "the slightest amount",
+  "similar_in_english": [
+    "not one iota",
+    "not a shred",
+    "even a smidgen"
+  ],
+  "example_sentences_in_bangla": [
+    "এতটুকু লজ্জা নেই তার মনে।",
+    "এতটুকু সতর্কতা অবলম্বন করেনি সে।"
+  ],
+  "example_sentences_in_english": [
+    "He doesn't have even a bit of shame.",
+    "She didn't take even the slightest precaution."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "criticism"
+  ],
+  "tags": [
+    "minimal amount",
+    "shame",
+    "negligence",
+    "negative expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to emphasize absence of even the minimal expected quality or behavior in colloquial Bengali."
+}

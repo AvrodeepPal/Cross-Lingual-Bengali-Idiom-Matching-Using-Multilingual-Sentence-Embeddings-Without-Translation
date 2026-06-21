@@ -1,0 +1,39 @@
+{
+  "id": "3136",
+  "idiom": "গাড়ুর দামে খাড়ু যাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "গাড়ির দামে খাড়ু (ছোট বাঁশের ডাঁটা) নষ্ট হওয়া",
+  "figurative_meaning_bn": "অল্পের জন্য মূল্যবান দ্রব্য নষ্ট হওয়া",
+  "figurative_meaning_en": "Wasting something valuable for a trivial reason",
+  "similar_in_english": [
+    "Penny wise, pound foolish",
+    "Killing the goose that lays the golden eggs"
+  ],
+  "example_sentences_in_bangla": [
+    "সে গাড়ুর দামে খাড়ু যাওয়া করল, একটা ছোট লাভের জন্য পুরো সম্পত্তি বিক্রি করে দিল।",
+    "এই সিদ্ধান্ত নেওয়া গাড়ুর দামে খাড়ু যাওয়া, অল্প সময় বাঁচাতে বড় সুযোগ হারানো।"
+  ],
+  "example_sentences_in_english": [
+    "He went for a cart's worth wasted on a stick by selling his entire property for a small gain.",
+    "This decision is like wasting a cart's value for a reed—losing a big opportunity to save a little time."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "decision-making",
+    "finance"
+  ],
+  "tags": [
+    "waste",
+    "folly",
+    "value",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Originates from rural Bengali life involving carts and simple tools like reeds."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "6323",
+  "idiom": "নাচতে এসে ঘোমটা টানা",
+  "alternative_idioms": [
+    "নাচতে নেমে ঘোমটা টানা",
+    "নাচতে এসে ঘোমটা কেন"
+  ],
+  "literal_meaning": "নাচতে আসা এবং ঘোমটা (ঘেঁষা চাদর) টেনে লুকানোর প্রচেষ্টা",
+  "figurative_meaning_bn": "কপট বা বৃথা লজ্জা প্রকাশ",
+  "figurative_meaning_en": "Expressing false or unnecessary modesty",
+  "similar_in_english": [
+    "Putting on airs",
+    "Affected modesty",
+    "Coy pretense"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নাচতে এসে ঘোমটা টানছে, কিন্তু সবাই জানে তার আসল উদ্দেশ্য।",
+    "এখন কপট লজ্জা দেখানোর দরকার নেই, নাচতে এসে ঘোমটা টানার মতো।"
+  ],
+  "example_sentences_in_english": [
+    "She's acting all modest now that she's agreed to dance, like pulling a veil after stepping onto the floor.",
+    "No need for false shyness anymore; it's like coming to dance and then covering your face."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Everyday conversation",
+    "Criticism of pretense"
+  ],
+  "tags": [
+    "modesty",
+    "hypocrisy",
+    "pretense",
+    "social norms"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Input contained minor typos like 'ঘোমটা' as 'ঘোমটা' and 'ঘোওটা'; standardized to proper Bengali Unicode for 'ঘোমটা' (traditional veil)."
+}

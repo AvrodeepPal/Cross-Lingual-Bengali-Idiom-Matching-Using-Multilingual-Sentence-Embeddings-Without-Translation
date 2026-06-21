@@ -1,0 +1,40 @@
+{
+  "id": "3495",
+  "idiom": "ঘাটের কড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘাটের কড়ি (ঘাটের গোলা বা শঙ্খাকার মুদ্রা)",
+  "figurative_meaning_bn": "ঘাট পারানি",
+  "figurative_meaning_en": "Unable to cross the ghat (fail to achieve the goal or complete the task)",
+  "similar_in_english": [
+    "Miss the boat",
+    "Fall short of the mark",
+    "Come up short"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চাকরির পরীক্ষায় ঘাট পারানি।",
+    "এই প্রকল্পে আমরা ঘাটের কড়ি হয়ে গেলাম।"
+  ],
+  "example_sentences_in_english": [
+    "He couldn't cross the ghat in the job exam.",
+    "We ended up with ghat's cowries in this project, meaning it was worthless."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Expressions of failure"
+  ],
+  "tags": [
+    "failure",
+    "worthlessness",
+    "riverine culture"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originating from Bengal's river ferry systems where crossing ghats was essential for travel; cowries as obsolete currency symbolize futility."
+  ],
+  "note": "The idiom evokes the imagery of useless cowries washed ashore, tying into the provided meaning of inability to succeed."
+}

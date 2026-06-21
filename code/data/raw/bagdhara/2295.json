@@ -1,0 +1,41 @@
+{
+  "id": "2295",
+  "idiom": "অকাল কুষ্মাণ্ড",
+  "alternative_idioms": [],
+  "literal_meaning": "অকালে জন্ম নেওয়া কুমড়ো",
+  "figurative_meaning_bn": "অপদার্থ ব্যক্তি, গালিবিশেষ",
+  "figurative_meaning_en": "A worthless or useless person; a specific form of insult",
+  "similar_in_english": [
+    "good-for-nothing",
+    "a dud"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কাজে একদম অকাল কুষ্মাণ্ড।",
+    "এই ছেলেটা সমাজের অকাল কুষ্মাণ্ড।"
+  ],
+  "example_sentences_in_english": [
+    "He is completely useless at work, like an untimely pumpkin.",
+    "This guy is a real good-for-nothing in society."
+  ],
+  "usage_domain": [
+    "insults",
+    "everyday conversation",
+    "descriptive language"
+  ],
+  "tags": [
+    "negative",
+    "person",
+    "agricultural metaphor",
+    "insult"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom originates from Bengali agricultural life, where pumpkins (কুষ্মাণ্ড) grown out of season (অকাল) are small, bitter, and unproductive, symbolizing worthlessness."
+  ],
+  "note": "This idiom reflects rural Bengali farming culture and is used colloquially to demean someone's utility."
+}

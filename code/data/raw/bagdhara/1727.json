@@ -1,0 +1,38 @@
+{
+  "id": "1727",
+  "idiom": "কাঁইমাই",
+  "alternative_idioms": [],
+  "literal_meaning": "কাতরানি বা নাকি সুরে কান্নার শব্দ (whimpering or mewling sound)",
+  "figurative_meaning_bn": "নাকিসুরে কাতর অনুনয়-বিনয়",
+  "figurative_meaning_en": "piteous, whining entreaty or supplication",
+  "similar_in_english": [
+    "whining like a child",
+    "crocodile tears"
+  ],
+  "example_sentences_in_bangla": [
+    "অন্যায় করে এখন কাঁইমাই করলে কোনো লাভ নেই।",
+    "সে ভুল করে ফেলার পর কাঁইমাই করে ক্ষমা চাইল।"
+  ],
+  "example_sentences_in_english": [
+    "Whining now after doing wrong won't help.",
+    "After making the mistake, he started whining for forgiveness."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "emotional expression",
+    "pleading"
+  ],
+  "tags": [
+    "whining",
+    "supplication",
+    "piteous plea"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression mimicking a whimpering sound, often used to denote insincere or belated pleading in Bengali folklore and daily speech."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "5142",
+  "idiom": "ডাণ্ডা মেরে ঠাণ্ডা",
+  "alternative_idioms": [],
+  "literal_meaning": "ডাণ্ডা দিয়ে মেরে ঠাণ্ডা করা",
+  "figurative_meaning_bn": "কঠোর অনুশাসন",
+  "figurative_meaning_en": "Strict discipline through harsh measures",
+  "similar_in_english": [
+    "Spare the rod and spoil the child",
+    "Crack the whip"
+  ],
+  "example_sentences_in_bangla": [
+    "স্কুলের শিক্ষক ছাত্রদের ডাণ্ডা মেরে ঠাণ্ডা করে রাখেন।",
+    "পিতা ছেলের দুষ্টুমির জন্য ডাণ্ডা মেরে ঠাণ্ডা করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "The teacher disciplines the students strictly to keep them in line.",
+    "The father gave his son a harsh punishment to instill discipline."
+  ],
+  "usage_domain": [
+    "family",
+    "education",
+    "discipline"
+  ],
+  "tags": [
+    "punishment",
+    "authority",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects traditional Bengali views on corporal punishment for correction."
+}

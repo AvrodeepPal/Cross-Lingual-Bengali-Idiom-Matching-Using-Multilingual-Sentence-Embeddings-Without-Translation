@@ -1,0 +1,41 @@
+{
+  "id": "3873",
+  "idiom": "চালচূলো নেই",
+  "alternative_idioms": [
+    "চালচুলোহীন",
+    "চাল-না-চুলো"
+  ],
+  "literal_meaning": "চাল বা চুলো নেই (no rice or stove)",
+  "figurative_meaning_bn": "বৃত্তিহীন বেকার যার ঠিকানা ও বৃত্তি নেই",
+  "figurative_meaning_en": "An unemployed and jobless person without a fixed address or profession",
+  "similar_in_english": [
+    "down and out",
+    "penniless and homeless"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এখন চালচূলো নেই অবস্থায় পড়েছে, কোনো কাজ নেই আর ঘরও নেই।",
+    "গ্রামের সেই লোকটি চালচূলো নেই হয়ে শহরে আসা সত্ত্বেও কোনো স্থায়ী আশ্রয় পায়নি।"
+  ],
+  "example_sentences_in_english": [
+    "He is now in a down-and-out state, with no job and no home.",
+    "That villager, penniless and homeless, came to the city but found no permanent shelter."
+  ],
+  "usage_domain": [
+    "poverty",
+    "unemployment",
+    "social issues"
+  ],
+  "tags": [
+    "বেকারত্ব",
+    "দারিদ্র্য",
+    "অস্থায়ী জীবন"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects everyday struggles with basic necessities in Bengali society."
+}

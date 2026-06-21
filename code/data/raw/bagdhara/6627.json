@@ -1,0 +1,43 @@
+{
+  "id": "6627",
+  "idiom": "পরপুষ্ট",
+  "alternative_idioms": [
+    "পরভৃত",
+    "ফতোনবাব"
+  ],
+  "literal_meaning": "পরের (অন্যের) পুষ্টি (পালিত বা পুষ্ট করা)",
+  "figurative_meaning_bn": "পরের অন্নে পালিত, কোকিল",
+  "figurative_meaning_en": "Nourished by others' food, like a cuckoo (referring to someone who lives off others' resources without contributing)",
+  "similar_in_english": [
+    "Freeloader",
+    "Sponge off someone",
+    "Parasite"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন পরপুষ্ট ব্যক্তি, সর্বদা অন্যের উপর নির্ভর করে জীবন যাপন করে।",
+    "গ্রামের কোকিলের মতো পরপুষ্ট হয়ে সে তার পরিবারকে ভুলে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a freeloader, always depending on others to sustain himself.",
+    "Like a cuckoo, he has become nourished by others and forgotten his own family."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "daily conversation",
+    "literature"
+  ],
+  "tags": [
+    "dependence",
+    "parasitism",
+    "cuckoo metaphor",
+    "laziness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the natural behavior of the cuckoo bird, which lays eggs in other birds' nests, symbolizing parasitism in Bengali folklore."
+}

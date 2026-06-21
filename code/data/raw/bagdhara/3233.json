@@ -1,0 +1,40 @@
+{
+  "id": "3233",
+  "idiom": "গুণগান",
+  "alternative_idioms": [],
+  "literal_meaning": "গুণের গান (virtues' song)",
+  "figurative_meaning_bn": "গুণকীর্তন",
+  "figurative_meaning_en": "singing praises or eulogizing virtues",
+  "similar_in_english": [
+    "singing someone's praises",
+    "to praise highly"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি তার বন্ধুর গুণগান করতে থাকলেন।",
+    "সভায় সকলে তার গুণগান করল।"
+  ],
+  "example_sentences_in_english": [
+    "He began singing his friend's praises.",
+    "Everyone in the meeting eulogized his virtues."
+  ],
+  "usage_domain": [
+    "praise",
+    "flattery",
+    "appreciation"
+  ],
+  "tags": [
+    "eulogy",
+    "commendation",
+    "devotion"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Rooted in Bengali bhakti traditions, often used in devotional contexts like Vaishnava kirtans praising divine qualities."
+  ],
+  "note": "The idiom draws from cultural practices of kirtan, blending praise with musical expression."
+}

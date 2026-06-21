@@ -1,0 +1,36 @@
+{
+  "id": "7379",
+  "idiom": "বসে পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বসে পড়া (সমাসে: বসার মতো পড়া বা স্থির হয়ে বসা)",
+  "figurative_meaning_bn": "উপবেশন করা",
+  "figurative_meaning_en": "to sit down or take a seat",
+  "similar_in_english": [
+    "sit down",
+    "take a seat"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি চেয়ারে বসে পড়লেন।",
+    "ক্লাস শুরু হওয়ার পর সবাই বসে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "He sat down on the chair.",
+    "Everyone sat down after the class started."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "formal settings"
+  ],
+  "tags": [
+    "daily action",
+    "simple expression"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a basic phrasal verb rather than a complex idiom, commonly used in spoken Bengali."
+}

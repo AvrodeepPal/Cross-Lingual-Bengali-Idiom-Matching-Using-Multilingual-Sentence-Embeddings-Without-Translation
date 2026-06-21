@@ -1,0 +1,37 @@
+{
+  "id": "2833",
+  "idiom": "গচ্চা",
+  "alternative_idioms": [],
+  "literal_meaning": "আঠার মতো লেপন বা আটকে রাখা (সম্ভাব্য শাব্দিক অর্থ, যেহেতু 'গচ' মানে আঠা বা লেপন)",
+  "figurative_meaning_bn": "আর্থিক ক্ষতিপূরণ",
+  "figurative_meaning_en": "financial compensation",
+  "similar_in_english": [
+    "pay damages",
+    "make good the loss"
+  ],
+  "example_sentences_in_bangla": [
+    "দুর্ঘটনায় ক্ষতির জন্য কোম্পানি গচ্চা দিয়েছে।",
+    "চুক্তি ভঙ্গের কারণে আর্থিক গচ্চা প্রদান করতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "The company provided financial compensation for the accident damage.",
+    "Financial compensation must be paid due to the breach of contract."
+  ],
+  "usage_domain": [
+    "legal",
+    "finance"
+  ],
+  "tags": [
+    "ক্ষতি",
+    "পূরণ",
+    "আর্থিক"
+  ],
+  "frequency": "very rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারাটি অস্বাভাবিক বা সম্ভাব্য টাইপোগ্রাফিকাল ত্রুটি-সমৃদ্ধ বলে মনে হয়; স্ট্যান্ডার্ড বাংলা বাগধারায় সাধারণ নয়।"
+}

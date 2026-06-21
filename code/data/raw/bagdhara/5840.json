@@ -1,0 +1,40 @@
+{
+  "id": "5840",
+  "idiom": "দীর্ঘসূত্রতা",
+  "alternative_idioms": [],
+  "literal_meaning": "দীর্ঘ সূত্রের মতো লম্বা বা বিস্তৃততা",
+  "figurative_meaning_bn": "কাজ শেষ করতে অযথা দেরী",
+  "figurative_meaning_en": "Unnecessary delay in completing a task",
+  "similar_in_english": [
+    "Beat around the bush",
+    "Drag one's feet",
+    "Procrastinate"
+  ],
+  "example_sentences_in_bangla": [
+    "তার দীর্ঘসূত্রতার কারণে মিটিংটি অনেক দেরী হয়ে গেল।",
+    "দীর্ঘসূত্রতা এড়িয়ে চলো, না হলে কাজগুলো শেষ হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "The meeting got delayed a lot due to his long-windedness.",
+    "Avoid procrastination, or your tasks won't get finished."
+  ],
+  "usage_domain": [
+    "work",
+    "daily life",
+    "conversation"
+  ],
+  "tags": [
+    "delay",
+    "procrastination",
+    "inefficiency",
+    "verbosity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often critiques inefficiency in Bengali cultural contexts, emphasizing directness in communication and action."
+}

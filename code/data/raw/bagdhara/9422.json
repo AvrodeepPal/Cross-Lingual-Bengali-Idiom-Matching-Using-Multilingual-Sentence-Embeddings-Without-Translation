@@ -1,0 +1,40 @@
+{
+  "id": "9422",
+  "idiom": "শাঁস",
+  "alternative_idioms": [],
+  "literal_meaning": "শসা (cucumber)",
+  "figurative_meaning_bn": "ঘিলু; সারপদার্থ",
+  "figurative_meaning_en": "foolish; senseless",
+  "similar_in_english": [
+    "empty-headed",
+    "birdbrain",
+    "no brains"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মগজে শাঁস নেই, কিছুতেই বুঝতে পারে না।",
+    "এই ছেলেটার মাথায় শাঁস ভর্তি।"
+  ],
+  "example_sentences_in_english": [
+    "He has no brains; he can't understand anything.",
+    "The boy's head is full of air."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "informal speech"
+  ],
+  "tags": [
+    "foolishness",
+    "intelligence",
+    "insult"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom derives from the idea of a cucumber being watery and lacking substance, metaphorically representing an empty or foolish mind in Bengali folklore."
+  ],
+  "note": "Often used in the phrase 'মগজে শাঁস নেই' to emphasize lack of sense."
+}

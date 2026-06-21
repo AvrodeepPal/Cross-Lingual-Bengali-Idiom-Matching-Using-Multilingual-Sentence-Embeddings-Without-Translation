@@ -1,0 +1,42 @@
+{
+  "id": "3286",
+  "idiom": "গেঁয়ো",
+  "alternative_idioms": [
+    "গাঁইয়া"
+  ],
+  "literal_meaning": "গ্রামের/গাঁয়ের লোক (village dweller or rustic)",
+  "figurative_meaning_bn": "অশিক্ষিত, অমার্জিত, অসভ্য",
+  "figurative_meaning_en": "Uneducated, uncultured, uncivilized",
+  "similar_in_english": [
+    "Country bumpkin",
+    "Yokel",
+    "Hillbilly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা গেঁয়ো লোক, শহরের সভ্যতা বুঝতে পারে না।",
+    "গেঁয়োদের মধ্যে এমন অভ্যাস সাধারণ।"
+  ],
+  "example_sentences_in_english": [
+    "He is a country bumpkin who doesn't understand city manners.",
+    "Such habits are common among yokels."
+  ],
+  "usage_domain": [
+    "Social commentary",
+    "Everyday conversation",
+    "Literature"
+  ],
+  "tags": [
+    "Pejorative",
+    "Rural",
+    "Insulting",
+    "Cultural stereotype"
+  ],
+  "frequency": "Common",
+  "sentiment": "Negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Variants like গাঁইয়া are regional pronunciations emphasizing the same rustic connotation."
+}

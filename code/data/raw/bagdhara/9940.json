@@ -1,0 +1,40 @@
+{
+  "id": "9940",
+  "idiom": "হরিদাস পাল",
+  "alternative_idioms": [],
+  "literal_meaning": "হরিদাস পাল (একটি ব্যক্তির নাম)",
+  "figurative_meaning_bn": "কর্তৃত্ব ফলানো ব্যক্তির প্রতি বক্রোক্তি; বিদ্রুপে নগণ্যব্যক্তি",
+  "figurative_meaning_en": "Sarcastic remark towards a person trying to assert authority; mocking an insignificant person",
+  "similar_in_english": [
+    "Who do you think you are?",
+    "Don't get too big for your boots"
+  ],
+  "example_sentences_in_bangla": [
+    "কে তুমি হরিদাস পাল, এখানে আদেশ করতে এসেছো?",
+    "সে নিজেকে বড় মনে করে, কিন্তু সবাই তাকে হরিদাস পাল বলে বিদ্রুপ করে।"
+  ],
+  "example_sentences_in_english": [
+    "Who are you, Haridas Pal, coming here to give orders?",
+    "He thinks he's important, but everyone mocks him as Haridas Pal."
+  ],
+  "usage_domain": [
+    "conversational",
+    "social mockery"
+  ],
+  "tags": [
+    "sarcasm",
+    "authority",
+    "insignificance",
+    "ridicule"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom references Haridas Pal, a historical or folkloric figure in Bengali culture known for attempting to assert undue authority despite his lowly status, often used in anecdotes to highlight social hierarchy."
+  ],
+  "note": "This idiom draws from Bengali oral traditions where names like Haridas Pal symbolize pretentious underlings."
+}

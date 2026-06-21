@@ -1,0 +1,39 @@
+{
+  "id": "2596",
+  "idiom": "খাদ্যাখাদ্য",
+  "alternative_idioms": [],
+  "literal_meaning": "খাদ্য খাদ্য (খাবারের ধরন বা খাওয়ার উপযোগী ও অনুপযোগী)",
+  "figurative_meaning_bn": "কোনটি খাওয়া উচিৎ এবং কোনটি খাওয়া অনুচিত",
+  "figurative_meaning_en": "Which one is suitable to eat and which one is unsuitable to eat",
+  "similar_in_english": [
+    "edible vs. inedible",
+    "knowing what's what in food"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে কেনাকাটা করার সময় খাদ্যাখাদ্য ভালোভাবে বুঝতে হয়।",
+    "গ্রামের বাচ্চারা ছোট থেকেই খাদ্যাখাদ্য শিখে নেয়।"
+  ],
+  "example_sentences_in_english": [
+    "When shopping at the market, you need to understand khadyakhady well.",
+    "Village children learn khadyakhady from a young age."
+  ],
+  "usage_domain": [
+    "food",
+    "daily life",
+    "grocery shopping"
+  ],
+  "tags": [
+    "edible",
+    "discernment",
+    "cuisine",
+    "practical knowledge"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday discernment in Bengali food culture, emphasizing practical wisdom in identifying safe and suitable foods."
+}

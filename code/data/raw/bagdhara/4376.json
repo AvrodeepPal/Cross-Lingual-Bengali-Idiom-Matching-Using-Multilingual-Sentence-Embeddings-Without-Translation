@@ -1,0 +1,40 @@
+{
+  "id": "4376",
+  "idiom": "ছুতোনতা",
+  "alternative_idioms": [
+    "নাতা",
+    "ছলছুতো"
+  ],
+  "literal_meaning": "তুচ্ছ স্পর্শ বা ছোঁয়া-সম্পর্কিত অর্থহীন ব্যবহার",
+  "figurative_meaning_bn": "কোন একটি অছিলা বা অজুহাত; তুচ্ছ উপলক্ষ",
+  "figurative_meaning_en": "A flimsy excuse or pretext; an insignificant reason",
+  "similar_in_english": [
+    "lame excuse",
+    "poor pretext"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কোনো ছুতোনতা দেখিয়ে সভা থেকে চলে গেল।",
+    "এই ছুতোনতায় কেউ বিশ্বাস করবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He left the meeting using some pretext.",
+    "No one will believe this lame excuse."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation"
+  ],
+  "tags": [
+    "excuse",
+    "pretext",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom derives from colloquial Bengali expressions for trivial justifications, commonly used in informal settings."
+}

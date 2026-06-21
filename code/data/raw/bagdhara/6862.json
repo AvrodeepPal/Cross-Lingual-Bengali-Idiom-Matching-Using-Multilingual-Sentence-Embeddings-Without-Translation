@@ -1,0 +1,43 @@
+{
+  "id": "6862",
+  "idiom": "পারাপার",
+  "alternative_idioms": [
+    "একূল ওকূল",
+    "এপার ওপার"
+  ],
+  "literal_meaning": "নদী বা জলাশয়ের উভয় তীর বা পার",
+  "figurative_meaning_bn": "নদীর উভয়তীর, একূল-ওকূল এপার-ওপার",
+  "figurative_meaning_en": "Both banks of a river, from one bank to the other, this side and that side",
+  "similar_in_english": [
+    "from shore to shore",
+    "across the board",
+    "from one end to the other"
+  ],
+  "example_sentences_in_bangla": [
+    "নদীর পারাপারে সবুজ মাঠ বিস্তৃত।",
+    "এই পারাপারের যাত্রা অনেক দিন লাগবে।"
+  ],
+  "example_sentences_in_english": [
+    "Green fields stretch across both banks of the river.",
+    "This journey from one side to the other will take many days."
+  ],
+  "usage_domain": [
+    "geography",
+    "travel",
+    "daily life"
+  ],
+  "tags": [
+    "river",
+    "crossing",
+    "boundaries",
+    "extent"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Rooted in Bengal's riverine landscape, often evokes the vastness of waterways in everyday expressions."
+}

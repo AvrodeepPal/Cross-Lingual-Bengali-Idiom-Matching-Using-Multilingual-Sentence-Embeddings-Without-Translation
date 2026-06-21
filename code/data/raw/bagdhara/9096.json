@@ -1,0 +1,38 @@
+{
+  "id": "9096",
+  "idiom": "রাতবিরাত",
+  "alternative_idioms": [],
+  "literal_meaning": "রাত এবং বিপরীত রাত (নাইট অ্যান্ড অপোজিট নাইট)",
+  "figurative_meaning_bn": "শুভরাত্রি ও অশুভ রাত্রি",
+  "figurative_meaning_en": "Auspicious night and inauspicious night",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "আজকের রাতবিরাত দেখে মনে হচ্ছে কোনো শুভ কাজের জন্য উপযুক্ত নয়।",
+    "গ্রামের লোকেরা রাতবিরাতের উপর ভিত্তি করে তারা দেখে সিদ্ধান্ত নেয়।"
+  ],
+  "example_sentences_in_english": [
+    "Judging by today's auspicious and inauspicious nights, it doesn't seem suitable for any good work.",
+    "Village people make decisions based on the omens of auspicious and inauspicious nights."
+  ],
+  "usage_domain": [
+    "Astrology",
+    "Omens",
+    "Daily Superstitions"
+  ],
+  "tags": [
+    "রাত",
+    "শুভ-অশুভ",
+    "জ্যোতিষ",
+    "লোকসংস্কৃতি"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from traditional Bengali beliefs in nocturnal omens influenced by Hindu astrology, where nights are classified as favorable or unfavorable for activities."
+  ],
+  "note": "The idiom reflects folk astrological practices common in rural Bengal."
+}

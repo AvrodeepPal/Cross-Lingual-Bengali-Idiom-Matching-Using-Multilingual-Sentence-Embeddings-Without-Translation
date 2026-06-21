@@ -1,0 +1,38 @@
+{
+  "id": "3462",
+  "idiom": "ঘরের কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘরের কথা (house's words or home matters)",
+  "figurative_meaning_bn": "পরিবারের ও নিজপক্ষের অন্তরঙ্গ কথা",
+  "figurative_meaning_en": "Intimate or private matters of the family and one's own side",
+  "similar_in_english": [
+    "Keep it in the family",
+    "Air one's dirty laundry in public (opposite usage)"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরের কথা বাইরে বললে সমস্যা হয়।",
+    "সে ঘরের কথা কাউকে বলে না।"
+  ],
+  "example_sentences_in_english": [
+    "Don't share family matters outside.",
+    "She never discusses home affairs with others."
+  ],
+  "usage_domain": [
+    "Family",
+    "Privacy",
+    "Conversation"
+  ],
+  "tags": [
+    "family secrets",
+    "intimacy",
+    "discretion"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Emphasizes cultural value of family privacy in Bengali society"
+}

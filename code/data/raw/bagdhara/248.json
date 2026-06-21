@@ -1,0 +1,38 @@
+{
+  "id": "248",
+  "idiom": "অর্থপিশাচ",
+  "alternative_idioms": [],
+  "literal_meaning": "অর্থের পিশাচ (money demon)",
+  "figurative_meaning_bn": "অত্যন্ত কৃপণ",
+  "figurative_meaning_en": "extremely miserly",
+  "similar_in_english": [
+    "penny-pincher",
+    "tight-fisted",
+    "skinflint"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন অর্থপিশাচ, কখনো কাউকে সাহায্য করে না।",
+    "এই অর্থপিশাচের কারণে পরিবারে কেউ খুশি নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real money demon; he never helps anyone.",
+    "Because of this miser, no one in the family is happy."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "finance"
+  ],
+  "tags": [
+    "miserliness",
+    "greed",
+    "negative trait"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term draws from Bengali folklore where 'pishach' represents greedy supernatural beings."
+}

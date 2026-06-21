@@ -1,0 +1,40 @@
+{
+  "id": "2827",
+  "idiom": "গঙ্গাযাত্রা",
+  "alternative_idioms": [],
+  "literal_meaning": "গঙ্গায় যাত্রা (Journey to the Ganges)",
+  "figurative_meaning_bn": "গঙ্গাজল স্পর্শ করে মরার জন্য মুমূর্ষু ব্যক্তিকে গঙ্গাতীরে যাওয়া",
+  "figurative_meaning_en": "Taking a dying person to the banks of the Ganges to touch its holy water before death",
+  "similar_in_english": [
+    "No direct equivalent; akin to 'performing last rites' or 'deathbed pilgrimage'"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবনের শেষ মুহূর্তে পরিবার গঙ্গাযাত্রা করে তাকে মুক্তি দিল।",
+    "পিতার মৃত্যুকাছে গিয়ে আমরা গঙ্গাযাত্রার ব্যবস্থা করলাম।"
+  ],
+  "example_sentences_in_english": [
+    "In his final moments, the family arranged a Ganga yatra to grant him spiritual liberation.",
+    "As father's death approached, we organized a Ganga yatra for him."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Death Rituals",
+    "Hindu Customs"
+  ],
+  "tags": [
+    "Hinduism",
+    "Pilgrimage",
+    "Moksha",
+    "Ganges River"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom stems from ancient Hindu beliefs where immersion in or touching the Ganges is believed to wash away sins and ensure moksha (liberation from the cycle of rebirth), a practice documented in texts like the Puranas."
+  ],
+  "note": "Primarily used in contexts of Hindu end-of-life rituals in Bengal and broader India."
+}

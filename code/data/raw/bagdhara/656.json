@@ -1,0 +1,38 @@
+{
+  "id": "656",
+  "idiom": "আস্তানা গাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "আস্তানা তৈরি করা বা বসতি স্থাপন করা",
+  "figurative_meaning_bn": "সাময়িকভাবে কোথাও বসবাস শুরু করা",
+  "figurative_meaning_en": "To start living temporarily somewhere",
+  "similar_in_english": [
+    "To pitch one's tent",
+    "To set up camp"
+  ],
+  "example_sentences_in_bangla": [
+    "শহরে এসে সে একটা ছোট ফ্ল্যাটে আস্তানা গাড়ল।",
+    "গ্রামে ফিরে এসে তারা পুরনো বাড়িতে আস্তানা গাড়ার সিদ্ধান্ত নিল।"
+  ],
+  "example_sentences_in_english": [
+    "Upon arriving in the city, he set up a temporary abode in a small flat.",
+    "Returning to the village, they decided to establish a temporary residence in the old house."
+  ],
+  "usage_domain": [
+    "daily life",
+    "relocation",
+    "travel"
+  ],
+  "tags": [
+    "temporary settlement",
+    "residence",
+    "migration"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the migratory or nomadic aspects of Bengali life, often used in contexts of urban-rural movement."
+}

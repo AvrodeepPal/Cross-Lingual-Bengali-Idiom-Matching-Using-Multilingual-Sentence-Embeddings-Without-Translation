@@ -1,0 +1,40 @@
+{
+  "id": "2435",
+  "idiom": "ক্রোড়পত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "অতিরিক্ত পত্র বা খণ্ড (extra leaf or section)",
+  "figurative_meaning_bn": "দলিলের অতিরিক্ত অংশ; গ্রন্থের শেষে যুক্ত গ্রন্থখণ্ড; সংবাদপত্রের সাময়িকী",
+  "figurative_meaning_en": "Extra part of a document; volume attached at the end of a book; periodical supplement of a newspaper",
+  "similar_in_english": [
+    "appendix",
+    "supplement",
+    "addendum"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বইয়ের শেষে একটি ক্রোড়পত্র যুক্ত করা হয়েছে যাতে অতিরিক্ত তথ্য দেওয়া আছে।",
+    "সংবাদপত্রের ক্রোড়পত্রে বিশেষ নিবন্ধ প্রকাশিত হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "An appendix has been added at the end of this book with additional information.",
+    "A special article was published in the newspaper's supplement."
+  ],
+  "usage_domain": [
+    "literature",
+    "journalism",
+    "legal documents"
+  ],
+  "tags": [
+    "book",
+    "newspaper",
+    "document",
+    "formal writing"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This term is more of a formal literary or journalistic expression than a colloquial idiom, rooted in Bengali print culture."
+}

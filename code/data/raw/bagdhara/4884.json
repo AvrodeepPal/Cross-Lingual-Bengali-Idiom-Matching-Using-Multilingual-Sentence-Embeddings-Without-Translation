@@ -1,0 +1,38 @@
+{
+  "id": "4884",
+  "idiom": "টসটস",
+  "alternative_idioms": [],
+  "literal_meaning": "রস ঝরার শব্দানুকরণ (onomatopoeic sound of dripping juice)",
+  "figurative_meaning_bn": "রসে পরিপূর্ণ",
+  "figurative_meaning_en": "Full of juice or ripeness",
+  "similar_in_english": [
+    "Dripping with juice",
+    "Bursting with flavor"
+  ],
+  "example_sentences_in_bangla": [
+    "আমগুলো পেকে টসটস করছে।",
+    "লেবুগুলো এত টসটস যে চিবিয়ে খেলে রস মুখে ছড়িয়ে পড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "The mangoes are so ripe and juicy.",
+    "The lemons are dripping with juice when you bite into them."
+  ],
+  "usage_domain": [
+    "Food and Agriculture",
+    "Daily Descriptions"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "fruit",
+    "ripeness",
+    "juiciness"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is onomatopoeic, mimicking the sound of juice from ripe fruits, commonly used in Bengali agrarian contexts."
+}

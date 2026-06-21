@@ -1,0 +1,39 @@
+{
+  "id": "2328",
+  "idiom": "কেঁচে যাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কেঁচোর মতো চাপা পড়ে যাওয়া বা পিষে ফেলা",
+  "figurative_meaning_bn": "আয়োজন পণ্ড হওয়া; ভেস্তে যাওয়া",
+  "figurative_meaning_en": "Plans or arrangements to fail or be ruined",
+  "similar_in_english": [
+    "Go down the drain",
+    "Fall through the cracks",
+    "Come to naught"
+  ],
+  "example_sentences_in_bangla": [
+    "আমাদের বিয়ের আয়োজনটা হঠাৎ কেঁচে গেল।",
+    "পরীক্ষার প্রস্তুতি সব কেঁচে গেছে বৃষ্টির জন্য।"
+  ],
+  "example_sentences_in_english": [
+    "Our wedding arrangements suddenly went awry.",
+    "All the exam preparations have been ruined due to the rain."
+  ],
+  "usage_domain": [
+    "daily life",
+    "planning",
+    "events"
+  ],
+  "tags": [
+    "failure",
+    "disappointment",
+    "ruin"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom evokes the image of something being crushed like a worm, symbolizing total collapse of efforts."
+}

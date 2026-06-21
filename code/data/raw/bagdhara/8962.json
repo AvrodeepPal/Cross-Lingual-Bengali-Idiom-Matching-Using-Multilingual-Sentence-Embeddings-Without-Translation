@@ -1,0 +1,39 @@
+{
+  "id": "8962",
+  "idiom": "যুক্তবেণী",
+  "alternative_idioms": [],
+  "literal_meaning": "যুক্ত (সংযুক্ত) + বেণী (নদী বা সঙ্গমস্থল)",
+  "figurative_meaning_bn": "দুই নদীর সঙ্গমস্থল",
+  "figurative_meaning_en": "The confluence or meeting point of two rivers",
+  "similar_in_english": [
+    "Confluence of rivers",
+    "Where two rivers meet"
+  ],
+  "example_sentences_in_bangla": [
+    "গঙ্গা ও যমুনার যুক্তবেণী হিন্দুদের কাছে পবিত্র স্থান।",
+    "বাংলার অনেক নদীতে যুক্তবেণীর দৃশ্য দেখা যায়।"
+  ],
+  "example_sentences_in_english": [
+    "The Yukta Beni of the Ganges and Yamuna is a sacred place for Hindus.",
+    "Many rivers in Bengal feature scenic Yukta Beni points."
+  ],
+  "usage_domain": [
+    "geography",
+    "travel",
+    "literature"
+  ],
+  "tags": [
+    "nature",
+    "rivers",
+    "confluence",
+    "union"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often associated with sacred sites like Prayagraj in broader Indian context, but primarily geographical in Bengali usage."
+}

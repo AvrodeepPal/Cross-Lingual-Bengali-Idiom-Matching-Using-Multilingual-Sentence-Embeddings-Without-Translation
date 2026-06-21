@@ -1,0 +1,41 @@
+{
+  "id": "8584",
+  "idiom": "মামারবাড়ী",
+  "alternative_idioms": [],
+  "literal_meaning": "মামার বাড়ি (maternal uncle's house)",
+  "figurative_meaning_bn": "আদর ও প্রশ্রয়ের স্থান",
+  "figurative_meaning_en": "A place of pampering and indulgence",
+  "similar_in_english": [
+    "Like a kid in a candy store",
+    "Spoiled rotten"
+  ],
+  "example_sentences_in_bangla": [
+    "মামারবাড়ী পেয়েছো, যা ইচ্ছা তাই করবে?",
+    "সে মামারবাড়ীতে গিয়ে সব কিছু করতে পারে, কেউ বাধা দেয় না।"
+  ],
+  "example_sentences_in_english": [
+    "You've reached mama's house, do whatever you want?",
+    "At her uncle's place, she can do anything without anyone stopping her."
+  ],
+  "usage_domain": [
+    "Family",
+    "Everyday conversation",
+    "Relationships"
+  ],
+  "tags": [
+    "pampering",
+    "indulgence",
+    "family affection",
+    "leniency"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom stems from traditional Bengali family dynamics where the maternal uncle's home is seen as a haven of affection and fewer restrictions compared to one's own home."
+  ],
+  "note": "Reflects the cultural importance of extended family in Bengali society, particularly the special bond with maternal relatives."
+}

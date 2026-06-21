@@ -1,0 +1,39 @@
+{
+  "id": "7296",
+  "idiom": "ওঝার বেটা বনগরু",
+  "alternative_idioms": [],
+  "literal_meaning": "ওঝার ছেলে বনগরু (ঐতিহ্যবাহী ঔষধী বা জাদুকরের ছেলে একটি বনগরু টিকটিকি)",
+  "figurative_meaning_bn": "আকাট মূর্খ",
+  "figurative_meaning_en": "utter fool or extreme stupidity",
+  "similar_in_english": [
+    "dumb as a post",
+    "thick as a brick"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এতটাই বোকা যে ওঝার বেটা বনগরু বলে মনে হয়।",
+    "তার আচরণ দেখে মনে হচ্ছে ওঝার বেটা বনগরু।"
+  ],
+  "example_sentences_in_english": [
+    "He is such a fool that he seems like the son of an ojha, a bongoru.",
+    "His behavior makes him look like the ojha's son, a bongoru."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insult"
+  ],
+  "tags": [
+    "foolishness",
+    "animals",
+    "rural folklore"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom draws from Bengali rural traditions where 'ojha' refers to a folk healer who deals with spirits and reptiles like the monitor lizard (bongoru), implying ironic stupidity even in such a household."
+  ],
+  "note": "'বনগরু' refers to a monitor lizard, symbolizing dullness in folklore."
+}

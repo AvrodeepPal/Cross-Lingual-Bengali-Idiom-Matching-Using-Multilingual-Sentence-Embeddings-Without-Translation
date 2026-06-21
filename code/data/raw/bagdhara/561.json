@@ -1,0 +1,37 @@
+{
+  "id": "561",
+  "idiom": "আবর্জনা",
+  "alternative_idioms": [],
+  "literal_meaning": "আবর্জনা (garbage or waste)",
+  "figurative_meaning_bn": "অবাঞ্ছিত ব্যক্তি",
+  "figurative_meaning_en": "Unwanted person",
+  "similar_in_english": [
+    "treated like garbage",
+    "social deadweight"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরিবারের আবর্জনা হয়ে গেছে।",
+    "বৃদ্ধরা অনেক সময় সংসারের আবর্জনা বলে উপেক্ষিত হন।"
+  ],
+  "example_sentences_in_english": [
+    "He has become the garbage of the family.",
+    "Elders are often neglected as household garbage."
+  ],
+  "usage_domain": [
+    "family",
+    "society"
+  ],
+  "tags": [
+    "derogatory",
+    "modern",
+    "ageism"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects modern societal attitudes towards the elderly in Bengali culture."
+}

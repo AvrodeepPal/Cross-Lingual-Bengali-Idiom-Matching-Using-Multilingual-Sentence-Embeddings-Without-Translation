@@ -1,0 +1,37 @@
+{
+  "id": "2721",
+  "idiom": "খেদ",
+  "alternative_idioms": [],
+  "literal_meaning": "দুঃখ বা অনুশোচনা",
+  "figurative_meaning_bn": "আক্ষেপ",
+  "figurative_meaning_en": "regret or remorse",
+  "similar_in_english": [
+    "no regrets",
+    "rue the day"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার কোন খেদ নেই এই সিদ্ধান্ত নিয়ে।",
+    "তার সিদ্ধান্তের জন্য খেদ প্রকাশ করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "I have no regrets about this decision.",
+    "He expressed regret for his decision."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation"
+  ],
+  "tags": [
+    "regret",
+    "remorse",
+    "emotion"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "খেদ is a common Bengali word often used idiomatically to express lack of regret, as in 'কোন খেদ নেই'."
+}

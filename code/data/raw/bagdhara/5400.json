@@ -1,0 +1,38 @@
+{
+  "id": "5400",
+  "idiom": "তাল তোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "তাল বাজানো বা হাততালি দেওয়া (rhythm beating or clapping hands)",
+  "figurative_meaning_bn": "বায়না করা",
+  "figurative_meaning_en": "to bargain or haggle",
+  "similar_in_english": [
+    "to haggle",
+    "to beat down the price"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে গিয়ে সে সবসময় দামের তাল তোলে।",
+    "এবার সবাই কাশ্মীর যাওয়ার তাল তুলেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He always starts bargaining over prices in the market.",
+    "This time everyone has started bargaining for the Kashmir trip."
+  ],
+  "usage_domain": [
+    "commerce",
+    "daily life",
+    "negotiation"
+  ],
+  "tags": [
+    "bargaining",
+    "market",
+    "haggling"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali market practices where bargaining begins with verbal exchanges akin to setting a rhythm."
+}

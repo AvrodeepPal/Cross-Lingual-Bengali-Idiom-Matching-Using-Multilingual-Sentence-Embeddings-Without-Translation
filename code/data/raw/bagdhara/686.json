@@ -1,0 +1,37 @@
+{
+  "id": "686",
+  "idiom": "ইনকার",
+  "alternative_idioms": [],
+  "literal_meaning": "ইনকার (পারসিক/উর্দু থেকে উদ্ভূত, অস্বীকার বা অসম্মতি প্রকাশকারী শব্দ)",
+  "figurative_meaning_bn": "অস্বীকার",
+  "figurative_meaning_en": "denial or refusal",
+  "similar_in_english": [
+    "deny",
+    "refuse"
+  ],
+  "example_sentences_in_bangla": [
+    "সাহায্য করতে সে ইনকার করছে।",
+    "তার প্রস্তাবে আমি ইনকার করলাম।"
+  ],
+  "example_sentences_in_english": [
+    "He is denying to help.",
+    "I refused his proposal."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "formal refusal"
+  ],
+  "tags": [
+    "denial",
+    "refusal",
+    "borrowed word"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a borrowed term from Persian/Urdu commonly used in Bengali for expressing denial, not a traditional idiom but functions similarly in idiomatic speech."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3323",
+  "idiom": "গোড়া মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "গোড়ায় আঘাত করা (root or base hitting)",
+  "figurative_meaning_bn": "মূলোচ্ছেদ করা",
+  "figurative_meaning_en": "to uproot or eradicate completely",
+  "similar_in_english": [
+    "root out",
+    "nip in the bud",
+    "cut off at the roots"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকার দুর্নীতির গোড়া মেরেছে।",
+    "এই অভ্যাসের গোড়া মারতে হবে না হলে সমস্যা বাড়বে।"
+  ],
+  "example_sentences_in_english": [
+    "The government has rooted out corruption.",
+    "We must nip this habit in the bud, or the problem will worsen."
+  ],
+  "usage_domain": [
+    "politics",
+    "social issues",
+    "agriculture"
+  ],
+  "tags": [
+    "eradication",
+    "destruction",
+    "prevention",
+    "agricultural metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from agricultural practices of uprooting plants, common in rural Bengali life."
+}

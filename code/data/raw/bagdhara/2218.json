@@ -1,0 +1,40 @@
+{
+  "id": "2218",
+  "idiom": "কুঁচকি-কণ্ঠা খাওয়া",
+  "alternative_idioms": [
+    "গণ্ডেপিণ্ডে গেলা"
+  ],
+  "literal_meaning": "কুঁচকানো গলা দিয়ে খাওয়া (to eat with a puckered or constricted throat)",
+  "figurative_meaning_bn": "মাত্রারিক্তভোজন",
+  "figurative_meaning_en": "overeating or excessive indulgence in food",
+  "similar_in_english": [
+    "eat like a pig",
+    "stuff one's face"
+  ],
+  "example_sentences_in_bangla": [
+    "পার্টিতে সে কুঁচকি-কণ্ঠা খেয়ে পরে খুব অস্বস্তি বোধ করল।",
+    "দুর্গাপূজার সময় অনেকেই কুঁচকি-কণ্ঠা খেয়ে পেটের সমস্যায় ভোগেন।"
+  ],
+  "example_sentences_in_english": [
+    "At the party, he overate and felt very uncomfortable afterward.",
+    "During Durga Puja, many people overeat and suffer from stomach issues."
+  ],
+  "usage_domain": [
+    "daily life",
+    "food and festivals"
+  ],
+  "tags": [
+    "eating",
+    "excess",
+    "gluttony",
+    "health"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali cultural emphasis on feasting during festivals, often leading to overindulgence."
+}

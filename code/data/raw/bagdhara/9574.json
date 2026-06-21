@@ -1,0 +1,40 @@
+{
+  "id": "9574",
+  "idiom": "সওয়াল-জবাব",
+  "alternative_idioms": [],
+  "literal_meaning": "প্রশ্ন-উত্তর",
+  "figurative_meaning_bn": "প্রশ্নোত্তর, তর্কবিতর্ক, মোকদ্দমায় উকিলের বাদপ্রতিবাদ",
+  "figurative_meaning_en": "question and answer, debate or argument, lawyers' arguments and counterarguments in court",
+  "similar_in_english": [
+    "back and forth",
+    "tit for tat",
+    "question and answer session"
+  ],
+  "example_sentences_in_bangla": [
+    "সওয়াল-জবাবে সে সম্পূর্ণভাবে পরাজিত হলো।",
+    "মিটিংয়ে সওয়াল-জবাব চলতে থাকলো অনেকক্ষণ।"
+  ],
+  "example_sentences_in_english": [
+    "He was completely defeated in the question-answer exchange.",
+    "The meeting continued with back-and-forth questions and answers for a long time."
+  ],
+  "usage_domain": [
+    "conversation",
+    "debate",
+    "legal"
+  ],
+  "tags": [
+    "argument",
+    "questioning",
+    "discussion",
+    "courtroom"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in everyday Bengali discourse to describe interactive questioning, especially in argumentative contexts."
+}

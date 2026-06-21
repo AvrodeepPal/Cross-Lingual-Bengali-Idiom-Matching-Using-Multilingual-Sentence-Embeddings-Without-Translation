@@ -1,0 +1,40 @@
+{
+  "id": "8608",
+  "idiom": "মার্কামারা",
+  "alternative_idioms": [],
+  "literal_meaning": "চিহ্নিত বা দাগানো (দুবার উচ্চারণ করে জোর দেওয়া)",
+  "figurative_meaning_bn": "মন্দার্থে বিশেষভাবে চিহ্নিত; সবার পরিচিত",
+  "figurative_meaning_en": "Notoriously marked or infamous; known to everyone in a negative sense",
+  "similar_in_english": [
+    "notorious",
+    "infamous",
+    "a marked man"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই গুণ্ডাটি পুরো শহরে মার্কামারা হয়ে গেছে।",
+    "তার খারাপ কাজের জন্য সে মার্কামারা চোর।"
+  ],
+  "example_sentences_in_english": [
+    "That thug has become notorious throughout the city.",
+    "He is an infamous thief due to his bad deeds."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "descriptive",
+    "negative characterization"
+  ],
+  "tags": [
+    "notorious",
+    "infamous",
+    "criminal",
+    "urban slang"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Idiom influenced by Urdu/Hindi 'marka' meaning branded or marked, often used in colloquial Bengali for notoriety."
+}

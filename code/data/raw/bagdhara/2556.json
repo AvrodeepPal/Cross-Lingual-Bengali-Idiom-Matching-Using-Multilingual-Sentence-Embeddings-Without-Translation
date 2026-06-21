@@ -1,0 +1,38 @@
+{
+  "id": "2556",
+  "idiom": "খাঁদা-বোচা",
+  "alternative_idioms": [],
+  "literal_meaning": "খাঁদা (ছেনি বা কোদালের মতো) এবং বোচা (মোটা বা অস্পষ্ট) – অর্থাৎ অস্পষ্টভাবে কাটা বা গড়া",
+  "figurative_meaning_bn": "নতনাসিক, নাক-মুখের রেখা সুস্পষ্ট বা তীক্ষ্ণ নয় এমন",
+  "figurative_meaning_en": "Having a flat nose with indistinct or blunt lines on the nose and face",
+  "similar_in_english": [
+    "snub-nosed",
+    "flat-featured"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চেহারা খাঁদা-বোচা, কোনো স্পষ্টতা নেই মুখে।",
+    "গ্রামের সেই লোকটির খাঁদা-বোচা নাক দেখলে হাসি পায়।"
+  ],
+  "example_sentences_in_english": [
+    "Her face is khanda-bocha, with no sharp features.",
+    "The villager had a khanda-bocha nose that looked blunt and undefined."
+  ],
+  "usage_domain": [
+    "physical description",
+    "appearance"
+  ],
+  "tags": [
+    "face",
+    "nose",
+    "unattractive",
+    "figurative"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from traditional tool imagery in Bengali rural life, emphasizing blunt craftsmanship metaphorically for facial features."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6355",
+  "idiom": "নাতোয়ানের দুনো ব্যয়",
+  "alternative_idioms": [],
+  "literal_meaning": "নাতোয়ানের (দরিদ্র বা ভবঘুরের) দ্বিগুণ ব্যয়",
+  "figurative_meaning_bn": "অভাবগ্রস্ত লোক প্রয়োজনকালে ব্যয়ে অপারগ হয়, কিন্তু পরে সেই কাজেই দ্বিগুণ ব্যয় করে",
+  "figurative_meaning_en": "A person in poverty is unable to spend when it's truly needed, but later ends up spending double on the same thing",
+  "similar_in_english": [
+    "Penny wise, pound foolish"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দরকারের সময় ওষুধ কিনতে পারেনি, পরে চিকিত্সায় নাতোয়ানের দুনো ব্যয় হলো।",
+    "গরিব লোকেরা প্রায়ই নাতোয়ানের দুনো ব্যয় করে ফেলে, যা এড়ানো যেত।"
+  ],
+  "example_sentences_in_english": [
+    "He couldn't afford medicine when it was needed, but later incurred the double expense of the mendicant on treatment.",
+    "Poor people often end up with the mendicant's double expense, which could have been avoided."
+  ],
+  "usage_domain": [
+    "finance",
+    "poverty",
+    "daily life"
+  ],
+  "tags": [
+    "দারিদ্র্য",
+    "ব্যয়",
+    "পস্চাত্তাপ",
+    "অর্থনৈতিক সতর্কতা"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই প্রবাদটি বাংলা লোকসংস্কৃতিতে দারিদ্র্যের ফলে হওয়া অর্থনৈতিক ভুলের উপর জোর দেয়।"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "5182",
+  "idiom": "ডিসমিস",
+  "alternative_idioms": [],
+  "literal_meaning": "বরখাস্ত করা বা পাঠানো (English loanword for 'dismiss')",
+  "figurative_meaning_bn": "কাজ বা চাকরি থেকে বরখাস্ত",
+  "figurative_meaning_en": "Dismissed from work or job; fired from employment",
+  "similar_in_english": [
+    "Fired",
+    "Get the sack",
+    "Let go"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কোম্পানি থেকে ডিসমিস হয়ে গেছে কারণ সে অনেক ভুল করেছে।",
+    "ক্রিকেট ম্যাচে ব্যাটারটিকে ডিসমিস করা হলো।"
+  ],
+  "example_sentences_in_english": [
+    "He was dismissed from the company because he made too many mistakes.",
+    "The batsman was dismissed in the cricket match."
+  ],
+  "usage_domain": [
+    "Employment",
+    "Sports (cricket)"
+  ],
+  "tags": [
+    "Job loss",
+    "Termination",
+    "Professional",
+    "Loanword"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is an English loanword commonly used in modern Bengali, especially in urban professional contexts."
+}

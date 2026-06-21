@@ -1,0 +1,39 @@
+{
+  "id": "6436",
+  "idiom": "নিম মোল্লা",
+  "alternative_idioms": [],
+  "literal_meaning": "নিম গাছের মোল্লা",
+  "figurative_meaning_bn": "অর্ধশিক্ষিত মোল্লা",
+  "figurative_meaning_en": "A half-educated or poorly knowledgeable religious scholar",
+  "similar_in_english": [
+    "Half-baked scholar",
+    "Pseudo-intellectual"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নিম মোল্লার মতো ধর্মীয় ব্যাখ্যা দেয়, কিন্তু আসলে কিছুই জানে না।",
+    "গ্রামের এই নিম মোল্লা লোকদের বিভ্রান্ত করে।"
+  ],
+  "example_sentences_in_english": [
+    "He explains religion like a neem mullah, but actually knows nothing.",
+    "This village's neem mullah confuses people with his shallow knowledge."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Education",
+    "Criticism"
+  ],
+  "tags": [
+    "religious",
+    "mockery",
+    "ignorance",
+    "clergy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the neem tree's bitterness symbolizing superficial or bitter knowledge in religious contexts"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9318",
+  "idiom": "লেখালেখি",
+  "alternative_idioms": [],
+  "literal_meaning": "লেখা-লেখির কাজ বা পত্রাদান-পত্রপ্রদান",
+  "figurative_meaning_bn": "কাগজ-কলমে বাদপ্রতিবাদ",
+  "figurative_meaning_en": "Disputes or arguments conducted through writing or paperwork",
+  "similar_in_english": [
+    "war of words on paper",
+    "legal wrangling"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই পক্ষের মধ্যে লেখালেখি চলছে অনেক দিন ধরে।",
+    "এই লেখালেখির ফলে মামলা আরও জটিল হয়ে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "There has been a lot of back-and-forth writing between the two parties for days.",
+    "This paperwork dispute has made the case even more complicated."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Administrative",
+    "Formal Communication"
+  ],
+  "tags": [
+    "dispute",
+    "bureaucracy",
+    "written argument",
+    "prolonged conflict"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to bureaucratic or legal exchanges typical in Bengali administrative contexts"
+}

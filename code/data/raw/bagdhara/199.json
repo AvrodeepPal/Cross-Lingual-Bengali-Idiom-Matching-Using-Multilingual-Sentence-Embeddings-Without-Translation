@@ -1,0 +1,40 @@
+{
+  "id": "199",
+  "idiom": "অন্নধ্বংস করা",
+  "alternative_idioms": [],
+  "literal_meaning": "খাদ্য ধ্বংস করা",
+  "figurative_meaning_bn": "ব্যঙ্গে অলসভাবে জীবন কাটানো; বসে বসে খাওয়া",
+  "figurative_meaning_en": "In sarcasm, to live a lazy life; to eat idly without working",
+  "similar_in_english": [
+    "To be a couch potato",
+    "To live off one's parents",
+    "To sponge off someone"
+  ],
+  "example_sentences_in_bangla": [
+    "সে শুধু বাড়িতে বসে অন্নধ্বংস করছে, কোনো চাকরি করে না।",
+    "এই ছেলেটা অন্নধ্বংস করে চলেছে, কখনো কাজে হাত দেয় না।"
+  ],
+  "example_sentences_in_english": [
+    "He just sits at home destroying food, doesn't do any job.",
+    "This boy is idly wasting food, never lifts a finger for work."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "family criticism",
+    "sarcasm"
+  ],
+  "tags": [
+    "laziness",
+    "mockery",
+    "idleness",
+    "food wastage"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom highlights cultural disdain for unproductive lifestyles in Bengali society."
+}

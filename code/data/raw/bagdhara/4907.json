@@ -1,0 +1,41 @@
+{
+  "id": "4907",
+  "idiom": "টাকার শ্রাদ্ধ",
+  "alternative_idioms": [],
+  "literal_meaning": "টাকার শ্রাদ্ধ (money's funeral rite)",
+  "figurative_meaning_bn": "অপরিমিত অর্থের অপব্যয়",
+  "figurative_meaning_en": "extravagant waste of money",
+  "similar_in_english": [
+    "burning a hole in one's pocket",
+    "throwing money down the drain"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের অনুষ্ঠানে টাকার শ্রাদ্ধ হয়ে গেল।",
+    "এই প্রকল্পে টাকার শ্রাদ্ধ করা হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "The wedding turned into a complete funeral of money.",
+    "They're holding a money's shraddha on this project with all the unnecessary spending."
+  ],
+  "usage_domain": [
+    "finance",
+    "weddings",
+    "extravagance"
+  ],
+  "tags": [
+    "money",
+    "waste",
+    "lavish spending",
+    "ritual"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the Hindu ritual of shraddha, a funeral ceremony for the deceased, metaphorically applied to the excessive spending in wealthy Bengali wedding ceremonies where money is 'buried' through lavish expenditures."
+  ],
+  "note": "Refers to opulent displays in social events, common in Bengali traditions."
+}

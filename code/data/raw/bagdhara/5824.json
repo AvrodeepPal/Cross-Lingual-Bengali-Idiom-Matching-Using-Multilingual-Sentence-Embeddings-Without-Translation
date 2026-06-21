@@ -1,0 +1,39 @@
+{
+  "id": "5824",
+  "idiom": "দিনের দিন",
+  "alternative_idioms": [],
+  "literal_meaning": "দিনের দিন (শাব্দিকভাবে 'দিনের দিন' অর্থাৎ প্রতিদিন বা দিনান্তরে)",
+  "figurative_meaning_bn": "প্রতিদিন, সেইদিনই",
+  "figurative_meaning_en": "Every day, on the same day (promptly, without postponement)",
+  "similar_in_english": [
+    "Day by day",
+    "Take it day by day"
+  ],
+  "example_sentences_in_bangla": [
+    "দিনের দিন কাজ সারো, কালকের জন্য ফেলে রাখো না।",
+    "সে দিনের দিনই অভ্যাস করে নেয়।"
+  ],
+  "example_sentences_in_english": [
+    "Finish the work day by day, don't leave it for tomorrow.",
+    "He does it every day without fail."
+  ],
+  "usage_domain": [
+    "daily routine",
+    "work ethic",
+    "time management"
+  ],
+  "tags": [
+    "time",
+    "routine",
+    "promptness",
+    "daily life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Emphasizes immediacy and consistency in daily tasks, common in Bengali proverbial wisdom."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2221",
+  "idiom": "কুঁজোর ইচ্ছা",
+  "alternative_idioms": [],
+  "literal_meaning": "কুঁজো ব্যক্তির ইচ্ছা",
+  "figurative_meaning_bn": "অসমর্থের অভিলাষ",
+  "figurative_meaning_en": "The desire of the incapable",
+  "similar_in_english": [
+    "Wishful thinking",
+    "Pipe dream"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কুঁজোর ইচ্ছা করে যে রাজা হবে, কিন্তু তার কোনো ক্ষমতা নেই।",
+    "এই অবস্থায় বাড়ি কেনার কথা ভাবা কুঁজোর ইচ্ছা।"
+  ],
+  "example_sentences_in_english": [
+    "He has the hunchback's desire to become a king, but he has no power.",
+    "Thinking of buying a house in this situation is the desire of the incapable."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "literature",
+    "daily conversation"
+  ],
+  "tags": [
+    "desire",
+    "incapability",
+    "folklore",
+    "futility"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from traditional Bengali folklore, emphasizing the unattainability of ambitions for the powerless."
+}

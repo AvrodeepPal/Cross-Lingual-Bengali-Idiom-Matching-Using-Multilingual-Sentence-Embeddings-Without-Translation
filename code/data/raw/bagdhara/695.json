@@ -1,0 +1,44 @@
+{
+  "id": "695",
+  "idiom": "ইন্দ্রপতন",
+  "alternative_idioms": [
+    "ইন্দ্রপাত",
+    "নক্ষত্রপতন"
+  ],
+  "literal_meaning": "ইন্দ্রের পতন (The fall of Indra)",
+  "figurative_meaning_bn": "কোন মহামানবের মৃত্যু; শীর্ষস্থানীয় লোকের মৃত্যু",
+  "figurative_meaning_en": "The death of a great person; the death of a top-ranking individual",
+  "similar_in_english": [
+    "The fall of a giant",
+    "A star falls"
+  ],
+  "example_sentences_in_bangla": [
+    "গান্ধীজির মৃত্যু এক ইন্দ্রপতনের মতো ছিল।",
+    "সেই বিখ্যাত নেতার মৃত্যু ইন্দ্রপতনের অনুরূপ ঘটনা।"
+  ],
+  "example_sentences_in_english": [
+    "Gandhi's death was akin to the fall of Indra.",
+    "The demise of that famous leader was like an Indra's fall."
+  ],
+  "usage_domain": [
+    "Politics",
+    "History",
+    "Literature"
+  ],
+  "tags": [
+    "death",
+    "greatness",
+    "mythology",
+    "leadership"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Hindu mythology where Indra, the king of gods, symbolizes supreme authority; metaphorically applied to the death of eminent figures like Mahatma Gandhi in 1948."
+  ],
+  "note": "The idiom draws from Vedic traditions, emphasizing the profound impact of losing a pivotal figure."
+}

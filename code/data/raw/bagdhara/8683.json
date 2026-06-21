@@ -1,0 +1,42 @@
+{
+  "id": "8683",
+  "idiom": "মুখ ছোটানো",
+  "alternative_idioms": [
+    "মুখ ছোটা"
+  ],
+  "literal_meaning": "মুখকে ছোট করা",
+  "figurative_meaning_bn": "অনর্গল বিরতিহীন কথা বলা; অবাধে কথা বলা; বক্তৃতা দেওয়া",
+  "figurative_meaning_en": "speaking fluently without interruption; speaking freely; delivering a speech",
+  "similar_in_english": [
+    "run off at the mouth",
+    "have the gift of the gab",
+    "speechify"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় সে মুখ ছোটানো করে সকলের দৃষ্টি আকর্ষণ করল।",
+    "বন্ধুরা তার মুখ ছোটানো শুনে হাসতে হাসতে গড়াগড়ি দিল।"
+  ],
+  "example_sentences_in_english": [
+    "In the meeting, he ran off at the mouth and captured everyone's attention.",
+    "His friends rolled on the floor laughing at his nonstop chatter."
+  ],
+  "usage_domain": [
+    "conversation",
+    "public speaking",
+    "social interaction"
+  ],
+  "tags": [
+    "talkative",
+    "eloquent",
+    "verbose",
+    "speech"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom may reflect everyday Bengali conversational habits, emphasizing expressive speech patterns in social settings."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "1109",
+  "idiom": "একসা",
+  "alternative_idioms": [
+    "একশা"
+  ],
+  "literal_meaning": "একত্রিত হয়ে একাকার হওয়া বা সম্পূর্ণভাবে মিশ্রিত হওয়া",
+  "figurative_meaning_bn": "একত্র; একাকার; মিলিত; মিশ্রিত; সম্পূর্ণভাবে",
+  "figurative_meaning_en": "together; indistinguishable; united; mixed; completely",
+  "similar_in_english": [
+    "all mixed up",
+    "drenched through",
+    "become one"
+  ],
+  "example_sentences_in_bangla": [
+    "বৃষ্টিতে ভিজে তার সব জামাকাপড় একসা হয়ে গেছে।",
+    "দীর্ঘ যাত্রায় সবাই ক্লান্ত হয়ে একসা।"
+  ],
+  "example_sentences_in_english": [
+    "His clothes became soaked and stuck together in the rain.",
+    "After the long journey, everyone was exhausted and indistinguishable in their fatigue."
+  ],
+  "usage_domain": [
+    "descriptive",
+    "weather",
+    "daily life"
+  ],
+  "tags": [
+    "mixing",
+    "soaking",
+    "unity",
+    "indistinguishability"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of rain or excessive wetting leading to things blending together"
+}

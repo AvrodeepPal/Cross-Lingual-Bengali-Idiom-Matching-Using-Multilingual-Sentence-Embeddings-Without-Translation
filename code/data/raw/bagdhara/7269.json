@@ -1,0 +1,40 @@
+{
+  "id": "7269",
+  "idiom": "বড়মানুষ",
+  "alternative_idioms": [],
+  "literal_meaning": "বড় মানুষ (big person)",
+  "figurative_meaning_bn": "বড়মনের মানুষ; বড়লোক",
+  "figurative_meaning_en": "A generous or big-hearted person; a wealthy or influential individual",
+  "similar_in_english": [
+    "big shot",
+    "person of means",
+    "high roller"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন বড়মানুষ, সবসময় দান করে।",
+    "গ্রামের বড়মানুষটি সকলের সাহায্য করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a big man, always donating to causes.",
+    "The village bigwig helps everyone in need."
+  ],
+  "usage_domain": [
+    "social status",
+    "wealth",
+    "generosity"
+  ],
+  "tags": [
+    "wealth",
+    "influence",
+    "generosity",
+    "society"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to social hierarchy in Bengali culture, often implying both wealth and benevolence."
+}

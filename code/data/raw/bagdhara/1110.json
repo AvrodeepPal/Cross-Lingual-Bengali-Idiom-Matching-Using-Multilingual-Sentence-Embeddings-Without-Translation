@@ -1,0 +1,37 @@
+{
+  "id": "1110",
+  "idiom": "একশেষ",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি শেষ বা একক সমাপ্তি",
+  "figurative_meaning_bn": "চরম; চুড়ান্ত",
+  "figurative_meaning_en": "extreme; ultimate",
+  "similar_in_english": [
+    "the last straw",
+    "the final nail in the coffin"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অপমানের একশেষ হলো সেই কথা।",
+    "হয়রানির একশেষ করে সে চলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "That remark was the ultimate insult.",
+    "He left after the extreme harassment."
+  ],
+  "usage_domain": [
+    "conversational",
+    "literary"
+  ],
+  "tags": [
+    "negative",
+    "climax",
+    "insult"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of culmination of negative experiences"
+}

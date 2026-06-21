@@ -1,0 +1,41 @@
+{
+  "id": "7977",
+  "idiom": "ভাঁটা পড়া",
+  "alternative_idioms": [
+    "ভাটা পড়া"
+  ],
+  "literal_meaning": "জোয়ার-ভাটার ভাটা অংশ নামা বা পতনের দিকে যাওয়া",
+  "figurative_meaning_bn": "পতনের দিকে গতি",
+  "figurative_meaning_en": "Movement towards decline or downfall",
+  "similar_in_english": [
+    "on the wane",
+    "past one's prime",
+    "going downhill"
+  ],
+  "example_sentences_in_bangla": [
+    "তার আয়ে ভাঁটা পড়েছে।",
+    "যৌবনে ভাটা পড়া শুরু হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "His income is on the decline.",
+    "He is past the peak of his youth."
+  ],
+  "usage_domain": [
+    "finance",
+    "personal life",
+    "fortune"
+  ],
+  "tags": [
+    "decline",
+    "tide metaphor",
+    "ebb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom draws from Bengal's riverine geography where tides influence daily life and agriculture."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "8311",
+  "idiom": "মনের আগুন",
+  "alternative_idioms": [
+    "মনের মধ্যে আগুন"
+  ],
+  "literal_meaning": "মনের আগুন (mind's fire)",
+  "figurative_meaning_bn": "শোক দুঃখ ইত্যাদি থেকে উৎপন্ন মানসিক যন্ত্রণা",
+  "figurative_meaning_en": "Mental agony or torment arising from sorrow, grief, and similar emotions",
+  "similar_in_english": [
+    "burning inside",
+    "heart on fire",
+    "inner turmoil"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মনের আগুন কোনোমতে নিভছে না।",
+    "বিচ্ছেদের যন্ত্রণায় তার মনের আগুন জ্বলছে।"
+  ],
+  "example_sentences_in_english": [
+    "His inner fire of grief refuses to subside.",
+    "The pain of separation has ignited a fire in her heart."
+  ],
+  "usage_domain": [
+    "emotions",
+    "literature",
+    "psychology"
+  ],
+  "tags": [
+    "sorrow",
+    "grief",
+    "mental pain",
+    "figurative fire"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom is commonly found in Bengali folk songs (লোকগীতি), evoking themes of unrequited love and emotional suffering."
+  ],
+  "note": "Often used in poetic and lyrical contexts to express deep emotional distress."
+}

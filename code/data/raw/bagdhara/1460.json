@@ -1,0 +1,38 @@
+{
+  "id": "1460",
+  "idiom": "কথায় কথায়",
+  "alternative_idioms": [],
+  "literal_meaning": "কথায় (in words/talk) কথায় (in words/talk) – word-by-word repetition indicating ongoing conversation",
+  "figurative_meaning_bn": "প্রসঙ্গক্রমে ভাবার্থে দ্বিত্বশব্দ",
+  "figurative_meaning_en": "In the course of conversation or incidentally through talk",
+  "similar_in_english": [
+    "In passing",
+    "By the way",
+    "In the course of conversation"
+  ],
+  "example_sentences_in_bangla": [
+    "কথায় কথায় জানলাম তুমি গান জানো।",
+    "কথায় কথায় তার পরিচয়টা বেরিয়ে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "In the course of conversation, I learned that you know how to sing.",
+    "Through casual talk, his identity came to light."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "casual dialogue"
+  ],
+  "tags": [
+    "reduplication",
+    "incidental information",
+    "everyday language"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a classic example of Bengali reduplication (দ্বিত্বশব্দ) used to convey continuity or casual progression in speech."
+}

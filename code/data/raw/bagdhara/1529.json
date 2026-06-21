@@ -1,0 +1,39 @@
+{
+  "id": "1529",
+  "idiom": "কনেযাত্রী",
+  "alternative_idioms": [],
+  "literal_meaning": "কনের যাত্রী (bride's traveler or bride's companion)",
+  "figurative_meaning_bn": "বিয়ে উপলক্ষে পাত্রীপক্ষ থেকে পাত্রপক্ষের বাড়ীতে নিমন্ত্রিত অতিথিবর্গ",
+  "figurative_meaning_en": "Guests invited from the bride's side to the groom's house on the occasion of marriage",
+  "similar_in_english": [
+    "Bride's party guests",
+    "Wedding entourage from the bride's family"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের অনুষ্ঠানে কনেযাত্রীরা পাত্রবাড়িতে পৌঁছে উৎসবের আয়োজনে যোগ দিল।",
+    "কনেযাত্রীদের জন্য পাত্রপক্ষ বিশেষ আতিথ্যের ব্যবস্থা করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The kanyayatris arrived at the groom's house and joined in the wedding celebrations.",
+    "The groom's family made special arrangements for hospitality towards the kanyayatris."
+  ],
+  "usage_domain": [
+    "wedding",
+    "social customs",
+    "family traditions"
+  ],
+  "tags": [
+    "marriage",
+    "guests",
+    "bengali wedding",
+    "tradition"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is specific to traditional Bengali Hindu wedding customs, referring to the group accompanying the bride."
+}

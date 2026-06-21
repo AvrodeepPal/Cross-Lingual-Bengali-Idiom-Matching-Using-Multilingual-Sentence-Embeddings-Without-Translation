@@ -1,0 +1,39 @@
+{
+  "id": "9222",
+  "idiom": "লঘুপাপে গুরুদণ্ড",
+  "alternative_idioms": [],
+  "literal_meaning": "লঘু পাপে গুরু দণ্ড (অল্প পাপের জন্য ভারী শাস্তি)",
+  "figurative_meaning_bn": "অল্পদোষে কঠোর শাস্তি; অন্যায় দণ্ড",
+  "figurative_meaning_en": "Severe punishment for a minor offense; unjust penalty",
+  "similar_in_english": [
+    "Disproportionate punishment",
+    "The punishment does not fit the crime"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই কর্মচারীকে লঘুপাপে গুরুদণ্ড দেওয়া হয়েছে, যা সম্পূর্ণ অন্যায়।",
+    "আদালতের এই সিদ্ধান্ত লঘুপাপে গুরুদণ্ডের মতো।"
+  ],
+  "example_sentences_in_english": [
+    "The employee was given a severe penalty for a minor mistake, which was completely unjust.",
+    "The court's decision was like a heavy punishment for a light fault."
+  ],
+  "usage_domain": [
+    "Justice",
+    "Law",
+    "Morality"
+  ],
+  "tags": [
+    "Punishment",
+    "Injustice",
+    "Severity",
+    "Proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from general moral and ethical concepts in Bengali folklore, emphasizing fairness in judgment."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "6463",
+  "idiom": "নীরবঘাতক",
+  "alternative_idioms": [],
+  "literal_meaning": "নীরব (silent) + ঘাতক (killer)",
+  "figurative_meaning_bn": "এমন একটি রোগ যার কোন সুস্পষ্ট লক্ষণ বা ইঙ্গিত নেই",
+  "figurative_meaning_en": "A disease that has no clear symptoms or indications",
+  "similar_in_english": [
+    "Silent killer"
+  ],
+  "example_sentences_in_bangla": [
+    "উচ্চ রক্তচাপকে নীরবঘাতক বলা হয় কারণ এর লক্ষণগুলি প্রথমদিকে স্পষ্ট নয়।",
+    "ডায়াবেটিস একটি নীরবঘাতক রোগ যা অনেককে অজান্তেই আক্রমণ করে।"
+  ],
+  "example_sentences_in_english": [
+    "High blood pressure is called a silent killer because its symptoms are not obvious initially.",
+    "Diabetes is a silent killer disease that attacks many people unknowingly."
+  ],
+  "usage_domain": [
+    "Medical",
+    "Health"
+  ],
+  "tags": [
+    "রোগ",
+    "লক্ষণহীন",
+    "আকস্মিক বিপদ",
+    "চিকিত্সা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "প্রায়শই উচ্চ রক্তচাপ বা ডায়াবেটিসের মতো রোগের জন্য ব্যবহৃত হয়"
+}

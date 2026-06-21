@@ -1,0 +1,41 @@
+{
+  "id": "6407",
+  "idiom": "নিকম্মার ধাড়ি",
+  "alternative_idioms": [
+    "নিকম্মার ঢেঁকি"
+  ],
+  "literal_meaning": "অলস বা নিষ্ক্রিয় ঘুঁটির উপরের পাথর",
+  "figurative_meaning_bn": "চূড়ান্ত অলসব্যক্তি",
+  "figurative_meaning_en": "Utterly lazy person",
+  "similar_in_english": [
+    "Lazybones",
+    "As lazy as a sloth"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নিকম্মার ধাড়ির মতো সারাদিন শুয়ে থাকে।",
+    "এই কাজটা নিকম্মার ধাড়ির হাতে দিলে কখনো শেষ হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He lies around all day like the lazy handmill.",
+    "Assigning this task to him is like giving it to an utterly lazy person; it will never get done."
+  ],
+  "usage_domain": [
+    "Colloquial",
+    "Daily conversation"
+  ],
+  "tags": [
+    "laziness",
+    "rural idiom",
+    "derogatory"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from traditional Bengali rural life, where 'ধাড়ি' refers to the upper stone of a handmill used for grinding grains; the 'lazy' or inactive aspect symbolizes extreme idleness, similar to the pestle in a 'ঢেঁকি' that remains unused."
+  ],
+  "note": "The idiom reflects agrarian tools common in pre-industrial Bengali households."
+}

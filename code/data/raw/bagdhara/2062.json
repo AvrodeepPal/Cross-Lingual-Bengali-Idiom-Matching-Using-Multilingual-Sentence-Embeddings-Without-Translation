@@ -1,0 +1,40 @@
+{
+  "id": "2062",
+  "idiom": "কাপ্তান",
+  "alternative_idioms": [
+    "কাপ্তেন"
+  ],
+  "literal_meaning": "ক্যাপ্টেন বা দলের নেতা",
+  "figurative_meaning_bn": "হীন আমোদপ্রমোদে রত ও ইয়ারদের পৃষ্ঠপোষক ধনীব্যক্তি",
+  "figurative_meaning_en": "A wealthy person addicted to vulgar amusements and who patronizes sycophants",
+  "similar_in_english": [
+    "sugar daddy",
+    "rich patron of vice"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই কাপ্তানের মতো লোকটি সারাদিন বাজে খেলায় মত্ত হয়ে থাকে এবং চাটুকারদের খাওয়ায়।",
+    "পাড়ায় একজন কাপ্তান আছে যে নিম্নমানের আমোদে আসক্ত।"
+  ],
+  "example_sentences_in_english": [
+    "That guy is like a captain, spending all day on cheap thrills and feeding his yes-men.",
+    "There's a captain in the neighborhood who's addicted to lowbrow entertainment."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "social criticism"
+  ],
+  "tags": [
+    "negative",
+    "wealth",
+    "entertainment",
+    "sycophancy"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term is a colloquial borrowing from 'captain', implying a leader in frivolous pursuits."
+}

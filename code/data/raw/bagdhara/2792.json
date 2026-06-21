@@ -1,0 +1,40 @@
+{
+  "id": "2792",
+  "idiom": "খোশনবিশ",
+  "alternative_idioms": [],
+  "literal_meaning": "সুন্দর লেখক",
+  "figurative_meaning_bn": "যে ব্যক্তির হাতের লেখা সুন্দর",
+  "figurative_meaning_en": "A person with beautiful handwriting",
+  "similar_in_english": [
+    "neat handwriting",
+    "copperplate script"
+  ],
+  "example_sentences_in_bangla": [
+    "তার হাতের লেখা খুব খোশনবিশ।",
+    "স্কুলে খোশনবিশ ছাত্রদের বিশেষ পুরস্কার দেওয়া হয়।"
+  ],
+  "example_sentences_in_english": [
+    "His handwriting is very beautiful.",
+    "Students with beautiful handwriting receive special awards in school."
+  ],
+  "usage_domain": [
+    "education",
+    "personal description",
+    "writing skills"
+  ],
+  "tags": [
+    "handwriting",
+    "praise",
+    "aesthetic skill"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Persian words 'khosh' (beautiful) and 'navis' (writer), reflecting historical linguistic influences in Bengali."
+  ],
+  "note": "This idiom highlights appreciation for calligraphy in traditional Bengali education and correspondence."
+}

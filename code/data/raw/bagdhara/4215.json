@@ -1,0 +1,39 @@
+{
+  "id": "4215",
+  "idiom": "ছকড়া নকড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ছড়ানো-ছিটানো এবং বিশৃঙ্খল জিনিসপত্র (অনুকরণমূলক শব্দ)",
+  "figurative_meaning_bn": "বিশৃঙ্খল অবস্থা",
+  "figurative_meaning_en": "A state of disorder or chaos",
+  "similar_in_english": [
+    "All over the place",
+    "In disarray",
+    "Topsy-turvy"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরের ভিতরটা ছকড়া নকড়া অবস্থায় ছড়িয়ে-ছিটিয়ে আছে।",
+    "পার্টির পর সবকিছু ছকড়া নকড়া হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The inside of the house is scattered in a chakṛa-nakṛa mess.",
+    "Everything turned into complete chaos after the party."
+  ],
+  "usage_domain": [
+    "Everyday life",
+    "Household management"
+  ],
+  "tags": [
+    "Disorder",
+    "Mess",
+    "Chaos",
+    "Scatter"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression evoking the sound and sight of scattered items, common in colloquial Bengali."
+}

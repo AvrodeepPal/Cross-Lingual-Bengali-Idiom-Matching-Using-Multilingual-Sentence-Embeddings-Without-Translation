@@ -1,0 +1,42 @@
+{
+  "id": "1846",
+  "idiom": "কাগের ছা বগের ছা",
+  "alternative_idioms": [
+    "কাকের ছা",
+    "বকের ছা"
+  ],
+  "literal_meaning": "কাকের লোম বা ছানা এবং বকের লোম বা ছানা",
+  "figurative_meaning_bn": "অক্ষরের কোথাও কালি লাগা কোথাও কালি না লাগা; হাতের লেখায় ছেলেমানুষি ভাব",
+  "figurative_meaning_en": "Patchy handwriting where ink is applied unevenly to letters; childish or immature style in writing",
+  "similar_in_english": [
+    "chicken scratch",
+    "scribble"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চিঠির হাতের লেখা কাগের ছা বগের ছা, পড়তেই কষ্ট হয়।",
+    "স্কুলের ছেলেরা প্রায়ই এমন কাগের ছা বগের ছা লেখায় পরীক্ষা দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "His letter's handwriting is like crow's hair and heron's hair, it's hard to read.",
+    "School kids often write in a patchy, childish style like crow's and heron's down during exams."
+  ],
+  "usage_domain": [
+    "writing",
+    "education",
+    "language"
+  ],
+  "tags": [
+    "handwriting",
+    "childish",
+    "uneven",
+    "patchy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from natural imagery of birds' feathers to describe inconsistent ink application in traditional writing."
+}

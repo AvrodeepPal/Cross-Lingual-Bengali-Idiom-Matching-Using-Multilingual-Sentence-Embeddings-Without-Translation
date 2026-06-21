@@ -1,0 +1,37 @@
+{
+  "id": "2559",
+  "idiom": "খাইকুঁড়",
+  "alternative_idioms": [],
+  "literal_meaning": "খাওয়ার সাথে কুঁড়ে (অকল্যাণকর খাদক বা অতিরিক্ত খাওয়া)",
+  "figurative_meaning_bn": "পেটুক; ঔদরিক",
+  "figurative_meaning_en": "Glutton; voracious eater",
+  "similar_in_english": [
+    "Glutton",
+    "Bottomless pit (for appetite)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা খাইকুঁড়, সবসময় বেশি খায়।",
+    "পার্টিতে খাইকুঁড়ের মতো খাবার গিলে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "He is a glutton, always eating too much.",
+    "At the party, he devoured the food like a voracious eater."
+  ],
+  "usage_domain": [
+    "Colloquial",
+    "Food and eating habits"
+  ],
+  "tags": [
+    "food-related",
+    "negative trait",
+    "everyday language"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to someone with excessive appetite, common in spoken Bengali."
+}

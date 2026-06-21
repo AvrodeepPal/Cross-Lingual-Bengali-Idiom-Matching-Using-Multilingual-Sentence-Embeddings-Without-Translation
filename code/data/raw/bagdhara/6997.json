@@ -1,0 +1,39 @@
+{
+  "id": "6997",
+  "idiom": "পোকা পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পোকা পড়ে যাওয়া বা পোকায় আক্রান্ত হওয়া",
+  "figurative_meaning_bn": "পচে যাওয়া",
+  "figurative_meaning_en": "to rot or decay",
+  "similar_in_english": [
+    "worm-eaten",
+    "rotten to the core"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পুরনো কাপড়ে পোকা পড়েছে, এখন আর পরা যাবে না।",
+    "ফলগুলো রাখা থাকায় পচে পোকা পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "This old cloth is worm-eaten and can't be worn anymore.",
+    "The fruits were left out and have rotted with worms."
+  ],
+  "usage_domain": [
+    "everyday language",
+    "agriculture",
+    "literature"
+  ],
+  "tags": [
+    "decay",
+    "infestation",
+    "neglect",
+    "deterioration"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom often evokes imagery of natural decay in humid, tropical environments typical of Bengal."
+}

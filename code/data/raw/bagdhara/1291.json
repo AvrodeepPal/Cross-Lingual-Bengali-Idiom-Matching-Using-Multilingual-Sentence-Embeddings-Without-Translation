@@ -1,0 +1,41 @@
+{
+  "id": "1291",
+  "idiom": "ক খ",
+  "alternative_idioms": [
+    "অ আ ক খ"
+  ],
+  "literal_meaning": "প্রথম দুটি বাংলা বর্ণ (ক এবং খ)",
+  "figurative_meaning_bn": "অক্ষর, বর্ণমালা",
+  "figurative_meaning_en": "letters, alphabet (fundamentals of basic learning)",
+  "similar_in_english": [
+    "the ABCs"
+  ],
+  "example_sentences_in_bangla": [
+    "ক খ শিখতেই বছর পার গেল।",
+    "সে এখনও ক খ শেখেনি, কী করে উন্নত পাঠ করবে?"
+  ],
+  "example_sentences_in_english": [
+    "A year passed just learning the ABCs.",
+    "He hasn't even learned the ABCs yet, how can he tackle advanced lessons?"
+  ],
+  "usage_domain": [
+    "education",
+    "language learning"
+  ],
+  "tags": [
+    "alphabet",
+    "basics",
+    "fundamentals",
+    "learning"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "উদ্ভব ঐতিহ্যবাহী বাংলা শিক্ষা পদ্ধতি থেকে, যেখানে বর্ণমালা শেখা প্রথম ধাপ।"
+  ],
+  "note": "এটি প্রায়শই মৌলিক জ্ঞানের প্রতীক হিসেবে ব্যবহৃত হয়, বিশেষ করে প্রবাদে।"
+}

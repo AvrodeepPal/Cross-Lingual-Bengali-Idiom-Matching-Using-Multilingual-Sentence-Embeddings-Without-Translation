@@ -1,0 +1,37 @@
+{
+  "id": "5962",
+  "idiom": "দৈনন্দিন",
+  "alternative_idioms": [],
+  "literal_meaning": "দিনের দিনের (প্রতিদিনের)",
+  "figurative_meaning_bn": "প্রতিদিন করতে হয় এমন",
+  "figurative_meaning_en": "Something that has to be done every day",
+  "similar_in_english": [
+    "daily routine",
+    "everyday tasks"
+  ],
+  "example_sentences_in_bangla": [
+    "তার দৈনন্দিন কাজগুলো খুবই সাধারণ।",
+    "দৈনন্দিন জীবনে এই অভ্যাসটি গুরুত্বপূর্ণ।"
+  ],
+  "example_sentences_in_english": [
+    "His daily chores are very ordinary.",
+    "This habit is important in everyday life."
+  ],
+  "usage_domain": [
+    "daily life",
+    "routine activities"
+  ],
+  "tags": [
+    "daily",
+    "routine",
+    "everyday"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is more of a common adjective than a traditional idiomatic expression, derived from Sanskrit roots meaning 'of every day'."
+}

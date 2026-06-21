@@ -1,0 +1,37 @@
+{
+  "id": "347",
+  "idiom": "আকার-ইঙ্গিতে",
+  "alternative_idioms": [],
+  "literal_meaning": "আকার (রূপ বা ভঙ্গি) এবং ইঙ্গিত (সংকেত বা ইঙ্গিত) দিয়ে",
+  "figurative_meaning_bn": "চোখ ও মুখের ভঙ্গীতে",
+  "figurative_meaning_en": "Through facial expressions and gestures",
+  "similar_in_english": [
+    "Body language",
+    "By looks and hints"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি আকার-ইঙ্গিতে আমাকে সতর্ক করে দিলেন।",
+    "বাচ্চাটা আকার-ইঙ্গিতে খাবার চাইছে।"
+  ],
+  "example_sentences_in_english": [
+    "She warned me through her facial expressions and gestures.",
+    "The child is indicating hunger with looks and signs."
+  ],
+  "usage_domain": [
+    "Communication",
+    "Daily conversation"
+  ],
+  "tags": [
+    "non-verbal",
+    "expression",
+    "gesture"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to subtle non-verbal communication common in Bengali social interactions"
+}

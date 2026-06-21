@@ -1,0 +1,38 @@
+{
+  "id": "566",
+  "idiom": "আবাদী জমি",
+  "alternative_idioms": [],
+  "literal_meaning": "আবাদযোগ্য জমি বা উর্বর ভূমি",
+  "figurative_meaning_bn": "গ্রামের উপকণ্ঠ",
+  "figurative_meaning_en": "The outskirts of the village",
+  "similar_in_english": [
+    "The sticks",
+    "Out in the country"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বাড়ি আবাদী জমিতে অবস্থিত।",
+    "আমরা আবাদী জমি দিয়ে গ্রামে পৌঁছালাম।"
+  ],
+  "example_sentences_in_english": [
+    "His house is located in the rural outskirts.",
+    "We reached the village through the cultivable lands."
+  ],
+  "usage_domain": [
+    "Geography",
+    "Rural life",
+    "Location"
+  ],
+  "tags": [
+    "rural",
+    "agriculture",
+    "village periphery"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to fertile lands surrounding villages, common in agrarian Bengali contexts."
+}

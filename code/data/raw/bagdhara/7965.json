@@ -1,0 +1,41 @@
+{
+  "id": "7965",
+  "idiom": "ভয়ে ভক্তি",
+  "alternative_idioms": [
+    "দণ্ড ভয়ে ভক্তি"
+  ],
+  "literal_meaning": "ভয়ের কারণে ভক্তি",
+  "figurative_meaning_bn": "দণ্ড বা শাস্তির ভয়ে দেখানো ভক্তি",
+  "figurative_meaning_en": "Devotion or respect shown out of fear of punishment",
+  "similar_in_english": [
+    "Out of fear, not love",
+    "Fear-based loyalty"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ভয়ে ভক্তি দেখায়, কিন্তু সত্যিকারের ভালোবাসা নেই।",
+    "শিক্ষকের দণ্ড ভয়ে ছাত্রেরা ভয়ে ভক্তি করে।"
+  ],
+  "example_sentences_in_english": [
+    "He shows devotion out of fear, but there is no genuine love.",
+    "The students exhibit fear-induced devotion to the teacher to avoid punishment."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Relationships",
+    "Education"
+  ],
+  "tags": [
+    "fear",
+    "devotion",
+    "insincerity",
+    "punishment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights insincere expressions of reverence driven by fear rather than true affection."
+}

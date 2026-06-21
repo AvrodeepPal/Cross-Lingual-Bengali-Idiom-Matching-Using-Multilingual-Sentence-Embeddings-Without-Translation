@@ -1,0 +1,37 @@
+{
+  "id": "5823",
+  "idiom": "দিনে দিনে",
+  "alternative_idioms": [],
+  "literal_meaning": "দিন অনুসারে বা দিনের সময়ে",
+  "figurative_meaning_bn": "দিনের বেলায়, দিনের আলো থাকতে থাকতে",
+  "figurative_meaning_en": "During the daytime, while there is daylight",
+  "similar_in_english": [
+    "in broad daylight",
+    "by day"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দিনে দিনে বাড়ি ফিরে আসবে।",
+    "দিনে দিনে কাজ করা নিরাপদ।"
+  ],
+  "example_sentences_in_english": [
+    "He will return home during the day.",
+    "It is safer to work in the daytime."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "time reference"
+  ],
+  "tags": [
+    "time",
+    "daylight",
+    "safety"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This expression emphasizes visibility and safety associated with daylight in traditional Bengali contexts."
+}

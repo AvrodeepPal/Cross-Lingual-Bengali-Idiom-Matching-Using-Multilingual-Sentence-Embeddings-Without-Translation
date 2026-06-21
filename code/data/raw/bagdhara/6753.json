@@ -1,0 +1,39 @@
+{
+  "id": "6753",
+  "idiom": "পা-গাড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "পায়ে চালিত গাড়ি (foot-powered vehicle)",
+  "figurative_meaning_bn": "সাইকেল",
+  "figurative_meaning_en": "bicycle",
+  "similar_in_english": [
+    "push bike",
+    "pedal cycle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার পা-গাড়িতে বাজারে গেল।",
+    "বাইরে পা-গাড়ির ঘন্টার শব্দ শোনা গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He went to the market on his bicycle.",
+    "The sound of a bicycle bell was heard outside."
+  ],
+  "usage_domain": [
+    "transportation",
+    "daily life"
+  ],
+  "tags": [
+    "vehicle",
+    "colloquial",
+    "archaic"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term appears in the works of Sarat Chandra Chattopadhyay, reflecting early 20th-century rural Bengali life when bicycles were a novel mode of transport."
+  ],
+  "note": "An older colloquial term for bicycle, now largely replaced by 'সাইকেল' in modern usage."
+}

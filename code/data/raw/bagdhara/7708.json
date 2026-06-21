@@ -1,0 +1,39 @@
+{
+  "id": "7708",
+  "idiom": "বিমুখ",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখ ফিরিয়ে নেওয়া (face turned away)",
+  "figurative_meaning_bn": "অপ্রসন্ন",
+  "figurative_meaning_en": "displeased or unfavorable",
+  "similar_in_english": [
+    "the gods are against you",
+    "fall out of favor"
+  ],
+  "example_sentences_in_bangla": [
+    "দেবতা তার প্রতি বিমুখ হয়েছেন বলে মনে হচ্ছে।",
+    "এই কাজের পর সবাই তার প্রতি বিমুখ হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "It seems the deity has turned away from him.",
+    "After this deed, everyone has become displeased with him."
+  ],
+  "usage_domain": [
+    "religion",
+    "everyday conversation"
+  ],
+  "tags": [
+    "deity",
+    "displeasure",
+    "fate"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the concept of a deity turning away, common in Hindu-Bengali folklore and rituals."
+  ],
+  "note": "Often used in contexts invoking divine displeasure."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4911",
+  "idiom": "টান পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "টান (pull/tension) পড়া (to fall/occur)",
+  "figurative_meaning_bn": "সরবরাহে অভাব হওয়া",
+  "figurative_meaning_en": "To experience a shortage in supply",
+  "similar_in_english": [
+    "In short supply",
+    "Running low"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে মাছের টান পড়েছে।",
+    "গ্রামে পানির টান পড়েছে এই গরমে।"
+  ],
+  "example_sentences_in_english": [
+    "There's a shortage of fish in the market.",
+    "There's a water shortage in the village this summer."
+  ],
+  "usage_domain": [
+    "economy",
+    "daily life",
+    "markets"
+  ],
+  "tags": [
+    "shortage",
+    "supply",
+    "scarcity",
+    "commodity"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in contexts of essential goods like food or water in Bengali-speaking regions."
+}

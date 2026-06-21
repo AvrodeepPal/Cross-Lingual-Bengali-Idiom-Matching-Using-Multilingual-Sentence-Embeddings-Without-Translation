@@ -1,0 +1,40 @@
+{
+  "id": "1648",
+  "idiom": "কলতান",
+  "alternative_idioms": [],
+  "literal_meaning": "বহু কণ্ঠের সম্মিলিত তান বা গুঞ্জন",
+  "figurative_meaning_bn": "বহুকণ্ঠের সম্মিলিত গুঞ্জন",
+  "figurative_meaning_en": "the combined murmur of many voices",
+  "similar_in_english": [
+    "hubbub",
+    "buzz of conversation",
+    "murmur of the crowd"
+  ],
+  "example_sentences_in_bangla": [
+    "সভাকক্ষে কলতান উঠে গেল।",
+    "বাজারে কলতান শোনা যাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "The meeting room filled with a kolotan of voices.",
+    "The market was alive with the kolotan of shoppers."
+  ],
+  "usage_domain": [
+    "social gatherings",
+    "descriptive language",
+    "crowd scenes"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "sound",
+    "collective",
+    "murmur"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "An onomatopoeic expression capturing the auditory essence of crowded Bengali social settings."
+}

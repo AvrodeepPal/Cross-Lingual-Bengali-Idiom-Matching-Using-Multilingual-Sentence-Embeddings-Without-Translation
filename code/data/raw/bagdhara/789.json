@@ -1,0 +1,39 @@
+{
+  "id": "789",
+  "idiom": "উৎপাতের কড়ি চিৎপাতে যায়",
+  "alternative_idioms": [],
+  "literal_meaning": "উৎপাতের (দুষ্কর্মের) কড়ি (শঙ্খমুদ্রা) চিৎপাতে (বিক্ষিপ্ত হয়ে) যায়",
+  "figurative_meaning_bn": "অন্যায় পথে অর্জিত অর্থ বাজে কাজে নষ্ট হয়",
+  "figurative_meaning_en": "Wealth acquired through unjust or mischievous means is wasted on worthless or futile pursuits",
+  "similar_in_english": [
+    "Ill-gotten gains come to naught",
+    "Easy come, easy go"
+  ],
+  "example_sentences_in_bangla": [
+    "ওর উৎপাতের কড়ি চিৎপাতে গেছে, এখন হাতে কিছু রইল না।",
+    "অনেকে ভাবে চুরি করে ধনী হওয়া যায়, কিন্তু উৎপাতের কড়ি চিৎপাতে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "His ill-gotten wealth has been scattered to the winds; now he has nothing left.",
+    "Many think they can get rich by cheating, but the cowries of mischief always scatter away."
+  ],
+  "usage_domain": [
+    "morality",
+    "finance",
+    "daily advice"
+  ],
+  "tags": [
+    "money",
+    "waste",
+    "injustice",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "References traditional cowrie shell currency in Bengal, symbolizing fleeting ill-gotten gains"
+}

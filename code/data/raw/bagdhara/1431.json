@@ -1,0 +1,38 @@
+{
+  "id": "1431",
+  "idiom": "কথা দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা (word/speech) দেওয়া (to give)",
+  "figurative_meaning_bn": "অঙ্গীকার করা, প্রতিশ্রুতি দেওয়া",
+  "figurative_meaning_en": "To make a promise or commitment",
+  "similar_in_english": [
+    "Give one's word",
+    "Make a promise"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি তোমাকে কথা দিচ্ছি যে আমি সাহায্য করব।",
+    "সে তার বন্ধুকে কথা দিয়েছে যে সে সময়মতো পৌঁছে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "I give you my word that I will help you.",
+    "He gave his friend his word that he would arrive on time."
+  ],
+  "usage_domain": [
+    "daily life",
+    "relationships",
+    "commitments"
+  ],
+  "tags": [
+    "promise",
+    "assurance",
+    "commitment"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Emphasizes the cultural value of honoring promises in Bengali society"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1441",
+  "idiom": "কথা পাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা তোলা বা উত্থাপন করা (to raise or bring up words)",
+  "figurative_meaning_bn": "প্রসঙ্গ উত্তাপন করা, প্রস্তাব দেওয়া",
+  "figurative_meaning_en": "To bring up a topic or make a proposal",
+  "similar_in_english": [
+    "To broach the subject",
+    "To pop the question"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের প্রস্তাব নিয়ে তার পরিবারের কাছে কথা পাড়লাম।",
+    "ব্যবসার ব্যাপারে অংশীদারের সঙ্গে কথা পাড়ো।"
+  ],
+  "example_sentences_in_english": [
+    "I broached the marriage proposal with her family.",
+    "Bring up the business matter with your partner."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Proposals",
+    "Formal discussions"
+  ],
+  "tags": [
+    "বিয়ে",
+    "প্রস্তাব",
+    "কথোপকথন",
+    "সামাজিক"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "প্রধানত বাঙালি সংস্কৃতিতে বিবাহের প্রস্তাবের প্রেক্ষিতে ব্যবহৃত হয়"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "4223",
+  "idiom": "ছড়াছড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "ছড়ানো বা বিক্ষিপ্ত অবস্থা (scattered or spread out state)",
+  "figurative_meaning_bn": "প্রাচুর্য, বাহুল্য",
+  "figurative_meaning_en": "abundance, plenty",
+  "similar_in_english": [
+    "dime a dozen",
+    "in abundance"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে আমের ছড়াছড়ি যাচ্ছে।",
+    "গ্রামে ফুলের ছড়াছড়ি দেখা যাচ্ছে এই সময়।"
+  ],
+  "example_sentences_in_english": [
+    "The market is full of mangoes in abundance.",
+    "The village is blooming with flowers everywhere this season."
+  ],
+  "usage_domain": [
+    "commerce",
+    "daily life",
+    "nature"
+  ],
+  "tags": [
+    "abundance",
+    "plenty",
+    "synonym"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Opposite synonym: টানাটানি (scarcity)"
+}

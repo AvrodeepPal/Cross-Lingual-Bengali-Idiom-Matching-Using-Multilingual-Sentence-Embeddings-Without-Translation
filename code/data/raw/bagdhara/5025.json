@@ -1,0 +1,39 @@
+{
+  "id": "5025",
+  "idiom": "ট্যাঁস",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি শব্দ বা ধ্বনি যা নির্দিষ্ট জাতি বা বৈশিষ্ট্যকে নির্দেশ করে",
+  "figurative_meaning_bn": "দো-আঁশলা জাতি, ফিরিঙ্গি",
+  "figurative_meaning_en": "a sly or cunning foreign race, Firangi (referring to Europeans or Portuguese)",
+  "similar_in_english": [
+    "gringo",
+    "foreigner"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই লোকটাকে দেখে মনে হলো ট্যাঁস জাতির মতো চালাক।",
+    "পুরনো দিনে ফিরিঙ্গিদের ট্যাঁস বলে ডাকা হতো।"
+  ],
+  "example_sentences_in_english": [
+    "Looking at that man, he seems as cunning as a Tans type.",
+    "In old times, the Firangis were called Tans."
+  ],
+  "usage_domain": [
+    "historical",
+    "ethnic"
+  ],
+  "tags": [
+    "derogatory",
+    "foreigner",
+    "historical"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to Portuguese or European settlers in Bengal during colonial times, often used derogatorily for their perceived cunning nature."
+  ],
+  "note": "This term is archaic and may carry colonial connotations."
+}

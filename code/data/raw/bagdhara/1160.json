@@ -1,0 +1,40 @@
+{
+  "id": "1160",
+  "idiom": "এক্স-গ্রাসিয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কৃপা বা অনুগ্রহ থেকে (ল্যাটিন 'ex gratia' এর অনুবাদ)",
+  "figurative_meaning_bn": "আইনের ঊর্ধ্বে নৈতিক বাধ্যবাধকতা থেকে কৃপাক্রমে প্রদত্ত",
+  "figurative_meaning_en": "Given as a gracious act from moral obligation beyond legal requirements",
+  "similar_in_english": [
+    "ex gratia payment",
+    "act of grace"
+  ],
+  "example_sentences_in_bangla": [
+    "কোম্পানি কর্মচারীর অভিযোগের পর এক্স-গ্রাসিয়া ক্ষতিপূরণ দিয়েছে।",
+    "সরকার ত্রাণভুক্তদের এক্স-গ্রাসিয়া সাহায্য প্রদান করল।"
+  ],
+  "example_sentences_in_english": [
+    "The company offered an ex gratia payment after the employee's complaint.",
+    "The government provided ex gratia aid to the disaster victims."
+  ],
+  "usage_domain": [
+    "legal",
+    "financial",
+    "administrative"
+  ],
+  "tags": [
+    "borrowed term",
+    "formal",
+    "legal jargon"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "city",
+  "history": [
+    "Originating from Latin 'ex gratia' meaning 'from favor', adopted into English legal terminology and transliterated into Bengali for formal contexts."
+  ],
+  "note": "This is not a traditional Bengali idiom but a transliteration of a Latin legal term commonly used in modern Bengali administrative and legal language."
+}

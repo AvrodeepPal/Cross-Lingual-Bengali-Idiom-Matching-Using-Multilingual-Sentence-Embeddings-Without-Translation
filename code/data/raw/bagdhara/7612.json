@@ -1,0 +1,44 @@
+{
+  "id": "7612",
+  "idiom": "বারাঙ্গনা",
+  "alternative_idioms": [
+    "বারবণিতা",
+    "বধু"
+  ],
+  "literal_meaning": "বারের (সভা বা আঙ্গনের) নারী",
+  "figurative_meaning_bn": "গণিকা বা বেশ্যা",
+  "figurative_meaning_en": "courtesan or prostitute",
+  "similar_in_english": [
+    "lady of the night",
+    "harlot"
+  ],
+  "example_sentences_in_bangla": [
+    "সাহিত্যে বারাঙ্গনার চরিত্র প্রায়ই দুঃখের প্রতীক হিসেবে দেখা যায়।",
+    "পুরনো কলকাতার গলিঘুঁজিতে বারাঙ্গনাদের জীবনযাত্রা ছিল কঠিন।"
+  ],
+  "example_sentences_in_english": [
+    "In literature, the character of a courtesan is often portrayed as a symbol of sorrow.",
+    "Life for courtesans in the bylanes of old Calcutta was harsh."
+  ],
+  "usage_domain": [
+    "literature",
+    "social commentary",
+    "historical narrative"
+  ],
+  "tags": [
+    "women",
+    "profession",
+    "stigma",
+    "entertainment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "This term originates from historical contexts in Bengal, referring to courtesans who performed in royal courts and cultural assemblies during the Mughal and British eras, often depicted in works like those of Bankim Chandra Chattopadhyay."
+  ],
+  "note": "The term carries a historical connotation of skilled performers in arts, beyond mere prostitution, but is stigmatized in modern usage."
+}

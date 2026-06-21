@@ -1,0 +1,41 @@
+{
+  "id": "6252",
+  "idiom": "নষ্টচন্দ্র",
+  "alternative_idioms": [],
+  "literal_meaning": "নষ্ট (বিপন্ন বা কলঙ্কিত) চন্দ্র (চাঁদ)",
+  "figurative_meaning_bn": "কলঙ্কী, যার মুখ দেখলে পাপ হয়",
+  "figurative_meaning_en": "A blemished or ill-omened person whose sight brings sin or misfortune",
+  "similar_in_english": [
+    "ill-starred",
+    "bad omen",
+    "jinx"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা নষ্টচন্দ্র, তার সঙ্গে দেখা হলেই কাজে বাধা পড়ে।",
+    "ভাদ্র মাসে নষ্টচন্দ্রের মতো তার চেহারা দেখলে মন খারাপ হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is like a nash-tochandra; just seeing him brings bad luck to the day.",
+    "Avoiding her is wise, as she is considered a nash-tochandra whose presence invites misfortune."
+  ],
+  "usage_domain": [
+    "superstition",
+    "daily conversation",
+    "religious folklore"
+  ],
+  "tags": [
+    "হিন্দু পুরাণ",
+    "কুসংস্কার",
+    "অশুভ লক্ষণ"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "ভাদ্র মাসের শুক্লা ও কৃষ্ণা চতুর্থীর চাঁদকে নষ্টচন্দ্র বলা হয়, কারণ হিন্দু বিশ্বাস অনুসারে এই তিথিতে চন্দ্র গুরুপত্নী তারাকে হরণ করেন এবং তারার অভিশাপে চন্দ্র কলঙ্কী হন; এই দিনে চন্দ্র দেখলে কলঙ্ক লাগে বলে মনে করা হয়।"
+  ],
+  "note": "এই প্রকাশটি হিন্দু পৌরাণিক কাহিনীর উপর ভিত্তি করে বাঙালি সংস্কৃতিতে প্রচলিত।"
+}

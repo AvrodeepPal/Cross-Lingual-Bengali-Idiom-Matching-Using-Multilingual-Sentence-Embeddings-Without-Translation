@@ -1,0 +1,41 @@
+{
+  "id": "5913",
+  "idiom": "দৃষ্টান্ত",
+  "alternative_idioms": [],
+  "literal_meaning": "দৃশ্যমান উদাহরণ বা প্রমাণস্বরূপ বর্ণনা",
+  "figurative_meaning_bn": "কোনো বিষয়ের যথার্থতা প্রমাণের জন্য অনুরূপ বিষয়ের উল্লেখ ও বর্ণনা",
+  "figurative_meaning_en": "Mention and description of a similar matter to prove the truthfulness of a particular issue",
+  "similar_in_english": [
+    "case in point",
+    "for instance",
+    "precedent"
+  ],
+  "example_sentences_in_bangla": [
+    "তার যুক্তির দৃষ্টান্ত হিসেবে পূর্বের ঘটনাটি উল্লেখ করা হলো।",
+    "এই দৃষ্টান্ত থেকে আমরা শিক্ষা নিতে পারি যে সতর্কতা অত্যন্ত জরুরি।"
+  ],
+  "example_sentences_in_english": [
+    "He cited the previous incident as an example to support his argument.",
+    "From this illustration, we can learn that caution is extremely necessary."
+  ],
+  "usage_domain": [
+    "rhetoric",
+    "literature",
+    "debate",
+    "education"
+  ],
+  "tags": [
+    "উদাহরণ",
+    "প্রমাণ",
+    "বর্ণনা",
+    "যুক্তি"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is derived from Sanskrit and is commonly used in formal and literary Bengali contexts."
+}

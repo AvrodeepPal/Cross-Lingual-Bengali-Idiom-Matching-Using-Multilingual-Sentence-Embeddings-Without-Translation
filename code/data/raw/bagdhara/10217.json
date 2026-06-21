@@ -1,0 +1,43 @@
+{
+  "id": "10217",
+  "idiom": "হাতে পায়ে ধরা",
+  "alternative_idioms": [
+    "হাতে ধরা",
+    "হাতে পায়ে পড়া"
+  ],
+  "literal_meaning": "হাত এবং পায়ে ধরে আঁকড়ে ধরা (শাব্দিকভাবে হাত-পা ছুঁয়ে ধরা)",
+  "figurative_meaning_bn": "সনির্বন্ধ অনুরোধ করা বা মিনতি করা",
+  "figurative_meaning_en": "To make an earnest plea or beg desperately",
+  "similar_in_english": [
+    "Fall at someone's feet",
+    "Beg on bended knees",
+    "Plead desperately"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ভুলের জন্য সে বাবার হাতে পায়ে ধরল।",
+    "ঋণ শোধ করতে গিয়ে সে সবার কাছে হাতে পায়ে ধরে অনুরোধ করছে।"
+  ],
+  "example_sentences_in_english": [
+    "For his mistake, he fell at his father's feet begging for forgiveness.",
+    "To repay the debt, he is pleading desperately with everyone."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Drama"
+  ],
+  "tags": [
+    "Pleading",
+    "Desperation",
+    "Humility",
+    "Request"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional gestures of supplication common in South Asian cultures."
+}

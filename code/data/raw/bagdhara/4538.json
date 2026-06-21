@@ -1,0 +1,42 @@
+{
+  "id": "4538",
+  "idiom": "জলপান",
+  "alternative_idioms": [
+    "জলখাবার",
+    "জলযোগ"
+  ],
+  "literal_meaning": "জল পান করা (water drink)",
+  "figurative_meaning_bn": "হালকা জলখাবার; মিষ্টি খাবার",
+  "figurative_meaning_en": "light refreshments; sweet snacks",
+  "similar_in_english": [
+    "light refreshments",
+    "tea and snacks"
+  ],
+  "example_sentences_in_bangla": [
+    "পার্টির পর জলপানের ব্যবস্থা করা হয়েছে।",
+    "বন্ধুদের জন্য জলপানের নিমন্ত্রণ দিলাম।"
+  ],
+  "example_sentences_in_english": [
+    "Refreshments have been arranged after the party.",
+    "I invited friends for light snacks."
+  ],
+  "usage_domain": [
+    "hospitality",
+    "food and drink",
+    "social gatherings"
+  ],
+  "tags": [
+    "refreshments",
+    "snacks",
+    "invitation",
+    "Bengali cuisine"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is commonly used in social and cultural contexts in Bengal for informal light meals or drinks."
+}

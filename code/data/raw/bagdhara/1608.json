@@ -1,0 +1,38 @@
+{
+  "id": "1608",
+  "idiom": "করপুট",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত জোড়া বা মুষ্টিবদ্ধ হাত",
+  "figurative_meaning_bn": "জোড়হাত",
+  "figurative_meaning_en": "joined hands (in supplication or prayer)",
+  "similar_in_english": [
+    "with folded hands",
+    "clasped hands in plea"
+  ],
+  "example_sentences_in_bangla": [
+    "করপুট করে সাহায্যের অনুরোধ করল।",
+    "দেবতার সামনে করপুট জুড়ে প্রার্থনা করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "He joined his hands in supplication for help.",
+    "She clasped her hands in prayer before the deity."
+  ],
+  "usage_domain": [
+    "formal requests",
+    "prayer",
+    "supplication"
+  ],
+  "tags": [
+    "pleading",
+    "respect",
+    "devotion"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of humility and reverence in Bengali traditions"
+}

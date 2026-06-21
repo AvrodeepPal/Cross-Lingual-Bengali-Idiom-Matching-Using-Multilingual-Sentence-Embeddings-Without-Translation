@@ -1,0 +1,49 @@
+{
+  "id": "165",
+  "idiom": "অন্ধকারে উকুন বাছা",
+  "alternative_idioms": [
+    "আকাশ থেকে চাঁদ পাড়া",
+    "কম্বলের লোম বাছা",
+    "কোদাল দিয়ে দাড়ি চাঁচা",
+    "খড়মপায়ে গঙ্গা পার হওয়া",
+    "খড়ের গাদায় সূঁচ খোঁজা",
+    "ঝিনুক দিয়ে জলদেচা",
+    "মুড়া কোদালে খাল কাটা",
+    "শামুক দিয়ে জলসেচা"
+  ],
+  "literal_meaning": "অন্ধকারে উকুন বেছে নেওয়া (picking lice in the dark)",
+  "figurative_meaning_bn": "যে কাজ করা কোনমতে সম্ভব নয়",
+  "figurative_meaning_en": "A task that is almost impossible to accomplish",
+  "similar_in_english": [
+    "Finding a needle in a haystack",
+    "Mission impossible",
+    "Like herding cats"
+  ],
+  "example_sentences_in_bangla": [
+    "এটা তো অন্ধকারে উকুন বাছার মতো অসম্ভব কাজ।",
+    "তার সেই পরিকল্পনা অন্ধকারে উকুন বাছার সমান।"
+  ],
+  "example_sentences_in_english": [
+    "That's like picking lice in the dark—an impossible task.",
+    "His plan is as feasible as picking lice in the dark."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation",
+    "expressing impossibility"
+  ],
+  "tags": [
+    "impossible task",
+    "futility",
+    "hyperbole",
+    "rural imagery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from everyday rural life where picking lice is a delicate task made harder in darkness, symbolizing extreme difficulty."
+}

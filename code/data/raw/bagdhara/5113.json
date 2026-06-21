@@ -1,0 +1,43 @@
+{
+  "id": "5113",
+  "idiom": "ডঙ্কা বাজানো",
+  "alternative_idioms": [
+    "ডঙ্কা মারা"
+  ],
+  "literal_meaning": "ডঙ্কা (এক ধরনের বাদ্যযন্ত্র) বাজানো বা ফুঁকানো",
+  "figurative_meaning_bn": "আস্ফালন করা; তোয়াক্কা না করা; সগর্বে ঘোষণা করা",
+  "figurative_meaning_en": "To create a commotion; to disregard; to proclaim proudly or boastfully",
+  "similar_in_english": [
+    "To blow one's own trumpet",
+    "To beat the drum"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার নতুন চাকরির খবর ডঙ্কা বাজিয়ে সবাইকে জানালো।",
+    "পরীক্ষায় ভালো ফল করার পর ছেলেটি ডঙ্কা বাজাতে শুরু করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He announced his new job by blowing his own trumpet to everyone.",
+    "After scoring well in the exam, the boy started boasting loudly."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "social interactions",
+    "boasting contexts"
+  ],
+  "tags": [
+    "boasting",
+    "announcement",
+    "pride",
+    "commotion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the traditional use of the ডঙ্কা, a horn-like instrument blown in rural Bengal to announce victories, events, or important news in processions."
+  ],
+  "note": "The idiom often carries a connotation of excessive pride or show-off behavior in everyday Bengali speech."
+}

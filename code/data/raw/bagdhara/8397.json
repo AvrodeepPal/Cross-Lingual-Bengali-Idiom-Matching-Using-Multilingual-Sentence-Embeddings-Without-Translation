@@ -1,0 +1,40 @@
+{
+  "id": "8397",
+  "idiom": "মাকু",
+  "alternative_idioms": [],
+  "literal_meaning": "বাঁদর (monkey, implying mimicry or blind following)",
+  "figurative_meaning_bn": "পরের নির্দেশে চলে এমন ব্যক্তি",
+  "figurative_meaning_en": "A person who follows others' instructions blindly",
+  "similar_in_english": [
+    "puppet on a string",
+    "yes-man",
+    "stooge"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা মাকু, সবসময় অন্যের হুকুম মেনে চলে।",
+    "পার্টির নেতা ছাড়া কেউ কিছু বললে সে মাকুর মতো করে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a maku, always obeying others' commands without question.",
+    "Without the party leader's order, he does nothing, just like a maku."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "social",
+    "politics"
+  ],
+  "tags": [
+    "subservience",
+    "obedience",
+    "derogatory",
+    "personality"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This appears to be a colloquial or dialectal term implying blind obedience, possibly derived from animal mimicry in Bengali folklore."
+}

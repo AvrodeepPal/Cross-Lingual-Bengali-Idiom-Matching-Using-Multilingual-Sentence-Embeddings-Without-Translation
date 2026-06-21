@@ -1,0 +1,40 @@
+{
+  "id": "10143",
+  "idiom": "হাত নাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত নাড়ানো (to wave or shake the hand)",
+  "figurative_meaning_bn": "তর্জনগর্জন করা",
+  "figurative_meaning_en": "To scold or threaten by pointing or wagging one's finger",
+  "similar_in_english": [
+    "Wag one's finger",
+    "Shake one's fist"
+  ],
+  "example_sentences_in_bangla": [
+    "সে রাগ করে হাত নাড়া করে আমাকে ধমক দিল।",
+    "মা ছেলেকে ভুলের জন্য হাত নাড়া করে শাসন করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "He angrily wagged his finger at me to scold me.",
+    "The mother scolded her son by pointing her finger threateningly."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature"
+  ],
+  "tags": [
+    "scolding",
+    "threat",
+    "gesture",
+    "expression of anger"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in Rabindranath Tagore's works, such as in the line 'ভয় করি না ওই হাত নাড়ারে লক্ষ্মী সদয় লক্ষ্মীছাড়ারে...', highlighting defiance against threats."
+  ],
+  "note": "This idiom draws from gestural expressions common in Bengali communication, popularized in literary contexts."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "449",
+  "idiom": "আটপৌরে কাপড়",
+  "alternative_idioms": [
+    "আটপৌরে শাড়ী"
+  ],
+  "literal_meaning": "আট হাত লম্বা সাধারণ কাপড় বা শাড়ী",
+  "figurative_meaning_bn": "সবসময়ে ঘরে পরার উপযোগী জামাকাপড়",
+  "figurative_meaning_en": "Clothes suitable for everyday home wear",
+  "similar_in_english": [
+    "loungewear",
+    "house dress"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার কাছে শুধু আটপৌরে কাপড় আছে, কোনো পার্টির জামা নেই।",
+    "গ্রামে থাকলে আটপৌরে শাড়ী পরাই ভালো লাগে।"
+  ],
+  "example_sentences_in_english": [
+    "I only have everyday home clothes, nothing for parties.",
+    "In the village, wearing an atpoure sari feels comfortable."
+  ],
+  "usage_domain": [
+    "daily life",
+    "clothing",
+    "household"
+  ],
+  "tags": [
+    "traditional",
+    "casual wear",
+    "bengali culture"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to simple, unbleached cotton fabric traditionally used for daily wear in rural Bengal."
+}

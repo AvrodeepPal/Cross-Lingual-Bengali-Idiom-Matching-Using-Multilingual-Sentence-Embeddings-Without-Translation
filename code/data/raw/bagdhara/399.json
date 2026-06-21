@@ -1,0 +1,38 @@
+{
+  "id": "399",
+  "idiom": "আগড়বাগড় খেয়ে পেট ভরানো",
+  "alternative_idioms": [],
+  "literal_meaning": "অসার বা নিকৃষ্ট খাদ্য খেয়ে পেট ভরানো",
+  "figurative_meaning_bn": "অসার খাদ্য খেয়ে উদরপূর্তি করা",
+  "figurative_meaning_en": "Filling one's stomach with worthless or insubstantial food",
+  "similar_in_english": [
+    "Living on scraps",
+    "Making do with meager fare"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের দরিদ্র লোকেরা প্রায়ই আগড়বাগড় খেয়ে পেট ভরায়।",
+    "অর্থনৈতিক সংকটে অনেকেই আগড়বাগড় খেয়ে পেট ভরানোর জীবন যাপন করে।"
+  ],
+  "example_sentences_in_english": [
+    "Poor villagers often fill their stomachs by eating worthless husks.",
+    "During economic hardship, many people subsist by filling their bellies with insubstantial food."
+  ],
+  "usage_domain": [
+    "poverty",
+    "food",
+    "daily life"
+  ],
+  "tags": [
+    "figurative",
+    "rural life",
+    "subsistence"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Refers to the hardship of rural poverty in Bengali culture, where coarse or discarded food items like rice husks are implied."
+}

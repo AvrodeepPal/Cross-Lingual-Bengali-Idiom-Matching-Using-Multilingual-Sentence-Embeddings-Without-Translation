@@ -1,0 +1,40 @@
+{
+  "id": "7050",
+  "idiom": "ফড়ফড়",
+  "alternative_idioms": [
+    "বকরবকর"
+  ],
+  "literal_meaning": "ফড়িংয়ের ডানা ঝাপটানোর শব্দ বা দ্রুত কথা বলার অনুকরণমূলক শব্দ",
+  "figurative_meaning_bn": "বকবক করা",
+  "figurative_meaning_en": "to chatter incessantly or babble",
+  "similar_in_english": [
+    "to run off at the mouth",
+    "to yap",
+    "to gabble"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ফড়ফড় করে যাচ্ছে, কিছুতেই থামছে না।",
+    "বাচ্চারা ফড়ফড় করে গল্প করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is chattering away and won't stop.",
+    "The children are babbling on endlessly."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "everyday speech"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "speech-related",
+    "negative connotation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom mimics the sound of rapid speech, common in colloquial Bengali."
+}

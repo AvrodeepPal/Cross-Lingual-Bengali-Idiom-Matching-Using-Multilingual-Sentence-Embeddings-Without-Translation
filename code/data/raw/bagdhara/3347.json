@@ -1,0 +1,41 @@
+{
+  "id": "3347",
+  "idiom": "গোয়ালার কাঁজি ভক্ষণ",
+  "alternative_idioms": [],
+  "literal_meaning": "গোয়ালার (দুধওলার) কাঁজি (ভাতের জল থেকে তৈরি ডামি) খাওয়া",
+  "figurative_meaning_bn": "নামমাত্র সার, কাজে কিছু নয়",
+  "figurative_meaning_en": "Something with only nominal substance, useless in practice",
+  "similar_in_english": [
+    "All sizzle and no steak",
+    "Style over substance"
+  ],
+  "example_sentences_in_bangla": [
+    "এই চুক্তিটি গোয়ালার কাঁজি ভক্ষণের মতো, কাগজে লেখা আছে কিন্তু কোনো ফল দেয় না।",
+    "তার প্রতিশ্রুতি গোয়ালার কাঁজি ভক্ষণের চেয়েও অকেজো, কিছুই হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "This agreement is like eating the milkman's starch—it's written on paper but yields no real results.",
+    "His promises are more useless than eating the milkman's starch; nothing will come of them."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism",
+    "Evaluation of worth"
+  ],
+  "tags": [
+    "useless",
+    "nominal",
+    "rural origin",
+    "figurative"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom draws from rural Bengali life where 'কাঁজি' (starch from rice water) was a cheap, low-nutrient food, and 'গোয়ালা' (milkman) implies something impure or of low quality from a cow shed context."
+  ],
+  "note": "The term '(আমানি)' in the input may refer to a variant of starch, but it is not essential to the primary idiom."
+}

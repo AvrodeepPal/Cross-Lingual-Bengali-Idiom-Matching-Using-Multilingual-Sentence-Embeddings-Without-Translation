@@ -1,0 +1,40 @@
+{
+  "id": "6058",
+  "idiom": "ধান্ধা",
+  "alternative_idioms": [
+    "ফিকির"
+  ],
+  "literal_meaning": "অনুসন্ধান বা খোঁজ",
+  "figurative_meaning_bn": "উদ্দেশ্য, কাজের সন্ধান",
+  "figurative_meaning_en": "purpose, search for work or livelihood",
+  "similar_in_english": [
+    "job hunting",
+    "on the prowl for work"
+  ],
+  "example_sentences_in_bangla": [
+    "এখনো কোনো ভালো কাজের ধান্ধায় আছি।",
+    "তার ধান্ধা শেষ হলে সব ঠিক হয়ে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "I'm still in search of a good job.",
+    "Once his quest for work ends, everything will be fine."
+  ],
+  "usage_domain": [
+    "employment",
+    "daily life"
+  ],
+  "tags": [
+    "work",
+    "search",
+    "livelihood",
+    "struggle"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the common struggle for employment in Bengali-speaking regions, influenced by everyday socio-economic challenges."
+}

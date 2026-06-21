@@ -1,0 +1,39 @@
+{
+  "id": "7113",
+  "idiom": "ফাঁস হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ফাঁদ বা ফাঁসে পড়া বা আটকা পড়া",
+  "figurative_meaning_bn": "গোপন কথা প্রকাশ হওয়া; রহস্য উন্মোচিত হওয়া",
+  "figurative_meaning_en": "A secret being revealed or exposed",
+  "similar_in_english": [
+    "The cat is out of the bag",
+    "Spill the beans"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ষড়যন্ত্র ফাঁস হয়ে গেছে।",
+    "গোপনীয় তথ্য ফাঁস হওয়ায় সবাই অবাক হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "His conspiracy has been exposed.",
+    "The confidential information was leaked, shocking everyone."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "politics",
+    "literature"
+  ],
+  "tags": [
+    "secrecy",
+    "exposure",
+    "conspiracy",
+    "betrayal"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the imagery of a noose or trap, commonly used in Bengali to denote unintended revelation of hidden matters."
+}

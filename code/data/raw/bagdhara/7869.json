@@ -1,0 +1,41 @@
+{
+  "id": "7869",
+  "idiom": "বেনের কাছে গিলটি চালানো",
+  "alternative_idioms": [
+    "বেনের কাছে মেকি চালানো"
+  ],
+  "literal_meaning": "বেনের কাছে গিলটি বা ছোট মাছ চালানো বা বিক্রি করার চেষ্টা",
+  "figurative_meaning_bn": "অভিজ্ঞকে ঠকানোর চেষ্টা; নিস্ফল প্রচেষ্টা",
+  "figurative_meaning_en": "Attempt to deceive an experienced person; futile effort",
+  "similar_in_english": [
+    "Bring coals to Newcastle",
+    "Sell ice to Eskimos"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অভিজ্ঞ ব্যবসায়ীর কাছে নকল জিনিস চালানোর চেষ্টা করল, কিন্তু বেনের কাছে গিলটি চালানোর মতো ব্যর্থ হল।",
+    "এই ধরনের প্রতারণা বেনের কাছে গিলটি চালানোর সমান, কোনো লাভ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He tried to sell the counterfeit goods to the seasoned merchant, but it was like bringing coals to Newcastle and failed miserably.",
+    "Such deception is akin to selling ice to Eskimos—utterly pointless."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "business",
+    "everyday conversation"
+  ],
+  "tags": [
+    "deception",
+    "futility",
+    "experience",
+    "proverbial warning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from traditional Bengali market scenarios where 'বেন' refers to a skilled or expert trader, often in rural or semi-urban settings."
+}

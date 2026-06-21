@@ -1,0 +1,41 @@
+{
+  "id": "2561",
+  "idiom": "খাই খাই করা",
+  "alternative_idioms": [],
+  "literal_meaning": "খাওয়ার কথা বারবার বলা বা করা (দ্বিত্বশব্দের মাধ্যমে)",
+  "figurative_meaning_bn": "সবসময় খাওয়ার জন্য লালসা প্রকাশ করা",
+  "figurative_meaning_en": "To constantly express a desire or craving for food",
+  "similar_in_english": [
+    "Always hungry for more",
+    "Can't get enough to eat"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খাই খাই করছে, কখনো তৃপ্ত হয় না।",
+    "বাচ্চাটা খাই খাই করে সারাদিন কাঁদে।"
+  ],
+  "example_sentences_in_english": [
+    "He keeps doing 'khai khai', he's never satisfied with food.",
+    "The child cries 'khai khai' all day, always craving more to eat."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Food and hunger contexts",
+    "Humor and literature"
+  ],
+  "tags": [
+    "food craving",
+    "greed",
+    "reduplication",
+    "humor"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom is famously used in the works of Sukumar Ray, a prominent Bengali nonsense verse writer, highlighting playful expressions of gluttony in early 20th-century Bengali literature."
+  ],
+  "note": "Derived from reduplication typical in Bengali for emphasis on desire."
+}

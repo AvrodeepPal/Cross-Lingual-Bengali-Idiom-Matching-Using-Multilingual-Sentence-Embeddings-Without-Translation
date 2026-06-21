@@ -1,0 +1,42 @@
+{
+  "id": "311",
+  "idiom": "আঁটকুড়ের ব্যাটা",
+  "alternative_idioms": [
+    "কুড়ির ব্যাটা",
+    "আঁটকুড়ের বেটি",
+    "কুড়ির বেটি"
+  ],
+  "literal_meaning": "আঁটকুড়ে (অবৈধ সন্তান) এর ব্যাটা/বেটি (ছেলে/মেয়ে)",
+  "figurative_meaning_bn": "অবৈধ সন্তান",
+  "figurative_meaning_en": "Illegitimate child",
+  "similar_in_english": [
+    "Bastard",
+    "Love child (pejorative)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আঁটকুড়ের ব্যাটা বলে গ্রামে কেউ সম্মান করে না।",
+    "তোর মতো কুড়ির বেটি কোথায় যাবি?"
+  ],
+  "example_sentences_in_english": [
+    "He's considered a bastard in the village and gets no respect.",
+    "Where will a girl like you, an illegitimate child, go?"
+  ],
+  "usage_domain": [
+    "slang",
+    "insults",
+    "rural dialect"
+  ],
+  "tags": [
+    "গালি",
+    "গ্রাম্য",
+    "নীচুস্তর"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "এটি নীচুস্তরের গ্রাম্য গালি হিসেবে ব্যবহৃত হয়, যা সমাজের অবৈধ সন্তান সম্পর্কিত স্টিগমা প্রকাশ করে।"
+}

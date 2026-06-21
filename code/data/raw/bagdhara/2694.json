@@ -1,0 +1,38 @@
+{
+  "id": "2694",
+  "idiom": "খুন হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হত্যা হওয়া বা মারা যাওয়া",
+  "figurative_meaning_bn": "লুটোপুটি খাওয়ার মত অবস্থা",
+  "figurative_meaning_en": "a state of being thoroughly beaten or plundered",
+  "similar_in_english": [
+    "to be beaten black and blue",
+    "to take a severe beating"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় খুব খারাপ ফল করায় সে খুন হয়ে গেছে।",
+    "দলটি ম্যাচে পরাজিত হয়ে খুন হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He was murdered in the exam by getting very poor results.",
+    "The team was beaten to death in the match."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "sports",
+    "defeat"
+  ],
+  "tags": [
+    "negative",
+    "defeat",
+    "violence"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The provided example appears to reference dying of laughter, which may indicate a variant usage not directly matching the stated meaning."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1298",
+  "idiom": "কইয়ের তেলে কই ভাজা",
+  "alternative_idioms": [
+    "গঙ্গাজলে গঙ্গা পূজা",
+    "মাছের তেলে মাছ ভাজা"
+  ],
+  "literal_meaning": "কই মাছের তেলে কই মাছ ভাজা (frying koi fish in oil extracted from koi fish)",
+  "figurative_meaning_bn": "পরের ওপর দিয়ে চলা",
+  "figurative_meaning_en": "Living by depending on or exploiting others",
+  "similar_in_english": [
+    "Robbing Peter to pay Paul",
+    "Living off the land (in a parasitic sense)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় পরের ওপর নির্ভর করে, ঠিক কইয়ের তেলে কই ভাজা।",
+    "এই ব্যবসা চালানো কইয়ের তেলে কই ভাজার মতো, শেষে কিছু থাকবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He always depends on others, just like frying koi in koi oil.",
+    "Running this business is like frying fish in its own oil; it'll soon run out."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Proverbs and sayings"
+  ],
+  "tags": [
+    "dependence",
+    "exploitation",
+    "futility",
+    "rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from traditional Bengali fishing and cooking practices, emphasizing self-consumption or reliance."
+}

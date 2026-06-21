@@ -1,0 +1,39 @@
+{
+  "id": "5738",
+  "idiom": "দাঁত ফোটানো",
+  "alternative_idioms": [
+    "দাঁত বসানো"
+  ],
+  "literal_meaning": "দাঁত উঠা বা ফুটে ওঠা (teething or sprouting teeth)",
+  "figurative_meaning_bn": "কটিন বিষয়ে প্রবেশ লাভ করা; কোন দুরুহ বিষয় বোধগম্য হওয়া",
+  "figurative_meaning_en": "To gain entry into a tough subject; to comprehend a difficult or obscure matter",
+  "similar_in_english": [
+    "cut one's teeth on something"
+  ],
+  "example_sentences_in_bangla": [
+    "এই জটিল গণিতের বইটি পড়তে গিয়ে আমার দাঁত ফোটানো হয়েছে।",
+    "তার লেখা এত কঠিন যে দাঁত ফোটানো যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "I cut my teeth on this complex math textbook while studying.",
+    "His writing is so tough that it's hard to get one's teeth into it."
+  ],
+  "usage_domain": [
+    "education",
+    "literature",
+    "learning"
+  ],
+  "tags": [
+    "difficulty",
+    "comprehension",
+    "challenge"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom metaphorically draws from the idea of teething as a painful process, applied to grappling with intellectual challenges."
+}

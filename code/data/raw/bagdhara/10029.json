@@ -1,0 +1,37 @@
+{
+  "id": "10029",
+  "idiom": "হাট করা",
+  "alternative_idioms": [],
+  "literal_meaning": "বাজারে বিক্রি করা বা প্রকাশ করা (market করা)",
+  "figurative_meaning_bn": "প্রকাশ করা",
+  "figurative_meaning_en": "to disclose or make public",
+  "similar_in_english": [
+    "spill the beans",
+    "air one's dirty laundry"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরের কথা হাট করো না।",
+    "সে তার রহস্য হাট করে দিল।"
+  ],
+  "example_sentences_in_english": [
+    "Don't disclose family matters.",
+    "He made his secret public."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "family matters"
+  ],
+  "tags": [
+    "disclosure",
+    "secrecy",
+    "privacy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to village markets (হাট) where secrets are 'sold' or revealed publicly"
+}

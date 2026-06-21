@@ -1,0 +1,39 @@
+{
+  "id": "7400",
+  "idiom": "বেঁকে বসা",
+  "alternative_idioms": [],
+  "literal_meaning": "বেঁকে বসা (শাব্দিক অর্থ: বাঁকা হয়ে বসা)",
+  "figurative_meaning_bn": "অসম্মত হওয়া",
+  "figurative_meaning_en": "To refuse or disagree obstinately",
+  "similar_in_english": [
+    "to dig one's heels in",
+    "to put one's foot down",
+    "to balk at"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের কথা শুনে মেয়ে বেঁকে বসেছে।",
+    "প্রস্তাবটা শুনে সে বেঁকে বসল এবং কোনো আলোচনাই করতে চাইল না।"
+  ],
+  "example_sentences_in_english": [
+    "Upon hearing about the marriage proposal, the girl dug in her heels.",
+    "He balked at the suggestion and refused to discuss it further."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships",
+    "decision-making"
+  ],
+  "tags": [
+    "refusal",
+    "stubbornness",
+    "disagreement"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom text cleaned from 'বাঁকা২' to standard form 'বেঁকে বসা' based on context and common usage."
+}

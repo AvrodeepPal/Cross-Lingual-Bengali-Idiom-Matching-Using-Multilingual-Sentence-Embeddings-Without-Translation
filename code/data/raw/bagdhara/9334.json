@@ -1,0 +1,42 @@
+{
+  "id": "9334",
+  "idiom": "লেজধরা",
+  "alternative_idioms": [
+    "ধামাধরা",
+    "বশংবদ"
+  ],
+  "literal_meaning": "লেজ ধরা (tail holding)",
+  "figurative_meaning_bn": "একান্ত অনুগত; বশীভূত",
+  "figurative_meaning_en": "extremely obedient; subservient; under complete control",
+  "similar_in_english": [
+    "under someone's thumb",
+    "at one's beck and call"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার স্ত্রীর লেজধরা হয়ে গেছে।",
+    "অফিসের বসের লেজধরা করতে হলে সফল হওয়া কঠিন।"
+  ],
+  "example_sentences_in_english": [
+    "He has become his wife's tail-holder.",
+    "It's hard to succeed if you have to be the boss's tail-holder at the office."
+  ],
+  "usage_domain": [
+    "relationships",
+    "workplace",
+    "politics"
+  ],
+  "tags": [
+    "obedience",
+    "subservience",
+    "control",
+    "animal metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the image of a dog being led by its tail, emphasizing total submission."
+}

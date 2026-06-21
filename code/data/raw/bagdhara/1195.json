@@ -1,0 +1,44 @@
+{
+  "id": "1195",
+  "idiom": "এদিকও না ওদিকও না",
+  "alternative_idioms": [
+    "কিংকর্তব্যবিমূঢ়",
+    "ন যযৌ ন তস্তৌ",
+    "সসেমিরা"
+  ],
+  "literal_meaning": "এদিকও না, ওদিকও না (না এই দিকে, না ওই দিকে)",
+  "figurative_meaning_bn": "কোনদিকে যাবে স্থির করতে না পারা",
+  "figurative_meaning_en": "Unable to decide which direction to go; being indecisive",
+  "similar_in_english": [
+    "Neither here nor there",
+    "Can't make up one's mind",
+    "In a quandary"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এদিকও না ওদিকও না হয়ে পথে দাঁড়িয়ে আছে।",
+    "পরীক্ষার প্রস্তুতিতে ছেলেটি এদিকও না ওদিকও না হয়ে সময় নষ্ট করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is standing in the path, neither this way nor that, unable to decide.",
+    "The boy is wasting time in exam preparation, indecisive and neither here nor there."
+  ],
+  "usage_domain": [
+    "decision-making",
+    "indecision",
+    "daily life"
+  ],
+  "tags": [
+    "indecision",
+    "dilemma",
+    "confusion",
+    "hesitation"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday indecision in Bengali speech patterns."
+}

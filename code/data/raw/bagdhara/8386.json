@@ -1,0 +1,38 @@
+{
+  "id": "8386",
+  "idiom": "মহাব্রাহ্মণ",
+  "alternative_idioms": [],
+  "literal_meaning": "মহান বা বড় ব্রাহ্মণ",
+  "figurative_meaning_bn": "শ্মশানক্রিয়া-সম্পাদনকারী নিকৃষ্ট ব্রাহ্মণ",
+  "figurative_meaning_en": "A lowly or inferior Brahmin who performs cremation rites",
+  "similar_in_english": [
+    "No direct equivalent; akin to 'fallen priest' or 'lowly cleric' in derogatory caste contexts"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন মহাব্রাহ্মণ, শ্মশানে মৃতদেহ পোড়ানোর কাজ করে।",
+    "গ্রামে সেই মহাব্রাহ্মণের খ্যাতি ছড়িয়ে পড়েছে তার নিকৃষ্টতার জন্য।"
+  ],
+  "example_sentences_in_english": [
+    "He is a Mahabrahmin, handling the cremation duties at the graveyard.",
+    "The reputation of that Mahabrahmin spread in the village due to his lowly status."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Caste System",
+    "Social Commentary"
+  ],
+  "tags": [
+    "ব্রাহ্মণ",
+    "শ্মশান",
+    "নিকৃষ্টতা",
+    "হিন্দু রীতি"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects historical caste hierarchies in Bengali Hindu society, derogatorily referring to Brahmins relegated to funeral duties, considered impure."
+}

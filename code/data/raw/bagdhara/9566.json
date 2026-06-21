@@ -1,0 +1,39 @@
+{
+  "id": "9566",
+  "idiom": "সংসারক্ষেত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "সংসারের ক্ষেত্র (family field or household domain)",
+  "figurative_meaning_bn": "পুরুষের কর্মজীবন",
+  "figurative_meaning_en": "A man's professional life or career",
+  "similar_in_english": [
+    "The rat race",
+    "The daily grind"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সংসারক্ষেত্রে অনেক চ্যালেঞ্জ রয়েছে।",
+    "সংসারক্ষেত্রে সফল হওয়া তার স্বপ্ন।"
+  ],
+  "example_sentences_in_english": [
+    "He faces many challenges in his professional life.",
+    "Succeeding in his career is his dream."
+  ],
+  "usage_domain": [
+    "family",
+    "work",
+    "gender roles"
+  ],
+  "tags": [
+    "idiom",
+    "figurative",
+    "career",
+    "traditional"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects traditional gender roles in Bengali society where the man's domain is outside the home."
+}

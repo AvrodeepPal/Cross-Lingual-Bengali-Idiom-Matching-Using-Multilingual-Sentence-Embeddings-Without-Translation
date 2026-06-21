@@ -1,0 +1,39 @@
+{
+  "id": "5434",
+  "idiom": "তিরিক্ষি",
+  "alternative_idioms": [],
+  "literal_meaning": "তীক্ষ্ণ বা রগচটা স্বভাবের (sharp or prickly temperament)",
+  "figurative_meaning_bn": "যে অল্পেতে রেগে যায়; রগচটা",
+  "figurative_meaning_en": "Someone who gets angry easily; short-tempered",
+  "similar_in_english": [
+    "short-tempered",
+    "hot-headed",
+    "quick to anger"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তিরিক্ষি মেজাজের, সামান্য কথায় রেগে যায়।",
+    "তিরিক্ষি স্বভাবের লোকের সঙ্গে কথা বলতে গেলে সতর্ক থাকতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is short-tempered and gets angry over trivial matters.",
+    "Dealing with a hot-headed person requires caution."
+  ],
+  "usage_domain": [
+    "personality description",
+    "everyday conversation"
+  ],
+  "tags": [
+    "temperament",
+    "anger",
+    "irritability",
+    "personality"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Sanskrit 'तिक্ষ्ण' meaning sharp, commonly used in colloquial Bengali to describe irritable disposition."
+}

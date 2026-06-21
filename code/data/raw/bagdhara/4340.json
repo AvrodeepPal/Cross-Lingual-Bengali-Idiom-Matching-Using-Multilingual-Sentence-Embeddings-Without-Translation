@@ -1,0 +1,40 @@
+{
+  "id": "4340",
+  "idiom": "ছিদ্রদর্শী",
+  "alternative_idioms": [
+    "ছিদ্রান্বেষী"
+  ],
+  "literal_meaning": "ছিদ্র (দোষ বা ফাটল) দেখার বা অন্বেষণকারী",
+  "figurative_meaning_bn": "পরের দোষত্রুটি খুঁজে বেড়ায় এমন",
+  "figurative_meaning_en": "One who habitually looks for faults or flaws in others",
+  "similar_in_english": [
+    "Fault-finder",
+    "Nitpicker"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন ছিদ্রদর্শী মানুষ, সবসময় অন্যের খামতি খুঁজে বেড়ায়।",
+    "আমাদের প্রতিবেশী ছিদ্রান্বেষী স্বভাবের জন্য সবাইকে সমস্যায় ফেলে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a fault-finder, always looking for flaws in others.",
+    "Our neighbor's nitpicking nature causes trouble for everyone."
+  ],
+  "usage_domain": [
+    "social interaction",
+    "personality description",
+    "criticism"
+  ],
+  "tags": [
+    "negative trait",
+    "fault-finding",
+    "behavioral"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the metaphorical idea of searching for 'holes' or imperfections, common in Bengali proverbial language."
+}

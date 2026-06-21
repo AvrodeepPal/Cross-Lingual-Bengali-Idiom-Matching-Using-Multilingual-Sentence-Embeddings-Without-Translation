@@ -1,0 +1,39 @@
+{
+  "id": "414",
+  "idiom": "আগুপাছু করা",
+  "alternative_idioms": [
+    "আগেপাছে করা"
+  ],
+  "literal_meaning": "আগু (সামনে) এবং পাছু (পিছনে) করা, অর্থাৎ সামনে-পিছনে যাওয়া বা করা",
+  "figurative_meaning_bn": "ইতঃস্তত করা",
+  "figurative_meaning_en": "To hesitate or act indecisively",
+  "similar_in_english": [
+    "Beat around the bush",
+    "Dilly-dally"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরীক্ষার জন্য আগুপাছু করছে, তাই প্রস্তুতি নিতে পারছে না।",
+    "কাজ শুরু করার সময় আগুপাছু করলে সবকিছু নষ্ট হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is dallying with his exam preparation and not getting ready.",
+    "If you hesitate at the start of a task, everything gets ruined."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Advice and proverbs"
+  ],
+  "tags": [
+    "indecision",
+    "procrastination",
+    "inefficiency"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom warns against indecisiveness, common in Bengali proverbial wisdom."
+}

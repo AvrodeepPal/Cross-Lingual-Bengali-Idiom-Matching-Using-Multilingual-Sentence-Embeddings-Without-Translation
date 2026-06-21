@@ -1,0 +1,41 @@
+{
+  "id": "880",
+  "idiom": "ঋতুপর্ণা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঋতু (season) + পর্ণা (foliage or leaves)",
+  "figurative_meaning_bn": "পর্ণমোচী বৃক্ষ, পাতাঝরা গাছপালা",
+  "figurative_meaning_en": "Deciduous trees, leafless vegetation",
+  "similar_in_english": [
+    "Bare as a winter tree",
+    "Autumn leaves falling"
+  ],
+  "example_sentences_in_bangla": [
+    "শীতের আগমনে ঋতুপর্ণা গাছগুলো পাতা ঝরিয়ে ফেলে।",
+    "বন্য এলাকায় ঋতুপর্ণা বৃক্ষের সারি দেখতে অপূর্ব লাগে।"
+  ],
+  "example_sentences_in_english": [
+    "In the onset of winter, the deciduous trees shed their leaves.",
+    "The row of deciduous trees in the forest looks magnificent."
+  ],
+  "usage_domain": [
+    "Nature",
+    "Literature",
+    "Botany"
+  ],
+  "tags": [
+    "seasons",
+    "trees",
+    "foliage",
+    "autumn"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Refers to the natural seasonal changes observed in Bengali rural landscapes, particularly during autumn and winter."
+  ],
+  "note": "This term is more of a descriptive phrase than a strictly idiomatic expression, rooted in observations of Bengal's monsoon-influenced climate."
+}

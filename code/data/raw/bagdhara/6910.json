@@ -1,0 +1,43 @@
+{
+  "id": "6910",
+  "idiom": "পীড়াপীড়ি করা",
+  "alternative_idioms": [
+    "ঝুলাঝুলি",
+    "ধরাধরি"
+  ],
+  "literal_meaning": "বারবার পীড়া বা কষ্ট দেওয়া",
+  "figurative_meaning_bn": "অনুগ্রহ লাভের জন্য সনির্বন্ধ অনুরোধ করা",
+  "figurative_meaning_en": "To earnestly request or beg for a favor",
+  "similar_in_english": [
+    "To pester someone",
+    "To beg persistently",
+    "To plead for mercy"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুকে পীড়াপীড়ি করে টাকা ধার দিতে বলল।",
+    "মা-বাবাকে পীড়াপীড়ি করে ছেলে নতুন খেলনা কিনিয়ে দিতে বাধ্য করল।"
+  ],
+  "example_sentences_in_english": [
+    "He pestered his friend to lend him some money.",
+    "The child begged his parents persistently until they bought him a new toy."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Family interactions",
+    "Social requests"
+  ],
+  "tags": [
+    "Request",
+    "Persistence",
+    "Favor-seeking",
+    "Pleading"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali social dynamics of humble persuasion."
+}

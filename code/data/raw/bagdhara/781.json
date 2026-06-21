@@ -1,0 +1,40 @@
+{
+  "id": "781",
+  "idiom": "উড়ো খই গোবিন্দায় নমঃ",
+  "alternative_idioms": [],
+  "literal_meaning": "উড়ন্ত খই গোবিন্দায় নমস্কার (আকাশে ছুড়ে দেওয়া ফোলা ভাতের মতো অনিচ্ছায় দেবতাকে প্রণাম)",
+  "figurative_meaning_bn": "অনিচ্ছায় সৎকার্য করা",
+  "figurative_meaning_en": "Performing good deeds unwillingly or reluctantly",
+  "similar_in_english": [
+    "Grudging charity",
+    "To give with a heavy heart"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অনিচ্ছায় দান করল, যেন উড়ো খই গোবিন্দায় নমঃ।",
+    "তার সাহায্যের ভঙ্গিতে উড়ো খই গোবিন্দায় নমঃ-এর ছাপ পড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He donated reluctantly, just like 'flying puffed rice to Govinda'.",
+    "Her help came with the air of 'flying puffed rice to Govinda', showing clear unwillingness."
+  ],
+  "usage_domain": [
+    "Moral and ethical discussions",
+    "Everyday conversations about reluctance"
+  ],
+  "tags": [
+    "reluctance",
+    "charity",
+    "religious chant",
+    "folk idiom"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom derives from a Bengali folk tale about a miserly person who, when compelled to give alms, throws puffed rice into the air towards a temple while muttering 'Govinday namah' to feign devotion, symbolizing insincere or reluctant good acts."
+  ],
+  "note": "References Lord Govinda (Krishna), highlighting hypocritical piety in traditional Bengali storytelling."
+}

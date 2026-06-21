@@ -1,0 +1,43 @@
+{
+  "id": "7457",
+  "idiom": "বাগাড়ম্বর",
+  "alternative_idioms": [
+    "বাক্যের ঘটা",
+    "কথার ফুলঝুরি"
+  ],
+  "literal_meaning": "বাগ (কথা) + আড়ম্বর (আড়ম্বরপূর্ণতা বা ফাঁকা প্রদর্শন)",
+  "figurative_meaning_bn": "বড় বড় কথা, ফাঁকা কথার ঘটা, বাকবিস্তার",
+  "figurative_meaning_en": "Boastful or pompous talk, empty rhetoric, verbosity",
+  "similar_in_english": [
+    "All talk and no action",
+    "Hot air",
+    "Grandiloquence"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথায় শুধু বাগাড়ম্বর, কোনো কাজ নেই।",
+    "বেশি বাগাড়ম্বর করে সময় নষ্ট করো না।"
+  ],
+  "example_sentences_in_english": [
+    "His speech is full of bombast but lacks substance.",
+    "Don't waste time with all that pompous talk."
+  ],
+  "usage_domain": [
+    "conversation",
+    "literature",
+    "rhetoric"
+  ],
+  "tags": [
+    "boastful",
+    "empty talk",
+    "verbosity",
+    "pompous"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom critiques insubstantial speech in everyday Bengali discourse."
+}

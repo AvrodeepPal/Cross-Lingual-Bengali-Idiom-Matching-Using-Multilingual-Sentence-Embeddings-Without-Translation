@@ -1,0 +1,38 @@
+{
+  "id": "2060",
+  "idiom": "কাপড়েবাবু",
+  "alternative_idioms": [],
+  "literal_meaning": "কাপড়ের বাবু (জামাকাপড়ে সজ্জিত ব্যক্তি)",
+  "figurative_meaning_bn": "জামাকাপড়বিলাসী অল্পধনী, বাহ্যিক সভ্যব্যক্তি",
+  "figurative_meaning_en": "A poor person who indulges in fancy clothes, an outwardly sophisticated individual",
+  "similar_in_english": [
+    "all dressed up and nowhere to go",
+    "clothes make the man (but he's broke)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা কাপড়েবাবু, বাইরে থেকে দেখলে ধনী বলে মনে হয় কিন্তু আসলে খুবই অভাবী।",
+    "অফিসে নতুন যোগদানকারী কাপড়েবাবু, সবাইকে ইমপ্রেস করার চেষ্টা করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a kapore babu; he looks wealthy from the outside but is actually very poor.",
+    "The new office joiner is a kapore babu, trying to impress everyone with his appearance."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "appearance vs. reality"
+  ],
+  "tags": [
+    "poverty",
+    "pretension",
+    "satire",
+    "fashion"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom satirizes colonial-era influences on Bengali middle-class aspirations for Western-style sophistication despite economic constraints."
+}

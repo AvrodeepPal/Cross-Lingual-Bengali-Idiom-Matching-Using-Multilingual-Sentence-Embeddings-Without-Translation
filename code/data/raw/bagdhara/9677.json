@@ -1,0 +1,40 @@
+{
+  "id": "9677",
+  "idiom": "সাঁতার জল",
+  "alternative_idioms": [
+    "সাঁতার পানি"
+  ],
+  "literal_meaning": "সাঁতারের জন্য উপযুক্ত জল (swimming water)",
+  "figurative_meaning_bn": "গভীর জল; এত জল যে সাঁতরে পার হতে হয়",
+  "figurative_meaning_en": "Deep water; water so much that one has to swim to cross it",
+  "similar_in_english": [
+    "In deep water",
+    "Out of one's depth"
+  ],
+  "example_sentences_in_bangla": [
+    "এই নদীতে সাঁতার জল, সতর্ক থেকো।",
+    "বিষয়টি সাঁতার জল, সহজে বোঝা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "This river has swimming water, be careful.",
+    "The topic is deep water, not easy to understand."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Metaphorical expressions"
+  ],
+  "tags": [
+    "water",
+    "depth",
+    "swimming",
+    "challenge"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to describe situations requiring skill or effort, reflecting rural water-crossing experiences in Bengal."
+}

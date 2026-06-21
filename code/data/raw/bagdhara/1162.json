@@ -1,0 +1,40 @@
+{
+  "id": "1162",
+  "idiom": "এখনকার মত",
+  "alternative_idioms": [],
+  "literal_meaning": "এখনের মতো (বর্তমান সময়ের মতো)",
+  "figurative_meaning_bn": "আজকের মত; আপাততঃ",
+  "figurative_meaning_en": "For today; for the time being",
+  "similar_in_english": [
+    "For now",
+    "For the time being",
+    "That's all for today"
+  ],
+  "example_sentences_in_bangla": [
+    "এখনকার মত কাজ শেষ করি, কাল আবার দেখা হবে।",
+    "এখনকার মত এই টপিকে থামি।"
+  ],
+  "example_sentences_in_english": [
+    "Let's finish the work for now, we'll meet again tomorrow.",
+    "Let's stop on this topic for the time being."
+  ],
+  "usage_domain": [
+    "conversational",
+    "everyday language",
+    "temporary conclusion"
+  ],
+  "tags": [
+    "time",
+    "temporary",
+    "closure",
+    "informal"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in spoken Bengali to indicate a temporary pause or end."
+}

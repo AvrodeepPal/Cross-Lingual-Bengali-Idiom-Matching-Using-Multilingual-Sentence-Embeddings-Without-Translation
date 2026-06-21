@@ -1,0 +1,40 @@
+{
+  "id": "4940",
+  "idiom": "টিকটিক করা",
+  "alternative_idioms": [],
+  "literal_meaning": "টিকটিক শব্দ করা বা ঘড়ির মতো ছোট ছোট শব্দ উচ্চারণ করা",
+  "figurative_meaning_bn": "সবসময় খুঁত ধরা বা সব বিষয়ে দোষ অনুসন্ধান করা",
+  "figurative_meaning_en": "To constantly find faults or search for defects in everything",
+  "similar_in_english": [
+    "nitpick",
+    "find fault with everything",
+    "be picky"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় টিকটিক করে, কোনো কাজই তার মনের মতো হয় না।",
+    "মায়ের টিকটিক করায় ছেলেটি বিরক্ত হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "She is always nitpicking; nothing ever satisfies her.",
+    "The boy's mother nags him constantly about every little thing."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "family interactions",
+    "criticism"
+  ],
+  "tags": [
+    "nagging",
+    "fault-finding",
+    "complaining",
+    "picky"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom mimics the sound of a clock ticking to represent persistent annoyance."
+}

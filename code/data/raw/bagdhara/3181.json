@@ -1,0 +1,42 @@
+{
+  "id": "3181",
+  "idiom": "গায়েব করা",
+  "alternative_idioms": [
+    "গাপ"
+  ],
+  "literal_meaning": "অদৃশ্য বা লুকিয়ে ফেলা (to make invisible or hidden)",
+  "figurative_meaning_bn": "আত্মসাৎ",
+  "figurative_meaning_en": "to appropriate or pocket (especially illicitly)",
+  "similar_in_english": [
+    "to pocket",
+    "to make off with"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার টাকাটা গায়েব করে দিয়েছে।",
+    "পুরো সম্পত্তিটা গায়েব হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He pocketed my money.",
+    "The entire property disappeared."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "theft",
+    "everyday conversation"
+  ],
+  "tags": [
+    "negative",
+    "idiomatic",
+    "appropriation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Arabic 'ghayb' meaning the unseen or absent, influenced by Islamic terminology in Bengali language."
+  ],
+  "note": "Often used in contexts of minor theft or misappropriation in informal speech."
+}

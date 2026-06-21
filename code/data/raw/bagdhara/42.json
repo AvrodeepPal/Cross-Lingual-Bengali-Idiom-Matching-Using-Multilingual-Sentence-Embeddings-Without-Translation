@@ -1,0 +1,40 @@
+{
+  "id": "42",
+  "idiom": "অগর-মগর করা",
+  "alternative_idioms": [],
+  "literal_meaning": "অগর-মগর (অস্পষ্ট বা আওয়াজময় শব্দ) করে কাজ করা বা বক্তব্য প্রকাশ করা",
+  "figurative_meaning_bn": "নানা অজুহাত দেখানো; কিছু করা বা না করার পক্ষে নানা অজুহাত/ওজর/যুক্তি দেখানো",
+  "figurative_meaning_en": "To make various excuses; to present multiple pretexts, reasons, or arguments for doing or not doing something",
+  "similar_in_english": [
+    "Beat around the bush",
+    "Hem and haw",
+    "Make excuses"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরীক্ষা দেওয়ার জন্য অগর-মগর করতে লাগল।",
+    "বসের প্রশ্নের উত্তরে কর্মচারী অগর-মগর করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He started making excuses for not taking the exam.",
+    "The employee is hemming and hawing in response to the boss's question."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Workplace",
+    "Family discussions"
+  ],
+  "tags": [
+    "excuses",
+    "hesitation",
+    "avoidance",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom mimics the sound of mumbling or vague speech to evade direct answers, common in oral Bengali traditions."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "3251",
+  "idiom": "গুরুচণ্ডালী",
+  "alternative_idioms": [
+    "চাণ্ডালী"
+  ],
+  "literal_meaning": "গুরু (পবিত্র/সাধু) এবং চণ্ডাল (অপবিত্র/নিম্নবর্গীয়) এর মিশ্রণ",
+  "figurative_meaning_bn": "সাধুভাষার সাথে কথ্য ভাষার সংমিশ্রণজনিত দোষ",
+  "figurative_meaning_en": "The fault arising from the mixture of formal (sadhu) Bengali with colloquial language",
+  "similar_in_english": [
+    "Solecism",
+    "Barbarism in language"
+  ],
+  "example_sentences_in_bangla": [
+    "তার লেখায় গুরুচণ্ডালীর দোষ দেখা যায়, যা পাঠককে বিভ্রান্ত করে।",
+    "আধুনিক বাংলা সাহিত্যে গুরুচণ্ডালী এড়ানোর চেষ্টা করা হয়।"
+  ],
+  "example_sentences_in_english": [
+    "His writing shows the fault of guru-chandali, confusing the readers.",
+    "Modern Bengali literature tries to avoid guru-chandali."
+  ],
+  "usage_domain": [
+    "Linguistics",
+    "Literature",
+    "Language Criticism"
+  ],
+  "tags": [
+    "ভাষাগত দোষ",
+    "সংমিশ্রণ",
+    "সাহিত্য",
+    "বাংলা ভাষা"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term critiques the linguistic style of 19th-century Bengali literature, notably used to describe Bankim Chandra Chattopadhyay's language as afflicted with guru-chandali dosh.",
+    "It draws from caste-based purity concepts, with examples like mixed terms: charby-choshya ranna (cooking of chewable-suckable), bhatprashan (rice-eating), mrityadaha (corpse-burning), shabpoda (corpse-cremation)."
+  ],
+  "note": "Refers to a specific linguistic impurity in Bengali prose evolution."
+}

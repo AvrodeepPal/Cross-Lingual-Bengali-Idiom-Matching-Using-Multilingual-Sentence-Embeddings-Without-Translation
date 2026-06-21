@@ -1,0 +1,44 @@
+{
+  "id": "1884",
+  "idiom": "কাজীর বিচার",
+  "alternative_idioms": [],
+  "literal_meaning": "কাজীর (ইসলামী বিচারকের) বিচার",
+  "figurative_meaning_bn": "অন্যায় বিধিবিরুদ্ধ পক্ষপাতদুষ্ট যুক্তিহীন বিচার; একপেশে বিচার; গোঁজমিল দিয়ে বিচার",
+  "figurative_meaning_en": "Unjust, illegal, biased, and illogical judgment; one-sided trial; judgment with favoritism or prejudice",
+  "similar_in_english": [
+    "Kangaroo court",
+    "Miscarriage of justice",
+    "Biased verdict"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের পঞ্চায়েতে কাজীর বিচার হয়েছে, কেউ শুনল না আমার কথা।",
+    "আদালতের সিদ্ধান্ত দেখে মনে হলো এটা কাজীর বিচারের মতো একপেশে।"
+  ],
+  "example_sentences_in_english": [
+    "The village panchayat turned into a Qazi's judgment, no one listened to my side.",
+    "The court's decision felt like a biased Qazi's trial, completely one-sided."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Justice",
+    "Disputes",
+    "Everyday conflicts"
+  ],
+  "tags": [
+    "bias",
+    "unfairness",
+    "judgment",
+    "prejudice",
+    "one-sided"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom originates from the role of Qazis (Islamic judges) in historical Bengal under Muslim rule, where they often presided over local disputes but were sometimes criticized for bias or favoritism in rural courts."
+  ],
+  "note": "Refers to the stereotypical perception of Qazi judgments as potentially partial in traditional Bengali society."
+}

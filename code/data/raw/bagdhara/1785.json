@@ -1,0 +1,41 @@
+{
+  "id": "1785",
+  "idiom": "কাঁটাগাছের তলায় থাকা",
+  "alternative_idioms": [
+    "কাঁটাগাছের তলায় বাস করা"
+  ],
+  "literal_meaning": "Staying or living under a thorny tree",
+  "figurative_meaning_bn": "সবসময় বিপদের আশঙ্কায় থাকা",
+  "figurative_meaning_en": "Always living in constant apprehension of danger",
+  "similar_in_english": [
+    "living on the edge",
+    "under the sword of Damocles"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কাঁটাগাছের তলায় থাকার মতো সর্বদা বিপদের ভয়ে কাঁপে।",
+    "এই অবস্থায় থাকা যেন কাঁটাগাছের তলায় বাস করা।"
+  ],
+  "example_sentences_in_english": [
+    "He trembles in fear of danger like living under a thorny tree.",
+    "Staying in this situation is like living under a thorny tree, always on edge."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "warnings",
+    "folklore"
+  ],
+  "tags": [
+    "danger",
+    "fear",
+    "precarity",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from rural imagery of thorns symbolizing inherent risk in everyday life."
+}

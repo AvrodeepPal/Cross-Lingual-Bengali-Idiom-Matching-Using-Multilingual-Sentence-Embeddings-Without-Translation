@@ -1,0 +1,37 @@
+{
+  "id": "3424",
+  "idiom": "ঘরজোড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘর জুড়ে বিস্তৃত বা আকারে ঘরের মতো বড়",
+  "figurative_meaning_bn": "জমকালো; বিরাট আকার",
+  "figurative_meaning_en": "ornate; enormous in size",
+  "similar_in_english": [
+    "king-sized",
+    "oversized"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরজোড়া পালঙ্ক কিনেছে।",
+    "তারা ঘরজোড়া আয়না লাগিয়েছে দেয়ালে।"
+  ],
+  "example_sentences_in_english": [
+    "He bought a room-spanning bed.",
+    "They installed a wall-to-wall mirror in the room."
+  ],
+  "usage_domain": [
+    "descriptive language",
+    "household items"
+  ],
+  "tags": [
+    "size",
+    "ornate",
+    "furniture"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to describe large, impressive household items in traditional Bengali contexts"
+}

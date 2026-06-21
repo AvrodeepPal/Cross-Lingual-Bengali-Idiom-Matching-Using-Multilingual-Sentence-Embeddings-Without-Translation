@@ -1,0 +1,41 @@
+{
+  "id": "9348",
+  "idiom": "লেজে পা দেওয়া",
+  "alternative_idioms": [
+    "লেজে পা পড়া"
+  ],
+  "literal_meaning": "লেজের উপর পা রাখা বা পা পড়া",
+  "figurative_meaning_bn": "স্বার্থহানি হওয়া",
+  "figurative_meaning_en": "To suffer a personal loss or harm one's own interests",
+  "similar_in_english": [
+    "Shoot oneself in the foot",
+    "Cut off one's nose to spite one's face"
+  ],
+  "example_sentences_in_bangla": [
+    "যদি আমার লেজে পা দেওয়া হয়, তাহলে আমি কারও সঙ্গে কথা বলব না।",
+    "সে নিজের লেজে পা দিয়ে ব্যবসায় ক্ষতি করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "If someone steps on my tail, I won't talk to anyone.",
+    "He shot himself in the foot by making that business decision that harmed his own interests."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "personal warnings",
+    "folklore expressions"
+  ],
+  "tags": [
+    "animal metaphor",
+    "self-harm",
+    "proverbial warning",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from animal imagery common in rural Bengali folklore, evoking the pain of a creature when its tail is stepped on."
+}

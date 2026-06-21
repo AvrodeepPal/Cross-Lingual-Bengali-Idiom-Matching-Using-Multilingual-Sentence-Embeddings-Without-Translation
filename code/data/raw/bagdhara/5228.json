@@ -1,0 +1,39 @@
+{
+  "id": "5228",
+  "idiom": "ঢাক বাজিয়ে ইঁদুর ধরা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঢাক বাজিয়ে ইঁদুর ধরা (drum beating to catch a mouse)",
+  "figurative_meaning_bn": "সাড়ম্বরে সামান্য কাজ করা",
+  "figurative_meaning_en": "doing a trivial task with unnecessary pomp and show",
+  "similar_in_english": [
+    "using a sledgehammer to crack a nut",
+    "making a mountain out of a molehill"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ছোট্ট একটা ভুলের জন্য ঢাক বাজিয়ে ইঁদুর ধরার মতো ব্যাপারটা বড় করে তুলল।",
+    "প্রকল্পটি সামান্য হলেও তারা ঢাক বাজিয়ে ইঁদুর ধরার ভঙ্গিতে উদযাপন করল।"
+  ],
+  "example_sentences_in_english": [
+    "He made a big fuss over a small mistake, like beating the drum to catch a mouse.",
+    "Though the project was minor, they celebrated it with unnecessary pomp, akin to using a drum to catch a rat."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "criticism",
+    "humor"
+  ],
+  "tags": [
+    "exaggeration",
+    "unnecessary effort",
+    "overreaction",
+    "pomp"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from traditional rural imagery where a dhaak drum is used in festivals, contrasting its grandeur with a petty task."
+}

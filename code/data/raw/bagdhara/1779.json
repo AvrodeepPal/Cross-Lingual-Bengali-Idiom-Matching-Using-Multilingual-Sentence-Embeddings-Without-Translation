@@ -1,0 +1,37 @@
+{
+  "id": "1779",
+  "idiom": "কাঁচানো",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁচা করে তোলা (raw or uncooked state-এ ফিরিয়ে আনা)",
+  "figurative_meaning_bn": "পুনরায় পূর্বাবস্থা পাওয়ানো",
+  "figurative_meaning_en": "To restore to the previous or original state",
+  "similar_in_english": [
+    "Back to square one",
+    "Reset to default"
+  ],
+  "example_sentences_in_bangla": [
+    "যা একবার রান্না হয়ে গেছে, তা আর কাঁচানো যায় না।",
+    "সমস্যাটি সমাধানের পর আবার কাঁচানো হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Once something is cooked, it can't be made raw again.",
+    "The problem was solved but then reverted to its original state."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Problem-solving contexts"
+  ],
+  "tags": [
+    "reversion",
+    "restoration",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the literal idea of uncooked food to metaphorically indicate undoing a change."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "3681",
+  "idiom": "চড়কে কাঠি পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "চড়াই করে কাঠি পড়ে যাওয়া (climbing up and the stick falling)",
+  "figurative_meaning_bn": "কলহের সূত্রপাত হওয়া",
+  "figurative_meaning_en": "the beginning of a quarrel or dispute",
+  "similar_in_english": [
+    "light the fuse",
+    "throw the first punch"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই বন্ধুর মধ্যে ছোট্ট কথা নিয়ে চড়কে কাঠি পড়েছে।",
+    "পাড়ায় চড়কে কাঠি পড়ার পর সবাই উত্তেজিত হয়ে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "A minor disagreement led to the beginning of a quarrel between the two friends.",
+    "After the quarrel started in the neighborhood, everyone got excited."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "family disputes",
+    "community conflicts"
+  ],
+  "tags": [
+    "quarrel",
+    "dispute",
+    "conflict initiation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes imagery of a precarious climb leading to an accidental fall that sparks trouble, common in rural Bengali folklore."
+}

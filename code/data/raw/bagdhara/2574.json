@@ -1,0 +1,40 @@
+{
+  "id": "2574",
+  "idiom": "খাটো করা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাটা বা ছোট করা (to make short or low)",
+  "figurative_meaning_bn": "অপদস্থ/অপমান/হেয় করা",
+  "figurative_meaning_en": "to humiliate, insult, or belittle someone",
+  "similar_in_english": [
+    "cut someone down to size",
+    "put someone in their place",
+    "belittle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার প্রতিদ্বন্দ্বীকে খাটো করার চেষ্টা করল কিন্তু নিজেই লজ্জিত হলো।",
+    "অফিসে বসকে খাটো করা উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He tried to belittle his rival but ended up embarrassing himself.",
+    "It's not right to humiliate your boss at the office."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "conversational",
+    "interpersonal conflicts"
+  ],
+  "tags": [
+    "humiliation",
+    "insult",
+    "belittling",
+    "social norm"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom implies a cultural warning that attempting to demean others may lead to self-degradation."
+}

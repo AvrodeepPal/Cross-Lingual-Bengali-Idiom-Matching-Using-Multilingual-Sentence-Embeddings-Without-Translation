@@ -1,0 +1,43 @@
+{
+  "id": "9077",
+  "idiom": "রাখালের হাতে শালগ্রাম",
+  "alternative_idioms": [
+    "বানরের গলায় মুক্তামালা"
+  ],
+  "literal_meaning": "রাখালের হাতে শালগ্রাম (cowherd's hand in Shaligram stone)",
+  "figurative_meaning_bn": "মূর্খের হাতে পড়ে গুণবান অপমানিত",
+  "figurative_meaning_en": "A valuable or sacred thing falls into the hands of a fool and gets disrespected",
+  "similar_in_english": [
+    "Pearls before swine",
+    "Casting pearls before swine"
+  ],
+  "example_sentences_in_bangla": [
+    "এই মূল্যবান বইটা তার হাতে দিলে রাখালের হাতে শালগ্রামের মতো হবে।",
+    "প্রকল্পের দায়িত্ব অযোগ্য ব্যক্তির কাছে দিয়ে রাখালের হাতে শালগ্রামের পরিণতি হলো।"
+  ],
+  "example_sentences_in_english": [
+    "Handing that valuable book to him would be like putting a Shaligram in the hands of a cowherd.",
+    "Assigning the project to an unqualified person led to the fate of a Shaligram in a cowherd's hands."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism",
+    "Folklore"
+  ],
+  "tags": [
+    "Negative connotation",
+    "Sacred object",
+    "Rural imagery",
+    "Misuse of value"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom draws from Hindu traditions where Shaligram is a sacred stone representing Vishnu, contrasted with a cowherd symbolizing ignorance or lack of reverence in rural settings."
+  ],
+  "note": "Emphasizes the cultural irony of desecrating the holy through unappreciative handling."
+}

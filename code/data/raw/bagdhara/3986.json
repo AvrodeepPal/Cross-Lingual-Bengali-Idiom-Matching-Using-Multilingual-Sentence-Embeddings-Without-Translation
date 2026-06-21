@@ -1,0 +1,39 @@
+{
+  "id": "3986",
+  "idiom": "চুরি করে শোনা",
+  "alternative_idioms": [
+    "আড়িপাতা"
+  ],
+  "literal_meaning": "চুরি করে শোনা (stealing to hear or listening by theft)",
+  "figurative_meaning_bn": "অন্যের অলক্ষ্যে বা গোপনে শোনা",
+  "figurative_meaning_en": "Listening secretly or eavesdropping without others' knowledge",
+  "similar_in_english": [
+    "Eavesdropping",
+    "Listening on the sly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দরজার পাশে দাঁড়িয়ে চুরি করে শোনা করছিল।",
+    "কথোপকথন শোনার জন্য চুরি করে শোনা করবেন না।"
+  ],
+  "example_sentences_in_english": [
+    "He stood by the door eavesdropping on the conversation.",
+    "Don't eavesdrop on others' talks secretly."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Gossip and secrecy"
+  ],
+  "tags": [
+    "secrecy",
+    "eavesdropping",
+    "listening"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali social norms around privacy and curiosity."
+}

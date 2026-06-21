@@ -1,0 +1,39 @@
+{
+  "id": "9169",
+  "idiom": "রৈ রৈ",
+  "alternative_idioms": [],
+  "literal_meaning": "সম্মিলিত চিৎকারের অনুকরণমূলক শব্দ",
+  "figurative_meaning_bn": "বহুলোকের সমবেত চিৎকার",
+  "figurative_meaning_en": "The collective shouting or uproar of a large crowd",
+  "similar_in_english": [
+    "hue and cry",
+    "raise a clamor"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে হঠাৎ চোর ধরা পড়ায় রৈ রৈ পড়ে গেল।",
+    "মিটিংয়ে বিতর্ক চলাকালীন সকলে রৈ রৈ করে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "When the thief was caught in the market, there was a hue and cry.",
+    "During the meeting, everyone raised a clamor in debate."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing crowds",
+    "public events"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "crowd noise",
+    "excitement",
+    "chaos"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression mimicking the sound of collective outcries, commonly used in rural or semi-urban Bengali contexts."
+}

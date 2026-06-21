@@ -1,0 +1,42 @@
+{
+  "id": "672",
+  "idiom": "ইঁদুর-বিড়াল দৌড়",
+  "alternative_idioms": [
+    "ইঁদুর-দৌড়"
+  ],
+  "literal_meaning": "ইঁদুর এবং বিড়ালের দৌড় প্রতিযোগিতা (rat and cat race)",
+  "figurative_meaning_bn": "পরস্পরকে টেক্কা দেওয়ার প্রতিযোগিতা; স্বার্থসিদ্ধির বা নিজের উন্নতির জন্য বেপরোয়া প্রতিযোগিতা",
+  "figurative_meaning_en": "Competition to outdo each other; reckless competition for self-interest or personal advancement",
+  "similar_in_english": [
+    "rat race",
+    "dog-eat-dog competition"
+  ],
+  "example_sentences_in_bangla": [
+    "অফিসে সবাই ইঁদুর-বিড়াল দৌড়ে লিপ্ত হয়ে উঠেছে প্রমোশনের জন্য।",
+    "রাজনীতিতে এই ইঁদুর-বিড়াল দৌড় কখনো শেষ হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone in the office is caught up in a rat race for promotion.",
+    "In politics, this dog-eat-dog competition never ends."
+  ],
+  "usage_domain": [
+    "business",
+    "career",
+    "politics",
+    "competition"
+  ],
+  "tags": [
+    "rivalry",
+    "animals",
+    "metaphor",
+    "competition"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from natural predator-prey dynamics between rats and cats, symbolizing cutthroat rivalry in Bengali expressive language."
+}

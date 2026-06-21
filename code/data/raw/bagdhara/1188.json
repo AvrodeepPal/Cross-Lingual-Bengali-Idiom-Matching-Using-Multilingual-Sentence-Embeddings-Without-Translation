@@ -1,0 +1,38 @@
+{
+  "id": "1188",
+  "idiom": "এদিক-ওদিক",
+  "alternative_idioms": [],
+  "literal_meaning": "এই দিক - ওই দিক (this side - that side)",
+  "figurative_meaning_bn": "চতুর্দিক",
+  "figurative_meaning_en": "all around or from all directions",
+  "similar_in_english": [
+    "here and there",
+    "from all quarters",
+    "everywhich way"
+  ],
+  "example_sentences_in_bangla": [
+    "এদিক-ওদিক থেকে খবর আসছে যে বাজারে দাম বেড়েছে।",
+    "সে এদিক-ওদিক তাকিয়ে কাউকে খুঁজছে।"
+  ],
+  "example_sentences_in_english": [
+    "News is coming from all sides that prices have risen in the market.",
+    "He is looking here and there for someone."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "news and information"
+  ],
+  "tags": [
+    "spatial",
+    "directional",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in spoken Bengali to indicate scattered or surrounding contexts."
+}

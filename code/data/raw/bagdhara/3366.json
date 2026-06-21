@@ -1,0 +1,41 @@
+{
+  "id": "3366",
+  "idiom": "গোলমাল",
+  "alternative_idioms": [
+    "ওলটপালট",
+    "ডামাডোল"
+  ],
+  "literal_meaning": "গোলাকার জটিলতা বা বিশৃঙ্খলার মালা (a tangled or circular mess)",
+  "figurative_meaning_bn": "বিশৃঙ্খলা",
+  "figurative_meaning_en": "disorder or chaos",
+  "similar_in_english": [
+    "make a mess of things",
+    "stir up trouble",
+    "create confusion"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি কাজে হাত দিয়েই সব গোলমাল করে ফেলেছ।",
+    "পার্টিতে হঠাৎ গোলমাল শুরু হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "You created a mess as soon as you started the work.",
+    "The party suddenly turned into chaos."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "informal settings"
+  ],
+  "tags": [
+    "disorder",
+    "confusion",
+    "trouble"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in colloquial Bengali to describe any form of disarray or fuss."
+}

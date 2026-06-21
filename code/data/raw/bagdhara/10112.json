@@ -1,0 +1,38 @@
+{
+  "id": "10112",
+  "idiom": "হাত চালানো",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত ব্যবহার করা বা হাত চালানো (to wield or use hands)",
+  "figurative_meaning_bn": "মারামারি করা",
+  "figurative_meaning_en": "to fight or beat someone up",
+  "similar_in_english": [
+    "throw punches",
+    "come to blows"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই ভাইয়ের মধ্যে ঝগড়া হয়ে হাত চালানো শুরু হলো।",
+    "রাস্তায় দুই দল হাত চালিয়ে লড়াই করছে।"
+  ],
+  "example_sentences_in_english": [
+    "The two brothers started fighting and throwing punches during the argument.",
+    "The two groups on the street began beating each other up."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "conflict",
+    "violence"
+  ],
+  "tags": [
+    "fight",
+    "physical altercation",
+    "aggression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday expressions of physical confrontation in Bengali speech."
+}

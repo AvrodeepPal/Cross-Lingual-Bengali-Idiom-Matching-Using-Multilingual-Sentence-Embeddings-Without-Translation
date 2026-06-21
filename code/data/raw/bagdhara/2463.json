@@ -1,0 +1,40 @@
+{
+  "id": "2463",
+  "idiom": "খচমচ",
+  "alternative_idioms": [
+    "খচোমচো"
+  ],
+  "literal_meaning": "করতাল বা খঞ্জনি বাজানোর কর্কশ শব্দের অনুকরণ",
+  "figurative_meaning_bn": "করতাল খঞ্জনি ইত্যাদি বাজাবার কর্কশ শব্দ",
+  "figurative_meaning_en": "The harsh sound produced by playing cymbals, ankle bells, and similar instruments",
+  "similar_in_english": [
+    "Clash of cymbals",
+    "Clanging noise"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজনার খচমচ শুনে সবাই কান চাপা দিল।",
+    "ঘরে খচমচের শব্দ হতেই আমরা ছুটে গেলাম।"
+  ],
+  "example_sentences_in_english": [
+    "The khachmacha of the instruments made everyone cover their ears.",
+    "We rushed over at the sound of khachmacha in the room."
+  ],
+  "usage_domain": [
+    "Music",
+    "Sound description",
+    "Onomatopoeia"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "harsh sound",
+    "traditional instruments"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression mimicking the sharp, discordant sounds of traditional Bengali percussion instruments often used in folk performances."
+}

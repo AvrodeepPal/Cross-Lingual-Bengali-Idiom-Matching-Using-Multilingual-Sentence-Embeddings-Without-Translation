@@ -1,0 +1,44 @@
+{
+  "id": "4253",
+  "idiom": "ছলচাতুরী",
+  "alternative_idioms": [
+    "কূটকৌশল",
+    "কলকৌশল",
+    "ফন্দিফিকির"
+  ],
+  "literal_meaning": "ছল (trick or ruse) + চাতুরী (cleverness or skill)",
+  "figurative_meaning_bn": "ছল; ধূর্তামি; প্রবঞ্চনা",
+  "figurative_meaning_en": "cunning trickery; deceit; slyness",
+  "similar_in_english": [
+    "cunning as a fox",
+    "underhanded tactics",
+    "guile and craft"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ছলচাতুরীতে সবাইকে ধোঁকা দেওয়া হলো।",
+    "ছলচাতুরী করে সে লাভবান হলো।"
+  ],
+  "example_sentences_in_english": [
+    "His cunning trickery fooled everyone.",
+    "He profited through sly deceit."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "politics"
+  ],
+  "tags": [
+    "deception",
+    "cunning",
+    "trickery",
+    "slyness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes moral caution against deceitful cleverness in Bengali cultural narratives."
+}

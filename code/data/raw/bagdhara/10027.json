@@ -1,0 +1,38 @@
+{
+  "id": "10027",
+  "idiom": "হাট করা",
+  "alternative_idioms": [],
+  "literal_meaning": "প্রশস্তভাবে খোলা (wide open)",
+  "figurative_meaning_bn": "উন্মুক্ত করা, খুলে দেওয়া/রাখা",
+  "figurative_meaning_en": "to open up, to leave open",
+  "similar_in_english": [
+    "leave the door open",
+    "wide open"
+  ],
+  "example_sentences_in_bangla": [
+    "দরজাটা হাট করে রেখো না, চোর ঢুকে যাবে।",
+    "জানালাটা হাট করে খুলে দাও, বাতাস আসুক।"
+  ],
+  "example_sentences_in_english": [
+    "Don't leave the door wide open, a thief might come in.",
+    "Open the window fully so that some air comes in."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "household instructions"
+  ],
+  "tags": [
+    "opening",
+    "door",
+    "window",
+    "caution"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom derives from the idea of opening something as wide as a market (হাট), implying full openness."
+}

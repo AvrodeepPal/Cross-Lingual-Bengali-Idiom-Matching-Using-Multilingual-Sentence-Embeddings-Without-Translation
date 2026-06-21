@@ -1,0 +1,40 @@
+{
+  "id": "9819",
+  "idiom": "সেরকে পশুরি চুরি",
+  "alternative_idioms": [],
+  "literal_meaning": "এক সেরে পাঁচ সের চুরি",
+  "figurative_meaning_bn": "অবিশ্বাস্যভাবে মারাত্মক চুরি",
+  "figurative_meaning_en": "Unbelievably grave or excessive theft",
+  "similar_in_english": [
+    "daylight robbery",
+    "grand theft"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার ব্যাগ থেকে সবকিছু নিয়ে নিয়েছে, সেরকে পশুরি চুরি হয়েছে।",
+    "দোকানদারটি দাম বাড়িয়ে সেরকে পশুরি চুরি করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He took everything from my bag; it was like stealing five seers in one.",
+    "The shopkeeper is overcharging, committing daylight robbery."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "commerce",
+    "deception"
+  ],
+  "tags": [
+    "theft",
+    "exaggeration",
+    "traditional measurement"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom references the traditional Bengali unit of weight 'seer' (approximately 1 kg), highlighting excessive dishonesty in trade or theft, rooted in pre-metric era practices."
+  ],
+  "note": "The idiom uses hyperbole based on the impossibility of stealing more than the measured amount, emphasizing deceit."
+}

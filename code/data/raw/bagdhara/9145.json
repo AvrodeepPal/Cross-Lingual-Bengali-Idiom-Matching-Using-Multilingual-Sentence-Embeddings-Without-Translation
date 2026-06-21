@@ -1,0 +1,38 @@
+{
+  "id": "9145",
+  "idiom": "রাস্তা দেখানো",
+  "alternative_idioms": [],
+  "literal_meaning": "রাস্তা দেখানো (showing the road or path)",
+  "figurative_meaning_bn": "উপায় বাতলানো",
+  "figurative_meaning_en": "to suggest or indicate a way or method",
+  "similar_in_english": [
+    "show the way",
+    "point the path"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সমস্যার সমাধানে তুমি আমাকে রাস্তা দেখাও।",
+    "জীবনে সফল হতে হলে কেউ না কেউ রাস্তা দেখাতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "Show me the way out of this problem.",
+    "To succeed in life, someone has to point the path."
+  ],
+  "usage_domain": [
+    "guidance",
+    "advice",
+    "problem-solving"
+  ],
+  "tags": [
+    "directional",
+    "helpful",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from everyday navigation in Bengali rural and urban life, emphasizing guidance."
+}

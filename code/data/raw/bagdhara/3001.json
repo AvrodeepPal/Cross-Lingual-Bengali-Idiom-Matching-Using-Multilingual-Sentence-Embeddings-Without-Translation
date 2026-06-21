@@ -1,0 +1,36 @@
+{
+  "id": "3001",
+  "idiom": "গলা ধরা",
+  "alternative_idioms": [],
+  "literal_meaning": "গলা আটকে যাওয়া বা ধরে ফেলা",
+  "figurative_meaning_bn": "সাময়িক স্বর বন্ধ হওয়া",
+  "figurative_meaning_en": "Temporary loss of voice",
+  "similar_in_english": [
+    "Lose one's voice"
+  ],
+  "example_sentences_in_bangla": [
+    "ঠান্ডা লাগার কারণে তার গলা ধরে গেছে।",
+    "অতিরিক্ত চিৎকার করায় গলা ধরা পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He lost his voice due to a cold.",
+    "His voice gave out after shouting too much."
+  ],
+  "usage_domain": [
+    "Health",
+    "Daily conversation"
+  ],
+  "tags": [
+    "Voice",
+    "Illness",
+    "Temporary"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a common physical condition like laryngitis or sore throat in everyday Bengali speech."
+}

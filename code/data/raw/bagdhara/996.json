@@ -1,0 +1,45 @@
+{
+  "id": "996",
+  "idiom": "একছাতার তলে বাস",
+  "alternative_idioms": [
+    "এক গাঙের ছিল",
+    "আকগাছের ফল",
+    "এক গোয়ালের গরু",
+    "এক বনের শিয়াল"
+  ],
+  "literal_meaning": "এক ছাতার তলায় বাস করা (living under one umbrella)",
+  "figurative_meaning_bn": "এক স্বভাবের লোক; সমগোত্রীয়; সমদোষে দুষ্ট; সবাই মন্দলোক; সবারই একই দশা",
+  "figurative_meaning_en": "People of the same nature; members of the same clan; mischief-makers sharing the same faults; all bad people; everyone in the same condition",
+  "similar_in_english": [
+    "Birds of a feather flock together",
+    "All in the same boat",
+    "Chips off the old block"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পাড়ার ছেলেরা একছাতার তলে বাস করে, সবাই একই ধরনের কাজ করে।",
+    "অফিসের এই দলটি একছাতার তলে বাসের মতো, সকলেরই একই সমস্যা।"
+  ],
+  "example_sentences_in_english": [
+    "The boys in this neighborhood live under one umbrella; they all do the same kind of work.",
+    "This office team is like living under one umbrella; everyone faces the same problems."
+  ],
+  "usage_domain": [
+    "Social",
+    "Community",
+    "Family"
+  ],
+  "tags": [
+    "similarity",
+    "unity",
+    "shared fate",
+    "negative connotation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom emphasizes communal living and shared characteristics, often with a connotation of uniformity in behavior or misfortune."
+}

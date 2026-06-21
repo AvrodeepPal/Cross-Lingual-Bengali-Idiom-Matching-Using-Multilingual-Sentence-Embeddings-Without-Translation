@@ -1,0 +1,38 @@
+{
+  "id": "6599",
+  "idiom": "পদ্মকাঁটা",
+  "alternative_idioms": [],
+  "literal_meaning": "পদ্মের কাঁটা (lotus thorn)",
+  "figurative_meaning_bn": "চর্মরোগবিশেষ",
+  "figurative_meaning_en": "A specific skin disease (prickly heat or miliaria)",
+  "similar_in_english": [
+    "prickly heat"
+  ],
+  "example_sentences_in_bangla": [
+    "গরমকালে তার শরীরে পদ্মকাঁটা ফুটে উঠেছে।",
+    "আর্দ্র আবহাওয়ায় পদ্মকাঁটা হওয়া সাধারণ।"
+  ],
+  "example_sentences_in_english": [
+    "Prickly heat broke out on his body during the hot season.",
+    "Prickly heat is common in humid weather."
+  ],
+  "usage_domain": [
+    "health",
+    "medical",
+    "daily life"
+  ],
+  "tags": [
+    "skin disease",
+    "summer",
+    "heat rash",
+    "dermatology"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a rash resembling thorns, common in Bengal's humid climate"
+}

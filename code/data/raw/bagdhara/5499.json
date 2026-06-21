@@ -1,0 +1,43 @@
+{
+  "id": "5499",
+  "idiom": "তেরি-মেরি",
+  "alternative_idioms": [],
+  "literal_meaning": "অশিষ্ট এবং কর্কশ শব্দের আদান-প্রদান (তুই-তোর মতো অবজ্ঞাসূচক উক্তির অনুকরণ)",
+  "figurative_meaning_bn": "অশিষ্ট কর্কশ বাক্যপ্রয়োগ; চোটপাট; রাগারাগি; তুই-তোকারি করে অবজ্ঞাসূচক উক্তি; কটুবাক্যে বিবাদ",
+  "figurative_meaning_en": "Rude and harsh use of words; bickering; quarreling; contemptuous remarks using informal 'you' and 'me'; dispute with bitter words",
+  "similar_in_english": [
+    "tit for tat",
+    "trading barbs",
+    "verbal sparring"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই বন্ধুর মধ্যে তেরি-মেরি শুরু হয়ে গেছে।",
+    "বাজারে দোকানদার আর ক্রেতার তেরি-মেরি দেখে সবাই হাসছে।"
+  ],
+  "example_sentences_in_english": [
+    "The two friends have started teri-meri, exchanging harsh words.",
+    "Everyone is laughing at the teri-meri between the shopkeeper and the customer in the market."
+  ],
+  "usage_domain": [
+    "quarrel",
+    "argument",
+    "verbal abuse",
+    "daily conversation"
+  ],
+  "tags": [
+    "idiom",
+    "quarrel",
+    "abuse",
+    "bengali literature"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in the 18th-century Bengali epic 'Annadamangal' by Bharat Chandra Raygunakar: 'মোগলে রহিল ঘেরি সদা করে তেরিমেরি', depicting ongoing quarrels in a Mughal context."
+  ],
+  "note": "The idiom mimics the sound of abusive, back-and-forth exchanges in colloquial Bengali speech."
+}

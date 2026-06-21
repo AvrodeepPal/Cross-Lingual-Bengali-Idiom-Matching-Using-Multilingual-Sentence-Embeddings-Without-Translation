@@ -1,0 +1,44 @@
+{
+  "id": "4922",
+  "idiom": "টানাটানি",
+  "alternative_idioms": [
+    "কানাকানি",
+    "জানাজানি",
+    "মানামানি",
+    "হানাহানি"
+  ],
+  "literal_meaning": "পরস্পর টানাহানি বা টান মারা",
+  "figurative_meaning_bn": "পরস্পরের আকর্ষণ",
+  "figurative_meaning_en": "mutual attraction",
+  "similar_in_english": [
+    "magnetic pull",
+    "drawn to each other"
+  ],
+  "example_sentences_in_bangla": [
+    "তাদের মধ্যে টানাটানি দেখে মনে হচ্ছে তারা একে অপরের প্রতি আকৃষ্ট।",
+    "বন্ধুদের মধ্যে এমন টানাটানি থাকলে সম্পর্ক দীর্ঘস্থায়ী হয়।"
+  ],
+  "example_sentences_in_english": [
+    "There is a clear tug-of-attraction between them, making it seem like they are drawn to each other.",
+    "Such mutual pull among friends ensures a lasting bond."
+  ],
+  "usage_domain": [
+    "relationships",
+    "social interactions",
+    "romance"
+  ],
+  "tags": [
+    "reduplication",
+    "attraction",
+    "mutual",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses reduplication to emphasize mutual action, common in Bengali expressive language."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8769",
+  "idiom": "কোন মুখে",
+  "alternative_idioms": [],
+  "literal_meaning": "কোন (which/what) মুখে (in face/mouth)",
+  "figurative_meaning_bn": "কোন সাহসে, কোন গর্বে",
+  "figurative_meaning_en": "With what audacity or shamelessness",
+  "similar_in_english": [
+    "How dare you?",
+    "What nerve!",
+    "The cheek of it!"
+  ],
+  "example_sentences_in_bangla": [
+    "কোন মুখে তুমি এমন কথা বলছো?",
+    "তুমি কোন মুখে আমাকে অভিযোগ করছো?"
+  ],
+  "example_sentences_in_english": [
+    "With what face do you say such a thing?",
+    "How dare you accuse me like that?"
+  ],
+  "usage_domain": [
+    "conversation",
+    "confrontation",
+    "reproach"
+  ],
+  "tags": [
+    "sarcasm",
+    "shamelessness",
+    "audacity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The input text appears to have typographical errors; cleaned to standard form 'কোন মুখে' based on context and common usage."
+}

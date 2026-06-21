@@ -1,0 +1,41 @@
+{
+  "id": "3924",
+  "idiom": "চিনির পুতুল",
+  "alternative_idioms": [],
+  "literal_meaning": "চিনির তৈরি পুতুল",
+  "figurative_meaning_bn": "যা জল পড়লেই গলে যায়",
+  "figurative_meaning_en": "Something that melts away as soon as it gets wet, implying extreme fragility or vulnerability",
+  "similar_in_english": [
+    "House of cards",
+    "Melts like butter"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো চিনির পুতুল, একটু সমালোচনায়ই মন খারাপ করে ফেলে।",
+    "এই চুক্তিটা চিনির পুতুলের মতো, সামান্য চাপে ভেঙে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "She's like a sugar doll; the slightest criticism upsets her.",
+    "This agreement is like a sugar doll—it will dissolve under the least pressure."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Describing personality",
+    "Metaphors for weakness"
+  ],
+  "tags": [
+    "fragility",
+    "vulnerability",
+    "delicacy",
+    "weakness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to traditional Bengali sugar dolls (mishti putul) made from solidified sugar, which dissolve in water, symbolizing impermanence in folklore."
+  ],
+  "note": "The idiom highlights the transient nature of delicate things in Bengali cultural expressions."
+}

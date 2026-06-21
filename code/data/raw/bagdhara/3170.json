@@ -1,0 +1,40 @@
+{
+  "id": "3170",
+  "idiom": "গায়ে মাংস লাগা",
+  "alternative_idioms": [
+    "গায়ে মাস লাগা"
+  ],
+  "literal_meaning": "শরীরে মাংস জমা হওয়া বা লাগা",
+  "figurative_meaning_bn": "মোটা হওয়া; স্বাস্থ্য ভালো হওয়া",
+  "figurative_meaning_en": "To become plump or fat; to gain good health",
+  "similar_in_english": [
+    "Put on weight",
+    "Fill out"
+  ],
+  "example_sentences_in_bangla": [
+    "বছর খানেক ধরে সে ভালো খেয়ে গায়ে মাংস লাগিয়েছে।",
+    "বিদেশ থেকে ফিরে তার গায়ে মাংস লেগেছে, দেখতে সুস্থ লাগছে।"
+  ],
+  "example_sentences_in_english": [
+    "After eating well for a year, he's put on some meat and looks healthier.",
+    "She returned from abroad with flesh on her bones, appearing much healthier."
+  ],
+  "usage_domain": [
+    "health",
+    "daily conversation",
+    "body image"
+  ],
+  "tags": [
+    "physical health",
+    "nutrition",
+    "positive change"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects traditional Bengali emphasis on robust health and body weight as signs of prosperity and well-being."
+}

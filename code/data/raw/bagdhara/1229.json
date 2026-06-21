@@ -1,0 +1,39 @@
+{
+  "id": "1229",
+  "idiom": "এলোখোঁপা",
+  "alternative_idioms": [],
+  "literal_meaning": "আলগা বা শিথিল খোঁপা",
+  "figurative_meaning_bn": "আলগা বা অসংগঠিত খোঁপা, যা অসতর্কতা বা অপরিচ্ছন্নতার ইঙ্গিত দেয়",
+  "figurative_meaning_en": "a loose or unkempt bun, implying carelessness or disheveled appearance",
+  "similar_in_english": [
+    "bedhead",
+    "let one's hair down"
+  ],
+  "example_sentences_in_bangla": [
+    "তার এলোখোঁপা দেখে মনে হলো সে খুব তাড়াহুড়োয় বেরিয়েছে।",
+    "গ্রামের মেয়েরা প্রায়ই এলোখোঁপা বেঁধে কাজ করে।"
+  ],
+  "example_sentences_in_english": [
+    "Her elo khopa made it seem like she rushed out in a hurry.",
+    "Village girls often tie their hair in an elo khopa while working."
+  ],
+  "usage_domain": [
+    "personal appearance",
+    "daily life",
+    "traditional grooming"
+  ],
+  "tags": [
+    "hair style",
+    "women",
+    "untidiness",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional Bengali women's hair styling, often in rural or semi-urban contexts"
+}

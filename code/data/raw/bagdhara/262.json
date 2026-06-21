@@ -1,0 +1,43 @@
+{
+  "id": "262",
+  "idiom": "অল্পজলের মাছ",
+  "alternative_idioms": [
+    "পানির মাছ"
+  ],
+  "literal_meaning": "অল্প জলের মাছ (fish in shallow water)",
+  "figurative_meaning_bn": "অসার ব্যক্তি; বোকাসোকা লোক",
+  "figurative_meaning_en": "Insignificant or worthless person; foolish or naive individual",
+  "similar_in_english": [
+    "Small fish in a big pond",
+    "Small fry"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো অল্পজলের মাছ, এত বড় দায়িত্ব সামলাতে পারবে না।",
+    "এই অল্পজলের মাছের মতো লোকের উপর ভরসা করা উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is just a small fish; he can't handle such a big responsibility.",
+    "Don't rely on someone like that foolish person, who's like a fish out of shallow water."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Describing personality",
+    "Social commentary"
+  ],
+  "tags": [
+    "insignificance",
+    "folly",
+    "personality",
+    "rural metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom originates from the rural Bengali observation of fish behavior in ponds, where fish accustomed to shallow water become more erratic or prominent when placed in deeper water, symbolizing inadequacy in larger contexts."
+  ],
+  "note": "The variant 'পানির মাছ' may imply a similar but less specific meaning related to ordinary or unremarkable people."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3891",
+  "idiom": "চিঁড়ে চ্যাপ্টা",
+  "alternative_idioms": [
+    "চিড়ে চ্যাপ্টা"
+  ],
+  "literal_meaning": "চিঁড়ের মতো চ্যাপ্টা বা পিষ্ট হয়ে যাওয়া",
+  "figurative_meaning_bn": "অতিরিক্ত ভিড়ের চাপে নাজেহাল অবস্থা; সম্পূর্ণ বিধ্বস্ত",
+  "figurative_meaning_en": "A state of distress due to excessive crowd pressure; completely devastated or crushed",
+  "similar_in_english": [
+    "packed like sardines",
+    "squeezed to the breaking point"
+  ],
+  "example_sentences_in_bangla": [
+    "ভিড়ের বাসে চিঁড়ে চ্যাপ্টা হয়ে কোনোমতে বাড়ি পৌঁছালাম।",
+    "মেলায় এত ভিড় যে সবাই চিঁড়ে চ্যাপ্টা।"
+  ],
+  "example_sentences_in_english": [
+    "I arrived home barely, flattened like chiŗe in the crowded bus.",
+    "The fair was so crowded that everyone was squeezed flat like puffed rice."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "travel",
+    "crowd situations"
+  ],
+  "tags": [
+    "ভিড়",
+    "চাপ",
+    "বিধ্বস্ত",
+    "নাজেহাল"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Idiom reflects urban commuting challenges in Bengali culture"
+}

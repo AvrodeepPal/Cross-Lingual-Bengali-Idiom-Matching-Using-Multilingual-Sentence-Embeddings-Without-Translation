@@ -1,0 +1,41 @@
+{
+  "id": "1906",
+  "idiom": "কাটছাঁট",
+  "alternative_idioms": [
+    "ছাড়ছোড়",
+    "বাদসাদ"
+  ],
+  "literal_meaning": "কাটা এবং ছাঁটানো (cutting and trimming)",
+  "figurative_meaning_bn": "কিয়দংশ বাদ",
+  "figurative_meaning_en": "Partial omission or reduction of parts",
+  "similar_in_english": [
+    "Trim the fat",
+    "Make cuts"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজেটে কিছু কাটছাঁট করা হয়েছে।",
+    "পরিকল্পনার কয়েকটি অংশে কাটছাঁট প্রয়োগ করা হবে।"
+  ],
+  "example_sentences_in_english": [
+    "Some cuts have been made in the budget.",
+    "Cuts will be applied to several parts of the plan."
+  ],
+  "usage_domain": [
+    "administration",
+    "planning",
+    "budgeting"
+  ],
+  "tags": [
+    "compound word",
+    "synonymous pair",
+    "formal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a synonymous compound word used in formal or administrative contexts."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "4533",
+  "idiom": "জল দিয়ে জল বার করা",
+  "alternative_idioms": [],
+  "literal_meaning": "জল দিয়ে জল বের করা",
+  "figurative_meaning_bn": "শত্রুর সাহায্যে শত্রুনিধন করা",
+  "figurative_meaning_en": "To eliminate an enemy using the help of another enemy",
+  "similar_in_english": [
+    "Set a thief to catch a thief",
+    "Play one off against the other"
+  ],
+  "example_sentences_in_bangla": [
+    "রাজনীতিতে সে জল দিয়ে জল বার করার কৌশল ব্যবহার করে প্রতিদ্বন্দ্বীদের পরস্পরের বিরুদ্ধে লড়াই করাল।",
+    "ব্যবসায়িক প্রতিযোগিতায় জল দিয়ে জল বার করার মতো করে এক প্রতিদ্বন্দ্বীকে অন্যের বিরুদ্ধে ব্যবহার করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "In politics, he used the strategy of drawing water with water by pitting his rivals against each other.",
+    "In business competition, they employed a tactic like drawing water with water by using one competitor against the other."
+  ],
+  "usage_domain": [
+    "politics",
+    "strategy",
+    "rivalry"
+  ],
+  "tags": [
+    "deception",
+    "conflict",
+    "tactics"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from everyday imagery of water extraction to metaphorically describe strategic manipulation in conflicts."
+}

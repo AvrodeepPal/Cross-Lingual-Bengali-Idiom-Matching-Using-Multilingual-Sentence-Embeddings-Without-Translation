@@ -1,0 +1,38 @@
+{
+  "id": "6380",
+  "idiom": "নামডাক",
+  "alternative_idioms": [],
+  "literal_meaning": "নামের ডাক (name's call)",
+  "figurative_meaning_bn": "প্রখ্যাতি, সুনাম",
+  "figurative_meaning_en": "fame, good reputation",
+  "similar_in_english": [
+    "household name",
+    "claim to fame"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বেশ নামডাকওয়ালা লোক।",
+    "এই শিল্পীর নামডাক সারা দেশে ছড়িয়ে পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a quite famous person.",
+    "This artist's fame has spread across the country."
+  ],
+  "usage_domain": [
+    "social",
+    "reputation",
+    "fame"
+  ],
+  "tags": [
+    "positive",
+    "idiom",
+    "reputation"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": ""
+}

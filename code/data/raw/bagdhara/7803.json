@@ -1,0 +1,37 @@
+{
+  "id": "7803",
+  "idiom": "বুড়োভাম",
+  "alternative_idioms": [],
+  "literal_meaning": "বৃদ্ধ ভাই বা চাচা (প্রতীকীভাবে বয়স্ক পুরুষের ঘরোয়া সম্বোধন)",
+  "figurative_meaning_bn": "ধান্ধাবাজ লম্পট চরিত্রের বৃদ্ধ",
+  "figurative_meaning_en": "An elderly man with a mischievous and lecherous character",
+  "similar_in_english": [
+    "Dirty old man"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই বুড়োভামটা বাসে উঠে সোজা লেডিস সিটের কাছে গিয়ে দাঁড়াল।",
+    "পাড়ায় সকলে জানে, ও বুড়োভামের চরিত্রটা খুব খারাপ।"
+  ],
+  "example_sentences_in_english": [
+    "That dirty old man got on the bus and stood right next to the ladies' seats.",
+    "Everyone in the neighborhood knows that old man's character is quite shady."
+  ],
+  "usage_domain": [
+    "Colloquial speech",
+    "Social commentary"
+  ],
+  "tags": [
+    "negative",
+    "elderly",
+    "misconduct",
+    "urban slang"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "The term often evokes images of inappropriate behavior in public spaces like buses, reflecting everyday Bengali urban social dynamics."
+}

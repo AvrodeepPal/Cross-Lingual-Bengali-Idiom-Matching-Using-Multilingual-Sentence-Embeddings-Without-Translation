@@ -1,0 +1,40 @@
+{
+  "id": "8158",
+  "idiom": "ভেল্কি লাগা",
+  "alternative_idioms": [],
+  "literal_meaning": "ভেল্কি (জাদুকরীর কৌশল বা ছল) দিয়ে ধরা পড়া বা প্রভাবিত হওয়া",
+  "figurative_meaning_bn": "কার্য-কারণসম্পর্ক নির্ধারণে অক্ষম হয়ে হতবুদ্ধি হওয়া; ঘটনার চমৎকারিত্বে মুগ্ধ হওয়া",
+  "figurative_meaning_en": "To become perplexed and unable to discern the cause-effect relationship; to be enchanted by the marvel of an event",
+  "similar_in_english": [
+    "be bamboozled",
+    "be spellbound",
+    "be at a loss for words"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই অলৌকিক ঘটনায় সবাই ভেল্কি লাগা হয়ে গেল।",
+    "বিজ্ঞানের এই আবিষ্কার দেখে তিনি সম্পূর্ণ ভেল্কি লাগা অবস্থায় পড়লেন।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone was left completely baffled by that supernatural event.",
+    "He was utterly perplexed by this scientific discovery, unable to grasp how it worked."
+  ],
+  "usage_domain": [
+    "conversation",
+    "literature",
+    "everyday expression"
+  ],
+  "tags": [
+    "confusion",
+    "wonder",
+    "perplexity",
+    "enchantment"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from traditional Bengali references to street magic or jugglery, evoking a sense of everyday wonder."
+}

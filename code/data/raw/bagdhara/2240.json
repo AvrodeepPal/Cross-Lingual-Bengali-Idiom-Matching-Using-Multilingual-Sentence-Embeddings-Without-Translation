@@ -1,0 +1,40 @@
+{
+  "id": "2240",
+  "idiom": "কুটকুটানি",
+  "alternative_idioms": [],
+  "literal_meaning": "পকেটে পয়সার কুটকুট শব্দ বা অস্থির অনুভূতি",
+  "figurative_meaning_bn": "অস্থিরতা, অস্বস্তিবোধ, ব্যগ্রতা",
+  "figurative_meaning_en": "restlessness, unease, impatience",
+  "similar_in_english": [
+    "Money burning a hole in one's pocket"
+  ],
+  "example_sentences_in_bangla": [
+    "পকেটে কিছু টাকা পড়তেই তার মনে কুটকুটানি শুরু হলো, কিন্তু সে নিজেকে সামলে নিল।",
+    "বাজারে গিয়ে কেনাকাটার কুটকুটানি তাকে অস্থির করে তুলল।"
+  ],
+  "example_sentences_in_english": [
+    "As soon as some money landed in his pocket, the itch started, but he managed to control himself.",
+    "The shopping itch made her restless as soon as she entered the market."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "finance",
+    "emotions"
+  ],
+  "tags": [
+    "money",
+    "restlessness",
+    "spending urge",
+    "impatience"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the literal sound of loose coins jingling in one's pocket, symbolizing the immediate urge to spend that arises with available cash, reflecting everyday economic impulses in Bengali life."
+  ],
+  "note": "Often used in contexts of financial temptation or general fidgetiness."
+}

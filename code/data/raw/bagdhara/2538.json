@@ -1,0 +1,40 @@
+{
+  "id": "2538",
+  "idiom": "খলবলানি",
+  "alternative_idioms": [],
+  "literal_meaning": "মৌমাছির ছাঁচড়ানোর মতো শব্দ বা গুঞ্জন (onomatopoeic sound of buzzing or murmuring)",
+  "figurative_meaning_bn": "তীব্র চাঞ্চল্য",
+  "figurative_meaning_en": "intense agitation or commotion",
+  "similar_in_english": [
+    "buzz with excitement",
+    "cause a stir",
+    "in an uproar"
+  ],
+  "example_sentences_in_bangla": [
+    "ছাঁটাইয়ের কথা শুনে কর্মচারীদের মধ্যে খলবলানি শুরু হয়েছে।",
+    "নতুন খবরে গ্রামে খলবলানি পড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Upon hearing about the layoffs, a commotion started among the employees.",
+    "The village buzzed with the new rumor."
+  ],
+  "usage_domain": [
+    "workplace",
+    "social gatherings",
+    "markets"
+  ],
+  "tags": [
+    "agitation",
+    "rumor",
+    "unrest",
+    "commotion"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Onomatopoeic idiom mimicking buzzing sounds, commonly used in urban or semi-urban contexts for sudden unrest."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3000",
+  "idiom": "গলা ধরা",
+  "alternative_idioms": [],
+  "literal_meaning": "গলা ধরে রাখা বা আটকে যাওয়া (throat being caught or held)",
+  "figurative_meaning_bn": "গলা কুটকুট করা",
+  "figurative_meaning_en": "to have a scratchy or sore throat, feeling irritation as if something is stuck",
+  "similar_in_english": [
+    "frog in one's throat (for hoarseness)",
+    "lump in one's throat (emotional blockage)"
+  ],
+  "example_sentences_in_bangla": [
+    "বর্ষায় ঠান্ডা লাগায় তার গলা ধরেছে।",
+    "অলপাকলে খেয়ে গলা ধরা পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He caught a sore throat due to the rainy season cold.",
+    "Eating unripe ol fruit caused a scratchy throat."
+  ],
+  "usage_domain": [
+    "health",
+    "daily life",
+    "food-related"
+  ],
+  "tags": [
+    "illness",
+    "throat irritation",
+    "proverbial warning",
+    "rural diet"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the experience of eating unripe 'ol' (elephant apple) fruit, which causes throat irritation, serving as a folk warning in Bengali rural culture against consuming certain foods prematurely."
+  ],
+  "note": "The idiom often warns against eating unripe fruits like ol, which can literally cause throat discomfort."
+}

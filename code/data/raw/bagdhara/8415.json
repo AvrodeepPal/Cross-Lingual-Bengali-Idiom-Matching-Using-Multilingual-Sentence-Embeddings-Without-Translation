@@ -1,0 +1,41 @@
+{
+  "id": "8415",
+  "idiom": "মাছের মায়ের কান্না",
+  "alternative_idioms": [
+    "পুত্রশোক"
+  ],
+  "literal_meaning": "মাছের মায়ের কান্না বা পুত্রের জন্য শোক",
+  "figurative_meaning_bn": "অসম্ভব ব্যাপার, কপট বেদনাবোধ, সহজে ধরা যায় এমন ভণ্ডামি বা ভান",
+  "figurative_meaning_en": "An impossible occurrence, hypocritical expression of sorrow, pretense or hypocrisy that is easily detectable",
+  "similar_in_english": [
+    "Crocodile tears",
+    "Alligator tears"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কান্না তো মাছের মায়ের কান্না, কেউ বিশ্বাস করে না।",
+    "এই অভিনয় মাছের মায়ের পুত্রশোকের মতো অসম্ভব।"
+  ],
+  "example_sentences_in_english": [
+    "Her crying is like the tears of a fish's mother; no one believes it.",
+    "This pretense is as impossible as a fish mother's grief for her son."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "emotional discourse",
+    "literature"
+  ],
+  "tags": [
+    "hypocrisy",
+    "fake emotion",
+    "impossibility",
+    "pretense"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the natural observation that fish do not express grief like mammals, emphasizing absurdity in feigned emotions."
+}

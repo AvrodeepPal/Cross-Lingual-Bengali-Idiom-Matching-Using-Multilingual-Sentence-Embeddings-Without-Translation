@@ -1,0 +1,39 @@
+{
+  "id": "10285",
+  "idiom": "হারাহারি",
+  "alternative_idioms": [],
+  "literal_meaning": "হারা (পরাজয় বা ভাগ) এবং হারি (ভাগাভাগি বা সমান বিভাজনের ধারণা থেকে)",
+  "figurative_meaning_bn": "গড়পড়তা বা অনুপাত-অনুযায়ী ভাগ-বাঁটোয়ারা",
+  "figurative_meaning_en": "Division or sharing according to average or proportion",
+  "similar_in_english": [
+    "go halves",
+    "split the difference"
+  ],
+  "example_sentences_in_bangla": [
+    "আমরা খরচটা হারাহারি করে নেব।",
+    "সম্পত্তির ভাগ হারাহারি হবে।"
+  ],
+  "example_sentences_in_english": [
+    "We will share the expenses equally.",
+    "The property will be divided proportionally."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily life",
+    "property division"
+  ],
+  "tags": [
+    "sharing",
+    "equality",
+    "proportion",
+    "division"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to fair and equal distribution in everyday Bengali transactions"
+}

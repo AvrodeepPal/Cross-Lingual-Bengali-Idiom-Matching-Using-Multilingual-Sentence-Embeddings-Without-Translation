@@ -1,0 +1,38 @@
+{
+  "id": "10108",
+  "idiom": "হাত গুটানো",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত সংকুচিত করা বা গুটিয়ে নেওয়া",
+  "figurative_meaning_bn": "নিবৃত্ত/নিরস্ত হওয়া; নিজেকে লিপ্ত না রাখা",
+  "figurative_meaning_en": "To withdraw or retire; to refrain from getting involved",
+  "similar_in_english": [
+    "Wash one's hands of something",
+    "Step back from involvement"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বিতর্ক থেকে হাত গুটিয়ে নিল।",
+    "ব্যবসায়িক ঝামেলায় হাত গুটানোই ভালো।"
+  ],
+  "example_sentences_in_english": [
+    "He withdrew his hands from the debate.",
+    "It's better to step back from business troubles."
+  ],
+  "usage_domain": [
+    "daily life",
+    "business",
+    "social interactions"
+  ],
+  "tags": [
+    "withdrawal",
+    "disengagement",
+    "retirement"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects a cultural tendency to avoid unnecessary entanglements in Bengali society."
+}

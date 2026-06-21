@@ -1,0 +1,45 @@
+{
+  "id": "80",
+  "idiom": "অঘা",
+  "alternative_idioms": [
+    "অঘাকান্ত",
+    "আঘাচণ্ডী",
+    "অঘামারা",
+    "অঘারাম"
+  ],
+  "literal_meaning": "অর্থহীন শব্দসমষ্টি যা বিরক্তি বা অসম্মতির শব্দানুকরণ করে (nonsensical word cluster imitating annoyance or disapproval sounds)",
+  "figurative_meaning_bn": "বিদ্রুপে নির্বোধ; অকর্মা গালিবিশেষ; তিরস্কার করতে ব্যবহৃত হয়",
+  "figurative_meaning_en": "In sarcasm, denoting a fool; a special term of abuse for laziness; used for scolding",
+  "similar_in_english": [
+    "silly goose",
+    "nitwit",
+    "you lazy bum"
+  ],
+  "example_sentences_in_bangla": [
+    "বাবা, তুমি তো একটা অঘা! এত সহজ কাজও করতে পারো না?",
+    "ওকে অঘাকান্ত বলে ডেকে স্নেহের সাথে বকলাম।"
+  ],
+  "example_sentences_in_english": [
+    "Oh, you're such an agha! You can't even do this simple task?",
+    "I affectionately scolded him by calling him aghakanta."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "family interactions",
+    "playful scolding"
+  ],
+  "tags": [
+    "sarcasm",
+    "abuse",
+    "affectionate rebuke",
+    "tiraskar"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variants like অঘাকান্ত and অঘারাম are used in affectionate contexts, while অঘামারা implies trivial scolding."
+}

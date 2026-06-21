@@ -1,0 +1,40 @@
+{
+  "id": "4557",
+  "idiom": "জলহীন জলাশয়",
+  "alternative_idioms": [
+    "বালিহীন বালিয়াড়ী"
+  ],
+  "literal_meaning": "জলবিহীন জলাশয় বা পুকুর",
+  "figurative_meaning_bn": "আছে তবু নেই; থেকেও নেই",
+  "figurative_meaning_en": "exists but is absent; present in name only",
+  "similar_in_english": [
+    "all show and no substance",
+    "form without function"
+  ],
+  "example_sentences_in_bangla": [
+    "এই প্রতিষ্ঠানটি জলহীন জলাশয়ের মতো, নামমাত্র আছে কিন্তু কোনো কার্যকরী ফল নেই।",
+    "তার প্রতিশ্রুতি জলহীন জলাশয়ের মতো, শুনতে ভালো কিন্তু কিছু হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "This organization is like a waterless pond; it exists in name but produces no results.",
+    "His promises are like a waterless pond; they sound good but amount to nothing."
+  ],
+  "usage_domain": [
+    "general conversation",
+    "criticism",
+    "business"
+  ],
+  "tags": [
+    "emptiness",
+    "hypocrisy",
+    "uselessness"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from rural imagery of dried-up ponds, common in Bengali agrarian society."
+}

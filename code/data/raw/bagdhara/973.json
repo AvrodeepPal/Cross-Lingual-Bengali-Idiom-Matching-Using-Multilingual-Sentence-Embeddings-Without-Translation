@@ -1,0 +1,40 @@
+{
+  "id": "973",
+  "idiom": "একগেলাসের ইয়ার",
+  "alternative_idioms": [
+    "একগ্লাসের বন্ধু"
+  ],
+  "literal_meaning": "এক গেলাসের (মদ বা পানীয়ের) ইয়ার বা বন্ধু",
+  "figurative_meaning_bn": "ব্যঙ্গাত্মকভাবে অন্তরঙ্গ বা ঘনিষ্ঠ বন্ধু",
+  "figurative_meaning_en": "Sarcastically, an intimate or close friend (implying a superficial friendship, like a drinking buddy)",
+  "similar_in_english": [
+    "Fair-weather friend",
+    "Drinking buddy"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো একগেলাসের ইয়ার, সবসময় সাহায্য করবে না।",
+    "পার্টিতে দেখলাম, তার একগেলাসের ইয়াররা সবাই ছেড়ে চলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He's just a one-glass friend; he won't help when you really need it.",
+    "At the party, all his one-glass friends left him in the lurch."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Friendship discussions"
+  ],
+  "tags": [
+    "Sarcasm",
+    "Friendship",
+    "Alcohol-related",
+    "Superficial relationships"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom highlights superficial bonds often formed over drinks in Bengali social culture."
+}

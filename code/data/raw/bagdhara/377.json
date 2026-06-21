@@ -1,0 +1,39 @@
+{
+  "id": "377",
+  "idiom": "আকাশশয়ন",
+  "alternative_idioms": [],
+  "literal_meaning": "আকাশের নিচে শোয়া",
+  "figurative_meaning_bn": "উন্মুক্তস্থানে শোয়া",
+  "figurative_meaning_en": "Sleeping in an open place",
+  "similar_in_english": [
+    "Sleeping under the stars",
+    "Sleeping rough"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের গরিব লোকেরা প্রায়ই আকাশশয়ন করে।",
+    "অনেক যাযাবর আকাশশয়ন করে জীবন যাপন করে।"
+  ],
+  "example_sentences_in_english": [
+    "Poor villagers often sleep under the open sky.",
+    "Many nomads live by sleeping in the open air."
+  ],
+  "usage_domain": [
+    "poverty",
+    "rural life",
+    "lifestyle"
+  ],
+  "tags": [
+    "sleep",
+    "open air",
+    "hardship",
+    "poverty"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This expression often implies hardship or poverty in traditional Bengali rural contexts."
+}

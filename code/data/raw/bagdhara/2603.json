@@ -1,0 +1,39 @@
+{
+  "id": "2603",
+  "idiom": "খানাপিনা",
+  "alternative_idioms": [],
+  "literal_meaning": "খাওয়া এবং পানীয়",
+  "figurative_meaning_bn": "খাওয়া-দাওয়ার অনুরূপ",
+  "figurative_meaning_en": "Food and drink or eating and drinking arrangements",
+  "similar_in_english": [
+    "Eat and drink",
+    "Wine and dine"
+  ],
+  "example_sentences_in_bangla": [
+    "বাড়িতে আত্মীয়রা এলে খানাপিনার ভালো ব্যবস্থা করতে হয়।",
+    "উৎসবে খানাপিনার জন্য বিশেষ মেনু তৈরি করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "When relatives visit home, one must make good arrangements for food and drink.",
+    "A special menu has been prepared for food and drink at the festival."
+  ],
+  "usage_domain": [
+    "Daily life",
+    "Hospitality",
+    "Social events"
+  ],
+  "tags": [
+    "Food",
+    "Drink",
+    "Culinary",
+    "Social customs"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the cultural emphasis on hospitality through meals in Bengali society"
+}

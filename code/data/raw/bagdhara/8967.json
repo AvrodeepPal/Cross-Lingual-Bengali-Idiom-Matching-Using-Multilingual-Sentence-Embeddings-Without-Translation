@@ -1,0 +1,37 @@
+{
+  "id": "8967",
+  "idiom": "যে দামে কেনা সে দামে বিক্রি",
+  "alternative_idioms": [],
+  "literal_meaning": "যে দামে কেনা হয়েছে সেই দামেই বিক্রি করা",
+  "figurative_meaning_bn": "অবৈধভাবে বা বিনাব্যয়ে অর্জিত ধন নষ্ট হলে লাভ ক্ষতির হিসাব চলেনা",
+  "figurative_meaning_en": "When wealth acquired illegally or without effort is lost, there is no need to calculate profit or loss",
+  "similar_in_english": [
+    "Easy come, easy go"
+  ],
+  "example_sentences_in_bangla": [
+    "ওর ধন চুরি করে আনা, তাই নষ্ট হলে যে দামে কেনা সে দামে বিক্রি বলে কোনো দুঃখ করে না।",
+    "বিনা পরিশ্রমে পাওয়া সম্পত্তি গেলে লোকে বলে যে দামে কেনা সে দামে বিক্রি।"
+  ],
+  "example_sentences_in_english": [
+    "His fortune was ill-gotten, so when it's lost, it's like selling at the purchase price—no regrets over profit or loss.",
+    "Money obtained without effort disappears just as easily, as in 'sell at the price it was bought'."
+  ],
+  "usage_domain": [
+    "finance",
+    "morality",
+    "daily life"
+  ],
+  "tags": [
+    "proverbial",
+    "cautionary",
+    "financial wisdom"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes the fleeting nature of undeserved gains in Bengali proverbial tradition."
+}

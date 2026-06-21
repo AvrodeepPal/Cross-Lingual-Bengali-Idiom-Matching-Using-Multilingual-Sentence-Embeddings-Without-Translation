@@ -1,0 +1,42 @@
+{
+  "id": "6276",
+  "idiom": "নাক উঁচানো",
+  "alternative_idioms": [
+    "নাক তোলা",
+    "নাক সিঁটকানো"
+  ],
+  "literal_meaning": "নাককে উঁচু করা বা তোলা (to raise or wrinkle the nose)",
+  "figurative_meaning_bn": "অবজ্ঞা করা; উন্নাসিকভাব প্রকাশ করা; ঘৃণা করা",
+  "figurative_meaning_en": "to show disdain; to express arrogance; to show contempt",
+  "similar_in_english": [
+    "turn up one's nose",
+    "look down one's nose at someone"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার প্রতিবেশীকে নাক উঁচিয়ে দেখে, যেন তারা নিকৃষ্ট।",
+    "অনুগ্রহ করে নাক উঁচিয়ে কথা বলো না, সবাই সমান।"
+  ],
+  "example_sentences_in_english": [
+    "She turns up her nose at her neighbors, as if they are inferior.",
+    "Please don't speak with your nose in the air; everyone is equal."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "everyday conversation",
+    "emotional expression"
+  ],
+  "tags": [
+    "disdain",
+    "arrogance",
+    "contempt",
+    "body language"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects non-verbal cues common in Bengali culture for expressing superiority or disgust."
+}

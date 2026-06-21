@@ -1,0 +1,40 @@
+{
+  "id": "9728",
+  "idiom": "সাদাকে কালো, কালোকে সাদা করা",
+  "alternative_idioms": [],
+  "literal_meaning": "সাদাকে কালো এবং কালোকে সাদা করা (রঙের বিপরীততা সৃষ্টি করা)",
+  "figurative_meaning_bn": "লাগামাছাড়া বা বেপরোয়া মিথ্যা কথা বলা; সত্যকে মিথ্যা বানানো; যা নয় তাই বলা বা করা",
+  "figurative_meaning_en": "To tell lies without restraint; to turn truth into falsehood; to say or do what is not true",
+  "similar_in_english": [
+    "Call black white",
+    "Whitewash the truth",
+    "Twist the facts"
+  ],
+  "example_sentences_in_bangla": [
+    "পলিটিশিয়ানরা প্রায়ই সাদাকে কালো, কালোকে সাদা করে জনগণকে প্রতারিত করে।",
+    "সে তার ভুলকে ঢাকতে সাদাকে কালো, কালোকে সাদা করার চেষ্টা করল।"
+  ],
+  "example_sentences_in_english": [
+    "Politicians often turn black into white to deceive the public.",
+    "He tried to cover up his mistake by calling white black."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Politics",
+    "Deception"
+  ],
+  "tags": [
+    "lying",
+    "deception",
+    "truth inversion",
+    "falsehood"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from basic color contrasts in Bengali folklore and daily life to symbolize moral inversion."
+}

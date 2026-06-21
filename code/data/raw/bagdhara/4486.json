@@ -1,0 +1,39 @@
+{
+  "id": "4486",
+  "idiom": "জন্মকুণ্ডলী",
+  "alternative_idioms": [],
+  "literal_meaning": "জন্মের কুণ্ডলী",
+  "figurative_meaning_bn": "জন্মকালীন রাশিচক্র",
+  "figurative_meaning_en": "Horoscope or astrological chart at the time of birth",
+  "similar_in_english": [
+    "birth chart",
+    "natal horoscope"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জন্মকুণ্ডলীতে শুভ গ্রহের অবস্থান দেখা গেছে।",
+    "বিয়ের আগে জন্মকুণ্ডলী মিলিয়ে দেখা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "His birth chart shows favorable planetary positions.",
+    "The horoscopes were matched before the marriage."
+  ],
+  "usage_domain": [
+    "Astrology",
+    "Marriage and matchmaking"
+  ],
+  "tags": [
+    "রাশিচক্র",
+    "জ্যোতিষশাস্ত্র",
+    "বিবাহ"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term originates from Vedic astrology traditions in Indian subcontinent, used for predicting life events based on planetary positions at birth."
+  ],
+  "note": "Commonly used in Bengali Hindu culture for compatibility checks in marriages."
+}

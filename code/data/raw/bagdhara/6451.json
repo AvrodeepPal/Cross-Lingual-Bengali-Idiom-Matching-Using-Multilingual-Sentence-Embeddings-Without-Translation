@@ -1,0 +1,42 @@
+{
+  "id": "6451",
+  "idiom": "নির্বিষ",
+  "alternative_idioms": [],
+  "literal_meaning": "বিষহীন (without poison)",
+  "figurative_meaning_bn": "কাপুরুষ, ক্লীব, ভীরু",
+  "figurative_meaning_en": "coward, impotent, timid",
+  "similar_in_english": [
+    "lily-livered",
+    "spineless",
+    "chicken-hearted"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এমন নির্বিষ যে কোনো ঝগড়ায় সামনে আসে না।",
+    "যুদ্ধক্ষেত্রে তার নির্বিষ মনোভাব সবাইকে হতাশ করল।"
+  ],
+  "example_sentences_in_english": [
+    "He is so lily-livered that he never stands up in any argument.",
+    "His spineless attitude in the battlefield disappointed everyone."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "literature",
+    "insults"
+  ],
+  "tags": [
+    "cowardice",
+    "impotence",
+    "timidity",
+    "derogatory"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom derives from the imagery of a snake without venom, symbolizing harmlessness and lack of aggression in Bengali folklore."
+  ],
+  "note": "Often used metaphorically to describe someone lacking courage or virility, rooted in natural metaphors common in Bengali expressions."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "7148",
+  "idiom": "ফুটানি",
+  "alternative_idioms": [
+    "ফুটুনি"
+  ],
+  "literal_meaning": "ফুলে ওঠা বা ফোলা (ego-এর মতো ফুলে ওঠা)",
+  "figurative_meaning_bn": "অহঙ্কার; আস্ফালন, গর্বপ্রকাশ; জাঁক; বড়াই",
+  "figurative_meaning_en": "arrogance; boasting, display of pride; pomp; bragging",
+  "similar_in_english": [
+    "put on airs",
+    "show off",
+    "strut around",
+    "big-headed"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নতুন চাকরি পেয়ে খুব ফুটানি করছে।",
+    "বেশি ফুটানি করলে লোকে তোমাকে পছন্দ করবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is showing off a lot after getting the new job.",
+    "If you boast too much, people won't like you."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "social interactions",
+    "colloquial speech"
+  ],
+  "tags": [
+    "arrogance",
+    "boasting",
+    "pride",
+    "showing off"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom derives from the idea of swelling or puffing up like a balloon, implying inflated ego."
+}

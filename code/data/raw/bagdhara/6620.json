@@ -1,0 +1,38 @@
+{
+  "id": "6620",
+  "idiom": "পরঘরী-পান্তামারী",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্যের ঘরে থেকে পান্তা (অচল ভাত) খাওয়া বা জীবনযাপনকারী",
+  "figurative_meaning_bn": "হীনভাবে জীবনযাপন, হাড়হাভাতে লোক",
+  "figurative_meaning_en": "Living in a lowly or impoverished manner, a person surviving on bare necessities",
+  "similar_in_english": [
+    "Living hand to mouth",
+    "Scraping by"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরঘরী-পান্তামারী হয়ে দিন কাটাচ্ছে, কোনো নিশ্চিত আয় নেই।",
+    "গ্রামে অনেকে এখনও পরঘরী-পান্তামারী জীবন যাপন করছেন।"
+  ],
+  "example_sentences_in_english": [
+    "He is living like a পরঘরী-পান্তামারী, with no steady income.",
+    "Many in the village still lead a hand-to-mouth existence like a পরঘরী-পান্তামারী."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Descriptions of poverty"
+  ],
+  "tags": [
+    "poverty",
+    "humility",
+    "rural life",
+    "survival"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom evokes images of dependence and minimal sustenance in traditional Bengali village settings."
+}

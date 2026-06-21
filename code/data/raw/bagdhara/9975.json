@@ -1,0 +1,40 @@
+{
+  "id": "9975",
+  "idiom": "হাঁটাচলা",
+  "alternative_idioms": [
+    "হাঁটাহাঁটি"
+  ],
+  "literal_meaning": "হাঁটা (walking) + চলা (moving) – walking and moving around",
+  "figurative_meaning_bn": "ইতস্তত ভ্রমণ",
+  "figurative_meaning_en": "wandering here and there or moving about aimlessly",
+  "similar_in_english": [
+    "pacing about",
+    "roaming around"
+  ],
+  "example_sentences_in_bangla": [
+    "বুড়ো মানুষ অত হাঁটাচলা করতে পারেন না।",
+    "শহরে এত হাঁটাচলা করলে ক্লান্ত লাগবে।"
+  ],
+  "example_sentences_in_english": [
+    "Old people can't do that much walking around.",
+    "So much pacing about in the city will make you tired."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "descriptions of movement"
+  ],
+  "tags": [
+    "movement",
+    "wandering",
+    "elderly",
+    "daily life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Synonymous with চলাফেরা, often used in contexts of physical activity limitations"
+}

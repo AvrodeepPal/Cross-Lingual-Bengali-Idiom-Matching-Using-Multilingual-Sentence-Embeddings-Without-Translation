@@ -1,0 +1,38 @@
+{
+  "id": "3371",
+  "idiom": "গোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "অপরিশোধিত বা কাঁচা (unrefined or raw)",
+  "figurative_meaning_bn": "অশিক্ষিত; গুণহীন; সাধারণ",
+  "figurative_meaning_en": "uneducated; lacking qualities; ordinary",
+  "similar_in_english": [
+    "rough around the edges",
+    "uncultured",
+    "ignoramus"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এক গোলা লোক, কোনো শিক্ষা নেই তার।",
+    "এই গোলা পাখিটা দেখ, কত সাধারণ।"
+  ],
+  "example_sentences_in_english": [
+    "He is a gola person, completely uneducated.",
+    "Look at this ordinary bird, so unrefined."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing people"
+  ],
+  "tags": [
+    "negative",
+    "descriptive",
+    "people"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used colloquially in rural Bengali dialects to denote lack of refinement."
+}

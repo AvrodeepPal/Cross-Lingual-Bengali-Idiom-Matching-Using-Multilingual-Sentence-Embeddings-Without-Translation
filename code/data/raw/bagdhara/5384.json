@@ -1,0 +1,39 @@
+{
+  "id": "5384",
+  "idiom": "তামার বিষ",
+  "alternative_idioms": [],
+  "literal_meaning": "তামার (copper's) বিষ (poison)",
+  "figurative_meaning_bn": "অর্থের কু-প্রভাব",
+  "figurative_meaning_en": "The adverse influence of money",
+  "similar_in_english": [
+    "Money is the root of all evil",
+    "The poison of wealth"
+  ],
+  "example_sentences_in_bangla": [
+    "তামার বিষে পড়ে সমাজের নৈতিকতা ধ্বংস হয়ে যাচ্ছে।",
+    "রাজনীতিতে তামার বিষ ছড়িয়ে পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Society's morality is being destroyed by the poison of copper.",
+    "The poison of copper has spread in politics."
+  ],
+  "usage_domain": [
+    "Social commentary",
+    "Economics",
+    "Morality"
+  ],
+  "tags": [
+    "wealth",
+    "corruption",
+    "society",
+    "greed"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers metaphorically to money (symbolized by copper coins) as a corrupting force in Bengali folklore."
+}

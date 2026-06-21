@@ -1,0 +1,40 @@
+{
+  "id": "6462",
+  "idiom": "নীতিবাগীশ",
+  "alternative_idioms": [],
+  "literal_meaning": "নীতির কথা বলে এমন ব্যক্তি (moral speaker)",
+  "figurative_meaning_bn": "নীতিনিষ্ঠাসম্পর্কে দাম্ভিক; নীতিসম্পর্কে শুচিবাইগ্রস্ত",
+  "figurative_meaning_en": "Pompous or pretentious regarding moral integrity; obsessively puritanical about ethics",
+  "similar_in_english": [
+    "holier-than-thou",
+    "sanctimonious",
+    "preachy"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন নীতিবাগীশ লোক, সবসময় অন্যদের নীতি শেখায় কিন্তু নিজের জীবনে তা মানে না।",
+    "প্রতিবেশীরা তার নীতিবাগীশ মন্তব্যে বিরক্ত হয়ে গিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a moralist who constantly lectures others on ethics but fails to practice them himself.",
+    "The neighbors are annoyed by his sanctimonious remarks about right and wrong."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "social criticism"
+  ],
+  "tags": [
+    "sarcasm",
+    "hypocrisy",
+    "morals",
+    "pretentiousness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom critiques hypocritical moral posturing, common in Bengali satirical writing."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3831",
+  "idiom": "চাপা পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "চাপা (crushed) পড়া (to fall)",
+  "figurative_meaning_bn": "কোনকিছুর তলায় পড়া; গাড়ীর তলায় পিষ্ট হওয়া",
+  "figurative_meaning_en": "To fall under something; to be crushed under a vehicle's wheels",
+  "similar_in_english": [
+    "Run over by a vehicle",
+    "Crushed underfoot"
+  ],
+  "example_sentences_in_bangla": [
+    "সে রাস্তায় দাঁড়িয়ে ছিল, হঠাৎ গাড়ির তলায় চাপা পড়ল।",
+    "যুদ্ধক্ষেত্রে অনেক সৈনিক চাপা পড়ে মারা গিয়েছিল।"
+  ],
+  "example_sentences_in_english": [
+    "He was standing on the road when suddenly he was run over by a car.",
+    "Many soldiers were crushed under tanks in the battlefield."
+  ],
+  "usage_domain": [
+    "Accidents",
+    "Danger",
+    "Everyday mishaps"
+  ],
+  "tags": [
+    "idiom",
+    "danger",
+    "accident",
+    "crushing"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes imagery of fatal accidents, common in rural or semi-urban Bengali contexts involving vehicles."
+}

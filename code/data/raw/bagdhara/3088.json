@@ -1,0 +1,42 @@
+{
+  "id": "3088",
+  "idiom": "গা জুরি করা",
+  "alternative_idioms": [
+    "গা জোয়ারি করা"
+  ],
+  "literal_meaning": "শরীরকে জোর করে শপথ করানো বা বলপ্রয়োগ করে নিয়ন্ত্রণ করা",
+  "figurative_meaning_bn": "যুক্তির বিচারে নয় বলপ্রয়োগে কার্যোদ্ধার করা",
+  "figurative_meaning_en": "To accomplish something not through reasoning but by using force",
+  "similar_in_english": [
+    "Might makes right",
+    "Strong-arm tactics",
+    "Brute force"
+  ],
+  "example_sentences_in_bangla": [
+    "সে যুক্তি দিয়ে কিছু বোঝাতে পারেনি, শেষে গা জুরি করে কাজটা সারল।",
+    "রাজনীতিতে অনেকে গা জুরি করে সিদ্ধান্ত নেয়।"
+  ],
+  "example_sentences_in_english": [
+    "He couldn't convince with logic, so he ended up forcing the matter through.",
+    "In politics, many resort to strong-arming decisions."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "conflict resolution",
+    "politics"
+  ],
+  "tags": [
+    "force",
+    "coercion",
+    "persuasion",
+    "authority"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects traditional Bengali expressions of power dynamics in social interactions."
+}

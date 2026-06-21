@@ -1,0 +1,39 @@
+{
+  "id": "1553",
+  "idiom": "কপাল ঠোকা",
+  "alternative_idioms": [],
+  "literal_meaning": "কপালে আঘাত করা (to knock on the forehead)",
+  "figurative_meaning_bn": "সাফল্য পাওয়ার জন্য দৈবের কাছে মাথা ঘষা",
+  "figurative_meaning_en": "To plead with fate or destiny by knocking one's forehead, seeking success through supplication",
+  "similar_in_english": [
+    "knock on wood",
+    "leave it to the gods"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় উত্তীর্ণ হওয়ার জন্য ছেলেটি কপাল ঠোকা করল।",
+    "ব্যবসায় লাভের আশায় তিনি দৈবের কাছে কপাল ঠোকা করেছেন।"
+  ],
+  "example_sentences_in_english": [
+    "The boy knocked his forehead to fate to pass the exam.",
+    "He has been pleading with destiny by knocking his forehead for business success."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "superstition",
+    "prayer"
+  ],
+  "tags": [
+    "fate",
+    "destiny",
+    "supplication",
+    "fatalism"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The original meaning may contain a typographical error ('খোঁড়া' likely intended as 'ঘষা' or similar, implying rubbing the head in supplication)"
+}

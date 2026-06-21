@@ -1,0 +1,39 @@
+{
+  "id": "4135",
+  "idiom": "চোখের পলক",
+  "alternative_idioms": [],
+  "literal_meaning": "চোখের পলকানি",
+  "figurative_meaning_bn": "নিমেষ; মুহূর্তকাল",
+  "figurative_meaning_en": "an instant; a moment",
+  "similar_in_english": [
+    "in the blink of an eye",
+    "in a jiffy",
+    "in a split second"
+  ],
+  "example_sentences_in_bangla": [
+    "চোখের পলকে সে ঘর থেকে বেরিয়ে গেল।",
+    "চোখের পলকে সবকিছু বদলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He disappeared from the room in the blink of an eye.",
+    "Everything changed in the blink of an eye."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing speed or sudden change"
+  ],
+  "tags": [
+    "time",
+    "moment",
+    "speed",
+    "surprise"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in Bengali literature and speech to emphasize brevity of time."
+}

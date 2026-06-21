@@ -1,0 +1,38 @@
+{
+  "id": "2926",
+  "idiom": "গদগদ",
+  "alternative_idioms": [],
+  "literal_meaning": "আবেগে দমবন্ধ হয়ে যাওয়া অবস্থা (দ্বিত্বশব্দ)",
+  "figurative_meaning_bn": "আবেগজনিত বিহ্বলতা",
+  "figurative_meaning_en": "Emotional agitation or choking with emotion",
+  "similar_in_english": [
+    "Choked up",
+    "Voice trembling with emotion"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার মায়ের কথা মনে করে গদগদ হয়ে কাঁদতে লাগল।",
+    "ভাষণের সময় তার গলা গদগদ হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "She choked up remembering her mother and started crying.",
+    "His voice choked with emotion during the speech."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Speech",
+    "Literature"
+  ],
+  "tags": [
+    "Reduplication",
+    "Emotion",
+    "Voice"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used with 'কণ্ঠ' to describe a trembling or choked voice due to strong feelings."
+}

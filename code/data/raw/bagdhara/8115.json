@@ -1,0 +1,40 @@
+{
+  "id": "8115",
+  "idiom": "ভূত দেখা",
+  "alternative_idioms": [],
+  "literal_meaning": "ভূত দেখা (seeing a ghost)",
+  "figurative_meaning_bn": "অনভিপ্রেত কাউকে দেখে চমকে ওঠা",
+  "figurative_meaning_en": "To be startled upon seeing someone unexpectedly",
+  "similar_in_english": [
+    "Jump out of one's skin",
+    "Look like you've seen a ghost"
+  ],
+  "example_sentences_in_bangla": [
+    "পুরনো শত্রুকে হঠাৎ দেখে সে ভূত দেখার মতো চমকে উঠল।",
+    "বাজারে যাওয়ার সময় অপ্রত্যাশিত অতিথিকে দেখে ভূত দেখা হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He jumped like he'd seen a ghost when he spotted his old rival suddenly.",
+    "Seeing an unexpected guest at the market made it feel like seeing a ghost."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Surprise encounters"
+  ],
+  "tags": [
+    "surprise",
+    "fear",
+    "unexpected",
+    "shock"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Rooted in Bengali folklore where ghosts (ভূত) are common supernatural elements symbolizing fear and the unknown."
+  ],
+  "note": "The idiom draws from widespread cultural beliefs in ghosts, often used to describe sudden fright from human encounters rather than literal supernatural events."
+}

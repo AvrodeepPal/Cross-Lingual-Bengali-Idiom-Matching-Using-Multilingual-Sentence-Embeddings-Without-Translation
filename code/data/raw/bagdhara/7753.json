@@ -1,0 +1,41 @@
+{
+  "id": "7753",
+  "idiom": "বুক ধড়ফড় করা",
+  "alternative_idioms": [],
+  "literal_meaning": "বুক বা হৃদয় দ্রুত স্পন্দিত বা ধড়ফড়ানো",
+  "figurative_meaning_bn": "দুর্বলতা অথবা ভয়ে হৃৎপিণ্ড জোরে স্পন্দিত হওয়া",
+  "figurative_meaning_en": "The heart beating rapidly due to weakness or fear",
+  "similar_in_english": [
+    "heart pounding",
+    "heart racing",
+    "palpitations from fear"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষার আগে তার বুক ধড়ফড় করছিল।",
+    "আকস্মিক শব্দ শুনে আমার বুক ধড়ফড় করে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "His heart was thumping before the exam.",
+    "My heart started pounding upon hearing the sudden noise."
+  ],
+  "usage_domain": [
+    "emotions",
+    "fear",
+    "anxiety"
+  ],
+  "tags": [
+    "idiom",
+    "fear",
+    "heart",
+    "emotion",
+    "onomatopoeia"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses onomatopoeia to vividly describe physical sensations of fear or weakness, common in everyday Bengali conversation."
+}

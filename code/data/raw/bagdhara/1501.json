@@ -1,0 +1,42 @@
+{
+  "id": "1501",
+  "idiom": "কথার মারপ্যাঁচ",
+  "alternative_idioms": [
+    "কথার প্যাঁচ",
+    "কথার ফের"
+  ],
+  "literal_meaning": "কথার পেঁচানো বা ফাঁদ (word's twist or noose)",
+  "figurative_meaning_bn": "কথার কটকচালি, শঠতাপূর্ণ কথাবার্তা",
+  "figurative_meaning_en": "Verbal jugglery or cunning, deceitful speech",
+  "similar_in_english": [
+    "Beat around the bush",
+    "Twist words",
+    "Verbal gymnastics"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কথার মারপ্যাঁচে সবাইকে ধোঁকা দিয়েছে।",
+    "রাজনীতিতে কথার মারপ্যাঁচ খুব কাজে লাগে।"
+  ],
+  "example_sentences_in_english": [
+    "He deceived everyone with his verbal twists.",
+    "In politics, wordplay is very useful."
+  ],
+  "usage_domain": [
+    "conversation",
+    "debate",
+    "politics"
+  ],
+  "tags": [
+    "deception",
+    "cunning",
+    "language play"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights the nuanced use of language in Bengali communication to mislead subtly."
+}

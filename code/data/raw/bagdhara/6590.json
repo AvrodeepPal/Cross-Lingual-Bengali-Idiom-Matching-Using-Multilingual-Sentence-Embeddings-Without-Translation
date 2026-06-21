@@ -1,0 +1,41 @@
+{
+  "id": "6590",
+  "idiom": "পদগৌরব",
+  "alternative_idioms": [
+    "মর্যাদা"
+  ],
+  "literal_meaning": "পদের গৌরব (position's glory)",
+  "figurative_meaning_bn": "উচ্চপদের আধিপত্যের মর্যাদা",
+  "figurative_meaning_en": "The dignity and prestige associated with high office or authority",
+  "similar_in_english": [
+    "the dignity of office",
+    "pomp of position"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি তার পদগৌরবের জন্য সবাইকে আদেশ দেন।",
+    "পদগৌরব না থাকলে কাজ চলে না।"
+  ],
+  "example_sentences_in_english": [
+    "He commands everyone due to the prestige of his position.",
+    "Without the dignity of office, the work doesn't proceed."
+  ],
+  "usage_domain": [
+    "administration",
+    "politics",
+    "formal etiquette"
+  ],
+  "tags": [
+    "authority",
+    "prestige",
+    "dignity",
+    "officialdom"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to bureaucratic or hierarchical respect in Bengali society"
+}

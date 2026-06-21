@@ -1,0 +1,40 @@
+{
+  "id": "2533",
+  "idiom": "খরচের খাতায়",
+  "alternative_idioms": [],
+  "literal_meaning": "খরচের খাতায় (expense account book in)",
+  "figurative_meaning_bn": "উদ্ধারের আশা নেই; কিছু পাওয়ার আশা নেই; ক্ষতি বলে ধরে রাখা",
+  "figurative_meaning_en": "No hope of recovery; No expectation of return; Written off as a loss",
+  "similar_in_english": [
+    "Money down the drain",
+    "Write-off",
+    "A lost cause"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই বিনিয়োগ খরচের খাতায় লিখে রাখো, কোনো উদ্ধার হবে না।",
+    "পুরনো ঋণটি খরচের খাতায় ধরে নাও, কিছু পাওয়ার আশা নেই।"
+  ],
+  "example_sentences_in_english": [
+    "Write off that investment in the expense book; there's no hope of recovery.",
+    "Consider the old debt as a loss in the accounts; no return expected."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Business",
+    "Everyday losses"
+  ],
+  "tags": [
+    "loss",
+    "irrecoverable",
+    "accounting",
+    "expense"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional Bengali bookkeeping practices where unrecoverable items are entered as expenses."
+}

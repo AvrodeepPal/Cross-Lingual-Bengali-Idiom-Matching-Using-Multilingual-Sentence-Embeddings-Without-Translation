@@ -1,0 +1,38 @@
+{
+  "id": "3212",
+  "idiom": "গিরিসঙ্কট",
+  "alternative_idioms": [],
+  "literal_meaning": "দুই পর্বতের মধ্যবর্তী সঙ্কীর্ণ কঠিন পথ",
+  "figurative_meaning_bn": "কঠিন বা সংকটময় পরিস্থিতি",
+  "figurative_meaning_en": "a difficult or critical situation",
+  "similar_in_english": [
+    "between a rock and a hard place",
+    "in a tight spot"
+  ],
+  "example_sentences_in_bangla": [
+    "উদ্যোগটি গিরিসঙ্কটে পড়েছে, কোনো উপায় নেই।",
+    "জীবনের এই গিরিসঙ্কট থেকে বেরিয়ে আসা কঠিন হবে।"
+  ],
+  "example_sentences_in_english": [
+    "The project has fallen into a girisankat; there's no way out.",
+    "Escaping this girisankat in life will be tough."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature",
+    "crisis description"
+  ],
+  "tags": [
+    "nature",
+    "difficulty",
+    "geographical"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from mountainous terrain imagery common in Bengali folklore and geography."
+}

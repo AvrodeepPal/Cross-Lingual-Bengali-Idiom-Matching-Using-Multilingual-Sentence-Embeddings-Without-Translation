@@ -1,0 +1,40 @@
+{
+  "id": "6094",
+  "idiom": "ধুমসা",
+  "alternative_idioms": [
+    "ধুমসো"
+  ],
+  "literal_meaning": "ধোঁয়াটে বা কালো ময়লা-ঢাকা",
+  "figurative_meaning_bn": "কালো মোটাসোটা লোক",
+  "figurative_meaning_en": "a black, fat, sooty person",
+  "similar_in_english": [
+    "soot-covered slob",
+    "greasy and unkempt"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো একটা ধুমসা, কখনো স্নান করে না।",
+    "গ্রামের সেই ধুমসা লোকটাকে দেখে সবাই হাসে।"
+  ],
+  "example_sentences_in_english": [
+    "He's such a sooty slob, he never bathes.",
+    "Everyone laughs at that soot-covered guy from the village."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insult",
+    "physical description"
+  ],
+  "tags": [
+    "derogatory",
+    "appearance",
+    "rural slang"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to someone appearing dirty from soot, common in traditional cooking or labor contexts in Bengali rural life."
+}

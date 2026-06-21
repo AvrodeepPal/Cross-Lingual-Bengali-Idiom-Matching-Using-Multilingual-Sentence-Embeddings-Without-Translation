@@ -1,0 +1,40 @@
+{
+  "id": "2623",
+  "idiom": "খাল কেটে কুমির আনা",
+  "alternative_idioms": [
+    "খাল কেটে বেনোজল ঢোকানো"
+  ],
+  "literal_meaning": "খাল কেটে কুমিরকে আনা (digging a canal and bringing a crocodile)",
+  "figurative_meaning_bn": "নিজের বিপদ ডেকে আনা",
+  "figurative_meaning_en": "Inviting one's own trouble or misfortune",
+  "similar_in_english": [
+    "Shoot oneself in the foot",
+    "Invite trouble upon oneself"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নিজের স্বার্থে কাজ করতে গিয়ে খাল কেটে কুমির আনল, এখন সমস্যায় পড়েছে।",
+    "ব্যবসায়িক সিদ্ধান্ত নেওয়ার সময় খাল কেটে কুমির আনবেন না, ভালোভাবে চিন্তা করুন।"
+  ],
+  "example_sentences_in_english": [
+    "By trying to cut corners, he ended up digging a canal to bring a crocodile, landing himself in trouble.",
+    "Don't invite trouble by making hasty decisions; it's like digging a canal to bring a crocodile."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Advice and warnings",
+    "Literature"
+  ],
+  "tags": [
+    "Self-inflicted trouble",
+    "Cautionary",
+    "Rural imagery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from Bengal's riverine landscape where canals are common, and crocodiles symbolize danger."
+}

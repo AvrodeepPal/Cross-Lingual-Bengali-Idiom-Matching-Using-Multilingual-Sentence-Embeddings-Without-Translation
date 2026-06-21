@@ -1,0 +1,38 @@
+{
+  "id": "5291",
+  "idiom": "ঢেরা সই",
+  "alternative_idioms": [],
+  "literal_meaning": "আঙ্গুলের ছাপ দিয়ে দেওয়া স্বাক্ষর",
+  "figurative_meaning_bn": "নিরক্ষর ব্যক্তির ঢেরা চিহ্নদ্বারা প্রদত্ত সই",
+  "figurative_meaning_en": "A signature provided by an illiterate person through a thumbprint mark",
+  "similar_in_english": [
+    "X marks the spot",
+    "Put one's John Henry"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি লিখতে পারেন না, তাই ঢেরা সই দিয়েছেন দলিলে।",
+    "গ্রামের অনেকেই এখনও ঢেরা সই করে কাজকর্ম চালান।"
+  ],
+  "example_sentences_in_english": [
+    "He can't write, so he gave a thumbprint signature on the document.",
+    "Many in the village still use thumbprint signatures for their affairs."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Documents",
+    "Literacy"
+  ],
+  "tags": [
+    "নিরক্ষরতা",
+    "স্বাক্ষর",
+    "গ্রামীণ জীবন"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "এটি প্রধানত নিরক্ষরতার প্রতীক হিসেবে ব্যবহৃত হয়, বিশেষ করে গ্রামীণ বাংলায়।"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "618",
+  "idiom": "আলেয়ার আলো",
+  "alternative_idioms": [
+    "আলেয়া"
+  ],
+  "literal_meaning": "আলেয়া (ভ্রান্তিকর বা দূরের মিথ্যা আলোকবিন্দু) এর আলো",
+  "figurative_meaning_bn": "দুর্লভ বা বিভ্রান্তিকর বস্তু; ধাঁধা; প্রহেলিকা; মিথ্যা মায়া",
+  "figurative_meaning_en": "A rare or deceptive object; riddle; puzzle; illusory allure",
+  "similar_in_english": [
+    "will-o'-the-wisp",
+    "chasing shadows",
+    "fool's gold"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আলেয়ার আলোর পিছনে ছুটে তার স্বপ্নগুলো হারিয়ে ফেলেছে।",
+    "জীবনে আলেয়ার আলো দেখে বিভ্রান্ত হয়ো না, সত্যিকারের পথ খোঁজো।"
+  ],
+  "example_sentences_in_english": [
+    "He chased the light of the aloya and lost all his dreams in the process.",
+    "Don't get deceived by the aloya's light in life; seek the true path instead."
+  ],
+  "usage_domain": [
+    "literature",
+    "proverbs",
+    "daily advice"
+  ],
+  "tags": [
+    "deception",
+    "illusion",
+    "warning",
+    "folklore"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Refers to folklore about deceptive marsh lights that lure travelers astray, similar to global myths of ignis fatuus."
+  ],
+  "note": "The idiom warns against pursuing unattainable or misleading goals, deeply embedded in Bengali rural storytelling."
+}

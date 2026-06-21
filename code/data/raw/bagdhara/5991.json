@@ -1,0 +1,43 @@
+{
+  "id": "5991",
+  "idiom": "ধড়ে প্রাণ আসা",
+  "alternative_idioms": [
+    "বিরাট সুড়ঙ্গের শেষে আলো দেখতে পাওয়া"
+  ],
+  "literal_meaning": "শরীরে প্রাণ ফিরে আসা",
+  "figurative_meaning_bn": "বিপদমুক্ত হওয়ায় গভীর স্বস্তির নিশ্বাস ফেলা",
+  "figurative_meaning_en": "To heave a deep sigh of relief upon escaping danger",
+  "similar_in_english": [
+    "Sigh of relief",
+    "Light at the end of the tunnel"
+  ],
+  "example_sentences_in_bangla": [
+    "বিপদ থেকে বেঁচে বাড়ি ফিরে তার ধড়ে প্রাণ এল।",
+    "পরীক্ষায় ভালো ফল পেয়ে ছাত্রটির ধড়ে প্রাণ এসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He felt life return to his body when he escaped the accident unharmed.",
+    "The student heaved a sigh of relief upon getting good exam results."
+  ],
+  "usage_domain": [
+    "emotions",
+    "relief",
+    "daily life"
+  ],
+  "tags": [
+    "relief",
+    "danger",
+    "satisfaction",
+    "bengali literature"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in Kazi Nazrul Islam's poem 'Lukochuri', where a character hides and feels relief like life returning to the body."
+  ],
+  "note": "The idiom draws from everyday expressions of relief, popularized in Bengali poetry."
+}

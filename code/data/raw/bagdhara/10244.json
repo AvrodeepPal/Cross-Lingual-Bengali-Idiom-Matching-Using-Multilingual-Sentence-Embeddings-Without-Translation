@@ -1,0 +1,37 @@
+{
+  "id": "10244",
+  "idiom": "হাতের সুখ",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতের স্বস্তি বা আরাম",
+  "figurative_meaning_bn": "মনের সুখে পেটানো",
+  "figurative_meaning_en": "To beat or do something to one's heart's content or personal satisfaction",
+  "similar_in_english": [
+    "Beat someone black and blue",
+    "Give someone a thrashing"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ছেলেকে হাতের সুখ করে পেটালো।",
+    "বন্ধুরা মাঠে হাতের সুখ করে খেলল।"
+  ],
+  "example_sentences_in_english": [
+    "He beat his son to his heart's content.",
+    "The friends played to their satisfaction in the field."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Conflict resolution"
+  ],
+  "tags": [
+    "violence",
+    "satisfaction",
+    "punishment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts implying unrestrained action for personal pleasure, typically negative."
+}

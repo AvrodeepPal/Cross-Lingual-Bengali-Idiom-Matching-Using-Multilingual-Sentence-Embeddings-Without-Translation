@@ -1,0 +1,39 @@
+{
+  "id": "5622",
+  "idiom": "দড়িকলসি",
+  "alternative_idioms": [],
+  "literal_meaning": "দড়ি এবং কলসি (রশি এবং ঘট/পাত্র)",
+  "figurative_meaning_bn": "আত্মহত্যার উপায়; ডুবে মরার সহায়ক",
+  "figurative_meaning_en": "Means of suicide; aid for drowning to death",
+  "similar_in_english": [
+    "Couldn't hang oneself if one tried",
+    "Down to one's last resort in misfortune"
+  ],
+  "example_sentences_in_bangla": [
+    "অভাগার জন্য দড়িকলসিও জোটে না।",
+    "তার দুর্ভাগ্য এমন যে দড়িকলসি হাতে এলেও সাহায্য করবে না।"
+  ],
+  "example_sentences_in_english": [
+    "Even the most unfortunate person can't find a rope or pot for suicide.",
+    "His bad luck is such that even means of suicide won't come to hand."
+  ],
+  "usage_domain": [
+    "proverbs",
+    "expressing extreme misfortune"
+  ],
+  "tags": [
+    "misfortune",
+    "suicide",
+    "traditional saying"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from traditional Bengali proverbs highlighting extreme misfortune, where 'দড়ি' refers to hanging and 'কলসি' to drowning in water, common rural suicide methods in folklore."
+  ],
+  "note": "Often used in the full proverb 'অভাগার দড়ি কলসিও জোটে না' to emphasize utter bad luck."
+}

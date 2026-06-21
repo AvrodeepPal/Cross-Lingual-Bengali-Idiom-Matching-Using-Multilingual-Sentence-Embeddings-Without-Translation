@@ -1,0 +1,45 @@
+{
+  "id": "1732",
+  "idiom": "কাঁচকলা",
+  "alternative_idioms": [
+    "অষ্টরম্ভা",
+    "কচু",
+    "কচু না ঘেচূ",
+    "বুড়ো আঙুল",
+    "লবডঙ্কা"
+  ],
+  "literal_meaning": "কাঁচা বা অপক্ব কলা",
+  "figurative_meaning_bn": "কিছু না, ফাঁকি, মিথ্যা",
+  "figurative_meaning_en": "nothing worthwhile, a trick, or something worthless",
+  "similar_in_english": [
+    "raw deal",
+    "short end of the stick",
+    "lemon"
+  ],
+  "example_sentences_in_bangla": [
+    "সবাই ভালো উপহার পেল, কিন্তু আমার ভাগ্যে কাঁচকলা।",
+    "এই প্রস্তাবটা তো কাঁচকলা, কোনো লাভ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone got good gifts, but I ended up with a raw banana.",
+    "This offer is a raw deal; there's no benefit in it."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "expressions of disappointment"
+  ],
+  "tags": [
+    "bad luck",
+    "worthless",
+    "deception",
+    "disappointment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the common agricultural item in Bengali culture, symbolizing something unripe and useless."
+}

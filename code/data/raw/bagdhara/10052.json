@@ -1,0 +1,42 @@
+{
+  "id": "10052",
+  "idiom": "হাড় পাঁজরা",
+  "alternative_idioms": [
+    "অস্থিপঞ্জর"
+  ],
+  "literal_meaning": "হাড় (bones) এবং পাঁজরা (skeleton or ribcage)",
+  "figurative_meaning_bn": "দেহের খাঁচা",
+  "figurative_meaning_en": "The skeletal frame of the body (emaciated due to hunger or illness)",
+  "similar_in_english": [
+    "Skin and bones",
+    "Bag of bones"
+  ],
+  "example_sentences_in_bangla": [
+    "দারিদ্র্যের কারণে সে হাড় পাঁজরা হয়ে গেছে।",
+    "অসুস্থতায় তার শরীর হাড় পাঁজরা বেড়ে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Due to poverty, he has become skin and bones.",
+    "Illness has left her body as a mere skeletal frame."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Descriptions of physical condition",
+    "Poverty and health contexts"
+  ],
+  "tags": [
+    "emaciation",
+    "hunger",
+    "poverty",
+    "body",
+    "thinness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Often used to describe extreme thinness from malnutrition, deeply embedded in Bengali expressions of hardship."
+}

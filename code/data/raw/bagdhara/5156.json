@@ -1,0 +1,38 @@
+{
+  "id": "5156",
+  "idiom": "ডামাডোল",
+  "alternative_idioms": [],
+  "literal_meaning": "ডাক-ডাকানি এবং শোরগোলের অনুকরণ (onomatopoeic representation of loud cries and noise)",
+  "figurative_meaning_bn": "কোলাহল; শোরগোল",
+  "figurative_meaning_en": "hubbub; clamor",
+  "similar_in_english": [
+    "hubbub",
+    "ruckus",
+    "hullabaloo"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে হঠাৎ ডামাডোল পড়ে গেল।",
+    "সভায় ডামাডোল করে সবাই চিৎকার করতে লাগল।"
+  ],
+  "example_sentences_in_english": [
+    "Suddenly, there was a hubbub in the market.",
+    "Everyone started shouting, creating a clamor in the meeting."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "describing social chaos"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "noise",
+    "commotion"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in Bengali to depict noisy disorder."
+}

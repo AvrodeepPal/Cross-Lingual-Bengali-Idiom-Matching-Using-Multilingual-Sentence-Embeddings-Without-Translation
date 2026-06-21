@@ -1,0 +1,41 @@
+{
+  "id": "5759",
+  "idiom": "দাগাবাজি",
+  "alternative_idioms": [],
+  "literal_meaning": "দাগ দিয়ে বাজি খেলা বা প্রতারণামূলক চিহ্নিত জুয়া",
+  "figurative_meaning_bn": "বিশ্বাসঘাতকতা",
+  "figurative_meaning_en": "betrayal or treachery",
+  "similar_in_english": [
+    "stab in the back",
+    "double-cross"
+  ],
+  "example_sentences_in_bangla": [
+    "তার দাগাবাজির জন্য সবাই তাকে এড়িয়ে চলে।",
+    "দাগাবাজি করে কখনো সফল হওয়া যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone avoids him because of his betrayal.",
+    "You can never succeed by resorting to treachery."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "literature",
+    "everyday conversation"
+  ],
+  "tags": [
+    "deception",
+    "betrayal",
+    "treachery",
+    "untrustworthiness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from traditional gambling practices where cheats would mark cards or items to deceive others, reflecting broader cultural warnings against dishonesty in Bengali folklore."
+  ],
+  "note": "The idiom draws from rural and urban gambling contexts in Bengal, emphasizing moral lessons on trust."
+}

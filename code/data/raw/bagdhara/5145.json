@@ -1,0 +1,40 @@
+{
+  "id": "5145",
+  "idiom": "ডানহাত বাঁহাত",
+  "alternative_idioms": [],
+  "literal_meaning": "ডান হাত বাঁ হাত (right hand left hand)",
+  "figurative_meaning_bn": "আদান-প্রদান; লেনদেন; হাতফেরতা",
+  "figurative_meaning_en": "exchange or transaction; dealing; something lost through constant passing from hand to hand",
+  "similar_in_english": [
+    "lost in the shuffle",
+    "change hands",
+    "passed from pillar to post"
+  ],
+  "example_sentences_in_bangla": [
+    "জিনিসটা ডানহাত বাঁহাত করে হারিয়ে গেছে।",
+    "বাজারে ডানহাত বাঁহাতের মধ্যে দরকষাকষি চলছিল।"
+  ],
+  "example_sentences_in_english": [
+    "The item got lost in the exchange of hands.",
+    "There was haggling going on through constant dealings in the market."
+  ],
+  "usage_domain": [
+    "commerce",
+    "daily transactions",
+    "informal dealings"
+  ],
+  "tags": [
+    "exchange",
+    "loss",
+    "transaction",
+    "bargaining"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the common experience of items or money disappearing amid frequent handovers in Bengali daily life."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2089",
+  "idiom": "কায়কারবার",
+  "alternative_idioms": [],
+  "literal_meaning": "কাজের ব্যবসা বা কার্যকলাপের ব্যাপার",
+  "figurative_meaning_bn": "দৈনন্দিন কাজকর্ম",
+  "figurative_meaning_en": "Daily routine work or everyday affairs",
+  "similar_in_english": [
+    "daily grind",
+    "business as usual"
+  ],
+  "example_sentences_in_bangla": [
+    "সেরেস্তার কায়কারবার অচল হয়ে পড়েছে।",
+    "তার দৈনন্দিন কায়কারবারে ব্যাঘাত ঘটেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The office's daily business has come to a standstill.",
+    "There has been a disruption in his everyday routine work."
+  ],
+  "usage_domain": [
+    "work",
+    "office",
+    "daily life"
+  ],
+  "tags": [
+    "routine",
+    "administrative",
+    "everyday affairs"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Often used in formal or bureaucratic contexts in Bengali literature and speech."
+}

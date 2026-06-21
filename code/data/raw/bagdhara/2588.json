@@ -1,0 +1,39 @@
+{
+  "id": "2588",
+  "idiom": "খাতাপত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "খাতা এবং পত্র (নোটবুক এবং কাগজপত্র)",
+  "figurative_meaning_bn": "হিসাবপত্র",
+  "figurative_meaning_en": "accounts or records",
+  "similar_in_english": [
+    "paperwork",
+    "books (as in keeping books)"
+  ],
+  "example_sentences_in_bangla": [
+    "তার খাতাপত্র ঠিক রাখতে হবে না হলে সমস্যা হবে।",
+    "ব্যবসার খাতাপত্র পরীক্ষা করুন।"
+  ],
+  "example_sentences_in_english": [
+    "He must keep his accounts in order or there will be trouble.",
+    "Check the business records carefully."
+  ],
+  "usage_domain": [
+    "finance",
+    "administration",
+    "business"
+  ],
+  "tags": [
+    "accounting",
+    "documents",
+    "records",
+    "formal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to bureaucratic or financial documentation in everyday Bengali usage."
+}

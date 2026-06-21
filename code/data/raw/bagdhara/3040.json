@@ -1,0 +1,40 @@
+{
+  "id": "3040",
+  "idiom": "গহনাগাঁটি",
+  "alternative_idioms": [
+    "গহনাপত্র"
+  ],
+  "literal_meaning": "গহনার গাঁট বা বস্তা / গহনা ও দলিলপত্র",
+  "figurative_meaning_bn": "বিভিন্ন অলংকার ও দামি জিনিসপত্র",
+  "figurative_meaning_en": "Various ornaments and valuable items",
+  "similar_in_english": [
+    "finery and jewels",
+    "family heirlooms"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বাড়িতে গহনাগাঁটি দেখলে সবাই অবাক হয়ে যায়।",
+    "বিয়ের সময় মেয়ের গহনাপত্র নিয়ে সবাই উৎসাহী হয়।"
+  ],
+  "example_sentences_in_english": [
+    "Seeing the jewelry bundle in her house amazes everyone.",
+    "During the wedding, everyone gets excited about the bride's valuables and documents."
+  ],
+  "usage_domain": [
+    "wealth description",
+    "possessions",
+    "traditional customs"
+  ],
+  "tags": [
+    "valuables",
+    "ornaments",
+    "cultural wealth"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional Bengali concepts of dowry and family treasures."
+}

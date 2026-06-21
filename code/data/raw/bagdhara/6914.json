@@ -1,0 +1,39 @@
+{
+  "id": "6914",
+  "idiom": "পুঁথিগত বিদ্যা",
+  "alternative_idioms": [],
+  "literal_meaning": "পুঁথি থেকে প্রাপ্ত বিদ্যা",
+  "figurative_meaning_bn": "কাজে না লাগা অধীত বিদ্যা",
+  "figurative_meaning_en": "Theoretical or bookish knowledge that is impractical in real life",
+  "similar_in_english": [
+    "Book smart but not street smart",
+    "All theory and no practice"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পুঁথিগত বিদ্যা বাস্তবে কোনো কাজে আসে না।",
+    "পুঁথিগত বিদ্যা দিয়ে জীবনের সমস্যা সমাধান করা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "His bookish knowledge doesn't help in practical situations.",
+    "You can't solve real-life problems with just theoretical learning."
+  ],
+  "usage_domain": [
+    "Education",
+    "Daily life",
+    "Criticism"
+  ],
+  "tags": [
+    "knowledge",
+    "impractical",
+    "theoretical",
+    "education"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to knowledge from scriptures or books that lacks practical application, common in Bengali proverbial wisdom."
+}

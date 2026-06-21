@@ -1,0 +1,38 @@
+{
+  "id": "10211",
+  "idiom": "হাতে গোনা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত দিয়ে গোনা যায় এমন (countable by hand)",
+  "figurative_meaning_bn": "অল্প সংখ্যক, খানকয়েক",
+  "figurative_meaning_en": "a small number, just a few",
+  "similar_in_english": [
+    "a handful",
+    "can be counted on one hand"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় হাতে গোনা মাত্র লোক উপস্থিত ছিল।",
+    "তার কাছে হাতে গোনা কয়েকটা বই আছে।"
+  ],
+  "example_sentences_in_english": [
+    "Only a handful of people were present at the meeting.",
+    "He has just a few books with him."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "quantification",
+    "social gatherings"
+  ],
+  "tags": [
+    "quantity",
+    "small number",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali expression for scarcity in numbers, emphasizing simplicity in counting."
+}

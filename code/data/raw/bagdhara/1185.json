@@ -1,0 +1,40 @@
+{
+  "id": "1185",
+  "idiom": "এতিম",
+  "alternative_idioms": [],
+  "literal_meaning": "অনাথ বা পিতামাতাহীন ব্যক্তি",
+  "figurative_meaning_bn": "পিতৃমাতৃহীন অনাথ বালক-বালিকা",
+  "figurative_meaning_en": "Orphan children deprived of father and mother",
+  "similar_in_english": [
+    "orphan"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি এতিমখানায় মানুষ হয়েছি।",
+    "সে একজন এতিম, তাই সাহায্য দরকার।"
+  ],
+  "example_sentences_in_english": [
+    "I grew up in an orphanage.",
+    "He is an orphan and needs help."
+  ],
+  "usage_domain": [
+    "social",
+    "family",
+    "charity"
+  ],
+  "tags": [
+    "orphan",
+    "child",
+    "abandonment",
+    "vulnerability"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term 'এতিম' derives from Arabic 'aitim', commonly used in Bengali due to Islamic influences, emphasizing care for orphans as per religious teachings."
+  ],
+  "note": "This is more of a direct term than a complex idiom, but used figuratively to evoke sympathy for parentless children in Bengali literature and daily speech."
+}

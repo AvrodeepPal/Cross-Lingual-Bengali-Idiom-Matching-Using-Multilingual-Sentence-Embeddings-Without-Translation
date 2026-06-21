@@ -1,0 +1,39 @@
+{
+  "id": "1238",
+  "idiom": "এড ভ্যালোরেম",
+  "alternative_idioms": [],
+  "literal_meaning": "মূল্য অনুসারে (ল্যাটিন 'ad valorem' থেকে, অর্থ 'মূল্যের অনুসারে')",
+  "figurative_meaning_bn": "পণ্যমূল্যের অনুপাতে; মূল্যানুযায়ী; মূল্যানুসারে",
+  "figurative_meaning_en": "according to the value; proportional to the price; in accordance with the value",
+  "similar_in_english": [
+    "ad valorem (direct equivalent)"
+  ],
+  "example_sentences_in_bangla": [
+    "এই শুল্কটি এড ভ্যালোরেম হিসেবে নির্ধারিত, অর্থাৎ পণ্যের মূল্যের উপর ভিত্তি করে।",
+    "ব্যবসায়িক আমদানিতে এড ভ্যালোরেম কর প্রযোজ্য হয়।"
+  ],
+  "example_sentences_in_english": [
+    "This duty is ad valorem, meaning it's based on the value of the goods.",
+    "In international trade, ad valorem taxes are applied proportional to the item's price."
+  ],
+  "usage_domain": [
+    "finance",
+    "taxation",
+    "legal",
+    "commerce"
+  ],
+  "tags": [
+    "borrowed term",
+    "latin origin",
+    "economic",
+    "formal"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "city",
+  "history": [],
+  "note": "This is a borrowed Latin term used in Bengali legal and financial contexts, not a native idiom."
+}

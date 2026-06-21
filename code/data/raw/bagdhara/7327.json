@@ -1,0 +1,40 @@
+{
+  "id": "7327",
+  "idiom": "বর্ণচোরা আম",
+  "alternative_idioms": [],
+  "literal_meaning": "রঙ চুরি করে নেয় এমন আম (color-thief mango)",
+  "figurative_meaning_bn": "পাকলেও বর্ণের পরিবর্তন হয় না এমন ফল",
+  "figurative_meaning_en": "A fruit that does not undergo color change even when ripe",
+  "similar_in_english": [
+    "Green on the outside (implying unchanged appearance despite maturity)"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চেহারা দেখে বয়স অনুমান করা যায় না, সে বর্ণচোরা আমের মতো।",
+    "এই প্রকল্পটি বর্ণচোরা আমের মতো, বাইরে থেকে অপরিবর্তিত মনে হয় কিন্তু ভিতরে পরিপক্ক।"
+  ],
+  "example_sentences_in_english": [
+    "You can't guess his age from his appearance; he's like a varnochora am.",
+    "This project is like a varnochora am—unchanged on the outside but mature within."
+  ],
+  "usage_domain": [
+    "Agriculture",
+    "Daily conversation",
+    "Describing people or things"
+  ],
+  "tags": [
+    "fruit",
+    "unchanging appearance",
+    "maturity",
+    "Bengali flora"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Refers to a specific variety of mango in Bengal that remains green-skinned even when fully ripe, symbolizing things that do not show external change despite internal development."
+  ],
+  "note": "This idiom draws from local agricultural knowledge in Bengal, highlighting the unique properties of certain mango cultivars."
+}

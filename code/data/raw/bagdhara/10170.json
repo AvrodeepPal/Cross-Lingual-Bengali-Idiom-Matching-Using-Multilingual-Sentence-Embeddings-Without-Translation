@@ -1,0 +1,39 @@
+{
+  "id": "10170",
+  "idiom": "হাত বদল করা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত পরিবর্তন করা (to change or exchange hands)",
+  "figurative_meaning_bn": "ঠকানোর উদ্দেশ্যে ভালো মালের বদলে খারাপ মাল দেওয়া",
+  "figurative_meaning_en": "To deceive by substituting inferior goods for superior ones",
+  "similar_in_english": [
+    "Bait and switch",
+    "Palm off"
+  ],
+  "example_sentences_in_bangla": [
+    "দোকানদারটি গ্রাহককে হাত বদল করে খারাপ ফল দিয়েছে।",
+    "বাজারে কেনাকাটা করতে গিয়ে হাত বদল করার ফাঁদে পড়বেন না।"
+  ],
+  "example_sentences_in_english": [
+    "The shopkeeper cheated the customer by switching to inferior fruit.",
+    "Be careful not to fall for a bait and switch in the market."
+  ],
+  "usage_domain": [
+    "Commerce",
+    "Deception",
+    "Daily transactions"
+  ],
+  "tags": [
+    "Cheating",
+    "Trade",
+    "Fraud",
+    "Market"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali trading practices where sleight of hand was used in markets."
+}

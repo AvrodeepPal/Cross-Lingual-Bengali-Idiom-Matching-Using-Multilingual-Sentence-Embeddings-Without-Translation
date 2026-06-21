@@ -1,0 +1,40 @@
+{
+  "id": "3423",
+  "idiom": "ঘর জোড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘরকে জোড়া বা পূর্ণ করা (house joining or completing)",
+  "figurative_meaning_bn": "শূন্যগৃহ পূর্ণ করা",
+  "figurative_meaning_en": "Filling an empty house or bringing completeness to a barren home",
+  "similar_in_english": [
+    "Making a house a home",
+    "Settling down as newlyweds"
+  ],
+  "example_sentences_in_bangla": [
+    "নতুন বৌ এসে ঘর জোড়া করেছে।",
+    "ভাইয়ের বিয়ের পর ঘর জোড়া হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The new bride has filled the empty house.",
+    "After my brother's wedding, the home feels complete."
+  ],
+  "usage_domain": [
+    "Family",
+    "Marriage",
+    "Household"
+  ],
+  "tags": [
+    "marriage",
+    "family",
+    "home",
+    "positivity",
+    "tradition"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of marriage revitalizing a family home in traditional Bengali society."
+}

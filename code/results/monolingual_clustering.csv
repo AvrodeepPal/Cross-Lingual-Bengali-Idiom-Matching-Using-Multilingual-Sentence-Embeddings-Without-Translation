@@ -1,0 +1,5 @@
+model,lang_pair,silhouette
+mSBERT,bn,-0.02
+LaBSE,bn,0.0338
+XLM-R,bn,-0.0509
+BanglaBERT,bn,-0.035

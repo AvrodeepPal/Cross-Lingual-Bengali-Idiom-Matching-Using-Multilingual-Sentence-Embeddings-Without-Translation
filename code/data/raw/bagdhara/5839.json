@@ -1,0 +1,43 @@
+{
+  "id": "5839",
+  "idiom": "দীর্ঘশ্বাস",
+  "alternative_idioms": [
+    "দীর্ঘনিশ্বাস"
+  ],
+  "literal_meaning": "দীর্ঘ (long) + শ্বাস (breath); a prolonged breath",
+  "figurative_meaning_bn": "শোক-দুঃখাদিসূচক গভীর ও প্রবল শ্বাসত্যাগ",
+  "figurative_meaning_en": "A deep and intense sigh indicating sorrow and grief",
+  "similar_in_english": [
+    "Heave a sigh",
+    "Let out a deep sigh"
+  ],
+  "example_sentences_in_bangla": [
+    "বিপদের মুখে সে দীর্ঘশ্বাস ফেলল।",
+    "স্মৃতির ঢেউ তাকে দীর্ঘশ্বাস ছাড়াতে বাধ্য করল।"
+  ],
+  "example_sentences_in_english": [
+    "In the face of adversity, he let out a deep sigh.",
+    "The wave of memories forced her to heave a sigh."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Literature",
+    "Daily conversation"
+  ],
+  "tags": [
+    "Sigh",
+    "Sorrow",
+    "Grief",
+    "Expression of sadness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References a poetic expression from 'প্রবচন': 'নদীর এপার কহে ছাড়িয়া নিঃশ্বাস ওপারেতে সর্বসুখ আমার বিশ্বাস। নদীর ওপার বসি দীর্ঘশ্বাস ছাড়ে; কহে, যাহা কিছু সুখ সকলি ওপারে'."
+  ],
+  "note": "The idiom is a noun form used to denote an act of sighing in distress, common in Bengali literary and poetic contexts."
+}

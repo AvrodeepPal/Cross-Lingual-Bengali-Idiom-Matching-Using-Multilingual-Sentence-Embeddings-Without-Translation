@@ -1,0 +1,38 @@
+{
+  "id": "2154",
+  "idiom": "কালি দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কালি লাগানো বা কালো করা",
+  "figurative_meaning_bn": "কলঙ্ক লেপন করা",
+  "figurative_meaning_en": "To tarnish or defame someone's reputation",
+  "similar_in_english": [
+    "To blacken one's name",
+    "To cast a slur"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চরিত্রে কালি দিয়ে সে নিজের লাভ করতে চায়।",
+    "সমাজে তার নামে কালি দেওয়া হয়েছে গুজবের কারণে।"
+  ],
+  "example_sentences_in_english": [
+    "He is trying to blacken her character for his own gain.",
+    "Her name has been tarnished in society due to rumors."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Gossip",
+    "Politics"
+  ],
+  "tags": [
+    "Defamation",
+    "Reputation",
+    "Negative portrayal"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the cultural emphasis on honor and reputation in Bengali society."
+}

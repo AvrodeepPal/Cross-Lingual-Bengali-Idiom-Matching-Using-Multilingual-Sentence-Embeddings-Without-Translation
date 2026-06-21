@@ -1,0 +1,38 @@
+{
+  "id": "3765",
+  "idiom": "চলে আসা",
+  "alternative_idioms": [],
+  "literal_meaning": "চলা এবং আসা (going and coming)",
+  "figurative_meaning_bn": "স্থান পরিত্যাগ করা",
+  "figurative_meaning_en": "to leave or depart from a place",
+  "similar_in_english": [
+    "to take one's leave",
+    "to walk away"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার চাকরি থেকে চলে আসল।",
+    "বন্ধুরা পার্টি থেকে চলে এসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He left his job.",
+    "The friends have left the party."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "farewells",
+    "travel"
+  ],
+  "tags": [
+    "departure",
+    "movement",
+    "separation"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a basic verbal idiom used in colloquial Bengali for indicating departure."
+}

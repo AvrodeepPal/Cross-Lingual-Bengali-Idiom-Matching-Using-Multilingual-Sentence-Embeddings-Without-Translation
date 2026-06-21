@@ -1,0 +1,39 @@
+{
+  "id": "3308",
+  "idiom": "গো-গর্ধভ",
+  "alternative_idioms": [],
+  "literal_meaning": "গোরু এবং গর্দভ (cow and donkey)",
+  "figurative_meaning_bn": "নিরেট বোকা, মহামূর্খ",
+  "figurative_meaning_en": "utter fool, complete idiot",
+  "similar_in_english": [
+    "dumb as a post",
+    "thick as a brick"
+  ],
+  "example_sentences_in_bangla": [
+    "সে গো-গর্ধভের মতো বোকা, কিছুই বোঝে না।",
+    "এই গো-গর্ধভটি ভুলটি বারবার করে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "He is as stupid as a cow-donkey and understands nothing.",
+    "This complete idiot keeps making the same mistake."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insults"
+  ],
+  "tags": [
+    "stupidity",
+    "animals",
+    "derogatory"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom likely originates from rural Bengali folklore, referring to the impossibility of a cow-donkey hybrid, symbolizing innate stupidity."
+  ],
+  "note": "Common in spoken Bengali to mock foolishness, drawing from agricultural life."
+}

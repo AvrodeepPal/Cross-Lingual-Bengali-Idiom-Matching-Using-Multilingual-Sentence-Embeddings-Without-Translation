@@ -1,0 +1,41 @@
+{
+  "id": "329",
+  "idiom": "আঁদাড়-পাঁদাড়",
+  "alternative_idioms": [],
+  "literal_meaning": "আবর্জনা ও ময়লা-ঘেরা অগোছালো স্থান (আঁদাড়-পাঁদাড়: ময়লা-আবর্জনার শব্দানুকরণ বা বর্ণনা)",
+  "figurative_meaning_bn": "আবর্জনা ভর্তি স্থান, আস্তাকুঁড়",
+  "figurative_meaning_en": "A place filled with rubbish, a shanty or slum",
+  "similar_in_english": [
+    "pigsty",
+    "dump",
+    "slum"
+  ],
+  "example_sentences_in_bangla": [
+    "আঁদাড়-পাঁদাড় পেরিয়ে বাড়ি ঢুকলাম।",
+    "গ্রামের প্রান্তে একটা আঁদাড়-পাঁদাড় জমে আছে, সেখানে যাওয়া উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "I entered the house after passing through the rubbish-filled area.",
+    "There's a slum-like dump at the edge of the village; it's not advisable to go there."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "descriptive",
+    "everyday language"
+  ],
+  "tags": [
+    "dirt",
+    "poverty",
+    "place",
+    "urban decay",
+    "rural mess"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures the sensory experience of navigating cluttered, unclean spaces common in Bengali rural or semi-urban settings."
+}

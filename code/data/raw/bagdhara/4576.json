@@ -1,0 +1,40 @@
+{
+  "id": "4576",
+  "idiom": "জল্পনা-কল্পনা",
+  "alternative_idioms": [
+    "আলাপ-আলোচনা"
+  ],
+  "literal_meaning": "অলস কথাবার্তা এবং কল্পনা",
+  "figurative_meaning_bn": "পরামর্শ ও অনুমান",
+  "figurative_meaning_en": "discussion and speculation",
+  "similar_in_english": [
+    "idle chatter and guesswork",
+    "talk and conjecture"
+  ],
+  "example_sentences_in_bangla": [
+    "সব জল্পনা-কল্পনা বন্ধ করে কাজে লেগে পড়ো।",
+    "তাদের জল্পনা-কল্পনা শুনে কোনো সিদ্ধান্ত নেওয়া যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "Stop all this discussion and speculation and get to work.",
+    "No decision can be made based on their idle talk and conjectures."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature",
+    "debate"
+  ],
+  "tags": [
+    "synonym pair",
+    "verbal exchange",
+    "speculative talk"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a compound idiom functioning as a synonymous pair, often used to dismiss unproductive talk."
+}

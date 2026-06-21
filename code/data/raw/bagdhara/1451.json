@@ -1,0 +1,38 @@
+{
+  "id": "1451",
+  "idiom": "কথা বেচে খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা বিক্রি করে খাওয়া বা জীবিকা নির্বাহ করা",
+  "figurative_meaning_bn": "কথার বিনিময়ে অর্থোপার্জন করা; দালালি করা",
+  "figurative_meaning_en": "Earning money in exchange for words; engaging in brokerage or advocacy",
+  "similar_in_english": [
+    "live by one's tongue",
+    "earn a living through persuasion"
+  ],
+  "example_sentences_in_bangla": [
+    "উকিলরা কথা বেচে খান।",
+    "সে শুধু কথা বেচে খেয়ে থাকে, কোনো শারীরিক পরিশ্রম করে না।"
+  ],
+  "example_sentences_in_english": [
+    "Lawyers earn their living by selling words.",
+    "He just lives off his talk, without any physical labor."
+  ],
+  "usage_domain": [
+    "profession",
+    "business",
+    "law"
+  ],
+  "tags": [
+    "দালালি",
+    "উকিল",
+    "ব্যবসা"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "এই বাগধারা প্রায়শই পেশাদার কথাবার্তার বিনিময়ে জীবিকা অর্জনকারীদের বর্ণনা করে।"
+}

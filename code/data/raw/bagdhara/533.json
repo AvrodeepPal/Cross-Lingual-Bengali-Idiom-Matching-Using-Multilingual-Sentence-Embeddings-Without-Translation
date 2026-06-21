@@ -1,0 +1,40 @@
+{
+  "id": "533",
+  "idiom": "আন-তাবড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "এলোমেলোভাবে ছুঁড়ে ফেলা বা ছড়ানো (যেমন ছোট পাথর ফেলা)",
+  "figurative_meaning_bn": "এলোমেলো; আন্দাজে",
+  "figurative_meaning_en": "haphazardly; by guesswork or approximation",
+  "similar_in_english": [
+    "at random",
+    "haphazardly",
+    "hit or miss"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আন-তাবড়ি কাজ করে, কোনো পরিকল্পনা ছাড়াই।",
+    "পরীক্ষায় আন-তাবড়ি উত্তর লিখে ফেলেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He works haphazardly, without any planning.",
+    "He wrote answers at random in the exam."
+  ],
+  "usage_domain": [
+    "casual conversation",
+    "everyday language",
+    "informal writing"
+  ],
+  "tags": [
+    "idiom",
+    "adverbial expression",
+    "informal",
+    "descriptive"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from rural imagery of throwing stones without aim, common in colloquial Bengali."
+}

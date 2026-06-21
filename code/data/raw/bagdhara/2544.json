@@ -1,0 +1,37 @@
+{
+  "id": "2544",
+  "idiom": "খসা",
+  "alternative_idioms": [],
+  "literal_meaning": "পড়ে যাওয়া বা খসে পড়া",
+  "figurative_meaning_bn": "নির্গত হওয়া",
+  "figurative_meaning_en": "to slip out or be uttered inadvertently",
+  "similar_in_english": [
+    "slip of the tongue",
+    "let the cat out of the bag"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মুখ থেকে রহস্যটি খসে গেল।",
+    "একবার কথা খসলেই সব শেষ।"
+  ],
+  "example_sentences_in_english": [
+    "The secret slipped from his mouth.",
+    "Once the words slip out, it's all over."
+  ],
+  "usage_domain": [
+    "conversational",
+    "verbal expression"
+  ],
+  "tags": [
+    "speech",
+    "unintentional utterance",
+    "expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to words or secrets unintentionally escaping from the mouth, common in everyday Bengali speech."
+}

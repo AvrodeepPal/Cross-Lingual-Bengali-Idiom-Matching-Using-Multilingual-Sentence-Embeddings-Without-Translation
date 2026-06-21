@@ -1,0 +1,41 @@
+{
+  "id": "7484",
+  "idiom": "বাঘের মাসি",
+  "alternative_idioms": [],
+  "literal_meaning": "বাঘের মাসি (tiger's maternal aunt)",
+  "figurative_meaning_bn": "কেউ আসতে দেরী করলে এই বাগধারা ব্যবহার করা হয়",
+  "figurative_meaning_en": "Used to refer to someone who arrives extremely late or after a very long delay",
+  "similar_in_english": [
+    "Better late than never",
+    "The early bird catches the worm (opposite implication)"
+  ],
+  "example_sentences_in_bangla": [
+    "এতক্ষণে বাঘের মাসি এলেন!",
+    "পার্টিতে সবাই অপেক্ষা করছে, বাঘের মাসির মতো দেরি হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "Finally, the tiger's aunt has arrived!",
+    "Everyone's waiting at the party; it's like waiting for the tiger's aunt."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Humor",
+    "Folklore references"
+  ],
+  "tags": [
+    "delay",
+    "lateness",
+    "humor",
+    "animal metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "In Bengali folklore, the cat left the tiger's presence saying 'আসি' (I'll come back soon) but never returned, symbolizing an endless delay."
+  ],
+  "note": "This idiom draws from a traditional folk tale involving animals, emphasizing prolonged absence."
+}

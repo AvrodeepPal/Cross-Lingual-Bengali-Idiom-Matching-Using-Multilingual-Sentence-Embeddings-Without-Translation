@@ -1,0 +1,37 @@
+{
+  "id": "1462",
+  "idiom": "কথায় কথায়",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা বলতে বলতে (দ্বিত্বশব্দ)",
+  "figurative_meaning_bn": "অন্যমনস্কভাবে ভাবার্থে দ্বিত্বশব্দ",
+  "figurative_meaning_en": "A reduplicated expression indicating absent-mindedness or doing something without realizing while talking",
+  "similar_in_english": [
+    "before you know it",
+    "lost in conversation"
+  ],
+  "example_sentences_in_bangla": [
+    "কথায় কথায় এতদূর চলে এলাম।",
+    "কথায় কথায় সন্ধ্যা হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "I came this far without realizing while chatting away.",
+    "Evening fell before I knew it while talking."
+  ],
+  "usage_domain": [
+    "casual conversation",
+    "daily life"
+  ],
+  "tags": [
+    "reduplication",
+    "absent-mindedness",
+    "informal speech"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a common reduplicative idiom in Bengali for expressing unintended progression during conversation."
+}

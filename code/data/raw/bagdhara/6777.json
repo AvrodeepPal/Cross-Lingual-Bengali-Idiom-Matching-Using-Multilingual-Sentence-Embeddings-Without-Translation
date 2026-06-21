@@ -1,0 +1,41 @@
+{
+  "id": "6777",
+  "idiom": "পাটকিলে",
+  "alternative_idioms": [
+    "পাটকেল",
+    "পাটকিল"
+  ],
+  "literal_meaning": "ইটের ধুলোর মতো রঙিন",
+  "figurative_meaning_bn": "ইটের রঙযুক্ত",
+  "figurative_meaning_en": "Having the color of brick (reddish-brown)",
+  "similar_in_english": [
+    "Brick red",
+    "Terracotta"
+  ],
+  "example_sentences_in_bangla": [
+    "তার নতুন শাড়িটি পাটকিলে রঙের।",
+    "ঘোড়াটির লোম পাটকিলে ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "Her new saree is brick-colored.",
+    "The horse had a brick-red coat."
+  ],
+  "usage_domain": [
+    "Color description",
+    "Fashion",
+    "Animal description"
+  ],
+  "tags": [
+    "রঙ",
+    "বর্ণনামূলক",
+    "সাধারণ"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom derives from the natural color of brick dust in traditional Bengali construction and dyeing practices."
+}

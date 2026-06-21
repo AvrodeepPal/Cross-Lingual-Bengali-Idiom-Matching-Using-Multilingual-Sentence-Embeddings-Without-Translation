@@ -1,0 +1,41 @@
+{
+  "id": "887",
+  "idiom": "এঁটে ওঠা",
+  "alternative_idioms": [],
+  "literal_meaning": "এঁটে (সাঁটিয়ে বা লেগে) উঠা (দাঁড়ানো বা সমান হওয়া)",
+  "figurative_meaning_bn": "পেরে ওঠা; সামলে ওঠা; সমকক্ষ হওয়া; সমানে পাল্লা নিতে পারা",
+  "figurative_meaning_en": "to cope or manage; to hold one's own; to be on par; to compete equally",
+  "similar_in_english": [
+    "hold one's own",
+    "measure up",
+    "keep up with",
+    "stand a chance"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি ওর সাথে এঁটে উঠতে পারবে না।",
+    "এই কাজে সে একদম এঁটে উঠছে না।"
+  ],
+  "example_sentences_in_english": [
+    "You won't be able to hold your own against him.",
+    "He's not measuring up to this task at all."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "competition",
+    "personal ability"
+  ],
+  "tags": [
+    "competition",
+    "equality",
+    "challenge",
+    "capability"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies inability to match an opponent's strength, possibly originating from physical contests like wrestling in rural settings."
+}

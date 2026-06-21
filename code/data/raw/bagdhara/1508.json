@@ -1,0 +1,39 @@
+{
+  "id": "1508",
+  "idiom": "কথাশিল্প",
+  "alternative_idioms": [],
+  "literal_meaning": "কথার শিল্প (art of words or stories)",
+  "figurative_meaning_bn": "গদ্যে লিখিত গল্প, উপন্যাস ইত্যাদি সাহিত্য",
+  "figurative_meaning_en": "Prose literature such as stories, novels, and similar writings",
+  "similar_in_english": [
+    "prose fiction",
+    "belles-lettres"
+  ],
+  "example_sentences_in_bangla": [
+    "বাংলা কথাশিল্পের উন্নয়ন ১৯শ শতাব্দীতে শুরু হয়।",
+    "তার প্রিয় কথাশিল্পের বইগুলো সংগ্রহ করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The development of Bengali prose literature began in the 19th century.",
+    "He has collected his favorite books of prose literature."
+  ],
+  "usage_domain": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "tags": [
+    "সাহিত্য",
+    "গদ্য",
+    "উপন্যাস",
+    "গল্প"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is a literary term rather than a traditional idiomatic expression, commonly used in discussions of Bengali literature."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6097",
+  "idiom": "ধুয়া তোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "ধোঁয়া তোলা (to raise smoke)",
+  "figurative_meaning_bn": "ছল করা, এক কথা বার বার বলা",
+  "figurative_meaning_en": "To deceive or create confusion by repeating the same thing",
+  "similar_in_english": [
+    "Create a smokescreen",
+    "Beat around the bush"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ধুয়া তুলে সত্যটা লুকিয়ে রাখল।",
+    "রাজনীতিবিদরা ভোটারদের ধুয়া তুলে মিথ্যা প্রতিশ্রুতি দিচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He created smoke to hide the truth.",
+    "Politicians are creating smoke with false promises to voters."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Everyday conversation",
+    "Deception"
+  ],
+  "tags": [
+    "deception",
+    "confusion",
+    "repetition",
+    "smokescreen"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the literal act of creating smoke to obscure vision, metaphorically used for misleading others."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1256",
+  "idiom": "ওয়াকালতনামা",
+  "alternative_idioms": [],
+  "literal_meaning": "উকিলের ক্ষমতাপ্রদানকারী দলিল",
+  "figurative_meaning_bn": "উকীলের পূর্ণক্ষমতাসূচক পত্র",
+  "figurative_meaning_en": "A document granting full authority to a lawyer",
+  "similar_in_english": [
+    "Power of attorney"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সম্পত্তির ব্যবস্থাপনার জন্য সে ওয়াকালতনামা দিয়েছেন তার ভাইকে।",
+    "আদালতে উপস্থিতি না দিতে পারলে ওয়াকালতনামা দিয়ে উকিলকে কাজ চালানো যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He granted power of attorney to his brother for managing his property.",
+    "If you can't appear in court, you can proceed through a lawyer with a power of attorney."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Formal documents"
+  ],
+  "tags": [
+    "authority",
+    "legal term",
+    "document"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is primarily a legal term rather than a figurative idiom, rooted in colonial-era legal practices in Bengal."
+}

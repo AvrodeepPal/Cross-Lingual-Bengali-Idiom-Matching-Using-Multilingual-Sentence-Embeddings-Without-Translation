@@ -1,0 +1,37 @@
+{
+  "id": "3861",
+  "idiom": "চার্জ",
+  "alternative_idioms": [],
+  "literal_meaning": "দায়িত্ব বা তত্ত্বাবধান",
+  "figurative_meaning_bn": "দায়িত্ব",
+  "figurative_meaning_en": "responsibility or duty",
+  "similar_in_english": [
+    "in your charge",
+    "under your care"
+  ],
+  "example_sentences_in_bangla": [
+    "এই প্রকল্পটা তোমার চার্জে দেওয়া হয়েছে।",
+    "বাচ্চাটা আমার চার্জে আছে।"
+  ],
+  "example_sentences_in_english": [
+    "This project has been put in your charge.",
+    "The child is in my charge."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "professional"
+  ],
+  "tags": [
+    "responsibility",
+    "duty",
+    "loanword"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is a modern borrowing from English 'charge', commonly used in Bengali for responsibility contexts."
+}

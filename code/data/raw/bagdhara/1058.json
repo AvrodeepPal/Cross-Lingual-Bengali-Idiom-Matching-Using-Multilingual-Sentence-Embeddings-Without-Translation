@@ -1,0 +1,41 @@
+{
+  "id": "1058",
+  "idiom": "একপেশে",
+  "alternative_idioms": [
+    "একপেশো"
+  ],
+  "literal_meaning": "এক পাশে ঝোঁকা",
+  "figurative_meaning_bn": "একপাশে ঝোঁকা",
+  "figurative_meaning_en": "biased or leaning towards one side",
+  "similar_in_english": [
+    "biased",
+    "one-sided",
+    "partial"
+  ],
+  "example_sentences_in_bangla": [
+    "তার রায় একপেশে হয়েছে।",
+    "এই খবরটি একপেশে।"
+  ],
+  "example_sentences_in_english": [
+    "His judgment is biased.",
+    "This news is one-sided."
+  ],
+  "usage_domain": [
+    "opinions",
+    "politics",
+    "judgment"
+  ],
+  "tags": [
+    "bias",
+    "partiality",
+    "prejudice"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variant spelling reflects regional pronunciation differences."
+}

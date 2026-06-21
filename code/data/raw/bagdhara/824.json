@@ -1,0 +1,40 @@
+{
+  "id": "824",
+  "idiom": "উপরচাল",
+  "alternative_idioms": [],
+  "literal_meaning": "উপরের চাল (superior move or trick)",
+  "figurative_meaning_bn": "অতিরিক্ত চালাকি, চতুর প্রতিপক্ষকে জব্দ করার মত পাল্টা চাতুরী",
+  "figurative_meaning_en": "Excessive cleverness, counter-cleverness to outwit and subdue a clever opponent",
+  "similar_in_english": [
+    "one-upmanship",
+    "outsmarting",
+    "playing one better"
+  ],
+  "example_sentences_in_bangla": [
+    "সে উপরচাল করে আমার পরিকল্পনা নষ্ট করে দিল।",
+    "খেলায় তার উপরচাল আমাদের হারিয়ে দিল।"
+  ],
+  "example_sentences_in_english": [
+    "He used his upper hand to ruin my plan.",
+    "His counter-trick in the game led to our defeat."
+  ],
+  "usage_domain": [
+    "conversation",
+    "games",
+    "politics"
+  ],
+  "tags": [
+    "cleverness",
+    "trickery",
+    "competition",
+    "outwitting"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from game strategies like chess, emphasizing strategic superiority in Bengali vernacular"
+}

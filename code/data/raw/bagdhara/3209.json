@@ -1,0 +1,38 @@
+{
+  "id": "3209",
+  "idiom": "গিরগিটি",
+  "alternative_idioms": [],
+  "literal_meaning": "ছানা (chameleon)",
+  "figurative_meaning_bn": "অত্যন্ত কৃশ ও শীর্ণকায় ব্যক্তি",
+  "figurative_meaning_en": "An extremely thin and emaciated person",
+  "similar_in_english": [
+    "Skin and bones",
+    "Thin as a rail"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এতটাই কৃশ যে গিরগিটির মতো দেখায়।",
+    "ভাতের অভাবে তার শরীর গিরগিটির মতো শুকিয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is so thin that he looks like a chameleon.",
+    "Due to lack of food, his body has withered like a chameleon."
+  ],
+  "usage_domain": [
+    "Physical description",
+    "Colloquial expression"
+  ],
+  "tags": [
+    "thinness",
+    "emaciation",
+    "animal metaphor",
+    "body image"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from the slender, elongated body of the chameleon, common in Bengali rural folklore."
+}

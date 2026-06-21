@@ -1,0 +1,40 @@
+{
+  "id": "8214",
+  "idiom": "মড়াকান্না",
+  "alternative_idioms": [],
+  "literal_meaning": "মৃতদেহের জন্য কান্না (crying for the dead body)",
+  "figurative_meaning_bn": "উচ্চস্বরে শোকপ্রকাশ",
+  "figurative_meaning_en": "loud expression of grief",
+  "similar_in_english": [
+    "wail loudly",
+    "beat one's breast in sorrow"
+  ],
+  "example_sentences_in_bangla": [
+    "সকলে মিলে মড়াকান্না জুড়ে দিয়েছে।",
+    "বাড়িতে মড়াকান্নার শব্দ শুনে সবাই ছুটে এল।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone joined in loud wailing together.",
+    "The sound of wailing reached everyone's ears, and they all rushed over."
+  ],
+  "usage_domain": [
+    "emotions",
+    "grief",
+    "funerals"
+  ],
+  "tags": [
+    "sorrow",
+    "loud crying",
+    "funeral custom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to traditional Bengali funeral practices where mourners, especially women, express grief through loud collective wailing."
+  ],
+  "note": "Commonly used in contexts of death and mourning in Bengali society."
+}

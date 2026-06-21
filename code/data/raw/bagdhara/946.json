@@ -1,0 +1,38 @@
+{
+  "id": "946",
+  "idiom": "এক কাপড়ে বেরিয়ে পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি কাপড় পরে বের হয়ে পড়া",
+  "figurative_meaning_bn": "পরিধেয়বস্ত্র ছাড়া আর সব জিনিস রেখে যাত্রা করা",
+  "figurative_meaning_en": "To set out on a journey leaving everything behind except the clothes one is wearing",
+  "similar_in_english": [
+    "Travel light",
+    "Leave with nothing but the shirt on one's back"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দারিদ্র্যের কারণে সব ছেড়ে এক কাপড়ে বেরিয়ে পড়ল।",
+    "যুদ্ধের সময় অনেকে এক কাপড়ে বেরিয়ে পড়ে দেশ ছাড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "Due to poverty, he left everything and set out with just the clothes on his back.",
+    "During the war, many people fled the country with nothing but the clothes they were wearing."
+  ],
+  "usage_domain": [
+    "travel",
+    "migration",
+    "poverty"
+  ],
+  "tags": [
+    "journey",
+    "abandonment",
+    "simplicity"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects themes of sudden departure or hardship in Bengali folklore and literature."
+}

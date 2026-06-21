@@ -1,0 +1,42 @@
+{
+  "id": "7485",
+  "idiom": "বাংলা করে বলা",
+  "alternative_idioms": [
+    "বাঙলা",
+    "বাংলায় বলা"
+  ],
+  "literal_meaning": "বাংলা ভাষায় করে বলা",
+  "figurative_meaning_bn": "সোজা সরল ভাষায় বলা",
+  "figurative_meaning_en": "To speak in straightforward and simple language",
+  "similar_in_english": [
+    "Put it in plain English",
+    "Speak plainly"
+  ],
+  "example_sentences_in_bangla": [
+    "কী বলতে চাইছো বুঝতে পারছি না, একটু বাংলা করে বলো।",
+    "এই জটিল ব্যাপারটা বাংলা করে বললে সবাই বুঝবে।"
+  ],
+  "example_sentences_in_english": [
+    "I can't understand what you're trying to say, please put it in plain English.",
+    "If you explain this complicated matter in simple terms, everyone will get it."
+  ],
+  "usage_domain": [
+    "Conversation",
+    "Communication",
+    "Education"
+  ],
+  "tags": [
+    "Clarity",
+    "Simplicity",
+    "Language",
+    "Everyday Speech"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural emphasis on clear communication in Bengali-speaking regions, often used when someone uses overly complex or foreign-influenced language."
+}

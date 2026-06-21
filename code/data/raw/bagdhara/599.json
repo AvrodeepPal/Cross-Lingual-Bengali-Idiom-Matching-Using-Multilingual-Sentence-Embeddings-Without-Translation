@@ -1,0 +1,39 @@
+{
+  "id": "599",
+  "idiom": "আর একটু হলে",
+  "alternative_idioms": [],
+  "literal_meaning": "আরও একটুকরণে যদি ঘটত",
+  "figurative_meaning_bn": "বাড়াবাড়ি হলে; বিষয় গুরুতর হলে",
+  "figurative_meaning_en": "It would have been excessive; the matter would have become serious",
+  "similar_in_english": [
+    "That was close",
+    "By a hair's breadth",
+    "Almost happened"
+  ],
+  "example_sentences_in_bangla": [
+    "আর একটু হলে দুর্ঘটনা ঘটত।",
+    "আর একটু হলে আমরা হেরে যেতাম।"
+  ],
+  "example_sentences_in_english": [
+    "It was almost an accident.",
+    "We almost lost the game."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Narratives",
+    "Warnings"
+  ],
+  "tags": [
+    "near miss",
+    "close call",
+    "danger averted"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom expresses narrowly avoiding a negative outcome, common in spoken Bengali."
+}

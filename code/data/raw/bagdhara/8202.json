@@ -1,0 +1,40 @@
+{
+  "id": "8202",
+  "idiom": "মঙ্গলাচরণ",
+  "alternative_idioms": [
+    "পাটিপত্র"
+  ],
+  "literal_meaning": "মঙ্গল (auspicious) + আচরণ (conduct/ritual)",
+  "figurative_meaning_bn": "বাঙালি হিন্দু বিবাহের প্রথম বৈদিক আচার",
+  "figurative_meaning_en": "The first Vedic ritual in a Bengali Hindu marriage",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "বিয়ের অনুষ্ঠান শুরু হওয়ার আগে মঙ্গলাচরণ সম্পন্ন করা হলো।",
+    "পারিবারিক ঐতিহ্য অনুসারে মঙ্গলাচরণ ছাড়া বিবাহ অসম্পূর্ণ।"
+  ],
+  "example_sentences_in_english": [
+    "The mangalacharan was completed just before the wedding ceremony began.",
+    "According to family tradition, the marriage is incomplete without the mangalacharan."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Hindu Rituals",
+    "Ceremonies"
+  ],
+  "tags": [
+    "Vedic",
+    "Bengali Hindu",
+    "Wedding Ritual",
+    "Auspicious Beginning"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Mangalacharan originates from ancient Vedic traditions and is performed by a priest chanting mantras to seek divine blessings for the couple's union in Bengali Hindu weddings."
+  ],
+  "note": "This term is more of a ritualistic expression than a colloquial idiom, often used in formal cultural contexts."
+}

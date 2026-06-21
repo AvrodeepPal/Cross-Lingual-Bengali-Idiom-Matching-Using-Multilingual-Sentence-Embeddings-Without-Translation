@@ -1,0 +1,39 @@
+{
+  "id": "6006",
+  "idiom": "ধরতাই বুলি",
+  "alternative_idioms": [],
+  "literal_meaning": "ধরা বা ধরে নেওয়া কথা বা উক্তি",
+  "figurative_meaning_bn": "অন্যের কাছ থেকে জানা কথা; যে কথা সবাই জানে বা বলে; নতুনত্বহীন প্রচলিত বুলি বা চালু কথা",
+  "figurative_meaning_en": "Information or words known from others; a statement that everyone knows or repeats; a commonplace or conventional expression lacking originality",
+  "similar_in_english": [
+    "common knowledge",
+    "old hat",
+    "trite saying"
+  ],
+  "example_sentences_in_bangla": [
+    "এটা তো ধরতাই বুলি, কেউ নতুন করে বলার দরকার নেই।",
+    "সে ধরতাই বুলি বলে সবাইকে বোঝাতে চাইল, কিন্তু কেউ আগ্রহ দেখাল না।"
+  ],
+  "example_sentences_in_english": [
+    "That's just common knowledge; no one needs to explain it anew.",
+    "He tried to explain it as a trite saying, but no one was interested."
+  ],
+  "usage_domain": [
+    "conversational",
+    "literature",
+    "folklore"
+  ],
+  "tags": [
+    "proverbial",
+    "commonplace",
+    "everyday language"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the oral tradition in Bengali communication, emphasizing shared cultural knowledge."
+}

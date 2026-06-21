@@ -1,0 +1,39 @@
+{
+  "id": "9295",
+  "idiom": "লালবাতি জ্বালা",
+  "alternative_idioms": [],
+  "literal_meaning": "লাল আলো জ্বালানো",
+  "figurative_meaning_bn": "কারবার গুটানো",
+  "figurative_meaning_en": "to close down or wind up business",
+  "similar_in_english": [
+    "shut up shop",
+    "call it a day",
+    "throw in the towel"
+  ],
+  "example_sentences_in_bangla": [
+    "দোকানটা লালবাতি জ্বেলেছে, আর ব্যবসা বন্ধ করে দিয়েছে।",
+    "অর্থনৈতিক সংকটের কারণে কোম্পানিটি লালবাতি জ্বালিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The shop has lit the red light and closed down business.",
+    "Due to financial crisis, the company has shut up shop."
+  ],
+  "usage_domain": [
+    "business",
+    "commerce",
+    "daily life"
+  ],
+  "tags": [
+    "closure",
+    "business",
+    "urban expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "The idiom draws from the practice of shops using red lights to signal closure, common in urban Bengali settings."
+}

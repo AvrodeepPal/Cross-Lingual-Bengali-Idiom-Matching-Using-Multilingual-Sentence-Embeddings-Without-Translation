@@ -1,0 +1,42 @@
+{
+  "id": "3880",
+  "idiom": "চালবাজী",
+  "alternative_idioms": [
+    "চালিয়াতি"
+  ],
+  "literal_meaning": "চাল (কৌশল বা পদক্ষেপ) এর খেলা বা বাজি",
+  "figurative_meaning_bn": "ফন্দিবাজী; মিথ্যা বড়াই",
+  "figurative_meaning_en": "Cunning trickery; false boasting",
+  "similar_in_english": [
+    "Smoke and mirrors",
+    "All talk and no action",
+    "Putting on airs"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় চালবাজী করে লোকদের ঠকায়।",
+    "তার চালিয়াতিতে কেউ বিশ্বাস করে না।"
+  ],
+  "example_sentences_in_english": [
+    "He always engages in cunning trickery to deceive people.",
+    "No one believes his false boasting anymore."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Deception",
+    "Boasting"
+  ],
+  "tags": [
+    "deception",
+    "boasting",
+    "cunning",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the idea of strategic moves in games like chess, metaphorically extended to deceitful behavior in Bengali vernacular."
+}

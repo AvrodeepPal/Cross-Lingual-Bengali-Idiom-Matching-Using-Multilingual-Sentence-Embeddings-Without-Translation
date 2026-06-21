@@ -1,0 +1,41 @@
+{
+  "id": "457",
+  "idiom": "আঠা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁঠালের আঠালো রস বা আঠা (sticky sap from jackfruit)",
+  "figurative_meaning_bn": "ফাঁদ",
+  "figurative_meaning_en": "trap or snare",
+  "similar_in_english": [
+    "honey trap",
+    "pitfall"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ব্যবসায় আঠা পাতা হয়েছে, সাবধানে ঢোকো।",
+    "তার কথায় আঠা লেগে গেলাম, এখন বের হতে পারছি না।"
+  ],
+  "example_sentences_in_english": [
+    "This business is a trap, enter with caution.",
+    "I fell into his words like sticky glue, now I can't get out."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "warning",
+    "deception"
+  ],
+  "tags": [
+    "trap",
+    "snare",
+    "deceit",
+    "rural"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom derives from the traditional use of sticky sap extracted from the 'piriti kanthal' (a wild jackfruit variety) in rural Bengal to create bird traps, symbolizing entrapment."
+  ],
+  "note": "The idiom is rooted in agrarian practices where natural adhesives were used for hunting."
+}

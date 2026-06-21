@@ -1,0 +1,39 @@
+{
+  "id": "5772",
+  "idiom": "দানাপানি",
+  "alternative_idioms": [],
+  "literal_meaning": "দানা (অন্ন বা খাদ্যকণা) এবং পানি (জল)",
+  "figurative_meaning_bn": "অন্নজল; আহার ও পানীয়",
+  "figurative_meaning_en": "food and water; meal and drink",
+  "similar_in_english": [
+    "bread and water",
+    "food and drink"
+  ],
+  "example_sentences_in_bangla": [
+    "দানাপানিবাবদ খরচ একশ টাকা।",
+    "পেটে এখনো দানাপানি পড়েনি।"
+  ],
+  "example_sentences_in_english": [
+    "The expense for food and drink is one hundred taka.",
+    "I haven't had any food or water in my stomach yet."
+  ],
+  "usage_domain": [
+    "daily life",
+    "sustenance",
+    "hospitality"
+  ],
+  "tags": [
+    "food",
+    "drink",
+    "basic needs",
+    "colloquial"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to basic sustenance in everyday Bengali conversations, emphasizing simplicity and necessity."
+}

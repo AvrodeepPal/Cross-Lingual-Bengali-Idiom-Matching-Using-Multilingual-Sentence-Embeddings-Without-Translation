@@ -1,0 +1,39 @@
+{
+  "id": "3597",
+  "idiom": "ঘোড়দৌড় করানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘোড়দৌড় (horse race) করানো (to make run or conduct)",
+  "figurative_meaning_bn": "অত্যধিক দৌড়াদৌড়ি করিয়ে কাউকে হয়রান করা; নাকাল করা",
+  "figurative_meaning_en": "To harass or torment someone by making them run around excessively or deal with unnecessary hassle",
+  "similar_in_english": [
+    "run someone ragged",
+    "give someone the runaround"
+  ],
+  "example_sentences_in_bangla": [
+    "বসটি তার কর্মচারীদের ঘোড়দৌড় করাচ্ছে, কেউ শান্তিতে কাজ করতে পারছে না।",
+    "সরকারি অফিসে গিয়ে ঘোড়দৌড় করানো হয়েছে আমাকে।"
+  ],
+  "example_sentences_in_english": [
+    "The boss is running his employees ragged, no one can work in peace.",
+    "I was given the runaround at the government office."
+  ],
+  "usage_domain": [
+    "bureaucracy",
+    "workplace",
+    "government"
+  ],
+  "tags": [
+    "harassment",
+    "torment",
+    "excessive hassle",
+    "trouble"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday frustrations in administrative or authoritative contexts in Bengali culture."
+}

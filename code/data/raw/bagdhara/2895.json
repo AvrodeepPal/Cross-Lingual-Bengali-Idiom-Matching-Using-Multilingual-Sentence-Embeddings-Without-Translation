@@ -1,0 +1,44 @@
+{
+  "id": "2895",
+  "idiom": "গণ্ডগ্রাম",
+  "alternative_idioms": [
+    "অজগ্রাম",
+    "অজপাড়াগাঁ",
+    "পল্লীগ্রাম"
+  ],
+  "literal_meaning": "গণ্ড (দুর্গম স্থান বা গালের দিক) + গ্রাম (গ্রাম)",
+  "figurative_meaning_bn": "দুর্গম বা অজানা গ্রাম",
+  "figurative_meaning_en": "a remote or obscure village",
+  "similar_in_english": [
+    "in the middle of nowhere",
+    "the back of beyond",
+    "the boondocks"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি গণ্ডগ্রামে থাকেন, যেখানে কোনো সভ্যতার ছোঁয়া নেই।",
+    "এই গণ্ডগ্রাম থেকে শহরে যেতে দিনরাত লাগে।"
+  ],
+  "example_sentences_in_english": [
+    "He lives in a remote village where there's no touch of civilization.",
+    "It takes a day and night to reach the city from this obscure village."
+  ],
+  "usage_domain": [
+    "descriptive",
+    "geographical",
+    "rural life"
+  ],
+  "tags": [
+    "rural",
+    "remote",
+    "obscure",
+    "bengali idiom"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom evokes the isolation of rural Bengal, often used to describe places far from urban centers."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1886",
+  "idiom": "কাজীর বিচার",
+  "alternative_idioms": [],
+  "literal_meaning": "কাজীর (ইসলামী বিচারকের) বিচার",
+  "figurative_meaning_bn": "আধাআধি ভাগ করে সমস্যার সমাধান; তোমার অর্ধেক আমার অর্ধেক- মাঝামাঝি রফা",
+  "figurative_meaning_en": "Resolving a problem by splitting it halfway; half for you, half for me - settle midway",
+  "similar_in_english": [
+    "Meet halfway",
+    "Split the difference"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই ভাইয়ের সম্পত্তির বিভাজনে কাজীর বিচার করে সবাই সন্তুষ্ট হলো।",
+    "ঝগড়া মিটিয়ে কাজীর বিচারে মাঝামাঝি ভাগ করে নিলাম।"
+  ],
+  "example_sentences_in_english": [
+    "The two brothers settled their property dispute with a Kazi's judgment, splitting it evenly to everyone's satisfaction.",
+    "To end the argument, we did a Kazi's judgment and divided it halfway."
+  ],
+  "usage_domain": [
+    "Dispute resolution",
+    "Negotiation",
+    "Daily life"
+  ],
+  "tags": [
+    "compromise",
+    "fairness",
+    "division",
+    "traditional justice"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the traditional role of the Kazi (Qazi) in Bengali Muslim communities, where Islamic judges mediated disputes by suggesting equitable divisions, often in village settings during pre-colonial times."
+  ],
+  "note": "The idiom draws from Islamic judicial practices adapted in Bengali culture for fair settlements."
+}

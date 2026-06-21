@@ -1,0 +1,37 @@
+{
+  "id": "3230",
+  "idiom": "গুড়ি মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "গুড়ি (to roll or curl up) মারা (to do or strike)",
+  "figurative_meaning_bn": "ওত পেতে থাকা",
+  "figurative_meaning_en": "To lie in wait or ambush patiently",
+  "similar_in_english": [
+    "lying in wait",
+    "biding one's time"
+  ],
+  "example_sentences_in_bangla": [
+    "বিড়াল ইঁদুরের জন্য গুড়ি মেরে বসে আছে।",
+    "শিকারীরা জঙ্গলে গুড়ি মেরে শয়েনের অপেক্ষায় রয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The cat is curled up waiting for the mouse.",
+    "The hunters are lying in wait for the prey in the forest."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "waiting and patience"
+  ],
+  "tags": [
+    "ambush",
+    "patience",
+    "animal metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom draws from common observation of animal behavior in Bengali rural life."
+}

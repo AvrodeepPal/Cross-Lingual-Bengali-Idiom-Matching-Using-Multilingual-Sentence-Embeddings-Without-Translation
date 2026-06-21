@@ -1,0 +1,38 @@
+{
+  "id": "9490",
+  "idiom": "শুভরাত্রি",
+  "alternative_idioms": [],
+  "literal_meaning": "শুভ (auspicious) + রাত্রি (night)",
+  "figurative_meaning_bn": "দিনের শেষে 'রাত্রি মঙ্গলজনক হোক' এই শুভকামনাবিশেষ",
+  "figurative_meaning_en": "A special wish at the end of the day meaning 'May the night be auspicious'",
+  "similar_in_english": [
+    "Good night"
+  ],
+  "example_sentences_in_bangla": [
+    "শুভ রাত্রি, ভালো করে ঘুমাও।",
+    "কথা শেষ করে তিনি বললেন, শুভ রাত্রি।"
+  ],
+  "example_sentences_in_english": [
+    "Good night, sleep well.",
+    "After finishing the conversation, he said, good night."
+  ],
+  "usage_domain": [
+    "Greetings",
+    "Farewells",
+    "Daily conversation"
+  ],
+  "tags": [
+    "wish",
+    "courtesy",
+    "nighttime greeting",
+    "positive"
+  ],
+  "frequency": "very common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a standard polite farewell in Bengali, derived from Sanskrit roots but commonly used in everyday secular contexts."
+}

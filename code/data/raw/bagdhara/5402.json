@@ -1,0 +1,38 @@
+{
+  "id": "5402",
+  "idiom": "তাল পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পিঠে সশব্দে চাপড় বা আঘাত পড়া",
+  "figurative_meaning_bn": "পিঠে সশব্দে কিল পড়া",
+  "figurative_meaning_en": "To receive a resounding slap or punishment on the back",
+  "similar_in_english": [
+    "To get one's comeuppance",
+    "To pay the price"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় খারাপ ফল করলে তাল পড়বে।",
+    "ভুল করলে শিক্ষকের কাছে তাল পড়া অনিবার্য।"
+  ],
+  "example_sentences_in_english": [
+    "If you fail the exam, you'll get a slap on the back.",
+    "Making a mistake means facing punishment inevitably."
+  ],
+  "usage_domain": [
+    "education",
+    "discipline",
+    "consequences"
+  ],
+  "tags": [
+    "punishment",
+    "mistake",
+    "repercussion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional forms of corporal punishment in Bengali schooling or family discipline."
+}

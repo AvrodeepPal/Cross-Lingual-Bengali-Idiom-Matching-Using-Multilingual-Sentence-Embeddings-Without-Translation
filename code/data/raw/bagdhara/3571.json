@@ -1,0 +1,38 @@
+{
+  "id": "3571",
+  "idiom": "ঘুরঘুর করা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘুরে ঘুরে আনাগোনা করা",
+  "figurative_meaning_bn": "অভিসন্ধিমূলক আনাগোনা",
+  "figurative_meaning_en": "loitering or wandering with ulterior motives",
+  "similar_in_english": [
+    "loiter with intent",
+    "prowl around suspiciously"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কেন এখানে ঘুরঘুর করছে? কোনো খারাপ উদ্দেশ্য আছে নাকি?",
+    "বাইরে ঘুরঘুর করা বন্ধ করো, ভিতরে এসো।"
+  ],
+  "example_sentences_in_english": [
+    "Why is he loitering around here? Does he have some ulterior motive?",
+    "Stop wandering around outside and come inside."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "suspicion",
+    "daily conversation"
+  ],
+  "tags": [
+    "behavior",
+    "suspicion",
+    "ulterior motive"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali suspicion towards unusual lingering, common in social interactions."
+}

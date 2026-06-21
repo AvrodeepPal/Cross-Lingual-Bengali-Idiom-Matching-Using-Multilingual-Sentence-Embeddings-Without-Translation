@@ -1,0 +1,38 @@
+{
+  "id": "5817",
+  "idiom": "দিনভর",
+  "alternative_idioms": [],
+  "literal_meaning": "দিনের পূর্ণতা (দিন + ভর)",
+  "figurative_meaning_bn": "সারাদিন",
+  "figurative_meaning_en": "all day long",
+  "similar_in_english": [
+    "all day long",
+    "from dawn till dusk"
+  ],
+  "example_sentences_in_bangla": [
+    "দিনভর বৃষ্টি পড়লো।",
+    "সে দিনভর কাজ করলো।"
+  ],
+  "example_sentences_in_english": [
+    "It rained all day long.",
+    "He worked all day long."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "weather description",
+    "daily activities"
+  ],
+  "tags": [
+    "time duration",
+    "adverbial phrase",
+    "common expression"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a common adverbial phrase in Bengali, often used to indicate continuity throughout the day, rooted in everyday linguistic usage rather than a specific idiomatic origin."
+}

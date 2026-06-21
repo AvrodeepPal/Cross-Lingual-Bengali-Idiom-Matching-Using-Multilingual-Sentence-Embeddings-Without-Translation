@@ -1,0 +1,36 @@
+{
+  "id": "3845",
+  "idiom": "চারচাকা",
+  "alternative_idioms": [],
+  "literal_meaning": "চার চাকা",
+  "figurative_meaning_bn": "চারচাকার গাড়ী",
+  "figurative_meaning_en": "A four-wheeled vehicle (car)",
+  "similar_in_english": [
+    "wheels (slang for car)"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি চারচাকায় এসেছি।",
+    "তার নতুন চারচাকা কিনেছে।"
+  ],
+  "example_sentences_in_english": [
+    "I came by car.",
+    "He has bought a new car."
+  ],
+  "usage_domain": [
+    "transportation",
+    "daily conversation"
+  ],
+  "tags": [
+    "slang",
+    "vehicle",
+    "modern"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Colloquial term used in urban Bengali for automobiles, reflecting modern lifestyle."
+}

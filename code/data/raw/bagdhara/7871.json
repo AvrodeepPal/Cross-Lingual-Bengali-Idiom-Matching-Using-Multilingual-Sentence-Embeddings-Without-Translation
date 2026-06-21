@@ -1,0 +1,41 @@
+{
+  "id": "7871",
+  "idiom": "বেনোজল ঢুকিয়ে ঘরোজল বার করা",
+  "alternative_idioms": [],
+  "literal_meaning": "বাইরের জল ঢেলে ঘরের জল বের করা",
+  "figurative_meaning_bn": "বাইরের দূষিত বস্তু ঢুকিয়ে ঘরের সঞ্চিত বস্তু নষ্ট করা",
+  "figurative_meaning_en": "Introducing external impurities to spoil one's own accumulated resources",
+  "similar_in_english": [
+    "Foul one's own nest",
+    "Poison the well"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কোম্পানিতে বাইরের খারাপ লোক ঢুকিয়ে নিজের ব্যবসা নষ্ট করে ফেলল, বেনোজল ঢুকিয়ে ঘরোজল বার করার মতো।",
+    "পরিবারে বাইরের দুর্নীতি ঢোকাতে গিয়ে সব সম্পদ নষ্ট হয়ে গেল, এটা তো বেনোজল ঢুকিয়ে ঘরোজল বার করা।"
+  ],
+  "example_sentences_in_english": [
+    "By bringing in corrupt outsiders, he ruined his own business, just like pouring outside water to draw out the home-stored water.",
+    "Introducing external vices into the family led to the loss of all savings, akin to contaminating one's reserves with impurities."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Finance and resources",
+    "Family and society"
+  ],
+  "tags": [
+    "self-sabotage",
+    "contamination",
+    "resource management",
+    "warning"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from traditional Bengali rural practices where households carefully stored pure rainwater or well water in homes, separate from potentially contaminated outside sources, highlighting the risk of self-inflicted harm through poor judgment."
+  ],
+  "note": "Reflects agrarian caution against external influences in pre-modern Bengal."
+}

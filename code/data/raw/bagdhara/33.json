@@ -1,0 +1,39 @@
+{
+  "id": "33",
+  "idiom": "অক্ষরে অক্ষরে",
+  "alternative_idioms": [],
+  "literal_meaning": "অক্ষর অনুসারে অক্ষর; শব্দশঃ",
+  "figurative_meaning_bn": "কিছুমাত্র অন্যথা না করে; কোন ব্যতিক্রম না করে; যথাযথভাবে; সম্পূর্ণভাবে",
+  "figurative_meaning_en": "without any deviation; exactly as specified; to the letter; completely and precisely",
+  "similar_in_english": [
+    "to the letter",
+    "word for word",
+    "by the book"
+  ],
+  "example_sentences_in_bangla": [
+    "তার নির্দেশ আমি অক্ষরে অক্ষরে পালন করেছি।",
+    "চুক্তিটি অক্ষরে অক্ষরে মেনে চলতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "I followed his instructions to the letter.",
+    "The contract must be adhered to to the letter."
+  ],
+  "usage_domain": [
+    "formal communication",
+    "legal",
+    "obedience"
+  ],
+  "tags": [
+    "precision",
+    "exactness",
+    "formal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes strict adherence, commonly used in written or formal contexts in Bengali literature and daily formal speech."
+}

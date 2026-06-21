@@ -1,0 +1,42 @@
+{
+  "id": "2436",
+  "idiom": "ক্রোধানল",
+  "alternative_idioms": [
+    "ক্রোধবহ্নি"
+  ],
+  "literal_meaning": "ক্রোধের অগ্নি (anger's fire)",
+  "figurative_meaning_bn": "প্রচণ্ড রাগ",
+  "figurative_meaning_en": "intense anger or raging fury",
+  "similar_in_english": [
+    "burning with anger",
+    "fire in one's belly (for anger)",
+    "seeing red"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চোখে ক্রোধানল জ্বলছে।",
+    "সেই ঘটনায় তার মনে ক্রোধানল জ্বলে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "There was a fire of anger in his eyes.",
+    "The incident ignited a raging fury in his mind."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation",
+    "literature"
+  ],
+  "tags": [
+    "anger",
+    "metaphor",
+    "emotion",
+    "fire imagery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Both variants are poetic expressions using fire to symbolize intense emotion, common in Bengali literature."
+}

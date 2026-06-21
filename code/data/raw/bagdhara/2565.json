@@ -1,0 +1,40 @@
+{
+  "id": "2565",
+  "idiom": "খাওয়াপরা",
+  "alternative_idioms": [
+    "খোরপোশ"
+  ],
+  "literal_meaning": "খাওয়া এবং পরা (eating and wearing)",
+  "figurative_meaning_bn": "ভাতকাপড়; ভরণপোষণের দায়",
+  "figurative_meaning_en": "food and clothing; responsibility for sustenance and maintenance",
+  "similar_in_english": [
+    "bread and butter",
+    "daily bread"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি কারও খাওয়াপরার দায়িত্ব নিতে পারব না।",
+    "পরিবারের খাওয়াপরা নিয়ে সবসময় চিন্তা থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "I cannot take responsibility for anyone's food and clothing.",
+    "One always worries about the family's sustenance."
+  ],
+  "usage_domain": [
+    "family",
+    "economy",
+    "daily life"
+  ],
+  "tags": [
+    "sustenance",
+    "responsibility",
+    "livelihood"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali emphasis on familial provision and basic needs."
+}

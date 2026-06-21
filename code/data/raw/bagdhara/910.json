@@ -1,0 +1,40 @@
+{
+  "id": "910",
+  "idiom": "এক আকাশে দুই সূর্য",
+  "alternative_idioms": [
+    "এক বনে দুই বাঘ"
+  ],
+  "literal_meaning": "এক আকাশে দুই সূর্য",
+  "figurative_meaning_bn": "দুই প্রবল প্রতিদ্বন্দ্বীর সহ-অবস্থান, যা সম্ভব নয়",
+  "figurative_meaning_en": "The coexistence of two powerful rivals, which is impossible",
+  "similar_in_english": [
+    "Two tigers cannot live on the same mountain",
+    "Can't have two suns in the same sky"
+  ],
+  "example_sentences_in_bangla": [
+    "রাজনীতিতে এক আকাশে দুই সূর্য চলে না, দুই নেতা একসাথে থাকতে পারবে না।",
+    "ব্যবসায়ে এমন প্রতিযোগিতা হলে এক আকাশে দুই সূর্যের মতো অসম্ভব।"
+  ],
+  "example_sentences_in_english": [
+    "In politics, you can't have two suns in one sky; those two leaders can't coexist.",
+    "Such competition in business is like two suns in the sky—utterly impossible."
+  ],
+  "usage_domain": [
+    "rivalry",
+    "competition",
+    "leadership"
+  ],
+  "tags": [
+    "impossibility",
+    "proverb",
+    "conflict"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from natural observations of the sky, emphasizing natural impossibilities in human rivalries."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "916",
+  "idiom": "একেক",
+  "alternative_idioms": [
+    "এক-এক"
+  ],
+  "literal_meaning": "এক এক (প্রত্যেকটি আলাদা করে বা একের পর এক)",
+  "figurative_meaning_bn": "অনিয়মিত কোন-কোন অর্থে দ্বিত্বশব্দ",
+  "figurative_meaning_en": "Irregularly or occasionally; a reduplicative form indicating intermittency",
+  "similar_in_english": [
+    "every now and then",
+    "from time to time"
+  ],
+  "example_sentences_in_bangla": [
+    "একেক দিন কলে জল আসে না।",
+    "একেকবার মনে হয় যে সে আসবে।"
+  ],
+  "example_sentences_in_english": [
+    "Water doesn't come to the pond every day.",
+    "Sometimes it seems like he will come."
+  ],
+  "usage_domain": [
+    "daily life",
+    "conversational"
+  ],
+  "tags": [
+    "reduplication",
+    "irregularity",
+    "intermittency"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This is a common reduplicative structure in Bengali for expressing irregularity, rooted in everyday rural observations."
+}

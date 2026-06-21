@@ -1,0 +1,38 @@
+{
+  "id": "1287",
+  "idiom": "ঔষধ ধরা",
+  "alternative_idioms": [],
+  "literal_meaning": "medicine catching/holding",
+  "figurative_meaning_bn": "চক্রান্ত বা পরামর্শ সফল হওয়া",
+  "figurative_meaning_en": "a plot or advice becoming successful",
+  "similar_in_english": [
+    "the plan works out",
+    "the remedy takes effect"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পরামর্শ ঔষধ ধরা হয়েছে, সমস্যা সমাধান হয়ে গেছে।",
+    "চক্রান্তটি ঔষধ ধরা হলে সবাই অবাক হবে।"
+  ],
+  "example_sentences_in_english": [
+    "His advice has taken effect, and the problem is solved.",
+    "If the plot catches the medicine, everyone will be surprised."
+  ],
+  "usage_domain": [
+    "planning",
+    "conspiracy",
+    "advice"
+  ],
+  "tags": [
+    "success",
+    "plot",
+    "remedy"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom metaphorically refers to a medicine taking hold, implying efficacy in plans or schemes."
+}

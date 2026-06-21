@@ -1,0 +1,38 @@
+{
+  "id": "4679",
+  "idiom": "জিমখানা",
+  "alternative_idioms": [],
+  "literal_meaning": "gym house or place for physical exercises",
+  "figurative_meaning_bn": "খেলাধুলা ও ঘোড়দৌড়ের সুবিধাযুক্ত স্থান",
+  "figurative_meaning_en": "A place equipped for sports and horse racing",
+  "similar_in_english": [
+    "gymkhana"
+  ],
+  "example_sentences_in_bangla": [
+    "স্কুলের পাশে একটি জিমখানা তৈরি হয়েছে যেখানে ছেলেরা খেলাধুলা করে।",
+    "শহরের ক্লাবে জিমখানা আছে যেখানে ঘোড়দৌড়ের অনুশীলন হয়।"
+  ],
+  "example_sentences_in_english": [
+    "A gymkhana has been built next to the school where boys play sports.",
+    "The city club has a gymkhana where horse racing practice takes place."
+  ],
+  "usage_domain": [
+    "sports",
+    "recreation"
+  ],
+  "tags": [
+    "facility",
+    "athletics",
+    "equestrian"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "The term 'জিমখানা' (gymkhana) originated during British colonial rule in India, derived from 'gymnasium' and Persian 'khana' meaning house, initially referring to equestrian and athletic events organized by the British in the 19th century."
+  ],
+  "note": "This is a loanword rather than a purely figurative idiom, but commonly used in Bengali to denote sports venues with colonial connotations."
+}

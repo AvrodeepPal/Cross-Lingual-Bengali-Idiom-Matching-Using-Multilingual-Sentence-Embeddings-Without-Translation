@@ -1,0 +1,40 @@
+{
+  "id": "8932",
+  "idiom": "যবুথবু",
+  "alternative_idioms": [],
+  "literal_meaning": "যব-থবু (অনুকরণমূলক শব্দ যা হতবাক বা কাঁপা কাঁপা কথা বলার অবস্থা নির্দেশ করে)",
+  "figurative_meaning_bn": "কিংকর্তব্যবিমূঢ়; হতবুদ্ধি",
+  "figurative_meaning_en": "Perplexed and at a loss for what to do; stupefied or dumbfounded",
+  "similar_in_english": [
+    "Dumbstruck",
+    "At a loss for words",
+    "Frozen in fear"
+  ],
+  "example_sentences_in_bangla": [
+    "ভয়ে সে যবুথবু হয়ে গেল।",
+    "খবর শুনে সবাই যবুথবু।"
+  ],
+  "example_sentences_in_english": [
+    "He became yabuthabu in fear.",
+    "Everyone was dumbstruck upon hearing the news."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Daily conversation",
+    "Literature"
+  ],
+  "tags": [
+    "Fear",
+    "Confusion",
+    "Speechlessness",
+    "Onomatopoeic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is an onomatopoeic expression mimicking stammering or silence due to shock."
+}

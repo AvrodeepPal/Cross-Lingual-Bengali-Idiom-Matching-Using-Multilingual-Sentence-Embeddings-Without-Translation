@@ -1,0 +1,41 @@
+{
+  "id": "9372",
+  "idiom": "লোকশিক্ষা",
+  "alternative_idioms": [],
+  "literal_meaning": "লোকের শিক্ষা (people's education)",
+  "figurative_meaning_bn": "যাত্রা, কথকতা ইত্যাদির মাধ্যমে আপামর সর্বসাধারণের জন্য শিক্ষা",
+  "figurative_meaning_en": "Education for the common masses through folk mediums like theater, storytelling, etc.",
+  "similar_in_english": [
+    "popular education",
+    "community education"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে লোকশিক্ষা কর্মসূচির মাধ্যমে সকলে শিক্ষিত হচ্ছে।",
+    "লোকশিকা যাত্রা দল গিয়ে সর্বসাধারণকে সচেতন করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Folk education programs are helping villagers become literate.",
+    "The folk theater troupe educated the masses on social issues."
+  ],
+  "usage_domain": [
+    "education",
+    "culture",
+    "rural development"
+  ],
+  "tags": [
+    "folk",
+    "education",
+    "common people",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Rooted in traditional Bengali practices like jatra and kathkata, promoted during the Bengal Renaissance and independence era for mass awareness."
+  ],
+  "note": "This term functions more as a cultural concept than a strictly idiomatic expression."
+}

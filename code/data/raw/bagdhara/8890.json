@@ -1,0 +1,40 @@
+{
+  "id": "8890",
+  "idiom": "যখন তখন",
+  "alternative_idioms": [],
+  "literal_meaning": "যখন (when) তখন (then)",
+  "figurative_meaning_bn": "সময়-অসময় বিচার না করে; যখন ইচ্ছা হবে তখনই; যে কোনো সময়ে",
+  "figurative_meaning_en": "Without considering the time or occasion; whenever one feels like it; at any time",
+  "similar_in_english": [
+    "At the drop of a hat",
+    "Anytime",
+    "Whenever you want"
+  ],
+  "example_sentences_in_bangla": [
+    "সে যখন তখন বাড়ি ফেরে, কোনো নিয়ম মানে না।",
+    "যখন তখন খাবার খেয়ে নাও, পরে পচে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "He comes home whenever he wants, without any schedule.",
+    "Eat the food whenever you like, or it will spoil later."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Time management",
+    "Casual behavior"
+  ],
+  "tags": [
+    "time",
+    "informal",
+    "flexibility",
+    "indifference"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Comparable to Hindi 'waqt be waqt', reflecting a shared South Asian cultural nuance of temporal flexibility."
+}

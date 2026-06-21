@@ -1,0 +1,41 @@
+{
+  "id": "5619",
+  "idiom": "দগ্ধপত্রন্যায়",
+  "alternative_idioms": [],
+  "literal_meaning": "দগ্ধ পত্রের ন্যায় (burnt leaf's logic or justice)",
+  "figurative_meaning_bn": "পুড়ে গেলে পাতার অবয়ব একই থাকে কিন্তু পাতা বলে গ্রাহ্য হয় না",
+  "figurative_meaning_en": "A situation where something retains its external form after damage but is no longer valid or acceptable",
+  "similar_in_english": [
+    "Not worth the paper it's written on",
+    "A shadow of its former self"
+  ],
+  "example_sentences_in_bangla": [
+    "আগুনে পুড়ে যাওয়ার পর সেই দলিল দগ্ধপত্রন্যায় হয়ে গেল।",
+    "তার খ্যাতি নষ্ট হওয়ার পর সবাই তাকে দগ্ধপত্রন্যায়ের মতো দেখতে লাগল।"
+  ],
+  "example_sentences_in_english": [
+    "After the fire, that document became like a burnt leaf – invalid despite its shape.",
+    "Once his reputation was tarnished, everyone treated him as worthless, like a burnt leaf."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Philosophy",
+    "Everyday language"
+  ],
+  "tags": [
+    "damage",
+    "invalidation",
+    "logic",
+    "Nyaya"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Nyaya Shastra in Indian philosophy, used as an example of form without substance or validity after destruction."
+  ],
+  "note": "Rooted in classical Indian logical traditions, often applied to legal or moral invalidation."
+}

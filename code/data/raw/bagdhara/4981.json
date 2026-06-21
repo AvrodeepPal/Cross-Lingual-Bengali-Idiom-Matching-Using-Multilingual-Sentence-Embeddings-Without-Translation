@@ -1,0 +1,41 @@
+{
+  "id": "4981",
+  "idiom": "টেঁক",
+  "alternative_idioms": [
+    "ট্যাঁক"
+  ],
+  "literal_meaning": "টাকা রাখার জায়গা",
+  "figurative_meaning_bn": "টাকা রাখার জায়গা",
+  "figurative_meaning_en": "Place to keep money, such as a pocket or wallet",
+  "similar_in_english": [
+    "Pocket",
+    "Purse"
+  ],
+  "example_sentences_in_bangla": [
+    "পকেটমার টেঁক কেটে পয়সা মারে।",
+    "তার টেঁকে কয়েকটা নোট ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "The pickpocket cuts the pocket to steal money.",
+    "He had a few notes in his pocket."
+  ],
+  "usage_domain": [
+    "daily life",
+    "finance",
+    "crime"
+  ],
+  "tags": [
+    "money",
+    "pocket",
+    "theft",
+    "wallet"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "সমার্থক বাগধারা: গাঁট"
+}

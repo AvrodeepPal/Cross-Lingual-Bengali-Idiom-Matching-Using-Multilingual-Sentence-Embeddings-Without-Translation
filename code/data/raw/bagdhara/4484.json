@@ -1,0 +1,38 @@
+{
+  "id": "4484",
+  "idiom": "জনৈক",
+  "alternative_idioms": [],
+  "literal_meaning": "একজন ব্যক্তি",
+  "figurative_meaning_bn": "অনির্দিষ্ট কোনো একজন",
+  "figurative_meaning_en": "An unspecified or certain individual",
+  "similar_in_english": [
+    "a certain someone",
+    "one person"
+  ],
+  "example_sentences_in_bangla": [
+    "জনৈক লোক এসে বলল যে সভা বাতিল হয়েছে।",
+    "জনৈক ব্যক্তি তার নাম গোপন রেখে চিঠি পাঠিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "A certain person came and said the meeting was canceled.",
+    "An unspecified individual sent a letter without revealing their name."
+  ],
+  "usage_domain": [
+    "narrative",
+    "formal writing",
+    "general conversation"
+  ],
+  "tags": [
+    "indefinite person",
+    "formal",
+    "literary"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used in literary or formal contexts to refer to an anonymous person."
+}

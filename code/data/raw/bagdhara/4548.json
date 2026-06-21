@@ -1,0 +1,38 @@
+{
+  "id": "4548",
+  "idiom": "জলযাত্রা",
+  "alternative_idioms": [],
+  "literal_meaning": "জলপথে যাত্রা",
+  "figurative_meaning_bn": "জলপথে ভ্রমণ বা যাত্রা",
+  "figurative_meaning_en": "Journey or travel by water",
+  "similar_in_english": [
+    "voyage",
+    "sea journey"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি নদীপথে জলযাত্রা করে গ্রামে পৌঁছালেন।",
+    "জলযাত্রার সময় ঝড় উঠলে বিপদ হতে পারে।"
+  ],
+  "example_sentences_in_english": [
+    "He reached the village by undertaking a water journey along the river.",
+    "Danger may arise if a storm hits during the water journey."
+  ],
+  "usage_domain": [
+    "travel",
+    "transportation"
+  ],
+  "tags": [
+    "journey",
+    "water",
+    "travel",
+    "navigation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is commonly used in the context of Bengal's riverine geography and is more literal than highly figurative, though it evokes cultural associations with river travel."
+}

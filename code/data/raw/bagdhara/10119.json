@@ -1,0 +1,40 @@
+{
+  "id": "10119",
+  "idiom": "হাত ছোট",
+  "alternative_idioms": [
+    "হাতটান"
+  ],
+  "literal_meaning": "ছোট হাত (small hand)",
+  "figurative_meaning_bn": "কৃপণ",
+  "figurative_meaning_en": "Stingy or miserly",
+  "similar_in_english": [
+    "Tight-fisted",
+    "Penny-pincher"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খুব হাত ছোট, বন্ধুদের জন্য কিছু খরচ করতেই চায় না।",
+    "হাত ছোট হলে দানশীলতা আসে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is very small-handed and doesn't want to spend anything on his friends.",
+    "If one has small hands, generosity doesn't come easily."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "personality description",
+    "finance"
+  ],
+  "tags": [
+    "negative trait",
+    "greed",
+    "informal"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom metaphorically refers to someone who is unwilling to give or spend, as if their hands are too small to hold or release much."
+}

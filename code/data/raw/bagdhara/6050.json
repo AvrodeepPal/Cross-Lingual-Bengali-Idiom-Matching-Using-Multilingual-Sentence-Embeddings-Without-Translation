@@ -1,0 +1,41 @@
+{
+  "id": "6050",
+  "idiom": "ধাতস্থ",
+  "alternative_idioms": [],
+  "literal_meaning": "ধাতুতে স্থাপিত বা শারীরিক ধাতুর ভারসাম্যপূর্ণ অবস্থা",
+  "figurative_meaning_bn": "শান্ত, সুস্থ",
+  "figurative_meaning_en": "calm, composed, or recovered to normal state",
+  "similar_in_english": [
+    "back to one's senses",
+    "regain composure",
+    "pull oneself together"
+  ],
+  "example_sentences_in_bangla": [
+    "এতক্ষণে একটু ধাতস্থ হয়েছি।",
+    "আঘাতের পর সে ধাতস্থ হতে সময় নিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "I've finally regained my composure after the shock.",
+    "It took him time to recover and become composed after the accident."
+  ],
+  "usage_domain": [
+    "health",
+    "emotions",
+    "daily conversation"
+  ],
+  "tags": [
+    "ayurvedic origin",
+    "figurative",
+    "emotional recovery"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Ayurvedic terminology referring to the balance of bodily humors (dhatus), indicating restoration to health or mental equilibrium."
+  ],
+  "note": "This idiom reflects traditional Indian medical concepts integrated into Bengali language."
+}

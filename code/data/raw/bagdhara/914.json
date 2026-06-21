@@ -1,0 +1,41 @@
+{
+  "id": "914",
+  "idiom": "এক আধদিন",
+  "alternative_idioms": [
+    "এক আধবছর",
+    "এক আধবার"
+  ],
+  "literal_meaning": "একটি অর্ধেক দিন (one half day)",
+  "figurative_meaning_bn": "অনিয়মিত; অনির্দিষ্ট সময়; কদাচিৎ",
+  "figurative_meaning_en": "irregularly; at indefinite times; occasionally",
+  "similar_in_english": [
+    "once in a while",
+    "every now and then",
+    "from time to time"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এক আধদিন বাড়ি ফিরে আসে।",
+    "এক আধবার এমন ভুল হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He comes home once in a while.",
+    "Such mistakes happen every now and then."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "time and frequency"
+  ],
+  "tags": [
+    "irregularity",
+    "occasional",
+    "temporal expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects casual Bengali speech patterns for describing infrequent events."
+}

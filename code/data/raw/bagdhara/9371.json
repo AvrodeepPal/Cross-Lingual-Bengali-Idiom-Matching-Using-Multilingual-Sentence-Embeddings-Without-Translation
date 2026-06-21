@@ -1,0 +1,37 @@
+{
+  "id": "9371",
+  "idiom": "লোকলজ্জা",
+  "alternative_idioms": [],
+  "literal_meaning": "লোকের লজ্জা (people's shame)",
+  "figurative_meaning_bn": "জনসাধারণের কাছে লজ্জা, পাছে লোকে কিছু বলে",
+  "figurative_meaning_en": "Shame in front of the public, fear of what people might say",
+  "similar_in_english": [
+    "saving face",
+    "what will the neighbors think?"
+  ],
+  "example_sentences_in_bangla": [
+    "সে লোকলজ্জার ভয়ে বাড়ি থেকে বের হতে চায় না।",
+    "লোকলজ্জা করে কোনো কাজ করতে পারছি না।"
+  ],
+  "example_sentences_in_english": [
+    "He doesn't want to leave the house out of fear of public shame.",
+    "I can't do anything because of the fear of what people will say."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "family matters"
+  ],
+  "tags": [
+    "shame",
+    "public opinion",
+    "social pressure"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects Bengali emphasis on community judgment and social harmony"
+}

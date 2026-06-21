@@ -1,0 +1,41 @@
+{
+  "id": "2776",
+  "idiom": "খোলাকাটা বামুন",
+  "alternative_idioms": [
+    "যজমানী বামুন"
+  ],
+  "literal_meaning": "খোলা-কাটা করা ব্রাহ্মণ (যে প্রাণী বলি দিয়ে খোলে এবং কাটে)",
+  "figurative_meaning_bn": "পুরোহিতের পেশা যার ব্যবসা এমন বামুন",
+  "figurative_meaning_en": "A Brahmin whose profession or livelihood is priesthood or performing religious rituals",
+  "similar_in_english": [
+    "man of the cloth",
+    "professional priest"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের মন্দিরে খোলাকাটা বামুনের কাজ চলছে।",
+    "সে খোলাকাটা বামুন হয়ে পুরোহিতের দায়িত্ব পালন করে।"
+  ],
+  "example_sentences_in_english": [
+    "The temple in the village is busy with the work of a kholakata bamun.",
+    "He serves as a kholakata bamun, fulfilling priestly duties."
+  ],
+  "usage_domain": [
+    "religion",
+    "culture",
+    "daily conversation"
+  ],
+  "tags": [
+    "ব্রাহ্মণ",
+    "পুরোহিত",
+    "ধর্মীয় রীতি",
+    "বাঙালি সংস্কৃতি"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "এই বাগধারা বাঙালি হিন্দু সমাজের ব্রাহ্মণ্যবর্ণের পুরোহিতী ভূমিকাকে নির্দেশ করে, যেখানে বলি প্রথা ঐতিহ্যগতভাবে উল্লেখযোগ্য।"
+}

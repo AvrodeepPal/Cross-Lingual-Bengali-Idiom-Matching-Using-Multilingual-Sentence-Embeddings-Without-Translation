@@ -1,0 +1,41 @@
+{
+  "id": "6088",
+  "idiom": "ধুনা",
+  "alternative_idioms": [],
+  "literal_meaning": "ধনুকাকৃতি যন্ত্র দিয়ে তুলো পিঁজে পরিষ্কার করা",
+  "figurative_meaning_bn": "ধমক দেওয়া, শায়েস্তা করা",
+  "figurative_meaning_en": "to scold severely, to reprimand or thrash",
+  "similar_in_english": [
+    "give someone a dressing down",
+    "beat the daylights out of someone"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ তোকে ভালো করে ধুনে দেব।",
+    "সে তার ছেলেকে ধুনিয়ে শায়েস্তা করল।"
+  ],
+  "example_sentences_in_english": [
+    "Today, I'll really give you a good scolding.",
+    "She reprimanded her son by giving him a thorough thrashing."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "parenting",
+    "discipline"
+  ],
+  "tags": [
+    "scolding",
+    "reprimand",
+    "punishment",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom derives from the traditional rural practice of ginning cotton using a bow-shaped tool called a 'dhunka', which involves striking to separate fibers, metaphorically extended to beating or scolding."
+  ],
+  "note": "Rooted in agrarian Bengali life where cotton processing was common."
+}

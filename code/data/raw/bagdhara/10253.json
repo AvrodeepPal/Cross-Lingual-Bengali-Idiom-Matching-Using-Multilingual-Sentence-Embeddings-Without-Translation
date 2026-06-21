@@ -1,0 +1,38 @@
+{
+  "id": "10253",
+  "idiom": "হাফ গৃহস্থ",
+  "alternative_idioms": [],
+  "literal_meaning": "অর্ধেক গৃহস্থ",
+  "figurative_meaning_bn": "সংসার আছে অথচ সংসারে মন নেই",
+  "figurative_meaning_en": "Has a family but lacks interest or commitment to family life",
+  "similar_in_english": [
+    "One foot out the door",
+    "Married but not settled"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হাফ গৃহস্থ, সংসারে থেকেও সবসময় বাইরের দুনিয়ায় মন পড়ে।",
+    "এই হাফ গৃহস্থের জন্য পরিবারের কোনো ভালো হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a half householder; he has a family but his mind is always elsewhere.",
+    "Because of this half-hearted family man, the household suffers."
+  ],
+  "usage_domain": [
+    "family",
+    "marriage",
+    "relationships"
+  ],
+  "tags": [
+    "detachment",
+    "commitment",
+    "traditional values"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects traditional Bengali emphasis on full family involvement."
+}

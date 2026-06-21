@@ -1,0 +1,38 @@
+{
+  "id": "7103",
+  "idiom": "ফাঁড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পাখি বা প্রাণীর জন্য ফাঁদ বা খাপ",
+  "figurative_meaning_bn": "আকস্মিক বিপদের সম্ভাবনা",
+  "figurative_meaning_en": "Potential for sudden danger",
+  "similar_in_english": [
+    "Pitfall",
+    "Sword of Damocles"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সিদ্ধান্তে ফাঁড়া লুকিয়ে আছে, ভালো করে চিন্তা করো।",
+    "জীবনে অনেক ফাঁড়া এসেছে, কিন্তু আমি সব এড়িয়ে গেছি।"
+  ],
+  "example_sentences_in_english": [
+    "There's a pitfall hidden in this decision, think carefully.",
+    "Many pitfalls have come in life, but I've avoided them all."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Warnings and advice"
+  ],
+  "tags": [
+    "danger",
+    "trap",
+    "caution",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a literal snare or noose, metaphorically implying hidden risks in rural or traditional contexts."
+}

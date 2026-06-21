@@ -1,0 +1,36 @@
+{
+  "id": "300",
+  "idiom": "আইল্যাণ্ড",
+  "alternative_idioms": [],
+  "literal_meaning": "দ্বীপ (island)",
+  "figurative_meaning_bn": "যেকোন বিচ্ছিন্ন উঁচু জায়গা",
+  "figurative_meaning_en": "Any isolated high place",
+  "similar_in_english": [
+    "ivory tower"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের মাঝখানে সেই উঁচু টিলাটি একটি আইল্যাণ্ডের মতো বিচ্ছিন্ন।",
+    "শহরের বাইরে এই পরিত্যক্ত ভূমি এক আইল্যাণ্ড।"
+  ],
+  "example_sentences_in_english": [
+    "That tall hill in the middle of the village is like an island, completely isolated.",
+    "This abandoned land outside the city is an island of elevation."
+  ],
+  "usage_domain": [
+    "descriptive",
+    "geographical"
+  ],
+  "tags": [
+    "isolation",
+    "elevation",
+    "metaphor"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This appears to be a transliterated English word used metaphorically in Bengali for isolated elevated terrains."
+}

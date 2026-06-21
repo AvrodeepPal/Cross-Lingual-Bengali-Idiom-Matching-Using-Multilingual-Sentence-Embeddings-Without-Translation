@@ -1,0 +1,40 @@
+{
+  "id": "6131",
+  "idiom": "ধোপার পাট ঘরেরও না ঘাটেরও না",
+  "alternative_idioms": [],
+  "literal_meaning": "ধোপার (ধোয়ার) পাট (কাপড়) যা ঘরেরও নয় ঘাটেরও নয়",
+  "figurative_meaning_bn": "যে মানুষ সর্বত্র অনাদৃত",
+  "figurative_meaning_en": "A person who is unwelcome or unaccepted everywhere",
+  "similar_in_english": [
+    "neither here nor there",
+    "a square peg in a round hole"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ধোপার পাট ঘরেরও না ঘাটেরও না, কোথাও তার জায়গা হয় না।",
+    "এই প্রকল্পটি ধোপার পাটের মতো, কোনো দিক থেকেই গ্রহণযোগ্য নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is like the washerman's cloth, neither at home nor at the ghat; he's unwelcome everywhere.",
+    "This plan is neither fish nor fowl, just like the idiom suggests—unwanted in any context."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "everyday conversation"
+  ],
+  "tags": [
+    "rejection",
+    "unwelcome",
+    "social exclusion",
+    "proverbial disdain"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the Hindi proverb 'Dhobi ka paat na ghar ka na ghat ka', referring to a washerman's soiled cloth that is neither clean at home nor useful at the river ghat, symbolizing something or someone out of place everywhere."
+  ],
+  "note": "This idiom highlights traditional rural occupations like dhobi (washerman) and ghat (riverbank), common in Bengali and broader South Asian folklore."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7427",
+  "idiom": "বাঁশ দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বাঁশ দেওয়া (বাঁশ প্রদান করা)",
+  "figurative_meaning_bn": "অসুবিধায় ফেলা, ক্ষতি করা, বাগড়া দেওয়া",
+  "figurative_meaning_en": "To put someone in trouble, to cause harm, to obstruct or hinder",
+  "similar_in_english": [
+    "throw a wrench in the works",
+    "pull the rug out from under someone"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার পরিকল্পনায় বাঁশ দিয়েছে।",
+    "বন্ধুরা মিলে তাকে বাঁশ দিল।"
+  ],
+  "example_sentences_in_english": [
+    "He threw a wrench in my plans.",
+    "The friends ganged up to sabotage him."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "daily conversation",
+    "interpersonal conflicts"
+  ],
+  "tags": [
+    "negative",
+    "obstruction",
+    "harm",
+    "mischief"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom likely originates from the use of bamboo in rural traps or structures that can cause hindrance, reflecting everyday Bengali rural life."
+}

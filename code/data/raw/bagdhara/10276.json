@@ -1,0 +1,38 @@
+{
+  "id": "10276",
+  "idiom": "হামবাগ",
+  "alternative_idioms": [],
+  "literal_meaning": "অতিরঞ্জিত বা অতিরিক্ত কথাবার্তা",
+  "figurative_meaning_bn": "দমবাজ, প্রতারক",
+  "figurative_meaning_en": "Boastful person, bluffer, deceiver",
+  "similar_in_english": [
+    "All talk and no action",
+    "Blowhard",
+    "Full of hot air"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা হামবাগ, কথায় বড় বড় বলে কিন্তু কাজ করে না।",
+    "এই হামবাগের কথায় কেউ বিশ্বাস করে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real ham bag, always boasting but never delivering.",
+    "Don't believe his words; he's just a bluffer full of empty talk."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Social interactions"
+  ],
+  "tags": [
+    "boasting",
+    "deception",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from exaggerated speech patterns in Bengali vernacular, often used to describe insincere talkers."
+}

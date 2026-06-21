@@ -1,0 +1,40 @@
+{
+  "id": "7411",
+  "idiom": "বেঁকে বসা",
+  "alternative_idioms": [
+    "বাঁকিয়া বসা"
+  ],
+  "literal_meaning": "বেঁকে বা বাঁকা করে বসা (sitting in a bent or crooked manner)",
+  "figurative_meaning_bn": "অসম্মত হওয়া",
+  "figurative_meaning_en": "to disagree or refuse",
+  "similar_in_english": [
+    "to balk at",
+    "to take a stand against"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার প্রস্তাবে বেঁকে বসল।",
+    "প্রকল্পটির বিরুদ্ধে সবাই বেঁকে বসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He disagreed with my proposal.",
+    "Everyone has refused the project."
+  ],
+  "usage_domain": [
+    "conversation",
+    "debate",
+    "decision-making"
+  ],
+  "tags": [
+    "disagreement",
+    "refusal",
+    "body posture"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the imagery of sitting uncomfortably or defiantly, common in everyday Bengali discourse."
+}

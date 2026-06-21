@@ -1,0 +1,43 @@
+{
+  "id": "5202",
+  "idiom": "ডেরা গাড়া",
+  "alternative_idioms": [
+    "ডেরা বাঁধা",
+    "আড্ডা গাড়া"
+  ],
+  "literal_meaning": "টেন্ট বা ক্যাম্প স্থাপন করা",
+  "figurative_meaning_bn": "অস্থায়ীভাবে বাসা করা",
+  "figurative_meaning_en": "To set up a temporary residence or camp",
+  "similar_in_english": [
+    "set up camp",
+    "pitch a tent"
+  ],
+  "example_sentences_in_bangla": [
+    "শ্মশানে কিছু সাধু ডেরা বেঁধেছে।",
+    "জঙ্গলে তারা ডেরা গাড়ল অস্থায়ী আশ্রয়ের জন্য।"
+  ],
+  "example_sentences_in_english": [
+    "Some sadhus have set up camp in the cremation ground.",
+    "They pitched a tent in the forest for temporary shelter."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "travel",
+    "spiritual contexts"
+  ],
+  "tags": [
+    "temporary residence",
+    "camping",
+    "ascetic life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Often associated with wandering sadhus and temporary stays in spiritual or remote locations in Bengali folklore."
+  ],
+  "note": "The idiom draws from the imagery of nomadic or ascetic lifestyles common in Bengali culture."
+}

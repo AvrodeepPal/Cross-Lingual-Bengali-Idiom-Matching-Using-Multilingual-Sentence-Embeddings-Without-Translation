@@ -1,0 +1,38 @@
+{
+  "id": "2464",
+  "idiom": "খচমচ",
+  "alternative_idioms": [
+    "খচোমচো"
+  ],
+  "literal_meaning": "কাগজ ইত্যাদি নাড়াচাড়া বা দলা পাকানোর অনুকরণমূলক শব্দ",
+  "figurative_meaning_bn": "কাগজ ইত্যাদি নাড়াচাড়া করার বা দলা পাকাবার শব্দ",
+  "figurative_meaning_en": "The sound of rustling or crumpling paper and similar materials",
+  "similar_in_english": [
+    "rustle",
+    "crinkle"
+  ],
+  "example_sentences_in_bangla": [
+    "প্যাকিংবাক্সের মধ্যে বিড়ালটা খচমচ করছে।",
+    "কাগজের পত্রিকা খচমচ করে উড়ে যাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "The cat is rustling inside the packing box.",
+    "The newspaper pages are rustling as they fly away."
+  ],
+  "usage_domain": [
+    "descriptive language",
+    "sound effects"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "everyday sounds"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is primarily an onomatopoeic expression used to mimic sounds in Bengali descriptive writing or speech."
+}

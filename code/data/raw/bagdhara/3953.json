@@ -1,0 +1,40 @@
+{
+  "id": "3953",
+  "idiom": "চুঁইচুঁই",
+  "alternative_idioms": [],
+  "literal_meaning": "টপটপ করে ঝরা বা মৃদু শব্দ সূচক দ্বিত্বশব্দ (চুঁই অর্থ ঝরা)",
+  "figurative_meaning_bn": "আগুনে জ্বাল, ক্ষুধা, জলশোষণ ইত্যাদির মতো মৃদু অনুভূতি সূচক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "A reduplicated word indicating mild sensations such as burning from fire, hunger, thirst, etc.",
+  "similar_in_english": [
+    "stomach rumbling",
+    "tummy grumbling"
+  ],
+  "example_sentences_in_bangla": [
+    "খিদেয় পেট চুঁইচুঁই করছে।",
+    "গরমে গলা চুঁইচুঁই করছে।"
+  ],
+  "example_sentences_in_english": [
+    "My stomach is rumbling with hunger.",
+    "My throat is parched with thirst in the heat."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "sensory",
+    "bodily sensations"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "reduplication",
+    "hunger",
+    "thirst",
+    "discomfort"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in everyday Bengali speech to describe subtle physical discomforts."
+}

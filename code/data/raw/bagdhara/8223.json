@@ -1,0 +1,43 @@
+{
+  "id": "8223",
+  "idiom": "মৎস্যমুখ",
+  "alternative_idioms": [
+    "আঁইসপান্না",
+    "আঁষপান্না"
+  ],
+  "literal_meaning": "মাছের মুখ (fish mouth)",
+  "figurative_meaning_bn": "হিন্দুদের শ্রাদ্ধানুষ্ঠানের পর মাছ খেয়ে নিয়মভঙ্গ করার অনুষ্ঠান",
+  "figurative_meaning_en": "The ritual of breaking dietary rules by eating fish after the Hindu shraddha ceremony",
+  "similar_in_english": [
+    "breaking the fast (in a ritualistic sense)"
+  ],
+  "example_sentences_in_bangla": [
+    "শ্রাদ্ধ শেষে তারা মৎস্যমুখ করে নিয়ম ভঙ্গ করল।",
+    "পারিবারিক ঐতিহ্য অনুসারে মৎস্যমুখের অনুষ্ঠান সম্পন্ন হলো।"
+  ],
+  "example_sentences_in_english": [
+    "After the shraddha, they performed matsya-mukha to break the rules by eating fish.",
+    "The family completed the matsya-mukha ritual as per tradition."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Rituals",
+    "Hindu Customs"
+  ],
+  "tags": [
+    "শ্রাদ্ধ",
+    "হিন্দু ঐতিহ্য",
+    "মাংসাহার নিষেধ ভঙ্গ",
+    "অনুষ্ঠান"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom refers to a traditional Bengali Hindu practice following the shraddha ceremony, where a period of vegetarianism is observed, and eating fish marks the end of the mourning restrictions."
+  ],
+  "note": "Specific to Bengali Hindu communities; synonyms indicate variations in pronunciation or regional usage."
+}

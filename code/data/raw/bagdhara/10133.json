@@ -1,0 +1,37 @@
+{
+  "id": "10133",
+  "idiom": "হাত দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত দেওয়া (hand to give)",
+  "figurative_meaning_bn": "স্পর্শ করা",
+  "figurative_meaning_en": "to touch",
+  "similar_in_english": [
+    "lay a hand on",
+    "put one's hands on"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ফলটিতে হাত দিল না।",
+    "বাচ্চাটা খাবারে হাত দেয়নি এখনও।"
+  ],
+  "example_sentences_in_english": [
+    "He didn't touch the fruit.",
+    "The child hasn't touched the food yet."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "physical actions"
+  ],
+  "tags": [
+    "touch",
+    "contact",
+    "physical interaction"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a basic expression in Bengali for initiating physical contact."
+}

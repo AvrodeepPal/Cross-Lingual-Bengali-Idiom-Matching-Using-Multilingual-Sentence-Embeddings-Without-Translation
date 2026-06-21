@@ -1,0 +1,43 @@
+{
+  "id": "5193",
+  "idiom": "ডুমুরের ফুল",
+  "alternative_idioms": [
+    "ডুমুরফুল"
+  ],
+  "literal_meaning": "ডুমুর গাছের ফুল",
+  "figurative_meaning_bn": "অদৃশ্য বা বিরলদর্শন বস্তু",
+  "figurative_meaning_en": "Something invisible or rarely seen",
+  "similar_in_english": [
+    "hen's teeth",
+    "needle in a haystack"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সুযোগটা ডুমুরের ফুলের মতো, খুব কমই পাওয়া যায়।",
+    "তার স্বপ্নগুলো ডুমুরের ফুলের মতো অদৃশ্য।"
+  ],
+  "example_sentences_in_english": [
+    "This opportunity is like the flower of the dumur tree, rarely encountered.",
+    "His dreams are as invisible as the dumur flower."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "folklore"
+  ],
+  "tags": [
+    "rarity",
+    "nature",
+    "botanical misconception",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom stems from the common Bengali folk belief that the dumur (Indian fig) tree does not produce flowers, though botanically, the flowers are tiny and located inside the fruit structure, making them invisible to the naked eye."
+  ],
+  "note": "Based on cultural misconception about the Ficus racemosa tree, prevalent in rural Bengal."
+}

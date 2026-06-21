@@ -1,0 +1,43 @@
+{
+  "id": "5632",
+  "idiom": "দত্তপূর্বা",
+  "alternative_idioms": [
+    "দত্তা"
+  ],
+  "literal_meaning": "দত্ত (দেওয়া) + পূর্বা (পূর্ববর্তী বা সম্পর্কিত)",
+  "figurative_meaning_bn": "বিয়ের প্রতিশ্রুতি দেওয়া হয়েছে এমন কন্যা",
+  "figurative_meaning_en": "A girl who has been promised in marriage",
+  "similar_in_english": [
+    "betrothed girl",
+    "promised bride"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দত্তপূর্বা হওয়ায় তার বিয়ের ব্যবস্থা ইতিমধ্যে হয়ে গেছে।",
+    "গ্রামে দত্তপূর্বা কন্যাদের জন্য বিশেষ অনুষ্ঠান হয়।"
+  ],
+  "example_sentences_in_english": [
+    "She is a dattapurba, so her marriage arrangements are already in place.",
+    "In the village, special ceremonies are held for betrothed girls."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Family",
+    "Traditions"
+  ],
+  "tags": [
+    "বাগধারা",
+    "বিবাহ",
+    "কন্যা",
+    "প্রথা"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই শব্দটি সংস্কৃত 'দত্ত' থেকে উদ্ভূত, যা হিন্দু বিবাহ প্রথায় কন্যাদানের সাথে যুক্ত, যেখানে কন্যাকে বরের কাছে 'দান' করা হয়।"
+  ],
+  "note": "এটি প্রাচীন বাংলা সাহিত্যে ব্যবহৃত, আধুনিক কথ্য ভাষায় কম দেখা যায়।"
+}

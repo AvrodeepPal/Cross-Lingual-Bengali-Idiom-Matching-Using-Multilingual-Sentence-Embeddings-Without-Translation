@@ -1,0 +1,40 @@
+{
+  "id": "251",
+  "idiom": "অর্ধজরতীন্যায়",
+  "alternative_idioms": [],
+  "literal_meaning": "অর্ধ জরতী ন্যায় (half old justice)",
+  "figurative_meaning_bn": "বাদী ও প্রতিবাদীর মতদ্বৈধতার কারণে উভয়পক্ষের কিছু অংশ নিয়ে সিদ্ধান্ত গ্রহণ করা হলে সেটা অর্ধজরতীন্যায়ের মত হয়",
+  "figurative_meaning_en": "When a decision is made by partially accepting elements from both the plaintiff and defendant's equally valid arguments, it resembles a half-justice compromise",
+  "similar_in_english": [
+    "splitting the difference",
+    "meet halfway"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বিরোধে অর্ধজরতীন্যায় করে সিদ্ধান্ত নেওয়া হয়েছে।",
+    "তারা অর্ধজরতীন্যায়ের মতো করে বিবাদ মিটিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "They resolved the dispute with a half-justice compromise.",
+    "The judge's ruling felt like splitting the difference unfairly."
+  ],
+  "usage_domain": [
+    "legal",
+    "dispute resolution",
+    "negotiation"
+  ],
+  "tags": [
+    "compromise",
+    "justice",
+    "folklore"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "A foolish Brahmin tries to sell an old milking cow at market. To get a higher price, he calls it aged and experienced, but gets no buyers. Advised to call it young and unmarried, he compromises by describing it as half-old and half-young. A buyer, seeing his folly, pays a fair price and takes the cow."
+  ],
+  "note": "The idiom originates from a traditional Bengali folk tale highlighting unwise compromises."
+}

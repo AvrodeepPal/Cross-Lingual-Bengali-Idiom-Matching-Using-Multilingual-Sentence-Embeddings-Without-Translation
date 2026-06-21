@@ -1,0 +1,37 @@
+{
+  "id": "2509",
+  "idiom": "খবরগিরি",
+  "alternative_idioms": [],
+  "literal_meaning": "খবর সংগ্রহের কাজ",
+  "figurative_meaning_bn": "খোঁজ-খবর নেওয়ার কাজ",
+  "figurative_meaning_en": "The act of gathering or prying for information",
+  "similar_in_english": [
+    "Nosy parker",
+    "Busybody"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় খবরগিরি করে অন্যের ব্যাপারে।",
+    "খবরগিরি ছাড়া তার আর কোনো কাজ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He is always prying into others' affairs.",
+    "She has no other work but to snoop around."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Daily conversation"
+  ],
+  "tags": [
+    "Prying",
+    "Gossip",
+    "Information gathering"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to meddlesome behavior in everyday Bengali social contexts"
+}

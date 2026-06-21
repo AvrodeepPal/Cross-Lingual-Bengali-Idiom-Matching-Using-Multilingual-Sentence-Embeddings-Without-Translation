@@ -1,0 +1,38 @@
+{
+  "id": "1430",
+  "idiom": "কথা দিয়ে কথা নেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা ব্যবহার করে কথা নেওয়া (using words to take words)",
+  "figurative_meaning_bn": "মনোমত কথা বলে কারো থেকে কিছু তথ্য জেনে নেওয়া",
+  "figurative_meaning_en": "To extract information from someone by engaging in conversation tailored to one's own advantage",
+  "similar_in_english": [
+    "Worm information out of someone",
+    "Pump someone for details"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কথা দিয়ে কথা নিয়ে বন্ধুর থেকে সব খবর জেনে নিল।",
+    "পুলিশ কথা দিয়ে কথা নিয়ে সাক্ষীকে জিজ্ঞাসাবাদ করল।"
+  ],
+  "example_sentences_in_english": [
+    "She used words to draw out words from him, getting all the gossip.",
+    "The detective coaxed information out of the witness through clever questioning."
+  ],
+  "usage_domain": [
+    "communication",
+    "social interaction",
+    "interrogation"
+  ],
+  "tags": [
+    "deception",
+    "information gathering",
+    "conversation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali conversational tactics for subtle inquiry."
+}

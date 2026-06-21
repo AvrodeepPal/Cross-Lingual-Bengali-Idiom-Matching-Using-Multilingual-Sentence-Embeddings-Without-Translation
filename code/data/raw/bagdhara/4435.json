@@ -1,0 +1,39 @@
+{
+  "id": "4435",
+  "idiom": "ছ্যাঁচড়",
+  "alternative_idioms": [],
+  "literal_meaning": "একধরনের পিছলে বা উপায় বের করে পালানোর প্রবণতা",
+  "figurative_meaning_bn": "দেনা সহজে শোধ করতে চায় না এমন",
+  "figurative_meaning_en": "One who does not want to repay a debt easily",
+  "similar_in_english": [
+    "Deadbeat",
+    "Welcher",
+    "Debt dodger"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ছ্যাঁচড়, কখনো টাকা ফেরত দেয় না।",
+    "এই ছ্যাঁচড় লোকের সাথে আর টাকা ধার দেব না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a deadbeat; he never repays his debts.",
+    "I won't lend money to that welcher anymore."
+  ],
+  "usage_domain": [
+    "finance",
+    "debt",
+    "interpersonal relations"
+  ],
+  "tags": [
+    "negative",
+    "debt evasion",
+    "behavioral"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects colloquial Bengali expressions for unreliable debtors in everyday rural or semi-urban contexts."
+}

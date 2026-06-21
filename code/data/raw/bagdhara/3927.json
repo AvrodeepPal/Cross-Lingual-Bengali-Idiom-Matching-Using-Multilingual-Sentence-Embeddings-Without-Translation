@@ -1,0 +1,41 @@
+{
+  "id": "3927",
+  "idiom": "চিনির বলদ",
+  "alternative_idioms": [],
+  "literal_meaning": "চিনির তৈরি বলদ (sugar ox)",
+  "figurative_meaning_bn": "যে রোজগার করে কিন্তু ভোগ করতে পারে না",
+  "figurative_meaning_en": "One who earns a living but cannot enjoy it",
+  "similar_in_english": [
+    "All work and no play",
+    "The goose that lays the golden eggs (but is killed)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চিনির বলদের মতো সারাদিন খেটে মরে, কিন্তু নিজে কিছু উপভোগ করতে পারে না।",
+    "পরিবারের জন্য চিনির বলদ হয়ে গেছে সে, সব আয় অন্যদের দিয়ে দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "He works like a sugar ox all day, earning money but unable to enjoy any of it.",
+    "She has become a sugar ox for her family, handing over all her earnings without benefiting herself."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work and labor",
+    "family dynamics"
+  ],
+  "tags": [
+    "figurative",
+    "hardship",
+    "sacrifice",
+    "rural imagery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom draws from traditional Bengali rural practices where oxen were used to grind sugarcane, producing sugar that the animal itself could not consume, symbolizing unrewarded labor."
+  ],
+  "note": "Rooted in agrarian imagery, emphasizing exploitation in labor."
+}

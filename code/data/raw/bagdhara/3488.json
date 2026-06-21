@@ -1,0 +1,38 @@
+{
+  "id": "3488",
+  "idiom": "ঘাট",
+  "alternative_idioms": [],
+  "literal_meaning": "নদীর তীরে সিঁড়ি বা ঘাট (কিন্তু প্রসঙ্গে ত্রুটির অর্থে ব্যবহৃত)",
+  "figurative_meaning_bn": "ত্রুটি/দোষ",
+  "figurative_meaning_en": "mistake/fault",
+  "similar_in_english": [
+    "my bad",
+    "slip-up"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার ঘাট হয়েছে, ক্ষমা চাইছি।",
+    "এই কাজে তার ঘাট হয়েছে, তাই সে লজ্জিত।"
+  ],
+  "example_sentences_in_english": [
+    "I made a mistake, please forgive me.",
+    "He slipped up in this task, so he's embarrassed."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "apology"
+  ],
+  "tags": [
+    "error",
+    "mistake",
+    "fault",
+    "apology"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলা কথ্য ভাষায় সাধারণত ভুলের জন্য ব্যবহৃত হয়, যা নদীতীরের ঘাটের ধারণা থেকে উদ্ভূত হতে পারে যেখানে ভুল পথে নামলে সমস্যা হয়।"
+}

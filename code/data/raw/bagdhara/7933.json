@@ -1,0 +1,41 @@
+{
+  "id": "7933",
+  "idiom": "ব্যাঙের আধুলি",
+  "alternative_idioms": [],
+  "literal_meaning": "ব্যাঙের অর্ধেক কওড়ি (frog's half-cowrie shell)",
+  "figurative_meaning_bn": "অতিদরিদ্রের সামান্যতম সঞ্চয়/সম্পদ, যা তার গর্বের কারণ",
+  "figurative_meaning_en": "The tiniest savings or wealth of the extremely poor, which serves as a source of their pride",
+  "similar_in_english": [
+    "the widow's mite",
+    "every little helps"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ব্যাঙের আধুলি নিয়ে গর্ব করে, যেন তা তার সব সম্পদ।",
+    "গ্রামের দরিদ্র লোকেরা তাদের ব্যাঙের আধুলিকে লালন করে।"
+  ],
+  "example_sentences_in_english": [
+    "He takes pride in his frog's half-cowrie, as if it were his entire fortune.",
+    "The village poor cherish their frog's half-cowrie as their precious possession."
+  ],
+  "usage_domain": [
+    "poverty",
+    "pride",
+    "folklore"
+  ],
+  "tags": [
+    "দারিদ্র্য",
+    "গর্ব",
+    "প্রকৃতি",
+    "গ্রাম্য"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "এই প্রবাদটি বাংলার গ্রামীণ জীবন থেকে উদ্ভূত, যেখানে ব্যাঙকে দরিদ্রতার প্রতীক হিসেবে দেখা হয় এবং কওড়ি শেল ছিল প্রাচীন ছোট মুদ্রার একক।"
+  ],
+  "note": "প্রবাদটি বাঙালি লোককথায় ব্যাঙের ছোটখাটো লুকানো ধনসম্পত্তির ধারণা থেকে এসেছে।"
+}

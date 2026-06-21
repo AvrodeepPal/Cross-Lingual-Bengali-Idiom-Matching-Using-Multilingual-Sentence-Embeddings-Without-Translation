@@ -1,0 +1,39 @@
+{
+  "id": "4474",
+  "idiom": "জনপ্রাণি",
+  "alternative_idioms": [],
+  "literal_meaning": "জন (people) + প্রাণি (living being/animal)",
+  "figurative_meaning_bn": "একজনও মানুষ বা প্রাণি",
+  "figurative_meaning_en": "Not a single person or animal",
+  "similar_in_english": [
+    "Not a soul in sight",
+    "Deserted place"
+  ],
+  "example_sentences_in_bangla": [
+    "রাতের অন্ধকারে রাস্তায় জনপ্রাণি দেখা যাচ্ছে না।",
+    "যুদ্ধক্ষেত্রে জনপ্রাণি ছিল না।"
+  ],
+  "example_sentences_in_english": [
+    "In the dark of night, not a soul or creature is visible on the road.",
+    "The battlefield was devoid of any person or animal."
+  ],
+  "usage_domain": [
+    "Descriptive",
+    "Literature",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "absence",
+    "desolation",
+    "emptiness",
+    "solitude"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to describe eerie emptiness in Bengali narratives"
+}

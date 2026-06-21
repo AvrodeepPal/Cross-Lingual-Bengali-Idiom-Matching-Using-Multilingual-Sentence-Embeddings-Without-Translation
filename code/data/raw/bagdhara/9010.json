@@ -1,0 +1,41 @@
+{
+  "id": "9010",
+  "idiom": "রক্তের অক্ষরে লেখা",
+  "alternative_idioms": [],
+  "literal_meaning": "রক্তের অক্ষরে লিখিত",
+  "figurative_meaning_bn": "বহু প্রাণহানির কাহিনিসংবলিত ইতিহাস",
+  "figurative_meaning_en": "A history replete with tales of numerous lives lost",
+  "similar_in_english": [
+    "Written in blood",
+    "Baptized in blood"
+  ],
+  "example_sentences_in_bangla": [
+    "বাংলাদেশের মুক্তিযুদ্ধের ইতিহাস রক্তের অক্ষরে লেখা।",
+    "মহাভারতের কাহিনি রক্তের অক্ষরে লেখা বলে পরিচিত।"
+  ],
+  "example_sentences_in_english": [
+    "The history of Bangladesh's Liberation War is written in blood.",
+    "The epic of the Mahabharata is known to be written in blood."
+  ],
+  "usage_domain": [
+    "History",
+    "Literature",
+    "War and Conflict"
+  ],
+  "tags": [
+    "idiom",
+    "bloodshed",
+    "epic",
+    "tragedy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Often used to describe national or epic histories involving massive casualties, such as wars or ancient battles in Bengali literature."
+  ],
+  "note": "This idiom evokes the imagery of profound sacrifice and violence in historical narratives."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "366",
+  "idiom": "আকাশপাতাল খোঁজা",
+  "alternative_idioms": [
+    "তোলপাড় করা"
+  ],
+  "literal_meaning": "আকাশ ও পাতালে খোঁজা (স্বর্গ থেকে নরক পর্যন্ত অনুসন্ধান করা)",
+  "figurative_meaning_bn": "সর্বত্র তন্নতন্ন করে খোঁজা",
+  "figurative_meaning_en": "to search everywhere thoroughly",
+  "similar_in_english": [
+    "search high and low",
+    "leave no stone unturned"
+  ],
+  "example_sentences_in_bangla": [
+    "আকাশপাতাল খুঁজেও চাবিটা পাওয়া যায়নি।",
+    "তোলপাড় করে দেখলাম, কিন্তু কোনো সূত্রই পেলাম না।"
+  ],
+  "example_sentences_in_english": [
+    "I searched high and low but couldn't find the key.",
+    "We turned the place upside down, but found no clues."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "searching for lost items"
+  ],
+  "tags": [
+    "search",
+    "thorough",
+    "exhaustive",
+    "effort"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom evokes the vastness of the universe in Bengali worldview, emphasizing exhaustive search."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "488",
+  "idiom": "আতুপুতু করা",
+  "alternative_idioms": [
+    "আতুআতু করা",
+    "পুতুপুতু"
+  ],
+  "literal_meaning": "অতিরিক্ত আদর বা যত্নের শব্দানুকরণ করে ফিদিম করা (যেমন 'আতু-পুতু' শব্দের অনুকরণ)",
+  "figurative_meaning_bn": "অতিরিক্ত যত্ন করা; আদরযত্ন বা সাবধানতার বাড়াবাড়ি করা; সন্তানপালনে যত্ন ও সতর্কতার বাড়াবাড়ি",
+  "figurative_meaning_en": "To take excessive care; to overdo pampering or caution; excessive care and vigilance in child-rearing",
+  "similar_in_english": [
+    "To mollycoddle",
+    "To spoil rotten",
+    "To wrap someone in cotton wool",
+    "Helicopter parenting"
+  ],
+  "example_sentences_in_bangla": [
+    "মা ছেলেকে এত আতুপুতু করে যে সে কোনো কাজই শিখতে পারছে না।",
+    "দাদি নাতিকে আতুপুতু করে তুলেছে, এখন সে স্বাধীন হতে পারে না।"
+  ],
+  "example_sentences_in_english": [
+    "The mother fusses over her son so much that he can't learn any chores.",
+    "Grandma has spoiled the grandson with excessive pampering, now he can't be independent."
+  ],
+  "usage_domain": [
+    "Parenting",
+    "Family life",
+    "Child-rearing"
+  ],
+  "tags": [
+    "overprotection",
+    "pampering",
+    "excessive care",
+    "traditional upbringing"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali concerns about balanced child-rearing to foster independence."
+}

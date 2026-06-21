@@ -1,0 +1,41 @@
+{
+  "id": "202",
+  "idiom": "অন্নবস্ত্র",
+  "alternative_idioms": [
+    "খোরপোশ",
+    "ভাত-কাপড়"
+  ],
+  "literal_meaning": "অন্ন (খাদ্য) এবং বস্ত্র (বস্ত্র) ",
+  "figurative_meaning_bn": "খাওয়া-পোশার ব্যবস্থা",
+  "figurative_meaning_en": "Arrangement for food and clothing (basic livelihood or sustenance)",
+  "similar_in_english": [
+    "bread and butter",
+    "daily bread"
+  ],
+  "example_sentences_in_bangla": [
+    "চাকরি না পেলে অন্নবস্ত্রের ব্যবস্থা করা কঠিন হয়ে যায়।",
+    "গ্রামে অন্নবস্ত্রের জন্য কৃষিকাজই প্রধান উপায়।"
+  ],
+  "example_sentences_in_english": [
+    "Without a job, arranging for food and clothing becomes difficult.",
+    "In the village, farming is the main means for food and clothing."
+  ],
+  "usage_domain": [
+    "daily life",
+    "economy",
+    "livelihood"
+  ],
+  "tags": [
+    "basic needs",
+    "sustenance",
+    "necessities"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali emphasis on fundamental survival needs, often used in contexts of employment and rural life."
+}

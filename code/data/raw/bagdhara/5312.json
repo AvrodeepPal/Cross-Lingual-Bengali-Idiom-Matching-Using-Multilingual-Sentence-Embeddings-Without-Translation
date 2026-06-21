@@ -1,0 +1,39 @@
+{
+  "id": "5312",
+  "idiom": "তকরারী জমাখরচ",
+  "alternative_idioms": [],
+  "literal_meaning": "তকরারী হিসাবের জমা-খরচের খাতা",
+  "figurative_meaning_bn": "ব্যবসায়ের হিসাবের খাতা রাখার বিশেষপদ্ধতি",
+  "figurative_meaning_en": "A special method of maintaining business account ledgers",
+  "similar_in_english": [
+    "Double-entry bookkeeping"
+  ],
+  "example_sentences_in_bangla": [
+    "পুরনো দোকানগুলোতে তকরারী জমাখরচের পদ্ধতি এখনও ব্যবহৃত হয়।",
+    "তার ব্যবসায়ে তকরারী জমাখরচ রাখার কারণে হিসাব সবসময় সঠিক থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "Old shops still use the takrari jama-kharach method for accounting.",
+    "His business maintains accurate records thanks to the takrari jama-kharach system."
+  ],
+  "usage_domain": [
+    "Business",
+    "Accounting",
+    "Commerce"
+  ],
+  "tags": [
+    "হিসাব",
+    "ব্যবসা",
+    "প্রথাগত পদ্ধতি"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom refers to a traditional Bengali accounting practice from the colonial era, using ledger books to track receipts and expenditures in mercantile trade."
+  ],
+  "note": "Primarily used in historical or traditional business contexts in Bengal."
+}

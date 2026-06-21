@@ -1,0 +1,44 @@
+{
+  "id": "6040",
+  "idiom": "ধর্মের ষাঁড়",
+  "alternative_idioms": [
+    "গোকুলের ষাঁড়"
+  ],
+  "literal_meaning": "ধর্মের ষাঁড় (religion's bull)",
+  "figurative_meaning_bn": "স্বেচ্ছাচারী অনিষ্টকারী মুক্তপুরুষ, যাকে বাধা দেবার কেউ নেই; স্বচ্ছন্দে বিচরণকারী ও পরের অনিষ্টকারী ব্যক্তি; অকর্মণ্য",
+  "figurative_meaning_en": "A wayward, mischievous and unrestrained person who harms others without any check; someone who roams freely causing trouble; idle or lazy",
+  "similar_in_english": [
+    "loose cannon",
+    "a law unto oneself",
+    "bull in a china shop"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ধর্মের ষাঁড়ের মতো গ্রামে ঘুরে বেড়ায় এবং সবাইকে কষ্ট দেয়।",
+    "অফিসে সেই কর্মচারী ধর্মের ষাঁড়ের মতো অকর্মণ্য হয়ে বসে থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He roams around the village like a bull of religion, causing trouble to everyone.",
+    "That employee sits idle in the office like a bull of religion."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "literature",
+    "character description"
+  ],
+  "tags": [
+    "negative",
+    "unrestrained",
+    "mischievous",
+    "lazy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom likely originates from rural Bengali traditions where a bull dedicated to a temple or religious purpose (dharmo) is considered sacred and left unrestrained, allowing it to wander freely and sometimes cause mischief without interference."
+  ],
+  "note": "The idiom draws on cultural reverence for animals in religious contexts, emphasizing untouchability leading to chaos."
+}

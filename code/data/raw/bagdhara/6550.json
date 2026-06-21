@@ -1,0 +1,39 @@
+{
+  "id": "6550",
+  "idiom": "পড়াশোনা",
+  "alternative_idioms": [
+    "পড়াশুনা"
+  ],
+  "literal_meaning": "পড়া (reading) + শোনা (hearing/listening)",
+  "figurative_meaning_bn": "বিদ্যালয়ে অধ্যয়ন; পাঠাভ্যাস",
+  "figurative_meaning_en": "Studying at school; reading practice",
+  "similar_in_english": [
+    "hitting the books",
+    "book learning"
+  ],
+  "example_sentences_in_bangla": [
+    "সে প্রতিদিন সকালে পড়াশোনা করে।",
+    "পড়াশোনায় মনোযোগী হও।"
+  ],
+  "example_sentences_in_english": [
+    "He does his studies every morning.",
+    "Be attentive to your studies."
+  ],
+  "usage_domain": [
+    "education",
+    "daily life"
+  ],
+  "tags": [
+    "learning",
+    "study",
+    "education"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a common compound word rather than a traditional idiom, often used in educational contexts; comparable to familiar compounds like চেনাশুনা."
+}

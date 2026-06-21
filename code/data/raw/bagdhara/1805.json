@@ -1,0 +1,38 @@
+{
+  "id": "1805",
+  "idiom": "কাঁধে নেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁধে নেওয়া (on the shoulder to take)",
+  "figurative_meaning_bn": "দায়িত্ব নেওয়া",
+  "figurative_meaning_en": "to take on responsibility",
+  "similar_in_english": [
+    "shoulder the burden",
+    "take on one's shoulders"
+  ],
+  "example_sentences_in_bangla": [
+    "সংসারের দায়িত্ব আমি কাঁধে নিয়েছি।",
+    "প্রকল্পের সব দায়িত্ব তিনি কাঁধে নেওয়ার জন্য প্রস্তুত।"
+  ],
+  "example_sentences_in_english": [
+    "I have taken the family responsibilities on my shoulders.",
+    "He is ready to shoulder all the responsibilities of the project."
+  ],
+  "usage_domain": [
+    "family",
+    "professional",
+    "personal duty"
+  ],
+  "tags": [
+    "responsibility",
+    "duty",
+    "burden"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": ""
+}

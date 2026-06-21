@@ -1,0 +1,42 @@
+{
+  "id": "293",
+  "idiom": "অহংবুদ্ধি",
+  "alternative_idioms": [
+    "অহমহমিকা"
+  ],
+  "literal_meaning": "অহং (আমি বা অহংকার) + বুদ্ধি (বুদ্ধি বা মন); অত্যধিক অহংকারপূর্ণ মনোভাব",
+  "figurative_meaning_bn": "'আমিই সব' এমন দম্ভ",
+  "figurative_meaning_en": "Conceit or arrogance of thinking 'I am everything'",
+  "similar_in_english": [
+    "Full of oneself",
+    "Big-headed",
+    "Egoistic pride"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অহংবুদ্ধির জন্য সকলে তাকে ঘৃণা করে।",
+    "অহমহমিকায় ভরা এই লোকের সঙ্গে কথা বলা অসম্ভব।"
+  ],
+  "example_sentences_in_english": [
+    "His conceit makes everyone despise him.",
+    "It's impossible to talk to this egoistic person full of himself."
+  ],
+  "usage_domain": [
+    "personality",
+    "behavior",
+    "literature"
+  ],
+  "tags": [
+    "arrogance",
+    "ego",
+    "pride",
+    "conceit"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Sanskrit roots, commonly used in Bengali literature to describe excessive self-importance."
+}

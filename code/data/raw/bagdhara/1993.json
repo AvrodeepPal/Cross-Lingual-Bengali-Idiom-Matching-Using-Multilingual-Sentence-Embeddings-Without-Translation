@@ -1,0 +1,38 @@
+{
+  "id": "1993",
+  "idiom": "কান দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কান (ear) দেওয়া (to give)",
+  "figurative_meaning_bn": "গ্রাহ্য করা",
+  "figurative_meaning_en": "to pay attention or heed",
+  "similar_in_english": [
+    "lend an ear",
+    "give ear to"
+  ],
+  "example_sentences_in_bangla": [
+    "ওর কথায় কান দিও না, সে মিথ্যা বলে।",
+    "শিক্ষকের উপদেশে কান দাও, তাহলে সফল হবে।"
+  ],
+  "example_sentences_in_english": [
+    "Don't give ear to his words; he's lying.",
+    "Lend an ear to the teacher's advice, and you'll succeed."
+  ],
+  "usage_domain": [
+    "conversation",
+    "advice",
+    "daily life"
+  ],
+  "tags": [
+    "attention",
+    "listening",
+    "heed"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a direct calque of the English 'lend an ear' and is widely used in spoken Bengali."
+}

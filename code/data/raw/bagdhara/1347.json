@@ -1,0 +1,42 @@
+{
+  "id": "1347",
+  "idiom": "কড়কে দেওয়া",
+  "alternative_idioms": [
+    "কড়কানো"
+  ],
+  "literal_meaning": "কড়া করে বলা বা তির্যক ভাবে কথা বলা (হার্ড করে বলা)",
+  "figurative_meaning_bn": "তিরস্কার/ভর্ৎসনা করা",
+  "figurative_meaning_en": "To scold or reprimand harshly",
+  "similar_in_english": [
+    "To give someone a piece of one's mind",
+    "To read the riot act",
+    "To chew someone out"
+  ],
+  "example_sentences_in_bangla": [
+    "বাবা ছেলেকে কড়কে দিয়েছে তার দেরি করার জন্য।",
+    "শিক্ষক ক্লাসে অশৃঙ্খল ছাত্রদের কড়কে দিলেন।"
+  ],
+  "example_sentences_in_english": [
+    "Father scolded his son harshly for being late.",
+    "The teacher reprimanded the unruly students in class."
+  ],
+  "usage_domain": [
+    "family",
+    "education",
+    "workplace"
+  ],
+  "tags": [
+    "scolding",
+    "reprimand",
+    "discipline",
+    "authority"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali emphasis on discipline and authority in social interactions."
+}

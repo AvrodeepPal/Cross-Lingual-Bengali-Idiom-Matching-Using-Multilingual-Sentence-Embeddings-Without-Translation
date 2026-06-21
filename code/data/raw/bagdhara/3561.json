@@ -1,0 +1,42 @@
+{
+  "id": "3561",
+  "idiom": "ঘুণধরা",
+  "alternative_idioms": [
+    "ঘুণে ধরা"
+  ],
+  "literal_meaning": "ঘুণপোকায় খাওয়া বা আক্রান্ত",
+  "figurative_meaning_bn": "অন্তঃসারশূন্য",
+  "figurative_meaning_en": "devoid of substance or essence",
+  "similar_in_english": [
+    "hollow inside",
+    "rotten to the core",
+    "empty shell"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সংস্থাটি ঘুণধরা হয়ে গেছে, কোনো কার্যকরী নেতৃত্ব নেই।",
+    "তার বক্তৃতা ঘুণধরা, কোনো গভীর চিন্তা নেই।"
+  ],
+  "example_sentences_in_english": [
+    "This organization has become termite-eaten, with no effective leadership.",
+    "His speech is hollow, lacking any deep thought."
+  ],
+  "usage_domain": [
+    "literature",
+    "social criticism",
+    "everyday conversation"
+  ],
+  "tags": [
+    "metaphor",
+    "decay",
+    "emptiness",
+    "insubstantial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the common experience of wooden items being damaged by termites in Bengali households."
+}

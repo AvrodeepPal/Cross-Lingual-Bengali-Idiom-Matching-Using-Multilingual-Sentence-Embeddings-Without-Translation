@@ -1,0 +1,41 @@
+{
+  "id": "9694",
+  "idiom": "সাড়ে চুয়াত্তোর",
+  "alternative_idioms": [],
+  "literal_meaning": "সাড়ে চৌত্তিশ (thirty-four and a half)",
+  "figurative_meaning_bn": "প্রাপক ভিন্ন অন্যের পত্র খোলার বিষয়ে নিষেধার্থক চিহ্ন বা সঙ্কেত",
+  "figurative_meaning_en": "A prohibitive sign or symbol indicating that a letter should not be opened by anyone other than the intended recipient",
+  "similar_in_english": [
+    "Sealed with a curse",
+    "Do not open until Christmas (warning seal)"
+  ],
+  "example_sentences_in_bangla": [
+    "পত্রের উপর সাড়ে চুয়াত্তোর চিহ্ন করে পাঠালাম, যাতে অন্য কেউ খুলতে না পারে।",
+    "এই চিঠিতে সাড়ে চুয়াত্তোর লেখা আছে, তাই তুমি খুলো না।"
+  ],
+  "example_sentences_in_english": [
+    "I marked the letter with 'sāṛe cuẏāttor' so that no one else would open it.",
+    "The envelope has 'sāṛe cuẏāttor' written on it, so don't open it."
+  ],
+  "usage_domain": [
+    "Communication",
+    "Warning",
+    "Prohibition"
+  ],
+  "tags": [
+    "Historical",
+    "Religious",
+    "Superstition",
+    "Brahminical"
+  ],
+  "frequency": "very rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "যুদ্ধে নিহত অসংখ্য ব্রাহ্মণের পৈতার ওজন সাড়ে চুয়াত্তর মণ হওয়ায় ৭৪ নম্বরটি অশুভ বলে বিবেচিত হয়; এই নম্বর চিহ্নিত কোনো পত্র প্রাপক-ভিন্ন অন্য লোকে খুললে তাকে সেই ব্রাহ্মণদের হত্যার পাপ গ্রহণ করতে হবে, এমন বিশ্বাস।"
+  ],
+  "note": "This idiom draws from a historical war context involving mass killing of Brahmins, leading to a superstitious prohibition."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "5323",
+  "idiom": "তড়পানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ছটফট করা বা মাছের মতো তড়পানো",
+  "figurative_meaning_bn": "আস্ফালন করা",
+  "figurative_meaning_en": "To fuss or struggle in vain",
+  "similar_in_english": [
+    "flail about helplessly",
+    "kick and scream to no avail"
+  ],
+  "example_sentences_in_bangla": [
+    "যতই তড়পাও, কিছু হবে না।",
+    "সে পরীক্ষায় ফেল করেছে, এখন তড়পানোর কোনো লাভ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "No matter how much you wriggle, nothing will happen.",
+    "He failed the exam; there's no point in struggling futilely now."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "expression of futility"
+  ],
+  "tags": [
+    "idiom",
+    "struggle",
+    "frustration",
+    "vain effort"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes the image of a fish struggling out of water, common in Bengali rural expressions."
+}

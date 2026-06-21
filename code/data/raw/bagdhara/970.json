@@ -1,0 +1,45 @@
+{
+  "id": "970",
+  "idiom": "একগুঁয়ে",
+  "alternative_idioms": [
+    "একরোখা",
+    "একবগগা",
+    "নাছোড়বান্দা",
+    "নেই আঁকড়া"
+  ],
+  "literal_meaning": "একদিকে আটকে থাকা বা একমুখী গোঁয়ার্তুমি",
+  "figurative_meaning_bn": "অবাধ্য; একদিকে গোঁ যার; জেদী; দুর্দমনীয়; যে বাধানিষেধ মানে না",
+  "figurative_meaning_en": "Obstinate; stubborn in one direction; headstrong; uncontrollable; one who does not heed restrictions",
+  "similar_in_english": [
+    "stubborn as a mule",
+    "pig-headed",
+    "set in one's ways"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একগুঁয়ে মানুষ, কোনো কথাই শোনে না।",
+    "বাচ্চাটা খুব একগুঁয়ে, খাবার খেতে রাজি হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a stubborn person and doesn't listen to anyone.",
+    "The child is very obstinate and refuses to eat."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "personality description",
+    "family interactions"
+  ],
+  "tags": [
+    "stubbornness",
+    "obstinacy",
+    "personality trait",
+    "negative character"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in colloquial Bengali to describe unyielding behavior."
+}

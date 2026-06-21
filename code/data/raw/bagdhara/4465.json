@@ -1,0 +1,42 @@
+{
+  "id": "4465",
+  "idiom": "জড়সড়",
+  "alternative_idioms": [
+    "গুটিসুটি",
+    "গুড়িসুড়ি"
+  ],
+  "literal_meaning": "জড় (numb/stiff) + সড় (rhyming sound for stiffness)",
+  "figurative_meaning_bn": "সঙ্কুচিত",
+  "figurative_meaning_en": "contracted or shrunken, especially due to cold or fear",
+  "similar_in_english": [
+    "huddled up",
+    "curled up"
+  ],
+  "example_sentences_in_bangla": [
+    "ঠাণ্ডায় সবাই জড়সড় হয়ে আছে।",
+    "ভয়ে তার শরীর জড়সড় হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone is huddled up due to the cold.",
+    "His body shrank in fear."
+  ],
+  "usage_domain": [
+    "weather",
+    "physical state",
+    "emotions"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "cold",
+    "contraction",
+    "fear"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression mimicking stiffness or numbness."
+}

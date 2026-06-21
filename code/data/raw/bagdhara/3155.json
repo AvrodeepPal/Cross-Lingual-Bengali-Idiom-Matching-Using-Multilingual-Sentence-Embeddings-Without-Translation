@@ -1,0 +1,38 @@
+{
+  "id": "3155",
+  "idiom": "গায়েগায়ে",
+  "alternative_idioms": [],
+  "literal_meaning": "গায়ে গায়ে (শরীরের সংলগ্নতা বা পাশাপাশি স্পর্শ)",
+  "figurative_meaning_bn": "ঘেঁষাঘেঁষি; পাশাপাশি",
+  "figurative_meaning_en": "close together; side by side",
+  "similar_in_english": [
+    "cheek by jowl",
+    "shoulder to shoulder"
+  ],
+  "example_sentences_in_bangla": [
+    "বাড়িগুলো সব গায়েগায়ে উঠেছে, কোনো ফাঁক নেই।",
+    "লোকজন গায়েগায়ে দাঁড়িয়ে বাসের জন্য অপেক্ষা করছে।"
+  ],
+  "example_sentences_in_english": [
+    "The houses have all been built side by side, with no space in between.",
+    "People are standing close together waiting for the bus."
+  ],
+  "usage_domain": [
+    "urban living",
+    "proximity",
+    "daily life"
+  ],
+  "tags": [
+    "closeness",
+    "crowding",
+    "spatial arrangement"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom reflects the dense urban living common in Bengali-speaking regions."
+}

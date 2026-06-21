@@ -1,0 +1,43 @@
+{
+  "id": "7987",
+  "idiom": "ভাংচি দেওয়া",
+  "alternative_idioms": [
+    "কান ভাঙানো"
+  ],
+  "literal_meaning": "ভাংচি (একটি বাঁশের বাঁশি বা সঙ্গীত যন্ত্র) দেওয়া বা প্রদান করা",
+  "figurative_meaning_bn": "কুপরামর্শ দিয়ে কোনো কাজ থেকে নিরস্ত করা; কুমন্ত্রণা দিয়ে বিরোধী করা; বিচ্ছেদ ঘটানো",
+  "figurative_meaning_en": "To dissuade someone from a task through bad advice; to create enmity via evil counsel; to cause separation or rift",
+  "similar_in_english": [
+    "sow discord",
+    "drive a wedge between",
+    "poison the well"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ভাইবোনদের মধ্যে ভাংচি দিয়ে পরিবারে বিচ্ছেদ ঘটালো।",
+    "কুপরামর্শে ভর করে সে বন্ধুদের মধ্যে ভাংচি দিল, ফলে তারা আর কথা বলে না।"
+  ],
+  "example_sentences_in_english": [
+    "He sowed discord among his siblings by giving bad advice, leading to a family rift.",
+    "Influenced by evil counsel, she drove a wedge between her friends, and now they don't speak."
+  ],
+  "usage_domain": [
+    "relationships",
+    "advice",
+    "social interactions"
+  ],
+  "tags": [
+    "discord",
+    "bad advice",
+    "separation",
+    "enmity",
+    "negative influence"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali oral culture where musical instruments symbolize harmony, and 'giving' one metaphorically disrupts it."
+}

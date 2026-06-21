@@ -1,0 +1,38 @@
+{
+  "id": "2616",
+  "idiom": "খাবি খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "খাবি (এক ধরনের ঘাস বা চারা) খাওয়া",
+  "figurative_meaning_bn": "নিঃশ্বাসটানার জন্য প্রাণপণ চেষ্টায় হাঁসফাঁস করা",
+  "figurative_meaning_en": "Gasping and panting desperately to catch one's breath",
+  "similar_in_english": [
+    "Gasping for air",
+    "Panting for breath",
+    "Out of breath"
+  ],
+  "example_sentences_in_bangla": [
+    "দীর্ঘ দৌড়ের পর সে খাবি খাওয়া শুরু করল।",
+    "উত্তেজনায় তার খাবি খাওয়া চলছিল।"
+  ],
+  "example_sentences_in_english": [
+    "After the long run, he started gasping for breath.",
+    "He was panting with excitement."
+  ],
+  "usage_domain": [
+    "physical exertion",
+    "emotional stress"
+  ],
+  "tags": [
+    "breathlessness",
+    "desperation",
+    "effort"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "খাবি সাধারণত গ্রামীণ প্রসঙ্গে ব্যবহৃত ঘাস বা চারা নির্দেশ করে, যা প্রাণীদের খাদ্য হিসেবে পরিচিত।"
+}

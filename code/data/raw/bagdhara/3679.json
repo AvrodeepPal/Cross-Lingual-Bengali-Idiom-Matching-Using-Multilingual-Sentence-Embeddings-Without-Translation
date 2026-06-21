@@ -1,0 +1,40 @@
+{
+  "id": "3679",
+  "idiom": "চটিতং",
+  "alternative_idioms": [],
+  "literal_meaning": "চটি (অস্থিরতা বা জ্বালা) + তং (তীব্রতার সূচক শব্দ)",
+  "figurative_meaning_bn": "অত্যন্ত ক্রুদ্ধ; খুব রাগ হয়েছে এমন",
+  "figurative_meaning_en": "Extremely angry; in a state of great fury",
+  "similar_in_english": [
+    "Seeing red",
+    "Blowing a fuse",
+    "Hot under the collar"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুর কথায় খুব চটিতং হয়ে গেল।",
+    "বাড়িতে না যেতে বলায় ছেলেটি চটিতং অবস্থায় চলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He became very furious at his friend's words.",
+    "The boy left in a state of great anger when told not to go home."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Daily conversation",
+    "Colloquial expressions"
+  ],
+  "tags": [
+    "anger",
+    "emotion",
+    "colloquial",
+    "expressive"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression mimicking the sound or sensation of boiling anger in Bengali vernacular."
+}

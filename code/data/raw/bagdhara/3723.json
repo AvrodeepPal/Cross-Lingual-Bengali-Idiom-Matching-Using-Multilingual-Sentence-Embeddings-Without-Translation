@@ -1,0 +1,38 @@
+{
+  "id": "3723",
+  "idiom": "চপচপানি",
+  "alternative_idioms": [],
+  "literal_meaning": "চপচপ শব্দের অনুকরণসহ কথাবার্তার ধ্বনি (চপচপ করে কথা বলা)",
+  "figurative_meaning_bn": "প্রগল্ভতা; বড়বড় কথা; বাচালতা",
+  "figurative_meaning_en": "Boastfulness; empty big talk; excessive chattering",
+  "similar_in_english": [
+    "All talk and no action",
+    "Big mouth",
+    "Hot air"
+  ],
+  "example_sentences_in_bangla": [
+    "সে শুধু চপচপানি করে, কাজের সময় কিছু করে না।",
+    "তার চপচপানি শুনে বুঝলাম সে খুব বড় কথা বলে।"
+  ],
+  "example_sentences_in_english": [
+    "He is full of chattering but does nothing when it comes to work.",
+    "From his boastful chatter, I realized he loves to talk big."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "social criticism"
+  ],
+  "tags": [
+    "boasting",
+    "talkativeness",
+    "inaction"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom critiques empty verbosity common in everyday Bengali discourse."
+}

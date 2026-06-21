@@ -1,0 +1,39 @@
+{
+  "id": "4339",
+  "idiom": "ছিদ্রান্বেষণ",
+  "alternative_idioms": [],
+  "literal_meaning": "ছিদ্র (দোষ বা ফাটল) অন্বেষণ (খোঁজ করা)",
+  "figurative_meaning_bn": "পরের দোষত্রুটি খুঁজে বেড়ানো",
+  "figurative_meaning_en": "Searching for faults or flaws in others",
+  "similar_in_english": [
+    "Fault-finding",
+    "Nitpicking"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় অন্যের ছিদ্রান্বেষণ করে, কখনো নিজের ভুল দেখে না।",
+    "এই ছিদ্রান্বেষণের অভ্যাস তাকে অসংখ্য শত্রু তৈরি করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is always fault-finding in others and never sees his own mistakes.",
+    "This habit of nitpicking has earned him many enemies."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism",
+    "Social interactions"
+  ],
+  "tags": [
+    "fault-finding",
+    "criticism",
+    "negative behavior",
+    "interpersonal relations"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects a common behavioral critique in Bengali society, emphasizing self-reflection over judging others."
+}

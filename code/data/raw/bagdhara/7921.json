@@ -1,0 +1,42 @@
+{
+  "id": "7921",
+  "idiom": "বোহিমিয়ান",
+  "alternative_idioms": [],
+  "literal_meaning": "বোহেমিয়া অঞ্চলের বাসিন্দা (Bohemia region inhabitant)",
+  "figurative_meaning_bn": "স্বাধীনভাবে ঘোরাঘুরি করা ব্যক্তি, ভবঘুরে",
+  "figurative_meaning_en": "A person who wanders freely, a vagabond",
+  "similar_in_english": [
+    "Bohemian",
+    "Free spirit",
+    "Wanderlust"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন বোহিমিয়ান, সর্বদা নতুন জায়গায় ঘুরে বেড়ায়।",
+    "বোহিমিয়ান চালচলন তার জীবনকে রঙিন করে তুলেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a Bohemian, always wandering to new places.",
+    "The Bohemian lifestyle has made his life colorful."
+  ],
+  "usage_domain": [
+    "Lifestyle",
+    "Literature",
+    "Arts"
+  ],
+  "tags": [
+    "loanword",
+    "personality",
+    "freedom",
+    "vagabond"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "city",
+  "history": [
+    "The term 'Bohemian' originated in 19th-century France, referring to artists and writers who lived unconventional, nomadic lives, inspired by the Romani people mistakenly thought to be from Bohemia."
+  ],
+  "note": "This is a borrowed term from European culture, not native to traditional Bengali idioms."
+}

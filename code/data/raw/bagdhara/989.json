@@ -1,0 +1,39 @@
+{
+  "id": "989",
+  "idiom": "একচোখা",
+  "alternative_idioms": [
+    "একচোখো"
+  ],
+  "literal_meaning": "এক চোখের লোক",
+  "figurative_meaning_bn": "একচোখবিশিষ্ট কানা",
+  "figurative_meaning_en": "a one-eyed person",
+  "similar_in_english": [
+    "one-eyed man",
+    "In the land of the blind, the one-eyed man is king"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একচোখা বলে দূরের জিনিস দেখতে পায় না।",
+    "গ্রামে একজন একচোখা লোক ছিল, সবাই তাকে সম্মান করত।"
+  ],
+  "example_sentences_in_english": [
+    "He is one-eyed and cannot see distant objects clearly.",
+    "There was a one-eyed man in the village whom everyone respected."
+  ],
+  "usage_domain": [
+    "physical description",
+    "disability"
+  ],
+  "tags": [
+    "vision impairment",
+    "physical defect",
+    "colloquial term"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is often used descriptively in everyday Bengali speech, with no specific historical or mythological backstory."
+}

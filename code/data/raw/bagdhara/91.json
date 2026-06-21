@@ -1,0 +1,40 @@
+{
+  "id": "91",
+  "idiom": "অঙ্গুলি নির্দেশ",
+  "alternative_idioms": [
+    "অঙ্গুলি হেলন"
+  ],
+  "literal_meaning": "আঙ্গুলের নির্দেশ বা ইঙ্গিত",
+  "figurative_meaning_bn": "আঙ্গুলের ইসারা; আঙ্গুলের নির্দেশ",
+  "figurative_meaning_en": "Pointing with the finger; Indication or gesture by the finger",
+  "similar_in_english": [
+    "Point the finger at",
+    "Put one's finger on"
+  ],
+  "example_sentences_in_bangla": [
+    "তার দিকে অঙ্গুলি নির্দেশ করে বলল, এই লোকটাই চোর।",
+    "সে অঙ্গুলি নির্দেশ করে দোকানটি দেখাল।"
+  ],
+  "example_sentences_in_english": [
+    "He pointed the finger at him, saying, 'This man is the thief.'",
+    "She pointed with her finger to show the shop."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Accusation",
+    "Direction"
+  ],
+  "tags": [
+    "Gesture",
+    "Indication",
+    "Accusation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies accusation or simple direction in Bengali usage."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "504",
+  "idiom": "আদরে বাঁদর",
+  "alternative_idioms": [
+    "আদরে বাঁদর বনে"
+  ],
+  "literal_meaning": "আদরে (প্রশ্রয় বা আদর করে) বাঁদর (বাঁদর)",
+  "figurative_meaning_bn": "প্রশ্রয় পেয়ে নষ্ট",
+  "figurative_meaning_en": "spoiled or ruined due to excessive indulgence or leniency",
+  "similar_in_english": [
+    "spare the rod and spoil the child",
+    "give an inch and take a mile"
+  ],
+  "example_sentences_in_bangla": [
+    "আদরে বাঁদর করে ছেলেটাকে নষ্ট করে ফেলেছো।",
+    "এই প্রশ্রয়ে সে আদরে বাঁদর হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "You've spoiled the boy by pampering him like a monkey.",
+    "With all this leniency, he has turned into a spoiled brat."
+  ],
+  "usage_domain": [
+    "family",
+    "parenting",
+    "behavior"
+  ],
+  "tags": [
+    "negative",
+    "pampering",
+    "mischief",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from folk observations of monkeys in rural Bengal, which become unruly when fed or pampered by humans, symbolizing how indulgence leads to mischief."
+  ],
+  "note": "The extended form 'আদরে বাঁদর বনে' emphasizes the transformation into wild behavior."
+}

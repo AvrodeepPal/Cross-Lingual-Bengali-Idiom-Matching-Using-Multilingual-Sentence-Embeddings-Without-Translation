@@ -1,0 +1,41 @@
+{
+  "id": "2680",
+  "idiom": "খুচরা",
+  "alternative_idioms": [
+    "খুচরো"
+  ],
+  "literal_meaning": "ছোট মুদ্রা বা অল্প মূল্যের জিনিস (পেটি বা ছোটখাটো)",
+  "figurative_meaning_bn": "অল্প পরিমাণ",
+  "figurative_meaning_en": "small amount or quantity",
+  "similar_in_english": [
+    "small change",
+    "penny ante",
+    "small potatoes"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কাজটা খুচরা, বড় কিছু নয়।",
+    "খুচরা বাজারে দাম কম।"
+  ],
+  "example_sentences_in_english": [
+    "This job is small change, nothing major.",
+    "Prices are low in the petty market."
+  ],
+  "usage_domain": [
+    "business",
+    "economy",
+    "daily life"
+  ],
+  "tags": [
+    "petty",
+    "minor",
+    "small-scale"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Spelling variants reflect regional pronunciations in Bengali."
+}

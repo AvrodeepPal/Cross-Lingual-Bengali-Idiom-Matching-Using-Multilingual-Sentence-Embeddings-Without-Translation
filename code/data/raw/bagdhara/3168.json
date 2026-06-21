@@ -1,0 +1,40 @@
+{
+  "id": "3168",
+  "idiom": "গায়ে বিষ ছড়ানো",
+  "alternative_idioms": [
+    "গায়ে বিষ ঢালা"
+  ],
+  "literal_meaning": "শরীরে বিষ ছড়ানো বা ঢালা",
+  "figurative_meaning_bn": "অঙ্গ জ্বালানো; ক্রোধ হওয়া",
+  "figurative_meaning_en": "To feel a burning sensation in the body; to become angry",
+  "similar_in_english": [
+    "Burning with rage",
+    "Seeing red"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথা শুনে আমার গায়ে বিষ ছড়ানো লাগল।",
+    "সেই অপমানের পর তার গায়ে বিষ ঢালা হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Hearing his words made poison spread on my body, I was furious.",
+    "After that insult, he felt like poison was poured on his body, burning with anger."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Daily conversation"
+  ],
+  "tags": [
+    "anger",
+    "emotion",
+    "figurative",
+    "body metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses the metaphor of poison causing physical irritation to express intense emotional anger, common in Bengali oral traditions."
+}

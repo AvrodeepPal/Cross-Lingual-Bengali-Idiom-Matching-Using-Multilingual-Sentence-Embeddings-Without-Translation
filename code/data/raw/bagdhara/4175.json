@@ -1,0 +1,38 @@
+{
+  "id": "4175",
+  "idiom": "চোরা না শোনে ধর্মের কাহিনি",
+  "alternative_idioms": [],
+  "literal_meaning": "চোর ধর্মের কাহিনি শোনে না",
+  "figurative_meaning_bn": "অসৎকে সৎপথে আনার নিষ্ফল চেষ্টা; পাপিষ্ঠকে সদুপদেশ দেওয়া বৃথা",
+  "figurative_meaning_en": "Futile attempt to guide the wicked onto the righteous path; giving good counsel to the sinful is in vain",
+  "similar_in_english": [
+    "Casting pearls before swine"
+  ],
+  "example_sentences_in_bangla": [
+    "ওকে সৎপথের কথা বলে কোনো লাভ নেই, চোরা না শোনে ধর্মের কাহিনি।",
+    "এই অসৎ লোকটাকে উপদেশ দেওয়া বৃথা, চোরা না শোনে ধর্মের কাহিনি।"
+  ],
+  "example_sentences_in_english": [
+    "There's no use advising him on morals; a thief doesn't listen to religious tales.",
+    "Trying to preach to that wicked man is pointless; a thief doesn't listen to religious tales."
+  ],
+  "usage_domain": [
+    "morality",
+    "ethics",
+    "advice"
+  ],
+  "tags": [
+    "proverb",
+    "futility",
+    "wickedness",
+    "religious advice"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This proverb draws from traditional Bengali moral folklore emphasizing the futility of reforming the irredeemably corrupt."
+}

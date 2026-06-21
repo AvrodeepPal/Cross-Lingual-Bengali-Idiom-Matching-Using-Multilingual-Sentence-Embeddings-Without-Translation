@@ -1,0 +1,40 @@
+{
+  "id": "5822",
+  "idiom": "দিনে দিনে",
+  "alternative_idioms": [],
+  "literal_meaning": "দিন অনুসারে (day by day)",
+  "figurative_meaning_bn": "উত্তরোত্তর, ক্রমশঃ, ধীরে ধীরে",
+  "figurative_meaning_en": "gradually, progressively, day by day",
+  "similar_in_english": [
+    "day by day",
+    "little by little"
+  ],
+  "example_sentences_in_bangla": [
+    "তার স্বাস্থ্য দিনে দিনে উন্নত হচ্ছে।",
+    "দিনে দিনে দাম বৃদ্ধি পাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "Her health is improving day by day.",
+    "Prices are rising day by day."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature",
+    "personal development"
+  ],
+  "tags": [
+    "progression",
+    "gradual change",
+    "time"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Literary reference in Rabindranath Tagore's works, such as in the line describing increasing debt and lack of trade."
+  ],
+  "note": "Common in Bengali literature and everyday speech to denote incremental change."
+}

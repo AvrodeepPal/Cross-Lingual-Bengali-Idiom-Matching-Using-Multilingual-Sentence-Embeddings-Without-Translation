@@ -1,0 +1,40 @@
+{
+  "id": "8496",
+  "idiom": "মাথা দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "মাথা দেওয়া (শাব্দিকভাবে: মাথা দেওয়া বা মাথা নিয়ে দায়িত্ব নেওয়া)",
+  "figurative_meaning_bn": "কর্মসম্পাদনের দায়িত্ব গ্রহণ করা",
+  "figurative_meaning_en": "To assume responsibility for carrying out a task",
+  "similar_in_english": [
+    "Take the helm",
+    "Step up to the plate",
+    "Take charge"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রকল্পটির সফলতার জন্য তিনি মাথা দিয়েছেন।",
+    "কাজটি শেষ করার দায়িত্ব নেওয়ার জন্য সে মাথা দিল।"
+  ],
+  "example_sentences_in_english": [
+    "He took responsibility for the success of the project.",
+    "She stepped up and assumed the duty to complete the task."
+  ],
+  "usage_domain": [
+    "work",
+    "leadership",
+    "daily life"
+  ],
+  "tags": [
+    "responsibility",
+    "duty",
+    "commitment",
+    "obligation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom implies putting one's reputation or effort on the line for a task, common in professional and personal contexts in Bengali culture."
+}

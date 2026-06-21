@@ -1,0 +1,42 @@
+{
+  "id": "4977",
+  "idiom": "টুলো পণ্ডিত",
+  "alternative_idioms": [],
+  "literal_meaning": "টোলায় (প্রাচীন শিক্ষাপ্রতিষ্ঠানে) শিক্ষিত বা সংস্কৃত পড়ানো পণ্ডিত",
+  "figurative_meaning_bn": "মুখ্য অর্থ- টোলে শিক্ষাপ্রাপ্ত পণ্ডিত বা টোলে সংস্কৃত পড়ানো যে পণ্ডিতের কাজ বা পেশা; ব্যঙ্গে- কেবল পুঁথিগত বিদ্যায় অভিজ্ঞ পুঁথিগত বিদ্যাসাগর, যার শিক্ষা সেকেলে এবং ব্যাবহারিক জগতে অচল",
+  "figurative_meaning_en": "Primarily, a scholar educated in a tola or one who teaches Sanskrit in a tola as a profession; sarcastically, a bookish scholar proficient only in textual knowledge, whose education is outdated and impractical in the real world",
+  "similar_in_english": [
+    "Ivory tower intellectual",
+    "Armchair scholar",
+    "Bookish pedant"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন টুলো পণ্ডিত, শুধু বইয়ের জ্ঞান আছে কিন্তু বাস্তবে কিছু করতে পারে না।",
+    "আজকালকার যুগে টুলো পণ্ডিতের মতো চিন্তা করে কোনো লাভ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He is a tola pandit, full of book knowledge but useless in practical situations.",
+    "In today's world, thinking like a tola pandit won't get you anywhere."
+  ],
+  "usage_domain": [
+    "Education",
+    "Criticism",
+    "Literature"
+  ],
+  "tags": [
+    "ব্যঙ্গ",
+    "শিক্ষা",
+    "প্রাচীন জ্ঞান",
+    "সংস্কৃত"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Refers to the traditional 'tola' or pathshala system of education in rural Bengal, where Sanskrit and religious texts were taught by pandits in village settings, often critiquing the obsolescence of such education in modern times."
+  ],
+  "note": "The idiom highlights the transition from traditional to modern education in Bengali society."
+}

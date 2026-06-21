@@ -1,0 +1,33 @@
+{
+  "id": "8119",
+  "idiom": "ভূত-ভবিষ্যত",
+  "alternative_idioms": [],
+  "literal_meaning": "অতীত-ভবিষ্যৎ (past-future)",
+  "figurative_meaning_bn": "অতীত ও বর্তমান",
+  "figurative_meaning_en": "past and present",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "তার মনে সবসময় ভূত-ভবিষ্যতের ছায়া পড়ে থাকে।",
+    "ভূত-ভবিষ্যত নিয়ে চিন্তা না করে বর্তমানকে গ্রহণ করো।"
+  ],
+  "example_sentences_in_english": [
+    "His mind is always overshadowed by the past and present.",
+    "Don't worry about the past and present; focus on the future."
+  ],
+  "usage_domain": [
+    "conversation",
+    "literature"
+  ],
+  "tags": [
+    "time-related",
+    "reflective"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom literally refers to past and future but figuratively denotes past and present, possibly indicating a focus on non-future aspects."
+}

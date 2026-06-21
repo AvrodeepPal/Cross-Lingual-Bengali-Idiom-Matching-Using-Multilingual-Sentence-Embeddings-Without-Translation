@@ -1,0 +1,42 @@
+{
+  "id": "1905",
+  "idiom": "কাঠগোঁয়ার",
+  "alternative_idioms": [
+    "কাটগোঁয়ার"
+  ],
+  "literal_meaning": "কাঠের মতো গোঁয়ার বা কাঠমূর্তির মতো একগুঁয়ে",
+  "figurative_meaning_bn": "অত্যন্ত একগুঁয়ে প্রকৃতি, অত্যন্ত গোঁয়ার, ভালমন্দ বোধহীন",
+  "figurative_meaning_en": "Extremely stubborn nature, very obstinate, lacking sense of good and bad",
+  "similar_in_english": [
+    "stubborn as a mule",
+    "pig-headed",
+    "blockhead"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কাঠগোঁয়ার প্রকৃতির জন্য কেউ তার কথা শোনে না।",
+    "এই কাঠগোঁয়ার লোকের সঙ্গে কাজ করা অসম্ভব।"
+  ],
+  "example_sentences_in_english": [
+    "No one listens to him because of his stubborn nature.",
+    "It's impossible to work with this obstinate person."
+  ],
+  "usage_domain": [
+    "personality description",
+    "colloquial speech",
+    "everyday conversation"
+  ],
+  "tags": [
+    "stubbornness",
+    "obstinacy",
+    "negative trait",
+    "personality"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the imagery of wood being rigid and unyielding, common in Bengali folk expressions."
+}

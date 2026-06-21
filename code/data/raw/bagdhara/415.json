@@ -1,0 +1,40 @@
+{
+  "id": "415",
+  "idiom": "আগেআগে",
+  "alternative_idioms": [],
+  "literal_meaning": "আগে আগে (ahead ahead, emphasizing leading position)",
+  "figurative_meaning_bn": "সামনে",
+  "figurative_meaning_en": "in front or ahead",
+  "similar_in_english": [
+    "at the forefront",
+    "leading the way"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আগেআগে দলটিকে নিয়ে এগিয়ে গেল।",
+    "পতাকা হাতে করে নেতা আগেআগে চলছিলেন।"
+  ],
+  "example_sentences_in_english": [
+    "He led the group ahead at the forefront.",
+    "The leader marched ahead with the flag in hand."
+  ],
+  "usage_domain": [
+    "leadership",
+    "processions",
+    "daily conversation"
+  ],
+  "tags": [
+    "directional",
+    "leadership",
+    "historical reference"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References Matangini Hazra, a freedom fighter who led processions during the Quit India Movement in 1942, carrying the flag ahead despite being shot."
+  ],
+  "note": "Often used in contexts of bravery and leadership in Bengali historical narratives."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8313",
+  "idiom": "মনের কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "মনের কথা (mind's words or thoughts)",
+  "figurative_meaning_bn": "গোপন ইচ্ছা",
+  "figurative_meaning_en": "secret desire or hidden wish",
+  "similar_in_english": [
+    "heart's desire",
+    "what's on one's mind"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মনের কথা কখনো প্রকাশ করেনি।",
+    "আমি তোমার মনের কথা বুঝতে পারছি না।"
+  ],
+  "example_sentences_in_english": [
+    "He never revealed his heart's desire.",
+    "I can't understand what's really on your mind."
+  ],
+  "usage_domain": [
+    "emotions",
+    "personal relationships",
+    "literature"
+  ],
+  "tags": [
+    "secret",
+    "mind",
+    "desire",
+    "poetic"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References a line from a Bengali bhava-vadi song: 'মন বলে আমি মনের কথা জানি না', often associated with emotional and poetic expressions in Bengali literature."
+  ],
+  "note": "Commonly used in songs and poetry to denote unspoken inner feelings."
+}

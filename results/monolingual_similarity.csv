@@ -1,5 +1,0 @@
-model,lang_pair,metric_type,mean_cosine
-mSBERT,bn-bn,monolingual_similarity,0.6814
-LaBSE,bn-bn,monolingual_similarity,0.3307
-XLM-R,bn-bn,monolingual_similarity,0.9942
-BanglaBERT,bn-bn,monolingual_similarity,0.8306

@@ -1,0 +1,38 @@
+{
+  "id": "1578",
+  "idiom": "কবোষ্ণ",
+  "alternative_idioms": [],
+  "literal_meaning": "কিছুটা উষ্ণ বা মধ্যম তাপমাত্রার",
+  "figurative_meaning_bn": "ঈষদোষ্ণ",
+  "figurative_meaning_en": "lukewarm or tepid",
+  "similar_in_english": [
+    "lukewarm",
+    "tepid"
+  ],
+  "example_sentences_in_bangla": [
+    "চায়ের কাপটা কবোষ্ণ হয়ে গেছে, আর গরম নেই।",
+    "আবহাওয়া কবোষ্ণ, বাইরে ঘুরতে ভালো লাগবে।"
+  ],
+  "example_sentences_in_english": [
+    "The cup of tea has become lukewarm, it's no longer hot.",
+    "The weather is lukewarm, it would be nice to go out."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "food and drink",
+    "weather"
+  ],
+  "tags": [
+    "temperature",
+    "neutral state",
+    "common expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used in everyday contexts to describe moderate warmth, rooted in classical Bengali vocabulary."
+}

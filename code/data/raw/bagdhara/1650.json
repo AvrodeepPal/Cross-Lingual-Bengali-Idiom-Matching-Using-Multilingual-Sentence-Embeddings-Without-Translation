@@ -1,0 +1,37 @@
+{
+  "id": "1650",
+  "idiom": "কলম পেশা",
+  "alternative_idioms": [],
+  "literal_meaning": "কলমের পেশা (pen's profession)",
+  "figurative_meaning_bn": "কেরানীগিরি, নবিশী, লেখকবৃত্তি",
+  "figurative_meaning_en": "clerical work, clerkship, writing profession",
+  "similar_in_english": [
+    "white-collar job",
+    "desk job"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কলম পেশা, সে অফিসে কাজ করে।",
+    "কলম পেশা আমার স্বপ্নের পেশা।"
+  ],
+  "example_sentences_in_english": [
+    "His profession is clerical work; he works in an office.",
+    "The profession of the pen is my dream job."
+  ],
+  "usage_domain": [
+    "professional",
+    "occupational"
+  ],
+  "tags": [
+    "writing",
+    "clerical",
+    "employment"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Refers to traditional bureaucratic or literary professions in Bengali society"
+}

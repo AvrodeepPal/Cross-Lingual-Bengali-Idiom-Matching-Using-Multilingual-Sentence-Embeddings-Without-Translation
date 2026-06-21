@@ -1,0 +1,42 @@
+{
+  "id": "9107",
+  "idiom": "রাবণের দোষে সমুদ্রবন্ধন",
+  "alternative_idioms": [],
+  "literal_meaning": "রাবণের দোষে সমুদ্রের বন্ধন",
+  "figurative_meaning_bn": "একের দোষে অন্যের কষ্ট",
+  "figurative_meaning_en": "One person's fault causing suffering to others",
+  "similar_in_english": [
+    "One bad apple spoils the bunch",
+    "Collateral damage from one person's mistake"
+  ],
+  "example_sentences_in_bangla": [
+    "একজন কর্মচারীর ভুলের দোষে পুরো কোম্পানি ক্ষতিগ্রস্ত হলো, রাবণের দোষে সমুদ্রবন্ধনের মতো।",
+    "পাড়ায় একের চুরির জন্য সবাইকে জেরা করা হলো, এটা রাবণের দোষে সমুদ্রবন্ধন।"
+  ],
+  "example_sentences_in_english": [
+    "Due to one employee's error, the whole company suffered, like the ocean bridge because of Ravana's fault.",
+    "The neighborhood was questioned because of one thief, just like the ocean binding due to Ravana's sin."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Moral lessons",
+    "Literature"
+  ],
+  "tags": [
+    "Mythological",
+    "Ramayana",
+    "Fault",
+    "Suffering",
+    "Collective punishment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the Ramayana epic, where Ravana's abduction of Sita led to Rama's vanara army building a bridge (Setu) across the ocean to Lanka, causing immense labor and hardship for the innocent army due to Ravana's wrongdoing."
+  ],
+  "note": "References Hindu mythology, commonly used in Bengali to highlight unjust collective suffering."
+}

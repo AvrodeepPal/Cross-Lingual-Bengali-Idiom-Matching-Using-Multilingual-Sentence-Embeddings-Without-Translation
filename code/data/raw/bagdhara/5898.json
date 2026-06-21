@@ -1,0 +1,37 @@
+{
+  "id": "5898",
+  "idiom": "দুর্মুখ",
+  "alternative_idioms": [],
+  "literal_meaning": "দুর্ (খারাপ) + মুখ (মুখ বা বাক্য)",
+  "figurative_meaning_bn": "কটুভাষী, অপ্রিয়ভাষী",
+  "figurative_meaning_en": "Harsh-spoken, unpleasant in speech",
+  "similar_in_english": [
+    "Foul-mouthed",
+    "Sharp-tongued"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন দুর্মুখ ব্যক্তি, সবসময় কটু কথা বলে।",
+    "দুর্মুখ হয়ে কথা বললে কেউ শোনে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a foul-mouthed person, always speaking harshly.",
+    "Speaking in a sharp-tongued manner won't get anyone to listen."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Personality description"
+  ],
+  "tags": [
+    "Negative trait",
+    "Speech",
+    "Insult"
+  ],
+  "frequency": "Common",
+  "sentiment": "Negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to someone with rude or bitter speech patterns in Bengali cultural context."
+}

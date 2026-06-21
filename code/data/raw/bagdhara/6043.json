@@ -1,0 +1,46 @@
+{
+  "id": "6043",
+  "idiom": "ধাঁ করে",
+  "alternative_idioms": [
+    "ধাঁ ধাঁ করে",
+    "ধাঁই কিরি কিরি (ওড়িষী)",
+    "ধাঁই ধাঁই করে",
+    "ধাঁয়েঁ ধাঁয়েঁ (হিন্দি)"
+  ],
+  "literal_meaning": "অনুকরণমূলক শব্দ যা হঠাৎ বা দ্রুত কোনো কাজের শব্দ প্রকাশ করে (onomatopoeic sound mimicking sudden action)",
+  "figurative_meaning_bn": "খুব তাড়াতাড়ি; দ্রুত",
+  "figurative_meaning_en": "Very quickly; swiftly",
+  "similar_in_english": [
+    "in a flash",
+    "quick as a wink",
+    "in the blink of an eye"
+  ],
+  "example_sentences_in_bangla": [
+    "ধাঁ করে কাজটা শেষ করে দাও।",
+    "সে ধাঁ করে উঠে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "Finish the work in a flash.",
+    "He got up in a flash."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "spoken language"
+  ],
+  "tags": [
+    "speed",
+    "quickness",
+    "onomatopoeia",
+    "regional variant"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom has variants influenced by Odia and Hindi linguistic traditions, reflecting cross-regional onomatopoeic expressions in South Asian languages."
+  ],
+  "note": "The idiom is primarily onomatopoeic and used colloquially across Bengal and neighboring regions."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "728",
+  "idiom": "উঁচকপালী",
+  "alternative_idioms": [
+    "উটকপালী",
+    "উতকপালী",
+    "গজকপালী"
+  ],
+  "literal_meaning": "উঁচু কপালের মহিলা (high forehead woman)",
+  "figurative_meaning_bn": "অলক্ষণা/কুদর্শনা/দুর্ভাগা নারী",
+  "figurative_meaning_en": "An ill-omened, unlucky, or unfortunate woman (according to popular belief)",
+  "similar_in_english": [
+    "jinxed woman",
+    "ill-fated lady"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের লোকেরা তাকে উঁচকপালী বলে এড়িয়ে চলে।",
+    "উঁচকপালী হওয়ায় তার বিয়ে হয়নি বলে সবাই মনে করে।"
+  ],
+  "example_sentences_in_english": [
+    "The villagers avoid her, calling her an ill-omened woman.",
+    "Everyone thinks her marriage didn't happen because she's considered unlucky."
+  ],
+  "usage_domain": [
+    "superstition",
+    "folklore"
+  ],
+  "tags": [
+    "omen",
+    "women",
+    "bad luck",
+    "folk belief"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom stems from traditional Bengali folk beliefs where physical features like a high forehead in women were superstitiously linked to misfortune or bad omens."
+  ],
+  "note": "Based on popular cultural superstition without religious or historical figures."
+}

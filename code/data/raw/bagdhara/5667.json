@@ -1,0 +1,39 @@
+{
+  "id": "5667",
+  "idiom": "দম বার হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "শ্বাস বন্ধ হয়ে যাওয়া",
+  "figurative_meaning_bn": "অত্যধিক ক্লান্ত হওয়া",
+  "figurative_meaning_en": "To become extremely tired or exhausted",
+  "similar_in_english": [
+    "Out of breath",
+    "Run out of steam",
+    "Beat"
+  ],
+  "example_sentences_in_bangla": [
+    "দৌড়াতে দৌড়াতে সে দম বার হয়ে পড়ল।",
+    "সারাদিন কাজ করে তার দম বার হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He ran so much that he became out of breath.",
+    "After working all day, she was completely exhausted."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Physical activities",
+    "Sports"
+  ],
+  "tags": [
+    "fatigue",
+    "exhaustion",
+    "physical tiredness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": ""
+}

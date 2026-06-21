@@ -1,0 +1,41 @@
+{
+  "id": "4250",
+  "idiom": "ছরকট",
+  "alternative_idioms": [
+    "কুট"
+  ],
+  "literal_meaning": "ছড়ানো-ছিটানো অবস্থা (অনুকরণমূলক শব্দ)",
+  "figurative_meaning_bn": "অতি অগোছালো অবস্থা; ছড়াছড়ি; বিশৃঙ্খল",
+  "figurative_meaning_en": "extremely disorganized state; scattered; disorderly",
+  "similar_in_english": [
+    "all over the place",
+    "in disarray",
+    "in a mess"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরের ভিতর জিনিসপত্র ছরকট হয়ে আছে।",
+    "তার টেবিলে কাগজপত্র ছরকট অবস্থায় পড়ে ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "The items in the house are in a scattered mess.",
+    "Papers were lying in a disorganized state on his desk."
+  ],
+  "usage_domain": [
+    "daily life",
+    "household"
+  ],
+  "tags": [
+    "disorder",
+    "mess",
+    "chaos",
+    "scattered"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term may be onomatopoeic, evoking the sound or sight of scattering."
+}

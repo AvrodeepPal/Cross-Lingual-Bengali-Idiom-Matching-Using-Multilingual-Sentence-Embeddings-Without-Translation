@@ -1,0 +1,41 @@
+{
+  "id": "9185",
+  "idiom": "রোবট",
+  "alternative_idioms": [],
+  "literal_meaning": "যন্ত্রপ্রাণী বা মেকানিক্যাল ডিভাইস",
+  "figurative_meaning_bn": "যন্ত্রের মত কাজ করে এমন মানুষ",
+  "figurative_meaning_en": "A person who works mechanically or like a machine",
+  "similar_in_english": [
+    "working like a robot",
+    "cog in the machine",
+    "mindless drone"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অফিসে রোবটের মতো কাজ করে, কোনো সৃজনশীলতা নেই।",
+    "এই কারখানায় শ্রমিকরা রোবটের মতো দিনরাত পরিশ্রম করে।"
+  ],
+  "example_sentences_in_english": [
+    "He works in the office like a robot, with no creativity.",
+    "The factory workers toil like robots day and night."
+  ],
+  "usage_domain": [
+    "workplace",
+    "daily conversation",
+    "modern technology"
+  ],
+  "tags": [
+    "modern idiom",
+    "mechanical behavior",
+    "emotionless work"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "The term 'robot' originates from the Czech word 'robota' meaning forced labor, introduced in literature by Karel Čapek in 1920; in Bengali, it is a transliteration used figuratively for mechanical human behavior in contemporary contexts."
+  ],
+  "note": "This idiom reflects modern industrial influences and is not traditional Bengali but widely adopted in urban speech."
+}

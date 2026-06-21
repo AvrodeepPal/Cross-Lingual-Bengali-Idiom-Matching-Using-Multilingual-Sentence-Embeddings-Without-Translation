@@ -1,0 +1,37 @@
+{
+  "id": "3016",
+  "idiom": "গলায় কাপড়",
+  "alternative_idioms": [],
+  "literal_meaning": "গলায় কাপড় (neck-এ cloth)",
+  "figurative_meaning_bn": "অতি দারিদ্র বা বিনয়ীর লক্ষণ",
+  "figurative_meaning_en": "Sign of extreme poverty or humility",
+  "similar_in_english": [
+    "in rags",
+    "down and out"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এতটাই দরিদ্র যে তার গলায় কাপড়।",
+    "বিনয়ের চরম রূপ হলো গলায় কাপড় পরা।"
+  ],
+  "example_sentences_in_english": [
+    "He is so poor that he has only a cloth around his neck.",
+    "The ultimate sign of humility is to wear a cloth around the neck."
+  ],
+  "usage_domain": [
+    "poverty description",
+    "humility expression"
+  ],
+  "tags": [
+    "দারিদ্র্য",
+    "বিনয়",
+    "সামাজিক মন্তব্য"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলা সাহিত্যে দারিদ্র্যের চিত্রণে প্রায়শই ব্যবহৃত হয়"
+}

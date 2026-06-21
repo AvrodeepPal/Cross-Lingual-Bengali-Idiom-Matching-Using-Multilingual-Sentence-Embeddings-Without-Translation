@@ -1,0 +1,40 @@
+{
+  "id": "7912",
+  "idiom": "বোবাকান্না",
+  "alternative_idioms": [],
+  "literal_meaning": "নীরব কান্না (বোবা অর্থ নীরব বা মূক, কান্না অর্থ ক্রন্দন)",
+  "figurative_meaning_bn": "ভিতরে ভিতরে চাপা কান্না, রুদ্ধ কান্না",
+  "figurative_meaning_en": "Suppressed or silent crying from within, stifled sobs",
+  "similar_in_english": [
+    "Crying on the inside",
+    "Silent tears",
+    "Bottled-up emotions"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার কষ্ট লুকিয়ে বোবাকান্না করছিল।",
+    "পরিবারের সামনে হাসিমুখে থেকেও তার বোবাকান্না ছিল অবিরাম।"
+  ],
+  "example_sentences_in_english": [
+    "She was crying silently inside while hiding her pain.",
+    "Even with a smiling face in front of the family, her silent sobs continued."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Literature",
+    "Daily conversation"
+  ],
+  "tags": [
+    "sadness",
+    "suppression",
+    "inner pain",
+    "emotional restraint"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom captures the Bengali cultural nuance of expressing grief discreetly to maintain social harmony."
+}

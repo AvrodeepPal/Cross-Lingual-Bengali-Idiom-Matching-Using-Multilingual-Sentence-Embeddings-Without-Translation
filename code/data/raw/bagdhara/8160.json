@@ -1,0 +1,39 @@
+{
+  "id": "8160",
+  "idiom": "ভেস্তে যাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাসিয়া যাওয়া বা দ্রবীভূত হয়ে যাওয়া",
+  "figurative_meaning_bn": "পণ্ড বা নষ্ট হওয়া; ফেঁসে যাওয়া; উলট-পালট হওয়া",
+  "figurative_meaning_en": "to be ruined or spoiled; to get messed up; to be turned upside down",
+  "similar_in_english": [
+    "go down the drain",
+    "fall apart",
+    "come unstuck"
+  ],
+  "example_sentences_in_bangla": [
+    "সব আয়োজন ভেস্তে গেছে।",
+    "প্রকল্পটি সম্পূর্ণ ভেস্তে যাবে যদি অর্থ না পাওয়া যায়।"
+  ],
+  "example_sentences_in_english": [
+    "All the arrangements have gone to waste.",
+    "The project will completely fall apart if we don't get the funding."
+  ],
+  "usage_domain": [
+    "daily life",
+    "planning",
+    "events"
+  ],
+  "tags": [
+    "failure",
+    "disorder",
+    "ruin"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes the image of something dissolving or floating away like debris in water, common in Bengali expressive language."
+}

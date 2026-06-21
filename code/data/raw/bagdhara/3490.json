@@ -1,0 +1,38 @@
+{
+  "id": "3490",
+  "idiom": "ঘাটখরচ",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘাটে (দাহকার্যস্থলে) খরচ",
+  "figurative_meaning_bn": "মড়া পোড়াবার খরচ",
+  "figurative_meaning_en": "the expense of cremating a dead body",
+  "similar_in_english": [
+    "funeral expenses"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মৃত্যুর পর পরিবারকে ঘাটখরচের জন্য অনেক টাকা খরচ করতে হয়েছে।",
+    "ব্যবসায়ের শেষ পর্যায়ে এই ঘাটখরচ মহা কষ্টের।"
+  ],
+  "example_sentences_in_english": [
+    "After his death, the family had to spend a lot on the ghatkharcha.",
+    "In the final stage of the business, this ghatkharcha caused immense trouble."
+  ],
+  "usage_domain": [
+    "family",
+    "finance",
+    "death"
+  ],
+  "tags": [
+    "death",
+    "expense",
+    "funeral",
+    "tradition"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional Hindu cremation practices along river ghats in Bengal."
+}

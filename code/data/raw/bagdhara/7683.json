@@ -1,0 +1,38 @@
+{
+  "id": "7683",
+  "idiom": "বিধি",
+  "alternative_idioms": [],
+  "literal_meaning": "বিধান বা নিয়ম",
+  "figurative_meaning_bn": "ঈশ্বর; আল্লাহ; বিধানকর্তা",
+  "figurative_meaning_en": "God; Allah; the Creator",
+  "similar_in_english": [
+    "the Almighty",
+    "Providence",
+    "the Divine"
+  ],
+  "example_sentences_in_bangla": [
+    "বিধির ইচ্ছায় এই ঘটনা ঘটেছে।",
+    "সবকিছু বিধির হাতে।"
+  ],
+  "example_sentences_in_english": [
+    "This event happened by the will of Vidhi.",
+    "Everything is in the hands of the Creator."
+  ],
+  "usage_domain": [
+    "religion",
+    "spirituality"
+  ],
+  "tags": [
+    "divine",
+    "fate",
+    "god"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to divine authority in a monotheistic sense, common in Bengali literature and speech."
+}

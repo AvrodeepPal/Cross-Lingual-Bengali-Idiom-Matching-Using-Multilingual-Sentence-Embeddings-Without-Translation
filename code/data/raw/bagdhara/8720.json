@@ -1,0 +1,44 @@
+{
+  "id": "8720",
+  "idiom": "মুখ বন্ধ রাখা",
+  "alternative_idioms": [
+    "মুখ বন্ধ করা",
+    "মুখ বুজে থাকা",
+    "মুখে সেলাই করা"
+  ],
+  "literal_meaning": "মুখ বন্ধ করে রাখা (শাব্দিকভাবে মুখ বন্ধ রাখা)",
+  "figurative_meaning_bn": "কথা না বলা; চুপ, নীরব বা মৌন থাকা",
+  "figurative_meaning_en": "To not speak; to remain silent, quiet, or mute",
+  "similar_in_english": [
+    "Keep one's mouth shut",
+    "Hold one's tongue",
+    "Button one's lip"
+  ],
+  "example_sentences_in_bangla": [
+    "সময় খারাপ, মুখ বন্ধ রাখা উচিত।",
+    "সে রহস্য জানে কিন্তু মুখ বন্ধ করে আছে।"
+  ],
+  "example_sentences_in_english": [
+    "Times are tough, so it's best to keep your mouth shut.",
+    "He knows the secret but is keeping quiet about it."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "advice",
+    "secrecy"
+  ],
+  "tags": [
+    "silence",
+    "discretion",
+    "restraint",
+    "prudence"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes caution and restraint in speech, a key aspect of Bengali social etiquette."
+}

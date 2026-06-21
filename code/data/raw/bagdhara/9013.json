@@ -1,0 +1,39 @@
+{
+  "id": "9013",
+  "idiom": "রক্ষাকবচ",
+  "alternative_idioms": [],
+  "literal_meaning": "রক্ষণাবেক্ষণের কবচ বা অ্যামুলেট",
+  "figurative_meaning_bn": "বিপদ থেকে বাঁচার উপায়, দুর্বলশ্রেণিকে রক্ষা করতে সরকার কর্তৃক গৃহীত ব্যবস্থা",
+  "figurative_meaning_en": "A means of protection from danger; government measures to safeguard vulnerable sections of society",
+  "similar_in_english": [
+    "social safety net",
+    "protective shield"
+  ],
+  "example_sentences_in_bangla": [
+    "এই নতুন সামাজিক নিরাপত্তা আইনটি দরিদ্র জনগণের জন্য রক্ষাকবচের মতো কাজ করবে।",
+    "সরকারের কল্যাণমূলক প্রকল্পগুলি কৃষকদের জন্য একটি রক্ষাকবচ প্রদান করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "This new social security law will act as a protective amulet for the poor population.",
+    "The government's welfare projects have provided a safety net for the farmers."
+  ],
+  "usage_domain": [
+    "politics",
+    "social welfare",
+    "government policy"
+  ],
+  "tags": [
+    "protection",
+    "government",
+    "vulnerable",
+    "safety"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term draws from the concept of a protective talisman, often used metaphorically in modern socio-political contexts."
+}

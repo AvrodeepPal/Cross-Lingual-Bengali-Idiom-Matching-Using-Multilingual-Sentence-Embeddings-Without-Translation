@@ -1,0 +1,42 @@
+{
+  "id": "7185",
+  "idiom": "ফেরেফবাজি",
+  "alternative_idioms": [
+    "ফেরেববাজি"
+  ],
+  "literal_meaning": "প্রতারণামূলক ঘুরঘুটি বা বাজি ধরা (deceptive turns or tricky maneuvers)",
+  "figurative_meaning_bn": "প্রবঞ্চনা, ফেরেববাজের কাজ, বৃত্তি বা আচরণ",
+  "figurative_meaning_en": "Deception, the work or profession of a cheater, or fraudulent behavior",
+  "similar_in_english": [
+    "sharp practice",
+    "double-dealing",
+    "underhanded tactics"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ব্যবসায় ফেরেফবাজি করে লাভ করে।",
+    "ফেরেফবাজি করে কাউকে বিশ্বাস করানো যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He profits in business through trickery.",
+    "You can't gain trust by engaging in deception."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "commerce",
+    "everyday conversation"
+  ],
+  "tags": [
+    "deception",
+    "trickery",
+    "fraud",
+    "negative behavior"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom originates from traditional Bengali market haggling practices, reflecting cultural attitudes toward fair trade."
+}

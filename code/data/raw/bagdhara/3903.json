@@ -1,0 +1,40 @@
+{
+  "id": "3903",
+  "idiom": "চিঠিচাপাটি",
+  "alternative_idioms": [],
+  "literal_meaning": "চিঠি এবং চাপাটি (চিঠিপত্রের স্তূপীকরণ বা হ্যান্ডলিং)",
+  "figurative_meaning_bn": "চিঠিসংক্রান্ত নানাকাগজপত্র; চালাচালির চিঠিসমূহ",
+  "figurative_meaning_en": "Various paperwork related to letters; routine correspondence letters",
+  "similar_in_english": [
+    "paperwork",
+    "red tape",
+    "correspondence"
+  ],
+  "example_sentences_in_bangla": [
+    "অফিসে চিঠিচাপাটির কাজে সময় নষ্ট হয়ে যায়।",
+    "তারা চিঠিচাপাটি করে দিন কাটায়।"
+  ],
+  "example_sentences_in_english": [
+    "Time is wasted on letter paperwork in the office.",
+    "They spend the day handling routine correspondence."
+  ],
+  "usage_domain": [
+    "administration",
+    "office work",
+    "communication"
+  ],
+  "tags": [
+    "paperwork",
+    "bureaucracy",
+    "letters",
+    "routine tasks"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Refers to bureaucratic processes common in Bengali administrative language"
+}

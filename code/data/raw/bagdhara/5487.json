@@ -1,0 +1,37 @@
+{
+  "id": "5487",
+  "idiom": "তে এঁটে",
+  "alternative_idioms": [],
+  "literal_meaning": "in it stuck/adhered",
+  "figurative_meaning_bn": "বদমাশ, ধূর্ত",
+  "figurative_meaning_en": "rogue, cunning",
+  "similar_in_english": [
+    "sly fox",
+    "crafty rogue"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তে এঁটে ধূর্ত লোক, কাউকে বিশ্বাস করা যায় না।",
+    "গাঁয়ের সেই তে এঁটে বদমাশ সবাইকে প্রতারিত করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a cunning rogue stuck in his ways, no one can trust him.",
+    "That village badmash is sly and deceptive to everyone."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "character description"
+  ],
+  "tags": [
+    "negative",
+    "deception",
+    "personality"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom text appears potentially garbled in input; interpreted based on provided meaning for analysis."
+}

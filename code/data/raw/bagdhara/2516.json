@@ -1,0 +1,39 @@
+{
+  "id": "2516",
+  "idiom": "খবর রাখা",
+  "alternative_idioms": [],
+  "literal_meaning": "খবর (news/information) রাখা (to keep)",
+  "figurative_meaning_bn": "তত্ত্ব সম্পর্ককে অবগত থাকা",
+  "figurative_meaning_en": "To stay informed or keep track of something",
+  "similar_in_english": [
+    "Keep tabs on",
+    "Stay in the loop",
+    "Keep an eye on"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি তোমাদের সব খবর রাখি।",
+    "সে তার পরিবারের খবর রাখে না।"
+  ],
+  "example_sentences_in_english": [
+    "I keep track of all your news.",
+    "He doesn't stay informed about his family."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "relationships",
+    "surveillance"
+  ],
+  "tags": [
+    "awareness",
+    "information",
+    "monitoring"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in modern Bengali speech to imply vigilance or awareness without any specific historical origin."
+}

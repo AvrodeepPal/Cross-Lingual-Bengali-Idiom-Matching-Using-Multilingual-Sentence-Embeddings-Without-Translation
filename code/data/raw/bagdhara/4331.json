@@ -1,0 +1,43 @@
+{
+  "id": "4331",
+  "idiom": "ছিছি করা",
+  "alternative_idioms": [
+    "ছিছি পড়া",
+    "ছ্যা ছ্যা করা"
+  ],
+  "literal_meaning": "অনুনাদ-শব্দ 'ছিছি' উচ্চারণ করে বিরক্তি বা লজ্জা প্রকাশ করা",
+  "figurative_meaning_bn": "ধিক্কার দেওয়া; নিন্দা করা",
+  "figurative_meaning_en": "To express disapproval or condemnation; to criticize or shame",
+  "similar_in_english": [
+    "Tsk-tsk",
+    "Tut-tut",
+    "To boo or hiss in disapproval"
+  ],
+  "example_sentences_in_bangla": [
+    "চারদিকে সবাই ছিছি করছে।",
+    "তার কাজ দেখে সকলে ছিছি করে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone around is tut-tutting.",
+    "Everyone tsk-tsked upon seeing his actions."
+  ],
+  "usage_domain": [
+    "social interaction",
+    "emotional expression",
+    "criticism"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "disgust",
+    "condemnation",
+    "shame"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom mimics the sound of disapproval, deeply embedded in everyday Bengali conversational culture."
+}

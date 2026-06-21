@@ -1,0 +1,40 @@
+{
+  "id": "2638",
+  "idiom": "খাসি",
+  "alternative_idioms": [],
+  "literal_meaning": "খোয়াই গরু বা ছাগল (castrated bull or goat)",
+  "figurative_meaning_bn": "আহাম্মক; বোকা; হাঁদা; হাবাগবা",
+  "figurative_meaning_en": "fool; idiot; simpleton; dolt",
+  "similar_in_english": [
+    "silly goose",
+    "dumb as a post"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো একটা খাসি, কিছুই বোঝে না।",
+    "এই খাসির মতো কাজ করলে কখনো সফল হবি না।"
+  ],
+  "example_sentences_in_english": [
+    "He's such a khasi, he doesn't understand anything.",
+    "If you act like this khasi, you'll never succeed."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "derogatory",
+    "everyday speech"
+  ],
+  "tags": [
+    "insult",
+    "foolishness",
+    "rural origin"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The term originates from the practice of castrating goats or bulls in rural Bengal, where such animals are seen as docile and lacking vigor, metaphorically extended to foolish or effeminate people."
+  ],
+  "note": "Often used in informal, rural contexts to mock someone's lack of intelligence or assertiveness."
+}

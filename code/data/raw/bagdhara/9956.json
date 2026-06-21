@@ -1,0 +1,40 @@
+{
+  "id": "9956",
+  "idiom": "হলফনামা",
+  "alternative_idioms": [],
+  "literal_meaning": "শপথের নথি বা অঙ্গীকারপত্র",
+  "figurative_meaning_bn": "বিচারকের কাছে করা অঙ্গীকারের ভিত্তিতে তৈরি শপথপত্র",
+  "figurative_meaning_en": "A sworn affidavit prepared on the basis of a commitment made before a judge",
+  "similar_in_english": [
+    "affidavit",
+    "sworn statement",
+    "deposition under oath"
+  ],
+  "example_sentences_in_bangla": [
+    "আসামি তার হলফনামায় সবকিছু স্বীকার করেছে।",
+    "মামলার জন্য হলফনামা জমা দেওয়া হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The defendant admitted everything in his affidavit.",
+    "The affidavit has been submitted for the case."
+  ],
+  "usage_domain": [
+    "legal",
+    "judicial",
+    "formal documentation"
+  ],
+  "tags": [
+    "শপথ",
+    "আইনি",
+    "অঙ্গীকার",
+    "নথি"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This term is primarily a legal expression rather than a figurative idiom, rooted in colonial-era legal practices in Bengal."
+}

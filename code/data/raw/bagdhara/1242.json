@@ -1,0 +1,37 @@
+{
+  "id": "1242",
+  "idiom": "ওকালতি",
+  "alternative_idioms": [],
+  "literal_meaning": "অকালতি বা পক্ষপাতমূলক যুক্তি দেওয়া",
+  "figurative_meaning_bn": "কোন কিছুর সমর্থনে অযাচিত মন্তব্য",
+  "figurative_meaning_en": "Unsolicited comment in support of something",
+  "similar_in_english": [
+    "unsolicited advice",
+    "putting in a good word"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কেন সবসময় অন্যের ওকালতি করে?",
+    "এখানে তোমার ওকালতি দরকার নেই।"
+  ],
+  "example_sentences_in_english": [
+    "Why does he always advocate for others unasked?",
+    "Your advocacy is not needed here."
+  ],
+  "usage_domain": [
+    "conversation",
+    "social interactions"
+  ],
+  "tags": [
+    "advocacy",
+    "unsolicited",
+    "supportive remark"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from the concept of legal advocacy, commonly used in everyday Bengali speech."
+}

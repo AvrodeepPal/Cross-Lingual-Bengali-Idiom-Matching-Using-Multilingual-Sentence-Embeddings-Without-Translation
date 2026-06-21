@@ -1,0 +1,38 @@
+{
+  "id": "501",
+  "idiom": "আদব-কায়দাদুরস্ত",
+  "alternative_idioms": [],
+  "literal_meaning": "আদব-কায়দায় দুরস্ত বা সুসজ্জিত (etiquette and customs being neat or proper)",
+  "figurative_meaning_bn": "ব্যবহারে বিনম্র; শিষ্টাচারী",
+  "figurative_meaning_en": "Polite in behavior; courteous",
+  "similar_in_english": [
+    "Well-mannered",
+    "The epitome of politeness"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আদব-কায়দা দুরস্ত লোক, সবার সাথে ভদ্রভাবে কথা বলে।",
+    "এই সমাজে আদব-কায়দা দুরস্ত হওয়া জরুরি।"
+  ],
+  "example_sentences_in_english": [
+    "He is a well-mannered person who speaks politely to everyone.",
+    "In this society, being courteous is essential."
+  ],
+  "usage_domain": [
+    "Social etiquette",
+    "Daily conversation"
+  ],
+  "tags": [
+    "manners",
+    "politeness",
+    "behavior",
+    "courtesy"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Influenced by Persian-Urdu terms for etiquette in Bengali culture"
+}

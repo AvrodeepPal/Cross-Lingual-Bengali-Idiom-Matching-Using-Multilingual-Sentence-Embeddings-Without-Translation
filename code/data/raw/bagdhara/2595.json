@@ -1,0 +1,40 @@
+{
+  "id": "2595",
+  "idiom": "খাদের কিনারে",
+  "alternative_idioms": [],
+  "literal_meaning": "খাদের (অতল গহ্বর বা খাড়া পাহাড়ের কিনারা) কিনারে (সীমানায় বা প্রান্তে)",
+  "figurative_meaning_bn": "চরমসঙ্কট আসন্ন; অধঃপাতের শেষসীমায়",
+  "figurative_meaning_en": "Extreme crisis is imminent; at the final brink of downfall",
+  "similar_in_english": [
+    "On the brink of disaster",
+    "Teetering on the edge of the abyss",
+    "On the precipice of ruin"
+  ],
+  "example_sentences_in_bangla": [
+    "দেশের অর্থনীতি খাদের কিনারে দাঁড়িয়েছে।",
+    "তার জীবন খাদের কিনারে এসে পড়েছে সাম্প্রতিক দুর্ঘটনার পর।"
+  ],
+  "example_sentences_in_english": [
+    "The country's economy is standing on the edge of the abyss.",
+    "His life has come to the brink of the cliff after the recent accident."
+  ],
+  "usage_domain": [
+    "economy",
+    "politics",
+    "personal crisis"
+  ],
+  "tags": [
+    "danger",
+    "imminent threat",
+    "downfall",
+    "crisis"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from natural imagery of cliffs or abysses to evoke peril, commonly used in modern Bengali discourse for metaphorical crises."
+}

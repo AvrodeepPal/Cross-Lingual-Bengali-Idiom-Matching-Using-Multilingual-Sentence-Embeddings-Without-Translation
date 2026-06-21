@@ -1,0 +1,43 @@
+{
+  "id": "8138",
+  "idiom": "ভেড়া করে রাখা",
+  "alternative_idioms": [
+    "ভেড়া বানানো"
+  ],
+  "literal_meaning": "ভেড়া তৈরি করে রাখা (sheep making and keeping)",
+  "figurative_meaning_bn": "পূর্ণ আয়ত্তে এনে কমজোর করে রাখা; সম্পূর্ণ বশে রাখা",
+  "figurative_meaning_en": "To bring under complete control and make compliant; to keep fully subservient",
+  "similar_in_english": [
+    "Henpecked",
+    "Wrapped around one's finger",
+    "Led by the nose"
+  ],
+  "example_sentences_in_bangla": [
+    "স্ত্রী তার স্বামীকে ভেড়া করে রেখেছে, এখন সে কিছুই করতে পারে না।",
+    "বস তার কর্মচারীকে ভেড়া বানিয়ে রেখেছে, সবাই তার কথা মেনে চলে।"
+  ],
+  "example_sentences_in_english": [
+    "His wife has turned him into a sheep; he can't do anything on his own now.",
+    "The boss has made his employee a sheep, and everyone follows his orders blindly."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships",
+    "workplace",
+    "control"
+  ],
+  "tags": [
+    "subjugation",
+    "domination",
+    "marital",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom draws from pastoral imagery of sheep as docile animals, common in rural Bengali folklore."
+}

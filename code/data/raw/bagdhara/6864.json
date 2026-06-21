@@ -1,0 +1,40 @@
+{
+  "id": "6864",
+  "idiom": "পারাবার",
+  "alternative_idioms": [],
+  "literal_meaning": "দূরবর্তী তীর বা পার হওয়ার স্থান",
+  "figurative_meaning_bn": "অকূল সমুদ্র",
+  "figurative_meaning_en": "shoreless ocean",
+  "similar_in_english": [
+    "endless sea",
+    "boundless expanse"
+  ],
+  "example_sentences_in_bangla": [
+    "জীবন তার কাছে এক পারাবারের মতো অকূল সমুদ্র।",
+    "স্বপ্নগুলো পারাবারের মতো দূরে সরে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "Life seemed like a shoreless ocean to him.",
+    "His dreams recede like a distant shore."
+  ],
+  "usage_domain": [
+    "literature",
+    "emotions",
+    "poetry"
+  ],
+  "tags": [
+    "metaphor",
+    "nature",
+    "existential"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "From Rabindranath Tagore's literary works, evoking a distant shore of peace ('সমুখে শান্তির পারাবার') in an endless sea, symbolizing unattainable tranquility."
+  ],
+  "note": "Literary idiom rooted in Tagore's poetic imagery."
+}

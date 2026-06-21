@@ -1,0 +1,40 @@
+{
+  "id": "10248",
+  "idiom": "হা পিত্যেশ",
+  "alternative_idioms": [],
+  "literal_meaning": "হা (দুঃখের ঘোষণা) + পিত্যেশ (করুণা বা অনুশোচনার অনুভূতি)",
+  "figurative_meaning_bn": "আফসোস, অনুশোচনা",
+  "figurative_meaning_en": "regret, remorse",
+  "similar_in_english": [
+    "Alas!",
+    "What a pity!",
+    "Oh dear!"
+  ],
+  "example_sentences_in_bangla": [
+    "হা পিত্যেশ, আমরা সেই সুযোগ হারিয়েছি।",
+    "হা পিত্যেশ, এমন হল না যা আমরা চেয়েছিলাম।"
+  ],
+  "example_sentences_in_english": [
+    "Alas, we lost that opportunity.",
+    "What a pity, things didn't turn out as we wanted."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "emotional expression"
+  ],
+  "tags": [
+    "regret",
+    "sorrow",
+    "exclamation",
+    "emotion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an archaic expression often found in classical Bengali literature to convey deep sorrow or regret."
+}

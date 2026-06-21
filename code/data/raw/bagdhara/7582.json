@@ -1,0 +1,43 @@
+{
+  "id": "7582",
+  "idiom": "বাপরে বাপ",
+  "alternative_idioms": [
+    "বাবারে বাবা"
+  ],
+  "literal_meaning": "ওহে বাপ/বাবা (পিতাকে সম্বোধন করে আর্তনাদ)",
+  "figurative_meaning_bn": "আর্তনাদ; ভয়, বিস্ময়, দুঃখ ইত্যাদি ভাব",
+  "figurative_meaning_en": "Exclamation of distress; expressions of fear, surprise, sorrow, etc.",
+  "similar_in_english": [
+    "Oh my God!",
+    "Good heavens!",
+    "My goodness!"
+  ],
+  "example_sentences_in_bangla": [
+    "বাপরে বাপ, কী ভয়ংকর দুর্ঘটনা!",
+    "বাবারে বাবা, এত বড় ক্ষতি হয়েছে!"
+  ],
+  "example_sentences_in_english": [
+    "Oh father! What a terrifying accident!",
+    "Father's father! Such a huge loss has occurred!"
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Exclamations",
+    "Daily Conversation"
+  ],
+  "tags": [
+    "surprise",
+    "fear",
+    "sorrow",
+    "interjection",
+    "colloquial"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a common exclamatory phrase in Bengali, often used informally to express shock or dismay."
+}

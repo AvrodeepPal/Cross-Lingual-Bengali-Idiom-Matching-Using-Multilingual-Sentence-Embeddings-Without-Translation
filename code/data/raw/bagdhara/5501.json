@@ -1,0 +1,42 @@
+{
+  "id": "5501",
+  "idiom": "তেরোস্পর্শ",
+  "alternative_idioms": [
+    "ত্র্যহস্পর্শ"
+  ],
+  "literal_meaning": "তেরোটির স্পর্শ (thirteen's touch)",
+  "figurative_meaning_bn": "যেদিনে তিনটি তিথি মিলিত হয়; অশুভ যোগ",
+  "figurative_meaning_en": "The day when three lunar dates coincide; an inauspicious conjunction",
+  "similar_in_english": [
+    "Friday the 13th"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ তেরোস্পর্শ হওয়ায় কোনো নতুন কাজ শুরু করা উচিত নয়।",
+    "তেরোস্পর্শের দিনে বাড়ির বাইরে যাওয়া এড়িয়ে চলা ভালো।"
+  ],
+  "example_sentences_in_english": [
+    "We shouldn't start any new work today as it's terosparsha.",
+    "It's best to avoid going out on a terosparsha day."
+  ],
+  "usage_domain": [
+    "Astrology",
+    "Superstition",
+    "Daily Life"
+  ],
+  "tags": [
+    "অশুভ",
+    "তিথি",
+    "জ্যোতিষ",
+    "হিন্দু পঞ্জিকা"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom refers to a specific occurrence in the Hindu lunar calendar where three tithis (lunar days) overlap, considered highly inauspicious in traditional Bengali astrology."
+  ],
+  "note": "সমার্থক: ত্র্যহস্পর্শ; rooted in Hindu calendrical traditions."
+}

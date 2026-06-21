@@ -1,0 +1,37 @@
+{
+  "id": "1100",
+  "idiom": "একলষেঁড়ে",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি একাকী লষেঁড়ে (a single solitary gourd)",
+  "figurative_meaning_bn": "অসামাজিক; একা থাকতে ভালোবাসে এমন",
+  "figurative_meaning_en": "unsocial; someone who prefers to stay alone",
+  "similar_in_english": [
+    "lone wolf",
+    "hermit"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একলষেঁড়ে মানুষ, কারো সঙ্গে মিশতে চায় না।",
+    "গ্রামের সেই বুড়ো একলষেঁড়ে জীবন যাপন করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a loner and doesn't want to mix with anyone.",
+    "That old man in the village leads a solitary life like a loner."
+  ],
+  "usage_domain": [
+    "social interaction",
+    "personality description"
+  ],
+  "tags": [
+    "solitude",
+    "antisocial",
+    "personality"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from rural imagery of a single gourd left alone, emphasizing isolation in Bengali folk expressions."
+}

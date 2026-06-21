@@ -1,0 +1,43 @@
+{
+  "id": "2948",
+  "idiom": "গয়ার ভূত",
+  "alternative_idioms": [
+    "গয়ার পাপ"
+  ],
+  "literal_meaning": "গয়ার ভূত (Gaya's ghost)",
+  "figurative_meaning_bn": "গয়ায় মরলে যে ভূত হয়, তাকে তাড়ানো কঠিন",
+  "figurative_meaning_en": "A ghost from Gaya that is extremely difficult to exorcise; metaphorically, a persistent problem or affliction that is hard to get rid of",
+  "similar_in_english": [
+    "Stubborn as a mule",
+    "Like a bad habit that's hard to break"
+  ],
+  "example_sentences_in_bangla": [
+    "এই অভ্যাসটা গয়ার ভূতের মতো, কোনোভাবেই ছাড়তে পারছি না।",
+    "তার মনে সেই দুঃখ গয়ার ভূত হয়ে আটকে আছে।"
+  ],
+  "example_sentences_in_english": [
+    "This habit is like a Gaya ghost; I just can't shake it off.",
+    "That sorrow has become a Gaya ghost stuck in his mind."
+  ],
+  "usage_domain": [
+    "Folklore",
+    "Everyday conversation",
+    "Superstition"
+  ],
+  "tags": [
+    "ভূত",
+    "ধর্মীয়",
+    "অধ্যবসায়ী সমস্যা",
+    "হিন্দু রীতি"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from Hindu beliefs about Gaya in Bihar, India, where performing pind daan rituals liberates souls, but dying there is said to create restless ghosts that are hard to dispel."
+  ],
+  "note": "The variant 'গয়ার পাপ' likely refers to sins tied to Gaya, but the primary form emphasizes the ghostly persistence."
+}

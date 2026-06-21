@@ -1,0 +1,39 @@
+{
+  "id": "9528",
+  "idiom": "শ্রাদ্ধ গড়ানো",
+  "alternative_idioms": [],
+  "literal_meaning": "শ্রাদ্ধ অনুষ্ঠানকে দীর্ঘায়িত করা বা গড়িয়ে নেওয়া",
+  "figurative_meaning_bn": "অবাঞ্ছিত ব্যাপার দীর্ঘস্থায়ী হওয়া; সংঘাত চূড়ান্ত পর্যায়ে ওঠা",
+  "figurative_meaning_en": "An undesirable situation becoming prolonged; a conflict reaching its climax",
+  "similar_in_english": [
+    "beat a dead horse",
+    "drag out the agony"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পরিবারের ঝগড়া শ্রাদ্ধ গড়ানোর মতো দীর্ঘস্থায়ী হয়ে উঠেছে।",
+    "ব্যবসার সমস্যা শ্রাদ্ধ গড়ানোর মতো চূড়ান্ত পর্যায়ে পৌঁছে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "This family quarrel has become as prolonged as rolling out a shraddh ceremony.",
+    "The business issues have escalated to a climax like dragging out a funeral rite."
+  ],
+  "usage_domain": [
+    "conflicts",
+    "family disputes",
+    "prolonged troubles"
+  ],
+  "tags": [
+    "prolongation",
+    "undesirable",
+    "escalation",
+    "funeral metaphor"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom draws from Hindu shraddh rituals, emphasizing prolongation of mourning"
+}

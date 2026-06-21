@@ -1,0 +1,39 @@
+{
+  "id": "10231",
+  "idiom": "হাতে হাতে",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত থেকে হাতে (hand to hand)",
+  "figurative_meaning_bn": "অবিলম্বে, অচিরাৎ, তৎক্ষণাৎ, সরসরি",
+  "figurative_meaning_en": "immediately, without delay, at once, directly",
+  "similar_in_english": [
+    "right away",
+    "on the spot",
+    "straight away"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে গিয়ে সে হাতে হাতে পণ্য কিনে নিল।",
+    "চুক্তি হওয়ার সাথে সাথে হাতে হাতে অর্থ পরিশোধ করা হলো।"
+  ],
+  "example_sentences_in_english": [
+    "He bought the goods on the spot at the market.",
+    "The payment was made immediately upon signing the deal."
+  ],
+  "usage_domain": [
+    "daily transactions",
+    "commerce",
+    "conversations"
+  ],
+  "tags": [
+    "immediacy",
+    "directness",
+    "time"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali practices of direct, trust-based exchanges without intermediaries."
+}

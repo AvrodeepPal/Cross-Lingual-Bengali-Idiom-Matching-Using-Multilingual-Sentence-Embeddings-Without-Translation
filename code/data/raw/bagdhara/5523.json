@@ -1,0 +1,40 @@
+{
+  "id": "5523",
+  "idiom": "তোমার একদিন কি আমার একদিন",
+  "alternative_idioms": [],
+  "literal_meaning": "তোমার একদিন কি আমার একদিনের সমান",
+  "figurative_meaning_bn": "হেস্তনেস্ত করা",
+  "figurative_meaning_en": "to make a fuss over trivial matters or to haggle pedantically",
+  "similar_in_english": [
+    "split hairs",
+    "nitpick",
+    "make a mountain out of a molehill"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ছোটখাটো কাজে তোমার একদিন কি আমার একদিন করে উঠলো।",
+    "বাজারে দরদাম করতে গিয়ে দোকানদার তোমার একদিন কি আমার একদিন শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "He started making a fuss over the small task, as if your one day is like my one day.",
+    "In the market, the shopkeeper began haggling pedantically, treating your one day like my one day."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "bargaining",
+    "complaining"
+  ],
+  "tags": [
+    "fuss",
+    "pedantry",
+    "inequality",
+    "haggling"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali cultural tendencies in negotiations and daily interactions, emphasizing perceived differences in effort or value."
+}

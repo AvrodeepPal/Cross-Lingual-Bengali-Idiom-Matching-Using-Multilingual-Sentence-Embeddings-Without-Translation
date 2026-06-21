@@ -1,0 +1,39 @@
+{
+  "id": "2210",
+  "idiom": "কিস্তিমাত",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাগ্যের অংশ বা সম্পূর্ণ নিয়তি (fate's portion or complete destiny)",
+  "figurative_meaning_bn": "কার্যসফল; পূর্ণসফলতালাভ; সম্পূর্ণরূপে জয়লাভ",
+  "figurative_meaning_en": "Success in endeavors; achieving full success; gaining complete victory",
+  "similar_in_english": [
+    "Win hands down",
+    "Total victory",
+    "Triumph completely"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সকল প্রচেষ্টা কিস্তিমাত হয়েছে, সবাই অবাক হয়ে গেল।",
+    "যদিও চ্যালেঞ্জ ছিল, তবু সে কিস্তিমাত করে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "All his efforts resulted in kistimat, leaving everyone astonished.",
+    "Despite the challenges, he achieved complete victory."
+  ],
+  "usage_domain": [
+    "success",
+    "competition",
+    "achievement"
+  ],
+  "tags": [
+    "victory",
+    "success",
+    "triumph"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom likely derived from Persian 'qismat' (fate), adapted in Bengali for emphatic success."
+}

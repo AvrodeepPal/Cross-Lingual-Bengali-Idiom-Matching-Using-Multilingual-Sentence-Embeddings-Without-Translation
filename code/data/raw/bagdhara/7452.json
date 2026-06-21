@@ -1,0 +1,38 @@
+{
+  "id": "7452",
+  "idiom": "বাগ্জাল",
+  "alternative_idioms": [],
+  "literal_meaning": "কথার জাল (speech net)",
+  "figurative_meaning_bn": "কথার ফাঁদ",
+  "figurative_meaning_en": "trap of words",
+  "similar_in_english": [
+    "caught in a web of words",
+    "verbal trap"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মিষ্টি কথায় বাগ্জালে পড়ে আমি চাকরিটা হারিয়ে ফেললাম।",
+    "পলিটিশিয়ানের বাগ্জালে জড়িয়ে ভোটাররা প্রতারিত হয়।"
+  ],
+  "example_sentences_in_english": [
+    "I fell into his trap of words and lost the job.",
+    "Voters get entangled in the politician's verbal snare and end up deceived."
+  ],
+  "usage_domain": [
+    "conversation",
+    "persuasion",
+    "deception"
+  ],
+  "tags": [
+    "deceit",
+    "speech",
+    "trap"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to being ensnared by persuasive or deceitful speech in everyday Bengali interactions."
+}

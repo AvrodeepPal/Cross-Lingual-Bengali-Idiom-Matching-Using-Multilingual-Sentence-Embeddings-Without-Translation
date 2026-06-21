@@ -1,0 +1,41 @@
+{
+  "id": "9474",
+  "idiom": "শিরঃপীড়া",
+  "alternative_idioms": [
+    "মাথাব্যথা"
+  ],
+  "literal_meaning": "শির (head) + পীড়া (pain/ache)",
+  "figurative_meaning_bn": "উদ্বেগ দুশ্চিন্তা বা দুর্ভাবনার বিষয়",
+  "figurative_meaning_en": "A matter of worry, anxiety, or concern",
+  "similar_in_english": [
+    "Headache (figurative)",
+    "Pain in the neck"
+  ],
+  "example_sentences_in_bangla": [
+    "এই আর্থিক সমস্যা তার জন্য একটা শিরঃপীড়া হয়ে উঠেছে।",
+    "পরীক্ষার প্রস্তুতি নিয়ে ছাত্রটির শিরঃপীড়া হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "This financial issue has become a headache for him.",
+    "The exam preparation is causing him a lot of worry."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Personal concerns",
+    "Workplace issues"
+  ],
+  "tags": [
+    "worry",
+    "anxiety",
+    "trouble",
+    "concern"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Directly translates to 'headache' and is used metaphorically for bothersome matters in Bengali culture."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "4561",
+  "idiom": "জলাঞ্জলি",
+  "alternative_idioms": [],
+  "literal_meaning": "পিতৃতর্পণের জল অর্ঘ্য দেওয়া (water offered in ancestral oblation)",
+  "figurative_meaning_bn": "বিসর্জন; সম্পূর্ণ পরিত্যাগ",
+  "figurative_meaning_en": "abandonment; complete renunciation",
+  "similar_in_english": [
+    "throw in the towel",
+    "wash one's hands of"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার স্বপ্নকে জলাঞ্জলি দিয়ে ব্যবসা শুরু করেছে।",
+    "পড়াশুনায় মন না লাগায় ছেলেটি সবকিছু জলাঞ্জলি দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has given up his dreams and started a business.",
+    "The boy has completely abandoned his studies as he lost interest."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "family matters",
+    "education"
+  ],
+  "tags": [
+    "abandonment",
+    "renunciation",
+    "giving up"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from the Hindu ritual of 'tarpan' or offering water to deceased ancestors during shraddha ceremonies, symbolizing final farewell and letting go."
+  ],
+  "note": "The idiom draws from funeral rites, implying irreversible abandonment."
+}

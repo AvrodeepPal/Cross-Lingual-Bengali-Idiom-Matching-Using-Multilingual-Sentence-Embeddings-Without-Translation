@@ -1,0 +1,41 @@
+{
+  "id": "2007",
+  "idiom": "কান ভাঙানি",
+  "alternative_idioms": [
+    "কুটনা",
+    "কোটনা"
+  ],
+  "literal_meaning": "কান ভাঙা (ear breaking)",
+  "figurative_meaning_bn": "কুমন্ত্রণা দিয়ে বিবাদ সৃষ্টি করে এমন লোক",
+  "figurative_meaning_en": "A person who creates discord by giving bad advice or intrigue",
+  "similar_in_english": [
+    "troublemaker",
+    "mischief-maker",
+    "pot-stirrer"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা কান ভাঙানি, সবসময় পরিবারে বিবাদ ঘটায়।",
+    "গাঁয়ে কান ভাঙানির জন্য সবাই সতর্ক থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real troublemaker, always stirring up quarrels in the family.",
+    "In the village, everyone stays alert because of mischief-makers like him."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "interpersonal relations"
+  ],
+  "tags": [
+    "negative character",
+    "gossip",
+    "discord"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to someone who whispers rumors or bad advice to cause fights, common in oral Bengali traditions."
+}

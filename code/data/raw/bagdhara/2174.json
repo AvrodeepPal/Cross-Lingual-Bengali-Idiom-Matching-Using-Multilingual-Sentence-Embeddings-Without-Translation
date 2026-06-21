@@ -1,0 +1,40 @@
+{
+  "id": "2174",
+  "idiom": "কালোহাঁড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "কালো হাঁড়ি (black pot)",
+  "figurative_meaning_bn": "পোড়া অশুচি হাঁড়ি; ছুঁতো হাঁড়ি",
+  "figurative_meaning_en": "A burnt and impure pot; an untouchable pot",
+  "similar_in_english": [
+    "black sheep",
+    "untouchable"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সমাজে কালোহাঁড়ির মতো দেখা হয়।",
+    "কালোহাঁড়ি ছুঁলে অশুচি হয়ে যায় বলে সবাই এড়িয়ে চলে।"
+  ],
+  "example_sentences_in_english": [
+    "He is treated like a kalohandi in society.",
+    "Everyone avoids her as if touching a kalohandi would make one impure."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "caste and purity"
+  ],
+  "tags": [
+    "derogatory",
+    "impurity",
+    "social outcast",
+    "traditional"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "References the work of poet Kankana Mukundaram: 'কালহাঁড়ি ফেলে মারে কুলের বহুড়ি', highlighting themes of social impurity in medieval Bengali literature."
+  ],
+  "note": "This idiom draws from Hindu concepts of ritual purity and untouchability, often used metaphorically for social exclusion."
+}

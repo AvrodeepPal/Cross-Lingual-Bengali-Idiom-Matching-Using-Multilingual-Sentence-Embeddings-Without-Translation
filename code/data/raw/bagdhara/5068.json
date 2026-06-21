@@ -1,0 +1,41 @@
+{
+  "id": "5068",
+  "idiom": "ঠুঁটো",
+  "alternative_idioms": [
+    "ঠুঁটো জগন্নাথ"
+  ],
+  "literal_meaning": "অঙ্গুলিহীন",
+  "figurative_meaning_bn": "অকর্মণ্য; কোন কাজের নয়",
+  "figurative_meaning_en": "ineffectual; good for nothing",
+  "similar_in_english": [
+    "good for nothing",
+    "useless as a chocolate teapot"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এতটাই ঠুঁটো যে কোনো কাজেই লাগে না।",
+    "ঠুঁটো জগন্নাথের মতো বসে থেকে কী হবে?"
+  ],
+  "example_sentences_in_english": [
+    "He is so ineffectual that he's good for nothing.",
+    "Sitting idle like a thumb-less Jagannath won't help."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "derogatory"
+  ],
+  "tags": [
+    "laziness",
+    "insult",
+    "inefficiency"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the depiction of Lord Jagannath's idol, which is traditionally carved without distinct fingers, symbolizing incompleteness and used metaphorically for uselessness in Bengali folklore."
+  ],
+  "note": "Often used in everyday speech to criticize laziness, with religious undertones from Hindu traditions."
+}

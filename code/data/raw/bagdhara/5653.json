@@ -1,0 +1,37 @@
+{
+  "id": "5653",
+  "idiom": "দমকা খরচ",
+  "alternative_idioms": [],
+  "literal_meaning": "হঠাৎ দমকা বাতাসের মতো খরচ",
+  "figurative_meaning_bn": "হঠাৎ ব্যয়বৃদ্ধি",
+  "figurative_meaning_en": "Sudden increase in expenditure",
+  "similar_in_english": [
+    "sudden financial burden",
+    "unexpected outlay"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের অনুষ্ঠানে দমকা খরচ হয়ে গেল।",
+    "গাড়ির মেরামতের জন্য দমকা খরচ পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "The wedding ceremony led to a sudden increase in expenses.",
+    "The car repair caused a sudden outlay of money."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily life"
+  ],
+  "tags": [
+    "expense",
+    "sudden",
+    "financial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": ""
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2740",
+  "idiom": "খোঁচা মারা",
+  "alternative_idioms": [
+    "খোঁচাখুঁচি করা",
+    "খোঁচানো"
+  ],
+  "literal_meaning": "অঙ্কুর বা কাঁটা দিয়ে চাপড়ানো বা খোঁচানো (to prick or pinch with a thorn or needle)",
+  "figurative_meaning_bn": "ক্রমাগত উত্ত্যক্ত/বিরক্ত করা",
+  "figurative_meaning_en": "To repeatedly annoy or irritate someone",
+  "similar_in_english": [
+    "To nag",
+    "To get on someone's nerves",
+    "To poke fun at"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সারাদিন আমাকে খোঁচা মারছে, আর সহ্য করা যায় না।",
+    "বাচ্চারা খোঁচাখুঁচি করে মাকে বিরক্ত করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He's been poking at me all day, and I can't take it anymore.",
+    "The kids are nagging their mother by constantly irritating her."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "family interactions",
+    "daily conversation"
+  ],
+  "tags": [
+    "annoyance",
+    "irritation",
+    "teasing"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from everyday physical sensations of pricking, common in rural Bengali life."
+}

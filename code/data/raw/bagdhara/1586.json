@@ -1,0 +1,37 @@
+{
+  "id": "1586",
+  "idiom": "কমবক্ত",
+  "alternative_idioms": [],
+  "literal_meaning": "কম (less) + বক্ত (speaker or talker)",
+  "figurative_meaning_bn": "নির্বোধ, বুদ্ধিহীন - গালিবিশেষ",
+  "figurative_meaning_en": "Foolish, senseless - a special form of insult",
+  "similar_in_english": [
+    "dimwit",
+    "not the sharpest tool in the shed"
+  ],
+  "example_sentences_in_bangla": [
+    "কমবক্ত, এই সহজ কাজটাও করতে পারছ না?",
+    "সে তো কমবক্ত, কোনো জটিল চিন্তা করতে পারে না।"
+  ],
+  "example_sentences_in_english": [
+    "You fool, can't you even do this simple task?",
+    "He's such a dimwit, he can't handle any complex thinking."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "insults"
+  ],
+  "tags": [
+    "insult",
+    "foolishness",
+    "derogatory"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This appears to be a colloquial or regional insult implying inability to perform even basic tasks, possibly derived from mocking minimal verbal or intellectual capacity."
+}

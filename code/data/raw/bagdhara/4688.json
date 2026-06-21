@@ -1,0 +1,43 @@
+{
+  "id": "4688",
+  "idiom": "জীবন্ত মাছে পোকা পড়া",
+  "alternative_idioms": [
+    "জীবন্তে পোকা পড়া",
+    "জীবন্ত মাছে পোকা পড়ানো"
+  ],
+  "literal_meaning": "জীবন্ত মাছের উপর পোকা পড়া",
+  "figurative_meaning_bn": "মিথ্যা অপবাদ দিয়ে সুচরিত্রে কালিমা লেপন করা",
+  "figurative_meaning_en": "To tarnish someone's good character with false accusations",
+  "similar_in_english": [
+    "Throw mud at someone",
+    "Cast aspersions on one's reputation",
+    "Give a dog a bad name"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা রাজনৈতিক প্রতিদ্বন্দ্বীকে কলঙ্কিত করার জন্য জীবন্ত মাছে পোকা পড়ানোর চেষ্টা করল।",
+    "এই মিথ্যা গুজব দিয়ে তুমি তার সুচরিত্রে জীবন্ত মাছে পোকা পড়িয়ে দিলে।"
+  ],
+  "example_sentences_in_english": [
+    "They tried to defame their political rival by throwing mud on his good name.",
+    "With these false rumors, you have tarnished her spotless reputation."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "politics",
+    "literature"
+  ],
+  "tags": [
+    "slander",
+    "defamation",
+    "character assassination",
+    "false accusation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from rural imagery of fish in ponds, emphasizing unexpected corruption of purity."
+}

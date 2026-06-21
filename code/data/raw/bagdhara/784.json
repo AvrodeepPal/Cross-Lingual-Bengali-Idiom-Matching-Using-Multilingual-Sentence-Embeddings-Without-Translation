@@ -1,0 +1,37 @@
+{
+  "id": "784",
+  "idiom": "উড়োচিঠি",
+  "alternative_idioms": [],
+  "literal_meaning": "উড়ন্ত চিঠি",
+  "figurative_meaning_bn": "বেনামী চিঠি",
+  "figurative_meaning_en": "anonymous letter",
+  "similar_in_english": [
+    "poison pen letter"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা উড়োচিঠি পেয়ে অস্থির হয়ে উঠল।",
+    "উড়োচিঠি লিখে কারো মানহানি করা ঠিক নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He became restless upon receiving an anonymous letter.",
+    "It's not right to defame someone by writing an anonymous letter."
+  ],
+  "usage_domain": [
+    "communication",
+    "gossip",
+    "warning"
+  ],
+  "tags": [
+    "anonymous",
+    "secretive",
+    "cautionary"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to letters without sender's name, often implying malice or secrecy in Bengali literary and everyday usage."
+}

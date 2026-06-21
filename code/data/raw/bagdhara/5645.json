@@ -1,0 +1,39 @@
+{
+  "id": "5645",
+  "idiom": "দফায় দফায়",
+  "alternative_idioms": [],
+  "literal_meaning": "কিস্তি বা অংশ অনুসারে (দফা অর্থ কিস্তি বা ভাগ)",
+  "figurative_meaning_bn": "কিস্তি",
+  "figurative_meaning_en": "in installments",
+  "similar_in_english": [
+    "little by little",
+    "by degrees",
+    "in stages"
+  ],
+  "example_sentences_in_bangla": [
+    "দফায় দফায় দাম বাড়ছে।",
+    "সে দফায় দফায় ঋণ শোধ করছে।"
+  ],
+  "example_sentences_in_english": [
+    "Prices are rising in installments.",
+    "He is repaying the loan in installments."
+  ],
+  "usage_domain": [
+    "finance",
+    "economics",
+    "daily life"
+  ],
+  "tags": [
+    "gradual",
+    "payment",
+    "incremental"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects common financial practices in Bengali-speaking regions."
+}

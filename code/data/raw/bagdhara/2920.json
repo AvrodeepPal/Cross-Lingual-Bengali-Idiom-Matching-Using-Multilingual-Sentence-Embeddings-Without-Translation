@@ -1,0 +1,38 @@
+{
+  "id": "2920",
+  "idiom": "গতিক",
+  "alternative_idioms": [],
+  "literal_meaning": "গতির অবস্থা বা দিকনির্দেশ (movement or direction's state)",
+  "figurative_meaning_bn": "অবস্থা",
+  "figurative_meaning_en": "condition or state of affairs",
+  "similar_in_english": [
+    "state of affairs",
+    "how the wind blows"
+  ],
+  "example_sentences_in_bangla": [
+    "আকাশের গতিক ভালো নয়।",
+    "তার জীবনের গতিক খারাপ হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The state of the sky is not good.",
+    "His life's condition has turned bad."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "weather and omens"
+  ],
+  "tags": [
+    "condition",
+    "state",
+    "plight",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts observing natural signs for future predictions in Bengali culture."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "5001",
+  "idiom": "টেপা গোঁজা",
+  "alternative_idioms": [],
+  "literal_meaning": "অস্পষ্ট বা সংকীর্ণ স্থান যা ভর্তি বা গোঁজা",
+  "figurative_meaning_bn": "অপ্রশস্ত জায়গা",
+  "figurative_meaning_en": "A cramped or uncomfortable space",
+  "similar_in_english": [
+    "Packed like sardines",
+    "Tight squeeze"
+  ],
+  "example_sentences_in_bangla": [
+    "এই টেপা গোঁজা ঘরে সবাই কীভাবে থাকবে?",
+    "বাসে টেপা গোঁজা অবস্থায় যাত্রা করতে হলো।"
+  ],
+  "example_sentences_in_english": [
+    "How can everyone stay in this cramped room?",
+    "We had to travel in a packed bus."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Describing spaces"
+  ],
+  "tags": [
+    "crowding",
+    "discomfort",
+    "space constraint"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to everyday experiences of overcrowding in Bengali life"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1199",
+  "idiom": "এনাফ ইজ এনাফ",
+  "alternative_idioms": [],
+  "literal_meaning": "যথেষ্ট আছে যথেষ্ট",
+  "figurative_meaning_bn": "যথেষ্ট হয়েছে এর বেশি সহ্য হবে না",
+  "figurative_meaning_en": "Enough is enough, no more will be tolerated",
+  "similar_in_english": [
+    "Enough is enough",
+    "That's the last straw",
+    "I've had it"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার এই অত্যাচার এনাফ ইজ এনাফ, আর সহ্য করব না।",
+    "এই বৃষ্টি এনাফ ইজ এনাফ, বাড়ি ফিরে যাই।"
+  ],
+  "example_sentences_in_english": [
+    "Your bullying is enough is enough, I won't tolerate it anymore.",
+    "This rain is enough is enough, let's head home."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "arguments",
+    "frustration"
+  ],
+  "tags": [
+    "limit",
+    "tolerance",
+    "exasperation",
+    "borrowed from English"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom is a direct phonetic borrowing from English 'Enough is enough' commonly used in urban Bengali speech."
+}

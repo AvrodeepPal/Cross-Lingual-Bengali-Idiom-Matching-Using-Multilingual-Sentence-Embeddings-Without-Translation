@@ -1,0 +1,38 @@
+{
+  "id": "1770",
+  "idiom": "কাঁচা সর্দি",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁচা (raw/unripe) সর্দি (cold/common cold)",
+  "figurative_meaning_bn": "সর্দির প্রাথমিক অবস্থা",
+  "figurative_meaning_en": "The initial or early stage of a cold",
+  "similar_in_english": [
+    "A touch of cold",
+    "The first sniffles"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কাঁচা সর্দি লেগেছে, এখনো জ্বর আসেনি।",
+    "শীতের শুরুতে কাঁচা সর্দি হওয়া সাধারণ।"
+  ],
+  "example_sentences_in_english": [
+    "He has a raw cold; the fever hasn't started yet.",
+    "It's common to get a raw cold at the beginning of winter."
+  ],
+  "usage_domain": [
+    "Health",
+    "Daily conversation"
+  ],
+  "tags": [
+    "Illness",
+    "Cold",
+    "Initial stage",
+    "Seasonal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the mild, beginning symptoms of the common cold in everyday Bengali usage."
+}

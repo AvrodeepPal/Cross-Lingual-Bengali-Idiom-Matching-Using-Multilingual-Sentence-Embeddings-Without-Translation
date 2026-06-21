@@ -1,0 +1,40 @@
+{
+  "id": "5254",
+  "idiom": "ঢিল দিয়ে ঢিল ভাঙা",
+  "alternative_idioms": [
+    "কাঁটা দিয়ে কাঁটা তোলা"
+  ],
+  "literal_meaning": "পাথর দিয়ে পাথর ভাঙা",
+  "figurative_meaning_bn": "শত্রু দিয়ে শত্রুনিধন",
+  "figurative_meaning_en": "destroying an enemy using another enemy",
+  "similar_in_english": [
+    "fight fire with fire",
+    "set a thief to catch a thief"
+  ],
+  "example_sentences_in_bangla": [
+    "রাজনীতিতে প্রায়ই ঢিল দিয়ে ঢিল ভাঙা হয়, এক দল অন্য দলের সদস্যকে ব্যবহার করে প্রতিদ্বন্দ্বীকে পরাজিত করে।",
+    "ব্যবসায়িক প্রতিযোগিতায় তিনি ঢিল দিয়ে ঢিল ভাঙলেন, প্রতিদ্বন্দ্বীর কর্মচারীকে নিজের পক্ষে আনিয়ে সাফল্য অর্জন করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "In politics, they often break stone with stone, using one rival's member to defeat the opponent.",
+    "In business competition, he broke stone with stone by recruiting a competitor's employee to achieve success."
+  ],
+  "usage_domain": [
+    "politics",
+    "strategy",
+    "conflict resolution"
+  ],
+  "tags": [
+    "enmity",
+    "tactics",
+    "proverbial expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from everyday rural imagery of using one hard object to break another, symbolizing strategic use of adversaries."
+}

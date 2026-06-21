@@ -1,0 +1,43 @@
+{
+  "id": "4778",
+  "idiom": "ঝগড়াঝাঁটি",
+  "alternative_idioms": [
+    "বাকবিতণ্ডা",
+    "বাদবিসম্বাদ"
+  ],
+  "literal_meaning": "সহচর শব্দ; ঝগড়া (কলহ) এবং ঝাঁটি (ছোটখাটো ঝামেলা বা ধুন্ধুমার)",
+  "figurative_meaning_bn": "অপ্রীতিকর বাদানুবাদ; নিজেদের মধ্যে হওয়া ক্ষুদ্র কলহ; তর্কাতর্কি",
+  "figurative_meaning_en": "Unpleasant arguments; minor quarrels among oneself; bickering",
+  "similar_in_english": [
+    "petty squabbles",
+    "tit for tat",
+    "back and forth"
+  ],
+  "example_sentences_in_bangla": [
+    "বাচ্চারা সারাদিন ঝগড়াঝাঁটি করে।",
+    "দম্পতিরা প্রায়ই ছোটখাটো ঝগড়াঝাঁটিতে লিপ্ত হয়।"
+  ],
+  "example_sentences_in_english": [
+    "The children quarrel and bicker all day.",
+    "The couple often engages in petty squabbles."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships",
+    "daily life"
+  ],
+  "tags": [
+    "quarrel",
+    "argument",
+    "bickering",
+    "rhyming compound"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি একটি সহচর শব্দ যা বাংলা ভাষায় সাধারণত ছোটখাটো কলহের জন্য ব্যবহৃত হয়।"
+}

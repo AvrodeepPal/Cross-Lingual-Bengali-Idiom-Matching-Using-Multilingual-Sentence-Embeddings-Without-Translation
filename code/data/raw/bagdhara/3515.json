@@ -1,0 +1,39 @@
+{
+  "id": "3515",
+  "idiom": "ঘাড়ে চাপা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘাড়ে চাপ দেওয়া (pressing on the neck)",
+  "figurative_meaning_bn": "কার্যোদ্ধারের জন্য অন্যের উপর চাপ দেওয়া",
+  "figurative_meaning_en": "Putting pressure on others to accomplish one's own tasks",
+  "similar_in_english": [
+    "Passing the buck",
+    "Dumping responsibility on someone"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় নিজের কাজ ঘাড়ে চাপা দেয় অন্যদের উপর।",
+    "পরীক্ষার আগে ছেলেটি তার বোনের ঘাড়ে চাপা দিয়েছে হোমওয়ার্কের জন্য।"
+  ],
+  "example_sentences_in_english": [
+    "He always puts pressure on others to do his work.",
+    "Before the exam, the boy dumped the homework burden on his sister."
+  ],
+  "usage_domain": [
+    "daily life",
+    "workplace",
+    "family"
+  ],
+  "tags": [
+    "burden",
+    "pressure",
+    "responsibility",
+    "avoidance"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural notion of unfair burden-sharing in Bengali society."
+}

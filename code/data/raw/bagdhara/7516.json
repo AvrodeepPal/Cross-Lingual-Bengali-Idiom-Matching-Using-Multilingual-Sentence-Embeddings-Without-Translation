@@ -1,0 +1,40 @@
+{
+  "id": "7516",
+  "idiom": "বাজে আদায়",
+  "alternative_idioms": [],
+  "literal_meaning": "বাজে (অকেজো বা অপ্রয়োজনীয়) আদায় (সংগ্রহ বা উদ্ধার)",
+  "figurative_meaning_bn": "নির্দিষ্ট বিষয় ব্যতীত অন্যান্য বিষয়ে অর্থ সংগ্রহ",
+  "figurative_meaning_en": "Collecting money or funds for purposes other than the intended or specified one, often implying illegality or misuse",
+  "similar_in_english": [
+    "extortion",
+    "shakedown",
+    "illegal levy"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রকল্পের নামে কর্মীরা বাজে আদায় করছে।",
+    "এই দোকানে ক্রেতাদের থেকে বাজে আদায় নেওয়া হয়।"
+  ],
+  "example_sentences_in_english": [
+    "Workers are making illegal collections in the name of the project.",
+    "This shop charges customers an unlawful levy."
+  ],
+  "usage_domain": [
+    "finance",
+    "administration",
+    "corruption"
+  ],
+  "tags": [
+    "money",
+    "illegal",
+    "misuse",
+    "collection"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of bureaucratic or petty corruption in Bengali society"
+}

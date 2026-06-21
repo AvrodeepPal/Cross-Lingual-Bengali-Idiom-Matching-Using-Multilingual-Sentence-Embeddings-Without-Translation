@@ -1,0 +1,40 @@
+{
+  "id": "9619",
+  "idiom": "সব হাটের হেঁটো",
+  "alternative_idioms": [],
+  "literal_meaning": "সব হাটে যাওয়া বা ঘুরে বেড়ানো লোক",
+  "figurative_meaning_bn": "সবজান্তা ধরনের লোক যে সব যায়গার খবর রাখে",
+  "figurative_meaning_en": "A know-it-all person who keeps abreast of news and gossip from all places",
+  "similar_in_english": [
+    "Busybody",
+    "Nosy parker"
+  ],
+  "example_sentences_in_bangla": [
+    "গাঁয়ের সব হাটের হেঁটো হিসেবে সে সব খবর জানে।",
+    "ও সব হাটের হেঁটো, কোনো কথা লুকিয়ে রাখতে পারে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is known as the one who has walked all markets, knowing every bit of village news.",
+    "She's a real market-walker, always up to date with all the gossip."
+  ],
+  "usage_domain": [
+    "Social interaction",
+    "Gossip and rumors"
+  ],
+  "tags": [
+    "Knowledge",
+    "Gossip",
+    "Rural life",
+    "Proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the traditional Bengali village market (haat) culture, where people from surrounding areas gather weekly, and frequent visitors become sources of local information."
+  ],
+  "note": "The idiom reflects the social dynamics of rural Bengal where markets serve as hubs for news exchange."
+}

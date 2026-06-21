@@ -1,0 +1,40 @@
+{
+  "id": "2867",
+  "idiom": "গড়বড়",
+  "alternative_idioms": [],
+  "literal_meaning": "অসংলগ্ন বা উলটাপালটা গতিবিধি বা শব্দের অনুকরণ (onomatopoeic expression for clumsy or disordered movement)",
+  "figurative_meaning_bn": "অন্যথা, অব্যবস্থা, উলটাপালটাভাব, কলঙ্ক, গোলমাল, জগাখিচুড়ি ইত্যাদি",
+  "figurative_meaning_en": "disorder, confusion, mess, scandal, upheaval, or irregularity",
+  "similar_in_english": [
+    "in a pickle",
+    "all messed up",
+    "in disarray"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরের কাজকর্ম সব গড়বড় হয়ে গেছে।",
+    "এখানে কিছু গড়বড় চলছে মনে হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "The household chores have all turned into a mess.",
+    "It seems like something fishy is going on here."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "daily life",
+    "social commentary"
+  ],
+  "tags": [
+    "disorder",
+    "confusion",
+    "scandal",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic idiom commonly used in spoken Bengali to denote chaos or irregularity without specific historical origins."
+}

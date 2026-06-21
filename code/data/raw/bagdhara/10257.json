@@ -1,0 +1,37 @@
+{
+  "id": "10257",
+  "idiom": "হাফ ডে",
+  "alternative_idioms": [],
+  "literal_meaning": "আধা দিন",
+  "figurative_meaning_bn": "আধবেলার কাজ; আধবেলার বেতন",
+  "figurative_meaning_en": "Half-day's work; half-day's pay",
+  "similar_in_english": [
+    "Half a day's work",
+    "Half-pay"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ সে হাফ ডে কাজ করবে, তাই আধা বেতন পাবে।",
+    "কোম্পানিতে হাফ ডে ছুটির সুবিধা আছে।"
+  ],
+  "example_sentences_in_english": [
+    "He will do half-day work today, so he'll get half pay.",
+    "The company offers half-day leave benefits."
+  ],
+  "usage_domain": [
+    "employment",
+    "workplace"
+  ],
+  "tags": [
+    "partial work",
+    "payment",
+    "office culture"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom is a Bengali adaptation of the English 'half-day', commonly used in modern urban work contexts."
+}

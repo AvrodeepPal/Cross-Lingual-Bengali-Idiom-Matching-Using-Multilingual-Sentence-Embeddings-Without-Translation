@@ -1,0 +1,42 @@
+{
+  "id": "7994",
+  "idiom": "ভাগ্যলিপি",
+  "alternative_idioms": [
+    "বিধিলিপি"
+  ],
+  "literal_meaning": "ভাগ্যের লিখন (writing of fate)",
+  "figurative_meaning_bn": "অদৃষ্টের লিখন, কী ঘটবে সে সম্বন্ধে পূর্বাহ্ণে নির্দিষ্ট ভাগ্যের গতি",
+  "figurative_meaning_en": "The writing of fate, the predetermined course of destiny regarding what will happen",
+  "similar_in_english": [
+    "Written in the stars",
+    "Fate's decree",
+    "Kismet"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবনে সুখের ভাগ্যলিপি লেখা আছে।",
+    "এটি ভাগ্যলিপির খেলা, আমরা কিছু করতে পারি না।"
+  ],
+  "example_sentences_in_english": [
+    "Happiness is written in the script of his fate.",
+    "This is the play of fate's script; we can't do anything about it."
+  ],
+  "usage_domain": [
+    "Philosophy",
+    "Destiny",
+    "Literature"
+  ],
+  "tags": [
+    "fate",
+    "destiny",
+    "predetermination",
+    "fortune"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to concepts of predestined fate in Bengali folklore and literature"
+}

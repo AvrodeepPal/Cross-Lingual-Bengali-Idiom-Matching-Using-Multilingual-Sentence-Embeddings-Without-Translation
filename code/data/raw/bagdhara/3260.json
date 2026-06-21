@@ -1,0 +1,42 @@
+{
+  "id": "3260",
+  "idiom": "গুল",
+  "alternative_idioms": [],
+  "literal_meaning": "গুলি বা কথার টুকরো (শাব্দিকভাবে বুলেট বা গল্পের অংশ)",
+  "figurative_meaning_bn": "ধাপ্পা; ফাঁকি; বানানো গুল্প",
+  "figurative_meaning_en": "hoax; trick; fabricated story",
+  "similar_in_english": [
+    "tall tale",
+    "fib",
+    "white lie"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুদের সাথে আড্ডায় অনেক গুল বলে সবাইকে হাসিয়েছে।",
+    "এটা তার গুল, আসল ঘটনা নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He told so many fibs during the adda that everyone was laughing. ",
+    "That's just his tall tale, not the real story."
+  ],
+  "usage_domain": [
+    "conversational",
+    "storytelling",
+    "humor"
+  ],
+  "tags": [
+    "deception",
+    "humor",
+    "informal",
+    "adda culture"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এটি বাংলা আড্ডা সংস্কৃতির অংশ, যেখানে বন্ধুরা মজার গল্প বলে সময় কাটায়।"
+  ],
+  "note": "আড্ডায় গুল বলার প্রতিযোগিতা বাঙালি সামাজিক জীবনের একটি মজার দিক।"
+}

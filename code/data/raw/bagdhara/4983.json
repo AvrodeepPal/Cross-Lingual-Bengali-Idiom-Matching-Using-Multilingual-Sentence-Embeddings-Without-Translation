@@ -1,0 +1,38 @@
+{
+  "id": "4983",
+  "idiom": "টেকটেকে",
+  "alternative_idioms": [],
+  "literal_meaning": "কর্কশ শব্দের অনুকরণ (onomatopoeic for grating sound)",
+  "figurative_meaning_bn": "কর্কশ, রুক্ষ",
+  "figurative_meaning_en": "harsh, rough",
+  "similar_in_english": [
+    "grating voice",
+    "harsh tone"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথা টেকটেকে হয়ে গেছে বয়সের সাথে।",
+    "এই টেকটেকে আওয়াজ শুনলে মন খারাপ হয়।"
+  ],
+  "example_sentences_in_english": [
+    "His speech has become harsh and grating with age.",
+    "This rough, grating sound makes one feel uneasy."
+  ],
+  "usage_domain": [
+    "speech",
+    "description of voice",
+    "everyday conversation"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "negative expression",
+    "sound imitation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Primarily used to describe harsh or rough speech or sounds in colloquial Bengali."
+}

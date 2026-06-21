@@ -1,0 +1,42 @@
+{
+  "id": "4246",
+  "idiom": "ছমছম",
+  "alternative_idioms": [],
+  "literal_meaning": "শিহরণ বা কাঁপুনির শব্দানুকরণমূলক দ্বিত্বশব্দ (shiver-shiver onomatopoeia)",
+  "figurative_meaning_bn": "ভয়জনিত বিকার/শিহরণব্যঞ্জক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "A reduplicative word indicating fear-induced shuddering or shivering",
+  "similar_in_english": [
+    "get goosebumps",
+    "shiver down the spine",
+    "hair standing on end"
+  ],
+  "example_sentences_in_bangla": [
+    "ভয়ে তার গা ছমছম করছে।",
+    "অন্ধকার বনে ঢুকে ছেলেটির গা ছমছম করে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "He is shivering with fear.",
+    "The boy shuddered upon entering the dark forest."
+  ],
+  "usage_domain": [
+    "emotions",
+    "fear",
+    "literature",
+    "everyday speech"
+  ],
+  "tags": [
+    "fear",
+    "shiver",
+    "onomatopoeia",
+    "reduplication",
+    "body sensation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression deeply embedded in colloquial Bengali for expressing physical reactions to fear."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "6471",
+  "idiom": "নুন খেয়ে বেইমানি",
+  "alternative_idioms": [
+    "নিমকহারাম"
+  ],
+  "literal_meaning": "নুন খেয়ে অবিশ্বাসযোগ্যতা করা (eating salt and committing betrayal)",
+  "figurative_meaning_bn": "উপকারীর ঋণ অস্বীকার করা",
+  "figurative_meaning_en": "To deny the obligation or favor received from a benefactor",
+  "similar_in_english": [
+    "Bite the hand that feeds you",
+    "Ungrateful traitor"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার সাহায্যকারীকে নুন খেয়ে বেইমানি করে ফেলল।",
+    "এই নুন খেয়ে বেইমানির কাজ কখনো ক্ষমা করা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He betrayed his helper by biting the hand that fed him.",
+    "Such ungrateful betrayal after receiving favors is unforgivable."
+  ],
+  "usage_domain": [
+    "relationships",
+    "morality",
+    "everyday conversation"
+  ],
+  "tags": [
+    "betrayal",
+    "ingratitude",
+    "ungratefulness",
+    "hospitality"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the cultural practice in Bengal where sharing salt with a guest symbolizes deep hospitality and obligation, making betrayal after accepting it a profound breach of trust."
+  ],
+  "note": "Synonymous with 'নিমকহারাম', emphasizing cultural value of reciprocity in favors."
+}

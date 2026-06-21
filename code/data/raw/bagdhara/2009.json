@@ -1,0 +1,41 @@
+{
+  "id": "2009",
+  "idiom": "কান ভারী করা",
+  "alternative_idioms": [
+    "কান ভাঙানো"
+  ],
+  "literal_meaning": "কানকে ভারী করা (to make the ear heavy)",
+  "figurative_meaning_bn": "কুপরামর্শ বা কুমন্ত্রণা দেওয়া",
+  "figurative_meaning_en": "To give bad advice or evil counsel",
+  "similar_in_english": [
+    "Poison someone's ear",
+    "Whisper poison in one's ear"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুকে কান ভারী করে ভুল পথে নিয়ে গেল।",
+    "প্রতিবেশীরা কান ভারী করার চেষ্টা করল, কিন্তু আমি শুনলাম না।"
+  ],
+  "example_sentences_in_english": [
+    "He poisoned his friend's ear and led him down the wrong path.",
+    "The neighbors tried to give him bad advice, but he didn't listen."
+  ],
+  "usage_domain": [
+    "Advice",
+    "Deception",
+    "Interpersonal relations"
+  ],
+  "tags": [
+    "negative",
+    "counsel",
+    "misguidance",
+    "ear-related"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom metaphorically suggests weighing down someone's judgment with harmful suggestions, common in everyday Bengali discourse."
+}

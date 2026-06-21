@@ -1,0 +1,42 @@
+{
+  "id": "830",
+  "idiom": "উপরি আয়",
+  "alternative_idioms": [
+    "উপরি পাওনা"
+  ],
+  "literal_meaning": "অতিরিক্ত বা উপরের আয়/পাওনা",
+  "figurative_meaning_bn": "অসৎপথে অর্জিত আয়; ঘুষ",
+  "figurative_meaning_en": "Income earned through dishonest means; bribe",
+  "similar_in_english": [
+    "kickback",
+    "under-the-table payment",
+    "ill-gotten gains"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকারি চাকরিতে থেকে সে উপরি আয় করে সম্পদ গড়ে তুলেছে।",
+    "এই প্রকল্পে উপরি পাওনা না নিলে কাজ এগোবে না।"
+  ],
+  "example_sentences_in_english": [
+    "While in a government job, he amassed wealth through extra income.",
+    "The project won't progress without taking some under-the-table receivable."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Corruption",
+    "Business"
+  ],
+  "tags": [
+    "অসততা",
+    "ঘুষ",
+    "অর্থনৈতিক",
+    "প্রশাসনিক"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "এটি প্রশাসনিক এবং ব্যবসায়িক দুর্নীতির সাথে যুক্ত একটি সাধারণ বাগধারা।"
+}

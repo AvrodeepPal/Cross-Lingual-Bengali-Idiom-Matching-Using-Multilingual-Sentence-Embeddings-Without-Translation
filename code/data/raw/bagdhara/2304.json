@@ -1,0 +1,41 @@
+{
+  "id": "2304",
+  "idiom": "কূটকৌশল",
+  "alternative_idioms": [],
+  "literal_meaning": "কূট (বাঁকা বা প্রতারণামূলক) + কৌশল (কৌশল বা কৌতূহল)",
+  "figurative_meaning_bn": "চালাকি; চতুর কৌশল; ধান্ধাবাজী",
+  "figurative_meaning_en": "Cunning or sly trickery, especially the clever strategy of pitting one against another",
+  "similar_in_english": [
+    "Divide and conquer",
+    "Play both ends against the middle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কূটকৌশল করে দুই প্রতিদ্বন্দ্বীকে একে অপরের বিরুদ্ধে লাগিয়ে দিল।",
+    "রাজনীতিতে কূটকৌশলের ব্যবহার করে অনেকেই সাফল্য লাভ করে।"
+  ],
+  "example_sentences_in_english": [
+    "He used cunning tactics to pit his two rivals against each other.",
+    "In politics, many achieve success through sly strategies."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Interpersonal conflicts",
+    "Strategy and tactics"
+  ],
+  "tags": [
+    "deception",
+    "cunning",
+    "manipulation",
+    "rivalry"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from ancient Indian strategic concepts, often associated with political maneuvering in historical texts like the Arthashastra."
+  ],
+  "note": "The idiom emphasizes manipulative intelligence in conflicts, deeply embedded in South Asian cultural narratives."
+}

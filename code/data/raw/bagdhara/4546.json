@@ -1,0 +1,37 @@
+{
+  "id": "4546",
+  "idiom": "জলবিয়োগ",
+  "alternative_idioms": [],
+  "literal_meaning": "জলের বিয়োগ (separation of water)",
+  "figurative_meaning_bn": "মুত্রত্যাগ",
+  "figurative_meaning_en": "urination",
+  "similar_in_english": [
+    "take a leak",
+    "pass water"
+  ],
+  "example_sentences_in_bangla": [
+    "বাচ্চাটি জলবিয়োগ করতে চায়।",
+    "দীর্ঘ যাত্রায় জলবিয়োগের সুযোগ পাওয়া যায়নি।"
+  ],
+  "example_sentences_in_english": [
+    "The child wants to urinate.",
+    "There was no opportunity to urinate during the long journey."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "bodily functions"
+  ],
+  "tags": [
+    "euphemism",
+    "physiological",
+    "colloquial"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a polite or euphemistic expression used in Bengali to refer to urination, avoiding direct vulgarity."
+}

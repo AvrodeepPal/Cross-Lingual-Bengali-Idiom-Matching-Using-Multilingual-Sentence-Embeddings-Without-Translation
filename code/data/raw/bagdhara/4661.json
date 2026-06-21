@@ -1,0 +1,44 @@
+{
+  "id": "4661",
+  "idiom": "জিকির",
+  "alternative_idioms": [
+    "জিকীর",
+    "জিগির",
+    "জিগীর"
+  ],
+  "literal_meaning": "আল্লাহর নামের স্মরণ বা জপ",
+  "figurative_meaning_bn": "আল্লার নাম স্মরণ",
+  "figurative_meaning_en": "Remembrance of Allah's name",
+  "similar_in_english": [
+    "Chanting prayers",
+    "Reciting litanies"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের মসজিদে লোকেরা জিকির করছে।",
+    "সে দুঃখের সময় জিকির করে শান্তি পায়।"
+  ],
+  "example_sentences_in_english": [
+    "People are performing zikir in the village mosque.",
+    "He finds peace by doing zikir during times of sorrow."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Spirituality"
+  ],
+  "tags": [
+    "Islamic",
+    "Prayer",
+    "Devotion",
+    "Remembrance"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Referenced in Jasimuddin's poetry depicting rural Bengali Muslim life, where characters like Gazi Mader engage in zikir."
+  ],
+  "note": "Variations reflect dialectical pronunciations in Bengali Muslim communities."
+}

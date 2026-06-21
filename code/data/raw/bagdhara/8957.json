@@ -1,0 +1,42 @@
+{
+  "id": "8957",
+  "idiom": "যায় যায় অবস্থা",
+  "alternative_idioms": [
+    "এখন-তখন অবস্থা",
+    "যখন তখন অবস্থা"
+  ],
+  "literal_meaning": "যাওয়ার যাওয়ার অবস্থা (the state of repeatedly going or departing)",
+  "figurative_meaning_bn": "প্রতিমুহূর্তে মৃত্যুর আশঙ্কা, মুমূর্ষু অবস্থা",
+  "figurative_meaning_en": "The constant fear of death every moment, a moribund or dying state",
+  "similar_in_english": [
+    "Touch and go",
+    "At death's door",
+    "On one's last legs"
+  ],
+  "example_sentences_in_bangla": [
+    "দুর্ঘটনার পর তার যায় যায় অবস্থা হয়ে গিয়েছিল।",
+    "রোগীর যায় যায় অবস্থায় ডাক্তাররা সতর্ক হয়ে উঠলেন।"
+  ],
+  "example_sentences_in_english": [
+    "After the accident, he was in a touch-and-go condition.",
+    "The doctors became alert when the patient reached a moribund state."
+  ],
+  "usage_domain": [
+    "Health",
+    "Danger",
+    "Crisis"
+  ],
+  "tags": [
+    "Death",
+    "Imminent peril",
+    "Critical condition"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures the precariousness of life in Bengali expressive tradition."
+}

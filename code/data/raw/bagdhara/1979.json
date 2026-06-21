@@ -1,0 +1,39 @@
+{
+  "id": "1979",
+  "idiom": "কানকাটা",
+  "alternative_idioms": [],
+  "literal_meaning": "কান কাটা (যার কান কাটা, অর্থাৎ শুনতে না পাওয়া বা উদাসীন)",
+  "figurative_meaning_bn": "নির্লজ্জ, বেহায়া, যে নিজের নিন্দা, গ্লানি শুনেও শোনে না",
+  "figurative_meaning_en": "Shameless, impudent, one who ignores or doesn't mind hearing their own criticism or disgrace",
+  "similar_in_english": [
+    "Turn a deaf ear",
+    "Thick-skinned",
+    "Brazen"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা কানকাটা লোক, কারো কথাই শোনে না।",
+    "তোমার মতো কানকাটা মানুষ আর দেখিনি, সবাই তোমাকে সতর্ক করলেও তুমি শোনো না।"
+  ],
+  "example_sentences_in_english": [
+    "He is such a deaf ear to advice, completely shameless.",
+    "I've never seen someone as thick-skinned as you; you ignore all criticism."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insulting",
+    "everyday conversation"
+  ],
+  "tags": [
+    "shamelessness",
+    "ignorance to criticism",
+    "impudence"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the imagery of severed ears symbolizing inability or unwillingness to hear, common in oral Bengali traditions."
+}

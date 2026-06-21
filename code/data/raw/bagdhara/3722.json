@@ -1,0 +1,39 @@
+{
+  "id": "3722",
+  "idiom": "চন্দ্রাহত",
+  "alternative_idioms": [],
+  "literal_meaning": "চন্দ্র দ্বারা আঘাতপ্রাপ্ত (struck by the moon)",
+  "figurative_meaning_bn": "উন্মত্ত; ক্ষিপ্ত; পাগল",
+  "figurative_meaning_en": "insane; frenzied; mad",
+  "similar_in_english": [
+    "moonstruck",
+    "lunatic"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চন্দ্রাহতের মতো চিৎকার করতে লাগল।",
+    "এই খবরে সবাই চন্দ্রাহত হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He started screaming like he was moonstruck.",
+    "The news left everyone acting insane."
+  ],
+  "usage_domain": [
+    "emotions",
+    "mental state"
+  ],
+  "tags": [
+    "madness",
+    "insanity",
+    "frenzy"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term is an adaptation in Bengali mimicking the English words 'moonstruck' and 'lunatic', which derive from beliefs about the moon's influence on human behavior."
+  ],
+  "note": "Borrowed concept from English folklore regarding lunar effects on madness."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "682",
+  "idiom": "ইতিকর্তব্যবিমূঢ়",
+  "alternative_idioms": [
+    "এদিকও না, ওদিকও না",
+    "কিংকর্তব্যবিমূঢ়",
+    "সসেমিরা",
+    "হতবুদ্ধি"
+  ],
+  "literal_meaning": "উপস্থিত পরিস্থিতিতে কর্তব্য সম্পর্কে বিমূঢ় বা বিভ্রান্ত",
+  "figurative_meaning_bn": "উপস্থিত কি করতে হবে তা নির্ণয়ে অসমর্থ",
+  "figurative_meaning_en": "Unable to decide what to do in the present situation",
+  "similar_in_english": [
+    "At a loss for words",
+    "In a quandary",
+    "Clueless"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ইতিকর্তব্যবিমূঢ় হয়ে দাঁড়িয়ে রইল যখন বন্ধুরা তার সিদ্ধান্তের জন্য অপেক্ষা করছিল।",
+    "পরীক্ষার ফলাফল দেখে ছাত্রটি ইতিকর্তব্যবিমূঢ় হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He stood there at a loss, bewildered about what to do as his friends waited for his decision.",
+    "The student was clueless and indecisive upon seeing the exam results."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Decision-making",
+    "Emotional states"
+  ],
+  "tags": [
+    "confusion",
+    "indecision",
+    "bewilderment",
+    "dilemma"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is derived from Sanskrit compounds, common in classical Bengali literature."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4313",
+  "idiom": "ছায়া মাড়ানো",
+  "alternative_idioms": [
+    "ছায়া না মাড়ানো"
+  ],
+  "literal_meaning": "ছায়ার উপর পা রাখা (stepping on the shadow)",
+  "figurative_meaning_bn": "কাছে আসা বা না আসা; সংস্পর্শে আসা বা না আসা; কোনরকম সংশ্রব রাখা বা না রাখা",
+  "figurative_meaning_en": "Coming close or not coming close; coming into contact or avoiding contact; maintaining any relation or keeping no relation",
+  "similar_in_english": [
+    "keep one's distance",
+    "not darken my door",
+    "give a wide berth"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার ছায়া মাড়ালে লোকে খারাপ কথা বলবে।",
+    "সে আমার ছায়া মাড়াতে চায় না, কারণ আমাদের সম্পর্ক খারাপ।"
+  ],
+  "example_sentences_in_english": [
+    "If you step on my shadow, people will speak ill of us.",
+    "He doesn't want to step on my shadow because our relations are strained."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "relationships",
+    "prohibitions"
+  ],
+  "tags": [
+    "avoidance",
+    "distance",
+    "superstition",
+    "social taboo"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects cultural superstitions about shadows implying close proximity that could lead to gossip or misfortune."
+}

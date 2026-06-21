@@ -1,0 +1,41 @@
+{
+  "id": "5760",
+  "idiom": "দাগা বুলানো",
+  "alternative_idioms": [],
+  "literal_meaning": "দাগ বা চিহ্ন মেখে বুলানো (পশুর উপর দাগ দেওয়ার মতো)",
+  "figurative_meaning_bn": "হুবহু অনুকরণ করা",
+  "figurative_meaning_en": "to imitate exactly or blindly copy",
+  "similar_in_english": [
+    "to ape someone",
+    "to follow blindly in footsteps"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার পূর্বসূরিদের উপর দাগা বুলিয়ে চলে, কোনো নতুনত্ব আনে না।",
+    "এই সমাজে অনেকে শুধু বংশানুক্রমে দাগা বুলানোর চেষ্টা করে।"
+  ],
+  "example_sentences_in_english": [
+    "He just imitates his predecessors exactly, without any innovation.",
+    "In this society, many people merely copy their ancestors blindly through generations."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "family and tradition",
+    "literature"
+  ],
+  "tags": [
+    "imitation",
+    "copying",
+    "ancestral following",
+    "tradition"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from rural practices of branding livestock to mark ownership, metaphorically extended to blind adherence to family or societal traditions in Bengali culture."
+  ],
+  "note": "Often used to critique unoriginal behavior in generational contexts."
+}

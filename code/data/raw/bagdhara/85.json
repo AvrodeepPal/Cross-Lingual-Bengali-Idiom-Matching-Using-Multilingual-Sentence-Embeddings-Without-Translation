@@ -1,0 +1,37 @@
+{
+  "id": "85",
+  "idiom": "অঙ্কস্থ",
+  "alternative_idioms": [],
+  "literal_meaning": "অঙ্কে স্থান (lap or figure's place)",
+  "figurative_meaning_bn": "আয়ত্ব; হস্তগত",
+  "figurative_meaning_en": "Possession; in one's grasp",
+  "similar_in_english": [
+    "In one's pocket",
+    "Under one's control"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার সম্পত্তি অঙ্কস্থ করে রেখেছে।",
+    "এই সিদ্ধান্ত এখন আমার অঙ্কস্থ।"
+  ],
+  "example_sentences_in_english": [
+    "He has kept his property in his possession.",
+    "This decision is now in my grasp."
+  ],
+  "usage_domain": [
+    "Everyday language",
+    "Possession and control"
+  ],
+  "tags": [
+    "possession",
+    "control",
+    "figurative"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to something securely held or possessed, evoking the image of holding in one's lap."
+}

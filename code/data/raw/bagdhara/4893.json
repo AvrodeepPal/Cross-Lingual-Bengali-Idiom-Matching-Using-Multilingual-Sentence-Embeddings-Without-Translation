@@ -1,0 +1,40 @@
+{
+  "id": "4893",
+  "idiom": "টাকা ওড়ানো",
+  "alternative_idioms": [],
+  "literal_meaning": "টাকা উড়ানো (money flying)",
+  "figurative_meaning_bn": "দুহাতে টাকা খরচ করা; অপব্যয় করা",
+  "figurative_meaning_en": "To spend money lavishly; to squander or waste money",
+  "similar_in_english": [
+    "Throw money around",
+    "Burn through money",
+    "Money burns a hole in one's pocket"
+  ],
+  "example_sentences_in_bangla": [
+    "উৎসবে সে টাকা ওড়িয়ে দিল।",
+    "যুবকটি বিলাসিতায় টাকা ওড়াচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He threw money around during the festival.",
+    "The young man is squandering his money on luxuries."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Daily life",
+    "Extravagance"
+  ],
+  "tags": [
+    "money",
+    "spending",
+    "waste",
+    "lavish"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali cultural emphasis on frugality contrasted with occasional extravagance."
+}

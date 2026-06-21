@@ -1,0 +1,40 @@
+{
+  "id": "10110",
+  "idiom": "হাত চলা",
+  "alternative_idioms": [
+    "হাত-পা চলা"
+  ],
+  "literal_meaning": "হাতের নড়াচড়া বা চলাচল",
+  "figurative_meaning_bn": "প্রহার করা",
+  "figurative_meaning_en": "To beat or strike someone",
+  "similar_in_english": [
+    "Beat someone up",
+    "Throw punches"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের ঝগড়ায় সে হাত চালিয়ে সবাইকে ভয় দেখাল।",
+    "রাগের মাথায় ভাই হাত-পা চালিয়ে ছোট ভাইকে মারল।"
+  ],
+  "example_sentences_in_english": [
+    "In the village quarrel, he beat everyone to instill fear.",
+    "In a fit of anger, the brother beat his younger sibling with hands and feet."
+  ],
+  "usage_domain": [
+    "Colloquial speech",
+    "Descriptions of conflict"
+  ],
+  "tags": [
+    "violence",
+    "physical assault",
+    "anger",
+    "fight"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday expressions of physical confrontation in Bengali culture, often used in rural or semi-urban contexts."
+}

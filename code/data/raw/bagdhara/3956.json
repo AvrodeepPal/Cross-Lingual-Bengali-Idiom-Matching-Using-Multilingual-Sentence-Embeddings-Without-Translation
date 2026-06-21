@@ -1,0 +1,39 @@
+{
+  "id": "3956",
+  "idiom": "চুকচুক",
+  "alternative_idioms": [],
+  "literal_meaning": "ধ্বন্যাত্মক দ্বিত্বশব্দ; জিভ দিয়ে ধীরেধীরে চা খাওয়ার কোমল শব্দ",
+  "figurative_meaning_bn": "ধ্বন্যাত্মক দ্বিত্বশব্দ; জিভ দিয়ে ধীরেধীরে চা খাওয়ার কোমল শব্দ",
+  "figurative_meaning_en": "Onomatopoeic reduplicated word; the soft sound of slowly sipping tea with the tongue",
+  "similar_in_english": [
+    "slurp (for noisy sipping)",
+    "sip sip (onomatopoeic for gentle drinking)"
+  ],
+  "example_sentences_in_bangla": [
+    "চুকচুক করে চায়ে চুমুক দিচ্ছি।",
+    "সে চুকচুক করে দুধ খাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "I'm sipping tea with a chukchuk sound.",
+    "She is drinking milk with a soft chukchuk sip."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "food and drink",
+    "onomatopoeia"
+  ],
+  "tags": [
+    "sound imitation",
+    "drinking",
+    "tea culture",
+    "reduplication"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is primarily an onomatopoeic expression rooted in daily Bengali tea-drinking habits."
+}

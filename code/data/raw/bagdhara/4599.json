@@ -1,0 +1,37 @@
+{
+  "id": "4599",
+  "idiom": "জাতসাপ",
+  "alternative_idioms": [],
+  "literal_meaning": "জাতের সাপ (caste's snake)",
+  "figurative_meaning_bn": "তীব্র বিদ্বেষপূর্ণ মানসিকতার লোক",
+  "figurative_meaning_en": "A person with an intensely hateful or bigoted mentality",
+  "similar_in_english": [
+    "snake in the grass",
+    "venomous bigot"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা জাতসাপ, কারো জাত দেখেই বিরক্ত হয়ে যায়।",
+    "গ্রামে সেই জাতসাপের কারণে অনেক ঝগড়া হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real caste snake, getting irritated just by seeing someone's caste.",
+    "The village has seen many fights because of that hateful bigot."
+  ],
+  "usage_domain": [
+    "social",
+    "derogatory"
+  ],
+  "tags": [
+    "casteism",
+    "hatred",
+    "discrimination"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to deep-seated caste prejudice common in Bengali society"
+}

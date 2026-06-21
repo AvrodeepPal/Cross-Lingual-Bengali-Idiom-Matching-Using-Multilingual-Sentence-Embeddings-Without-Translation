@@ -1,0 +1,39 @@
+{
+  "id": "5231",
+  "idiom": "ঢাকা দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ঢাকা (আবরণ করা) দেওয়া (করা)",
+  "figurative_meaning_bn": "চাপা দেওয়া, গোপন করা, জানতে না দেওয়া, লোকচক্ষুর অন্তরালে পাঠানো",
+  "figurative_meaning_en": "to suppress, to conceal, to keep secret, to hide from public view",
+  "similar_in_english": [
+    "cover up",
+    "sweep under the rug",
+    "keep under wraps"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার অপরাধ ঢাকা দিয়েছে পুলিশের কাছে।",
+    "কোম্পানি তার আর্থিক ক্ষতি ঢাকা দেওয়ার চেষ্টা করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He covered up his crime from the police.",
+    "The company is trying to hide its financial losses."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "politics",
+    "business"
+  ],
+  "tags": [
+    "secrecy",
+    "concealment",
+    "deception"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom derives from the physical act of covering something with a lid (ঢাকনা), metaphorically extended to hiding information or actions."
+}

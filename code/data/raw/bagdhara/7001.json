@@ -1,0 +1,38 @@
+{
+  "id": "7001",
+  "idiom": "পোড়াকপাল",
+  "alternative_idioms": [],
+  "literal_meaning": "পোড়া কপাল (burnt forehead)",
+  "figurative_meaning_bn": "দুরদৃষ্ট, বিড়ম্বিত ভাগ্য",
+  "figurative_meaning_en": "ill fate, unfortunate destiny",
+  "similar_in_english": [
+    "bad luck",
+    "cursed fate",
+    "born under a bad sign"
+  ],
+  "example_sentences_in_bangla": [
+    "পোড়াকপাল আমার, আজকের ইন্টারভিউটাও খারাপ হয়ে গেল।",
+    "এই পোড়াকপালে কোনো কাজই সফল হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "What bad luck I have; today's interview went terribly too.",
+    "With this cursed fate, no work ever succeeds."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "expressing misfortune"
+  ],
+  "tags": [
+    "fate",
+    "misfortune",
+    "superstition"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the cultural belief in fate marked on one's forehead, implying inescapable misfortune."
+}

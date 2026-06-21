@@ -1,0 +1,39 @@
+{
+  "id": "6649",
+  "idiom": "পরের ঘাড়ে বন্দুক রেখে শিকার করা",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্যের ঘাড়ে বন্দুক রেখে শিকার করা",
+  "figurative_meaning_bn": "অন্যকে নির্ভর করে কাজ করা; ধান্ধাবাজি",
+  "figurative_meaning_en": "To accomplish tasks by relying on or coercing others; engaging in deceitful or shady dealings",
+  "similar_in_english": [
+    "Riding on someone else's coattails",
+    "Holding a gun to someone's head"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় পরের ঘাড়ে বন্দুক রেখে শিকার করা করে লাভ করে।",
+    "ব্যবসায়ে এই ধরনের ধান্ধাবাজি চালিয়ে যাওয়া ঝুঁকিপূর্ণ।"
+  ],
+  "example_sentences_in_english": [
+    "He always profits by putting a gun to others' necks to hunt.",
+    "Running a business through such shady dealings is risky."
+  ],
+  "usage_domain": [
+    "Business",
+    "Everyday dealings",
+    "Politics"
+  ],
+  "tags": [
+    "coercion",
+    "deceit",
+    "reliance",
+    "trickery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom evokes imagery of hunting, common in rural Bengali contexts, symbolizing exploitation."
+}

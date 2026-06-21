@@ -1,0 +1,44 @@
+{
+  "id": "4589",
+  "idiom": "জাত খাওয়া",
+  "alternative_idioms": [
+    "জাত খোয়ানো",
+    "জাত মারা",
+    "জাত যাওয়া"
+  ],
+  "literal_meaning": "জাত (caste) খাওয়া (to eat or consume)",
+  "figurative_meaning_bn": "জাতি, ধর্ম বা সতীত্ব নষ্ট করা",
+  "figurative_meaning_en": "To lose one's caste, religion, or chastity; to suffer social or moral ruin",
+  "similar_in_english": [
+    "lose one's honor",
+    "fall from grace",
+    "bring disgrace upon oneself"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অসৎ কাজের জন্য সে জাত খেয়েছে।",
+    "সমাজে এমন আচরণ করলে জাত খোয়ানোর ভয় থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He lost his caste due to his immoral actions.",
+    "Such behavior in society risks losing one's honor and purity."
+  ],
+  "usage_domain": [
+    "social norms",
+    "morality",
+    "family honor"
+  ],
+  "tags": [
+    "caste system",
+    "purity",
+    "dishonor",
+    "traditional values"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Rooted in Hindu caste concepts; synonyms reflect variations in expression"
+}

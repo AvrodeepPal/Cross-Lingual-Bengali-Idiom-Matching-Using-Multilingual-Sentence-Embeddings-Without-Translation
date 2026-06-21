@@ -1,0 +1,40 @@
+{
+  "id": "2548",
+  "idiom": "খাঁ-খাঁ",
+  "alternative_idioms": [
+    "ফাঁকা ফাঁকা"
+  ],
+  "literal_meaning": "খালি বা শূন্য স্থানের অনুকরণমূলক শব্দ (onomatopoeic sound of hollowness or echoing emptiness)",
+  "figurative_meaning_bn": "শূন্যতা/নির্জনতাভাবসূচক",
+  "figurative_meaning_en": "Indicates emptiness or desolation",
+  "similar_in_english": [
+    "echoing with silence",
+    "hollow and empty"
+  ],
+  "example_sentences_in_bangla": [
+    "নির্জন বাড়িটা খাঁ-খাঁ করছে।",
+    "মনটা খাঁ-খাঁ করছে।"
+  ],
+  "example_sentences_in_english": [
+    "The deserted house is echoing with emptiness.",
+    "My mind feels hollow and empty."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "descriptive literature"
+  ],
+  "tags": [
+    "emptiness",
+    "desolation",
+    "silence",
+    "onomatopoeic"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is onomatopoeic, mimicking the sound of emptiness in Bengali oral tradition."
+}

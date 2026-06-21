@@ -1,0 +1,40 @@
+{
+  "id": "1967",
+  "idiom": "কাতারে কাতারে",
+  "alternative_idioms": [],
+  "literal_meaning": "কাতারের পর কাতার (line after line)",
+  "figurative_meaning_bn": "সারিবদ্ধভাবে অজস্র সংখ্যায়",
+  "figurative_meaning_en": "in rows or queues, in countless numbers",
+  "similar_in_english": [
+    "in droves",
+    "one after another",
+    "in single file"
+  ],
+  "example_sentences_in_bangla": [
+    "কাতারে কাতারে লোকজন মেলায় এসেছে।",
+    "বাস স্ট্যান্ডে কাতারে কাতারে যাত্রীদের ভিড়।"
+  ],
+  "example_sentences_in_english": [
+    "People arrived at the fair in queues one after another.",
+    "There was a crowd of passengers queuing up line after line at the bus stand."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "crowd descriptions",
+    "events and gatherings"
+  ],
+  "tags": [
+    "quantity",
+    "crowd",
+    "arrangement",
+    "repetition"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects common experiences with queues in daily life, such as markets or public transport in Bengali-speaking regions."
+}

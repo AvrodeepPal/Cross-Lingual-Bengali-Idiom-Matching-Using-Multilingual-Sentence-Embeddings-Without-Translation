@@ -1,0 +1,39 @@
+{
+  "id": "9955",
+  "idiom": "হলদে মেরে যাওয়া",
+  "alternative_idioms": [
+    "হলদে হওয়া"
+  ],
+  "literal_meaning": "হলদে রঙ ধারণ করে মারা যাওয়া বা হলদে হয়ে যাওয়া",
+  "figurative_meaning_bn": "অত্যন্ত ভয় পেয়ে যাওয়া",
+  "figurative_meaning_en": "To be extremely frightened or terrified",
+  "similar_in_english": [
+    "Scared to death",
+    "Pale with fear"
+  ],
+  "example_sentences_in_bangla": [
+    "ভূতের ছায়া দেখে সে হলদে মেরে গেল।",
+    "পরীক্ষার ফলাফল শুনে ছেলেটি হলদে হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He turned yellow with fear upon seeing the ghost's shadow.",
+    "The boy became terrified hearing the exam results."
+  ],
+  "usage_domain": [
+    "Colloquial speech",
+    "Emotional expression"
+  ],
+  "tags": [
+    "fear",
+    "emotion",
+    "daily conversation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the physical symptom of fear causing a yellowish pallor, akin to jaundice."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1581",
+  "idiom": "কব্জা করা",
+  "alternative_idioms": [],
+  "literal_meaning": "দখল বা অধিকার করা (seize or occupy)",
+  "figurative_meaning_bn": "অনৈতিকভাবে দখলে রাখা",
+  "figurative_meaning_en": "To unlawfully occupy or seize possession",
+  "similar_in_english": [
+    "Land grab",
+    "Encroachment",
+    "Squatter's rights"
+  ],
+  "example_sentences_in_bangla": [
+    "সে প্রতিবেশীর জমির উপর অন্যায়ভাবে কব্জা করেছে।",
+    "বড় দেশটি ছোট দেশের অঞ্চল কব্জা করে নিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has unlawfully occupied his neighbor's land.",
+    "The larger country has seized territory from the smaller one."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Land disputes",
+    "International relations"
+  ],
+  "tags": [
+    "Occupation",
+    "Unlawful seizure",
+    "Territorial conflict"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References historical territorial expansions and colonial land grabs, such as disputes between larger and smaller nations in South Asia."
+  ],
+  "note": "Original meaning had a minor typo ('ভাবে' likely 'ভাবে' error for direct phrasing)."
+}

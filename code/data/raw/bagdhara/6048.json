@@ -1,0 +1,39 @@
+{
+  "id": "6048",
+  "idiom": "ধাড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "বৃদ্ধ ব্যক্তি (প্রায়শই দাঁতহীন বা দুর্বল বৃদ্ধ)",
+  "figurative_meaning_bn": "প্রবীণ; বৃদ্ধ; বয়স্ক",
+  "figurative_meaning_en": "Elderly; old; aged",
+  "similar_in_english": [
+    "old geezer",
+    "codger",
+    "old timer"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ধাড়ি লোক, আর কোনো কাজ করতে পারে না।",
+    "গ্রামের ধাড়িরা সন্ধ্যায় গল্প করতে বসে।"
+  ],
+  "example_sentences_in_english": [
+    "He is an old geezer who can't do any work anymore.",
+    "The village elders sit and chat in the evening."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "describing age"
+  ],
+  "tags": [
+    "elderly",
+    "slang",
+    "informal",
+    "age-related"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Informal term often used in rural or semi-urban Bengali contexts to refer to frail elderly men"
+}

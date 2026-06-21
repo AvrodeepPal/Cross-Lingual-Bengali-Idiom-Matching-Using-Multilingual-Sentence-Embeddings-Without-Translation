@@ -1,0 +1,39 @@
+{
+  "id": "3922",
+  "idiom": "চিনচিন",
+  "alternative_idioms": [],
+  "literal_meaning": "দ্বিত্বশব্দ যা অল্প বেদনা বা ঝিঁঝিঁ অনুভূতি নির্দেশ করে",
+  "figurative_meaning_bn": "অল্প বেদনাবোধক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "A reduplicated word indicating a slight sensation of pain or tingling",
+  "similar_in_english": [
+    "a twinge of pain",
+    "stomach pangs"
+  ],
+  "example_sentences_in_bangla": [
+    "ক্ষুধায় তার পেট চিনচিন করছে।",
+    "ঠান্ডায় হাত চিনচিন করে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "His stomach is twinging with hunger.",
+    "My hands are tingling from the cold."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "physical sensations",
+    "hunger and discomfort"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "reduplication",
+    "sensory expression",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in spoken Bengali to describe minor discomforts like hunger pangs."
+}

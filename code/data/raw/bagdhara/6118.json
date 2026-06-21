@@ -1,0 +1,41 @@
+{
+  "id": "6118",
+  "idiom": "ধোঁকা খাওয়া",
+  "alternative_idioms": [
+    "ধোঁকা দেওয়া"
+  ],
+  "literal_meaning": "ধোঁকা (প্রতারণা বা ছল) খাওয়া বা দেওয়া",
+  "figurative_meaning_bn": "প্রতারিত হওয়া বা প্রতারণা করা; ঠকানো বা ঠকা",
+  "figurative_meaning_en": "To be deceived or to deceive; to cheat or be cheated",
+  "similar_in_english": [
+    "to be taken for a ride",
+    "to pull the wool over someone's eyes",
+    "to be duped"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ব্যবসায়ে আমাকে ধোঁকা খাওয়ালো।",
+    "কখনো কাউকে ধোঁকা দেওয়া উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He deceived me in the business deal.",
+    "One should never deceive anyone."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "business",
+    "relationships"
+  ],
+  "tags": [
+    "deception",
+    "trickery",
+    "betrayal"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday moral cautions in Bengali society against dishonesty."
+}

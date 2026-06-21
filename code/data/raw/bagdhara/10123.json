@@ -1,0 +1,40 @@
+{
+  "id": "10123",
+  "idiom": "হাত ঝাড়লে পর্বত",
+  "alternative_idioms": [
+    "হাত ঝাড়া দিলে পর্বত"
+  ],
+  "literal_meaning": "হাত ঝাঁকালে বা ঝাড়লে পর্বত নেমে আসে",
+  "figurative_meaning_bn": "ধনাধিক্য; ধনীর অল্প দান গ্রহীতার কাছে প্রচুর মনে হয়",
+  "figurative_meaning_en": "Abundance of wealth; A small donation from a rich person seems plentiful to the recipient",
+  "similar_in_english": [
+    "A pittance from the rich is a fortune to the poor"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এত ধনী যে তার হাত ঝাড়লে পর্বত পড়ে।",
+    "গরিব লোকটির কাছে জমিদারের একটা টাকা হাত ঝাড়লে পর্বতের মতো লাগল।"
+  ],
+  "example_sentences_in_english": [
+    "He is so wealthy that shaking his hand yields a mountain.",
+    "To the poor man, the landlord's single coin felt like a mountain from a shake of the hand."
+  ],
+  "usage_domain": [
+    "Wealth and Economy",
+    "Social Perception",
+    "Generosity"
+  ],
+  "tags": [
+    "ধন",
+    "দান",
+    "ধনী-দরিদ্র",
+    "অল্প থেকে প্রচুর"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom highlights the disparity in perception of wealth between the rich and the poor in traditional Bengali society."
+}

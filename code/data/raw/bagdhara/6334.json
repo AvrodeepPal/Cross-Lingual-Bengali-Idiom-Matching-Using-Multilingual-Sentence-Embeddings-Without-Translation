@@ -1,0 +1,40 @@
+{
+  "id": "6334",
+  "idiom": "নাটক",
+  "alternative_idioms": [],
+  "literal_meaning": "নাটক (drama or theatrical play)",
+  "figurative_meaning_bn": "কৃত্রিম ভাবভঙ্গী",
+  "figurative_meaning_en": "artificial gestures or pretense",
+  "similar_in_english": [
+    "putting on an act",
+    "making a scene",
+    "drama"
+  ],
+  "example_sentences_in_bangla": [
+    "আর নাটক করো না, সত্যি কথা বলো।",
+    "সে সবসময় নাটক করে সমস্যা বাড়ায়।"
+  ],
+  "example_sentences_in_english": [
+    "Stop the drama and tell the truth.",
+    "She always puts on a drama to escalate problems."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "arguments",
+    "theater context"
+  ],
+  "tags": [
+    "pretense",
+    "exaggeration",
+    "acting",
+    "fakeness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from Bengali's rich tradition of jatra and natak (folk theater), often used to criticize insincere behavior."
+}

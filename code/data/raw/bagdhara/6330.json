@@ -1,0 +1,39 @@
+{
+  "id": "6330",
+  "idiom": "অন্ধ নাচার",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ধ ভিক্ষুক (blind beggar)",
+  "figurative_meaning_bn": "অসহায়",
+  "figurative_meaning_en": "helpless",
+  "similar_in_english": [
+    "down and out",
+    "pauper"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এখন অন্ধ নাচারের মতো অসহায় হয়ে পড়েছে।",
+    "গ্রামের অন্ধ নাচারকে সাহায্য করো।"
+  ],
+  "example_sentences_in_english": [
+    "He is now as helpless as a blind beggar.",
+    "Help the blind beggar in the village."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature"
+  ],
+  "tags": [
+    "helplessness",
+    "poverty",
+    "sympathy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to traditional blind beggars wandering in rural Bengal, evoking cultural norms of almsgiving."
+  ],
+  "note": "Idiom text cleaned from 'নাচার২' to include contextual 'অন্ধ' based on meaning."
+}

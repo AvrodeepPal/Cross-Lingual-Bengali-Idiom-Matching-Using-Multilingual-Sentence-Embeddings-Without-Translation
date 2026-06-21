@@ -1,0 +1,41 @@
+{
+  "id": "8566",
+  "idiom": "মানসপুত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "মন-জাত পুত্র (mind-born son)",
+  "figurative_meaning_bn": "ঔরসজাত পুত্র নয় তবে মানস-জগতের সঙ্গে সাযুজ্য আছে এমন পুত্রপ্রতিম কেউ",
+  "figurative_meaning_en": "A person who is not a biological son but is like a son connected to the intellectual or mental world",
+  "similar_in_english": [
+    "spiritual son",
+    "intellectual heir",
+    "protégé"
+  ],
+  "example_sentences_in_bangla": [
+    "রবীন্দ্রনাথকে দেবেন্দ্রনাথের মানসপুত্র বলে মনে করা হয়।",
+    "আধুনিক দার্শনিকরা প্রায়ই তাঁদের শিষ্যদের মানসপুত্র হিসেবে দেখেন।"
+  ],
+  "example_sentences_in_english": [
+    "Rabindranath is considered Debendranath's manasputra.",
+    "Modern philosophers often regard their disciples as manasputras."
+  ],
+  "usage_domain": [
+    "literature",
+    "philosophy",
+    "mythology"
+  ],
+  "tags": [
+    "family metaphor",
+    "intellectual bond",
+    "spiritual kinship"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "In Hindu mythology, 'manasputra' refers to the mind-born sons of Brahma, such as the seven sages (Saptarishis), symbolizing creation through intellect rather than physical birth."
+  ],
+  "note": "This term originates from Sanskrit and is commonly used in Bengali to denote non-biological but deeply intellectual or spiritual progeny."
+}

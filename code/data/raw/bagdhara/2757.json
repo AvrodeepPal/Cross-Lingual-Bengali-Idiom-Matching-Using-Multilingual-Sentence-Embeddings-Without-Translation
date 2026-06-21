@@ -1,0 +1,39 @@
+{
+  "id": "2757",
+  "idiom": "খোদার কসম",
+  "alternative_idioms": [],
+  "literal_meaning": "খোদার শপথ",
+  "figurative_meaning_bn": "খোদার নামে শপথ",
+  "figurative_meaning_en": "Swearing an oath in the name of God",
+  "similar_in_english": [
+    "I swear to God",
+    "By God"
+  ],
+  "example_sentences_in_bangla": [
+    "খোদার কসম, আমি কখনো মিথ্যা বলিনি।",
+    "তুমি বিশ্বাস কর না? খোদার কসম, সব সত্যি।"
+  ],
+  "example_sentences_in_english": [
+    "By God, I have never lied.",
+    "Don't you believe me? I swear to God, it's all true."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Emphasis and oaths"
+  ],
+  "tags": [
+    "Oath",
+    "Swearing",
+    "Religious expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Persian 'Khoda' meaning God, commonly used in Islamic-influenced Bengali expressions for solemn oaths."
+  ],
+  "note": "Primarily used in Muslim Bengali communities for emphatic truth-telling."
+}

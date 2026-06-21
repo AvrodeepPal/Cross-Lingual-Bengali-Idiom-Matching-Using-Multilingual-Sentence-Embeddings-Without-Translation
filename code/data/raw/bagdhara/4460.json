@@ -1,0 +1,40 @@
+{
+  "id": "4460",
+  "idiom": "জঠরানল",
+  "alternative_idioms": [
+    "জঠরাগ্নি"
+  ],
+  "literal_meaning": "জঠরে (পেটে) অনল বা আগুন (fire in the stomach)",
+  "figurative_meaning_bn": "ক্ষুধার জ্বালা",
+  "figurative_meaning_en": "the burning sensation of hunger",
+  "similar_in_english": [
+    "hunger pangs"
+  ],
+  "example_sentences_in_bangla": [
+    "দিনভর কাজ করার পর তার জঠরানল জ্বলে উঠল।",
+    "উপবাসের কারণে শরীরে জঠরানলের জ্বালা অনুভূত হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "After working all day, he felt the burning of jatharanala in his stomach.",
+    "Due to fasting, the body is experiencing the blaze of hunger pangs."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "physiology"
+  ],
+  "tags": [
+    "hunger",
+    "stomach",
+    "fire",
+    "discomfort"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom has roots in classical Sanskrit-influenced Bengali literature, often used poetically to describe intense hunger."
+}

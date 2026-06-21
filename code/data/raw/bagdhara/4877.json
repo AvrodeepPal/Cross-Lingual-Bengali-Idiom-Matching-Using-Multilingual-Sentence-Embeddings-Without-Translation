@@ -1,0 +1,42 @@
+{
+  "id": "4877",
+  "idiom": "টরটরে",
+  "alternative_idioms": [
+    "টরটরে লাট্টু"
+  ],
+  "literal_meaning": "টরটর শব্দের অনুকরণ করে ঘুরতে থাকা বা দ্রুত ঘূর্ণনের অবস্থা",
+  "figurative_meaning_bn": "দ্রুত চলার ভাব",
+  "figurative_meaning_en": "The manner of moving quickly",
+  "similar_in_english": [
+    "Spinning like a top",
+    "At breakneck speed"
+  ],
+  "example_sentences_in_bangla": [
+    "সে টরটরে দৌড়ে গেল।",
+    "লাট্টুটা টরটরে ঘুরছে।"
+  ],
+  "example_sentences_in_english": [
+    "He ran off torotore.",
+    "The top is spinning torotore."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Descriptive language"
+  ],
+  "tags": [
+    "speed",
+    "movement",
+    "onomatopoeia",
+    "playful"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the traditional Bengali spinning top (লাট্টু), a common childhood toy in rural and semi-urban areas, symbolizing rapid motion."
+  ],
+  "note": "The term is onomatopoeic, mimicking the whirring sound of a spinning object."
+}

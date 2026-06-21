@@ -1,0 +1,38 @@
+{
+  "id": "2131",
+  "idiom": "কাল হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কাল (মৃত্যু বা বিপদ) হয়ে ওঠা",
+  "figurative_meaning_bn": "মৃতপ্রায় হওয়া; ধ্বংসের কারণ হওয়া",
+  "figurative_meaning_en": "To be on the verge of death; to become the cause of destruction",
+  "similar_in_english": [
+    "To be one's downfall",
+    "To meet one's doom"
+  ],
+  "example_sentences_in_bangla": [
+    "বদসঙ্গের প্রভাবে তার জীবনের কাল হয়েছে।",
+    "এই ভুল সিদ্ধান্ত তার কাল হবে।"
+  ],
+  "example_sentences_in_english": [
+    "Bad company has become the death of him.",
+    "This wrong decision will be his downfall."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "moral warnings"
+  ],
+  "tags": [
+    "death",
+    "destruction",
+    "bad influence",
+    "fate"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom often warns against negative influences leading to ruin."
+}

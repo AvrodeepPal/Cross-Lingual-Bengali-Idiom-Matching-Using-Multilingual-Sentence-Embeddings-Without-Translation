@@ -1,0 +1,39 @@
+{
+  "id": "10222",
+  "idiom": "হাতে পড়া",
+  "alternative_idioms": [
+    "হাতে আসা"
+  ],
+  "literal_meaning": "হাতে পড়া (হাতের মধ্যে পড়ে যাওয়া)",
+  "figurative_meaning_bn": "আয়ত্বে আসা; হস্তগত হওয়া",
+  "figurative_meaning_en": "To come into possession; to be obtained or acquired",
+  "similar_in_english": [
+    "Fall into one's hands",
+    "Come into one's grasp"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই গুরুত্বপূর্ণ নথিটি তার হাতে পড়ে গেল।",
+    "এই সুযোগটি আমার হাতে পড়েছে, এখন কাজ শুরু করব।"
+  ],
+  "example_sentences_in_english": [
+    "That important document fell into his hands.",
+    "This opportunity has come into my hands; now I'll start working on it."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Possession and acquisition"
+  ],
+  "tags": [
+    "possession",
+    "opportunity",
+    "acquisition"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali expressions of gaining control or possession over something unexpectedly."
+}

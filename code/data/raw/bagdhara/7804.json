@@ -1,0 +1,40 @@
+{
+  "id": "7804",
+  "idiom": "বুড়োমড়া",
+  "alternative_idioms": [
+    "ঘাটের মড়া"
+  ],
+  "literal_meaning": "বৃদ্ধ মৃতদেহ (old corpse)",
+  "figurative_meaning_bn": "মরণোন্মুখ বৃদ্ধ",
+  "figurative_meaning_en": "a decrepit old person on the verge of death",
+  "similar_in_english": [
+    "one foot in the grave",
+    "living dead"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই বুড়োমড়া এখনো গাঁয়ে ঘুরে বেড়ায়।",
+    "বাবা এখন বুড়োমড়ার মতো হয়ে গেছেন।"
+  ],
+  "example_sentences_in_english": [
+    "That old corpse is still wandering around the village.",
+    "Dad has become like a decrepit old man now."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "descriptive of age"
+  ],
+  "tags": [
+    "elderly",
+    "death",
+    "derogatory",
+    "ageism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used pejoratively to describe frail elderly individuals, reflecting cultural attitudes towards aging in rural Bengali contexts."
+}

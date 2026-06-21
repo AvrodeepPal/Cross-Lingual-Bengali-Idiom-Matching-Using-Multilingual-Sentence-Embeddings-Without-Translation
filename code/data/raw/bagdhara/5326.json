@@ -1,0 +1,40 @@
+{
+  "id": "5326",
+  "idiom": "তড়িঘড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "তাড়াহুড়োর শব্দানুকরণ; দ্রুতগতির অনুকরণ",
+  "figurative_meaning_bn": "সহচর শব্দ; অতিশীঘ্র; অবিলম্বে; অত্যন্ত তাড়াতাড়ি; একটুও দেরি না করে; তৎক্ষণাৎ; হুট করে",
+  "figurative_meaning_en": "accompanying sound; very quickly; without delay; in a great hurry; without any delay; instantly; suddenly",
+  "similar_in_english": [
+    "in a jiffy",
+    "posthaste",
+    "at the drop of a hat"
+  ],
+  "example_sentences_in_bangla": [
+    "তড়িঘড়ি করে কাজ শেষ করতে হবে।",
+    "সে তড়িঘড়ি করে বাড়ি চলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "I have to finish the work in a hurry.",
+    "He left home suddenly in a rush."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "informal speech",
+    "narrative writing"
+  ],
+  "tags": [
+    "hurry",
+    "urgency",
+    "speed",
+    "immediacy"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic adverb commonly used in spoken Bengali to denote haste."
+}

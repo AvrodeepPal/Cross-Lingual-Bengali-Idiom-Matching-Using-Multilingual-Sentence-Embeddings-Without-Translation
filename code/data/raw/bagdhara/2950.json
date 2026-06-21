@@ -1,0 +1,39 @@
+{
+  "id": "2950",
+  "idiom": "গয়ারাম",
+  "alternative_idioms": [],
+  "literal_meaning": "গোয়ারাম নামক ব্যক্তি (literal as a proper name, possibly referring to a cowherd or fool archetype)",
+  "figurative_meaning_bn": "দলবদলে একদল থেকে অন্যদলে যাওয়া সদস্য",
+  "figurative_meaning_en": "A member who switches from one group or party to another",
+  "similar_in_english": [
+    "turncoat",
+    "defector",
+    "party hopper"
+  ],
+  "example_sentences_in_bangla": [
+    "রাজনীতিতে সে একটা গয়ারাম হয়ে উঠেছে, কোনো দলেই থাকে না।",
+    "বন্ধুমহলে তার গয়ারাম স্বভাব সবাই জানে।"
+  ],
+  "example_sentences_in_english": [
+    "In politics, he has become a turncoat, never staying loyal to any party.",
+    "Everyone in the friend circle knows his turncoat nature."
+  ],
+  "usage_domain": [
+    "politics",
+    "social groups"
+  ],
+  "tags": [
+    "betrayal",
+    "loyalty",
+    "change",
+    "politics"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom likely derives from colloquial Bengali usage in political contexts, portraying unreliability."
+}

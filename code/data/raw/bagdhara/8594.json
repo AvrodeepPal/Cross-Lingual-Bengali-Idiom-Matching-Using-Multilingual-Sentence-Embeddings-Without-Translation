@@ -1,0 +1,42 @@
+{
+  "id": "8594",
+  "idiom": "মারকাট করে",
+  "alternative_idioms": [
+    "মেরেকেটে"
+  ],
+  "literal_meaning": "চিহ্নিত করে কাটা (tailoring or accounting sense: marking and cutting)",
+  "figurative_meaning_bn": "কাটাকুটি করে বাদ দেওয়ার পর অন্ততপক্ষে, খুব বেশি হলে ঊর্ধ্বপক্ষে",
+  "figurative_meaning_en": "After deductions and cuts, at the very least, or at the upper limit if generous",
+  "similar_in_english": [
+    "give or take",
+    "after all deductions",
+    "roughly estimated"
+  ],
+  "example_sentences_in_bangla": [
+    "মারকাট করে এই জমির দাম দশ লক্ষ টাকা হবে।",
+    "ব্যবসার লাভ মারকাট করে অন্তত পাঁচ হাজার টাকা।"
+  ],
+  "example_sentences_in_english": [
+    "After deductions, the land's value will be about ten lakh rupees.",
+    "The business profit, after trimming, will be at least five thousand rupees."
+  ],
+  "usage_domain": [
+    "finance",
+    "estimation",
+    "daily conversation"
+  ],
+  "tags": [
+    "deduction",
+    "approximation",
+    "money",
+    "bargaining"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the practice of marking and cutting fabric or accounts in traditional Bengali commerce."
+}

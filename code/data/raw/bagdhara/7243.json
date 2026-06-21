@@ -1,0 +1,42 @@
+{
+  "id": "7243",
+  "idiom": "বটতলার উপন্যাস",
+  "alternative_idioms": [
+    "বটতলার লেখক"
+  ],
+  "literal_meaning": "বটতলা অঞ্চলের উপন্যাস",
+  "figurative_meaning_bn": "নিম্নমানের উপন্যাস",
+  "figurative_meaning_en": "Low-quality or sensational novels",
+  "similar_in_english": [
+    "pulp fiction",
+    "dime novels"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বইটা পড়লে মনে হয় বটতলার উপন্যাসের মতো সস্তা গল্প।",
+    "তার লেখা বইগুলো বটতলার উপন্যাসের মানের।"
+  ],
+  "example_sentences_in_english": [
+    "This book feels like a cheap story from a Bat-tola novel.",
+    "His written books are of the quality of Bat-tola novels."
+  ],
+  "usage_domain": [
+    "literature",
+    "publishing",
+    "literary criticism"
+  ],
+  "tags": [
+    "derogatory",
+    "sensationalism",
+    "lowbrow"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Refers to the Bat-tola area in 19th-century Kolkata (Calcutta) where inexpensive, sensational pamphlets, novels, and cheap literature were printed and sold under banyan trees or in local presses, often catering to mass audiences with melodramatic content."
+  ],
+  "note": "The term evokes the historical context of early Bengali print culture and urban literary markets."
+}

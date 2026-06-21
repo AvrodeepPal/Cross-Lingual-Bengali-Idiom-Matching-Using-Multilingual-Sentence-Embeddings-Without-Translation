@@ -1,0 +1,39 @@
+{
+  "id": "8199",
+  "idiom": "মগজ ধোলাই",
+  "alternative_idioms": [],
+  "literal_meaning": "মস্তিষ্ক ধোয়া (brain washing)",
+  "figurative_meaning_bn": "ক্রমাগত বুঝিয়ে কারও পূর্ব ধারণা ত্যাগ করিয়ে নতুন ধারণা গ্রহণে বাধ্য করা",
+  "figurative_meaning_en": "Continuously convincing someone to abandon their preconceived notions and compel them to accept new ideas",
+  "similar_in_english": [
+    "brainwashing",
+    "wash someone's brain"
+  ],
+  "example_sentences_in_bangla": [
+    "যুক্তিবাদীর মগজ ধোলাই করা সহজ নয়।",
+    "রাজনৈতিক দলগুলো প্রায়ই ভোটারদের মগজ ধোলাই করে।"
+  ],
+  "example_sentences_in_english": [
+    "It's not easy to brainwash a rational person.",
+    "Political parties often brainwash voters."
+  ],
+  "usage_domain": [
+    "persuasion",
+    "politics",
+    "education"
+  ],
+  "tags": [
+    "manipulation",
+    "convincing",
+    "mind",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom is a direct calque from English 'brainwashing' and is widely used in contemporary Bengali discourse."
+}

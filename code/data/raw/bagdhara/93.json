@@ -1,0 +1,39 @@
+{
+  "id": "93",
+  "idiom": "অচলায়তন",
+  "alternative_idioms": [],
+  "literal_meaning": "অচল (স্থির বা অচল) + আয়তন (প্রতিষ্ঠান বা বিস্তার)",
+  "figurative_meaning_bn": "প্রগতিবর্জিত ও গোঁড়ামিপূর্ণ প্রতিষ্ঠান",
+  "figurative_meaning_en": "A stagnant and orthodox institution",
+  "similar_in_english": [
+    "stuck in the mud",
+    "fossilized organization"
+  ],
+  "example_sentences_in_bangla": [
+    "এই প্রতিষ্ঠানটি একটি অচলায়তন হয়ে উঠেছে, কোনো পরিবর্তন মেনে নেয় না।",
+    "ধর্মীয় অচলায়তনগুলি সমাজের অগ্রগতিকে বাধা দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "This institution has become a stagnant backwater, refusing any change.",
+    "Religious backwaters often hinder societal progress."
+  ],
+  "usage_domain": [
+    "social critique",
+    "institutional analysis"
+  ],
+  "tags": [
+    "stagnation",
+    "orthodoxy",
+    "institution"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Often used to critique conservative religious or traditional institutions in Bengali literature and discourse."
+  ],
+  "note": "The term is particularly applied to rigid religious establishments in cultural contexts."
+}

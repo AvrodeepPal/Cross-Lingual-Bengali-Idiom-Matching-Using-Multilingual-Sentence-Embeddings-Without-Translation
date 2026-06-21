@@ -1,0 +1,41 @@
+{
+  "id": "8036",
+  "idiom": "ভাতে মারা",
+  "alternative_idioms": [
+    "পেটে মারা"
+  ],
+  "literal_meaning": "ভাত দিয়ে মারা (beaten or killed with rice)",
+  "figurative_meaning_bn": "না খাইয়ে অনাহারে কষ্ট দেওয়া",
+  "figurative_meaning_en": "Causing suffering by starving someone without feeding them",
+  "similar_in_english": [
+    "Starve someone out",
+    "Cut off one's nose to spite one's face (in terms of self-denial)"
+  ],
+  "example_sentences_in_bangla": [
+    "শত্রুকে ভাতে মারার জন্য তিনি খাবার সরবরাহ বন্ধ করে দিলেন।",
+    "গরিব পরিবারটিকে ভাতে মারার মতো অনাহারে রেখে তারা কষ্ট দিচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He starved out his enemy by cutting off the food supply.",
+    "They are causing the poor family to suffer by starving them like beating with rice."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Family conflicts",
+    "Punishment contexts"
+  ],
+  "tags": [
+    "hunger",
+    "suffering",
+    "punishment",
+    "starvation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom plays on rice (ভাত) as a staple food in Bengali culture, implying denial of basic sustenance."
+}

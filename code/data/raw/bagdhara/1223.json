@@ -1,0 +1,42 @@
+{
+  "id": "1223",
+  "idiom": "ইলাজ",
+  "alternative_idioms": [
+    "এলাজ"
+  ],
+  "literal_meaning": "চিকিত্সা বা প্রতিকার (treatment or remedy)",
+  "figurative_meaning_bn": "চিকিৎসা; আরোগ্য",
+  "figurative_meaning_en": "medical treatment; recovery or cure",
+  "similar_in_english": [
+    "remedy",
+    "cure"
+  ],
+  "example_sentences_in_bangla": [
+    "ডাক্তার আমার জ্বরের ইলাজ করে দিলেন।",
+    "পুরনো দিনে ঘরোয়া ইলাজই ছিল প্রধান চিকিত্সা।"
+  ],
+  "example_sentences_in_english": [
+    "The doctor provided treatment for my fever.",
+    "In the old days, home remedies were the main form of treatment."
+  ],
+  "usage_domain": [
+    "health",
+    "medicine"
+  ],
+  "tags": [
+    "medical",
+    "treatment",
+    "cure",
+    "literary"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in Kazi Nazrul Islam's poetry, such as 'আমার রোগের এলাজ কর পিইয়ে দাওয়াই লাল সুরা', highlighting traditional and poetic views on healing in Bengali literature."
+  ],
+  "note": "This term is borrowed from Arabic/Persian and used in both literal and literary contexts in Bengali."
+}

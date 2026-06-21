@@ -1,0 +1,39 @@
+{
+  "id": "769",
+  "idiom": "উঠান চাষা",
+  "alternative_idioms": [],
+  "literal_meaning": "উঠান (courtyard) চাষা (to plow)",
+  "figurative_meaning_bn": "অকাজ বা অকিঞ্চিৎকর কাজ করা",
+  "figurative_meaning_en": "Doing useless or insignificant work",
+  "similar_in_english": [
+    "Plowing the sand",
+    "Busywork"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কোনো গুরুত্বপূর্ণ কাজ না করে উঠান চাষার মতো অকেজো ব্যাপারে মেতে আছে।",
+    "এখন উঠান চাষার সময় নয়, প্রকৃত কাজে মন দাও।"
+  ],
+  "example_sentences_in_english": [
+    "He's engaged in something as pointless as plowing the courtyard instead of doing anything important.",
+    "This isn't the time for plowing the courtyard; focus on real work."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "daily conversation"
+  ],
+  "tags": [
+    "futility",
+    "waste of time",
+    "proverbial expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Originates from rural Bengali agricultural life, where plowing a non-arable courtyard symbolizes absurd and unproductive labor."
+  ],
+  "note": "Often extended in the proverb form 'কাজ নেই উঠান চাষছি' to emphasize idleness."
+}

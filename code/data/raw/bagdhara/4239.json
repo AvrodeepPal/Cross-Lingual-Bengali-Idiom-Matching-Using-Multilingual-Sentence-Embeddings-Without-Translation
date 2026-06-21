@@ -1,0 +1,43 @@
+{
+  "id": "4239",
+  "idiom": "ছন্দপতন",
+  "alternative_idioms": [
+    "তালভঙ্গ",
+    "রসভঙ্গ"
+  ],
+  "literal_meaning": "ছন্দের পতন (rhythm or meter falling down)",
+  "figurative_meaning_bn": "অবাঞ্ছিত আকস্মিক উপস্থিতি",
+  "figurative_meaning_en": "Unwanted sudden presence or arrival that disrupts the flow or mood",
+  "similar_in_english": [
+    "Kill the vibe",
+    "Rain on someone's parade",
+    "Throw a wrench in the works"
+  ],
+  "example_sentences_in_bangla": [
+    "তার আকস্মিক আগমনে পার্টিতে ছন্দপতন ঘটল।",
+    "সভায় অপ্রত্যাশিত ব্যাঘাত ছন্দপতনের কারণ হয়ে দাঁড়াল।"
+  ],
+  "example_sentences_in_english": [
+    "His sudden arrival caused a vibe killer at the party.",
+    "The unexpected interruption disrupted the rhythm of the meeting."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Conversations",
+    "Literature"
+  ],
+  "tags": [
+    "Disruption",
+    "Interruption",
+    "Unwanted presence",
+    "Mood breaker"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Rooted in Bengali poetic and musical traditions where rhythm (ছন্দ) is central to expression."
+}

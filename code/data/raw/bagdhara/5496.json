@@ -1,0 +1,39 @@
+{
+  "id": "5496",
+  "idiom": "তেতেপুড়ে",
+  "alternative_idioms": [],
+  "literal_meaning": "তেতে পুড়ে (গরম হয়ে যাওয়া)",
+  "figurative_meaning_bn": "রোদের তাপে গরম হয়ে",
+  "figurative_meaning_en": "overheated by the sun's heat",
+  "similar_in_english": [
+    "hot and bothered",
+    "sunbaked"
+  ],
+  "example_sentences_in_bangla": [
+    "তেতেপুড়ে বাড়ি ফিরে এসে সঙ্গে সঙ্গে ঠান্ডা জল খাবে না।",
+    "দুপুরের রোদে তেতেপুড়ে কাজ করার পর বিশ্রাম নাও।"
+  ],
+  "example_sentences_in_english": [
+    "Don't drink cold water right after coming home overheated from the sun.",
+    "Take a rest after working overheated in the midday sun."
+  ],
+  "usage_domain": [
+    "daily life",
+    "health",
+    "weather"
+  ],
+  "tags": [
+    "heat",
+    "sun",
+    "caution",
+    "physical state"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the practical wisdom in hot climates to avoid sudden temperature changes for health reasons."
+}

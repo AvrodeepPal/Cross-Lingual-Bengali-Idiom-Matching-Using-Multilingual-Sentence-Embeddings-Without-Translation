@@ -1,0 +1,37 @@
+{
+  "id": "8672",
+  "idiom": "মুখ চাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "face seeking or asking for face",
+  "figurative_meaning_bn": "সম্মান রক্ষা করা",
+  "figurative_meaning_en": "to save face or maintain honor",
+  "similar_in_english": [
+    "save face"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার মুখ চেয়ে আমি এই সিদ্ধান্ত নিয়েছি।",
+    "পরিবারের মুখ চাওয়ার জন্য সে চাকরি ছেড়ে দিল না।"
+  ],
+  "example_sentences_in_english": [
+    "I made this decision to save your face.",
+    "He didn't quit his job to maintain the family's honor."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "family honor",
+    "relationships"
+  ],
+  "tags": [
+    "honor",
+    "respect",
+    "face-saving"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural emphasis on preserving dignity in Bengali society."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9987",
+  "idiom": "হাঁড়ির খবর",
+  "alternative_idioms": [],
+  "literal_meaning": "হাঁড়ির খবর (পাত্রের সংবাদ)",
+  "figurative_meaning_bn": "একেবারে ভিতরের খবর, গোপন কথা",
+  "figurative_meaning_en": "Inside information, confidential or secret matters",
+  "similar_in_english": [
+    "inside scoop",
+    "the lowdown"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার হাঁড়ির খবর আমি রাখি।",
+    "এই ব্যাপারের হাঁড়ির খবর কেউ জানে না।"
+  ],
+  "example_sentences_in_english": [
+    "I know your inside story.",
+    "No one knows the confidential details of this matter."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "gossip",
+    "daily life"
+  ],
+  "tags": [
+    "secret",
+    "information",
+    "household",
+    "figurative"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Originates from the imagery of a cooking pot in traditional Bengali households, symbolizing hidden family matters."
+}

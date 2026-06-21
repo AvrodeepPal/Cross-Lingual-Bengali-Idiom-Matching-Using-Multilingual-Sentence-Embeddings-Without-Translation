@@ -1,0 +1,43 @@
+{
+  "id": "8335",
+  "idiom": "মন্দবুদ্ধি",
+  "alternative_idioms": [
+    "কুবুদ্ধি",
+    "দুষ্টবুদ্ধি"
+  ],
+  "literal_meaning": "মন্দ (bad/evil) + বুদ্ধি (intellect/mind)",
+  "figurative_meaning_bn": "কু বা দুষ্ট বুদ্ধি",
+  "figurative_meaning_en": "Evil or malicious intent",
+  "similar_in_english": [
+    "Malicious intent",
+    "Ill will",
+    "Foul mind"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মন্দবুদ্ধি কাজ করছে, তাই সে এমন কাজ করল।",
+    "মন্দবুদ্ধির ফলে সে বন্ধুর সাথে বিশ্বাসঘাতকতা করল।"
+  ],
+  "example_sentences_in_english": [
+    "His evil mind is at work, that's why he did such a thing.",
+    "Due to malicious intent, he betrayed his friend."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Moral discussions",
+    "Literature"
+  ],
+  "tags": [
+    "negative",
+    "intention",
+    "deception",
+    "morality"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects common Bengali moral teachings against harmful intentions."
+}

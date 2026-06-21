@@ -1,0 +1,38 @@
+{
+  "id": "2637",
+  "idiom": "খাসমহল",
+  "alternative_idioms": [],
+  "literal_meaning": "ব্যক্তিগত প্রাসাদ বা আবাস",
+  "figurative_meaning_bn": "নিজ আবাস",
+  "figurative_meaning_en": "one's own residence",
+  "similar_in_english": [
+    "a man's home is his castle"
+  ],
+  "example_sentences_in_bangla": [
+    "তার খাসমহলে সবাইকে আমন্ত্রণ জানানো হয়েছে।",
+    "এটি আমার খাসমহল, এখানে আমি রাজা।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone is invited to his khasmohol.",
+    "This is my khasmohol; here I am the king."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature"
+  ],
+  "tags": [
+    "home",
+    "residence",
+    "personal domain"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "In the historical zamindari system of Bengal, 'khasmahal' referred to the private estate and personal residence of the zamindar or ruler, exempt from certain taxes and under direct control."
+  ],
+  "note": "This term originates from Persian influences in Mughal and colonial-era Bengal administration."
+}

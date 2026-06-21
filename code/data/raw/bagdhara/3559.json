@@ -1,0 +1,38 @@
+{
+  "id": "3559",
+  "idiom": "ঘুণ ধরা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘুণাকীডা দিয়ে আক্রান্ত হওয়া (woodworm infestation)",
+  "figurative_meaning_bn": "অধঃপাতে যাওয়া",
+  "figurative_meaning_en": "to decline or deteriorate, especially in character or quality",
+  "similar_in_english": [
+    "go to the dogs",
+    "rot from the inside"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চরিত্রে ঘুণ ধরেছে, আর কেউ তাকে বিশ্বাস করে না।",
+    "এই সমাজে ধীরে ধীরে ঘুণ ধরা শুরু হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "His character has been infested with worms; no one trusts him anymore.",
+    "This society is slowly starting to decay from within."
+  ],
+  "usage_domain": [
+    "moral",
+    "social",
+    "character"
+  ],
+  "tags": [
+    "decline",
+    "corruption",
+    "deterioration"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the natural phenomenon of woodworms damaging wooden structures, symbolizing internal decay in human or societal contexts."
+}

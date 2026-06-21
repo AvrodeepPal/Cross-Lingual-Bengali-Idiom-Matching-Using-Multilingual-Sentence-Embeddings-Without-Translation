@@ -1,0 +1,37 @@
+{
+  "id": "10181",
+  "idiom": "হাত লাগানো",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত প্রয়োগ করা",
+  "figurative_meaning_bn": "কাজে হাত দেওয়া",
+  "figurative_meaning_en": "To start working on something",
+  "similar_in_english": [
+    "Get one's hands dirty",
+    "Roll up one's sleeves"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি এখনই এই কাজে হাত লাগাব।",
+    "সে বাড়ি সাজানোর কাজে হাত লাগিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "I will start working on this task right now.",
+    "She has put her hand to renovating the house."
+  ],
+  "usage_domain": [
+    "work",
+    "daily activities"
+  ],
+  "tags": [
+    "action",
+    "beginning",
+    "effort"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the practical, hands-on approach common in Bengali daily life."
+}

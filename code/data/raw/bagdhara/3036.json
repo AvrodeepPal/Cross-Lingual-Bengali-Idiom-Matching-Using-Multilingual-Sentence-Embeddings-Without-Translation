@@ -1,0 +1,39 @@
+{
+  "id": "3036",
+  "idiom": "গল্প শেষ",
+  "alternative_idioms": [],
+  "literal_meaning": "গল্পের শেষ (story's end)",
+  "figurative_meaning_bn": "এরপর কথা নেই; কথা সমাপ্ত",
+  "figurative_meaning_en": "No more to say; the conversation is over",
+  "similar_in_english": [
+    "End of story",
+    "That's all",
+    "Case closed"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি যা বলতে চেয়েছ, গল্প শেষ।",
+    "এখন আর বিতর্ক নেই, গল্প শেষ।"
+  ],
+  "example_sentences_in_english": [
+    "You've heard everything, end of story.",
+    "No more arguments; that's the end of the discussion."
+  ],
+  "usage_domain": [
+    "conversation",
+    "storytelling",
+    "debate"
+  ],
+  "tags": [
+    "conclusion",
+    "finality",
+    "closure"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in oral Bengali communication to signify finality."
+}

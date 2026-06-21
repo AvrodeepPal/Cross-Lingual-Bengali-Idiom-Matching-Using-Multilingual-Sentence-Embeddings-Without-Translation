@@ -1,0 +1,41 @@
+{
+  "id": "4934",
+  "idiom": "টালবাহানা",
+  "alternative_idioms": [],
+  "literal_meaning": "এড়ানোর ছুতায় বাহানা করা (slope or evasion + excuse)",
+  "figurative_meaning_bn": "অনিচ্ছাজনিত এড়িয়ে যাওয়ার ভাব; ইতস্ততঃ করা; মিথ্যা ওজর দেখিয়ে ঘুরানো, ছলনা, প্রতারণা, বায়নাক্কা, ভণিতা",
+  "figurative_meaning_en": "The attitude of unwillingly avoiding something; hesitating or waffling; turning away by showing false excuses, deception, pretense, coquetry, or hypocrisy",
+  "similar_in_english": [
+    "Beat around the bush",
+    "Make excuses",
+    "Hem and haw"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কাজ করতে চায় না বলে টালবাহানা করছে।",
+    "বিয়ের প্রস্তাবে টালবাহানা করে সময় নিচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is making excuses because he doesn't want to do the work.",
+    "She is hesitating and giving false pretexts regarding the marriage proposal."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Social interactions",
+    "Negotiation"
+  ],
+  "tags": [
+    "evasion",
+    "deception",
+    "hesitation",
+    "pretext",
+    "hypocrisy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects common Bengali social behaviors around avoidance and indirect communication."
+}

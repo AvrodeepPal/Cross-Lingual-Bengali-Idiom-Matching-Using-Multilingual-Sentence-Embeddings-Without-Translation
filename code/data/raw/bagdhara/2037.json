@@ -1,0 +1,41 @@
+{
+  "id": "2037",
+  "idiom": "কানীন",
+  "alternative_idioms": [],
+  "literal_meaning": "কর্ণ-কুন্তীর কানীন পুত্র (কুমারী মেয়ের সন্তান)",
+  "figurative_meaning_bn": "কুমারী মেয়ের সন্তান",
+  "figurative_meaning_en": "Child born to an unmarried woman",
+  "similar_in_english": [
+    "illegitimate child",
+    "bastard"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এক কানীন সন্তান হিসেবে জন্মেছে।",
+    "মহাভারতে কর্ণকে কানীন বলে উল্লেখ করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He was born as an illegitimate child.",
+    "In the Mahabharata, Karna is referred to as kanin."
+  ],
+  "usage_domain": [
+    "Literature",
+    "Mythology",
+    "Family"
+  ],
+  "tags": [
+    "মহাভারত",
+    "কর্ণ",
+    "কুন্তী",
+    "অবৈধ সন্তান"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to Karna, the son of Kunti from the Mahabharata epic, who was born to her before marriage through divine intervention."
+  ],
+  "note": "The term also has a secondary meaning as a concise expression, but the idiomatic usage primarily draws from mythology."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "8921",
+  "idiom": "যদি বা",
+  "alternative_idioms": [],
+  "literal_meaning": "যদি (if) বা (or)",
+  "figurative_meaning_bn": "যদি একান্তই যদি",
+  "figurative_meaning_en": "If at all or even if",
+  "similar_in_english": [
+    "If at all",
+    "Even if"
+  ],
+  "example_sentences_in_bangla": [
+    "যদি বা তুমি আসতে পারো, তাহলে খুব ভালো হবে।",
+    "যদি বা এমন হয়, তাহলে আমরা অন্য উপায় ভাবব।"
+  ],
+  "example_sentences_in_english": [
+    "If at all you can come, it would be great.",
+    "Even if that happens, we'll think of another way."
+  ],
+  "usage_domain": [
+    "Conversational",
+    "Conditional expressions"
+  ],
+  "tags": [
+    "Emphasis",
+    "Conditional",
+    "Everyday language"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This appears to be a fragmentary or emphatic conditional phrase rather than a full traditional idiom."
+}

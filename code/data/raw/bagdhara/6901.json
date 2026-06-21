@@ -1,0 +1,44 @@
+{
+  "id": "6901",
+  "idiom": "পিতলের কাটারি",
+  "alternative_idioms": [
+    "পলাশফুল",
+    "মাকালফল",
+    "রাঙামূলো",
+    "শিমূলফুল"
+  ],
+  "literal_meaning": "পিতলের তৈরি ছুরি",
+  "figurative_meaning_bn": "সুদর্শন, চাকচিক্য আছে কিন্তু অপদার্থ ব্যক্তি",
+  "figurative_meaning_en": "A person who appears attractive and shiny but is actually worthless or incompetent",
+  "similar_in_english": [
+    "All that glitters is not gold",
+    "Style over substance"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দেখতে তো পিতলের কাটারির মতো চকচকে, কিন্তু কাজের ধার ধারে না।",
+    "এই ছেলেটা পিতলের কাটারি, বাইরে থেকে সুন্দর লাগে কিন্তু ভিতরে খালি।"
+  ],
+  "example_sentences_in_english": [
+    "He looks shiny like a brass knife, but he's completely useless at work.",
+    "That guy is a brass knife—attractive on the outside but worthless inside."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing people",
+    "literature"
+  ],
+  "tags": [
+    "appearance",
+    "deception",
+    "worthlessness",
+    "superficiality"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from everyday rural observations of brass items that shine but lack durability, common in Bengali folk expressions."
+}

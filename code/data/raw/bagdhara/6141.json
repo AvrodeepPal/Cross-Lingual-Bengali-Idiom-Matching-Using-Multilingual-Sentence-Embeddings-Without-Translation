@@ -1,0 +1,43 @@
+{
+  "id": "6141",
+  "idiom": "ধ্বজাধারী",
+  "alternative_idioms": [
+    "ধ্বজাধারা"
+  ],
+  "literal_meaning": "ধ্বজার ধারক বা বাহক (flag-bearer)",
+  "figurative_meaning_bn": "ব্যঙ্গে- কোনো প্রতিষ্ঠান বা সংস্থার উগ্রসমর্থক",
+  "figurative_meaning_en": "Sarcastically, a fervent or extreme supporter of any institution or organization",
+  "similar_in_english": [
+    "flag-waver",
+    "standard-bearer"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পার্টির ধ্বজাধারী হয়ে উঠেছে, কিন্তু তার উগ্রতা সবাইকে অস্বস্তিকর করে তোলে।",
+    "ধর্মীয় অনুষ্ঠানে ধ্বজাধারীদের মতোই তারা সংগঠনের প্রচারে লিপ্ত।"
+  ],
+  "example_sentences_in_english": [
+    "He has become the party's flag-bearer, but his extremism makes everyone uncomfortable.",
+    "Like flag-bearers in religious processions, they are deeply involved in promoting the organization."
+  ],
+  "usage_domain": [
+    "politics",
+    "religion",
+    "social organizations"
+  ],
+  "tags": [
+    "sarcasm",
+    "zealotry",
+    "support",
+    "criticism"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the role of flag-bearers in traditional religious processions in Bengali culture, symbolizing leadership and devotion."
+  ],
+  "note": "The idiom draws from the imagery of religious flag-bearers to mock blind or extreme loyalty."
+}

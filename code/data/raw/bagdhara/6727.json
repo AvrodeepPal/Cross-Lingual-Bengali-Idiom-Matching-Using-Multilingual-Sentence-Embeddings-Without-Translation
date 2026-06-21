@@ -1,0 +1,39 @@
+{
+  "id": "6727",
+  "idiom": "পাকারাস্তা",
+  "alternative_idioms": [],
+  "literal_meaning": "পাকা (দৃঢ় বা স্থায়ী) রাস্তা",
+  "figurative_meaning_bn": "কংক্রিট বা পিচ-পাথরে বাঁধানো রাস্তা",
+  "figurative_meaning_en": "A road paved with concrete or asphalt",
+  "similar_in_english": [
+    "paved road",
+    "blacktop road"
+  ],
+  "example_sentences_in_bangla": [
+    "শহরের প্রধান রাস্তাগুলো পাকা হয়েছে, যাতায়াত সহজ হয়েছে।",
+    "গ্রামে পাকা রাস্তা না থাকায় বর্ষায় সমস্যা হয়।"
+  ],
+  "example_sentences_in_english": [
+    "The main roads in the city are paved, making travel easier.",
+    "The village lacks paved roads, causing problems during the rainy season."
+  ],
+  "usage_domain": [
+    "transportation",
+    "infrastructure",
+    "urban development"
+  ],
+  "tags": [
+    "road",
+    "paved",
+    "urban",
+    "rural contrast"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This term is more descriptive than purely idiomatic, often used to contrast modern urban infrastructure with rural dirt paths in Bengali contexts."
+}

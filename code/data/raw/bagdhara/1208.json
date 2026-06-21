@@ -1,0 +1,37 @@
+{
+  "id": "1208",
+  "idiom": "এপিঠ-ওপিঠ",
+  "alternative_idioms": [],
+  "literal_meaning": "এই পিঠ - ওই পিঠ (this side - that side)",
+  "figurative_meaning_bn": "উপর-নিচ; উভয়দিক; দুদিক",
+  "figurative_meaning_en": "up and down; both sides; two sides",
+  "similar_in_english": [
+    "two sides of the same coin",
+    "both sides of the story"
+  ],
+  "example_sentences_in_bangla": [
+    "গাঁয়ের এপিঠ-ওপিঠ দু'পিঠই সমান।",
+    "জীবনের এপিঠ-ওপিঠ দেখতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "Both sides of the village are equally good.",
+    "One must see both sides of life."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "rural life"
+  ],
+  "tags": [
+    "duality",
+    "balance",
+    "perspectives"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Often used in rural contexts to denote equivalence or duality in simple, everyday matters."
+}

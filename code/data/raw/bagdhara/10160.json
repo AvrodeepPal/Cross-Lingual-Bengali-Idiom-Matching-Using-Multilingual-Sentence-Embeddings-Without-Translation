@@ -1,0 +1,37 @@
+{
+  "id": "10160",
+  "idiom": "হাত পাতা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত বিস্তার করা (to extend or spread the hand)",
+  "figurative_meaning_bn": "ভিক্ষা করা",
+  "figurative_meaning_en": "to beg or ask for alms",
+  "similar_in_english": [
+    "to beg for alms",
+    "to hold out one's hand"
+  ],
+  "example_sentences_in_bangla": [
+    "সে রাস্তায় দাঁড়িয়ে হাত পাতে ভিক্ষা করার জন্য।",
+    "দারিদ্র্যের কারণে অনেকে হাত পাততে বাধ্য হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He stands on the street holding out his hand to beg.",
+    "Many are forced to beg due to poverty."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "social commentary"
+  ],
+  "tags": [
+    "begging",
+    "poverty",
+    "desperation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday socio-economic realities in Bengali-speaking regions."
+}

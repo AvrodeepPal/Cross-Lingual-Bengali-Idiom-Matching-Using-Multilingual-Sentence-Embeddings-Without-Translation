@@ -1,0 +1,40 @@
+{
+  "id": "1628",
+  "idiom": "কর্মফের",
+  "alternative_idioms": [],
+  "literal_meaning": "কর্মের ফেরত (return of actions/karma)",
+  "figurative_meaning_bn": "দুরদৃষ্ট",
+  "figurative_meaning_en": "bad luck or ill fortune due to past actions",
+  "similar_in_english": [
+    "what goes around comes around",
+    "chickens come home to roost"
+  ],
+  "example_sentences_in_bangla": [
+    "তার খারাপ কর্মফের হয়েছে, এখন সে দুঃখ পাচ্ছে।",
+    "জীবনে কর্মফের এড়ানো যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "His bad karma has come back to haunt him, and now he's suffering.",
+    "In life, the return of karma cannot be avoided."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "moral advice"
+  ],
+  "tags": [
+    "karma",
+    "fate",
+    "misfortune",
+    "retribution"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the philosophical concept of karma in Hindu and Buddhist traditions, emphasizing the cycle of actions and consequences."
+  ],
+  "note": "This idiom reflects the Bengali cultural belief in moral causality."
+}

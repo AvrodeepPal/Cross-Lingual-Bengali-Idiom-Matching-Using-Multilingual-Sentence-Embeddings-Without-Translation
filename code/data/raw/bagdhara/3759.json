@@ -1,0 +1,38 @@
+{
+  "id": "3759",
+  "idiom": "চলাচল",
+  "alternative_idioms": [],
+  "literal_meaning": "চলা এবং চলা (movement and motion)",
+  "figurative_meaning_bn": "চলিত ও স্থিত; যা চলে এবং যা চলে না সবকিছু; জঙ্গম ও স্থাবর",
+  "figurative_meaning_en": "Movable and immovable; everything that moves and does not move; chattel and real property",
+  "similar_in_english": [
+    "lock, stock, and barrel (for everything)"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সম্পত্তির চলাচল সবই বিক্রি হয়ে গেছে।",
+    "চলাচল জিনিসপত্র নিয়ে উত্তরাধিকারের ঝগড়া হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "All his movable and immovable property has been sold.",
+    "There's a dispute over the inheritance of movable and immovable assets."
+  ],
+  "usage_domain": [
+    "legal",
+    "property",
+    "everyday"
+  ],
+  "tags": [
+    "property",
+    "movable",
+    "immovable",
+    "everything"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to legal classification of assets in Bengali culture"
+}

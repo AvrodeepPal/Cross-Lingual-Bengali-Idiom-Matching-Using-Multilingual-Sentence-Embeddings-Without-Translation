@@ -1,0 +1,39 @@
+{
+  "id": "6185",
+  "idiom": "নতুন কুটুম্ব",
+  "alternative_idioms": [],
+  "literal_meaning": "নতুন আত্মীয়স্বজন",
+  "figurative_meaning_bn": "সম্প্রতি যার সঙ্গে বৈবাহিক সম্বন্ধ স্থাপিত হয়েছে",
+  "figurative_meaning_en": "Relatives recently connected through marriage",
+  "similar_in_english": [
+    "in-laws",
+    "new family by marriage"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের পর নতুন কুটুম্বের সাথে সম্পর্ক গড়ে তোলা কঠিন হয়ে পড়ে।",
+    "আমাদের নতুন কুটুম্বের সাথে উৎসবের আমন্ত্রণ পাঠিয়েছি।"
+  ],
+  "example_sentences_in_english": [
+    "After marriage, building relations with the new relatives can be challenging.",
+    "We have sent invitations for the festival to our new in-laws."
+  ],
+  "usage_domain": [
+    "family",
+    "marriage",
+    "social relations"
+  ],
+  "tags": [
+    "idiom",
+    "family",
+    "marriage",
+    "relatives"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to extended family acquired through recent marriage, common in Bengali social contexts."
+}

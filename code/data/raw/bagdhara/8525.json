@@ -1,0 +1,44 @@
+{
+  "id": "8525",
+  "idiom": "মাথায় খুন চড়া",
+  "alternative_idioms": [
+    "মাথায় রক্ত চড়া",
+    "মাথায় খুন চাপা",
+    "মাথায় রক্ত চাপা"
+  ],
+  "literal_meaning": "মাথায় খুন বা রক্ত চড়ে ওঠা বা চাপা পড়া",
+  "figurative_meaning_bn": "ভীষণভাবে রেগে যাওয়া",
+  "figurative_meaning_en": "To become extremely angry",
+  "similar_in_english": [
+    "See red",
+    "Blood boiling",
+    "Hot under the collar"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মাথায় খুন চেড়ে গেল যখন বন্ধু তার কথা অস্বীকার করল।",
+    "অন্যায়ের মুখোমুখি হয়ে তার মাথায় রক্ত চাপল।"
+  ],
+  "example_sentences_in_english": [
+    "Blood rushed to his head when his friend denied his words.",
+    "Her blood boiled upon facing the injustice."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Daily conversation",
+    "Conflict situations"
+  ],
+  "tags": [
+    "anger",
+    "rage",
+    "emotion",
+    "figurative language"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects physiological reactions to anger, common in South Asian linguistic traditions."
+}

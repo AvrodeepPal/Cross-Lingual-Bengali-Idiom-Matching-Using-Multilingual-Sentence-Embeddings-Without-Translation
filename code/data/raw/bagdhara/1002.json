@@ -1,0 +1,47 @@
+{
+  "id": "1002",
+  "idiom": "এক জলাশয়ের মাছ",
+  "alternative_idioms": [
+    "এককলসির জল",
+    "এককুঁয়োর ব্যাঙ",
+    "একগাঙের চিল",
+    "একগাছের ছাল",
+    "একপালকের পাখি",
+    "একবাগানের ফুল"
+  ],
+  "literal_meaning": "একটি জলাশয়ের মাছ",
+  "figurative_meaning_bn": "একগোষ্ঠীভুক্ত; একসম্পন্ন; একদলের লোক",
+  "figurative_meaning_en": "Belonging to the same group; from the same community; people from the same clique",
+  "similar_in_english": [
+    "Birds of a feather",
+    "Two peas in a pod",
+    "From the same mold"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা সবাই এক জলাশয়ের মাছ, একই ধরনের চিন্তা করে।",
+    "এই দলের সবাই এক জলাশয়ের মাছ, কখনো বিচ্ছিন্ন হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "They are all fish from the same pond, thinking alike.",
+    "Everyone in this group is fish from the same pond, never separating."
+  ],
+  "usage_domain": [
+    "social",
+    "colloquial",
+    "group dynamics"
+  ],
+  "tags": [
+    "group",
+    "unity",
+    "clique",
+    "community"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from rural Bengali life where ponds are central to community and ecology."
+}

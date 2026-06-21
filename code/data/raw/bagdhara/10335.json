@@ -1,0 +1,44 @@
+{
+  "id": "10335",
+  "idiom": "হুটোপাটি করা",
+  "alternative_idioms": [
+    "পুটি করা",
+    "লাফঝাঁপ",
+    "লাফালাফি"
+  ],
+  "literal_meaning": "উত্তেজিতভাবে লাফানোর শব্দানুকরণ (onomatopoeic for noisy jumping)",
+  "figurative_meaning_bn": "লাফালাফি/গোলমাল করা; শিশুদের দুরন্তপনা",
+  "figurative_meaning_en": "To jump around or create commotion; children's boisterous or naughty behavior",
+  "similar_in_english": [
+    "monkey around",
+    "raise a ruckus",
+    "make a racket"
+  ],
+  "example_sentences_in_bangla": [
+    "বাচ্চারা ঘরে হুটোপাটি করছে।",
+    "স্কুলে ছেলেরা হুটোপাটি করে শিক্ষককে বিরক্ত করে।"
+  ],
+  "example_sentences_in_english": [
+    "The children are making a commotion in the room.",
+    "The boys are monkeying around in school, annoying the teacher."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "family",
+    "children's behavior"
+  ],
+  "tags": [
+    "mischief",
+    "noise",
+    "playfulness",
+    "disorder"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic idiom commonly used in everyday Bengali speech to describe lively, chaotic play."
+}

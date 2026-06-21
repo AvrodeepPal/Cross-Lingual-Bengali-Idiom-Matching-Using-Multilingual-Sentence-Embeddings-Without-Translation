@@ -1,0 +1,41 @@
+{
+  "id": "5565",
+  "idiom": "থপথপ",
+  "alternative_idioms": [],
+  "literal_meaning": "ভারী পদক্ষেপের অনুকরণমূলক দ্বিত্বশব্দ (যেমন হাতির চলার শব্দ)",
+  "figurative_meaning_bn": "ভারী চেহারার ধীর পদক্ষেপের ভাবার্থে দ্বিত্বশব্দ",
+  "figurative_meaning_en": "An onomatopoeic reduplicated word denoting the slow, heavy footsteps of a large-bodied creature",
+  "similar_in_english": [
+    "thud thud",
+    "tramp tramp"
+  ],
+  "example_sentences_in_bangla": [
+    "হাতি থপথপ করে জঙ্গলে চলছে।",
+    "ভারী লোকটি থপথপ করে রাস্তা দিয়ে হাঁটছে।"
+  ],
+  "example_sentences_in_english": [
+    "The elephant is walking thud thud through the forest.",
+    "The heavy man is plodding along the road with heavy steps."
+  ],
+  "usage_domain": [
+    "descriptive language",
+    "narrative writing",
+    "spoken description"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "reduplication",
+    "animal imagery",
+    "sound imitation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Commonly associated with the imagery of elephants in Bengali folklore and wildlife descriptions from the Indian subcontinent."
+  ],
+  "note": "This is primarily an onomatopoeic expression used to vividly describe heavy, deliberate movements."
+}

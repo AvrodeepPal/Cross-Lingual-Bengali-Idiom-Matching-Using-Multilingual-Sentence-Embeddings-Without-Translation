@@ -1,0 +1,38 @@
+{
+  "id": "10128",
+  "idiom": "হাত তোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত উঁচু করা",
+  "figurative_meaning_bn": "সমর্থনের জন্য হাত উঁচু করা",
+  "figurative_meaning_en": "to raise one's hand in support",
+  "similar_in_english": [
+    "raise one's hand",
+    "show of hands"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় প্রস্তাবের সমর্থনে সবাই হাত তুলল।",
+    "তুমি কি এই সিদ্ধান্তের পক্ষে হাত তুলবে?"
+  ],
+  "example_sentences_in_english": [
+    "Everyone raised their hands in support of the proposal in the meeting.",
+    "Will you raise your hand in favor of this decision?"
+  ],
+  "usage_domain": [
+    "politics",
+    "meetings",
+    "daily conversation"
+  ],
+  "tags": [
+    "support",
+    "agreement",
+    "voting"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in formal and informal settings to indicate agreement or endorsement."
+}

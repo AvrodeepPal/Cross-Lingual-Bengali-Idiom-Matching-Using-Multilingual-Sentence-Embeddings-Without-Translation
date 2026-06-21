@@ -1,0 +1,39 @@
+{
+  "id": "6795",
+  "idiom": "পাততাড়ি গুটানো",
+  "alternative_idioms": [],
+  "literal_meaning": "তালপাতার তাড়ি গুটিয়ে বাঁধা",
+  "figurative_meaning_bn": "পাঠাশালায় পাঠশেষে লিখিত তালপাতাগুলো গুছিয়ে তাড়া বাঁধা",
+  "figurative_meaning_en": "To pack up the written palm leaf bundles after completing studies in a traditional school",
+  "similar_in_english": [
+    "To close the books",
+    "To graduate"
+  ],
+  "example_sentences_in_bangla": [
+    "সে স্কুল শেষ করে পাততাড়ি গুটিয়েছে।",
+    "পাঠশেষে ছেলেরা পাততাড়ি গুটানো শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "He finished school and packed up his palm leaves.",
+    "After classes ended, the boys started rolling up their leaf bundles."
+  ],
+  "usage_domain": [
+    "Education",
+    "Daily life"
+  ],
+  "tags": [
+    "পাঠশালা",
+    "শিক্ষা সমাপ্তি",
+    "প্রথাগত"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the traditional Bengali pathshala system where students wrote on palm leaves (tala patra) and bundled them at the end of the day or studies."
+  ],
+  "note": "Refers to the pre-modern education system using natural writing materials."
+}

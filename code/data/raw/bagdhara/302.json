@@ -1,0 +1,40 @@
+{
+  "id": "302",
+  "idiom": "আওয়াজ তোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "আওয়াজ (voice/sound) তোলা (to raise)",
+  "figurative_meaning_bn": "উচ্চস্বরে দাবী তোলা; তীব্র প্রতিবাদ করা",
+  "figurative_meaning_en": "To raise a claim loudly; to protest vehemently",
+  "similar_in_english": [
+    "Raise one's voice",
+    "Make a stink",
+    "Kick up a fuss"
+  ],
+  "example_sentences_in_bangla": [
+    "অন্যায়ের বিরুদ্ধে সকলে আওয়াজ তুলেছে।",
+    "সমাজের অসমতার জন্য তিনি আওয়াজ তোলেন।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone raised their voices against the injustice.",
+    "She raises her voice for social equality."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Social activism",
+    "Justice"
+  ],
+  "tags": [
+    "Protest",
+    "Demand",
+    "Advocacy",
+    "Rebellion"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the Bengali cultural emphasis on vocal expression for rights and justice."
+}

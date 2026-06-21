@@ -1,0 +1,38 @@
+{
+  "id": "1057",
+  "idiom": "একপেট",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি পেট (one stomach)",
+  "figurative_meaning_bn": "ভরাপেট",
+  "figurative_meaning_en": "full stomach or satiated",
+  "similar_in_english": [
+    "ate my fill",
+    "stuffed to the gills"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকের খাবারে আমি একপেট খেয়েছি।",
+    "দাওয়াতে গিয়ে সে একপেট করে খেয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "I ate to my full stomach at today's meal.",
+    "He stuffed himself at the feast."
+  ],
+  "usage_domain": [
+    "food",
+    "daily life",
+    "satisfaction"
+  ],
+  "tags": [
+    "eating",
+    "fullness",
+    "contentment"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the satisfaction from eating heartily, common in Bengali expressions of hospitality and simple joys."
+}

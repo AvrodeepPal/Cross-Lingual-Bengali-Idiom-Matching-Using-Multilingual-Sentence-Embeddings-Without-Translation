@@ -1,0 +1,42 @@
+{
+  "id": "8179",
+  "idiom": "ভ্যানতারা",
+  "alternative_idioms": [
+    "ভ্যাজর-ভ্যাজর"
+  ],
+  "literal_meaning": "অর্থহীন বা বাজে শব্দের ধ্বনি (যেমন বকবকানি বা অর্থবহিহীন কথার অনুকরণ)",
+  "figurative_meaning_bn": "বাজে কথা বলে বিরক্তি উৎপাদন",
+  "figurative_meaning_en": "To annoy someone by talking nonsense or idle chatter",
+  "similar_in_english": [
+    "Blah blah blah",
+    "Yakety-yak",
+    "Prattle on"
+  ],
+  "example_sentences_in_bangla": [
+    "তুই মেলা ভ্যানতারা করিস না, সোজা কথা বল।",
+    "সভায় সবাই শুধু ভ্যানতারা করছে, কোনো কাজ হচ্ছে না।"
+  ],
+  "example_sentences_in_english": [
+    "Stop your blah blah and get to the point.",
+    "Everyone in the meeting is just yakety-yakking; nothing productive is happening."
+  ],
+  "usage_domain": [
+    "Informal conversation",
+    "Everyday speech",
+    "Colloquial expression"
+  ],
+  "tags": [
+    "annoyance",
+    "nonsense talk",
+    "spoken Bengali",
+    "onomatopoeic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is onomatopoeic, mimicking the sound of meaningless babbling in Bengali vernacular."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "5651",
+  "idiom": "দবদব",
+  "alternative_idioms": [],
+  "literal_meaning": "দব-দব শব্দের অনুকরণ (আলোর দপদপানোর মতো শব্দ)",
+  "figurative_meaning_bn": "দপদপের অনুরূপ",
+  "figurative_meaning_en": "Similar to flickering or burning brightly",
+  "similar_in_english": [
+    "flickering like a flame",
+    "blazing intermittently"
+  ],
+  "example_sentences_in_bangla": [
+    "আগুন দবদব করে জ্বলছিল।",
+    "মোমবাতির শিখা দবদব করছে।"
+  ],
+  "example_sentences_in_english": [
+    "The fire was flickering brightly.",
+    "The candle flame was burning with a flickering glow."
+  ],
+  "usage_domain": [
+    "descriptive language",
+    "sound imitation"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "fire/light description"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression mimicking the sound or visual of flickering light, akin to 'dapdap' but less commonly used."
+}

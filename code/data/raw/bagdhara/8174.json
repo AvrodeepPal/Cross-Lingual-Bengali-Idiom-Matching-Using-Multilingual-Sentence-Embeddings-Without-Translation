@@ -1,0 +1,40 @@
+{
+  "id": "8174",
+  "idiom": "ভোল পালটানো",
+  "alternative_idioms": [
+    "বদলানো"
+  ],
+  "literal_meaning": "ভোল (দল বা পক্ষ) পালটানো (বদলে ফেলা)",
+  "figurative_meaning_bn": "স্বরূপবদল",
+  "figurative_meaning_en": "Sudden change in form or allegiance",
+  "similar_in_english": [
+    "turncoat",
+    "switch sides",
+    "flip-flop"
+  ],
+  "example_sentences_in_bangla": [
+    "রাজনীতিবিদরা প্রায়ই ভোল পালটানোর জন্য পরিচিত।",
+    "যুদ্ধের সময় অনেক সৈনিক ভোল পালটিয়ে শত্রু পক্ষে যোগ দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "Politicians are often known for changing sides.",
+    "During the war, many soldiers switched allegiance to the enemy side."
+  ],
+  "usage_domain": [
+    "politics",
+    "social relations"
+  ],
+  "tags": [
+    "betrayal",
+    "change",
+    "loyalty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects frequent political shifts in Bengali society."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "10103",
+  "idiom": "হাত কোমরে রাখা",
+  "alternative_idioms": [
+    "হাত কোমরে পড়া"
+  ],
+  "literal_meaning": "হাত কোমরে রাখা (hands placed on the waist)",
+  "figurative_meaning_bn": "দুর্বল হয়ে পড়া",
+  "figurative_meaning_en": "To become weak or defeated",
+  "similar_in_english": [
+    "To throw in the towel",
+    "To give up the ghost"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় ফেল করার পর সে হাত কোমরে রেখে দাঁড়িয়ে রইল।",
+    "বিজনেসে লোকসান হলে তারা হাত কোমরে পড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "After failing the exam, he stood with hands on his waist, feeling defeated.",
+    "When the business incurred losses, they became weak and gave up."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Emotions and defeat"
+  ],
+  "tags": [
+    "defeat",
+    "weakness",
+    "body language",
+    "helplessness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects a common body posture indicating surrender or exhaustion in Bengali culture."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3432",
+  "idiom": "ঘর বাঁধা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘর তৈরি করা বা বাঁধা",
+  "figurative_meaning_bn": "বিয়ে করে সংসার পাতা",
+  "figurative_meaning_en": "To get married and establish a family",
+  "similar_in_english": [
+    "Tie the knot",
+    "Set up house",
+    "Build a nest"
+  ],
+  "example_sentences_in_bangla": [
+    "সে শীঘ্রই ঘর বাঁধার চিন্তা করছে।",
+    "তাদের ঘর বাঁধা হয়েছে গত বছর।"
+  ],
+  "example_sentences_in_english": [
+    "He is thinking of tying the knot soon.",
+    "They set up house last year."
+  ],
+  "usage_domain": [
+    "family",
+    "marriage",
+    "relationships"
+  ],
+  "tags": [
+    "idiom",
+    "marriage",
+    "family life",
+    "domestic"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali views on marriage as the foundation of family life."
+}

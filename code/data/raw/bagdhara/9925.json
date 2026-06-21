@@ -1,0 +1,39 @@
+{
+  "id": "9925",
+  "idiom": "হয়-হয়",
+  "alternative_idioms": [],
+  "literal_meaning": "হওয়া-হওয়া (ঘটনার ঘনীভূত অবস্থা)",
+  "figurative_meaning_bn": "একান্ত আসন্ন",
+  "figurative_meaning_en": "extremely imminent or about to happen",
+  "similar_in_english": [
+    "on the verge",
+    "about to happen",
+    "in the offing"
+  ],
+  "example_sentences_in_bangla": [
+    "বৃষ্টি হয়-হয় করছে, ছাতা নিয়ে বের হও।",
+    "পরীক্ষার ফলাফল হয়-হয়, এখনই ঘোষণা হবে।"
+  ],
+  "example_sentences_in_english": [
+    "The rain is about to pour, take an umbrella.",
+    "The exam results are imminent, they will be announced any moment."
+  ],
+  "usage_domain": [
+    "weather",
+    "anticipation",
+    "events"
+  ],
+  "tags": [
+    "imminence",
+    "urgency",
+    "natural phenomena"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in contexts describing impending weather or events in everyday Bengali speech."
+}

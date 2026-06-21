@@ -1,0 +1,42 @@
+{
+  "id": "8792",
+  "idiom": "মুখে মুখে কথা বলা",
+  "alternative_idioms": [
+    "চোপা করা"
+  ],
+  "literal_meaning": "মুখের মুখোমুখি কথা বলা (face to face talking)",
+  "figurative_meaning_bn": "মুখের উপর জবাব দেয়; তর্ক-বিতর্ক করা",
+  "figurative_meaning_en": "To reply directly to one's face; to argue or debate",
+  "similar_in_english": [
+    "Talk back",
+    "Answer back",
+    "Give lip"
+  ],
+  "example_sentences_in_bangla": [
+    "বড়দের সাথে মুখে মুখে কথা বলা উচিত নয়।",
+    "সভায় সবাই মুখে মুখে কথা বলে তর্ক করছিল।"
+  ],
+  "example_sentences_in_english": [
+    "One should not talk back to elders.",
+    "Everyone was arguing face to face in the meeting."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Family interactions",
+    "Education and discipline"
+  ],
+  "tags": [
+    "Argument",
+    "Respect",
+    "Communication",
+    "Disrespect"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Emphasizes cultural norm of respecting elders in Bengali society"
+}

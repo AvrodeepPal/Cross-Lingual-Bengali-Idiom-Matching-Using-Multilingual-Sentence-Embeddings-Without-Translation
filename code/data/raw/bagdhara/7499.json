@@ -1,0 +1,37 @@
+{
+  "id": "7499",
+  "idiom": "বাজার",
+  "alternative_idioms": [],
+  "literal_meaning": "বাজার (market)",
+  "figurative_meaning_bn": "বাজারে কেনা তরিতরকারি, মাছ ইত্যাদি",
+  "figurative_meaning_en": "Vegetables, fish, and other items bought from the market",
+  "similar_in_english": [
+    "groceries",
+    "provisions"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ বাজার এসেছে, রান্নার জন্য সবকিছু কিনে নিয়েছি।",
+    "বাজার না এলে বাড়িতে খাবার জোগাড় হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "The market has come today; I've bought everything for cooking.",
+    "Without the market arriving, we can't arrange food at home."
+  ],
+  "usage_domain": [
+    "household",
+    "daily life"
+  ],
+  "tags": [
+    "food",
+    "provisions",
+    "market"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is commonly used in Bengali households to refer to daily market purchases, reflecting everyday cultural practices."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1266",
+  "idiom": "ওয়াস্তা",
+  "alternative_idioms": [],
+  "literal_meaning": "আল্লাহর স্বার্থে বা কারণে (for the sake of Allah)",
+  "figurative_meaning_bn": "অপেক্ষায়",
+  "figurative_meaning_en": "in waiting (patiently, for the sake of Allah)",
+  "similar_in_english": [
+    "for God's sake",
+    "bide one's time"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ওয়াস্তায় বসে আছে, কোনো তাড়াহুড়ো করছে না।",
+    "এখন ওয়াস্তা করো, সব ঠিক হয়ে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "He is sitting in wasta, not rushing anything.",
+    "Wait in wasta now; everything will be fine."
+  ],
+  "usage_domain": [
+    "religion",
+    "daily conversation"
+  ],
+  "tags": [
+    "patience",
+    "Islamic",
+    "faith"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Arabic 'wāsta' meaning 'intermediary' or 'for the sake of', commonly used in Bengali Muslim contexts to imply patient waiting trusting in divine will."
+  ],
+  "note": "Primarily used among Bengali Muslims to express patient waiting with faith."
+}

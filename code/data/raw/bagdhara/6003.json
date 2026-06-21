@@ -1,0 +1,41 @@
+{
+  "id": "6003",
+  "idiom": "ধনেশ্বর",
+  "alternative_idioms": [],
+  "literal_meaning": "ধনের ঈশ্বর (সম্পদের দেবতা)",
+  "figurative_meaning_bn": "ব্যঙ্গে কুবেরের মতো বিত্তশালী",
+  "figurative_meaning_en": "Sarcastically, wealthy like Kubera (the god of wealth)",
+  "similar_in_english": [
+    "Rich as Croesus",
+    "Rolling in dough"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কাছে একটা টাকাও নেই, তবু বন্ধুরা তাকে ধনেশ্বর বলে ডাকে।",
+    "এই ধনেশ্বরের মতো খরচ করলে তো দেউলিয়া হয়ে যাবি।"
+  ],
+  "example_sentences_in_english": [
+    "He doesn't have a single penny, yet his friends sarcastically call him Dhaneeshwar.",
+    "Spending like this Dhaneeshwar will make you bankrupt."
+  ],
+  "usage_domain": [
+    "Conversational",
+    "Sarcasm",
+    "Wealth-related"
+  ],
+  "tags": [
+    "ব্যঙ্গ",
+    "সম্পদ",
+    "পুরাণ",
+    "হাস্যরস"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References Kubera, the Hindu god of wealth from ancient mythology, often used in Bengali folklore to denote ironic richness."
+  ],
+  "note": "This idiom draws from Hindu mythology where Kubera is the treasurer of gods, implying mock opulence."
+}

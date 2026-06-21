@@ -1,0 +1,38 @@
+{
+  "id": "3210",
+  "idiom": "গিরগিটি",
+  "alternative_idioms": [],
+  "literal_meaning": "গিরগিটি (chameleon)",
+  "figurative_meaning_bn": "বর্ণচোরা ব্যক্তি; বহুরূপী",
+  "figurative_meaning_en": "A person who changes colors or adapts deceptively; a shape-shifter",
+  "similar_in_english": [
+    "Chameleon (figurative)",
+    "Turncoat"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা গিরগিটি, পরিস্থিতি দেখে রং বদলে নেয়।",
+    "রাজনীতিতে অনেক গিরগিটি দেখা যায় যারা দল বদলায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a chameleon, changing his stance based on the situation.",
+    "In politics, you often see chameleons who switch sides for gain."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "politics",
+    "character description"
+  ],
+  "tags": [
+    "animal-based",
+    "deception",
+    "adaptability"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the natural behavior of chameleons observed in Bengali rural environments."
+}

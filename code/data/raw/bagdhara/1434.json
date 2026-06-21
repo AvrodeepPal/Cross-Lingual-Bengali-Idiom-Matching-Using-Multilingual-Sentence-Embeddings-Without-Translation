@@ -1,0 +1,39 @@
+{
+  "id": "1434",
+  "idiom": "কথা নেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা (word/promise) নেওয়া (to take)",
+  "figurative_meaning_bn": "প্রতিশ্রুতি আদায় করা",
+  "figurative_meaning_en": "To hold someone accountable to their promise or to demand fulfillment of a commitment",
+  "similar_in_english": [
+    "Hold someone to their word",
+    "Call in a promise"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি যে কথা দিয়েছিলে, সেটা এখন কথা নাও।",
+    "বন্ধু তার প্রতিশ্রুতি ভুলে গেছে, তাই আমি কথা নিলাম।"
+  ],
+  "example_sentences_in_english": [
+    "You gave your word, so now hold him to it.",
+    "My friend forgot his promise, so I held him accountable."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Personal relationships",
+    "Informal agreements"
+  ],
+  "tags": [
+    "promise",
+    "accountability",
+    "demand",
+    "commitment"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural emphasis on verbal promises in Bengali society, where spoken words carry significant weight."
+}

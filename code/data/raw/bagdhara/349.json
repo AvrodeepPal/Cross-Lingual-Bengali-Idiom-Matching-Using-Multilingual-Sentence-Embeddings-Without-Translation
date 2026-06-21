@@ -1,0 +1,42 @@
+{
+  "id": "349",
+  "idiom": "আকাল",
+  "alternative_idioms": [],
+  "literal_meaning": "দুর্ভিক্ষ বা খরার সময়",
+  "figurative_meaning_bn": "দুঃসময়; দুর্ভিক্ষ",
+  "figurative_meaning_en": "hard times; famine",
+  "similar_in_english": [
+    "hard times",
+    "lean times",
+    "times of scarcity"
+  ],
+  "example_sentences_in_bangla": [
+    "আকালের সময় মানুষের জীবন অত্যন্ত কঠিন হয়ে ওঠে।",
+    "গ্রামে আকাল পড়ায় সবাই ক্ষুধার্ত হয়ে পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "During hard times, people's lives become extremely difficult.",
+    "The village is suffering from famine, leaving everyone hungry."
+  ],
+  "usage_domain": [
+    "everyday language",
+    "literature",
+    "agriculture"
+  ],
+  "tags": [
+    "famine",
+    "hardship",
+    "crisis",
+    "poverty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom draws from Bengal's historical famines, such as the Great Bengal Famine of 1770 and 1943, which caused widespread suffering and shaped cultural expressions of hardship."
+  ],
+  "note": "The provided example proverb 'আকালে কিনা খায় পাগলে কি না কয়' illustrates desperate behavior during famine but is not part of the core idiom."
+}

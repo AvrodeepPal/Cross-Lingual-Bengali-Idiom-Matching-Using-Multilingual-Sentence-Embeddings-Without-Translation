@@ -1,0 +1,41 @@
+{
+  "id": "5347",
+  "idiom": "তলশূন্য",
+  "alternative_idioms": [
+    "তলাহীন"
+  ],
+  "literal_meaning": "তলবিহীন বা অসীম গভীর",
+  "figurative_meaning_bn": "প্রচুর অর্থ দান করেও যে দুর্গতকে উদ্ধার করা অসম্ভব",
+  "figurative_meaning_en": "A situation where even giving a large amount of money cannot rescue someone from misfortune",
+  "similar_in_english": [
+    "Bottomless pit",
+    "Throwing good money after bad"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার বন্ধুর ব্যবসার ক্ষতি তলশূন্য, কত টাকা দিলেও উদ্ধার হবে না।",
+    "গ্রামের সেই দরিদ্র পরিবারের অবস্থা তলশূন্য হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "My friend's business loss is a bottomless pit; no amount of money will save it.",
+    "The poor family's situation has become a bottomless pit of misfortune."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Poverty",
+    "Assistance"
+  ],
+  "tags": [
+    "futility",
+    "misfortune",
+    "money",
+    "helplessness"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom metaphorically describes endless financial drains, common in Bengali folklore about unresolvable debts."
+}

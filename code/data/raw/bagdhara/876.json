@@ -1,0 +1,41 @@
+{
+  "id": "876",
+  "idiom": "ঊর্মিমালী",
+  "alternative_idioms": [],
+  "literal_meaning": "ঊর্মি (তরঙ্গ) + মালী (মালা বা আবরণকারী)",
+  "figurative_meaning_bn": "সমুদ্র",
+  "figurative_meaning_en": "sea",
+  "similar_in_english": [
+    "the briny deep",
+    "the bounding main"
+  ],
+  "example_sentences_in_bangla": [
+    "নীল ঊর্মিমালী তীরে দাঁড়িয়ে সে সমুদ্রের গভীরতা অনুভব করল।",
+    "ঊর্মিমালী অসীম বিস্তারে ছড়িয়ে আছে।"
+  ],
+  "example_sentences_in_english": [
+    "He stood on the shore of the blue wavy sea, feeling its depth.",
+    "The sea spreads out in endless waves."
+  ],
+  "usage_domain": [
+    "poetry",
+    "literature",
+    "nature description"
+  ],
+  "tags": [
+    "sea",
+    "waves",
+    "poetic",
+    "nature"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Sanskrit compound 'urmi-mali', used in classical Bengali poetry to evoke the sea's majestic, wave-embraced form."
+  ],
+  "note": "This is a poetic or literary expression rather than a common idiom, often found in descriptive prose or verse."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9448",
+  "idiom": "শিকেয় তুলে রাখা",
+  "alternative_idioms": [
+    "শিকেয় তোলা"
+  ],
+  "literal_meaning": "শিকে (বাঁশের ঝুড়ি) তুলে রাখা",
+  "figurative_meaning_bn": "ধামাচাপা দেওয়া",
+  "figurative_meaning_en": "To suppress or keep under wraps",
+  "similar_in_english": [
+    "Sweep under the rug",
+    "Put on the back burner"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকারের সেই প্রতিশ্রুতি শিকেয় তুলে রাখা হয়েছে।",
+    "সে তার ভুল শিকেয় তুলে রেখেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The government has shelved that promise.",
+    "He has suppressed his mistake."
+  ],
+  "usage_domain": [
+    "politics",
+    "daily life"
+  ],
+  "tags": [
+    "suppression",
+    "forgetting",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Refers to rural Bengali practice of storing items in a 'শিকে' basket, implying setting aside or hiding."
+}

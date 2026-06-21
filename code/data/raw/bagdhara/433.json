@@ -1,0 +1,38 @@
+{
+  "id": "433",
+  "idiom": "আজ খেতে কাল নেই",
+  "alternative_idioms": [],
+  "literal_meaning": "আজ খাওয়ার জন্য কাল নেই",
+  "figurative_meaning_bn": "কোনরকমে দিন গুজরান করা",
+  "figurative_meaning_en": "Living hand to mouth or barely scraping by day to day",
+  "similar_in_english": [
+    "Living from hand to mouth",
+    "Day-to-day survival"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের অনেক কৃষক আজ খেতে কাল নেই অবস্থায় বাস করেন।",
+    "আরও অর্থনৈতিক সংকটের কারণে তারা আজ খেতে কাল নেই জীবন যাপন করছেন।"
+  ],
+  "example_sentences_in_english": [
+    "Many farmers in the village are living hand to mouth.",
+    "Due to further economic crisis, they are barely scraping by day to day."
+  ],
+  "usage_domain": [
+    "daily life",
+    "poverty",
+    "economy"
+  ],
+  "tags": [
+    "struggle",
+    "survival",
+    "hardship"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the precarious economic conditions common in Bengali rural and semi-urban life."
+}

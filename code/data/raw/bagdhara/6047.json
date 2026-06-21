@@ -1,0 +1,44 @@
+{
+  "id": "6047",
+  "idiom": "ধাড়ি",
+  "alternative_idioms": [
+    "চোরের ধাড়ি",
+    "নষ্টের ধাড়ি",
+    "বজ্জাতের ধাড়ি",
+    "বদের ধাড়ি"
+  ],
+  "literal_meaning": "দাড়ির একটি টুকরো বা লোমের জট",
+  "figurative_meaning_bn": "সচরাচর নিন্দায়- অগ্রণী, ঘাগি, নেতা, পাকা; সর্দার",
+  "figurative_meaning_en": "Usually in a derogatory sense: leader, experienced, chief, expert",
+  "similar_in_english": [
+    "ringleader",
+    "kingpin (in crime)",
+    "head of the pack (negative)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চোরের ধাড়ি হয়ে গেছে।",
+    "এই নষ্টের ধাড়ি সবাইকে ভুল পথে নিয়ে যাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has become the ringleader of thieves.",
+    "This chief of the wicked is leading everyone astray."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "derogatory language",
+    "social commentary"
+  ],
+  "tags": [
+    "negative leadership",
+    "experienced rogue",
+    "chief of miscreants"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Primarily used in informal, spoken Bengali to denote negative leadership roles"
+}

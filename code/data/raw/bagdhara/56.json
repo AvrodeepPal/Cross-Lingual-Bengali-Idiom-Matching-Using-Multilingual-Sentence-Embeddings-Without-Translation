@@ -1,0 +1,39 @@
+{
+  "id": "56",
+  "idiom": "অগ্নিবর্ধক",
+  "alternative_idioms": [],
+  "literal_meaning": "অগ্নি (fire) + বর্ধক (increaser); fire enhancer",
+  "figurative_meaning_bn": "ক্ষুধাবর্ধক; পরিপাকশক্তিবর্শক",
+  "figurative_meaning_en": "Appetite stimulant; digestion enhancer",
+  "similar_in_english": [
+    "whet the appetite",
+    "appetizer"
+  ],
+  "example_sentences_in_bangla": [
+    "এই স্যালাডটি খুব ভালো অগ্নিবর্ধক।",
+    "চা-কফির পর অগ্নিবর্ধক খাবার খাওয়া উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "This salad is a great appetite stimulant.",
+    "It's advisable to have an appetizer after tea or coffee to aid digestion."
+  ],
+  "usage_domain": [
+    "food",
+    "health",
+    "cooking"
+  ],
+  "tags": [
+    "idiom",
+    "appetite",
+    "digestion",
+    "culinary"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to something that stimulates hunger or aids digestion, often used in culinary contexts."
+}

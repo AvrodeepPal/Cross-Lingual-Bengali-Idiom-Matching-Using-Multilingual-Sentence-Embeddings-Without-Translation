@@ -1,0 +1,43 @@
+{
+  "id": "1476",
+  "idiom": "কথার খেলাফ",
+  "alternative_idioms": [
+    "কথার খিলাফ",
+    "কথার নড়চড়"
+  ],
+  "literal_meaning": "কথার বিপক্ষে বা কথার বিরুদ্ধে",
+  "figurative_meaning_bn": "অঙ্গীকারের অন্যথা; চুক্তির ব্যতিক্রম; প্রতিশ্রুতি ভঙ্গ",
+  "figurative_meaning_en": "Going back on one's word; breach of promise; violation of agreement",
+  "similar_in_english": [
+    "Break one's word",
+    "Go back on one's promise",
+    "Break a promise"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার দেওয়া প্রতিশ্রুতির কথার খেলাফ করে ব্যবসা থেকে সরে গেল।",
+    "কথার খেলাফ করলে কেউ আর বিশ্বাস করবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He went back on his word and backed out of the deal.",
+    "Going back on your word will make no one trust you anymore."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "personal relationships",
+    "legal contexts"
+  ],
+  "tags": [
+    "promise",
+    "betrayal",
+    "agreement",
+    "honor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "খিলাফ is a variant spelling influenced by Persian/Urdu origins, common in formal or literary Bengali."
+}

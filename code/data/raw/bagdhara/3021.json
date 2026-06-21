@@ -1,0 +1,41 @@
+{
+  "id": "3021",
+  "idiom": "গলায় গামছা দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "গলায় গামছা পরানো বা দেওয়া (to put or tie a gamcha around the neck)",
+  "figurative_meaning_bn": "প্রচণ্ড অপমান করা",
+  "figurative_meaning_en": "To insult or humiliate someone severely",
+  "similar_in_english": [
+    "To put someone to shame",
+    "To humiliate publicly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার প্রতিদ্বন্দ্বীকে গলায় গামছা দিয়ে প্রচণ্ড অপমান করল।",
+    "গ্রামের মহিলা তার স্বামীকে গলায় গামছা দিয়ে লজ্জিত করল।"
+  ],
+  "example_sentences_in_english": [
+    "He severely insulted his rival by putting a gamcha around his neck.",
+    "The village woman humiliated her husband by making him wear a gamcha around his neck."
+  ],
+  "usage_domain": [
+    "social interaction",
+    "conflict",
+    "humiliation"
+  ],
+  "tags": [
+    "অপমান",
+    "লজ্জা",
+    "গ্রামীণ সংস্কৃতি",
+    "বাগধারা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from rural Bengali traditions where a gamcha, a simple cotton towel worn by villagers, symbolizes servitude or low status; forcing it around someone's neck publicly shames them as if marking them as a menial laborer."
+  ],
+  "note": "Gamcha is a traditional Bengali cloth, often associated with everyday rural life and humility."
+}

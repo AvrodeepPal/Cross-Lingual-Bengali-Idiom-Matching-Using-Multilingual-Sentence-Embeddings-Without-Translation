@@ -1,0 +1,40 @@
+{
+  "id": "1130",
+  "idiom": "একান ওকান করা",
+  "alternative_idioms": [
+    "এককান দু'কান করা"
+  ],
+  "literal_meaning": "এক কান থেকে অন্য কানে কথা বলা বা ফিসফিস করে বলা",
+  "figurative_meaning_bn": "গোপন কথা রটানো",
+  "figurative_meaning_en": "To spread a secret or gossip confidential information",
+  "similar_in_english": [
+    "Spill the beans",
+    "Let the cat out of the bag"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুর গোপন কথা একান ওকান করে সবাইকে জানিয়ে দিয়েছে।",
+    "এই খবরটা একান ওকান করলে সবাই জেনে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "He spread his friend's secret by whispering it from ear to ear.",
+    "If you whisper this news from one ear to another, everyone will find out."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "social gossip"
+  ],
+  "tags": [
+    "gossip",
+    "secret",
+    "whispering",
+    "betrayal"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects traditional oral communication in Bengali society, emphasizing the unreliability of whispers in spreading information."
+}

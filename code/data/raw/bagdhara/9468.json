@@ -1,0 +1,44 @@
+{
+  "id": "9468",
+  "idiom": "শিয়ালের ডাক",
+  "alternative_idioms": [
+    "শিয়ালের রা",
+    "কুকুরের আড়াই পাক",
+    "গাধার জল খাওয়া",
+    "বিড়ালের তিন পা"
+  ],
+  "literal_meaning": "শিয়ালের ডাক (fox's call)",
+  "figurative_meaning_bn": "একের সুরে সবার সুর মেলানো; স্বভাবদোষ",
+  "figurative_meaning_en": "Adjusting everyone's tune to one person's; a character flaw",
+  "similar_in_english": [
+    "Birds of a feather flock together",
+    "Like father, like son"
+  ],
+  "example_sentences_in_bangla": [
+    "ওরা সবাই শিয়ালের ডাকের মতো একই রকমের দুষ্টুমি করে।",
+    "গ্রামের ছেলেরা শিয়ালের ডাকের মতো সবাই একসুরে মিথ্যে বলে।"
+  ],
+  "example_sentences_in_english": [
+    "They all engage in mischief in the same way, like the call of foxes.",
+    "The village boys all lie in unison, just like the foxes' call."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "social criticism"
+  ],
+  "tags": [
+    "animal idiom",
+    "proverb",
+    "negative habit"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Derived from the proverb 'সব শিয়ালের এক রা', which observes that all foxes have the same call, symbolizing uniformity in inherent flaws or bad habits in Bengali folklore."
+  ],
+  "note": "The idiom draws from rural observations of animal behavior to critique human conformity in vices."
+}

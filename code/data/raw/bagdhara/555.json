@@ -1,0 +1,42 @@
+{
+  "id": "555",
+  "idiom": "আপনার ঢাক আপনি বাজানো",
+  "alternative_idioms": [
+    "আপনার ঢাক আপনি পিটানো",
+    "আপনার কথা পাঁচকাহন"
+  ],
+  "literal_meaning": "নিজের ঢাক নিজে বাজানো (আপনার নিজস্ব ঢাককে নিজেই বাজানো)",
+  "figurative_meaning_bn": "নিজেই নিজের গুণগান করা; আত্মপ্রশংসা করা; নিজের কথা পুনঃপুনঃ উল্লেখ করা; নিজের বক্ত্যব্যকে গুরুত্ব দেওয়া",
+  "figurative_meaning_en": "To sing one's own praises; to boast about oneself; to repeatedly mention one's own matters; to emphasize one's own statements",
+  "similar_in_english": [
+    "Toot your own horn",
+    "Blow your own trumpet"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় আপনার ঢাক আপনি বাজায়, তার কাজের গল্প শোনাতে থাকে।",
+    "প্রতিটি সভায় তিনি আপনার ঢাক আপনি বাজান, নিজের সাফল্যের কথা বলেন।"
+  ],
+  "example_sentences_in_english": [
+    "He always toots his own horn, constantly talking about his achievements.",
+    "In every meeting, she blows her own trumpet, emphasizing her successes."
+  ],
+  "usage_domain": [
+    "conversation",
+    "social interactions",
+    "self-expression"
+  ],
+  "tags": [
+    "self-praise",
+    "boasting",
+    "repetition",
+    "emphasis"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the cultural imagery of traditional Bengali drumming, symbolizing self-promotion without external validation."
+}

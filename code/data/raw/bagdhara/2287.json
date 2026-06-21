@@ -1,0 +1,38 @@
+{
+  "id": "2287",
+  "idiom": "কুলের কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "কুল (বংশ বা পরিবার) এর কথা (বিষয় বা কাহিনী)",
+  "figurative_meaning_bn": "অতীত জীবনের অপ্রীতিকর কথা",
+  "figurative_meaning_en": "Unpleasant matters or stories from one's past life",
+  "similar_in_english": [
+    "Skeletons in the closet"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কুলের কথা শুনলে কেউ বিশ্বাস করবে না।",
+    "আমি আমার কুলের কথা কখনো প্রকাশ করব না।"
+  ],
+  "example_sentences_in_english": [
+    "No one would believe the unpleasant stories from his family past.",
+    "I will never reveal the skeletons from my family's closet."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Family discussions",
+    "Literature"
+  ],
+  "tags": [
+    "past",
+    "unpleasant",
+    "family secrets",
+    "lineage"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to hidden or embarrassing family histories in Bengali culture"
+}

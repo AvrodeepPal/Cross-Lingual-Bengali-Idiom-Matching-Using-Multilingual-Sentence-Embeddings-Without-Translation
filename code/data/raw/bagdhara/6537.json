@@ -1,0 +1,39 @@
+{
+  "id": "6537",
+  "idiom": "পট",
+  "alternative_idioms": [],
+  "literal_meaning": "পটভূমি বা মঞ্চের পর্দা (canvas or stage backdrop)",
+  "figurative_meaning_bn": "পারিপার্শ্বিক অবস্থা",
+  "figurative_meaning_en": "surrounding circumstances or contextual background",
+  "similar_in_english": [
+    "backdrop",
+    "scenario",
+    "lay of the land"
+  ],
+  "example_sentences_in_bangla": [
+    "দেশের রাজনৈতিক পট দ্রুত পরিবর্তন হচ্ছে।",
+    "এই ঘটনার পট খুবই জটিল।"
+  ],
+  "example_sentences_in_english": [
+    "The political backdrop of the country is changing rapidly.",
+    "The context of this incident is very complex."
+  ],
+  "usage_domain": [
+    "politics",
+    "literature",
+    "general discourse"
+  ],
+  "tags": [
+    "figurative",
+    "contextual",
+    "descriptive"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is often used in formal or literary Bengali to denote situational context, derived from theatrical 'pat' meaning stage setting."
+}

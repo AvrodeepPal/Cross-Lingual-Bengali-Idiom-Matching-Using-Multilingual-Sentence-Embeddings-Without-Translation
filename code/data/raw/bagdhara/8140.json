@@ -1,0 +1,39 @@
+{
+  "id": "8140",
+  "idiom": "ভেড়ার গোয়ালে আগুন",
+  "alternative_idioms": [],
+  "literal_meaning": "ভেড়ার গোয়ালে আগুন (fire in a sheep's barn)",
+  "figurative_meaning_bn": "প্রতিকারে উপায় চিন্তা না করে শুধু হইচই",
+  "figurative_meaning_en": "Creating a commotion without thinking of any remedy or solution",
+  "similar_in_english": [
+    "Running around like a headless chicken",
+    "Making much ado about nothing"
+  ],
+  "example_sentences_in_bangla": [
+    "সমস্যা দেখে সে ভেড়ার গোয়ালে আগুন করে উঠল, কিন্তু কোনো সমাধান ভাবল না।",
+    "এই ছোটখাটো বিষয়ে ভেড়ার গোয়ালে আগুন করার কী দরকার? চিন্তা করে দেখো উপায়।"
+  ],
+  "example_sentences_in_english": [
+    "Upon seeing the problem, he started making a fuss like fire in a sheep's barn but didn't think of any solution.",
+    "Why create a commotion like fire in a sheep's barn over this minor issue? Think of a way out."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Crisis situations",
+    "Criticism of panic"
+  ],
+  "tags": [
+    "commotion",
+    "panic",
+    "futility",
+    "rural imagery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from agrarian life, evoking imagery of chaos in a livestock enclosure without addressing the cause."
+}

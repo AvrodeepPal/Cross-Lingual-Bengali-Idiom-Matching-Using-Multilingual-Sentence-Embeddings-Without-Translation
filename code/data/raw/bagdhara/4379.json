@@ -1,0 +1,41 @@
+{
+  "id": "4379",
+  "idiom": "গলায় ছুরি দেওয়া/চালানো",
+  "alternative_idioms": [
+    "পিছন থেকে ছুরি মারা"
+  ],
+  "literal_meaning": "গলায় ছুরি চালানো বা দেওয়া (throat in knife thrust or run)",
+  "figurative_meaning_bn": "বিশালমাপে ঠকানো; সমূহ সর্বনাশ করা",
+  "figurative_meaning_en": "To betray or cheat on a massive scale; to cause complete ruin or destruction",
+  "similar_in_english": [
+    "Stab in the back",
+    "Knife in the back"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার সঙ্গীকে গলায় ছুরি দিয়ে বিশ্বাসঘাতকতা করেছে।",
+    "ব্যবসায়িক অংশীদার পিছন থেকে ছুরি মেরে তার সবকিছু নষ্ট করে দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He stabbed his partner in the back by betraying him massively.",
+    "The business associate knifed him from behind, ruining everything."
+  ],
+  "usage_domain": [
+    "betrayal",
+    "deception",
+    "personal relationships",
+    "business"
+  ],
+  "tags": [
+    "violence metaphor",
+    "treachery",
+    "harm"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the imagery of violent betrayal, common in South Asian cultural expressions of trust violation."
+}

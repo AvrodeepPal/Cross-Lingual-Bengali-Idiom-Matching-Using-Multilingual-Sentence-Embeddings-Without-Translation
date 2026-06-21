@@ -1,0 +1,40 @@
+{
+  "id": "8690",
+  "idiom": "মুখতোড়",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখ থেকে স্রোতের মতো (stream from the mouth)",
+  "figurative_meaning_bn": "কলহ স্রোত; বাক্য স্রোত",
+  "figurative_meaning_en": "A torrent of quarrelsome words or a stream of speech",
+  "similar_in_english": [
+    "Run off at the mouth",
+    "Verbal diarrhea",
+    "A flood of words"
+  ],
+  "example_sentences_in_bangla": [
+    "সে রাগে মুখতোড় করে কথা বলতে শুরু করল।",
+    "বিতর্কে তার মুখতোড় থামছিল না।"
+  ],
+  "example_sentences_in_english": [
+    "He started speaking in a torrent of words out of anger.",
+    "In the debate, his stream of speech wouldn't stop."
+  ],
+  "usage_domain": [
+    "Conversation",
+    "Arguments",
+    "Daily speech"
+  ],
+  "tags": [
+    "verbal",
+    "quarrel",
+    "excessive talk",
+    "expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to uncontrolled or rapid verbal expression, often in conflict."
+}

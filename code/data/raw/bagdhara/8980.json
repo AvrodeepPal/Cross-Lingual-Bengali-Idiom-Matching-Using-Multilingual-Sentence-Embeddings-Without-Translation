@@ -1,0 +1,38 @@
+{
+  "id": "8980",
+  "idiom": "যেমন-তেমন",
+  "alternative_idioms": [],
+  "literal_meaning": "যেমন-তেমন (যেমন তেমনি, অর্থাৎ এমন কিছু নয় যা বিশেষভাবে উল্লেখযোগ্য)",
+  "figurative_meaning_bn": "সামান্যরকম, সাধারণ",
+  "figurative_meaning_en": "ordinary, mediocre, nothing special",
+  "similar_in_english": [
+    "so-so",
+    "run-of-the-mill",
+    "nothing to write home about"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ছেলেটি যেমন-তেমন পড়াশোনা করে না।",
+    "আমার মালিক যেমন-তেমন লোক নয়।"
+  ],
+  "example_sentences_in_english": [
+    "This boy doesn't study much; he's just so-so.",
+    "My boss is not an ordinary person."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing quality or people"
+  ],
+  "tags": [
+    "mediocrity",
+    "comparison",
+    "quality assessment"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in colloquial Bengali to downplay or describe average quality without strong emphasis."
+}

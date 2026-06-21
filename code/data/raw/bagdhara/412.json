@@ -1,0 +1,42 @@
+{
+  "id": "412",
+  "idiom": "আগুনে জল ঢালা",
+  "alternative_idioms": [
+    "আগুনে জল পড়া"
+  ],
+  "literal_meaning": "আগুনে জল ঢালা বা পড়া (pouring or falling water into fire)",
+  "figurative_meaning_bn": "রাগ কমানো/প্রশমিত হওয়া",
+  "figurative_meaning_en": "To reduce or calm anger/subside",
+  "similar_in_english": [
+    "Pour water on the flames",
+    "Douse the fire of rage"
+  ],
+  "example_sentences_in_bangla": [
+    "তার রাগের আগুনে জল ঢালার জন্য বন্ধু ক্ষমা চাইল।",
+    "ঝগড়ার পর তার মনের আগুনে জল পড়ে শান্তি ফিরে এল।"
+  ],
+  "example_sentences_in_english": [
+    "His friend apologized to pour water on the fire of his anger.",
+    "After the argument, water fell on the fire of her mind, and peace returned."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Conflict resolution",
+    "Daily conversation"
+  ],
+  "tags": [
+    "anger",
+    "calming",
+    "fire",
+    "water",
+    "pacification"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from basic elemental imagery common in Bengali folklore and proverbs."
+}

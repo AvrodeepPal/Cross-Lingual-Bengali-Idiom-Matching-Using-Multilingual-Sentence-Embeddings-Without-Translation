@@ -1,0 +1,39 @@
+{
+  "id": "1131",
+  "idiom": "একান্ন",
+  "alternative_idioms": [],
+  "literal_meaning": "একসাথে খাবার গ্রহণ",
+  "figurative_meaning_bn": "একসাথে আহার করে এমন",
+  "figurative_meaning_en": "Those who eat together (referring to a joint family)",
+  "similar_in_english": [
+    "Breaking bread together",
+    "Under one roof"
+  ],
+  "example_sentences_in_bangla": [
+    "আমাদের পরিবার একান্ন, সবাই একসাথে খাই।",
+    "গ্রামে একান্ন ব্যবস্থা এখনও প্রচলিত।"
+  ],
+  "example_sentences_in_english": [
+    "Our family is একান্ন; we all eat together.",
+    "In the village, the joint family system of eating together is still prevalent."
+  ],
+  "usage_domain": [
+    "Family",
+    "Social relations"
+  ],
+  "tags": [
+    "joint family",
+    "unity",
+    "tradition"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from the traditional Bengali joint family system where multiple generations share meals to symbolize unity."
+  ],
+  "note": "Often used to describe harmonious family living in Bengali culture."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1777",
+  "idiom": "কাঁচা হিসাব",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁচা (raw/uncooked) হিসাব (account/calculation)",
+  "figurative_meaning_bn": "চুড়ান্ত নয় এমন হিসাব",
+  "figurative_meaning_en": "A preliminary or tentative account that is not final",
+  "similar_in_english": [
+    "Rough estimate",
+    "Back-of-the-envelope calculation"
+  ],
+  "example_sentences_in_bangla": [
+    "এখনও কাঁচা হিসাব, চূড়ান্ত হবে পরে।",
+    "ব্যবসার লাভ-ক্ষতির কাঁচা হিসাব করে দেখা গেছে ভালো।"
+  ],
+  "example_sentences_in_english": [
+    "This is still a rough account; the final one will come later.",
+    "The preliminary calculation of business profits and losses looks good."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Accounting",
+    "Business",
+    "Everyday planning"
+  ],
+  "tags": [
+    "Preliminary",
+    "Tentative",
+    "Informal",
+    "Calculation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in colloquial and professional Bengali contexts for non-final assessments."
+}

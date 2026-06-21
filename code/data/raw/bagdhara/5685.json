@@ -1,0 +1,40 @@
+{
+  "id": "5685",
+  "idiom": "দরদাম",
+  "alternative_idioms": [],
+  "literal_meaning": "দর (price) + দাম (price); repeated for emphasis on pricing",
+  "figurative_meaning_bn": "আসল/ন্যায্যমূল্য",
+  "figurative_meaning_en": "The actual or fair price; often implies bargaining or negotiation over value",
+  "similar_in_english": [
+    "Haggling",
+    "What's the damage?",
+    "Fair market value"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে গিয়ে দরদাম না করে কেনা উচিত নয়।",
+    "এই দোকানে দরদামের সুযোগ আছে।"
+  ],
+  "example_sentences_in_english": [
+    "You shouldn't buy anything in the market without bargaining over the price.",
+    "This shop allows for some haggling on prices."
+  ],
+  "usage_domain": [
+    "Commerce",
+    "Daily transactions",
+    "Marketplace"
+  ],
+  "tags": [
+    "Bargaining",
+    "Economy",
+    "Negotiation",
+    "Pricing"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a compound word (yugmashabd) commonly used in Bengali market contexts to denote fair pricing through negotiation."
+}

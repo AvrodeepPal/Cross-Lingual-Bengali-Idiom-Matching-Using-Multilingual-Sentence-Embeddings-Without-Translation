@@ -1,0 +1,40 @@
+{
+  "id": "10125",
+  "idiom": "হাতটান",
+  "alternative_idioms": [
+    "হাত ছোট"
+  ],
+  "literal_meaning": "হাত টানা (hand pulling)",
+  "figurative_meaning_bn": "কৃপণতা; কিপটেমি, কৃপণ",
+  "figurative_meaning_en": "Stinginess; miserliness, miser",
+  "similar_in_english": [
+    "Tight-fisted",
+    "Penny-pinching"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খুব হাতটান, কখনো অন্যকে সাহায্য করে না।",
+    "হাতটানের কারণে তার বন্ধুরা দূরে সরে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is very stingy and never helps others.",
+    "Due to his miserliness, his friends have drifted away."
+  ],
+  "usage_domain": [
+    "daily life",
+    "personality traits",
+    "social interactions"
+  ],
+  "tags": [
+    "negative trait",
+    "behavior",
+    "greed"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali views on generosity and hospitality."
+}

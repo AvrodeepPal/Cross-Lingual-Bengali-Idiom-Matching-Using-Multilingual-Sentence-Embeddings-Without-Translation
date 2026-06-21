@@ -1,0 +1,39 @@
+{
+  "id": "7456",
+  "idiom": "বাগযুদ্ধ",
+  "alternative_idioms": [],
+  "literal_meaning": "কথার যুদ্ধ",
+  "figurative_meaning_bn": "কথার যুদ্ধ, কথা-কাটাকাটি, তর্কাতর্কি",
+  "figurative_meaning_en": "war of words, verbal sparring, argumentation",
+  "similar_in_english": [
+    "war of words",
+    "verbal battle",
+    "tit for tat"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই বন্ধুর মধ্যে বাগযুদ্ধ শুরু হয়ে গেছে।",
+    "সভায় সবাই বাগযুদ্ধে মেতে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "A war of words has started between the two friends.",
+    "Everyone got engrossed in verbal sparring during the meeting."
+  ],
+  "usage_domain": [
+    "conversation",
+    "debate",
+    "dispute"
+  ],
+  "tags": [
+    "argument",
+    "verbal conflict",
+    "quarrel"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in everyday Bengali discourse to describe non-physical conflicts."
+}

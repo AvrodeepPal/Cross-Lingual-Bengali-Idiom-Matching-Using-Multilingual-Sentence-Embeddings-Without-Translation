@@ -1,0 +1,45 @@
+{
+  "id": "2265",
+  "idiom": "কুয়োর ব্যাং",
+  "alternative_idioms": [
+    "কুয়ার ব্যাং",
+    "কূপমণ্ডুক"
+  ],
+  "literal_meaning": "কূপের বা কুয়োর ব্যাং (well's frog)",
+  "figurative_meaning_bn": "যে ব্যক্তি বাইরের কোন খবর রাখে না",
+  "figurative_meaning_en": "A person who remains ignorant of the outside world",
+  "similar_in_english": [
+    "Frog in the well",
+    "Country bumpkin",
+    "Narrow-minded provincial"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা কুয়োর ব্যাং, দেশের বাইরের কোনো খবরই রাখে না।",
+    "গ্রামের ছেলেটি কুয়োর ব্যাং হয়ে গেছে, শহরের জীবন সম্পর্কে কিছুই জানে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a frog in the well, completely unaware of anything beyond his village.",
+    "The boy from the countryside has become a frog in the well, knowing nothing about city life."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Education"
+  ],
+  "tags": [
+    "Ignorance",
+    "Narrow perspective",
+    "Isolation",
+    "Rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom derives from the ancient Sanskrit phrase 'Kūpamanduka' (কূপমণ্ডুক), originating in Indian fables like the Panchatantra or Hitopadesha, where a frog in a well represents limited worldview and ignorance of the broader world."
+  ],
+  "note": "Variations in spelling (কুয়া vs. কুয়ো) reflect regional dialects in Bengali."
+}

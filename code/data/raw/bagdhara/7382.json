@@ -1,0 +1,38 @@
+{
+  "id": "7382",
+  "idiom": "বসে বসে",
+  "alternative_idioms": [],
+  "literal_meaning": "বসে থাকা বা শুধু বসে থাকা",
+  "figurative_meaning_bn": "নিষ্কর্মা থেকে বা কিছু না করে",
+  "figurative_meaning_en": "Idling or doing nothing",
+  "similar_in_english": [
+    "Sitting idle",
+    "Twiddling one's thumbs",
+    "Lazing around"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বসে বসে সময় কাটাচ্ছে।",
+    "স্রেফ বসে বসে বাপের অন্ন ধ্বংস করছি।"
+  ],
+  "example_sentences_in_english": [
+    "He is just sitting idle all day.",
+    "I'm simply wasting my father's money by idling away."
+  ],
+  "usage_domain": [
+    "daily life",
+    "family criticism"
+  ],
+  "tags": [
+    "laziness",
+    "idleness",
+    "procrastination"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali values emphasizing productivity and hard work."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "3473",
+  "idiom": "ঘরামির ঘর ছেঁদা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘরের মালিকের ঘরে ছেঁড়া বা ফুটো",
+  "figurative_meaning_bn": "নিজের কাজে নজর নেই",
+  "figurative_meaning_en": "Neglecting one's own duties or affairs",
+  "similar_in_english": [
+    "The shoemaker's children go barefoot"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অন্যের ব্যবসায়ের জন্য সবসময় দৌড়াদৌড়ি করে, কিন্তু ঘরামির ঘর ছেঁদা—নিজের দোকানের হিসাব রাখে না।",
+    "মায়েরা সন্তানদের জন্য সব করেন, কিন্তু নিজের স্বাস্থ্যের প্রতি লাপ্লাব—ঘরামির ঘর ছেঁদা।"
+  ],
+  "example_sentences_in_english": [
+    "He is always running around for others' businesses, but the householder's house has a hole—he doesn't keep track of his own shop's accounts.",
+    "Mothers do everything for their children, but neglect their own health—the householder's house has a hole."
+  ],
+  "usage_domain": [
+    "daily life",
+    "family matters",
+    "work ethics"
+  ],
+  "tags": [
+    "neglect",
+    "irony",
+    "self-neglect",
+    "proverbial criticism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights the irony of prioritizing others over oneself, common in Bengali folk wisdom."
+}

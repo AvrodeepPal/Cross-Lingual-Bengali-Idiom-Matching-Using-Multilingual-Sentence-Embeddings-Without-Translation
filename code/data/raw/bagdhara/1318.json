@@ -1,0 +1,41 @@
+{
+  "id": "1318",
+  "idiom": "কচুপোড়া খাও",
+  "alternative_idioms": [
+    "খাও তবে ঘণ্টা"
+  ],
+  "literal_meaning": "পোড়া কচু খাওয়া",
+  "figurative_meaning_bn": "প্রত্যাশা করে বিফল হওয়া; ব্যর্থ হয়ে পড়ে থাকা",
+  "figurative_meaning_en": "To be disappointed after having expectations; to fail and be left helpless",
+  "similar_in_english": [
+    "bite the dust",
+    "come a cropper"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় ভালো ফলাফলের আশা করেছিলাম, কিন্তু কচুপোড়া খেয়ে গেলাম।",
+    "ব্যবসায় লোকসান হয়ে সে কচুপোড়া খাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "I hoped for good results in the exam, but I ended up eating burnt taro.",
+    "He suffered a loss in business and is now left disappointed."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature"
+  ],
+  "tags": [
+    "disappointment",
+    "failure",
+    "nonsense literature"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from Sukumar Ray's nonsense poem 'Khão Tobe Kachupor'a, Khão Tobe Ghonta', where it humorously depicts disappointment and failure."
+  ],
+  "note": "Popularized in Bengali children's literature by Sukumar Ray."
+}

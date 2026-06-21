@@ -1,0 +1,42 @@
+{
+  "id": "4269",
+  "idiom": "ছাই",
+  "alternative_idioms": [
+    "কচু",
+    "কলা",
+    "ঘেঁচু"
+  ],
+  "literal_meaning": "অংশগ্রহণকারী (ash or dust)",
+  "figurative_meaning_bn": "কিছু না",
+  "figurative_meaning_en": "nothing",
+  "similar_in_english": [
+    "zilch",
+    "nada",
+    "zip"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি ছাই জানো।",
+    "আমার কাছে ছাই নেই।"
+  ],
+  "example_sentences_in_english": [
+    "You know nothing.",
+    "I have zilch."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "everyday language"
+  ],
+  "tags": [
+    "negation",
+    "colloquial",
+    "informal"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is part of a family of expressions using insignificant or worthless items to denote 'nothing' in Bengali vernacular."
+}

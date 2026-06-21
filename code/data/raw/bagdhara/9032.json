@@ -1,0 +1,42 @@
+{
+  "id": "9032",
+  "idiom": "রটানো",
+  "alternative_idioms": [
+    "রটা"
+  ],
+  "literal_meaning": "প্রচার বা ছড়ানো (to spread or circulate)",
+  "figurative_meaning_bn": "নিন্দাচ্ছলে রাষ্ট্র করা",
+  "figurative_meaning_en": "To spread slander or malicious rumors",
+  "similar_in_english": [
+    "spread like wildfire",
+    "air one's dirty laundry",
+    "badmouth someone"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার প্রতিদ্বন্দ্বীর খারাপ কথা চারিদিকে রটাচ্ছে।",
+    "গ্রামে কলঙ্কের কথা রটিয়ে সবাইকে অস্থির করে তুলেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is spreading malicious rumors about his rival everywhere.",
+    "The scandalous news has been circulated, making everyone uneasy in the village."
+  ],
+  "usage_domain": [
+    "gossip",
+    "social interaction",
+    "slander"
+  ],
+  "tags": [
+    "rumor",
+    "defamation",
+    "malicious",
+    "communication"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term 'রাষ্ট্র' in the original meaning may be a typographical error for 'প্রচার' or contextually refers to spreading state-like announcements with malice; idiom rooted in everyday Bengali oral tradition."
+}

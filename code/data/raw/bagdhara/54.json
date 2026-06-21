@@ -1,0 +1,38 @@
+{
+  "id": "54",
+  "idiom": "অগ্নিদাতা",
+  "alternative_idioms": [],
+  "literal_meaning": "অগ্নির দাতা (fire giver)",
+  "figurative_meaning_bn": "হিন্দুদের মধ্যে যে মৃতের মুখাগ্নি করে",
+  "figurative_meaning_en": "In Hindu tradition, the person who performs the ritual of lighting the funeral pyre by touching the mouth of the deceased",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "পিতার মৃত্যুর পর তিনি অগ্নিদাতা হিসেবে কর্তব্য পালন করেন।",
+    "পারিবারিক ঐতিহ্য অনুসারে জ্যেষ্ঠ পুত্রই অগ্নিদাতা হন।"
+  ],
+  "example_sentences_in_english": [
+    "After his father's death, he performed the duties as the agnidātā.",
+    "According to family tradition, the eldest son becomes the one who lights the pyre."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Funeral rites",
+    "Hindu customs"
+  ],
+  "tags": [
+    "হিন্দু",
+    "শ্রাদ্ধ",
+    "অন্ত্যেষ্টি",
+    "আচার-অনুষ্ঠান"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term refers to a key role in the Hindu cremation ritual (antyeshti), where the closest male relative, often the eldest son, lights the pyre to ensure the soul's liberation (moksha)."
+  ],
+  "note": "This is more of a ritual term than a figurative idiom, deeply embedded in Hindu practices among Bengalis."
+}

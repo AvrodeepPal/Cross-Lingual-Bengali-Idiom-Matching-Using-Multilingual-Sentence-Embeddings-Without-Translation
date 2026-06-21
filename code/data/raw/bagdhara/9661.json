@@ -1,0 +1,43 @@
+{
+  "id": "9661",
+  "idiom": "সলাপরামর্শ",
+  "alternative_idioms": [
+    "শলাপরামর্শ"
+  ],
+  "literal_meaning": "গোপন পরামর্শ (secret advice)",
+  "figurative_meaning_bn": "কুপরামর্শ বা ষড়যন্ত্র",
+  "figurative_meaning_en": "malicious advice or conspiracy",
+  "similar_in_english": [
+    "cooking up a scheme",
+    "backroom plotting"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা সলাপরামর্শ করে শত্রুদের বিরুদ্ধে পরিকল্পনা করছে।",
+    "এই সলাপরামর্শের ফলে সমস্যা আরও বাড়বে।"
+  ],
+  "example_sentences_in_english": [
+    "They are engaging in malicious advice to plot against their enemies.",
+    "This conspiracy will only worsen the problems."
+  ],
+  "usage_domain": [
+    "politics",
+    "intrigue",
+    "social conflicts"
+  ],
+  "tags": [
+    "conspiracy",
+    "evil counsel",
+    "deception",
+    "etymological"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Arabic word 'সলাহ' meaning 'secret', leading to the connotation of hidden or malicious counsel in Bengali usage."
+  ],
+  "note": "The idiom has variants in spelling, reflecting phonetic differences in Bengali dialects."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6508",
+  "idiom": "ন্যাড়া বেল তলায় একবারই যায়",
+  "alternative_idioms": [],
+  "literal_meaning": "ন্যাড়া মানুষ বেল গাছের তলায় একবারই যায়",
+  "figurative_meaning_bn": "একবার কোন বিষয়ে বিপন্ন হয় মানুষ সে বিষয় ভয়ে এড়িয়ে চলে",
+  "figurative_meaning_en": "Once a person faces danger in a matter, they avoid it out of fear thereafter",
+  "similar_in_english": [
+    "Once bitten, twice shy"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একবার জলাধারে পড়ে গিয়ে ভয় পেয়েছে, এখন আর সাঁতার কাটে না। ন্যাড়া বেল তলায় একবারই যায়।",
+    "প্রথমবারের ব্যর্থতায় সে হতাশ হয়ে আর চেষ্টা করে না। ন্যাড়া বেল তলায় একবারই যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He fell into deep water once and got scared, now he doesn't swim anymore. Once bitten, twice shy.",
+    "After the first failure, he gave up trying again. Once bitten, twice shy."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "caution and fear",
+    "personal experiences"
+  ],
+  "tags": [
+    "fear",
+    "avoidance",
+    "learning from experience",
+    "proverbial wisdom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from rural Bengali imagery where the spiky wood apple (bel) fruit falls from trees and can painfully hit a bald person's exposed head, leading them to avoid the area after one incident."
+  ],
+  "note": "The idiom emphasizes caution learned through painful experience, common in oral traditions."
+}

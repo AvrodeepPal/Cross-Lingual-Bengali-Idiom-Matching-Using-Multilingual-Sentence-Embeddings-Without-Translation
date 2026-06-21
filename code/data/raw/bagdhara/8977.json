@@ -1,0 +1,41 @@
+{
+  "id": "8977",
+  "idiom": "যেমন গুরু তেমনই চেলা",
+  "alternative_idioms": [],
+  "literal_meaning": "যেমন গুরু, তেমনই চেলা (as the guru, so the disciple)",
+  "figurative_meaning_bn": "গুরু ও শিষ্য দুজনেই সমান মন্দ বা মূর্খ",
+  "figurative_meaning_en": "The guru and the disciple are both equally bad or foolish",
+  "similar_in_english": [
+    "Like master, like man",
+    "Like teacher, like pupil"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই স্কুলের শিক্ষক যেমন অদক্ষ, তেমনই তার ছাত্ররা যেমন গুরু তেমনই চেলা।",
+    "প্রতিবেশীরা বলছে, যেমন গুরু তেমনই চেলা, তাই বাবা-ছেলে দুজনেই একই রকম চালাকি করে।"
+  ],
+  "example_sentences_in_english": [
+    "The teacher in that school is so incompetent, and his students are like master, like man.",
+    "The neighbors say, like teacher like pupil, so both father and son are equally cunning."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "education",
+    "criticism"
+  ],
+  "tags": [
+    "guru-chela relationship",
+    "similarity in flaws",
+    "foolishness",
+    "mentorship"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the traditional Indian guru-shishya parampara, where the disciple mirrors the teacher's qualities, often negatively in colloquial use."
+  ],
+  "note": "Reflects the cultural emphasis on mentorship in Bengali society, with a cautionary tone about inherited flaws."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2826",
+  "idiom": "গঙ্গা-যমুনা গাঁথনি",
+  "alternative_idioms": [],
+  "literal_meaning": "গঙ্গা এবং যমুনা নদীর মিলিত গাঁথনি বা সংযোগ",
+  "figurative_meaning_bn": "কাদা ও সুরকি দিয়ে ইট গাঁথার কাজ",
+  "figurative_meaning_en": "The work of joining bricks using mud and lime mortar",
+  "similar_in_english": [
+    "jerry-built construction",
+    "makeshift bricklaying"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের পুরনো ঘরগুলো গঙ্গা-যমুনা গাঁথনিতে তৈরি হয়েছে।",
+    "এই দেয়ালে গঙ্গা-যমুনা গাঁথনির কাজ খুব সস্তায় হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The old village houses were built using Ganga-Yamuna style bricklaying.",
+    "This wall was cheaply constructed with mud and lime mortar joining."
+  ],
+  "usage_domain": [
+    "construction",
+    "architecture",
+    "rural building"
+  ],
+  "tags": [
+    "idiom",
+    "material mixing",
+    "traditional method",
+    "bengali culture"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom draws from the cultural imagery of the Ganga and Yamuna rivers' confluence, symbolizing the blending of two elements like mud and lime in traditional Indian brickwork."
+  ],
+  "note": "Refers to a rudimentary, cost-effective building technique common in rural Bengal."
+}

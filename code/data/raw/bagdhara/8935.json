@@ -1,0 +1,44 @@
+{
+  "id": "8935",
+  "idiom": "যমযন্ত্রণা",
+  "alternative_idioms": [
+    "যমযাতনা"
+  ],
+  "literal_meaning": "যমের যন্ত্রণা বা যাতনা (মৃত্যুদেব যমের কষ্টদায়ক অবস্থা)",
+  "figurative_meaning_bn": "মৃত্যুকালীন কষ্টের মতো খুব কষ্ট",
+  "figurative_meaning_en": "Extreme suffering similar to the agony at the time of death",
+  "similar_in_english": [
+    "A fate worse than death",
+    "Living hell",
+    "The pangs of death"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবন যমযন্ত্রণার মতো হয়ে গেছে।",
+    "এই রোগ তার যমযাতনা সৃষ্টি করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "His life has become like the agony of Yama.",
+    "This illness has caused him torment like the pangs of death."
+  ],
+  "usage_domain": [
+    "emotions",
+    "suffering",
+    "death"
+  ],
+  "tags": [
+    "death",
+    "torture",
+    "mythology",
+    "pain"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the Hindu god Yama, the deity of death, from ancient mythological texts like the Puranas."
+  ],
+  "note": "The idiom draws from Hindu mythology where Yama is depicted as the judge of the dead, symbolizing inevitable and severe suffering."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "5621",
+  "idiom": "দড়কাঁচা",
+  "alternative_idioms": [
+    "দড়কচা",
+    "দরকচা",
+    "দরকাঁচা"
+  ],
+  "literal_meaning": "দেখতে পাকা কিন্তু ভিতরে কাঁচা বা শক্ত ফল বা উপাদান",
+  "figurative_meaning_bn": "দেখতে পাকা কিন্তু ভিতরে শক্ত, আধপাকা আধকাঁচা",
+  "figurative_meaning_en": "Appears mature or ripe on the outside but is actually firm or raw inside; half-baked or immature",
+  "similar_in_english": [
+    "half-baked",
+    "all hat and no cattle",
+    "looks good on paper"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পরিকল্পনাটি দড়কাঁচা, বাইরে থেকে ভালো লাগলেও ভিতরে অসম্পূর্ণ।",
+    "তার কথা শুনে মনে হয় সব জানে, কিন্তু আসলে দড়কাঁচা জ্ঞান।"
+  ],
+  "example_sentences_in_english": [
+    "This plan is half-baked; it looks good on the surface but is incomplete inside.",
+    "He seems knowledgeable, but his understanding is actually half-baked."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing ideas or people",
+    "agricultural context"
+  ],
+  "tags": [
+    "immaturity",
+    "deception",
+    "incompleteness",
+    "food metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variants reflect regional pronunciations in Bengali dialects; often used in agrarian contexts to describe fruits like bananas or plantains."
+}

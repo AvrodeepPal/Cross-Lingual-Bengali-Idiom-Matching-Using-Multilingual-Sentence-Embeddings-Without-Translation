@@ -1,0 +1,42 @@
+{
+  "id": "8074",
+  "idiom": "ভিজে বেড়াল",
+  "alternative_idioms": [
+    "বকধার্মিক",
+    "বিড়ালতপস্বী"
+  ],
+  "literal_meaning": "ভিজা বা ভেজা বিড়াল",
+  "figurative_meaning_bn": "নিরীহ অথচ কপটচারী ব্যক্তি, সাধুর বেশে ভণ্ড; দেখতে ভালো মানুষ, কিন্তু পেটেপেটে বজ্জাতি",
+  "figurative_meaning_en": "An innocent yet hypocritical or deceitful person, a fraud in the guise of a saint; appears to be a good person but is inwardly wicked",
+  "similar_in_english": [
+    "wolf in sheep's clothing",
+    "snake in the grass"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ভিজে বেড়াল, বাইরে নিরীহ দেখায় কিন্তু ভিতরে খুব কপট।",
+    "এই রাজনীতিবিদরা সব ভিজে বেড়াল, সাধুর ছদ্মবেশে লোকদেখানো করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a wet cat, looks innocent on the outside but is very deceitful inside.",
+    "These politicians are all wet cats, pretending to be saints while deceiving people."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "literature",
+    "everyday conversation"
+  ],
+  "tags": [
+    "hypocrisy",
+    "deception",
+    "animal metaphor",
+    "cunning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the image of a wet cat appearing pitiful and harmless, contrasting with its potentially aggressive nature."
+}

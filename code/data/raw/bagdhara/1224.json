@@ -1,0 +1,44 @@
+{
+  "id": "1224",
+  "idiom": "এলাহিকাণ্ড",
+  "alternative_idioms": [
+    "যজ্ঞ"
+  ],
+  "literal_meaning": "ঈশ্বরীয় ঘটনা বা কাজ",
+  "figurative_meaning_bn": "বিরাট আয়োজন, মহা-ধুমধাম",
+  "figurative_meaning_en": "Grand arrangement, great pomp and show",
+  "similar_in_english": [
+    "Grand affair",
+    "Big to-do",
+    "Lavish celebration"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়েবাড়িতে এলাহি কাণ্ড চলছে।",
+    "উৎসবে এলাহিকাণ্ড দেখে সবাই অবাক হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "There's a divine affair going on at the wedding house.",
+    "Everyone was amazed by the grand pomp at the festival."
+  ],
+  "usage_domain": [
+    "Celebrations",
+    "Events",
+    "Weddings"
+  ],
+  "tags": [
+    "pomp",
+    "grand",
+    "festive",
+    "divine"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to elaborate festive or religious events in Bengali tradition, possibly influenced by Islamic or Hindu grand rituals."
+  ],
+  "note": "The term 'এলাহি' derives from Arabic 'Allah', indicating a divine scale of extravagance."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9177",
+  "idiom": "রোজনামচা",
+  "alternative_idioms": [],
+  "literal_meaning": "দৈনিক হিসাব বা লিপির খাতা",
+  "figurative_meaning_bn": "দৈনিক বিবরণের বই, দিনলিপি",
+  "figurative_meaning_en": "Daily record book, diary",
+  "similar_in_english": [
+    "diary",
+    "journal",
+    "logbook"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার রোজনামচায় প্রতিদিনের কাজের বিবরণ লিখি।",
+    "সে তার রোজনামচা থেকে পুরনো স্মৃতি মনে করিয়া আনে।"
+  ],
+  "example_sentences_in_english": [
+    "I write the details of daily tasks in my diary.",
+    "He recalls old memories from his journal."
+  ],
+  "usage_domain": [
+    "personal record-keeping",
+    "administration",
+    "literature"
+  ],
+  "tags": [
+    "diary",
+    "daily life",
+    "writing"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is borrowed from Persian/Urdu 'roz-namcha', commonly used in Bengali for maintaining daily accounts or personal diaries."
+}

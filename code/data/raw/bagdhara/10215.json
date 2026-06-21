@@ -1,0 +1,39 @@
+{
+  "id": "10215",
+  "idiom": "হাতে থাকা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতে থাকা (in hand or being in one's grasp)",
+  "figurative_meaning_bn": "বশে থাকা",
+  "figurative_meaning_en": "to be under control or at one's mercy",
+  "similar_in_english": [
+    "under one's thumb",
+    "in one's hands"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার কর্মচারীদের হাতে রেখেছে, তাই তারা কিছু করতে পারে না।",
+    "বউটি স্বামীর হাতে থাকে, তাই সে সবকিছু মেনে চলে।"
+  ],
+  "example_sentences_in_english": [
+    "He keeps his employees under his control, so they can't do anything.",
+    "The wife is under her husband's thumb, so she follows everything."
+  ],
+  "usage_domain": [
+    "relationships",
+    "workplace",
+    "daily conversation"
+  ],
+  "tags": [
+    "control",
+    "dominance",
+    "submission",
+    "possession"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects patriarchal norms in Bengali society, often used in contexts of authority and subjugation."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8071",
+  "idiom": "ভিক্ষাপুত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "ভিক্ষিত পুত্র (begged or adopted son)",
+  "figurative_meaning_bn": "উপনয়নকালে কোন পুত্রহীনা কর্তৃক পুত্ররূপে গৃহীত ব্রাহ্মণকুমার",
+  "figurative_meaning_en": "A Brahmin boy adopted as a son by a childless person at the time of the upanayan ceremony",
+  "similar_in_english": [
+    "adopted son",
+    "foster child in religious context"
+  ],
+  "example_sentences_in_bangla": [
+    "পুরনো দিনে অনেক পুত্রহীন ব্রাহ্মণ ভিক্ষাপুত্র গ্রহণ করতেন উপনয়নের জন্য।",
+    "তার ভিক্ষাপুত্রকে তিনি নিজের ছেলের মতোই লালন করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "In olden times, many childless Brahmins would adopt a bhikshaputra for the upanayan ceremony.",
+    "He raised his adopted son just like his own child."
+  ],
+  "usage_domain": [
+    "religion",
+    "family",
+    "Hindu rituals"
+  ],
+  "tags": [
+    "ব্রাহ্মণ",
+    "উপনয়ন",
+    "দত্তক গ্রহণ",
+    "হিন্দু ঐতিহ্য"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term originates from ancient Hindu practices where childless families, especially Brahmins, would adopt a boy from a poorer family to perform the sacred thread ceremony (upanayan), ensuring the continuity of rituals and lineage."
+  ],
+  "note": "This is a specific cultural term rather than a common idiom, rooted in Vedic traditions."
+}

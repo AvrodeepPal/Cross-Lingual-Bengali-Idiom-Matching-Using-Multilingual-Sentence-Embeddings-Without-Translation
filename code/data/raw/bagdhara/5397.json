@@ -1,0 +1,41 @@
+{
+  "id": "5397",
+  "idiom": "তাল ঠোকা",
+  "alternative_idioms": [],
+  "literal_meaning": "তালে আঘাত করা (রিদম বা তাল বাজানো)",
+  "figurative_meaning_bn": "অপরকে দ্বন্দ্বে আহ্বান করা",
+  "figurative_meaning_en": "To challenge someone to a fight or duel",
+  "similar_in_english": [
+    "Throw down the gauntlet",
+    "Call someone out"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার প্রতিদ্বন্দ্বীকে তাল ঠোকা করে চ্যালেঞ্জ জানাল।",
+    "কুস্তির ময়দানে তাল ঠোকা হলো যখন দুই যোদ্ধা মুখোমুখি হলো।"
+  ],
+  "example_sentences_in_english": [
+    "He threw down the gauntlet to his rival by challenging him openly.",
+    "In the wrestling arena, the tal was beaten as the two fighters faced off."
+  ],
+  "usage_domain": [
+    "Sports",
+    "Conflict",
+    "Wrestling"
+  ],
+  "tags": [
+    "চ্যালেঞ্জ",
+    "দ্বন্দ্ব",
+    "কুস্তি",
+    "প্রতিযোগিতা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from traditional Bengali wrestling (kushti), where beating the 'tal' (a drum or rhythm instrument) signals a challenge to an opponent in the arena."
+  ],
+  "note": "Commonly used in contexts of physical or verbal confrontations, reflecting rural sporting traditions."
+}

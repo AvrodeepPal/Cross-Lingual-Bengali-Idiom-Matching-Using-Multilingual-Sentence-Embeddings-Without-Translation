@@ -1,0 +1,44 @@
+{
+  "id": "5705",
+  "idiom": "দশ",
+  "alternative_idioms": [
+    "দশে মিলি করি কাজ হারি জিতি নাহি লাজ",
+    "দশের লাঠি একের বোঝা"
+  ],
+  "literal_meaning": "দশ (সংখ্যা দশ, অর্থাৎ টেন)",
+  "figurative_meaning_bn": "জনসাধারণ, সর্বসাধারণ",
+  "figurative_meaning_en": "the general public, the common people",
+  "similar_in_english": [
+    "the masses",
+    "the man in the street",
+    "the common folk"
+  ],
+  "example_sentences_in_bangla": [
+    "দশের সামনে কথা বলতে লজ্জা পাই না।",
+    "দশের মতামতকে গুরুত্ব দিতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "I don't feel shy speaking in front of the general public.",
+    "We must give importance to the opinion of the common people."
+  ],
+  "usage_domain": [
+    "social",
+    "politics",
+    "everyday conversation"
+  ],
+  "tags": [
+    "collective",
+    "proverbial",
+    "public opinion"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from traditional Bengali proverbs emphasizing collective action and the weight of public involvement, often used in folklore to highlight community dynamics."
+  ],
+  "note": "The term 'দশ' figuratively represents the collective masses, drawing from proverbs that illustrate unity and shared burden."
+}

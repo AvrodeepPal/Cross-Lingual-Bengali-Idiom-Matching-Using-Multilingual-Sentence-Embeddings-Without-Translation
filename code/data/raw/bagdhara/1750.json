@@ -1,0 +1,42 @@
+{
+  "id": "1750",
+  "idiom": "কাঁচাঘর",
+  "alternative_idioms": [],
+  "literal_meaning": "মাটি, বাঁশ ইত্যাদি দিয়ে তৈরি অস্থায়ী বা সাধারণ ঘর",
+  "figurative_meaning_bn": "মাটি, বাঁশ ইত্যাদির ঘর",
+  "figurative_meaning_en": "A house made of mud, bamboo, and similar raw materials",
+  "similar_in_english": [
+    "humble abode",
+    "mud hut",
+    "thatched cottage"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে তার কাঁচাঘরে সকলে সুখে থাকে।",
+    "নিজহাতে গড়া কাঁচাঘর তার কাছে সবচেয়ে প্রিয়।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone lives happily in his kancha ghor in the village.",
+    "The kancha ghor built by his own hands is his favorite."
+  ],
+  "usage_domain": [
+    "rural life",
+    "architecture",
+    "daily conversation"
+  ],
+  "tags": [
+    "rural",
+    "simple living",
+    "traditional home",
+    "bamboo structure"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Refers to traditional temporary or semi-permanent dwellings in Bengali villages, often built during seasonal migrations or floods."
+  ],
+  "note": "This term evokes simplicity and self-reliance in Bengali rural culture, as seen in folk songs and literature."
+}

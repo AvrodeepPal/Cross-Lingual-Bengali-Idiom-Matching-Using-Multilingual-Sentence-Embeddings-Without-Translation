@@ -1,0 +1,40 @@
+{
+  "id": "3038",
+  "idiom": "গসগস",
+  "alternative_idioms": [
+    "গজগজ"
+  ],
+  "literal_meaning": "গসগস শব্দ (অনুকরণমূলক শব্দ যা গুনগুন বা গজগজানির আওয়াজ প্রকাশ করে)",
+  "figurative_meaning_bn": "ক্রোধ বা বিরক্তির ভাবসূচক",
+  "figurative_meaning_en": "Indicative of anger or irritation",
+  "similar_in_english": [
+    "grumbling under one's breath",
+    "muttering in annoyance"
+  ],
+  "example_sentences_in_bangla": [
+    "রাগে সে গসগস করতে লাগল।",
+    "বিরক্ত হয়ে মা গসগস করে বললেন।"
+  ],
+  "example_sentences_in_english": [
+    "He started grumbling in anger.",
+    "Annoyed, the mother muttered irritably."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation"
+  ],
+  "tags": [
+    "anger",
+    "irritation",
+    "onomatopoeia",
+    "spoken language"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি অনুকরণমূলক বাগধারা যা বাংলা কথ্য ভাষায় সাধারণত ব্যবহৃত হয়।"
+}

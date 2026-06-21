@@ -1,0 +1,43 @@
+{
+  "id": "2187",
+  "idiom": "কিচিরমিচির",
+  "alternative_idioms": [
+    "কিচকিচ",
+    "কিচকিচানি"
+  ],
+  "literal_meaning": "অনুকরণমূলক শব্দ যা ছোটখাটো ঝগড়া বা বকবকানির শব্দ নকল করে",
+  "figurative_meaning_bn": "ঝগড়া; বচসা; গালাগালি",
+  "figurative_meaning_en": "petty quarrel; bickering; exchange of abuses",
+  "similar_in_english": [
+    "bickering",
+    "squabbling",
+    "tit for tat"
+  ],
+  "example_sentences_in_bangla": [
+    "সংসারে সারাক্ষণ কিচিরমিচির লেগেই আছে।",
+    "দুই বোনের মধ্যে কিচিরমিচির চলছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's constant bickering in the household.",
+    "The two sisters are engaged in petty quarreling."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships",
+    "daily life"
+  ],
+  "tags": [
+    "quarrel",
+    "domestic",
+    "negative",
+    "verbal conflict"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom captures the everyday sounds of domestic disputes in Bengali households."
+}

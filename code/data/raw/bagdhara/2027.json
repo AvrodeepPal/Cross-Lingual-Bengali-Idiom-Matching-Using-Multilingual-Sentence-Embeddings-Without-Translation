@@ -1,0 +1,42 @@
+{
+  "id": "2027",
+  "idiom": "কানাঘুষা",
+  "alternative_idioms": [
+    "ঘুষো",
+    "কানাকানি"
+  ],
+  "literal_meaning": "কানে ঘুষি দেওয়া বা কানের কাছে ফিসফিস করে বলা",
+  "figurative_meaning_bn": "কর্ণে কর্ণে ঘোষণা; কানে কানে বলাবলি, চুপে চুপে বলাবলি",
+  "figurative_meaning_en": "Announcement from ear to ear; secret talk, hushed conversation",
+  "similar_in_english": [
+    "whisper in one's ear",
+    "hush-hush talk"
+  ],
+  "example_sentences_in_bangla": [
+    "বন্ধুরা কানাঘুষা করে পরীক্ষার প্রশ্ন নিয়ে আলোচনা করছিল।",
+    "সভায় সবাই কানাঘুষা করে গুজব ছড়াচ্ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "The friends were whispering about the exam questions in secret.",
+    "Everyone in the meeting was spreading rumors through hushed whispers."
+  ],
+  "usage_domain": [
+    "conversation",
+    "gossip",
+    "secrecy"
+  ],
+  "tags": [
+    "whispering",
+    "secret",
+    "informal",
+    "hushed"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "সমার্থক: কানাকানি; সাধারণত গোপনীয়তা প্রকাশ করে"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1543",
+  "idiom": "কপাল কাটা",
+  "alternative_idioms": [],
+  "literal_meaning": "কপাল কাটা (forehead being cut)",
+  "figurative_meaning_bn": "অদৃষ্ট মন্দ হওয়া",
+  "figurative_meaning_en": "Having bad luck or unfavorable fate",
+  "similar_in_english": [
+    "Born under a bad sign",
+    "Hard luck"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কপাল কাটা, চাকরির ইন্টারভিউতে পৌঁছাতে না পেরেছে।",
+    "এই বছর আমার কপাল কাটা, সবকিছু উল্টো হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has bad luck; he couldn't reach the job interview on time.",
+    "This year my fate is unfavorable; everything is going wrong."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Expressions of misfortune"
+  ],
+  "tags": [
+    "fate",
+    "misfortune",
+    "superstition"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the cultural belief in fate written on one's forehead"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "901",
+  "idiom": "এঁড়ে লাগা",
+  "alternative_idioms": [],
+  "literal_meaning": "গরুর থনের মতো ফোলা রোগে আক্রান্ত হওয়া",
+  "figurative_meaning_bn": "মাতৃস্তন্যবঞ্চিত শিশুদের অজীর্ণরোগ",
+  "figurative_meaning_en": "Indigestion ailment in infants deprived of mother's milk",
+  "similar_in_english": [
+    "failure to thrive"
+  ],
+  "example_sentences_in_bangla": [
+    "শিশুটির মায়ের দুধ না পাওয়ায় এঁড়ে লেগেছে।",
+    "গ্রামে অনেক শিশু এঁড়ে লাগার শিকার হয়।"
+  ],
+  "example_sentences_in_english": [
+    "The infant has developed এঁড়ে লাগা due to not getting mother's milk.",
+    "In the village, many babies suffer from the indigestion condition known as এঁড়ে লাগা."
+  ],
+  "usage_domain": [
+    "health",
+    "childcare",
+    "folk medicine"
+  ],
+  "tags": [
+    "idiom",
+    "disease",
+    "nutrition",
+    "infant health"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali folk knowledge on child nutrition and health issues in rural settings."
+}

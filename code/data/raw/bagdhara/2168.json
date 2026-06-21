@@ -1,0 +1,40 @@
+{
+  "id": "2168",
+  "idiom": "মনের কালো",
+  "alternative_idioms": [],
+  "literal_meaning": "মনের কালোত্ব (mind's blackness)",
+  "figurative_meaning_bn": "মনের বিদ্বেষ",
+  "figurative_meaning_en": "inner malice or grudge",
+  "similar_in_english": [
+    "black heart",
+    "hold a grudge"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মনের কালো এখনো ঘুচেনি, তাই সে কাউকে ক্ষমা করতে পারে না।",
+    "ভালোবাসা ছড়িয়ে দিলে মনের কালো দূর হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "His inner malice hasn't faded yet, so he can't forgive anyone.",
+    "Spreading love can dispel the blackness of the mind."
+  ],
+  "usage_domain": [
+    "emotions",
+    "psychology",
+    "literature"
+  ],
+  "tags": [
+    "negative emotion",
+    "resentment",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the song by Atul Prasad: 'সবারে বাসরে ভালো নইলে মনের কালো ঘুচবে না', a notable Bengali composer and poet from the early 20th century."
+  ],
+  "note": "Idiom derived from cultural song; 'কালো২' in input likely a data fragment referring to 'মনের কালো'."
+}

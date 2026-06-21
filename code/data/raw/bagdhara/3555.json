@@ -1,0 +1,41 @@
+{
+  "id": "3555",
+  "idiom": "ঘুঘু বাস্তু",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘুঘু (cuckoo bird) এবং বাস্তু (dwelling or house)",
+  "figurative_meaning_bn": "প্রচ্ছন্ন শয়তান",
+  "figurative_meaning_en": "Hidden devil",
+  "similar_in_english": [
+    "Wolf in sheep's clothing",
+    "Devil in disguise"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ঘুঘু বাস্তু, বাইরে হাসিমুখে থাকে কিন্তু পিছন থেকে ক্ষতি করে।",
+    "ঘুঘু বাস্তুর মতো সে সবাইকে ধোঁকা দিয়ে লাভবান হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a hidden devil, smiling outwardly but causing harm from behind.",
+    "Like a wolf in sheep's clothing, she deceived everyone for her gain."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "literature",
+    "negative characterization"
+  ],
+  "tags": [
+    "deception",
+    "hypocrisy",
+    "animal metaphor",
+    "evil"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom originates from the behavior of the cuckoo bird (ঘুঘু), which does not build its own nest but lays eggs in other birds' nests, symbolizing a covert parasite or hidden enemy in Bengali folklore."
+  ],
+  "note": "The idiom draws on natural observation of bird behavior to metaphorically describe insidious harm."
+}

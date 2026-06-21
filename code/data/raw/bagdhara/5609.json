@@ -1,0 +1,41 @@
+{
+  "id": "5609",
+  "idiom": "দক্ষিণহস্ত",
+  "alternative_idioms": [
+    "অগ্রপাণি"
+  ],
+  "literal_meaning": "দক্ষিণ হাত (right hand)",
+  "figurative_meaning_bn": "প্রধান সহায়, বড় অবলম্বন",
+  "figurative_meaning_en": "Main helper, major support",
+  "similar_in_english": [
+    "right-hand man",
+    "mainstay"
+  ],
+  "example_sentences_in_bangla": [
+    "কেষ্টা আমার দক্ষিণহস্ত, তাকে ছাড়া আমার কাজ চলে না।",
+    "এই প্রকল্পে রাহুল আমার দক্ষিণহস্তের মতো সাহায্য করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Keshta is my right-hand man; I can't manage without him.",
+    "Rahul has been like my mainstay in this project."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "relationships",
+    "work support"
+  ],
+  "tags": [
+    "support",
+    "dependence",
+    "helper",
+    "loyalty"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the cultural preference for the right hand in Bengali traditions, symbolizing reliability."
+}

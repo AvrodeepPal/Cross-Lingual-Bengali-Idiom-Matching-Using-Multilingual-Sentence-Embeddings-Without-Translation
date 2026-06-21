@@ -1,0 +1,43 @@
+{
+  "id": "978",
+  "idiom": "একঘরিয়া",
+  "alternative_idioms": [
+    "একঘরে"
+  ],
+  "literal_meaning": "একটি ঘরের বা একঘরে বাসকারী (belonging to one house or living in isolation)",
+  "figurative_meaning_bn": "জাতিচ্যুত; সমাজচ্যুত",
+  "figurative_meaning_en": "Excommunicated from caste; ostracized from society",
+  "similar_in_english": [
+    "social pariah",
+    "outcast"
+  ],
+  "example_sentences_in_bangla": [
+    "সমাজে তার একঘরিয়া হয়ে গেছে, কেউ তার সাথে মেলামেশা করে না।",
+    "পুরনো প্রথা অনুসারে চুরির অভিযোগে তাকে একঘরিয়া ঘোষণা করা হয়েছিল।"
+  ],
+  "example_sentences_in_english": [
+    "He has become a social outcast; no one associates with him anymore.",
+    "According to old customs, he was declared an outcast for the theft accusation."
+  ],
+  "usage_domain": [
+    "social",
+    "cultural",
+    "historical"
+  ],
+  "tags": [
+    "outcast",
+    "excommunication",
+    "social exclusion",
+    "obsolete practice"
+  ],
+  "frequency": "very rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom refers to the historical practice in Bengali Hindu society where individuals were expelled from their caste or community for violating social norms, leading to isolation; the practice is now obsolete due to modern legal and social reforms."
+  ],
+  "note": "অধুনালুপ্ত প্রথা (an obsolete custom)"
+}

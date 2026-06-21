@@ -1,0 +1,39 @@
+{
+  "id": "7874",
+  "idiom": "বেবাক",
+  "alternative_idioms": [],
+  "literal_meaning": "বাকি বা অবশিষ্টাংশ ছাড়া (without remainder)",
+  "figurative_meaning_bn": "কোনো কিছু বাদ না রেখে সম্পূর্ণভাবে",
+  "figurative_meaning_en": "completely, without leaving anything out",
+  "similar_in_english": [
+    "lock, stock, and barrel",
+    "in toto",
+    "wholesale"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বেবাক ভুলে গেছে সবকিছু।",
+    "ঘরটি বেবাক ধ্বংস হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has completely forgotten everything.",
+    "The house was completely destroyed."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "descriptive"
+  ],
+  "tags": [
+    "completeness",
+    "totality",
+    "emphasis"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes total inclusion or destruction without exceptions, rooted in everyday Bengali expression."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8005",
+  "idiom": "ভাঙাঘর ছেয়ে দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাঙা ঘরকে ছেয়ে দেওয়া (covering a broken house)",
+  "figurative_meaning_bn": "অক্ষম বা অসহায়কে সাহায্য করা",
+  "figurative_meaning_en": "To help the helpless or incompetent",
+  "similar_in_english": [
+    "To put a roof over someone's head",
+    "To lend a helping hand to the needy"
+  ],
+  "example_sentences_in_bangla": [
+    "গরিব লোকটির ভাঙাঘর ছেয়ে দিয়ে সে তার জীবন বদলে দিয়েছে।",
+    "এই সময়ে তার ভাঙাঘর ছেয়ে দেওয়া দরকার।"
+  ],
+  "example_sentences_in_english": [
+    "By covering the poor man's broken house, he changed his life.",
+    "It's necessary to help him now when he's helpless."
+  ],
+  "usage_domain": [
+    "social assistance",
+    "everyday conversation",
+    "charity"
+  ],
+  "tags": [
+    "help",
+    "poverty",
+    "assistance",
+    "compassion"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Original meaning had a minor typo ('কজা' likely 'করা'); idiom reflects rural Bengali imagery of aiding the destitute."
+}

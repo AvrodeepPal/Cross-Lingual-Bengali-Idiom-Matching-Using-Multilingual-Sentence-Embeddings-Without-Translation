@@ -1,0 +1,37 @@
+{
+  "id": "597",
+  "idiom": "আয়োসুয়া",
+  "alternative_idioms": [
+    "এয়োসুয়া"
+  ],
+  "literal_meaning": "আয়োসুয়াদের একত্রিত সমাবেশ বা ভোজন",
+  "figurative_meaning_bn": "সধবানারী; সধবানারীদের দল",
+  "figurative_meaning_en": "widow; a group of widows",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "গ্রামে আয়োসুয়াদের দল এসে পৌঁছেছে, সবাই চিন্তিত হয়ে উঠল।",
+    "এই আয়োসুয়া দেখলে মনে হয় দুঃখের ছায়া পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "A group of ayosuyas has arrived in the village, making everyone worried.",
+    "Seeing this ayosuya brings a shadow of sorrow to the mind."
+  ],
+  "usage_domain": [
+    "social",
+    "familial"
+  ],
+  "tags": [
+    "widow",
+    "group",
+    "gathering",
+    "traditional"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Refers to a traditional communal gathering of widows in Bengali rural culture, often implying a somber or sympathetic context."
+}

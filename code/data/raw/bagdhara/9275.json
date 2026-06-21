@@ -1,0 +1,41 @@
+{
+  "id": "9275",
+  "idiom": "লাঠ্যৌষধি",
+  "alternative_idioms": [],
+  "literal_meaning": "লাঠি দিয়ে তৈরি ওষুধ (stick medicine)",
+  "figurative_meaning_bn": "লাঠি দিয়ে মেরে সংশোধনের উপায়; তাড়না বা শাসনই ঈপ্সিত ফল লাভের উপায়",
+  "figurative_meaning_en": "The method of correction by beating with a stick; for fools, urging or punishment is the way to achieve the desired result",
+  "similar_in_english": [
+    "Spare the rod and spoil the child",
+    "Tough love"
+  ],
+  "example_sentences_in_bangla": [
+    "এই অলস ছেলেটিকে লাঠ্যৌষধি না দিলে সে কখনো পড়াশোনা করবে না।",
+    "গ্রামের স্কুলে শিক্ষকরা এখনও লাঠ্যৌষধির উপর নির্ভর করে শৃঙ্খলা বজায় রাখেন।"
+  ],
+  "example_sentences_in_english": [
+    "This lazy boy won't study unless given a dose of the stick medicine.",
+    "In village schools, teachers still rely on the stick as medicine to maintain discipline."
+  ],
+  "usage_domain": [
+    "Education",
+    "Parenting",
+    "Discipline"
+  ],
+  "tags": [
+    "Punishment",
+    "Correction",
+    "Foolishness",
+    "Traditional remedy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Derived from the Sanskrit proverb 'Mūrkhasya laṭhyauṣadham', meaning 'For a fool, the stick is the medicine', reflecting ancient Indian views on discipline."
+  ],
+  "note": "This idiom highlights traditional attitudes towards corporal punishment in Bengali culture."
+}

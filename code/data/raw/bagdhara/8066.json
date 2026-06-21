@@ -1,0 +1,39 @@
+{
+  "id": "8066",
+  "idiom": "ভাসাভাসা",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাসা-ভাসা (অস্পষ্ট বা ভাসমান অবস্থা)",
+  "figurative_meaning_bn": "অল্পবিস্তর, উপর-উপর, একটু-আধটু, কিছুকিছু, যৎসামান্য, সীমাবদ্ধ",
+  "figurative_meaning_en": "superficial, approximate, a little bit, somewhat, limited or scant",
+  "similar_in_english": [
+    "a smattering of",
+    "skin-deep knowledge",
+    "superficial understanding"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বিষয়ে আমার জ্ঞান ভাসাভাসা।",
+    "তার ইংরেজি ভাষার জ্ঞান ভাসাভাসা, গভীর নয়।"
+  ],
+  "example_sentences_in_english": [
+    "My knowledge on this topic is superficial.",
+    "His understanding of English is just a smattering, not deep."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "education",
+    "knowledge description"
+  ],
+  "tags": [
+    "superficial",
+    "limited knowledge",
+    "approximate"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in spoken Bengali to describe vague or incomplete familiarity with a subject."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "3856",
+  "idiom": "চারহাঁটু",
+  "alternative_idioms": [],
+  "literal_meaning": "চারটি হাঁটু (four knees)",
+  "figurative_meaning_bn": "স্ত্রী-পুরুষ; স্বামী-স্ত্রী",
+  "figurative_meaning_en": "husband and wife; man and woman",
+  "similar_in_english": [
+    "better half",
+    "the two of us"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা চারহাঁটু হয়ে বসে কথা বলছিল।",
+    "বাড়িতে চারহাঁটু নেই, একা থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "They sat as a couple chatting intimately.",
+    "There is no couple at home; he lives alone."
+  ],
+  "usage_domain": [
+    "relationships",
+    "marriage"
+  ],
+  "tags": [
+    "couple",
+    "intimacy",
+    "family"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the closeness of a couple, implying shared space like knees touching."
+}

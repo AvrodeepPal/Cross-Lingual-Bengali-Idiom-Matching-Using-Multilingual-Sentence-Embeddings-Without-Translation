@@ -1,0 +1,44 @@
+{
+  "id": "123",
+  "idiom": "অদৃষ্টের কিল",
+  "alternative_idioms": [
+    "অদৃষ্টের পরিহাস"
+  ],
+  "literal_meaning": "অদৃষ্টের (misfortune's) কিল (nail or peg)",
+  "figurative_meaning_bn": "ভাগ্যবিপর্যয়; ভাগ্যের মার; কপালের ফের; গ্রহের ফের; বিধির বিড়ম্বনা",
+  "figurative_meaning_en": "reversal of fortune; stroke of bad luck; twist of fate; mockery of destiny",
+  "similar_in_english": [
+    "stroke of bad luck",
+    "fate's cruel blow",
+    "Murphy's law"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ব্যবসায় অদৃষ্টের কিল পড়ে গিয়েছে, সবকিছু নষ্ট হয়ে গেল।",
+    "জীবনের এই মোড়ে অদৃষ্টের কিল তার পথ আটকে দাঁড়িয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "A nail of misfortune struck his business, ruining everything.",
+    "At this turn in life, fate's nail has blocked his path."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature",
+    "folklore"
+  ],
+  "tags": [
+    "fate",
+    "misfortune",
+    "destiny",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from proverbial wisdom emphasizing the inescapability of bad fate, akin to 'even ghosts can't escape the nail of misfortune'."
+  ],
+  "note": "The expression highlights the inevitability of misfortune in Bengali cultural worldview."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "7603",
+  "idiom": "বামুন ঠাকুর",
+  "alternative_idioms": [
+    "বামণ ঠাকুর",
+    "ঠাকুর"
+  ],
+  "literal_meaning": "ব্রাহ্মণ রাঁধুনি (Brahmin cook)",
+  "figurative_meaning_bn": "পাচক ব্রাহ্মণ",
+  "figurative_meaning_en": "A Brahmin who works as a cook",
+  "similar_in_english": [
+    "A priest turned handyman",
+    "Fallen nobility doing menial labor"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এখন বামুন ঠাকুরের মতো কাজ করে।",
+    "বাড়িতে একজন বামুন ঠাকুর নিয়োগ করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He now works like a Brahmin cook, doing lowly tasks.",
+    "They hired a Brahmin cook for the household."
+  ],
+  "usage_domain": [
+    "caste system",
+    "occupation",
+    "sarcasm"
+  ],
+  "tags": [
+    "ব্রাহ্মণ",
+    "রাঁধুনি",
+    "জাতিভেদ",
+    "হাস্যরস"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to traditional Bengali Hindu households where Brahmins occasionally took up cooking roles, challenging caste norms."
+  ],
+  "note": "The term 'ঠাকুর' alone can also imply the same meaning in context."
+}

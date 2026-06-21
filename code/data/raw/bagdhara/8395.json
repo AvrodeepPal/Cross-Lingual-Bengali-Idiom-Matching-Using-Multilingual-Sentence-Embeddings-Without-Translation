@@ -1,0 +1,40 @@
+{
+  "id": "8395",
+  "idiom": "মাকড় মারলে ধোকড় হয়",
+  "alternative_idioms": [],
+  "literal_meaning": "মাকড়সা মারলে ধোকড় হয় (কুমীরের মতো বড় পাপ বা দোষে পরিণত হয়)",
+  "figurative_meaning_bn": "অন্য দোষ করলে মহাদোষ, নিজে দোষ করলে দোষ নয়; একপেশে বিচার, স্বার্থের কারণে বিধিব্যবস্থা উল্টায়",
+  "figurative_meaning_en": "A fault committed by others is considered a grave sin, but the same by oneself is no fault at all; biased judgment where laws are twisted for self-interest",
+  "similar_in_english": [
+    "Pot calling the kettle black",
+    "One man's meat is another man's poison",
+    "Double standards"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অন্যের ছোটখাটো ভুল দেখে চিৎকার করে, কিন্তু নিজের একই ভুল মাকড় মারলে ধোকড় হয় বলে উড়িয়ে দেয়।",
+    "প্রতিবেশীর ছেলে দেরি করলে তিরস্কার, কিন্তু নিজের ছেলের ক্ষেত্রে মাকড় মারলে ধোকড় হয় মনে করে ক্ষমা করে।"
+  ],
+  "example_sentences_in_english": [
+    "He scolds others for minor errors but brushes off his own as if killing a spider turns it into a dhokor.",
+    "The neighbor's son is reprimanded for being late, but his own is excused under the idiom of a spider killing becoming a dhokor."
+  ],
+  "usage_domain": [
+    "Ethics",
+    "Social Judgment",
+    "Hypocrisy"
+  ],
+  "tags": [
+    "bias",
+    "double standard",
+    "self-interest",
+    "partiality"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from traditional Bengali views on sin and justice, emphasizing moral inconsistency."
+}

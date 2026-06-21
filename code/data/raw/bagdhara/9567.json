@@ -1,0 +1,39 @@
+{
+  "id": "9567",
+  "idiom": "সংসার চালানো",
+  "alternative_idioms": [],
+  "literal_meaning": "পরিবার বা ঘরের কাজ চালানো",
+  "figurative_meaning_bn": "পুরুষের দৈনন্দিন জীবন নির্বাহ করা",
+  "figurative_meaning_en": "Managing a man's daily life and family responsibilities",
+  "similar_in_english": [
+    "Bring home the bacon",
+    "Keep the home fires burning"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি সকাল থেকে রাত পর্যন্ত কাজ করে সংসার চালান।",
+    "এই বয়সে সংসার চালানো খুব কঠিন হয়ে পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He works from morning till night to run the household.",
+    "Running the family has become very difficult at this age."
+  ],
+  "usage_domain": [
+    "Family",
+    "Daily life",
+    "Economy"
+  ],
+  "tags": [
+    "household management",
+    "family responsibility",
+    "gender roles",
+    "livelihood"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies traditional gender roles where men are primary providers in Bengali society."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "5007",
+  "idiom": "টোকাটুকি",
+  "alternative_idioms": [],
+  "literal_meaning": "চোখ টিপে টিপে দেখা বা নকল করা (peeking or copying by glancing)",
+  "figurative_meaning_bn": "পরীক্ষায় নকল করা",
+  "figurative_meaning_en": "Cheating or copying in an exam",
+  "similar_in_english": [
+    "Copying off someone",
+    "Cribbing during a test"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় টোকাটুকি করে সে ভালো নম্বর পেয়েছে।",
+    "শিক্ষক টোকাটুকি ধরে ফেলেছেন।"
+  ],
+  "example_sentences_in_english": [
+    "He got good marks by tokatuki in the exam.",
+    "The teacher caught him doing tokatuki."
+  ],
+  "usage_domain": [
+    "Education",
+    "Examinations"
+  ],
+  "tags": [
+    "cheating",
+    "copying",
+    "exam",
+    "school"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in student contexts to describe sneaky copying methods."
+}

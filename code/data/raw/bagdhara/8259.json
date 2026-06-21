@@ -1,0 +1,40 @@
+{
+  "id": "8259",
+  "idiom": "মন দেওয়া",
+  "alternative_idioms": [
+    "মন লাগানো"
+  ],
+  "literal_meaning": "মন দেওয়া (mind to give)",
+  "figurative_meaning_bn": "মনোনিবেশ করা, মনোযোগ দেওয়া",
+  "figurative_meaning_en": "to concentrate, to pay attention",
+  "similar_in_english": [
+    "pay attention",
+    "give one's mind to something"
+  ],
+  "example_sentences_in_bangla": [
+    "পূজা শেষ, এবার পড়ায় মন দাও।",
+    "কাজে মন দিয়ে বসো, তাহলে ভালো হবে।"
+  ],
+  "example_sentences_in_english": [
+    "The puja is over, now pay attention to your studies.",
+    "Focus on your work, and it will turn out well."
+  ],
+  "usage_domain": [
+    "education",
+    "daily life",
+    "work"
+  ],
+  "tags": [
+    "attention",
+    "concentration",
+    "focus"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Common idiom in everyday Bengali speech for emphasizing focus."
+}

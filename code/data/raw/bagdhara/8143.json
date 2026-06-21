@@ -1,0 +1,38 @@
+{
+  "id": "8143",
+  "idiom": "ভেড়ার ভেড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ভেড়ার ভেড়া (sheep's sheep)",
+  "figurative_meaning_bn": "মহা-কাপুরুষ",
+  "figurative_meaning_en": "extreme coward",
+  "similar_in_english": [
+    "chicken",
+    "scaredy-cat",
+    "yellow-bellied"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ভেড়ার ভেড়া, সামান্য শব্দেই ভয়ে কাঁপে।",
+    "যুদ্ধের সময় সে ভেড়ার ভেড়ার মতো পালিয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He is a sheep's sheep, trembling in fear at the slightest noise.",
+    "During the fight, he ran away like a sheep's sheep."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insulting descriptions"
+  ],
+  "tags": [
+    "cowardice",
+    "animal metaphor",
+    "derogatory"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses sheep as a symbol of timidity, common in agrarian Bengali contexts."
+}

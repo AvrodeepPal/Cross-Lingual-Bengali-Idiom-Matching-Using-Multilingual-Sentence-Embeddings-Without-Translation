@@ -1,0 +1,41 @@
+{
+  "id": "958",
+  "idiom": "একখাপে দুই তরোয়াল",
+  "alternative_idioms": [
+    "এক আকাশে দুই সূর্য",
+    "একবনে দুই বাঘ"
+  ],
+  "literal_meaning": "একটি খাপে দুটি তরোয়াল",
+  "figurative_meaning_bn": "দুই প্রবলশক্তির পাশাপাশি থাকা, যা সম্ভব নয়",
+  "figurative_meaning_en": "The coexistence of two powerful forces side by side, which is impossible",
+  "similar_in_english": [
+    "One mountain cannot hold two tigers",
+    "Two suns cannot shine in the same sky"
+  ],
+  "example_sentences_in_bangla": [
+    "একখাপে দুই তরোয়াল রাখা যায় না, তেমনি একটি পরিবারে দুই স্বামী থাকতে পারে না।",
+    "দুই প্রতিদ্বন্দ্বী নেতা একই দলে থাকলে একখাপে দুই তরোয়ালের মতো অসম্ভব।"
+  ],
+  "example_sentences_in_english": [
+    "You can't put two swords in one scabbard, just like two kings can't rule the same kingdom.",
+    "Two rival leaders in the same team is like trying to fit two swords in one scabbard—impossible."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Rivalry",
+    "Conflict"
+  ],
+  "tags": [
+    "Impossibility",
+    "Power struggle",
+    "Figurative expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from traditional imagery of weaponry and power dynamics in Bengali folklore."
+}

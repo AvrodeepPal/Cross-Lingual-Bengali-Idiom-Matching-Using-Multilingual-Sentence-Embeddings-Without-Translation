@@ -1,0 +1,37 @@
+{
+  "id": "3757",
+  "idiom": "চলাচল",
+  "alternative_idioms": [],
+  "literal_meaning": "চলা এবং চলমান অবস্থা (movement and ongoing motion)",
+  "figurative_meaning_bn": "যাতায়াত",
+  "figurative_meaning_en": "travel or commute",
+  "similar_in_english": [
+    "traffic",
+    "on the move"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ বৃষ্টির কারণে চলাচল বিঘ্নিত হয়েছে।",
+    "শহরে চলাচলের জন্য মেট্রো ট্রেন সবচেয়ে ভালো।"
+  ],
+  "example_sentences_in_english": [
+    "Due to rain today, the commute has been disrupted.",
+    "The metro train is the best for traffic in the city."
+  ],
+  "usage_domain": [
+    "transportation",
+    "daily life"
+  ],
+  "tags": [
+    "traffic",
+    "movement",
+    "travel"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This term is commonly used in urban contexts to refer to vehicular or pedestrian movement, often in news or daily conversations about disruptions."
+}

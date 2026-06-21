@@ -1,0 +1,37 @@
+{
+  "id": "7332",
+  "idiom": "বর্ণপরিচয়",
+  "alternative_idioms": [],
+  "literal_meaning": "অক্ষর বা বর্ণের পরিচয়",
+  "figurative_meaning_bn": "অক্ষর পরিচয়, প্রাথমিক জ্ঞান",
+  "figurative_meaning_en": "Recognition of letters, basic or elementary knowledge",
+  "similar_in_english": [
+    "Know one's ABCs",
+    "Back to basics"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বর্ণপরিচয় এখনও হয়নি, তাই জটিল বিষয় বুঝতে পারবে না।",
+    "প্রথমে বর্ণপরিচয় দাও, তারপর উন্নত পাঠ।"
+  ],
+  "example_sentences_in_english": [
+    "He hasn't even learned the ABCs yet, so he can't understand complex topics.",
+    "First, teach the basics, then advanced lessons."
+  ],
+  "usage_domain": [
+    "Education",
+    "Learning"
+  ],
+  "tags": [
+    "basics",
+    "literacy",
+    "elementary knowledge"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to foundational literacy in Bengali education"
+}

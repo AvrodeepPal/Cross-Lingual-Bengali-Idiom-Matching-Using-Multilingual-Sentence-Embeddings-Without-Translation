@@ -1,0 +1,40 @@
+{
+  "id": "6525",
+  "idiom": "পগার পার হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ফেরি বা নৌকায় নদী বা পারাপার স্থান অতিক্রম করা",
+  "figurative_meaning_bn": "নাগালের/সীমার বাইরে চলে যাওয়া; পলায়ন করা; হাতছাড়া হওয়া",
+  "figurative_meaning_en": "To go beyond reach or limits; to flee; to slip away",
+  "similar_in_english": [
+    "give someone the slip",
+    "slip through one's fingers"
+  ],
+  "example_sentences_in_bangla": [
+    "চোরটি পুলিশ দেখে পগার পার হয়ে পালিয়ে গেল।",
+    "সময় পগার পার হয়ে গেছে, এখন আর ফিরে আসবে না।"
+  ],
+  "example_sentences_in_english": [
+    "The thief slipped away across the ferry before the police could catch him.",
+    "The opportunity has slipped away; it won't come back now."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "narrative",
+    "crime context"
+  ],
+  "tags": [
+    "escape",
+    "evasion",
+    "fleeting"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from Bengal's riverine geography where ferries (pagar) were essential for crossing rivers, often used metaphorically for evasion in a region with numerous waterways."
+  ],
+  "note": "Rooted in everyday rural life involving boat crossings."
+}

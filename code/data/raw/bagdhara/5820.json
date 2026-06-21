@@ -1,0 +1,38 @@
+{
+  "id": "5820",
+  "idiom": "দিনে ডাকাতি",
+  "alternative_idioms": [],
+  "literal_meaning": "দিনের বেলায় ডাকাতি (daytime robbery)",
+  "figurative_meaning_bn": "অত্যন্ত দুঃসাহসী কুকর্ম; জ্ঞাতসারে বা প্রকাশ্যে প্রতারণা",
+  "figurative_meaning_en": "Extremely audacious misdeed; open or blatant deception or fraud",
+  "similar_in_english": [
+    "daylight robbery"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসায়ীরা দিনে ডাকাতি করছে।",
+    "এই দাম তো সরাসরি দিনে ডাকাতি!"
+  ],
+  "example_sentences_in_english": [
+    "The businessmen are committing daylight robbery.",
+    "This price is outright daylight robbery!"
+  ],
+  "usage_domain": [
+    "business",
+    "everyday complaints",
+    "fraud"
+  ],
+  "tags": [
+    "deception",
+    "audacity",
+    "cheating",
+    "market"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the contrast of robbery typically occurring at night, emphasizing boldness in broad daylight."
+}

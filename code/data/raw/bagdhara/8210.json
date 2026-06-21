@@ -1,0 +1,45 @@
+{
+  "id": "8210",
+  "idiom": "মটকা খালি",
+  "alternative_idioms": [
+    "ঘটে বুদ্ধি নাই",
+    "ঘিলুহীন খুলি",
+    "মগজ খালি",
+    "মগজে শাঁস নেই",
+    "মাথায় গোবর পোড়া"
+  ],
+  "literal_meaning": "খালি মাটির পাত্র (empty earthen pot)",
+  "figurative_meaning_bn": "নির্বোধ, বুদ্ধিহীন",
+  "figurative_meaning_en": "Foolish, lacking intelligence",
+  "similar_in_english": [
+    "Empty-headed",
+    "Birdbrain",
+    "Not the sharpest tool in the shed"
+  ],
+  "example_sentences_in_bangla": [
+    "সে মটকা খালি, কোনো কাজের বুদ্ধি নেই।",
+    "এই মটকা খালি লোকের সাথে কথা বললে সময় নষ্ট হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He is empty-headed, with no practical intelligence.",
+    "Talking to this empty-headed person is a waste of time."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation",
+    "insulting remarks"
+  ],
+  "tags": [
+    "foolishness",
+    "intelligence",
+    "rural expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the traditional use of earthen pots in Bengali households, implying a mind as empty as an unused pot."
+}

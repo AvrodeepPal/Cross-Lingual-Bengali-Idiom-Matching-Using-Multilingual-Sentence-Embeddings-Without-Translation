@@ -1,0 +1,41 @@
+{
+  "id": "2336",
+  "idiom": "কেউকেটা",
+  "alternative_idioms": [],
+  "literal_meaning": "কেউ (someone) + কেটা (diminutive or cut-off, implying small or insignificant)",
+  "figurative_meaning_bn": "নগণ্য/সামান্য ব্যক্তি; যেমন-তেমন; যে-সে; হেয় করবার মত",
+  "figurative_meaning_en": "Insignificant or trivial person; mediocre or average; any ordinary person; someone worthy of contempt",
+  "similar_in_english": [
+    "small fry",
+    "nobody",
+    "Joe Schmoe",
+    "peon"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কেউকেটা লোক, তার উপর ভরসা করা উচিত নয়।",
+    "এই কাজটা কোনো কেউকেটা করতে পারে, বিশেষ কিছু নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He's just a nobody, you shouldn't rely on him.",
+    "This task can be done by any small fry; it's nothing special."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "social commentary",
+    "everyday conversation"
+  ],
+  "tags": [
+    "derogatory",
+    "insignificance",
+    "social hierarchy",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali colloquial disdain for mediocrity and is often used in informal settings to belittle someone's importance."
+}

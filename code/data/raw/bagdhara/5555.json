@@ -1,0 +1,42 @@
+{
+  "id": "5555",
+  "idiom": "ত্রুটি বিচ্যুতি",
+  "alternative_idioms": [
+    "ভুলচুক",
+    "ভুলভ্রান্তি"
+  ],
+  "literal_meaning": "ত্রুটি (error/fault) বিচ্যুতি (deviation/displacement)",
+  "figurative_meaning_bn": "নানাপ্রকার স্খলন বা ভুল",
+  "figurative_meaning_en": "Various kinds of errors or slips",
+  "similar_in_english": [
+    "slip-ups",
+    "errors and omissions"
+  ],
+  "example_sentences_in_bangla": [
+    "তার প্রতিবেদনে ত্রুটি বিচ্যুতি দেখা গেছে।",
+    "দৈনন্দিন কাজে ত্রুটি বিচ্যুতি এড়ানো উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "Errors and deviations were found in his report.",
+    "One should avoid errors and slips in daily work."
+  ],
+  "usage_domain": [
+    "language",
+    "writing",
+    "general conversation"
+  ],
+  "tags": [
+    "synonym pair",
+    "mistake",
+    "error",
+    "formal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a synonymous compound word used in literary and formal Bengali contexts."
+}

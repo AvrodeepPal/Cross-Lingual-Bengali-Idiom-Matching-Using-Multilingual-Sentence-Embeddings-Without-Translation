@@ -1,0 +1,39 @@
+{
+  "id": "407",
+  "idiom": "আগুন লাগা",
+  "alternative_idioms": [],
+  "literal_meaning": "আগুন ধরা বা আগুন লাগানো (catching fire or setting fire)",
+  "figurative_meaning_bn": "অতি দুর্মূল্য হওয়া",
+  "figurative_meaning_en": "To become extremely expensive",
+  "similar_in_english": [
+    "Prices through the roof",
+    "Skyrocketing prices"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বছর চালের দামে আগুন লেগেছে, কিনতে গিয়ে দেখলাম দ্বিগুণ হয়েছে।",
+    "পেট্রোলের দামে আগুন লাগার পর যাতায়াত খরচ বেড়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "This year, rice prices have skyrocketed; when I went to buy, I saw they had doubled.",
+    "After petrol prices went through the roof, commuting costs have increased."
+  ],
+  "usage_domain": [
+    "Economics",
+    "Daily Life",
+    "Commerce"
+  ],
+  "tags": [
+    "price",
+    "expensive",
+    "market",
+    "inflation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in the context of 'বাজারে আগুন লাগা' to emphasize market price surges."
+}

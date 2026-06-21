@@ -1,0 +1,36 @@
+{
+  "id": "6631",
+  "idiom": "পরভোজী",
+  "alternative_idioms": [],
+  "literal_meaning": "পর (অন্যের) + ভোজী (ভোজনকারী বা খাদক); অর্থাৎ অন্যের উপর নির্ভরশীল খাদক",
+  "figurative_meaning_bn": "উদ্ভিদ ব্যতীত সকল জীব যারা নিজেদের খাদ্য উৎপাদন করতে পারে না",
+  "figurative_meaning_en": "All organisms except plants that cannot produce their own food",
+  "similar_in_english": [
+    "heterotroph"
+  ],
+  "example_sentences_in_bangla": [
+    "মানুষ একটি পরভোজী জীব, যা উদ্ভিদের উপর নির্ভর করে খাদ্য পায়।",
+    "পরভোজী প্রাণীরা তাদের শক্তির জন্য অন্যান্য জীবের উপর আশ্রিত থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "Humans are heterotrophic organisms that rely on plants for food.",
+    "Heterotrophs depend on other organisms for their energy needs."
+  ],
+  "usage_domain": [
+    "biology",
+    "science"
+  ],
+  "tags": [
+    "জীববিজ্ঞান",
+    "প্রকৃতি",
+    "খাদ্যশৃঙ্খলা"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি ঐতিহ্যবাহী বাগধারার চেয়ে বৈজ্ঞানিক শব্দবন্ধের মতো বেশি ব্যবহৃত হয়, সংস্কৃত-উদ্ভূত।"
+}

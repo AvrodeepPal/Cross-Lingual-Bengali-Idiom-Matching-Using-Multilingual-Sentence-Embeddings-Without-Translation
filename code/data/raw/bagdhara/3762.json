@@ -1,0 +1,41 @@
+{
+  "id": "3762",
+  "idiom": "চলাফেরা",
+  "alternative_idioms": [
+    "আনাগোনা",
+    "ঘোরাফেরা",
+    "হাঁটাচলা"
+  ],
+  "literal_meaning": "চলা (walking/moving) এবং ফেরা (turning/returning)",
+  "figurative_meaning_bn": "যাওয়া-আসা",
+  "figurative_meaning_en": "coming and going; to and fro movement",
+  "similar_in_english": [
+    "coming and going",
+    "back and forth"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পথেই আমার চলাফেরা হয়।",
+    "বাড়িতে আজকাল চলাফেরা বেড়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "I come and go on this path only.",
+    "There's been a lot of coming and going in the house lately."
+  ],
+  "usage_domain": [
+    "daily life",
+    "conversation"
+  ],
+  "tags": [
+    "movement",
+    "routine",
+    "activity"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Common expression in everyday Bengali speech reflecting routine mobility."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4485",
+  "idiom": "জন্ম-এয়োতি",
+  "alternative_idioms": [
+    "এয়োস্ত্রী"
+  ],
+  "literal_meaning": "জন্ম থেকে বাঁধা নারী",
+  "figurative_meaning_bn": "চিরসধবা নারী; মৃত্যুপর্যন্ত যার স্বামী জীবিত থাকে",
+  "figurative_meaning_en": "An eternally devoted wife; a woman whose husband remains alive until her death",
+  "similar_in_english": [
+    "Till death do us part (in marital vows)"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা জন্ম-এয়োতি ছিলেন, স্বামীর মৃত্যুর আগে কখনো বিধবা হয়নি।",
+    "গ্রামের এই ঐতিহ্যে জন্ম-এয়োতি নারীদের সম্মান করা হয়।"
+  ],
+  "example_sentences_in_english": [
+    "She was a janma-eyoti, never becoming a widow before her husband's death.",
+    "In village traditions, women who are janma-eyoti are highly respected."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Family",
+    "Gender roles"
+  ],
+  "tags": [
+    "cultural",
+    "traditional",
+    "feminine virtue",
+    "archaic"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Rooted in Hindu concepts of pativrata (devoted wife) from ancient Bengali folklore and scriptures."
+  ],
+  "note": "This term is archaic and reflects traditional ideals of marital fidelity in Bengali culture."
+}

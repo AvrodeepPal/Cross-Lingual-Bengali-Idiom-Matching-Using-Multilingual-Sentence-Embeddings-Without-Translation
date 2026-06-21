@@ -1,0 +1,38 @@
+{
+  "id": "6698",
+  "idiom": "পাকা",
+  "alternative_idioms": [],
+  "literal_meaning": "পাকা (ripe, mature, or firm)",
+  "figurative_meaning_bn": "নিন্দার্থে দষ্টু/পরিণত হওয়া",
+  "figurative_meaning_en": "to become naughty or sly (in a derogatory sense)",
+  "similar_in_english": [
+    "to go bad",
+    "to become a handful"
+  ],
+  "example_sentences_in_bangla": [
+    "ছেলেটা বড়ো পেকেছে।",
+    "এই বয়সে এত পেকে যাওয়া ঠিক নয়।"
+  ],
+  "example_sentences_in_english": [
+    "The boy has become quite naughty.",
+    "It's not right to become so sly at this age."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "family",
+    "parenting"
+  ],
+  "tags": [
+    "pejorative",
+    "maturity",
+    "agricultural metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from the ripening process of fruits, implying over-maturity leading to spoilage or mischief in human behavior."
+}

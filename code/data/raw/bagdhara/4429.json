@@ -1,0 +1,40 @@
+{
+  "id": "4429",
+  "idiom": "ছোটলোক",
+  "alternative_idioms": [],
+  "literal_meaning": "ছোট মানুষ (small person)",
+  "figurative_meaning_bn": "অভদ্র ব্যক্তি; নীচু জাত; হীন মানসিকতার লোক; সঙ্কীর্ণ চেতা",
+  "figurative_meaning_en": "vulgar or uncultured person; low-born individual; person with inferior mentality; narrow-minded person",
+  "similar_in_english": [
+    "small-minded person",
+    "petty individual",
+    "lowbrow"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ছোটলোকের মতো কথা বলে, কারো প্রতি সম্মান দেখায় না।",
+    "এই ছোটলোকের চিন্তাভাবনা আমাদের সমাজের জন্য ক্ষতিকর।"
+  ],
+  "example_sentences_in_english": [
+    "He speaks like a petty person and shows no respect to anyone.",
+    "This narrow-minded individual's thoughts are harmful to our society."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "everyday conversation",
+    "character description"
+  ],
+  "tags": [
+    "insult",
+    "social class",
+    "mentality",
+    "behavior"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects traditional Bengali views on social hierarchy and etiquette."
+}

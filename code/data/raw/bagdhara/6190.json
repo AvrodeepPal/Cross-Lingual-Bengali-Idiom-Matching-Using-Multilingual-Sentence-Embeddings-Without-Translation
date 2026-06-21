@@ -1,0 +1,41 @@
+{
+  "id": "6190",
+  "idiom": "নদের চাঁদ",
+  "alternative_idioms": [
+    "নদের গোরাচাঁদ"
+  ],
+  "literal_meaning": "নদীর চাঁদ (river's moon)",
+  "figurative_meaning_bn": "বিদ্রুপে সর্বপ্রধান ব্যক্তি",
+  "figurative_meaning_en": "sarcastically, the most prominent person",
+  "similar_in_english": [
+    "big fish in a small pond",
+    "head honcho in a backwater"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের সভায় সে নিজেকে নদের চাঁদ ভাবে।",
+    "অফিসের এই ছোটখাটো কাজে তুমি নদের চাঁদ হয়ে গেলে কী হবে?"
+  ],
+  "example_sentences_in_english": [
+    "In the village meeting, he considers himself the moon of the river.",
+    "What does it matter if you become the moon of the river in this small office job?"
+  ],
+  "usage_domain": [
+    "conversational",
+    "sarcasm",
+    "social commentary"
+  ],
+  "tags": [
+    "বিদ্রুপ",
+    "নেতৃত্ব",
+    "প্রতিপাদ্য",
+    "প্রকৃতি-সম্পর্কিত"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom uses river imagery common in Bengali folklore to mock inflated self-importance in limited contexts."
+}

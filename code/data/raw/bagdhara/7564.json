@@ -1,0 +1,42 @@
+{
+  "id": "7564",
+  "idiom": "বানিয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ব্যবসায়ী বা বণিক (merchant or trader, referring to the Bania caste)",
+  "figurative_meaning_bn": "মন্দার্থে- প্রবল ব্যবসায়ীবুদ্ধিসম্পন্ন লোক, লাভ লোকসান সম্পর্কে মাত্রাতিরিক্ত সতর্ক লোক",
+  "figurative_meaning_en": "In a negative sense - a shrewd, business-savvy person who is excessively cautious about profit and loss",
+  "similar_in_english": [
+    "shrewd operator",
+    "penny-pincher",
+    "cunning merchant"
+  ],
+  "example_sentences_in_bangla": [
+    "সে লাভের ব্যাপারে একটা বানিয়া।",
+    "ব্যবসায়ে তার মতো বানিয়া আর কেউ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He's a real Bania when it comes to making a profit.",
+    "No one is as shrewd a businessman as him in deals."
+  ],
+  "usage_domain": [
+    "business",
+    "commerce",
+    "everyday conversation"
+  ],
+  "tags": [
+    "negative",
+    "shrewdness",
+    "caution",
+    "mercantile"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the Bania community, a traditional merchant caste in Indian society with roots in ancient trade practices and Hindu varna system."
+  ],
+  "note": "The term carries a pejorative connotation in modern usage, stereotyping merchants as overly calculating."
+}

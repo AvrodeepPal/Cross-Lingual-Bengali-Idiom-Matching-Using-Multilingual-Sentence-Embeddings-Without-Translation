@@ -1,0 +1,41 @@
+{
+  "id": "4961",
+  "idiom": "টুকটাক",
+  "alternative_idioms": [
+    "টুকিটাকি"
+  ],
+  "literal_meaning": "ছোট ছোট টুকরো বা অংশসমূহ",
+  "figurative_meaning_bn": "অল্প, সামান্য, হালকা",
+  "figurative_meaning_en": "small, insignificant, trivial",
+  "similar_in_english": [
+    "bits and pieces",
+    "small potatoes",
+    "petty details"
+  ],
+  "example_sentences_in_bangla": [
+    "টুকটাক কাজগুলো শেষ করে নাও।",
+    "এটা টুকটাক খরচের ব্যাপার।"
+  ],
+  "example_sentences_in_english": [
+    "Finish up those bits and pieces of work.",
+    "This is just a matter of petty expenses."
+  ],
+  "usage_domain": [
+    "daily life",
+    "commerce",
+    "conversation"
+  ],
+  "tags": [
+    "quantity",
+    "minimization",
+    "informal"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used in everyday Bengali speech to downplay minor matters, reflecting practical cultural attitudes towards small-scale activities."
+}

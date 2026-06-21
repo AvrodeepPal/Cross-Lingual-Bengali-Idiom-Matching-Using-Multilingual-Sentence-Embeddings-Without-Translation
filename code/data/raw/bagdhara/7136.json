@@ -1,0 +1,42 @@
+{
+  "id": "7136",
+  "idiom": "ফি-রোজ",
+  "alternative_idioms": [
+    "ফি-সাল"
+  ],
+  "literal_meaning": "প্রতি দিন / প্রতি বছর",
+  "figurative_meaning_bn": "প্রতিদিন, প্রতি বছর",
+  "figurative_meaning_en": "every day, every year",
+  "similar_in_english": [
+    "day in, day out",
+    "year after year"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কাজটি ফি-রোজ অনেক সময় নেয়।",
+    "তার বেতন ফি-সাল হিসেবে নির্ধারিত।"
+  ],
+  "example_sentences_in_english": [
+    "This job takes a lot of time every day.",
+    "His salary is determined annually."
+  ],
+  "usage_domain": [
+    "time",
+    "frequency",
+    "finance"
+  ],
+  "tags": [
+    "loanword",
+    "persian influence",
+    "everyday language"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Persian/Urdu terms 'fi roz' (per day) and 'fi sal' (per year), incorporated into Bengali during the medieval period under Muslim influence."
+  ],
+  "note": "These are more adverbial phrases than full idioms, commonly used in spoken and written Bengali for expressing periodicity."
+}

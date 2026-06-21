@@ -1,0 +1,38 @@
+{
+  "id": "4682",
+  "idiom": "জীবদ্দশা",
+  "alternative_idioms": [],
+  "literal_meaning": "জীবনের অবস্থা বা জীবিত অবস্থা",
+  "figurative_meaning_bn": "আয়ুষ্কাল",
+  "figurative_meaning_en": "lifetime",
+  "similar_in_english": [
+    "in one's lifetime",
+    "while alive"
+  ],
+  "example_sentences_in_bangla": [
+    "জীবদ্দশাতেই তিনি যশস্বী হয়েছিলেন।",
+    "আমার জীবদ্দশায় এমন সৌভাগ্য আর হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He became famous during his lifetime.",
+    "I won't have such luck again in my lifetime."
+  ],
+  "usage_domain": [
+    "everyday language",
+    "literature",
+    "formal speech"
+  ],
+  "tags": [
+    "time",
+    "life",
+    "duration"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the span of one's life, often used to emphasize events occurring while still alive."
+}

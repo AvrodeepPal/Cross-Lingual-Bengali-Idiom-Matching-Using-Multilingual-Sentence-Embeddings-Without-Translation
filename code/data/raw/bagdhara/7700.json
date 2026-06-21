@@ -1,0 +1,43 @@
+{
+  "id": "7700",
+  "idiom": "বিপদআপদ",
+  "alternative_idioms": [
+    "আপদ-বালাই",
+    "ঝড়ঝাপটা"
+  ],
+  "literal_meaning": "বিপদ (danger/misfortune) এবং আপদ (calamity/disaster)",
+  "figurative_meaning_bn": "ঝুট-ঝঞ্ঝাট/ঝামেলা, দুঃখ দুর্দশা, বাধাবিপত্তি",
+  "figurative_meaning_en": "troubles and turmoils, sorrow and misery, obstacles and adversities",
+  "similar_in_english": [
+    "trials and tribulations",
+    "ups and downs",
+    "hard times"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবনে বিপদআপদের মতো অনেক কষ্ট এসেছে।",
+    "বন্ধুরা বিপদআপদে পাশে থাকলে সবকিছু সহজ হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He has faced many troubles and turmoils in his life.",
+    "Friends should stand by during times of danger and calamity."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature",
+    "adversity contexts"
+  ],
+  "tags": [
+    "misfortune",
+    "hardship",
+    "obstacles",
+    "troubles"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes solidarity in difficult times, a common theme in Bengali folklore and proverbs."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6075",
+  "idiom": "ধারে ডোবা",
+  "alternative_idioms": [],
+  "literal_meaning": "ধারে (ঋণে) ডোবা (ডুবে যাওয়া)",
+  "figurative_meaning_bn": "প্রচুর দেনায় জড়িয়ে পড়া",
+  "figurative_meaning_en": "To get deeply entangled in heavy debt",
+  "similar_in_english": [
+    "Drowning in debt",
+    "In deep water financially"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসায়িক ক্ষতির কারণে সে ধারে ডোবা হয়ে গেছে।",
+    "পুরনো ঋণের চাপে তার পরিবার ধারে ডোবা অবস্থায় পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Due to business losses, he has drowned in debt.",
+    "His family has fallen into a state of drowning in debt under the pressure of old loans."
+  ],
+  "usage_domain": [
+    "finance",
+    "economy",
+    "daily life"
+  ],
+  "tags": [
+    "debt",
+    "financial distress",
+    "proverbial expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly uses the metaphor of drowning to express overwhelming financial burden, common in Bengali colloquial speech."
+}

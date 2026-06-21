@@ -1,0 +1,41 @@
+{
+  "id": "5827",
+  "idiom": "দিব্বি",
+  "alternative_idioms": [],
+  "literal_meaning": "দিব্য শপথ বা দেবতার নামে প্রতিজ্ঞা",
+  "figurative_meaning_bn": "কিরা, প্রতিজ্ঞা",
+  "figurative_meaning_en": "oath, vow, solemn promise",
+  "similar_in_english": [
+    "I swear",
+    "Cross my heart",
+    "Upon my honor"
+  ],
+  "example_sentences_in_bangla": [
+    "দিব্বি করছি, আমি সত্যি বলছি।",
+    "তুমি যদি না বিশ্বাস করো, তাহলে দিব্বি খেয়ে বলো।"
+  ],
+  "example_sentences_in_english": [
+    "I swear, I'm telling the truth.",
+    "If you don't believe me, swear on it."
+  ],
+  "usage_domain": [
+    "conversational",
+    "informal promises"
+  ],
+  "tags": [
+    "oath",
+    "vow",
+    "swear",
+    "promise"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from invoking divine entities in colloquial Bengali speech for emphasis in promises."
+  ],
+  "note": "Often used in spoken language to add solemnity to assurances."
+}

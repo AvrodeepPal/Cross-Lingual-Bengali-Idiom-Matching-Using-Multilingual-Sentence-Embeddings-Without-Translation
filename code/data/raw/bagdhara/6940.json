@@ -1,0 +1,37 @@
+{
+  "id": "6940",
+  "idiom": "পেট চিনচিন করা",
+  "alternative_idioms": [],
+  "literal_meaning": "পেটে চিনচিনে অনুভূতি হওয়া (stomach feeling a tingling sensation)",
+  "figurative_meaning_bn": "ক্ষুধার উদ্রেকে অন্ত্রাদিতে জ্বালাবোধ",
+  "figurative_meaning_en": "A burning or tingling sensation in the intestines due to hunger",
+  "similar_in_english": [
+    "Stomach growling",
+    "Hunger pangs"
+  ],
+  "example_sentences_in_bangla": [
+    "দুপুর হয়ে গেছে, পেট চিনচিন করছে।",
+    "লম্বা সময় খাবার খাইনি, তাই পেট চিনচিন করতে শুরু করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "It's past noon, and my stomach is starting to tingle with hunger.",
+    "I haven't eaten for a long time, so my stomach is burning with hunger pangs."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Describing physical sensations"
+  ],
+  "tags": [
+    "hunger",
+    "body idiom",
+    "sensation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom captures the physical discomfort of hunger, common in Bengali rural and everyday life."
+}

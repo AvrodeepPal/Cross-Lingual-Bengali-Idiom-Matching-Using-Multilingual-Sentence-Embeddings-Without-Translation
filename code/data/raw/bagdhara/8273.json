@@ -1,0 +1,42 @@
+{
+  "id": "8273",
+  "idiom": "মনভোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "মন যা ভুলে যায় (forgetful mind)",
+  "figurative_meaning_bn": "আত্মবিস্মৃত, কিছু মনে থাকে না এমন",
+  "figurative_meaning_en": "absent-minded, forgetful, someone who doesn't remember things",
+  "similar_in_english": [
+    "absent-minded",
+    "scatterbrained",
+    "forgetful"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এতটাই মনভোলা যে প্রতিদিন অফিসে যাওয়ার সময় চাবি কোথায় রেখেছে ভুলে যায়।",
+    "মনভোলা ব্যক্তির সঙ্গে কোনো গুরুত্বপূর্ণ কাজ করতে বললে সে নিশ্চয়ই ভুলে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "He is so absent-minded that he forgets where he put his keys every day before going to the office.",
+    "Don't assign any important task to that forgetful person; he'll surely mess it up."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "psychology"
+  ],
+  "tags": [
+    "forgetfulness",
+    "mind",
+    "folk reference",
+    "emotional state"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the Bengali folk song 'মনভোলা মাঝি আমি ভাসি নয়ন জলে', which evokes themes of longing and forgetfulness in rural boatman life."
+  ],
+  "note": "Deeply embedded in Bengali folk traditions, often used to describe emotional or mental distraction."
+}

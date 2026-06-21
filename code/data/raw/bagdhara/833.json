@@ -1,0 +1,41 @@
+{
+  "id": "833",
+  "idiom": "উপরি খরচ",
+  "alternative_idioms": [
+    "উপরি ব্যয়"
+  ],
+  "literal_meaning": "অতিরিক্ত বা উপরের খরচ",
+  "figurative_meaning_bn": "অতিরিক্ত ব্যয়",
+  "figurative_meaning_en": "additional or extra expense",
+  "similar_in_english": [
+    "overhead costs",
+    "added expenditure"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বাড়ির নির্মাণে উপরি খরচ অনেক হয়েছে।",
+    "বিজনেসে উপরি খরচ কমানো জরুরি।"
+  ],
+  "example_sentences_in_english": [
+    "The construction of this house incurred a lot of additional expenses.",
+    "Reducing overhead costs is essential in business."
+  ],
+  "usage_domain": [
+    "finance",
+    "business",
+    "daily life"
+  ],
+  "tags": [
+    "expense",
+    "additional",
+    "cost",
+    "economy"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom is commonly used in accounting and financial discussions in Bengali culture."
+}

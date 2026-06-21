@@ -1,0 +1,42 @@
+{
+  "id": "6041",
+  "idiom": "ধস্তাধস্তি",
+  "alternative_idioms": [
+    "হাতাহাতি"
+  ],
+  "literal_meaning": "ধস্তা-ধস্তি (আঘাতের শব্দানুকরণ, পরস্পরের মারামারির শব্দ)",
+  "figurative_meaning_bn": "পরস্পরের প্রতি বলপ্রয়োগ, দলবদ্ধভাবে মারামারি",
+  "figurative_meaning_en": "Mutual use of force, group brawling or scuffle",
+  "similar_in_english": [
+    "come to blows",
+    "fisticuffs",
+    "free-for-all"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় ধস্তাধস্তি শুরু হয়ে গেল।",
+    "দুই দলের মধ্যে ধস্তাধস্তি চলছে।"
+  ],
+  "example_sentences_in_english": [
+    "A scuffle broke out in the meeting.",
+    "There is a brawl going on between the two groups."
+  ],
+  "usage_domain": [
+    "social conflicts",
+    "political meetings",
+    "group disputes"
+  ],
+  "tags": [
+    "violence",
+    "fighting",
+    "brawl",
+    "physical altercation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is onomatopoeic, mimicking the sounds of physical struggle, commonly used in Bengali literature and everyday speech to describe chaotic fights."
+}

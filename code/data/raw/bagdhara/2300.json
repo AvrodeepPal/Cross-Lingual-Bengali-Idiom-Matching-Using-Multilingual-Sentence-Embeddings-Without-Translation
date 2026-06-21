@@ -1,0 +1,42 @@
+{
+  "id": "2300",
+  "idiom": "কূট",
+  "alternative_idioms": [],
+  "literal_meaning": "চাপা বা কাটা (কিন্তু অর্থবৈজ্ঞানিকভাবে মিথ্যা বা জাল)",
+  "figurative_meaning_bn": "কপট; জাল; মিথ্যা",
+  "figurative_meaning_en": "Deceitful; fake; false",
+  "similar_in_english": [
+    "phony",
+    "bogus",
+    "forged"
+  ],
+  "example_sentences_in_bangla": [
+    "এই দলিলটি সম্পূর্ণ কূট।",
+    "তার কূট বক্তব্য কাউকে বিশ্বাস করায় নেই।"
+  ],
+  "example_sentences_in_english": [
+    "This document is completely forged.",
+    "His false statement convinces no one."
+  ],
+  "usage_domain": [
+    "legal",
+    "daily conversation",
+    "literature"
+  ],
+  "tags": [
+    "deception",
+    "falsehood",
+    "lying",
+    "forgery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "উদ্ভূত সংস্কৃত 'কূট' থেকে, যা মিথ্যা বা জাল অর্থে ব্যবহৃত হয়; প্রায়শই ধর্মীয় ও আইনি প্রসঙ্গে যেমন মিথ্যা সাক্ষ্যদান।"
+  ],
+  "note": "প্রায়শই যৌগিক শব্দে ব্যবহৃত যেমন কূটসাক্ষী (false witness)"
+}

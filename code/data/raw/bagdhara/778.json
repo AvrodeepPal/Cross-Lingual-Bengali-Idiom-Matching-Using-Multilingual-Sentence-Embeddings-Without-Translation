@@ -1,0 +1,37 @@
+{
+  "id": "778",
+  "idiom": "উড়নপেকে",
+  "alternative_idioms": [],
+  "literal_meaning": "উড়ন (উড়ে যাওয়া) + পেকে (পাকা বা ফেটে যাওয়া), অর্থাৎ উড়ে যাওয়া পাকা ফলের মতো দ্রুত নষ্ট হয়ে যাওয়া",
+  "figurative_meaning_bn": "অপব্যয়ী",
+  "figurative_meaning_en": "Spendthrift or wasteful person",
+  "similar_in_english": [
+    "Spendthrift",
+    "Money burns a hole in one's pocket"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা উড়নপেকে, টাকা আসার সাথে সাথে উড়ে যায়।",
+    "এই উড়নপেকের কারণে পরিবারের অবস্থা খারাপ হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a spendthrift; his money vanishes as soon as he gets it.",
+    "The family's situation has worsened because of this wasteful person."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Personal Behavior"
+  ],
+  "tags": [
+    "অপব্যয়",
+    "অর্থনৈতিক",
+    "চরিত্র"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই প্রবাদটি বাংলা সংস্কৃতিতে অর্থের অপচয়ের বিরুদ্ধে সতর্কবাণী হিসেবে ব্যবহৃত হয়।"
+}

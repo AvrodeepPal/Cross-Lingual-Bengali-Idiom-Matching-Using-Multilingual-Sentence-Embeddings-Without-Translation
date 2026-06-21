@@ -1,0 +1,38 @@
+{
+  "id": "1572",
+  "idiom": "কবর খোঁড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কবর খোঁড়া (grave digging)",
+  "figurative_meaning_bn": "নিজের ক্ষতি করা",
+  "figurative_meaning_en": "to harm oneself or dig one's own grave",
+  "similar_in_english": [
+    "dig one's own grave",
+    "shoot oneself in the foot"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এই কাজ করে নিজের জন্য কবর খোঁড়া করছে।",
+    "এমন সিদ্ধান্ত নেওয়া মানে নিজের কবর খোঁড়া।"
+  ],
+  "example_sentences_in_english": [
+    "By ignoring the advice, he's digging his own grave.",
+    "That decision is essentially digging your own grave."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "warnings and advice",
+    "self-sabotage"
+  ],
+  "tags": [
+    "negative action",
+    "self-harm",
+    "cautionary"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the universal imagery of death and self-destruction, common in Bengali folklore."
+}

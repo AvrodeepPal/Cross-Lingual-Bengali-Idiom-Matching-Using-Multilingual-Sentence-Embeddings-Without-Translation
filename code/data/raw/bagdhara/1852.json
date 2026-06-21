@@ -1,0 +1,40 @@
+{
+  "id": "1852",
+  "idiom": "কাচুমাচু",
+  "alternative_idioms": [
+    "কাছুমাছু"
+  ],
+  "literal_meaning": "Reduplicative onomatopoeic expression mimicking hesitant or mumbling speech",
+  "figurative_meaning_bn": "লজ্জা ভয় ইত্যাদি জনিত কারণে সংকুচিত ভাব",
+  "figurative_meaning_en": "Hesitant or shy demeanor caused by embarrassment, fear, or similar emotions",
+  "similar_in_english": [
+    "tongue-tied",
+    "bashful expression"
+  ],
+  "example_sentences_in_bangla": [
+    "সে লজ্জায় মুখ কাচুমাচু করে দাঁড়িয়ে রইল।",
+    "কাচুমাচু ভাবে সে প্রশ্নের উত্তর দিল।"
+  ],
+  "example_sentences_in_english": [
+    "She stood there with a bashful expression due to embarrassment.",
+    "He answered the question in a hesitant, shy manner."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation"
+  ],
+  "tags": [
+    "shyness",
+    "hesitation",
+    "reduplicative word",
+    "emotion"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Companion word similar to জড়সড়"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "436",
+  "idiom": "আজ বাদে কাল",
+  "alternative_idioms": [],
+  "literal_meaning": "আজ বাদে কাল (today excluding tomorrow, i.e., the day after tomorrow)",
+  "figurative_meaning_bn": "কয়েকদিন পর; বেশি দেরী নেই; শীঘ্রই",
+  "figurative_meaning_en": "In a few days; not much delay; soon",
+  "similar_in_english": [
+    "Any day now",
+    "In the near future",
+    "Shortly"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষা আজ বাদে কাল, এখন থেকে পড়তে বসো।",
+    "আমরা আজ বাদে কাল বাড়ি যাব, সব প্রস্তুতি করে নাও।"
+  ],
+  "example_sentences_in_english": [
+    "The exam is the day after tomorrow, so start studying now.",
+    "We'll go home the day after tomorrow, get everything ready."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "planning",
+    "time expressions"
+  ],
+  "tags": [
+    "time",
+    "delay",
+    "imminence",
+    "urgency"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the casual, time-oriented speech common in Bengali culture, emphasizing brevity in delays."
+}

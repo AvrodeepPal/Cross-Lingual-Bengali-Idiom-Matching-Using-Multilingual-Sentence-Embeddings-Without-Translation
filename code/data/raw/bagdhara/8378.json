@@ -1,0 +1,41 @@
+{
+  "id": "8378",
+  "idiom": "মসনদ",
+  "alternative_idioms": [],
+  "literal_meaning": "রাজকীয় সিংহাসন বা কর্তৃত্বের আসন",
+  "figurative_meaning_bn": "রাজ সিংহাসন; শোষকের আসন",
+  "figurative_meaning_en": "Royal throne; seat of the oppressor",
+  "similar_in_english": [
+    "The throne",
+    "Seat of power"
+  ],
+  "example_sentences_in_bangla": [
+    "সে মসনদে বসে সবাইকে আদেশ দিত।",
+    "দিল্লীর মসনদ শোষণের প্রতীক হয়ে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He sat on the masnad issuing orders to everyone.",
+    "The masnad of Delhi has become a symbol of oppression."
+  ],
+  "usage_domain": [
+    "Politics",
+    "History",
+    "Authority"
+  ],
+  "tags": [
+    "Power",
+    "Oppression",
+    "Royalty",
+    "Historical"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Refers to the historical throne in Delhi, symbolizing Mughal imperial power and later colonial exploitation."
+  ],
+  "note": "Derived from Persian 'masnad', commonly used in contexts of Indian subcontinental history."
+}

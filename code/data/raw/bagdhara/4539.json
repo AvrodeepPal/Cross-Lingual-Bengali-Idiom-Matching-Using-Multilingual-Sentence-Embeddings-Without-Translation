@@ -1,0 +1,38 @@
+{
+  "id": "4539",
+  "idiom": "জলপান",
+  "alternative_idioms": [],
+  "literal_meaning": "জল পান করা (water drinking)",
+  "figurative_meaning_bn": "অন্ন-ব্যঞ্জনব্যতীত অন্য আহার গ্রহণ",
+  "figurative_meaning_en": "Consuming light snacks or refreshments other than main meals like rice and curry",
+  "similar_in_english": [
+    "having a snack",
+    "light refreshments"
+  ],
+  "example_sentences_in_bangla": [
+    "খাবার শেষ করে সে জলপান করল।",
+    "পার্টিতে জলপানের জন্য চিড়া-দই রাখা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "After the meal, he had some refreshments.",
+    "Snacks like puffed rice and yogurt were served as light fare at the party."
+  ],
+  "usage_domain": [
+    "food",
+    "daily life",
+    "hospitality"
+  ],
+  "tags": [
+    "snack",
+    "bengali cuisine",
+    "informal eating"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional Bengali practice of light eating between meals"
+}

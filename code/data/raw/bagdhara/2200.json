@@ -1,0 +1,40 @@
+{
+  "id": "2200",
+  "idiom": "কিরা",
+  "alternative_idioms": [],
+  "literal_meaning": "শপথ বা কসম (oath or swear)",
+  "figurative_meaning_bn": "দিব্বি; প্রতিজ্ঞা",
+  "figurative_meaning_en": "Swear; Pledge or vow of truthfulness",
+  "similar_in_english": [
+    "I swear to God",
+    "Cross my heart"
+  ],
+  "example_sentences_in_bangla": [
+    "আল্লার কিরা, আমি সত্যি বলছি।",
+    "তুমি কিরা খাও যে ফিরে আসবে।"
+  ],
+  "example_sentences_in_english": [
+    "By Allah, I am telling the truth.",
+    "Swear that you will come back."
+  ],
+  "usage_domain": [
+    "Conversation",
+    "Assurance",
+    "Oaths"
+  ],
+  "tags": [
+    "শপথ",
+    "ধর্মীয়",
+    "সত্যতা নিশ্চিতকরণ"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "উদ্ভূত ইসলামী শপথ গ্রহণের প্রথা থেকে, বিশেষ করে বাংলা মুসলিম সম্প্রদায়ে ব্যবহৃত।"
+  ],
+  "note": "প্রধানত মুসলিম সম্প্রদায়ে প্রচলিত, আল্লাহর নামে সত্যতা প্রমাণের জন্য ব্যবহৃত।"
+}

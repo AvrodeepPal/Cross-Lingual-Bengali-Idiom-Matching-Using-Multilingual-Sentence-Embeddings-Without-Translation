@@ -1,0 +1,40 @@
+{
+  "id": "5972",
+  "idiom": "দোষত্রুটি",
+  "alternative_idioms": [
+    "ভুলত্রুটি"
+  ],
+  "literal_meaning": "দোষ (fault) + ত্রুটি (defect); faults and flaws",
+  "figurative_meaning_bn": "খুঁত, ভুল",
+  "figurative_meaning_en": "defects, mistakes",
+  "similar_in_english": [
+    "flaws and faults",
+    "errors and omissions"
+  ],
+  "example_sentences_in_bangla": [
+    "কোনো মানুষই দোষত্রুটিমুক্ত নয়।",
+    "তার লেখায় কিছু দোষত্রুটি আছে।"
+  ],
+  "example_sentences_in_english": [
+    "No person is free from faults and flaws.",
+    "There are some defects and mistakes in his writing."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "criticism"
+  ],
+  "tags": [
+    "compound word",
+    "synonymous pair",
+    "imperfection"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a synonymous compound word (একার্থক যুগ্মশব্দ) commonly used in Bengali to denote imperfections."
+}

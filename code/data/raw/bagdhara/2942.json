@@ -1,0 +1,38 @@
+{
+  "id": "2942",
+  "idiom": "গমগম",
+  "alternative_idioms": [],
+  "literal_meaning": "গম্ভীর শব্দের অনুকরণমূলক দ্বিত্বশব্দ",
+  "figurative_meaning_bn": "গম্ভীর শব্দব্যঞ্জক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "A reduplicated word evoking a deep, resonant, or grave sound",
+  "similar_in_english": [
+    "resounding with echoes",
+    "filled with a deep hum"
+  ],
+  "example_sentences_in_bangla": [
+    "আসর গমগম করছে।",
+    "পাহাড়ের গুহায় গমগম শব্দ হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "The assembly hall is resounding with deep voices.",
+    "The cave in the mountains echoes with a deep rumble."
+  ],
+  "usage_domain": [
+    "descriptive",
+    "literature",
+    "sound depiction"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "resonant sound",
+    "dubitva shabda"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in Bengali literature to depict echoing or reverberating sounds in large spaces."
+}

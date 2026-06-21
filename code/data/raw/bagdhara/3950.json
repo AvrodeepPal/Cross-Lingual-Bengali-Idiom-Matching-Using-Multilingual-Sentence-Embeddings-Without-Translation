@@ -1,0 +1,41 @@
+{
+  "id": "3950",
+  "idiom": "চীজ",
+  "alternative_idioms": [],
+  "literal_meaning": "চীজ (thing or cheese, but contextually 'thing' in slang)",
+  "figurative_meaning_bn": "প্রশংসার্থে মহার্থ বা মূল্যবান বস্তু বা সামগ্রী",
+  "figurative_meaning_en": "Used in praise for something of great value or a worthy/valuable item",
+  "similar_in_english": [
+    "the real deal",
+    "something special",
+    "top-notch"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা চীজ, কী স্টাইল!",
+    "এই ফোনটা তো সত্যি মহার্থের চীজ।"
+  ],
+  "example_sentences_in_english": [
+    "He's really something, what style!",
+    "This phone is truly a valuable thing."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "praise",
+    "slang"
+  ],
+  "tags": [
+    "positive slang",
+    "value",
+    "admiration"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Borrowed from Hindi/Urdu slang 'cheez', popularized in Bengali through Bollywood influence, especially the song 'Tu Cheez Badi Hai Mast Mast' from the 1994 film Hum."
+  ],
+  "note": "This idiom reflects modern urban slang influenced by Hindi cinema in Bengali-speaking regions."
+}

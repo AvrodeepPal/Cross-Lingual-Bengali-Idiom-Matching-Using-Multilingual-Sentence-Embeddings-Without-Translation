@@ -1,0 +1,50 @@
+{
+  "id": "2101",
+  "idiom": "কারণের আগেই কার্য",
+  "alternative_idioms": [
+    "আম না হতে আমসি",
+    "আমস্বত্ব",
+    "কালনেমির লঙ্কাভাগ",
+    "গাছ না উঠতে এককাঁদি",
+    "গাছে কাঁঠাল গোঁফে তেল",
+    "রাবণের ছাদনাতলা",
+    "রাম না হতেই রামায়ণ",
+    "হবু ছেলের অন্নপ্রাশন"
+  ],
+  "literal_meaning": "কারণের আগেই কার্য (cause-এর আগেই result/action)",
+  "figurative_meaning_bn": "আগাম সুখকল্পনা",
+  "figurative_meaning_en": "Premature anticipation of success or happiness",
+  "similar_in_english": [
+    "Counting one's chickens before they hatch",
+    "Don't sell the skin before you have caught the bear"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরীক্ষার ফল না জেনেই উদযাপনের পরিকল্পনা করছে, এটা কারণের আগেই কার্য।",
+    "ব্যবসা শুরু না করে লাভের স্বপ্ন দেখা কারণের আগেই কার্য।"
+  ],
+  "example_sentences_in_english": [
+    "He's planning a celebration before knowing the exam results; that's acting before the cause.",
+    "Dreaming of profits before starting the business is premature anticipation of success."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "planning and decision-making",
+    "cautionary advice"
+  ],
+  "tags": [
+    "anticipation",
+    "prematurity",
+    "optimism warning",
+    "folksy wisdom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Some alternative idioms reference the Ramayana epic, such as 'রাম না হতেই রামায়ণ' alluding to events before Lord Rama's birth, but the primary idiom lacks direct historical ties."
+  ],
+  "note": "The idiom emphasizes caution against over-optimism, common in Bengali oral traditions."
+}

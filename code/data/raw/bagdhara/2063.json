@@ -1,0 +1,40 @@
+{
+  "id": "2063",
+  "idiom": "কাপ্তান বাবু",
+  "alternative_idioms": [],
+  "literal_meaning": "ক্যাপ্টেন (নৌকাপতি বা সেনাপতি) বাবু (সম্ভ্রান্ত ব্যক্তি বা কর্মচারী)",
+  "figurative_meaning_bn": "অন্তঃসারশূন্য ব্যক্তি",
+  "figurative_meaning_en": "A person lacking substance or depth",
+  "similar_in_english": [
+    "empty suit",
+    "all hat and no cattle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা কাপ্তান বাবু, বাইরে থেকে দেখে বড়লোক মনে হয় কিন্তু কোনো গুণ নেই।",
+    "অফিসে এই কাপ্তান বাবুকে কেউ গুরুত্ব দেয় না, শুধু চালাকি করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a captain babu, looks important from the outside but has no real qualities.",
+    "No one in the office takes this captain babu seriously; he just bluffs his way through."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "social criticism"
+  ],
+  "tags": [
+    "superficiality",
+    "insult",
+    "pompous",
+    "hollow"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to colonial-era Indian clerks or subordinates who mimicked British officers (captains) in dress and manner but lacked real authority or substance, highlighting social satire in Bengali literature."
+  ],
+  "note": "The term draws from British colonial influences in Bengal, often used to mock pseudo-elites."
+}

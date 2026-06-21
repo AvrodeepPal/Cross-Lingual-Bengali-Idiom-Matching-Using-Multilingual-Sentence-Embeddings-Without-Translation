@@ -1,0 +1,40 @@
+{
+  "id": "1934",
+  "idiom": "কাটাছেঁড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কাটা এবং ছেঁড়া (cutting and tearing)",
+  "figurative_meaning_bn": "বিস্তৃত বিশ্লেষণ",
+  "figurative_meaning_en": "detailed analysis or thorough investigation",
+  "similar_in_english": [
+    "dissect",
+    "go over with a fine-tooth comb",
+    "leave no stone unturned"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ ঘটনার কাটাছেঁড়া করছে।",
+    "সাংবাদিকরা খবরের কাটাছেঁড়া করে প্রকাশ করল।"
+  ],
+  "example_sentences_in_english": [
+    "The police are conducting a detailed analysis of the incident.",
+    "The journalists dissected the news story thoroughly."
+  ],
+  "usage_domain": [
+    "investigation",
+    "journalism",
+    "analysis"
+  ],
+  "tags": [
+    "police",
+    "scrutiny",
+    "examination",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of police or media investigations in Bengali literature and daily speech."
+}

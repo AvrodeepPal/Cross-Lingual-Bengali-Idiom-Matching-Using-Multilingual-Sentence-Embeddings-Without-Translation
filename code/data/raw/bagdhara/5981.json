@@ -1,0 +1,39 @@
+{
+  "id": "5981",
+  "idiom": "দৌলত",
+  "alternative_idioms": [],
+  "literal_meaning": "ধন-সম্পদ বা ঐশ্বর্য",
+  "figurative_meaning_bn": "প্রভাব প্রতিপত্তি",
+  "figurative_meaning_en": "Influence or power",
+  "similar_in_english": [
+    "pull (as in having pull)",
+    "clout"
+  ],
+  "example_sentences_in_bangla": [
+    "শশুরের দৌলতে জামাই সব সুবিধা পাচ্ছে।",
+    "তার দৌলতে এই চাকরিটা পেয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He's getting all the perks thanks to his father-in-law's influence.",
+    "He got this job through his connections."
+  ],
+  "usage_domain": [
+    "social",
+    "politics",
+    "family"
+  ],
+  "tags": [
+    "influence",
+    "power",
+    "wealth",
+    "connections"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often implies influence derived from wealth or family status in Bengali society"
+}

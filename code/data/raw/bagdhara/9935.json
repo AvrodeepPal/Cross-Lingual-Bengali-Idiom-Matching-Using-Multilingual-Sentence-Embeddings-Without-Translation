@@ -1,0 +1,41 @@
+{
+  "id": "9935",
+  "idiom": "হরবোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "হর (হরিণ বা পশু) + বলা (বলা বা ডাক দেওয়া), অর্থাৎ পশুর মতো কথা বলা",
+  "figurative_meaning_bn": "যে পশুপাখির ডাক নকল করতে পারে",
+  "figurative_meaning_en": "One who can imitate the calls of animals and birds",
+  "similar_in_english": [
+    "a mimic",
+    "an impersonator of sounds"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের মেলায় সেই হরবোলা সকলকে মুগ্ধ করল তার পাখির ডাকের নকল করে।",
+    "সে একজন দক্ষ হরবোলা, বন্যপশুর শব্দও সঠিকভাবে অনুকরণ করতে পারে।"
+  ],
+  "example_sentences_in_english": [
+    "At the village fair, the harbola captivated everyone by imitating bird calls.",
+    "He is a skilled harbola, able to accurately mimic the sounds of wild animals."
+  ],
+  "usage_domain": [
+    "folklore",
+    "entertainment",
+    "nature"
+  ],
+  "tags": [
+    "mimicry",
+    "animals",
+    "birds",
+    "folk tradition"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This term originates from Bengali folk traditions where performers mimic natural sounds to entertain rural audiences."
+  ],
+  "note": "The term is often associated with folk artists in rural Bengal."
+}

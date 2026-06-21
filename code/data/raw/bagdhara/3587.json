@@ -1,0 +1,40 @@
+{
+  "id": "3587",
+  "idiom": "ঘুষঘুষে",
+  "alternative_idioms": [
+    "ঘুসঘুসে"
+  ],
+  "literal_meaning": "চাপা বা গুপ্ত শব্দের অনুকরণ (onomatopoeic for muffled or hidden sound)",
+  "figurative_meaning_bn": "চাপা, গুপ্ত; ভিতরে ভিতরে রয়েছে অথচ বাইরে থেকে বোঝা যায় না এমন",
+  "figurative_meaning_en": "Suppressed, secret; exists internally but is not apparent from the outside",
+  "similar_in_english": [
+    "simmering beneath the surface",
+    "underlying issue"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মনে ঘুষঘুষে ক্রোধ জমছে।",
+    "ঘুষঘুষে জ্বরে আক্রান্ত হয়ে সে কাজ করতে গিয়েছিল।"
+  ],
+  "example_sentences_in_english": [
+    "Anger is simmering hidden in his mind.",
+    "He went to work suffering from a hidden fever."
+  ],
+  "usage_domain": [
+    "health",
+    "emotions",
+    "secrecy"
+  ],
+  "tags": [
+    "figurative",
+    "internal state",
+    "medical"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variant spelling reflects regional pronunciation differences in Bengali dialects."
+}

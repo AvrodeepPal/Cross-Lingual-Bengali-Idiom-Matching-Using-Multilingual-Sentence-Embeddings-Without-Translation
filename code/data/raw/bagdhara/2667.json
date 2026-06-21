@@ -1,0 +1,38 @@
+{
+  "id": "2667",
+  "idiom": "খুঁটি গাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "খুঁটি গেড়ে দেওয়া বা মাটিতে খুঁটি বসানো",
+  "figurative_meaning_bn": "স্থায়ীভাবে বসবাস শুরু করা",
+  "figurative_meaning_en": "To settle down permanently or establish a permanent residence",
+  "similar_in_english": [
+    "put down roots",
+    "set up house"
+  ],
+  "example_sentences_in_bangla": [
+    "নতুন গ্রামে খুঁটি গাড়ার পর তাদের জীবন স্থিতিশীল হয়ে উঠল।",
+    "শহরে চাকরি পাওয়ার পর পরিবারটি খুঁটি গাড়ার সিদ্ধান্ত নিল।"
+  ],
+  "example_sentences_in_english": [
+    "After putting down roots in the new village, their life became stable.",
+    "The family decided to settle down permanently after getting a job in the city."
+  ],
+  "usage_domain": [
+    "settlement",
+    "migration",
+    "daily life"
+  ],
+  "tags": [
+    "স্থায়িত্ব",
+    "বসবাস",
+    "গ্রামীণ জীবন"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলার গ্রামীণ সংস্কৃতিতে বাড়ি বা জমিতে খুঁটি বসিয়ে স্থায়ী বসতি স্থাপনের প্রথা থেকে উদ্ভূত।"
+}

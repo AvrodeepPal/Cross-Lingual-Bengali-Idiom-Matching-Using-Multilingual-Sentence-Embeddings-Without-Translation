@@ -1,0 +1,38 @@
+{
+  "id": "10129",
+  "idiom": "হাত তোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত উঠানো (raising the hand)",
+  "figurative_meaning_bn": "নিবৃত্ত হওয়া; সরে যাওয়া",
+  "figurative_meaning_en": "To withdraw or step aside",
+  "similar_in_english": [
+    "Throw in the towel",
+    "Wave the white flag"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসায়ের লোকসানের পর তিনি হাত তুলে দিলেন।",
+    "আলোচনায় কোনো সমাধান না পেয়ে সে হাত তুলল।"
+  ],
+  "example_sentences_in_english": [
+    "After suffering losses in business, he threw in the towel.",
+    "Finding no solution in the discussion, she waved the white flag."
+  ],
+  "usage_domain": [
+    "Conflict",
+    "Decision-making",
+    "Everyday language"
+  ],
+  "tags": [
+    "সমর্পণ",
+    "পরাজয়",
+    "উপহার"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies surrender in competitive or challenging situations, rooted in gestures of defeat."
+}

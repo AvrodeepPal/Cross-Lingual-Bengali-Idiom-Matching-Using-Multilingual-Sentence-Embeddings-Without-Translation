@@ -1,0 +1,41 @@
+{
+  "id": "5768",
+  "idiom": "দাদাগিরি",
+  "alternative_idioms": [],
+  "literal_meaning": "দাদার (স্থানীয় গুন্ডা বা নেতা) পেশা বা শৈলী",
+  "figurative_meaning_bn": "অবাঞ্ছিত মাতব্বরি; কর্তৃত্ব ফলানো; নেতাসুলভ আচরণ/চালচলন/ভাবভঙ্গি",
+  "figurative_meaning_en": "Unwanted bossiness; exerting undue authority; leader-like behavior or mannerisms (often implying thuggery or bullying)",
+  "similar_in_english": [
+    "Throwing one's weight around",
+    "Bullying tactics",
+    "Gangsterism"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অফিসে সবসময় দাদাগিরি করে।",
+    "রাস্তায় দাদাগিরি চালিয়ে সমস্যা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He always shows off his dada-giri in the office.",
+    "His street-style thuggery caused trouble."
+  ],
+  "usage_domain": [
+    "slang",
+    "social behavior",
+    "authority and power"
+  ],
+  "tags": [
+    "bullying",
+    "negative authority",
+    "urban slang"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Refers to the style of 'dadas' or local gang leaders prevalent in urban Bengali society, especially in Kolkata's street culture."
+  ],
+  "note": "Common in contemporary Bengali usage to criticize aggressive dominance."
+}

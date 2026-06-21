@@ -1,0 +1,37 @@
+{
+  "id": "1334",
+  "idiom": "কটরমটর",
+  "alternative_idioms": [],
+  "literal_meaning": "শুকনো কঠিন বস্তু চিবানোর অনুকার শব্দ",
+  "figurative_meaning_bn": "শুকনো কঠিন বস্তু চিবানোর অনুকার শব্দ",
+  "figurative_meaning_en": "Onomatopoeic sound imitating the chewing of dry, hard substances",
+  "similar_in_english": [
+    "crunch crunch",
+    "chomp chomp"
+  ],
+  "example_sentences_in_bangla": [
+    "কটরমটর করে ভাজা ছোলা খাচ্ছে।",
+    "সে কটরমটর শব্দ করে চানাচুর খেল।"
+  ],
+  "example_sentences_in_english": [
+    "He is munching on roasted chickpeas with a crunching sound.",
+    "She ate the chanachur making a crunching noise."
+  ],
+  "usage_domain": [
+    "everyday language",
+    "food description"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "sound imitation",
+    "eating"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is primarily an onomatopoeic expression used in descriptive contexts."
+}

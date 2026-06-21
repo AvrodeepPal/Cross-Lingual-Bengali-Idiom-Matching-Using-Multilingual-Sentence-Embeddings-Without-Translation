@@ -1,0 +1,38 @@
+{
+  "id": "895",
+  "idiom": "এঁড় দেখানো",
+  "alternative_idioms": [],
+  "literal_meaning": "এঁড় দেখানো (donkey দেখানো)",
+  "figurative_meaning_bn": "ফাঁকি দেওয়া",
+  "figurative_meaning_en": "to cheat or deceive",
+  "similar_in_english": [
+    "to pull a fast one",
+    "to pull the wool over someone's eyes"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমাকে এঁড় দেখিয়ে পালিয়ে গেল।",
+    "ব্যবসায়ীটি গ্রাহককে এঁড় দেখানোর চেষ্টা করল।"
+  ],
+  "example_sentences_in_english": [
+    "He showed me the donkey and ran away.",
+    "The businessman tried to cheat the customer."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "deception",
+    "everyday conversation"
+  ],
+  "tags": [
+    "deception",
+    "trickery",
+    "folksy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from rural imagery where showing a donkey might symbolize distraction or trickery in dealings."
+}

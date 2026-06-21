@@ -1,0 +1,44 @@
+{
+  "id": "6372",
+  "idiom": "নাম কাটা",
+  "alternative_idioms": [
+    "নাম কাটা সিপাই"
+  ],
+  "literal_meaning": "নাম কাটা (name cut)",
+  "figurative_meaning_bn": "তালিকা থেকে নাম বাদ",
+  "figurative_meaning_en": "To remove or strike off a name from a list",
+  "similar_in_english": [
+    "Strike off the list",
+    "Delist",
+    "Cross out"
+  ],
+  "example_sentences_in_bangla": [
+    "কোম্পানির কর্মচারী তালিকা থেকে তার নাম কাটা হয়েছে।",
+    "স্কুলের ছাত্র তালিকা থেকে অযোগ্যদের নাম কাটা হবে।"
+  ],
+  "example_sentences_in_english": [
+    "His name was struck off the company's employee list.",
+    "The names of ineligible students will be removed from the school roster."
+  ],
+  "usage_domain": [
+    "Bureaucracy",
+    "Employment",
+    "Military"
+  ],
+  "tags": [
+    "removal",
+    "dismissal",
+    "list",
+    "administrative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Often used in contexts like military dismissals, as in 'নাম কাটা সিপাই' referring to soldiers removed from rolls."
+  ],
+  "note": "Common in formal and administrative Bengali usage, reflecting colonial-era bureaucratic influences."
+}

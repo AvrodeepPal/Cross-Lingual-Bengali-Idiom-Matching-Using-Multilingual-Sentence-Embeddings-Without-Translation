@@ -1,0 +1,4 @@
+model,n_idioms,n_clusters,silhouette,purity,triplet_cohesion
+mSBERT,23544,50,-0.018,0.902,0.0106
+LaBSE,23544,50,0.0408,0.7453,0.0176
+XLM-R,23544,50,0.0419,0.9853,0.0

@@ -1,0 +1,41 @@
+{
+  "id": "179",
+  "idiom": "অন্ধবিশ্বাস",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ধ (blind) + বিশ্বাস (faith/belief)",
+  "figurative_meaning_bn": "নির্বিচার যুক্তিহীন আস্থা; যুক্তি দিয়ে বিচার না ক’রে কোনকিছু মনে নেওয়া; যুক্তিহীন গভীর বিশ্বাস",
+  "figurative_meaning_en": "Unreasoned irrational faith; believing something without rational judgment; deep unfounded belief",
+  "similar_in_english": [
+    "Blind faith",
+    "Leap of faith"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অন্ধবিশ্বাসের কারণে সে সবসময় প্রতারিত হয়।",
+    "অন্ধবিশ্বাস থেকে উদ্ভূত সিদ্ধান্তগুলো প্রায়ই ভুল হয়।"
+  ],
+  "example_sentences_in_english": [
+    "His blind faith led him to be deceived time and again.",
+    "Decisions born out of blind faith are often misguided."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Psychology",
+    "Religion"
+  ],
+  "tags": [
+    "faith",
+    "belief",
+    "superstition",
+    "irrationality"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from the Mahabharata story where Duryodhana enters the room while his wife Bhanumati is playing dice with Karna. Seeing pearls scattered on the floor, Duryodhana assumes nothing wrong due to his unwavering trust in Karna, ignoring the suspicious circumstances."
+  ],
+  "note": "The idiom draws from Hindu epic mythology, emphasizing unquestioning loyalty."
+}

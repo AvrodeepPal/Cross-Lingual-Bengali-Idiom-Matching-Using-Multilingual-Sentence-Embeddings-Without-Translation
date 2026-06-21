@@ -1,0 +1,42 @@
+{
+  "id": "2160",
+  "idiom": "কালীঘাটের চণ্ডীপাঠ",
+  "alternative_idioms": [],
+  "literal_meaning": "কালীঘাটের চণ্ডী পাঠ (কালীঘাট মন্দিরে চণ্ডী পাঠের অনুষ্ঠান)",
+  "figurative_meaning_bn": "যে পয়সা দিত ব্যবসাদার ব্রাহ্মণ তার মাথায় ফুল ছোঁয়াতো",
+  "figurative_meaning_en": "The Brahmin who receives money from the businessman touches flowers to his head",
+  "similar_in_english": [
+    "Money talks",
+    "To curry favor"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কালীঘাটের চণ্ডীপাঠের মতো করেই বসের সামনে নাকি চাটুকারিতা করে।",
+    "পার্টিতে দানশীল ব্যক্তিদের কালীঘাটের চণ্ডীপাঠের মতো বিশেষ সম্মান দেওয়া হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He flatters the boss just like the Kali Ghat Chondi recitation.",
+    "At the party, generous donors receive special honors like in the Kali Ghat Chondi recitation."
+  ],
+  "usage_domain": [
+    "religion",
+    "business",
+    "social flattery"
+  ],
+  "tags": [
+    "religious idiom",
+    "flattery",
+    "donation",
+    "Brahmin",
+    "temple ritual"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Refers to the traditional practice at Kolkata's Kali Ghat temple where during Chondi Path recitations, Brahmins would touch flowers to the heads of wealthy donors as a gesture of honor in exchange for contributions."
+  ],
+  "note": "This idiom highlights the transactional aspect of religious rituals in historical Bengali society."
+}

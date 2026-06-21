@@ -1,0 +1,37 @@
+{
+  "id": "2198",
+  "idiom": "কিম্মৎ",
+  "alternative_idioms": [],
+  "literal_meaning": "দাম বা মূল্য",
+  "figurative_meaning_bn": "দাম; মূল্য",
+  "figurative_meaning_en": "price; value",
+  "similar_in_english": [
+    "worth",
+    "cost"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বইয়ের কিম্মৎ কত?",
+    "তার পরামর্শের কিম্মৎ অনেক।"
+  ],
+  "example_sentences_in_english": [
+    "What is the price of this book?",
+    "His advice is of great value."
+  ],
+  "usage_domain": [
+    "commerce",
+    "daily conversation"
+  ],
+  "tags": [
+    "value",
+    "price",
+    "economy"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a fundamental term in Bengali rather than a multi-word idiom, often used literally for monetary or intrinsic value."
+}

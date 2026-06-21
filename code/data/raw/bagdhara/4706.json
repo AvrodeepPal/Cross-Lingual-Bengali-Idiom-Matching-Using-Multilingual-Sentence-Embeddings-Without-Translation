@@ -1,0 +1,40 @@
+{
+  "id": "4706",
+  "idiom": "জেরবার",
+  "alternative_idioms": [],
+  "literal_meaning": "বারবার টেনে বা টানা হয়ে জীর্ণ বা ক্ষীণ হয়ে যাওয়া",
+  "figurative_meaning_bn": "দেহ ও মনে পরিশ্রান্ত; নানা দুর্বিপাকে নাকাল; বিপর্যস্ত; হীনবল",
+  "figurative_meaning_en": "Exhausted in body and mind; defeated by various adversities; distressed; powerless",
+  "similar_in_english": [
+    "worn out",
+    "run ragged",
+    "at the end of one's rope"
+  ],
+  "example_sentences_in_bangla": [
+    "কাজের চাপে সে জেরবার হয়ে পড়েছে।",
+    "দুর্ভাগ্যের ঝড়ে তার জীবন জেরবার।"
+  ],
+  "example_sentences_in_english": [
+    "He is worn out from the pressure of work.",
+    "His life has been battered by a storm of misfortunes."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work",
+    "emotions"
+  ],
+  "tags": [
+    "exhaustion",
+    "distress",
+    "adversity",
+    "weakness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom derives from the imagery of fabric or material being repeatedly pulled and worn thin, symbolizing human fatigue."
+}

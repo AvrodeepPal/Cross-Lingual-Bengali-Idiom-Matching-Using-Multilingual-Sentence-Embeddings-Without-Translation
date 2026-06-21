@@ -1,0 +1,40 @@
+{
+  "id": "1478",
+  "idiom": "কথাচ্ছলে",
+  "alternative_idioms": [
+    "কথার ছলে"
+  ],
+  "literal_meaning": "কথার আড়ালে বা ছলে (in the guise or pretext of words)",
+  "figurative_meaning_bn": "প্রসঙ্গক্রমে, কথাবার্তা বলতে বলতে",
+  "figurative_meaning_en": "in the course of conversation, while talking",
+  "similar_in_english": [
+    "in passing",
+    "by the way",
+    "casually mention"
+  ],
+  "example_sentences_in_bangla": [
+    "কথাচ্ছলে সে তার পরিকল্পনা প্রকাশ করল।",
+    "বন্ধুর সাথে কথা বলতে বলতে কথাচ্ছলে বিষয়টা উঠিয়ে দিলাম।"
+  ],
+  "example_sentences_in_english": [
+    "He revealed his plan in the course of conversation.",
+    "While chatting with my friend, I brought up the topic casually."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "informal dialogue"
+  ],
+  "tags": [
+    "indirect",
+    "subtle",
+    "conversational"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the nuanced, indirect communication style common in Bengali social interactions."
+}

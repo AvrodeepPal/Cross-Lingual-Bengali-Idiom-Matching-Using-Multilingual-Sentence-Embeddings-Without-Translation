@@ -1,0 +1,44 @@
+{
+  "id": "9414",
+  "idiom": "শরতের শিশির",
+  "alternative_idioms": [
+    "দুধের মাছি",
+    "ফুলের ভ্রমরা",
+    "বসন্তের কোকিল",
+    "ভ্রামরীমিত্র",
+    "সুখের পায়রা"
+  ],
+  "literal_meaning": "শরতের শিশির (Autumn's dew)",
+  "figurative_meaning_bn": "সুদিনের বন্ধু/সঙ্গী",
+  "figurative_meaning_en": "Friends or companions only in good times",
+  "similar_in_english": [
+    "Fair-weather friend"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সব বন্ধু শরতের শিশিরের মতো, সুখের সময়ে আছে কিন্তু দুঃখে কেউ নেই।",
+    "সমাজে অনেক শরতের শিশির-সদৃশ লোক দেখা যায় যারা শুধু সাফল্যের পথে সঙ্গ দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "All his friends are like autumn dew, present only in good times but absent in hardship.",
+    "In society, many people act like fair-weather friends, sticking around only during success."
+  ],
+  "usage_domain": [
+    "Friendship",
+    "Relationships",
+    "Social Commentary"
+  ],
+  "tags": [
+    "Bengali idiom",
+    "Seasonal metaphor",
+    "Unreliable companionship",
+    "Nature imagery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from Bengali seasonal imagery, evoking the transient dew of autumn to symbolize fleeting loyalty."
+}

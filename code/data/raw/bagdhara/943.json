@@ -1,0 +1,39 @@
+{
+  "id": "943",
+  "idiom": "এককান",
+  "alternative_idioms": [],
+  "literal_meaning": "এক কান (one ear)",
+  "figurative_meaning_bn": "একজনের কাছে জেনে সবার কাছে ছড়িয়ে পড়া",
+  "figurative_meaning_en": "Something known to one person but has spread to everyone",
+  "similar_in_english": [
+    "The walls have ears",
+    "Word gets around"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই গোপন কথা এককান হয়ে গেছে, এখন সবাই জানে।",
+    "খবরটা এককান দু'কান হয়ে পুরো গ্রামে ছড়িয়ে পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "That secret has become common knowledge; everyone knows now.",
+    "The news started with one person but has spread to the whole village."
+  ],
+  "usage_domain": [
+    "conversation",
+    "gossip",
+    "daily life"
+  ],
+  "tags": [
+    "secret",
+    "spread",
+    "news",
+    "rumor"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a shortened form of the fuller idiom 'এক কানে ঢুকেছে, দু'কানে বেরিয়েছে', referring to how information spreads rapidly."
+}

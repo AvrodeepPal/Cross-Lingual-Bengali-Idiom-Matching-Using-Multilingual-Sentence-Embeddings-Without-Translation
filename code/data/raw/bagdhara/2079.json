@@ -1,0 +1,38 @@
+{
+  "id": "2079",
+  "idiom": "কামাই",
+  "alternative_idioms": [],
+  "literal_meaning": "উপার্জিত অর্থ বা আয়",
+  "figurative_meaning_bn": "উপার্জন; রোজগার",
+  "figurative_meaning_en": "Earning; Livelihood",
+  "similar_in_english": [
+    "Make a living",
+    "Earn one's keep"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কামাই দিয়ে পরিবার চালানো কঠিন।",
+    "দালালীতে কামাই ভালোই হয়।"
+  ],
+  "example_sentences_in_english": [
+    "It's hard to run the family on his earnings.",
+    "Earnings are good in brokerage."
+  ],
+  "usage_domain": [
+    "Economy",
+    "Daily life",
+    "Finance"
+  ],
+  "tags": [
+    "আয়",
+    "রোজগার",
+    "উপার্জন"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is more of a common noun used idiomatically in contexts of income, rather than a complex phrase."
+}

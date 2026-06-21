@@ -1,0 +1,41 @@
+{
+  "id": "4641",
+  "idiom": "জাল পাতা",
+  "alternative_idioms": [
+    "জাল বিস্তার করা"
+  ],
+  "literal_meaning": "net spread/lay a net",
+  "figurative_meaning_bn": "ফাঁদ পাতা",
+  "figurative_meaning_en": "to set a trap or snare",
+  "similar_in_english": [
+    "lay a trap",
+    "set a snare"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ অপরাধীকে ধরার জন্য জাল পেতেছে।",
+    "ব্যবসায়ীরা প্রতিযোগীকে ফাঁসাতে জাল পাতছে।"
+  ],
+  "example_sentences_in_english": [
+    "The police are setting a trap to catch the criminal.",
+    "The businessmen are laying a snare to trap their rival."
+  ],
+  "usage_domain": [
+    "law enforcement",
+    "deception",
+    "strategy"
+  ],
+  "tags": [
+    "trap",
+    "net",
+    "police",
+    "ensnare"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom draws from traditional fishing or hunting practices in Bengali rural life, metaphorically applied to modern contexts like policing."
+}

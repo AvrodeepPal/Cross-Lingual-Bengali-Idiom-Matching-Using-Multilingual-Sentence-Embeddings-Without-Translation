@@ -1,0 +1,39 @@
+{
+  "id": "3805",
+  "idiom": "চাকচাকা",
+  "alternative_idioms": [
+    "চাকচাক"
+  ],
+  "literal_meaning": "চাকার মতো গোলাকার পাতলা টুকরা",
+  "figurative_meaning_bn": "পাতলা গোল গোল টুকরা",
+  "figurative_meaning_en": "Thin round pieces",
+  "similar_in_english": [
+    "cut into rounds",
+    "slice into thin circles"
+  ],
+  "example_sentences_in_bangla": [
+    "আলুগুলি চাকচাকা করে কাটো।",
+    "শাকসবজিগুলো চাকচাকা করে কেটে রান্না করো।"
+  ],
+  "example_sentences_in_english": [
+    "Cut the potatoes into thin round slices.",
+    "Slice the vegetables into chakchaka for the curry."
+  ],
+  "usage_domain": [
+    "Culinary",
+    "Daily life"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "food preparation",
+    "descriptive"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression mimicking the sound or action of slicing into thin rounds, commonly used in Bengali cooking contexts."
+}

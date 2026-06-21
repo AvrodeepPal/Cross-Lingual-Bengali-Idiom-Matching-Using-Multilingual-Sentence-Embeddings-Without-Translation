@@ -1,0 +1,41 @@
+{
+  "id": "7721",
+  "idiom": "বিষকুম্ভ",
+  "alternative_idioms": [
+    "বিষের পুঁটুলি"
+  ],
+  "literal_meaning": "বিষের কুম্ভ (poison pot)",
+  "figurative_meaning_bn": "হিংসাভরা মন",
+  "figurative_meaning_en": "A mind full of envy",
+  "similar_in_english": [
+    "full of venom",
+    "green with envy"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মন বিষকুম্ভের মতো হিংসায় পরিপূর্ণ।",
+    "সে বিষকুম্ভ হয়ে অন্যের সাফল্য দেখতে পারে না।"
+  ],
+  "example_sentences_in_english": [
+    "His mind is like a pot of poison, overflowing with envy.",
+    "She turns into a vessel of venom when she sees others succeed."
+  ],
+  "usage_domain": [
+    "emotions",
+    "literature",
+    "conversation"
+  ],
+  "tags": [
+    "envy",
+    "jealousy",
+    "malice",
+    "negative emotion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the imagery of poison containers in ancient texts, symbolizing hidden malice."
+}

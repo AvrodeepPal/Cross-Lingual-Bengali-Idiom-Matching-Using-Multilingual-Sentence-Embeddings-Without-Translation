@@ -1,0 +1,37 @@
+{
+  "id": "598",
+  "idiom": "আর আর",
+  "alternative_idioms": [],
+  "literal_meaning": "দ্বিত্বশব্দ (reduplicated word)",
+  "figurative_meaning_bn": "বহুবচনে অন্যান্য",
+  "figurative_meaning_en": "others or the rest in plural sense",
+  "similar_in_english": [
+    "et cetera",
+    "and the like"
+  ],
+  "example_sentences_in_bangla": [
+    "আর আর সবাই এসেছে পার্টিতে।",
+    "বইগুলোর মধ্যে কয়েকটা পড়লাম, আর আর পরে পড়ব।"
+  ],
+  "example_sentences_in_english": [
+    "All the others have come to the party.",
+    "I read a few of the books, the rest later."
+  ],
+  "usage_domain": [
+    "conversational",
+    "everyday language"
+  ],
+  "tags": [
+    "reduplication",
+    "plural indicator",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a common reduplicative form in Bengali to denote plurality or remainder."
+}

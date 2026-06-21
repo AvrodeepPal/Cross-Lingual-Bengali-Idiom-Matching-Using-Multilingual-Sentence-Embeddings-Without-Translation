@@ -1,0 +1,40 @@
+{
+  "id": "9143",
+  "idiom": "রাস্তাঘাট",
+  "alternative_idioms": [],
+  "literal_meaning": "রাস্তা এবং ঘাট (পথ এবং স্থানান্তরের স্থান)",
+  "figurative_meaning_bn": "ছোটবড় চওড়া ও সরুরাস্তা; সদররাস্তা ও গলিপথ",
+  "figurative_meaning_en": "Small, big, wide, and main roads; main roads and alleyways",
+  "similar_in_english": [
+    "highways and byways",
+    "streets and alleys"
+  ],
+  "example_sentences_in_bangla": [
+    "শহরের রাস্তাঘাট খুব জটিল, সহজে পথ হারিয়ে যাওয়া যায়।",
+    "গ্রামের রাস্তাঘাট কাদামাটিতে ভরা হয়ে গেছে বর্ষায়।"
+  ],
+  "example_sentences_in_english": [
+    "The streets and roads of the city are very complicated, and it's easy to get lost.",
+    "The roads and paths in the village get muddy during the rainy season."
+  ],
+  "usage_domain": [
+    "navigation",
+    "urban planning",
+    "daily conversation"
+  ],
+  "tags": [
+    "roads",
+    "paths",
+    "urban",
+    "rural",
+    "travel"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Refers to the network of roadways in a locale, reflecting everyday mobility in Bengali-speaking regions."
+}

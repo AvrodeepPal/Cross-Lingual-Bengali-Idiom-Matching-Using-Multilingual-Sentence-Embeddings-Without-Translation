@@ -1,0 +1,38 @@
+{
+  "id": "3009",
+  "idiom": "গলা ভাঙা",
+  "alternative_idioms": [],
+  "literal_meaning": "গলা ভাঙা (throat breaking or voice breaking)",
+  "figurative_meaning_bn": "সাময়িক স্বরবিকৃতি হওয়া",
+  "figurative_meaning_en": "Temporary distortion or hoarseness of the voice",
+  "similar_in_english": [
+    "Voice cracking",
+    "Losing one's voice"
+  ],
+  "example_sentences_in_bangla": [
+    "ঠাণ্ডা লেগে তার গলা ভেঙে গেছে।",
+    "অনেক গান গেয়ে গলাটা ভেঙে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "He caught a cold and his voice became hoarse.",
+    "After singing too much, her voice broke."
+  ],
+  "usage_domain": [
+    "Health",
+    "Daily conversation"
+  ],
+  "tags": [
+    "Voice",
+    "Illness",
+    "Cold",
+    "Hoarseness"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used to describe temporary voice issues due to cold or overuse."
+}

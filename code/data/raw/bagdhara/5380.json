@@ -1,0 +1,38 @@
+{
+  "id": "5380",
+  "idiom": "তা বৈকি",
+  "alternative_idioms": [],
+  "literal_meaning": "তা (that) + বৈকি (indeed/certainly)",
+  "figurative_meaning_bn": "নিশ্চিতে, তা ছাড়া আর কিছু নয়",
+  "figurative_meaning_en": "Certainly, nothing but that",
+  "similar_in_english": [
+    "Of course",
+    "Indeed",
+    "That's right"
+  ],
+  "example_sentences_in_bangla": [
+    "তা বৈকি, এটা সত্যি।",
+    "তুমি কি ভাবছো? তা বৈকি, সে আসবে।"
+  ],
+  "example_sentences_in_english": [
+    "Of course, that's true.",
+    "What do you think? Indeed, he will come."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Agreement and affirmation"
+  ],
+  "tags": [
+    "affirmation",
+    "certainty",
+    "colloquial"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Common in spoken Bengali, often used for emphasis in casual dialogues"
+}

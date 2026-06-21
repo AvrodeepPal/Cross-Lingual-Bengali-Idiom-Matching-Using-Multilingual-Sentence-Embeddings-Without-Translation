@@ -1,0 +1,44 @@
+{
+  "id": "8175",
+  "idiom": "ভোলে-ভালা",
+  "alternative_idioms": [
+    "আলা-ভোলা",
+    "নড়েভোলা",
+    "ন্যালাভোলা"
+  ],
+  "literal_meaning": "ভোলা (বেখেয়াল বা নিষ্পাপ) - ভালা (ভালমানুষ বা সরল)",
+  "figurative_meaning_bn": "সাদাসিধে বেখেয়ালি লোক, নিতান্ত ভালমানুষ",
+  "figurative_meaning_en": "A simple, absent-minded person; an utterly good-natured individual",
+  "similar_in_english": [
+    "goody two-shoes",
+    "simple soul",
+    "good-hearted simpleton"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ভোলে-ভালা লোক, কারো কথায় সহজেই বিশ্বাস করে ফেলে।",
+    "গ্রামের ভোলে-ভালা ছেলেটি শহরে এসে অনেক সমস্যায় পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "He is a simple, good-hearted guy who easily believes what others say.",
+    "The village's innocent fellow faced many troubles after coming to the city."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "personality description",
+    "everyday conversation"
+  ],
+  "tags": [
+    "innocence",
+    "naivety",
+    "good-natured",
+    "simplicity"
+  ],
+  "frequency": "very common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the affectionate portrayal of naive, kind-hearted individuals in Bengali folklore and daily life."
+}

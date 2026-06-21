@@ -1,0 +1,40 @@
+{
+  "id": "1696",
+  "idiom": "কলেপড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কলার-প্যান্ট পরা (শহুরে পোশাকের প্রতীক)",
+  "figurative_meaning_bn": "ছকবাঁধা; গতানুগতিক; নিয়মবদ্ধ",
+  "figurative_meaning_en": "rigid; conventional; regimented",
+  "similar_in_english": [
+    "stuck in a rut",
+    "nine-to-five grind",
+    "by the book"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার এই কলেপড়া জীবনযাত্রায় আর ভালো লাগছে না।",
+    "শহরের কলেপড়া রুটিন থেকে মুক্তি পেতে গ্রামে গেলাম।"
+  ],
+  "example_sentences_in_english": [
+    "I'm tired of this rigid collar-and-pants lifestyle.",
+    "I escaped to the village to break free from the urban regimented routine."
+  ],
+  "usage_domain": [
+    "urban life",
+    "daily routine",
+    "modern society"
+  ],
+  "tags": [
+    "urban",
+    "routine",
+    "monotonous",
+    "negative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Refers to Western-style formal attire symbolizing stifling urban conformity in Bengali culture."
+}

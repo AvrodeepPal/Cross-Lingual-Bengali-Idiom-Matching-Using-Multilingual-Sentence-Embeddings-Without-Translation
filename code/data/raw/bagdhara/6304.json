@@ -1,0 +1,38 @@
+{
+  "id": "6304",
+  "idiom": "নাকুয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "নাক উঁচু করে চলা (nose held high)",
+  "figurative_meaning_bn": "উন্নাসিক; নাক উঁচু করে চলে এমন লোক",
+  "figurative_meaning_en": "Snobbish; a person who walks with their nose held high",
+  "similar_in_english": [
+    "nose in the air",
+    "stuck-up",
+    "high and mighty"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা নাকুয়া লোক, সবাইকে তুচ্ছ ভাবে।",
+    "নাকুয়া ভাবে কথা বললে কেউ সম্মান করবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a snobbish person who looks down on everyone.",
+    "Walking with a snobbish attitude won't earn you respect."
+  ],
+  "usage_domain": [
+    "social interaction",
+    "personality description"
+  ],
+  "tags": [
+    "arrogance",
+    "snobbery",
+    "behavior"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from physical posture implying superiority, common in colloquial Bengali."
+}

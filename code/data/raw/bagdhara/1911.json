@@ -1,0 +1,38 @@
+{
+  "id": "1911",
+  "idiom": "কাটা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাটা (cut or sever)",
+  "figurative_meaning_bn": "খণ্ডন করা",
+  "figurative_meaning_en": "to refute or rebut",
+  "similar_in_english": [
+    "tear apart an argument",
+    "cut down an argument"
+  ],
+  "example_sentences_in_bangla": [
+    "তার যুক্তি আমি সম্পূর্ণ কেটে দিয়েছি।",
+    "এই অকাট্য প্রমাণ কাটা অসম্ভব।"
+  ],
+  "example_sentences_in_english": [
+    "I completely refuted his argument.",
+    "It's impossible to rebut this irrefutable evidence."
+  ],
+  "usage_domain": [
+    "debate",
+    "argument",
+    "logic"
+  ],
+  "tags": [
+    "refutation",
+    "dispute",
+    "rhetoric"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of logical debates; the idiom draws from the metaphor of 'cutting' through falsehoods."
+}

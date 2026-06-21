@@ -1,0 +1,40 @@
+{
+  "id": "405",
+  "idiom": "আগুন পোহানো",
+  "alternative_idioms": [
+    "আগুন পোয়ানো"
+  ],
+  "literal_meaning": "আগুনের কাছে বসে হাত-পা গরম করা",
+  "figurative_meaning_bn": "আগুনের কাছে বসে হাত পা গরম করা",
+  "figurative_meaning_en": "To enjoy the warmth of the fire while enduring the accompanying smoke or discomfort",
+  "similar_in_english": [
+    "Every rose has its thorn",
+    "No pain, no gain"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চাকরিটা নিয়েছে আগুন পোহানোর জন্য, কিন্তু অনেক ধোঁয়া সহ্য করতে হচ্ছে।",
+    "জীবনে সুখ লাভ করতে গেলে কিছু কষ্ট আগুন পোহানোর মতো সইতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He took the job to warm by the fire, but now he's enduring a lot of smoke.",
+    "In life, to gain happiness, one must endure some hardship like warming by the fire."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Proverbs and advice"
+  ],
+  "tags": [
+    "fire",
+    "endurance",
+    "comfort with discomfort",
+    "rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom reflects traditional rural practices of tending fires for warmth, highlighting inevitable trade-offs in daily life."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "306",
+  "idiom": "আঁচলে গেরো",
+  "alternative_idioms": [],
+  "literal_meaning": "আঁচলের কোণে গিঁট বাঁধা",
+  "figurative_meaning_bn": "কিছু মনে রাখার জন্য শেষ আঁচলে গিঁট",
+  "figurative_meaning_en": "Tying a knot in the corner of one's sari to remember something",
+  "similar_in_english": [
+    "Tie a string around one's finger",
+    "Tie a knot in one's handkerchief"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সভায় যাওয়ার কথা মনে রাখতে আঁচলে গেরো দিয়েছে।",
+    "আমি ওই তারিখ ভুলব না বলে আঁচলে গেরো বেঁধেছি।"
+  ],
+  "example_sentences_in_english": [
+    "She tied a knot in her sari to remember to attend the meeting.",
+    "I tied a knot in my sari so I wouldn't forget that date."
+  ],
+  "usage_domain": [
+    "memory",
+    "daily life",
+    "reminders"
+  ],
+  "tags": [
+    "traditional",
+    "women's practice",
+    "remembrance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the traditional practice among Bengali women of using the edge of their sari as a simple memory aid by tying knots, reflecting everyday rural and semi-urban life before modern tools like notes or apps."
+  ],
+  "note": "The idiom highlights gender-specific cultural elements tied to sari-wearing traditions."
+}

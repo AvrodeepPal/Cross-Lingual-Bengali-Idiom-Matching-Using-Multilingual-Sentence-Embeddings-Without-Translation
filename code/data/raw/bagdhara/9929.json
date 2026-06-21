@@ -1,0 +1,39 @@
+{
+  "id": "9929",
+  "idiom": "হরকরা",
+  "alternative_idioms": [],
+  "literal_meaning": "সংবাদ বা চিঠির বাহক",
+  "figurative_meaning_bn": "সংবাদ চিঠি প্রভৃতির বাহক, ডাক-পিয়ন",
+  "figurative_meaning_en": "Carrier of news, letters, etc.; postman",
+  "similar_in_english": [
+    "postman",
+    "messenger"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে হরকরা এসে চিঠি বিতরণ করল।",
+    "পুরনো দিনে রাজকীয় হরকরা গুরুত্বপূর্ণ সংবাদ নিয়ে যেত।"
+  ],
+  "example_sentences_in_english": [
+    "The postman came to the village and distributed the letters.",
+    "In olden days, royal messengers carried important news."
+  ],
+  "usage_domain": [
+    "communication",
+    "historical"
+  ],
+  "tags": [
+    "হিন্দি উৎস",
+    "বাহক",
+    "ঐতিহাসিক"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "হরকরা শব্দটি মধ্যযুগীয় ভারতে রাজকীয় দূত বা সংবাদবাহকদের জন্য ব্যবহৃত হতো, বিশেষ করে মুঘল আমলে।"
+  ],
+  "note": "এটি মূলত একটি শব্দ, কিন্তু বাংলায় বাগধারা হিসেবে বিবেচিত; হিন্দি/উর্দু থেকে ধার করা।"
+}

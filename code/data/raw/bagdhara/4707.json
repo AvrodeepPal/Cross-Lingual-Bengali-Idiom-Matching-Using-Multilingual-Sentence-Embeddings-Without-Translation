@@ -1,0 +1,42 @@
+{
+  "id": "4707",
+  "idiom": "জেহাদ",
+  "alternative_idioms": [],
+  "literal_meaning": "ধর্মীয় সংগ্রাম বা পবিত্র যুদ্ধ (Arabic 'jihad' থেকে, অর্থ 'সংগ্রাম')",
+  "figurative_meaning_bn": "কোনো সৎ উদ্দেশ্যে প্রতিবাদ; ধর্মরক্ষার জন্য অধর্মযুদ্ধ; সত্য ও ন্যায়প্রতিষ্ঠার লড়াই",
+  "figurative_meaning_en": "Protest for a noble purpose; war against unrighteousness to protect religion; fight to establish truth and justice",
+  "similar_in_english": [
+    "holy war",
+    "crusade",
+    "fight the good fight"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি সামাজিক অবিচারের বিরুদ্ধে জেহাদ ঘোষণা করেছেন।",
+    "ধর্মের সুরক্ষার জন্য এই জেহাদ অপরিহার্য।"
+  ],
+  "example_sentences_in_english": [
+    "He has declared jihad against social injustice.",
+    "This jihad is essential for the protection of religion."
+  ],
+  "usage_domain": [
+    "religion",
+    "politics",
+    "social justice"
+  ],
+  "tags": [
+    "ইসলাম",
+    "সংগ্রাম",
+    "ন্যায়",
+    "ধর্মরক্ষা"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "ইসলামের ইতিহাসে জেহাদের ধারণা নবী মুহাম্মদের সময় থেকে উদ্ভূত, যা ধর্মীয় ও নৈতিক সংগ্রামকে নির্দেশ করে; বাংলা সংস্কৃতিতে মুসলিম সম্প্রদায়ের মধ্যে এটি সামাজিক ও রাজনৈতিক আন্দোলনে ব্যবহৃত হয়েছে।"
+  ],
+  "note": "এটি মূলত আরবি শব্দ, বাংলায় ধর্মীয় প্রসঙ্গে ব্যবহৃত; আধুনিক ব্যবহারে রাজনৈতিক অর্থে বিকৃত হতে পারে।"
+}

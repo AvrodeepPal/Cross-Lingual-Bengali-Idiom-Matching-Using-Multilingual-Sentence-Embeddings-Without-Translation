@@ -1,0 +1,42 @@
+{
+  "id": "3748",
+  "idiom": "চর্বিতচর্বণ",
+  "alternative_idioms": [],
+  "literal_meaning": "বারবার চিবানো বা পুনরাবৃত্তি চিবানো",
+  "figurative_meaning_bn": "প্রতিভা ও মৌলিকতার অভাবহেতু অপরের রচনা অনুকরণ",
+  "figurative_meaning_en": "Imitation of others' works due to lack of talent and originality",
+  "similar_in_english": [
+    "Aping someone",
+    "Chewing the cud (in a derivative sense)",
+    "Regurgitating ideas"
+  ],
+  "example_sentences_in_bangla": [
+    "তার উপন্যাস চর্বিতচর্বণ মাত্র, কোনো নতুনত্ব নেই।",
+    "সাহিত্যে চর্বিতচর্বণ করে সে কখনো সফল হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "His novel is nothing but chewed cud, with no originality whatsoever.",
+    "In literature, mere imitation like chewing the cud will never lead to success."
+  ],
+  "usage_domain": [
+    "Literature",
+    "Creativity",
+    "Writing"
+  ],
+  "tags": [
+    "imitation",
+    "originality",
+    "literary",
+    "criticism"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Sanskrit term implying repeated chewing, akin to rumination, metaphorically used in Bengali literature for derivative works."
+  ],
+  "note": "This idiom is often used in literary criticism to denote unoriginal replication."
+}

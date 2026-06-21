@@ -1,0 +1,43 @@
+{
+  "id": "5431",
+  "idiom": "তিনাঞ্জলি",
+  "alternative_idioms": [
+    "তিলাঞ্জলি"
+  ],
+  "literal_meaning": "প্রেতাত্মার তর্পণে তিনবার জল অর্পণ",
+  "figurative_meaning_bn": "চিরবিদায়, শেষ বিদায়",
+  "figurative_meaning_en": "eternal farewell, final goodbye",
+  "similar_in_english": [
+    "final farewell",
+    "pay last respects"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মৃত্যুর পর পরিবারের সকলে তিনাঞ্জলি দিয়ে শোক প্রকাশ করল।",
+    "যুদ্ধক্ষেত্রে বীরের মৃত্যুতে সৈন্যরা তিনাঞ্জলি অর্পণ করল।"
+  ],
+  "example_sentences_in_english": [
+    "The family offered তিনাঞ্জলি to express their grief after his death.",
+    "The soldiers gave a final farewell to the brave warrior on the battlefield."
+  ],
+  "usage_domain": [
+    "funeral rites",
+    "mourning",
+    "farewell"
+  ],
+  "tags": [
+    "death",
+    "ritual",
+    "Hindu tradition",
+    "sorrow"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from the Hindu ritual of tarpan, where water is offered three times to appease the departed soul during shraddha ceremonies."
+  ],
+  "note": "Closely related to the synonymous idiom তিলাঞ্জলি, both evoking themes of permanent separation through death."
+}

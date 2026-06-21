@@ -1,0 +1,44 @@
+{
+  "id": "1658",
+  "idiom": "কলস্বন",
+  "alternative_idioms": [
+    "কলস্বর",
+    "কলকাকলি"
+  ],
+  "literal_meaning": "কল (ধ্বনি) + স্বন (শব্দ); মধুর ধ্বনি",
+  "figurative_meaning_bn": "সুমধুর ধ্বনি",
+  "figurative_meaning_en": "Melodious or sweet sound",
+  "similar_in_english": [
+    "Sweet as a bird's song",
+    "The cuckoo's call"
+  ],
+  "example_sentences_in_bangla": [
+    "বসন্তের সকালে পাখির কলস্বন শুনে মন ভরে ওঠে।",
+    "তার গানের কলস্বন সকলকে মুগ্ধ করে।"
+  ],
+  "example_sentences_in_english": [
+    "The cuckoo's sweet chirping fills the heart in spring mornings.",
+    "Her song has a melodious sound that captivates everyone."
+  ],
+  "usage_domain": [
+    "Literature",
+    "Poetry",
+    "Nature description"
+  ],
+  "tags": [
+    "Nature",
+    "Sound",
+    "Beauty",
+    "Melody"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Refers to the natural sound of birds, especially the cuckoo, commonly featured in Bengali poetry and folklore."
+  ],
+  "note": "Often associated with the koel (cuckoo) bird in Bengali culture, symbolizing spring and romance."
+}

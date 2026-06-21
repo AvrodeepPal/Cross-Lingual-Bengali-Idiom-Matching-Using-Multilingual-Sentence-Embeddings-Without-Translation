@@ -1,0 +1,39 @@
+{
+  "id": "3327",
+  "idiom": "গোণাগুণতি",
+  "alternative_idioms": [
+    "গোনাগুনতি"
+  ],
+  "literal_meaning": "গণনা ও গুণনের ধ্বনিময় যুগ্মশব্দ (অস্পষ্ট সংখ্যা নির্দেশকারী)",
+  "figurative_meaning_bn": "একার্থক যুগ্মশব্দ; অল্পসংখ্যক",
+  "figurative_meaning_en": "synonymous pair; a small number",
+  "similar_in_english": [
+    "a handful",
+    "a few"
+  ],
+  "example_sentences_in_bangla": [
+    "গোণাগুণতি ছেলে দুস্কর্ম করে বেড়াচ্ছে।",
+    "গোণাগুণতি লোকের ভিড়ে উৎসব চলছে।"
+  ],
+  "example_sentences_in_english": [
+    "A handful of boys are causing mischief.",
+    "The festival is going on in a small crowd of people."
+  ],
+  "usage_domain": [
+    "conversational",
+    "descriptive"
+  ],
+  "tags": [
+    "quantity",
+    "reduplication",
+    "small group"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a typical example of Bengali reduplicative expressions used to denote indefinite small quantities."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7372",
+  "idiom": "বসুকীট",
+  "alternative_idioms": [],
+  "literal_meaning": "বসুর কীট (ধন-সম্পদের প্রতীকী কীটপতঙ্গ)",
+  "figurative_meaning_bn": "কৃপণ, ধনাকাঙ্ক্ষী",
+  "figurative_meaning_en": "A miser or greedy person obsessed with wealth",
+  "similar_in_english": [
+    "scrooge",
+    "tightwad",
+    "miser"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা আসল বসুকীট, কখনো কাউকে এক পাই দিতে চায় না।",
+    "এই বসুকীটের কাছে টাকা রাখলে সেটা কখনো ফেরত পাবি না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real miser, never willing to part with even a penny.",
+    "Don't leave money with that greedy tightwad; you'll never get it back."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "character description",
+    "financial behavior"
+  ],
+  "tags": [
+    "negative trait",
+    "greed",
+    "personality idiom"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is archaic and less commonly used in modern Bengali, often found in literary contexts."
+}

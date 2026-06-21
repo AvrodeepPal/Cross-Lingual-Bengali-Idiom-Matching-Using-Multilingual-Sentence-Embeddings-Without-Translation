@@ -1,0 +1,39 @@
+{
+  "id": "4845",
+  "idiom": "ঝোলভাত খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পাতলা ঝোলের সাথে ভাত খাওয়া",
+  "figurative_meaning_bn": "অনেকদিন রোগভোগের পর পথ্য করা",
+  "figurative_meaning_en": "Following a restricted or light diet after a prolonged illness",
+  "similar_in_english": [
+    "On a bland diet",
+    "Eating light after recovery"
+  ],
+  "example_sentences_in_bangla": [
+    "অনেকদিনের অসুস্থতার পর সে এখনও ঝোলভাত খাচ্ছে।",
+    "রোগ সারার পর ঝোলভাত খেয়ে শরীর ভালো করতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "After weeks of illness, he's still eating watery rice to recover.",
+    "She had to stick to a watery rice diet following her long sickness."
+  ],
+  "usage_domain": [
+    "Health",
+    "Recovery",
+    "Daily Life"
+  ],
+  "tags": [
+    "illness",
+    "diet",
+    "food",
+    "restriction"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to simple, light Bengali home-cooked meal during recovery, emphasizing traditional health practices."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "155",
+  "idiom": "অনেক সন্ন্যাসীতে গাজন নষ্ট",
+  "alternative_idioms": [],
+  "literal_meaning": "অনেক সন্ন্যাসীর মধ্যে গাজন নষ্ট হয়ে যায়",
+  "figurative_meaning_bn": "বহুজনের কর্তৃত্ব থাকলে অনুষ্ঠানে কাজের থেকে অকাজ বেশি হয়; ফলে কাজকর্মে বিশৃঙ্খলা দেখা দেয়",
+  "figurative_meaning_en": "When too many people hold authority, a ceremony or event becomes more chaotic than productive, leading to disorder in proceedings",
+  "similar_in_english": [
+    "Too many cooks spoil the broth"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রকল্পটিতে অনেক লোকের হস্তক্ষেপের ফলে অনেক সন্ন্যাসীতে গাজন নষ্ট হয়ে গেল।",
+    "সভায় সকলের মতামত নেওয়ার চেষ্টায় অনেক সন্ন্যাসীতে গাজন নষ্টের মতো বিশৃঙ্খলা দেখা দিল।"
+  ],
+  "example_sentences_in_english": [
+    "Due to too many people interfering in the project, it ended up like too many cooks spoiling the broth.",
+    "Trying to accommodate everyone's opinion in the meeting led to chaos, just like too many cooks spoiling the broth."
+  ],
+  "usage_domain": [
+    "social events",
+    "organizational management",
+    "group decision-making"
+  ],
+  "tags": [
+    "disorder",
+    "leadership",
+    "group dynamics",
+    "chaos"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom references 'Gajan', a traditional Bengali folk festival dedicated to Lord Shiva, involving ascetic performances by sannyasis (ascetics), highlighting how excessive involvement can ruin ritualistic harmony."
+  ],
+  "note": "Gajan is a spring festival in rural Bengal, symbolizing devotion through austerity and communal participation."
+}

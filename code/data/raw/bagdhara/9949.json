@@ -1,0 +1,41 @@
+{
+  "id": "9949",
+  "idiom": "হরিষে বিষাদ",
+  "alternative_idioms": [
+    "হিতে বিপরীত"
+  ],
+  "literal_meaning": "হরিষে (আনন্দে বা উল্লাসে) বিষাদ (দুঃখ)",
+  "figurative_meaning_bn": "আশা পেয়ে আশা ভঙ্গ",
+  "figurative_meaning_en": "Disappointment after fulfillment of hope; benefit turning into harm",
+  "similar_in_english": [
+    "Joy turned to sorrow",
+    "Out of the frying pan, into the fire"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চাকরিটি পেয়ে প্রথমে খুব খুশি হল, কিন্তু পরে হরিষে বিষাদ অনুভব করল যখন দেখল এটি তার স্বপ্নের মতো নয়।",
+    "বিয়ের পর প্রথম কয়েকদিন সুখের, কিন্তু হরিষে বিষাদ এল যখন বাস্তবতা প্রকাশ পেল।"
+  ],
+  "example_sentences_in_english": [
+    "He was overjoyed at first upon getting the job, but soon felt sorrow in joy when he realized it wasn't as he hoped.",
+    "The initial bliss of marriage turned to sorrow in joy as realities emerged."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily life",
+    "relationships"
+  ],
+  "tags": [
+    "disappointment",
+    "irony",
+    "hope",
+    "contrast"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom captures the irony of expectations leading to letdown, common in Bengali expressive language."
+}

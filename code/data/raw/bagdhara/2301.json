@@ -1,0 +1,37 @@
+{
+  "id": "2301",
+  "idiom": "কূট",
+  "alternative_idioms": [],
+  "literal_meaning": "বাঁকা বা কুটিল (crooked or bent)",
+  "figurative_meaning_bn": "শঠ বা কূট চরিত্র",
+  "figurative_meaning_en": "Cunning or deceitful character",
+  "similar_in_english": [
+    "Sly as a fox",
+    "Crafty"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন কূট ব্যক্তি, কখনো বিশ্বাস করা যায় না।",
+    "কূট চালাকিতে সে সবাইকে ধোঁকা দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a cunning person, one can never trust him.",
+    "With his deceitful tricks, he fooled everyone."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature"
+  ],
+  "tags": [
+    "negative trait",
+    "deception",
+    "character description"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Sanskrit 'kūṭa' meaning crooked or fraudulent."
+}

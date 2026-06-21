@@ -1,0 +1,41 @@
+{
+  "id": "7743",
+  "idiom": "বুক করা",
+  "alternative_idioms": [],
+  "literal_meaning": "বুক (booking) করা (to do)",
+  "figurative_meaning_bn": "রেলগাড়ী ইত্যাদির মাধ্যমে মাল পাঠানোর ব্যবস্থা করা",
+  "figurative_meaning_en": "To arrange for sending goods via train or similar means",
+  "similar_in_english": [
+    "To book a shipment",
+    "To freight goods"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি কলকাতা থেকে ঢাকায় মাল বুক করে দিয়েছি।",
+    "এই কোম্পানি সবসময় সময়মতো মাল বুক করে।"
+  ],
+  "example_sentences_in_english": [
+    "I have booked the goods from Kolkata to Dhaka.",
+    "This company always books shipments on time."
+  ],
+  "usage_domain": [
+    "Transportation",
+    "Logistics",
+    "Commerce"
+  ],
+  "tags": [
+    "booking",
+    "shipping",
+    "railway",
+    "goods transport"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from the colonial-era railway booking system in Bengal, where 'booking' referred to reserving space for goods on trains."
+  ],
+  "note": "This idiom reflects the historical integration of railways in everyday Bengali commerce."
+}

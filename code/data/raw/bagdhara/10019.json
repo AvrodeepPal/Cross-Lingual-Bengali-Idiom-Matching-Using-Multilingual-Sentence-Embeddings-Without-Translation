@@ -1,0 +1,40 @@
+{
+  "id": "10019",
+  "idiom": "হা-ঘরে",
+  "alternative_idioms": [],
+  "literal_meaning": "হাহাকার-পূর্ণ ঘরে (house filled with wailing or lamentation)",
+  "figurative_meaning_bn": "আশ্রয়হীন, গৃহহীন, নিদারুণ দৈন্যের জন্য যার ঘরে হাহাকার, হীনবংশীয়",
+  "figurative_meaning_en": "Shelterless and homeless, from a lowly lineage whose home echoes with wails due to extreme poverty",
+  "similar_in_english": [
+    "Down and out",
+    "In the poorhouse",
+    "Living in squalor"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হা-ঘরের ছেলে, কোনো সম্পত্তি নেই তার।",
+    "গ্রামের হা-ঘরে বাস করে সেই পরিবার, দারিদ্র্যের কারণে সবাই কাঁদে।"
+  ],
+  "example_sentences_in_english": [
+    "He is from a ha-ghore family, with no property to his name.",
+    "That family lives in a ha-ghore in the village, crying due to poverty."
+  ],
+  "usage_domain": [
+    "Social commentary",
+    "Literature",
+    "Poverty description"
+  ],
+  "tags": [
+    "দারিদ্র্য",
+    "নিম্নবিত্ত",
+    "হাহাকার",
+    "গৃহহীনতা"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom vividly captures the anguish of rural poverty in Bengali folklore."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "9977",
+  "idiom": "হাঁটু গাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হাঁটু ভাঁজ দেওয়া বা হাঁটু গেড়ে বসা",
+  "figurative_meaning_bn": "অধীনতা স্বীকার করা; নত হওয়া, শ্রদ্ধাজ্ঞাপন করা",
+  "figurative_meaning_en": "To acknowledge submission; to bow down, to show respect",
+  "similar_in_english": [
+    "To bend the knee",
+    "To kowtow",
+    "To go down on one's knees"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ভুল স্বীকার করে হাঁটু গাড়া করল।",
+    "পুরনো রীতি অনুসারে, গুরুর সামনে হাঁটু গাড়া করে প্রণাম করা হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He knelt down to acknowledge his mistake.",
+    "According to old customs, one kneels before the guru to pay respects."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "formal respect",
+    "cultural rituals"
+  ],
+  "tags": [
+    "submission",
+    "humility",
+    "respect",
+    "traditional gesture"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional gestures of deference in Bengali society."
+}

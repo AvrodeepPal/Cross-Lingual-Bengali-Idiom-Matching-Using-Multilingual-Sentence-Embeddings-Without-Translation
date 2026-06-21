@@ -1,0 +1,43 @@
+{
+  "id": "9251",
+  "idiom": "লা ইলাজ",
+  "alternative_idioms": [
+    "এলাজ"
+  ],
+  "literal_meaning": "কোনো চিকিৎসা নেই (আরবি/উর্দু উৎস থেকে 'লা' অর্থ নেই এবং 'ইলাজ' অর্থ চিকিৎসা)",
+  "figurative_meaning_bn": "চিকিৎসার বাইরে",
+  "figurative_meaning_en": "Beyond medical treatment or incurable",
+  "similar_in_english": [
+    "Beyond cure",
+    "Hopeless case",
+    "No remedy"
+  ],
+  "example_sentences_in_bangla": [
+    "এই রোগটি সম্পূর্ণ লা ইলাজ বলে ডাক্তার বলেছেন।",
+    "তার অসুস্থতা লা ইলাজ হয়ে গেছে, কোনো আশা নেই।"
+  ],
+  "example_sentences_in_english": [
+    "The doctor said this disease is completely incurable.",
+    "His condition has become beyond treatment; there's no hope left."
+  ],
+  "usage_domain": [
+    "Medical",
+    "General hopelessness"
+  ],
+  "tags": [
+    "চিকিৎসা",
+    "অসাধ্য",
+    "হতাশা",
+    "উর্দু উদ্ভূত"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই বাগধারা আরবি 'লা ইলাজ' থেকে উদ্ভূত, যা মুসলিম চিকিৎসা ঐতিহ্যে ব্যবহৃত হয়েছে এবং বাংলায় পারসিক-উর্দু প্রভাবের মাধ্যমে প্রচলিত হয়েছে।"
+  ],
+  "note": "প্রায়শই চিকিৎসা প্রসঙ্গে ব্যবহৃত, কিন্তু রূপকভাবে যেকোনো অসাধ্য সমস্যার জন্যও প্রযোজ্য।"
+}

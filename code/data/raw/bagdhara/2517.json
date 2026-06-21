@@ -1,0 +1,38 @@
+{
+  "id": "2517",
+  "idiom": "খবর হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "খবর হয়ে ওঠা বা খবরের মতো হওয়া",
+  "figurative_meaning_bn": "কোন বিশেষ ঘটনা জানাজানি হওয়া; সাড়া পড়ে যাওয়া",
+  "figurative_meaning_en": "A particular event becoming widely known; causing a stir or sensation",
+  "similar_in_english": [
+    "Make headlines",
+    "Cause a stir",
+    "Break the news"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে একটা বড় দুর্ঘটনার খবর হয়েছে।",
+    "সেই খবরটা শহরজুড়ে খবর হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The news of a major accident has spread in the village.",
+    "That news has become the talk of the town."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "News and media"
+  ],
+  "tags": [
+    "সংবাদ",
+    "সাড়া",
+    "জানাজানি"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলা সাহিত্য ও দৈনন্দিন কথোপকথনে ব্যবহৃত হয় সংবাদের বিস্তার বোঝাতে।"
+}

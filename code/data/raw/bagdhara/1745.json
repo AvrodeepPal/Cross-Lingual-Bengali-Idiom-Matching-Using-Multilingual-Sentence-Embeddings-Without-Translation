@@ -1,0 +1,40 @@
+{
+  "id": "1745",
+  "idiom": "কাঁচা খাতা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁচা (raw/uncooked) খাতা (notebook)",
+  "figurative_meaning_bn": "পরিবর্তনশীল; প্রাথমিক; খসড়া",
+  "figurative_meaning_en": "Changeable; preliminary; draft",
+  "similar_in_english": [
+    "rough draft",
+    "work in progress",
+    "beta version"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পরিকল্পনাটি এখনও কাঁচা খাতা, আমরা পরে এটি পরিবর্তন করব।",
+    "তার লেখাটি কাঁচা খাতার মতো, এখনও সম্পূর্ণ নয়।"
+  ],
+  "example_sentences_in_english": [
+    "This plan is still a raw notebook; we'll revise it later.",
+    "His writing is like a rough draft; it's not complete yet."
+  ],
+  "usage_domain": [
+    "writing",
+    "planning",
+    "everyday conversation"
+  ],
+  "tags": [
+    "draft",
+    "preliminary",
+    "changeable",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to an unfinished or editable notebook, common in literary and administrative contexts in Bengali culture."
+}

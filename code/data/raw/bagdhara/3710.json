@@ -1,0 +1,40 @@
+{
+  "id": "3710",
+  "idiom": "চতুর্দশীর চাঁদ, কৃষ্ণা",
+  "alternative_idioms": [],
+  "literal_meaning": "চতুর্দশীর দিনের চাঁদ, কালো/অন্ধকার",
+  "figurative_meaning_bn": "মুমূর্ষ",
+  "figurative_meaning_en": "Moribund; on the verge of death",
+  "similar_in_english": [
+    "At death's door",
+    "One foot in the grave"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অবস্থা এখন চতুর্দশীর চাঁদের মতো কৃষ্ণা হয়ে গেছে।",
+    "রোগীর চেহারা দেখে মনে হচ্ছে চতুর্দশীর চাঁদ, কৃষ্ণা।"
+  ],
+  "example_sentences_in_english": [
+    "His condition is now like the dark moon of the fourteenth day.",
+    "Looking at the patient's face, it seems like the fourteenth moon, dark."
+  ],
+  "usage_domain": [
+    "Health and illness",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "death",
+    "illness",
+    "lunar calendar",
+    "waning moon"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the Bengali lunar calendar, where the moon on the 14th day (Chaturdashi) before the new moon is nearly invisible and dark, symbolizing the approach of darkness or end, akin to impending death."
+  ],
+  "note": "The idiom uses the imagery of the waning moon to evoke finality and dimming life."
+}

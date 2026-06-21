@@ -1,0 +1,40 @@
+{
+  "id": "8027",
+  "idiom": "ভাতারখাকি",
+  "alternative_idioms": [
+    "খাগি"
+  ],
+  "literal_meaning": "ভাতার (স্বামীর) খাকি (ভাত খাওয়া বা খাদক)",
+  "figurative_meaning_bn": "সধবা নারীকে বিধবা বলে দেওয়া গালি",
+  "figurative_meaning_en": "An insult that calls a married woman a widow",
+  "similar_in_english": [
+    "No direct equivalent; similar to calling someone an 'old hag' or 'widow' derogatorily"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার প্রতিবেশীকে ভাতারখাকি বলে গালাগালি করল।",
+    "গ্রামে এই ধরনের গালিতে মহিলাদের অপমান করা হয়, যেমন তাকে খাগি বলে হেনস্থা করা।"
+  ],
+  "example_sentences_in_english": [
+    "He insulted his neighbor by calling her 'bhatarkhaki'.",
+    "In the village, women are humiliated with such insults, like calling her a 'khagi'."
+  ],
+  "usage_domain": [
+    "Insults",
+    "Colloquial",
+    "Gender-specific"
+  ],
+  "tags": [
+    "গালি",
+    "গ্রাম্য",
+    "মহিলা-সম্পর্কিত",
+    "অপমানজনক"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom reflects patriarchal rural attitudes towards women's marital status in Bengali culture."
+}

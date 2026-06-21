@@ -1,0 +1,38 @@
+{
+  "id": "2031",
+  "idiom": "কানামাছি খেলা",
+  "alternative_idioms": [],
+  "literal_meaning": "কানামাছি খেলা (অন্ধকারে ধরাশক্ত খেলা, যেখানে একজন অন্ধকার করে অন্যদের ধরার চেষ্টা করে)",
+  "figurative_meaning_bn": "ধরাছোঁয়া না দেওয়া",
+  "figurative_meaning_en": "to evade capture or pursuit",
+  "similar_in_english": [
+    "play cat and mouse",
+    "give someone the slip"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পুলিশের সাথে কানামাছি খেলছে।",
+    "বাজারে দরদাম করার সময় বিক্রেতা কানামাছি খেলে।"
+  ],
+  "example_sentences_in_english": [
+    "He's playing blind man's buff with the police.",
+    "The seller plays cat and mouse during bargaining in the market."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "evasion contexts",
+    "games and play"
+  ],
+  "tags": [
+    "game idiom",
+    "evasion",
+    "playful pursuit"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Originates from a traditional children's game symbolizing pursuit and evasion in Bengali folklore."
+}

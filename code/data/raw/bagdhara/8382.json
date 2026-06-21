@@ -1,0 +1,44 @@
+{
+  "id": "8382",
+  "idiom": "মস্তিষ্কহীন",
+  "alternative_idioms": [
+    "ঘিলুহীন খুলি",
+    "মাথামোটা",
+    "মাথায় ঘিলু নেই"
+  ],
+  "literal_meaning": "মস্তিষ্কবিহীন বা ব্রেনলেস",
+  "figurative_meaning_bn": "নির্বোধ, বুদ্ধিহীন",
+  "figurative_meaning_en": "Foolish, lacking intelligence or sense",
+  "similar_in_english": [
+    "Brainless",
+    "Empty-headed",
+    "Not the sharpest tool in the shed"
+  ],
+  "example_sentences_in_bangla": [
+    "সে মস্তিষ্কহীনের মতো সিদ্ধান্ত নিয়েছে।",
+    "এই মস্তিষ্কহীন কাজ কে করেছে?"
+  ],
+  "example_sentences_in_english": [
+    "He made a brainless decision.",
+    "Who did this brainless act?"
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insulting",
+    "everyday conversation"
+  ],
+  "tags": [
+    "foolishness",
+    "intelligence",
+    "derogatory",
+    "sarcasm"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from anatomical imagery common in Bengali expressions for intellect."
+}

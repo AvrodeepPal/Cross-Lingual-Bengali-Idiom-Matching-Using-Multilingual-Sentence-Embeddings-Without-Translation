@@ -1,0 +1,37 @@
+{
+  "id": "3686",
+  "idiom": "চড়বড়",
+  "alternative_idioms": [],
+  "literal_meaning": "ধ্বন্যাত্মক শব্দ যা খই ফোটার মতো শব্দ প্রকাশ করে",
+  "figurative_meaning_bn": "ভাজনাখোলায় খইফোটার মতো দ্রুত কথা বলার ধ্বন্যাত্মক শব্দ",
+  "figurative_meaning_en": "An onomatopoeic expression for the sound of rapid, popping speech like puffed rice bursting in a pan",
+  "similar_in_english": [
+    "chatter rapidly",
+    "babble on"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চড়বড় করে কথা বলতে থাকে, কান পাততে কষ্ট হয়।",
+    "বাজারে গিয়ে সবাই চড়বড় করে দরদাম করে।"
+  ],
+  "example_sentences_in_english": [
+    "He talks in a chattering way, it's hard to follow.",
+    "In the market, everyone haggles with rapid chatter."
+  ],
+  "usage_domain": [
+    "spoken language",
+    "everyday conversation"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "speech",
+    "sound imitation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the common Bengali practice of preparing puffed rice (muri or khoi), evoking rural and household sounds."
+}

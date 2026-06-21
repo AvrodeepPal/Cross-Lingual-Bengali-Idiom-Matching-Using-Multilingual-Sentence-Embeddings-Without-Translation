@@ -1,0 +1,39 @@
+{
+  "id": "2990",
+  "idiom": "গলাকাটা দর",
+  "alternative_idioms": [],
+  "literal_meaning": "গলা কাটার মতো দর (throat-cutting price/demand)",
+  "figurative_meaning_bn": "পীড়নমূলক",
+  "figurative_meaning_en": "oppressive or extortionate demand",
+  "similar_in_english": [
+    "cut-throat bargain",
+    "highway robbery"
+  ],
+  "example_sentences_in_bangla": [
+    "ওর দোকানের দামগুলো গলাকাটা দর, কেউ কিনবে না।",
+    "বাজারে এখন সবকিছুর দর গলাকাটা দর হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The prices in his shop are cut-throat; no one will buy.",
+    "Market demands have become extortionate these days."
+  ],
+  "usage_domain": [
+    "commerce",
+    "bargaining",
+    "economics"
+  ],
+  "tags": [
+    "price",
+    "demand",
+    "oppression",
+    "extortion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to unreasonable or excessively high prices/demands in bargaining contexts"
+}

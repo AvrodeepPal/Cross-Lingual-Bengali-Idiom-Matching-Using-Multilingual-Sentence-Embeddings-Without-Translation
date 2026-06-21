@@ -1,0 +1,42 @@
+{
+  "id": "31",
+  "idiom": "অক্ষর পরিচয়",
+  "alternative_idioms": [
+    "অক্ষর জ্ঞান",
+    "অ আ ক খ"
+  ],
+  "literal_meaning": "অক্ষর বা অক্ষরমালার জ্ঞান বা পরিচয়",
+  "figurative_meaning_bn": "সামান্যতম জ্ঞান",
+  "figurative_meaning_en": "The slightest or most basic knowledge",
+  "similar_in_english": [
+    "Not know one's ABCs",
+    "Zero knowledge of something"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বিষয়ে আমার অক্ষর পরিচয় নেই।",
+    "তার কাছে বিজ্ঞানের অক্ষর জ্ঞানও নেই।"
+  ],
+  "example_sentences_in_english": [
+    "I have no acquaintance with this subject at all.",
+    "He doesn't even have the basic knowledge of science."
+  ],
+  "usage_domain": [
+    "education",
+    "everyday conversation",
+    "expressing ignorance"
+  ],
+  "tags": [
+    "knowledge",
+    "literacy",
+    "ignorance",
+    "basics"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom originates from the concept of basic literacy in Bengali education, emphasizing foundational learning."
+}

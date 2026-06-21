@@ -1,0 +1,41 @@
+{
+  "id": "883",
+  "idiom": "ঋষিশ্রাদ্ধ",
+  "alternative_idioms": [],
+  "literal_meaning": "ঋষিদের জন্য শ্রাদ্ধকর্ম",
+  "figurative_meaning_bn": "যে ক্রিয়ার আরম্ভ আড়ম্বরপূর্ণ এবং ফল অকিঞ্চিৎকর; ঘটা করে শুরু লঘু করে শেষ",
+  "figurative_meaning_en": "An action that begins with great pomp and circumstance but yields insignificant results; starts with grandeur and ends trivially",
+  "similar_in_english": [
+    "much ado about nothing",
+    "starts with a bang and ends with a whimper"
+  ],
+  "example_sentences_in_bangla": [
+    "এই অনুষ্ঠানটি ঋষিশ্রাদ্ধের মতো হয়ে দাঁড়াল, বড় আয়োজন কিন্তু কোনো ফল নেই।",
+    "তার ব্যবসায়িক উদ্যোগ ঋষিশ্রাদ্ধের ন্যায়, শুরুতে হৈচৈ কিন্তু শেষে হাওয়া।"
+  ],
+  "example_sentences_in_english": [
+    "The ceremony turned out to be a Rishi Shraddha—grand preparations but no real outcome.",
+    "His business venture was like a Rishi Shraddha: lots of initial fanfare but ultimately futile."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "criticism"
+  ],
+  "tags": [
+    "pomp",
+    "futility",
+    "ritual",
+    "disappointment"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the Hindu ritual of shraddha performed for sages (rishis), which is elaborate but metaphorically highlights actions that promise much but deliver little, rooted in ancient Vedic practices."
+  ],
+  "note": "The idiom draws from Hindu funeral rites, emphasizing the contrast between ritualistic grandeur and practical insignificance."
+}

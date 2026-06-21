@@ -1,0 +1,39 @@
+{
+  "id": "2977",
+  "idiom": "গর্ভস্রাব",
+  "alternative_idioms": [
+    "অকালকুস্মাণ্ড"
+  ],
+  "literal_meaning": "গর্ভপাত বা অকাল স্রাব (miscarriage or premature expulsion from the womb)",
+  "figurative_meaning_bn": "অকালপ্রসুত শিশুতুল্য ব্যর্থজন্মা; অপদার্থ গালিবিশেষ",
+  "figurative_meaning_en": "A prematurely born or failed offspring, used as a special insult for a worthless or incompetent person",
+  "similar_in_english": [
+    "stillborn",
+    "abortive effort"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা গর্ভস্রাবের মতো জীবন যাপন করছে, কোনো সাফল্যই নেই তার।",
+    "এই প্রকল্পটি গর্ভস্রাব হয়ে গেল, সম্পূর্ণ ব্যর্থ।"
+  ],
+  "example_sentences_in_english": [
+    "He lives like a miscarriage, with no success in life.",
+    "This project turned out to be a miscarriage, completely futile."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insults"
+  ],
+  "tags": [
+    "derogatory",
+    "figurative insult",
+    "archaic"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from biological imagery to convey failure and worthlessness, common in older Bengali vernacular."
+}

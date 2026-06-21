@@ -1,0 +1,40 @@
+{
+  "id": "180",
+  "idiom": "অন্ধভক্তি",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ধ ভক্তি (blind devotion)",
+  "figurative_meaning_bn": "যুক্তিবর্জিত প্রশ্নহীন আনুগত্য",
+  "figurative_meaning_en": "Irrational and unquestioning loyalty",
+  "similar_in_english": [
+    "Blind faith",
+    "Unquestioning devotion",
+    "Drinking the Kool-Aid"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অন্ধভক্তির কারণে সে নেতার সবকিছু মেনে নেয়।",
+    "অন্ধভক্তি করে কোনো উন্নতি হয় না, যুক্তি দরকার।"
+  ],
+  "example_sentences_in_english": [
+    "Due to his blind devotion, he accepts everything the leader says.",
+    "Blind faith doesn't lead to progress; reason is necessary."
+  ],
+  "usage_domain": [
+    "politics",
+    "religion",
+    "personal relationships"
+  ],
+  "tags": [
+    "devotion",
+    "blindness",
+    "loyalty",
+    "irrationality"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to critique fanaticism in Bengali discourse"
+}

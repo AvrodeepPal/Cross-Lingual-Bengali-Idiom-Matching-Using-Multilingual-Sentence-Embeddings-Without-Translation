@@ -1,0 +1,42 @@
+{
+  "id": "2351",
+  "idiom": "কেয়ামত",
+  "alternative_idioms": [],
+  "literal_meaning": "শেষবিচারের দিন বা মহাপ্রলয়ের সময়",
+  "figurative_meaning_bn": "মহাপ্রলয়, শেষবিচারের দিন",
+  "figurative_meaning_en": "Doomsday, the Day of Final Judgment",
+  "similar_in_english": [
+    "Doomsday",
+    "Judgment Day",
+    "The end of the world"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকের এই প্রাকৃতিক দুর্যোগ দেখে মনে হচ্ছে কেয়ামত এসে গেছে।",
+    "রাজনৈতিক অস্থিরতার কারণে দেশ কেয়ামতের দ্বারপ্রান্তে পৌঁছে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Looking at this natural disaster today, it feels like doomsday has arrived.",
+    "Due to political instability, the country is on the brink of doomsday."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Apocalyptic scenarios",
+    "Everyday exaggeration for disasters"
+  ],
+  "tags": [
+    "apocalypse",
+    "judgment",
+    "end times",
+    "disaster"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the Arabic term 'Qiyamah' in Islamic eschatology, referring to the resurrection and judgment of all souls on the Day of Judgment."
+  ],
+  "note": "Commonly used in Bengali Muslim contexts to denote ultimate catastrophe or divine reckoning."
+}

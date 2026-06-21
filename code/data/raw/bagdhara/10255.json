@@ -1,0 +1,38 @@
+{
+  "id": "10255",
+  "idiom": "হাফটিকিট",
+  "alternative_idioms": [],
+  "literal_meaning": "অর্ধেক টিকিট",
+  "figurative_meaning_bn": "অল্পবয়স্ক দর্শক বা যাত্রীর জন্য অর্ধেক বা অপেক্ষাকৃত কম মাশুলে ক্রয়যোগ্য টিকিট",
+  "figurative_meaning_en": "A ticket available for purchase at half or comparatively reduced fare for minor viewers or passengers",
+  "similar_in_english": [
+    "half-fare ticket",
+    "child's discount ticket"
+  ],
+  "example_sentences_in_bangla": [
+    "বাচ্চাটির জন্য হাফটিকিট কেটে দিন।",
+    "সিনেমায় শিশুদের জন্য হাফটিকিটের সুবিধা আছে।"
+  ],
+  "example_sentences_in_english": [
+    "Get a half-ticket for the child.",
+    "There's a half-ticket option for kids at the cinema."
+  ],
+  "usage_domain": [
+    "travel",
+    "entertainment",
+    "ticketing"
+  ],
+  "tags": [
+    "children",
+    "discount",
+    "fare reduction"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term originates from colonial-era railway and cinema practices in Bengal, now standardized in Indian ticketing systems."
+}

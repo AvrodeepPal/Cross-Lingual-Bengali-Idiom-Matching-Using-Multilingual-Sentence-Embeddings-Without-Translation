@@ -1,0 +1,40 @@
+{
+  "id": "8391",
+  "idiom": "মহারণ",
+  "alternative_idioms": [],
+  "literal_meaning": "মহান যুদ্ধ বা তীব্র লড়াই",
+  "figurative_meaning_bn": "প্রবল বা উত্তেজনাপূর্ণ প্রতিযোগিতা",
+  "figurative_meaning_en": "Intense or exciting competition",
+  "similar_in_english": [
+    "fierce competition",
+    "battle royale"
+  ],
+  "example_sentences_in_bangla": [
+    "কাল শুরু হবে রাজনৈতিক মহারণ।",
+    "ব্যবসায়িক মহারণে কোম্পানিগুলো প্রস্তুত হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "Tomorrow, the political maharan will begin.",
+    "The companies are gearing up for the business maharan."
+  ],
+  "usage_domain": [
+    "politics",
+    "sports",
+    "business"
+  ],
+  "tags": [
+    "competition",
+    "rivalry",
+    "intensity"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the Mahabharata epic, referring to the great Kurukshetra war as a metaphor for intense battles or competitions."
+  ],
+  "note": "Often used in contexts evoking epic struggles from Hindu mythology."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1356",
+  "idiom": "কড়া কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "কড়া (harsh/strict) কথা (words)",
+  "figurative_meaning_bn": "কর্কশ কথা, তিরস্কার",
+  "figurative_meaning_en": "harsh words, reprimand",
+  "similar_in_english": [
+    "harsh words",
+    "give someone a piece of one's mind",
+    "scold"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ছেলেকে কড়া কথা বলে শাসন করল।",
+    "মাস্টার কড়া কথা বলে শিক্ষার্থীদের সতর্ক করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "He reprimanded his son with harsh words.",
+    "The teacher warned the students with stern words."
+  ],
+  "usage_domain": [
+    "communication",
+    "discipline",
+    "family"
+  ],
+  "tags": [
+    "harsh",
+    "scolding",
+    "reprimand"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in everyday Bengali speech to denote verbal admonishment."
+}

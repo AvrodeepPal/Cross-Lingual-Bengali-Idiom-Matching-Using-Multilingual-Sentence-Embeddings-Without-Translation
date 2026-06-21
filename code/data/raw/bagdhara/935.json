@@ -1,0 +1,41 @@
+{
+  "id": "935",
+  "idiom": "এককলসী দুধে একফোঁটা চোনা",
+  "alternative_idioms": [],
+  "literal_meaning": "এক কলসী দুধে এক ফোঁটা চোনা",
+  "figurative_meaning_bn": "একদোষে সবগুণ নষ্ট; এমন উৎকট মন্দ জিনিস যার অত্যল্প পরিমাণ প্রচুর ভালো জিনিস নষ্ট করতে পারে",
+  "figurative_meaning_en": "One fault spoils all virtues; a highly malicious thing whose tiny amount can ruin a large quantity of good things",
+  "similar_in_english": [
+    "One bad apple spoils the whole barrel",
+    "A fly in the ointment"
+  ],
+  "example_sentences_in_bangla": [
+    "তার একটি ছোট ভুলের জন্য পুরো পরিবারের সুখ এককলসী দুধে একফোঁটা চোনা হয়ে গেল।",
+    "এই প্রকল্পে একজন অসৎ কর্মীর উপস্থিতি সবকিছুকে এককলসী দুধে একফোঁটা চোনা করে দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Due to his one small mistake, the entire family's happiness turned into one drop of lime in a pot of milk.",
+    "The presence of one dishonest employee has spoiled the whole project like one drop of lime in a pot of milk."
+  ],
+  "usage_domain": [
+    "moral lessons",
+    "warnings",
+    "everyday advice"
+  ],
+  "tags": [
+    "spoiling",
+    "fault",
+    "ruin",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from traditional Bengali rural practices where lime (chona) is known to curdle and spoil milk instantly, even in small quantities, symbolizing how minor negativity can ruin wholes."
+  ],
+  "note": "The idiom draws from everyday dairy handling in agrarian Bengali society."
+}

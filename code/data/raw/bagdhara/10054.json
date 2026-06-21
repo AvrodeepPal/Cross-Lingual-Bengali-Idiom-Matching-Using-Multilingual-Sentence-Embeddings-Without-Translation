@@ -1,0 +1,39 @@
+{
+  "id": "10054",
+  "idiom": "হাড়পেকে",
+  "alternative_idioms": [],
+  "literal_meaning": "হাড় পেকে যাওয়া (bone decayed or rotten)",
+  "figurative_meaning_bn": "অতিশয় কৃশ",
+  "figurative_meaning_en": "Extremely thin or emaciated",
+  "similar_in_english": [
+    "Skin and bones",
+    "Skinny as a rail"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দীর্ঘদিনের অনাহারের কারণে হাড়পেকে হয়ে গেছে।",
+    "গ্রামের সেই বৃদ্ধ লোকটি হাড়পেকে চেহারার সাথে এখনও কাজ করে।"
+  ],
+  "example_sentences_in_english": [
+    "He has become skin and bones due to prolonged starvation.",
+    "That elderly villager, with his emaciated frame, still works in the fields."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Physical description",
+    "Health and nutrition"
+  ],
+  "tags": [
+    "thinness",
+    "emaciation",
+    "body image",
+    "descriptive"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom evokes imagery of severe malnutrition, common in rural Bengali contexts."
+}

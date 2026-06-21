@@ -1,0 +1,42 @@
+{
+  "id": "5157",
+  "idiom": "ডামাডোল",
+  "alternative_idioms": [],
+  "literal_meaning": "ডামার আওয়াজ এবং গোলমাল (drumbeat and tumult)",
+  "figurative_meaning_bn": "গণ্ডগোল, বিশৃঙ্খলা",
+  "figurative_meaning_en": "Commotion, disorder",
+  "similar_in_english": [
+    "Uproar",
+    "Chaos",
+    "Hullabaloo"
+  ],
+  "example_sentences_in_bangla": [
+    "যুদ্ধের ডামাডোলে সবকিছু উলটপালট হয়ে গেল।",
+    "বাজারে হঠাৎ ডামাডোল পড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "In the commotion of the war, everything turned upside down.",
+    "Suddenly, there was chaos in the market."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Describing conflicts",
+    "Narratives"
+  ],
+  "tags": [
+    "Disorder",
+    "Noise",
+    "Turmoil",
+    "War-related"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom originates from the sounds of war drums (ডামা) and the resulting tumult (ডোল) during battles in historical contexts."
+  ],
+  "note": "Onomatopoeic expression capturing auditory chaos."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6799",
+  "idiom": "পাততাড়ি পড়ো",
+  "alternative_idioms": [],
+  "literal_meaning": "পাততাড়ি (প্রাথমিক পাঠ্যপুস্তক বা শিশু-শিক্ষার প্রথম ধাপ) পড়া",
+  "figurative_meaning_bn": "শিশুশ্রেণির ছাত্র",
+  "figurative_meaning_en": "Kindergarten or primary school pupil",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "সে এখনও পাততাড়ি পড়ো করছে।",
+    "বাচ্চাটির বয়স হয়েছে পাততাড়ি পড়োর জন্য।"
+  ],
+  "example_sentences_in_english": [
+    "He is still attending kindergarten.",
+    "The child is old enough to start primary school."
+  ],
+  "usage_domain": [
+    "Education",
+    "Childhood"
+  ],
+  "tags": [
+    "learning",
+    "school",
+    "beginner",
+    "children"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the early stages of formal education in Bengali culture, often associated with traditional pathshalas or modern kindergartens."
+}

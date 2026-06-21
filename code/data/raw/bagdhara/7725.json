@@ -1,0 +1,43 @@
+{
+  "id": "7725",
+  "idiom": "বিষদৃষ্টি",
+  "alternative_idioms": [
+    "নজর"
+  ],
+  "literal_meaning": "বিষাক্ত দৃষ্টি",
+  "figurative_meaning_bn": "কু নজর",
+  "figurative_meaning_en": "Evil eye",
+  "similar_in_english": [
+    "Evil eye",
+    "The glance of the evil eye"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বিষদৃষ্টি থেকে বাঁচতে আমরা কাজুবাদামের টুকরো ব্যবহার করি।",
+    "শিশুর উপর কারো নজর লাগলে সে অসুস্থ হয়ে পড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "To protect from her evil eye, we use pieces of betel nut.",
+    "If someone casts an evil eye on the child, he falls ill."
+  ],
+  "usage_domain": [
+    "Superstition",
+    "Daily conversation",
+    "Folk beliefs"
+  ],
+  "tags": [
+    "evil eye",
+    "superstition",
+    "protection",
+    "gaze"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The concept of evil eye is rooted in ancient folk beliefs across South Asia, often warded off with amulets or rituals in Bengali culture."
+  ],
+  "note": "The idiom reflects widespread superstitious beliefs in Bengali society to avert misfortune caused by envious glances."
+}

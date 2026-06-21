@@ -1,0 +1,40 @@
+{
+  "id": "7559",
+  "idiom": "বানরমুখো",
+  "alternative_idioms": [
+    "বানর"
+  ],
+  "literal_meaning": "বানরের মতো মুখবিশিষ্ট",
+  "figurative_meaning_bn": "কদাকার দর্শনের ব্যক্তি, গালি বিশেষ",
+  "figurative_meaning_en": "An ugly-looking person; a specific insult",
+  "similar_in_english": [
+    "Monkey-faced",
+    "Ugly as a monkey"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এতটাই বানরমুখো যে সবাই তাকে দেখে হাসে।",
+    "তোমার বানরমুখো ভাইকে আর এখানে আনো না।"
+  ],
+  "example_sentences_in_english": [
+    "He is so monkey-faced that everyone laughs when they see him.",
+    "Don't bring your monkey-faced brother here anymore."
+  ],
+  "usage_domain": [
+    "Colloquial insults",
+    "Descriptions of appearance"
+  ],
+  "tags": [
+    "Insult",
+    "Physical appearance",
+    "Animal metaphor",
+    "Derogatory"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses animal imagery common in Bengali slang for mocking appearance."
+}

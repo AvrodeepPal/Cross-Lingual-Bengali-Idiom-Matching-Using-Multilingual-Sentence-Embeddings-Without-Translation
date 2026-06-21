@@ -1,0 +1,37 @@
+{
+  "id": "8866",
+  "idiom": "মোটা কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "স্থূল বা অশ্লীল কথা",
+  "figurative_meaning_bn": "স্থূল কথাবার্তা",
+  "figurative_meaning_en": "coarse or vulgar language",
+  "similar_in_english": [
+    "foul language",
+    "coarse speech"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কখনো মোটা কথা বলে না।",
+    "সভায় মোটা কথা বলা উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He never uses coarse language.",
+    "It's inappropriate to use vulgar words in a meeting."
+  ],
+  "usage_domain": [
+    "social etiquette",
+    "conversation"
+  ],
+  "tags": [
+    "vulgarity",
+    "speech",
+    "politeness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to unrefined or indecent speech in everyday Bengali usage."
+}

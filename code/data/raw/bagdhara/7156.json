@@ -1,0 +1,39 @@
+{
+  "id": "7156",
+  "idiom": "ফুরফুরে",
+  "alternative_idioms": [],
+  "literal_meaning": "হালকা ও ফুরফুরানো শব্দের অনুকরণ (onomatopoeic for light fluttering)",
+  "figurative_meaning_bn": "মনোরম, মৃদুমন্দগতি, লঘু, হালকা",
+  "figurative_meaning_en": "pleasant, gentle and mild movement, light, airy",
+  "similar_in_english": [
+    "light as a feather",
+    "breezy",
+    "airy"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকের বাতাসটা খুব ফুরফুরে লাগছে।",
+    "তার মেজাজ ফুরফুরে হয়ে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Today's breeze feels delightfully light and airy.",
+    "Her mood has become pleasantly light-hearted."
+  ],
+  "usage_domain": [
+    "weather",
+    "mood",
+    "nature description"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "descriptive",
+    "positive"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used in poetic and everyday Bengali to evoke a sense of lightness and pleasure in natural elements."
+}

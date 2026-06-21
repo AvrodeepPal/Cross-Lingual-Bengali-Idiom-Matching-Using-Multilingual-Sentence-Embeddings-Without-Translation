@@ -1,0 +1,41 @@
+{
+  "id": "5435",
+  "idiom": "তিরোধান",
+  "alternative_idioms": [],
+  "literal_meaning": "অদৃশ্য হওয়া বা লुप্ত হওয়া",
+  "figurative_meaning_bn": "মহাপুরুষের মৃত্যু",
+  "figurative_meaning_en": "The passing away of a great person",
+  "similar_in_english": [
+    "passing of a great soul",
+    "departure of a noble figure"
+  ],
+  "example_sentences_in_bangla": [
+    "রবীন্দ্রনাথ ঠাকুরের তিরোধান বাংলা সাহিত্যের এক অপূরণীয় ক্ষতি।",
+    "স্বামী বিবেকানন্দের তিরোধানে ভারতবর্ষ শোকাহত হয়।"
+  ],
+  "example_sentences_in_english": [
+    "The tiródhāna of Rabindranath Tagore was an irreparable loss to Bengali literature.",
+    "India was plunged into grief by the tiródhāna of Swami Vivekananda."
+  ],
+  "usage_domain": [
+    "formal writing",
+    "obituaries",
+    "literary discussions"
+  ],
+  "tags": [
+    "death",
+    "eulogy",
+    "respect",
+    "spiritual passing"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term originates from Sanskrit and is commonly used in Bengali literature to respectfully denote the death of revered figures like saints, poets, and leaders, reflecting a cultural reverence for spiritual and intellectual giants."
+  ],
+  "note": "The term carries a dignified, non-colloquial tone, avoiding crude references to death."
+}

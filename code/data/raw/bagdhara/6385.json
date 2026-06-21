@@ -1,0 +1,40 @@
+{
+  "id": "6385",
+  "idiom": "নামমাত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "নামের মাত্রা বা শুধু নামে",
+  "figurative_meaning_bn": "অতি সামান্য পরিমাণ, যৎসামান্য",
+  "figurative_meaning_en": "Very small amount, nominal or mere token",
+  "similar_in_english": [
+    "In name only",
+    "Nominal",
+    "Token gesture"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বেতন নামমাত্র, যা খরচ চালানোর জন্য যথেষ্ট নয়।",
+    "এই সাহায্য নামমাত্র, কোনো বাস্তব উপকার হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "His salary is nominal, not enough to cover expenses.",
+    "This help is mere token, it won't make any real difference."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Finance",
+    "Descriptions of minimal efforts"
+  ],
+  "tags": [
+    "quantity",
+    "minimal",
+    "nominal",
+    "insufficient"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes something that exists only superficially or in minimal form, common in Bengali colloquial speech."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "131",
+  "idiom": "অধিমাস",
+  "alternative_idioms": [
+    "মলমাস"
+  ],
+  "literal_meaning": "অতিরিক্ত চান্দ্রমাস যাতে দুটি অমাবস্যা পড়ে",
+  "figurative_meaning_bn": "অতিরিক্ত চান্দ্রমাস, যে মাসে দুটি অমাবস্যা পড়ে",
+  "figurative_meaning_en": "An extra lunar month in which two new moons occur",
+  "similar_in_english": [
+    "intercalary month",
+    "adhik maas"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বছর অধিমাস পড়ায় উৎসবের তারিখ একটু সরে গেছে।",
+    "হিন্দু পঞ্জিকায় অধিমাসের হিসাব করে বছরের দৈর্ঘ্য ঠিক করা হয়।"
+  ],
+  "example_sentences_in_english": [
+    "This year, due to the adhik maas, the festival dates have shifted slightly.",
+    "The Hindu calendar adjusts the year's length by accounting for the intercalary month."
+  ],
+  "usage_domain": [
+    "Calendar",
+    "Religion",
+    "Astronomy"
+  ],
+  "tags": [
+    "চান্দ্র ক্যালেন্ডার",
+    "হিন্দু ঐতিহ্য",
+    "অমাবস্যা"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The adhik maas is part of the Hindu lunisolar calendar system, introduced to synchronize lunar months with the solar year, dating back to ancient Vedic traditions."
+  ],
+  "note": "This term is more of a calendrical concept than a purely figurative idiom, but used idiomatically in cultural contexts."
+}

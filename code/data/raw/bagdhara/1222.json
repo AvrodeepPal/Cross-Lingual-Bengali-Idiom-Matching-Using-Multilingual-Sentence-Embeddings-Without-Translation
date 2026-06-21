@@ -1,0 +1,44 @@
+{
+  "id": "1222",
+  "idiom": "ইরাদা",
+  "alternative_idioms": [
+    "এরাদা"
+  ],
+  "literal_meaning": "অভিপ্রায় বা ইচ্ছার প্রকাশ (আরবি উদ্ভবের শব্দ)",
+  "figurative_meaning_bn": "অভিপ্রায়; ইচ্ছা, সংকল্প",
+  "figurative_meaning_en": "intention; desire, resolve",
+  "similar_in_english": [
+    "intention",
+    "willpower",
+    "resolve"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ইরাদা স্পষ্ট করে বলুন।",
+    "এই কাজের জন্য আমার কোনো ইরাদা নেই।"
+  ],
+  "example_sentences_in_english": [
+    "Make your intention clear.",
+    "I have no intention of doing this job."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "decision making",
+    "planning"
+  ],
+  "tags": [
+    "intention",
+    "will",
+    "resolve",
+    "Arabic origin"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The word 'ইরাদা' originates from Arabic 'irāda', introduced to Bengali through Islamic influence during the medieval period in Bengal."
+  ],
+  "note": "This is more of a borrowed lexical item than a traditional idiomatic expression, but commonly used in idiomatic senses in Bengali."
+}

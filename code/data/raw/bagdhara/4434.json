@@ -1,0 +1,40 @@
+{
+  "id": "4434",
+  "idiom": "ছোলেনামা",
+  "alternative_idioms": [
+    "সোলেনামা"
+  ],
+  "literal_meaning": "আপোস বা সমঝোতার দলিল (etymologically possibly from Persian 'sulh-nama' meaning peace document)",
+  "figurative_meaning_bn": "আপোস-মীমাংসা বা নিষ্পত্তির দলিল",
+  "figurative_meaning_en": "Document of compromise or settlement in a dispute",
+  "similar_in_english": [
+    "out-of-court settlement",
+    "compromise agreement"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই পক্ষের মধ্যে ছোলেনামা স্বাক্ষরিত হয়েছে।",
+    "আদালতে গিয়ে ছোলেনামা করে তারা মামলা শেষ করল।"
+  ],
+  "example_sentences_in_english": [
+    "A cholenama was signed between the two parties.",
+    "They went to court and ended the case with a compromise document."
+  ],
+  "usage_domain": [
+    "legal",
+    "dispute resolution"
+  ],
+  "tags": [
+    "legal term",
+    "compromise",
+    "settlement",
+    "document"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is a specialized legal term in Bengali, often used in formal dispute resolutions; variant 'সোলেনামা' may derive from historical Persian influences in Bengali legal language."
+}

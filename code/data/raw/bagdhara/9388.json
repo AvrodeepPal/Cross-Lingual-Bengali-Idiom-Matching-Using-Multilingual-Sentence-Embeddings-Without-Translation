@@ -1,0 +1,41 @@
+{
+  "id": "9388",
+  "idiom": "শকুনিমামার পরামর্শ",
+  "alternative_idioms": [],
+  "literal_meaning": "শকুনির মামার পরামর্শ (vulture uncle's advice)",
+  "figurative_meaning_bn": "দুষ্ট-আত্মীয়ের কুমন্ত্রণা",
+  "figurative_meaning_en": "Malicious counsel from a wicked relative",
+  "similar_in_english": [
+    "Advice from the devil",
+    "Counsel of the wicked"
+  ],
+  "example_sentences_in_bangla": [
+    "তার শকুনিমামার পরামর্শ শুনে সে সম্পত্তি বিক্রি করে দিল এবং পরে অনুতাপ করল।",
+    "ব্যবসায়ে শকুনিমামার পরামর্শ নেওয়া উচিত নয়, নইলে ক্ষতির মুখোমুখি হতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "Heeding his vulture uncle's advice, he sold his property and later regretted it deeply.",
+    "One should never take the vulture uncle's advice in business, or face sure loss."
+  ],
+  "usage_domain": [
+    "family",
+    "advice",
+    "warning"
+  ],
+  "tags": [
+    "negative",
+    "relatives",
+    "cunning",
+    "malicious"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from Bengali folklore where vultures symbolize deceitful or opportunistic relatives, often in rural family contexts, warning against trusting insincere kin."
+  ],
+  "note": "The idiom uses animal metaphor common in Bengali oral traditions to highlight familial betrayals."
+}

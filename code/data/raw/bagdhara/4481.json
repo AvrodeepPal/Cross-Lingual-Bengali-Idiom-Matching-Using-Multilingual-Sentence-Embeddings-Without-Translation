@@ -1,0 +1,38 @@
+{
+  "id": "4481",
+  "idiom": "জনা-জনা",
+  "alternative_idioms": [],
+  "literal_meaning": "জনের দ্বিত্বশব্দ (প্রতিজনকে নির্দেশকারী পুনরাবৃত্তি)",
+  "figurative_meaning_bn": "প্রত্যেকে; একজন একজন করে",
+  "figurative_meaning_en": "each one; one by one",
+  "similar_in_english": [
+    "one by one",
+    "each and every"
+  ],
+  "example_sentences_in_bangla": [
+    "জনা-জনা এগিয়ে এসো।",
+    "জনা-জনা তাদের নাম বলুন।"
+  ],
+  "example_sentences_in_english": [
+    "Come forward one by one.",
+    "Each one should state their name."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "instructions",
+    "group settings"
+  ],
+  "tags": [
+    "reduplication",
+    "quantifier",
+    "collective expression"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a standard reduplicative form in Bengali for emphasizing individuality in a group."
+}

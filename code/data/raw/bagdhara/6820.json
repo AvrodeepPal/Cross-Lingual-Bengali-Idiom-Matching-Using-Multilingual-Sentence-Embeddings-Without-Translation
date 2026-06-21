@@ -1,0 +1,37 @@
+{
+  "id": "6820",
+  "idiom": "পান্তাভাতে টকো দই",
+  "alternative_idioms": [],
+  "literal_meaning": "পান্তা ভাতে টক দই (fermented rice with sour curd)",
+  "figurative_meaning_bn": "অখাদ্যতম; অখাদ্যের অখাদ্য",
+  "figurative_meaning_en": "The most inedible; the inedible among the inedible",
+  "similar_in_english": [
+    "rubbing salt in the wound",
+    "the last straw"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পরিস্থিতিতে তার কথা শুনে মনে হলো পান্তাভাতে টকো দই যোগ করা হয়েছে।",
+    "প্রকল্পটি ইতিমধ্যে ব্যর্থ, এখন এই সিদ্ধান্ত তো পান্তাভাতে টকো দই।"
+  ],
+  "example_sentences_in_english": [
+    "Hearing his words in this situation felt like adding sour curd to panta bhat.",
+    "The project was already failing, and this decision is like sour curd on panta bhat."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Describing worsening situations"
+  ],
+  "tags": [
+    "food-related",
+    "negative exaggeration",
+    "cultural idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Rooted in traditional Bengali rural cuisine where panta bhat is a staple, emphasizing something that makes an already unpleasant thing worse."
+}

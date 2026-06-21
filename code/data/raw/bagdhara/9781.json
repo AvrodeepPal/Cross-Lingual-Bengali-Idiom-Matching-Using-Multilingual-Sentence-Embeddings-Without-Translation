@@ -1,0 +1,39 @@
+{
+  "id": "9781",
+  "idiom": "সিন্ধুতে বিন্দু",
+  "alternative_idioms": [],
+  "literal_meaning": "সিন্ধুতে একটি বিন্দু (a drop in the Sindhu/ocean)",
+  "figurative_meaning_bn": "প্রয়োজনের তুলনায় অকিঞ্চিৎকর সরবরাহ",
+  "figurative_meaning_en": "an insignificant supply compared to the need",
+  "similar_in_english": [
+    "a drop in the ocean",
+    "a drop in the bucket"
+  ],
+  "example_sentences_in_bangla": [
+    "এই অল্প সাহায্য তো সিন্ধুতে বিন্দুর মতো, সমস্যা সমাধান হবে না।",
+    "তার দান সিন্ধুতে বিন্দুর মতো ছিল, কোনো প্রভাব পড়েনি।"
+  ],
+  "example_sentences_in_english": [
+    "This small help is like a drop in the ocean; it won't solve the problem.",
+    "His donation was a drop in the ocean, making no real impact."
+  ],
+  "usage_domain": [
+    "finance",
+    "aid and relief",
+    "effort and contribution"
+  ],
+  "tags": [
+    "insignificance",
+    "comparison",
+    "nature metaphor",
+    "inadequacy"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the vastness of the ocean (Sindhu) to emphasize futility or minimal impact."
+}

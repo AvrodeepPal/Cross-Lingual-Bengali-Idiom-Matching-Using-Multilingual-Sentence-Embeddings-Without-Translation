@@ -1,0 +1,40 @@
+{
+  "id": "7035",
+  "idiom": "প্রাতর্বাক্য",
+  "alternative_idioms": [],
+  "literal_meaning": "প্রাতঃকালীন উক্তি বা বাক্য",
+  "figurative_meaning_bn": "বিপরীত অর্থে অমঙ্গলপ্রার্থনার বাক্য; অভিশাপবাক্য",
+  "figurative_meaning_en": "Words wishing misfortune or a curse, especially uttered in the morning and believed to be particularly effective",
+  "similar_in_english": [
+    "No direct equivalent, but akin to 'malediction' or morning ill-wishes in folklore"
+  ],
+  "example_sentences_in_bangla": [
+    "সকালে তার প্রতি প্রাতর্বাক্য বলে ফেললাম, যেন তার দিনটা খারাপ যাক।",
+    "প্রাতর্বাক্যে যম যেন তোমাকে না ভোলে, এমন অভিশাপ দিল।"
+  ],
+  "example_sentences_in_english": [
+    "I uttered a morning curse against him, hoping his day would go badly.",
+    "May Yama not call you with morning words, he cursed."
+  ],
+  "usage_domain": [
+    "superstition",
+    "curses",
+    "folk beliefs"
+  ],
+  "tags": [
+    "অভিশাপ",
+    "সকাল",
+    "লোকবিশ্বাস",
+    "বিপরীত অর্থ"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Bengali folk belief that blessings or curses spoken in the early morning are believed to manifest more powerfully, similar to how morning prayers are thought to be efficacious."
+  ],
+  "note": "The idiom plays on the contrast with morning blessings (প্রাতঃকালীন আশীর্বাদ), inverting it to a curse involving Yama, the god of death."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "7605",
+  "idiom": "বামুন দাদা/দিদি/মা",
+  "alternative_idioms": [
+    "বামণ দাদা",
+    "বামণ দিদি",
+    "বামণ মা"
+  ],
+  "literal_meaning": "ব্রাহ্মণ দাদা/দিদি/মা (Brahmin elder brother/sister/mother)",
+  "figurative_meaning_bn": "হিন্দু অন্য তিন নিম্নবর্ণের গ্রাম্যসম্পর্কে দাদা, দিদি ও মা",
+  "figurative_meaning_en": "In Hindu society, the rural lower castes addressing Brahmins as elder brother, sister, or mother to show respect or familiarity",
+  "similar_in_english": [
+    "Calling someone 'big brother' or 'auntie' in a respectful, pseudo-familial way"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে বামুন দাদাকে সবাই খুব সম্মান করে।",
+    "নিম্নবর্ণের লোকেরা ব্রাহ্মণকে বামুন মা বলে ডাকে।"
+  ],
+  "example_sentences_in_english": [
+    "In the village, everyone respects the Brahmin dada highly.",
+    "Lower caste people address the Brahmin woman as Brahmin ma."
+  ],
+  "usage_domain": [
+    "Social relations",
+    "Rural family dynamics"
+  ],
+  "tags": [
+    "caste system",
+    "Hindu society",
+    "rural respect",
+    "familial address"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Rooted in the traditional Hindu varna system where Brahmins are revered by other castes in rural Bengal."
+  ],
+  "note": "Variations like বামণ/বামুন reflect dialectical differences in Bengali pronunciation."
+}

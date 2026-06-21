@@ -1,0 +1,41 @@
+{
+  "id": "7187",
+  "idiom": "ফিরিশতা",
+  "alternative_idioms": [
+    "ফেরেশতা"
+  ],
+  "literal_meaning": "স্বর্গীয় দূত বা ফেরেশতা",
+  "figurative_meaning_bn": "বার্তাবাহক",
+  "figurative_meaning_en": "messenger or bearer of news",
+  "similar_in_english": [
+    "herald",
+    "courier"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খবরটা নিয়ে ফিরিশতার মতো ছুটে এলো।",
+    "এই চিঠিটা ফিরিশতার হাতে পৌঁছে দাও।"
+  ],
+  "example_sentences_in_english": [
+    "He rushed in like a messenger with the news.",
+    "Deliver this letter through a reliable courier."
+  ],
+  "usage_domain": [
+    "communication",
+    "news"
+  ],
+  "tags": [
+    "religious",
+    "metaphorical",
+    "persian-origin"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the Persian/Arabic word 'farishta' meaning angel, often used in Bengali literature to denote a swift or divine messenger."
+  ],
+  "note": "Variants reflect dialectical pronunciations in Bengali."
+}

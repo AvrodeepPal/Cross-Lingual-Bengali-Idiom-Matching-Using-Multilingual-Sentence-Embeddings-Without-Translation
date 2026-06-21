@@ -1,0 +1,43 @@
+{
+  "id": "4703",
+  "idiom": "জেঠামি",
+  "alternative_idioms": [
+    "জেঠামো",
+    "জ্যাঠামি",
+    "জেঠামো"
+  ],
+  "literal_meaning": "জেঠার মতো আচরণ (পিতৃভ্রাতার মতো ব্যবহার)",
+  "figurative_meaning_bn": "মুরব্বির চাল; মাতব্বরি",
+  "figurative_meaning_en": "Bossy or authoritative demeanor; acting like an elder or superior",
+  "similar_in_english": [
+    "Putting on airs",
+    "Lord it over someone"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ছোট ভাইদের সামনে জেঠামি করে।",
+    "অফিসে বস জেঠামি দেখাতে চায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He puts on a jethami attitude in front of his younger siblings.",
+    "The boss doesn't want to show jethami behavior in the office."
+  ],
+  "usage_domain": [
+    "Family dynamics",
+    "Social interactions",
+    "Workplace hierarchy"
+  ],
+  "tags": [
+    "authority",
+    "elderly behavior",
+    "arrogance",
+    "family relations"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from 'জেঠা' (paternal uncle), reflecting traditional joint family structures in Bengali culture"
+}

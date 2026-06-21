@@ -1,0 +1,37 @@
+{
+  "id": "10152",
+  "idiom": "হাত পা চলা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত এবং পা নড়াচড়া করা",
+  "figurative_meaning_bn": "একইসঙ্গে হাত ও পা দিয়ে মারা, চড় ঘুষি ও লাথি মারা",
+  "figurative_meaning_en": "Beating someone simultaneously with hands and feet, including slaps, punches, and kicks",
+  "similar_in_english": [
+    "beat someone black and blue",
+    "pummel with fists and feet"
+  ],
+  "example_sentences_in_bangla": [
+    "রাগের মあまり সে তার বন্ধুকে হাত পা চলা।",
+    "ঝগড়ায় তারা একে অপরকে হাত পা চলতে শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "In a fit of anger, he beat his friend with hands and feet.",
+    "During the fight, they started beating each other with hands and feet."
+  ],
+  "usage_domain": [
+    "physical conflict",
+    "expression of anger"
+  ],
+  "tags": [
+    "violence",
+    "fight",
+    "aggression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly describes physical altercations common in everyday Bengali discourse."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3745",
+  "idiom": "ছেলে চরানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ছেলেদের চরানো (বাছুর বা পশু চরানোর মতো)",
+  "figurative_meaning_bn": "বিদ্রূপে পড়ানো, শিক্ষকতা করা",
+  "figurative_meaning_en": "Teaching or tutoring in a sarcastic or belittling manner",
+  "similar_in_english": [
+    "Herding cats (for difficult management)",
+    "Babysitting (derogatory for simple supervision)"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি ছেলে চরিয়ে পেট চালাই।",
+    "সে ছেলে চরানো করে জীবিকা নির্বাহ করে।"
+  ],
+  "example_sentences_in_english": [
+    "I make a living by grazing boys (teaching kids).",
+    "He earns his keep by herding boys (tutoring sarcastically)."
+  ],
+  "usage_domain": [
+    "Education",
+    "Daily conversation",
+    "Sarcasm"
+  ],
+  "tags": [
+    "বিদ্রূপ",
+    "শিক্ষা",
+    "জীবিকা",
+    "গ্রামীণ"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom implies menial teaching job, rooted in rural pastoral imagery"
+}

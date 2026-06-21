@@ -1,0 +1,42 @@
+{
+  "id": "3299",
+  "idiom": "গোঁজামিল",
+  "alternative_idioms": [],
+  "literal_meaning": "জোর করে বা ভুলভাবে মিলানো (forced or patched matching)",
+  "figurative_meaning_bn": "বাজে বুঝ দেওয়া মিল; বাজে হিসাব দিয়ে অঙ্ক মিলিয়ে দেওয়া; কোনরকমে জোড়াতালি দিয়ে হিসাব মেলানো; ফাঁকি; যেন-তেন-প্রকারেণ মিল",
+  "figurative_meaning_en": "Falsely balancing accounts; making numbers match with bogus calculations; somehow patching up the accounts by force; trickery; by hook or by crook making it balance",
+  "similar_in_english": [
+    "Cook the books",
+    "Fudge the numbers",
+    "Patch it up"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হিসাবে গোঁজামিল করে সব মিলিয়ে দিয়েছে।",
+    "কাজিতে গোঁজামিলের মতো বিচার হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He did a ghoja mil on the accounts to make everything balance falsely.",
+    "The judgment was like a ghoja mil by the kazi."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Accounting",
+    "Deception"
+  ],
+  "tags": [
+    "হিসাব",
+    "ফাঁকি",
+    "জোর করে মিলানো",
+    "বিচার"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এটি কাজীর বিচারের সাথে যুক্ত, যেখানে কাজি (মুসলিম বিচারক) জোর করে বা ভুলভাবে মামলা মিটিয়ে দিতেন।"
+  ],
+  "note": "ইডিয়মটি ঐতিহ্যবাহী বিচার ব্যবস্থা থেকে উদ্ভূত, বিশেষ করে গ্রামীণ বাংলায় প্রচলিত।"
+}

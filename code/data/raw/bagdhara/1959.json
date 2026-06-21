@@ -1,0 +1,42 @@
+{
+  "id": "1959",
+  "idiom": "কাড়াকড়ি",
+  "alternative_idioms": [
+    "কানা কড়ি",
+    "ফুটা কড়ি"
+  ],
+  "literal_meaning": "খুঁতযুক্ত বা ভাঙা কড়ি",
+  "figurative_meaning_bn": "অতিতুচ্ছ, মূল্যহীন",
+  "figurative_meaning_en": "extremely trivial or worthless",
+  "similar_in_english": [
+    "not worth a dime",
+    "two a penny"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পুরনো জিনিসপত্র কাড়াকড়ির মতো মূল্যহীন।",
+    "তার কথা কাড়াকড়ি বলে কেউ গুরুত্ব দেয় না।"
+  ],
+  "example_sentences_in_english": [
+    "These old things are as worthless as broken cowries.",
+    "No one pays attention to his words; they're like worthless trinkets."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "valuation and worth"
+  ],
+  "tags": [
+    "worthless",
+    "trivial",
+    "currency reference"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "কড়ি (cowrie shells) was a traditional form of currency in ancient Bengal and rural economies, and defective ones symbolized utter worthlessness."
+  ],
+  "note": "The idiom draws from historical trade practices where cowries were used as small denomination money."
+}

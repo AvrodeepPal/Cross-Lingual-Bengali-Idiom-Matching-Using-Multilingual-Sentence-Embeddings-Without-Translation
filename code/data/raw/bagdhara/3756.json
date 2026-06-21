@@ -1,0 +1,40 @@
+{
+  "id": "3756",
+  "idiom": "চলন-বলন",
+  "alternative_idioms": [
+    "চালচলন",
+    "ভাবভঙ্গি"
+  ],
+  "literal_meaning": "চলাফেরা এবং কথা বলার ধরন",
+  "figurative_meaning_bn": "আচরণ, ব্যবহার ও কথাবার্তা; স্বভাবচরিত্র",
+  "figurative_meaning_en": "behavior, conduct and speech; nature and character",
+  "similar_in_english": [
+    "mannerisms",
+    "deportment"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চলন-বলন দেখে মনে হয় সে অভিজাত পরিবারের।",
+    "চলন-বলনে সভ্যতা দেখানো উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "His manner of walking and talking suggests he is from an aristocratic family.",
+    "One should display civility in conduct and speech."
+  ],
+  "usage_domain": [
+    "social interaction",
+    "personality description"
+  ],
+  "tags": [
+    "behavior",
+    "manner",
+    "character"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes social etiquette in Bengali culture."
+}

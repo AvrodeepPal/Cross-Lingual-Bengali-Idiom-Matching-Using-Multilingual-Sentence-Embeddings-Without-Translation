@@ -1,0 +1,40 @@
+{
+  "id": "679",
+  "idiom": "ইটে নেই, ভিটে নেই",
+  "alternative_idioms": [],
+  "literal_meaning": "ইট নেই, ভিটে নেই (কোনো ইট বা ভিত্তি নেই)",
+  "figurative_meaning_bn": "ঘরদোর চালচুলো কিছুই নেই এমন",
+  "figurative_meaning_en": "Having absolutely no home, possessions, or means of livelihood; completely destitute",
+  "similar_in_english": [
+    "Flat broke",
+    "Without a pot to piss in",
+    "Penniless and homeless"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ব্যবসায় ব্যর্থ হয়ে ইটে নেই, ভিটে নেই অবস্থায় পড়েছে।",
+    "গ্রামের সেই দরিদ্র লোকটি ইটে নেই, ভিটে নেই জীবন যাপন করছে।"
+  ],
+  "example_sentences_in_english": [
+    "After the business failure, he is now in a state with no bricks, no walls—completely destitute.",
+    "That poor villager from the countryside lives a life with no bricks, no walls, having nothing at all."
+  ],
+  "usage_domain": [
+    "Poverty",
+    "Daily life",
+    "Socio-economic hardship"
+  ],
+  "tags": [
+    "Destitution",
+    "Lack of possessions",
+    "Rural poverty",
+    "Figurative poverty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from traditional Bengali rural architecture, emphasizing the absence of basic shelter and stability."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "1166",
+  "idiom": "এগিয়ে দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "এগিয়ে (ahead) দেওয়া (to give)",
+  "figurative_meaning_bn": "পথে কিছু দূর পর্যন্ত সঙ্গে যাওয়া",
+  "figurative_meaning_en": "To accompany someone on their path for a short distance",
+  "similar_in_english": [
+    "see someone off",
+    "give someone a send-off"
+  ],
+  "example_sentences_in_bangla": [
+    "বন্ধুকে স্টেশন পর্যন্ত এগিয়ে দিলাম।",
+    "অতিথিকে গেট পর্যন্ত এগিয়ে দিয়ে ফিরে এলাম।"
+  ],
+  "example_sentences_in_english": [
+    "I saw my friend off to the station.",
+    "I accompanied the guest to the gate before returning."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "travel",
+    "farewells"
+  ],
+  "tags": [
+    "courtesy",
+    "accompaniment",
+    "parting"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali hospitality and politeness in everyday farewells."
+}

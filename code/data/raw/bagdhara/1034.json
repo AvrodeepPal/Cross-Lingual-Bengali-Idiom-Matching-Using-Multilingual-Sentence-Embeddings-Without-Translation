@@ -1,0 +1,40 @@
+{
+  "id": "1034",
+  "idiom": "একদমা",
+  "alternative_idioms": [],
+  "literal_meaning": "একবার আওয়াজ করে থেমে যাওয়া পটকা বা বোমা",
+  "figurative_meaning_bn": "একেবার আওয়াজ করে থেমে যায়",
+  "figurative_meaning_en": "To stop abruptly after an initial burst of noise or activity",
+  "similar_in_english": [
+    "fizzle out",
+    "flash in the pan",
+    "damp squib"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সব প্রচেষ্টা একদমা হয়ে গেল।",
+    "পার্টির শুরুতে উত্তেজনা ছিল, কিন্তু পরে একদমা।"
+  ],
+  "example_sentences_in_english": [
+    "His efforts ended up as a complete ekdama.",
+    "The party started with excitement but turned into a fizzle."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation",
+    "describing failures"
+  ],
+  "tags": [
+    "abrupt end",
+    "failure",
+    "sound imitation",
+    "firecracker reference"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a type of firecracker common in Bengali festivals like Durga Puja"
+}

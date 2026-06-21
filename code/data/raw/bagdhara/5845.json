@@ -1,0 +1,38 @@
+{
+  "id": "5845",
+  "idiom": "দু-এক কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "দু-একটি কথা (two or one words)",
+  "figurative_meaning_bn": "অল্প কয়টি কথা",
+  "figurative_meaning_en": "a few words or a couple of words",
+  "similar_in_english": [
+    "a word or two",
+    "a few words"
+  ],
+  "example_sentences_in_bangla": [
+    "দু-এক কথা বলে সে চলে গেল।",
+    "এখানে দু-এক কথা শোনাও যাক।"
+  ],
+  "example_sentences_in_english": [
+    "He left after saying a word or two.",
+    "Let me say a few words here."
+  ],
+  "usage_domain": [
+    "conversation",
+    "speech",
+    "everyday language"
+  ],
+  "tags": [
+    "quantity",
+    "speech",
+    "informal"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a staple in colloquial Bengali for indicating brevity in speech."
+}

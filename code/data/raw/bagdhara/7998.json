@@ -1,0 +1,40 @@
+{
+  "id": "7998",
+  "idiom": "ভাঙন",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাঙা বা ফাটল",
+  "figurative_meaning_bn": "অবনতির সূচনা; পতনের সূত্রপাত",
+  "figurative_meaning_en": "The beginning of decline; the onset of downfall",
+  "similar_in_english": [
+    "The beginning of the end",
+    "Cracks in the foundation"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পরিবারে ভাঙন ধরেছে, সবাই আলাদা হয়ে যাবে।",
+    "সমাজে অর্থনৈতিক ভাঙন শুরু হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Cracks are appearing in this family; everyone will separate soon.",
+    "Economic decline has begun in society."
+  ],
+  "usage_domain": [
+    "Family",
+    "Society",
+    "Politics"
+  ],
+  "tags": [
+    "Decline",
+    "Breakup",
+    "Social change"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom reflects the cultural shift from joint family systems to nuclear families due to urbanization and modernization in Bengal during the 20th century."
+  ],
+  "note": "Often used in contexts of social or familial disintegration."
+}

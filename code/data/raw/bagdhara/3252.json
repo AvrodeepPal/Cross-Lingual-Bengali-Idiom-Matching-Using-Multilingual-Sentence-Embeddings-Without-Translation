@@ -1,0 +1,37 @@
+{
+  "id": "3252",
+  "idiom": "গুরুপাক",
+  "alternative_idioms": [],
+  "literal_meaning": "ভারী বা কঠিন হজম হওয়া পাকস্থলীর সমস্যা",
+  "figurative_meaning_bn": "সহজে হজম হয় না এমন",
+  "figurative_meaning_en": "Something that is not easily digestible",
+  "similar_in_english": [
+    "Hard to swallow",
+    "A bitter pill to swallow"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সিদ্ধান্তটা তার কাছে গুরুপাক।",
+    "খবরটা শুনে তার মনে গুরুপাক হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "This decision is heavy indigestion for him.",
+    "Hearing the news caused him mental indigestion."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Metaphorical expressions"
+  ],
+  "tags": [
+    "indigestion",
+    "difficult to accept",
+    "food-related metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom draws from the physical sensation of indigestion to describe mental or emotional difficulty in processing information."
+}

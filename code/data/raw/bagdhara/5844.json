@@ -1,0 +1,40 @@
+{
+  "id": "5844",
+  "idiom": "দুইয়ের বার",
+  "alternative_idioms": [],
+  "literal_meaning": "দুইটির মধ্যে কোনোটিরই না (দুইয়ের অংশ বা টার্ন)",
+  "figurative_meaning_bn": "এটা ও ওটার বাইরে অর্থাৎ উভয় উদ্দেশ্যেই অযোগ্য; কোনো কাজের উপযুক্ত নয়",
+  "figurative_meaning_en": "Neither here nor there, meaning unfit for both purposes; not suitable for any task",
+  "similar_in_english": [
+    "Neither here nor there",
+    "Neither fish nor fowl",
+    "Jack of all trades, master of none"
+  ],
+  "example_sentences_in_bangla": [
+    "এই যন্ত্রটি দুইয়ের বার, কোনো কাজেই ঠিকমতো চলে না।",
+    "সে দুইয়ের বার মানুষ, উভয় পক্ষেই অযোগ্য।"
+  ],
+  "example_sentences_in_english": [
+    "This machine is neither here nor there; it doesn't work properly for any task.",
+    "He is a neither here nor there kind of person, unfit for both sides."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism",
+    "Work and suitability"
+  ],
+  "tags": [
+    "incompetence",
+    "unsuitability",
+    "versatility critique",
+    "indecision"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali cultural emphasis on specialization and fitness for purpose."
+}

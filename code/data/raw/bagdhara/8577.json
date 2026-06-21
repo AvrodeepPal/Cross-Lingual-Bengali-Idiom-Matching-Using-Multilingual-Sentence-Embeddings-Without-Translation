@@ -1,0 +1,41 @@
+{
+  "id": "8577",
+  "idiom": "মাপজোখ",
+  "alternative_idioms": [
+    "জোপ",
+    "মাপাজোখা"
+  ],
+  "literal_meaning": "মাপ (measurement) এবং জোখ (weighing)",
+  "figurative_meaning_bn": "পরিমাণ ওজন ইত্যাদির নির্ণয়",
+  "figurative_meaning_en": "Determination of quantity, weight, and similar measurements",
+  "similar_in_english": [
+    "measure twice, cut once",
+    "weigh one's words"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবকিছু মাপজোখ করে সিদ্ধান্ত নেয়।",
+    "বাজারে মাপজোখ না করে কেনো না।"
+  ],
+  "example_sentences_in_english": [
+    "He makes decisions after careful measurement and weighing.",
+    "Don't buy in the market without proper measurement."
+  ],
+  "usage_domain": [
+    "decision making",
+    "commerce",
+    "assessment"
+  ],
+  "tags": [
+    "precision",
+    "calculation",
+    "practicality"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to practical evaluation in daily life, often in trade or judgment contexts"
+}

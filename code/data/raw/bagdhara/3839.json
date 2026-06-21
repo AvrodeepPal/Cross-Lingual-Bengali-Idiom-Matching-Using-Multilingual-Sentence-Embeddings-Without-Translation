@@ -1,0 +1,41 @@
+{
+  "id": "3839",
+  "idiom": "চামার",
+  "alternative_idioms": [],
+  "literal_meaning": "চামড়ার কাজকর্মকারী বা জুতো তৈরিকারী (tanner or cobbler)",
+  "figurative_meaning_bn": "অত্যন্ত কৃপণ প্রকৃতির লোক",
+  "figurative_meaning_en": "An extremely miserly or stingy person",
+  "similar_in_english": [
+    "skinflint",
+    "penny-pincher",
+    "tightwad"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এমন একটা চামার যে, কখনো কাউকে সাহায্য করে না।",
+    "এই চামারের মতো লোকের সঙ্গে ব্যবসা করা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He is such a skinflint that he never helps anyone out.",
+    "You can't do business with someone as stingy as a penny-pincher."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "social commentary"
+  ],
+  "tags": [
+    "derogatory",
+    "miserly",
+    "stingy",
+    "caste-related"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from stereotypes associated with the Chamar caste, traditionally involved in leatherwork, implying frugality or miserliness in Bengali folklore."
+  ],
+  "note": "This idiom is considered derogatory and casteist; use with caution in modern contexts."
+}

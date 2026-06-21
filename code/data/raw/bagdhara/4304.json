@@ -1,0 +1,37 @@
+{
+  "id": "4304",
+  "idiom": "ছানাবড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ছানা (ছোলা বা ছানার মতো ছোট বস্তু) + বড়া (বড় আকারের)",
+  "figurative_meaning_bn": "ছানবড়ার মতো বড়",
+  "figurative_meaning_en": "as big as a chickpea",
+  "similar_in_english": [
+    "pea-sized",
+    "no bigger than a pea"
+  ],
+  "example_sentences_in_bangla": [
+    "এই দানাটা ছানাবড়া মাত্র।",
+    "তার হাতের আংটির পাথর ছানাবড়া।"
+  ],
+  "example_sentences_in_english": [
+    "This grain is just chickpea-sized.",
+    "The stone in his ring is chickpea-sized."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "descriptive"
+  ],
+  "tags": [
+    "size",
+    "comparison",
+    "everyday language"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the size of a chickpea, a common agricultural item in Bengali culture."
+}

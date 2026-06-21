@@ -1,0 +1,38 @@
+{
+  "id": "7850",
+  "idiom": "বেড়া-আগুন",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘেরা আগুন",
+  "figurative_meaning_bn": "মহাসঙ্কট",
+  "figurative_meaning_en": "a great crisis or dire calamity",
+  "similar_in_english": [
+    "caught in a firestorm",
+    "surrounded by flames"
+  ],
+  "example_sentences_in_bangla": [
+    "গোটা দেশটা বেড়া আগুনে পড়েছে।",
+    "এই পরিস্থিতিতে আমরা বেড়া আগুনে আটকে গেছি।"
+  ],
+  "example_sentences_in_english": [
+    "The entire country has fallen into a fenced fire.",
+    "In this situation, we are trapped in a fenced fire."
+  ],
+  "usage_domain": [
+    "crisis",
+    "politics",
+    "disaster"
+  ],
+  "tags": [
+    "calamity",
+    "danger",
+    "metaphor"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom evokes imagery of being completely encircled by danger, common in descriptions of national emergencies."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "1344",
+  "idiom": "কট্টর",
+  "alternative_idioms": [],
+  "literal_meaning": "কঠোর বা দৃঢ়",
+  "figurative_meaning_bn": "কঠোর নিয়মানুসারী, গোঁড়া",
+  "figurative_meaning_en": "strict adherent to rules, orthodox or rigid",
+  "similar_in_english": [
+    "die-hard",
+    "hardliner",
+    "fundamentalist"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি একজন কট্টর ধর্মানুরাগী।",
+    "রাজনীতিতে কট্টর দৃষ্টিভঙ্গি তার সমস্যা সৃষ্টি করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a die-hard devotee of religion.",
+    "His hardline stance in politics has caused problems."
+  ],
+  "usage_domain": [
+    "religion",
+    "politics"
+  ],
+  "tags": [
+    "orthodox",
+    "rigid",
+    "fundamentalist"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of religious or ideological extremism in Bengali discourse"
+}

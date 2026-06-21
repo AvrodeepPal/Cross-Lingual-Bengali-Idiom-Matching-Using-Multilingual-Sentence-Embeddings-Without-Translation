@@ -1,0 +1,43 @@
+{
+  "id": "4177",
+  "idiom": "চোরাবালি",
+  "alternative_idioms": [
+    "চোরাগর্ত"
+  ],
+  "literal_meaning": "চোরের বালি (thief's sand, referring to a hidden sand-covered trap)",
+  "figurative_meaning_bn": "অজানা গোপন বিপদ; মৃত্যুফাঁদ",
+  "figurative_meaning_en": "Unknown hidden danger; death trap",
+  "similar_in_english": [
+    "Snake in the grass",
+    "Pitfall"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই ব্যবসায় চোরাবালি আছে, তাই হাত দেওয়া উচিত নয়।",
+    "জীবনের পথে অনেক চোরাবালি লুকিয়ে থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "There's a thief's sand in that business, so it's best not to get involved.",
+    "Life's path hides many hidden dangers like thief's sand."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Warnings"
+  ],
+  "tags": [
+    "danger",
+    "hidden threat",
+    "trap",
+    "rural idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "In rural Bengal, this refers to pits dug by thieves and covered with sand to trap victims, a common cautionary motif in folklore."
+  ],
+  "note": "The idiom evokes imagery of deceptive rural traps, emphasizing unforeseen perils."
+}

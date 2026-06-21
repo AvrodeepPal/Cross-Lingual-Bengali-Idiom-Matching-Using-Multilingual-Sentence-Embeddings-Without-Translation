@@ -1,0 +1,40 @@
+{
+  "id": "1775",
+  "idiom": "কাঁচা হাত",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁচা (অপরিপক্ক বা অপরিশোধিত) হাত",
+  "figurative_meaning_bn": "আনাড়ি; অপটু হাত; দক্ষতার অভাব; অনভিজ্ঞতা",
+  "figurative_meaning_en": "inexperienced; unskilled hand; lack of expertise; inexperience",
+  "similar_in_english": [
+    "green hand",
+    "wet behind the ears",
+    "novice"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কাঁচা হাত, তাই কাজে ভুল হয়েছে।",
+    "কাঁচা হাতের লোককে এত বড় দায়িত্ব দেওয়া উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a green hand, so he made mistakes in the work.",
+    "It's not wise to give such a big responsibility to an inexperienced person."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "professional skills",
+    "workplace"
+  ],
+  "tags": [
+    "inexperience",
+    "novice",
+    "skill deficiency",
+    "aptitude"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the metaphor of 'raw' or unrefined materials, common in agrarian Bengali culture to describe unseasoned individuals."
+}

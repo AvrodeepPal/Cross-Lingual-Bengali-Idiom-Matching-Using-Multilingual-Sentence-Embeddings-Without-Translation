@@ -1,0 +1,41 @@
+{
+  "id": "9029",
+  "idiom": "রঙমহল",
+  "alternative_idioms": [],
+  "literal_meaning": "রঙের মহল (color palace)",
+  "figurative_meaning_bn": "বিত্তশালীর বিলাসভবন; আনন্দনিকেতন",
+  "figurative_meaning_en": "A wealthy person's luxurious mansion; a place of pleasure",
+  "similar_in_english": [
+    "pleasure palace",
+    "den of luxury"
+  ],
+  "example_sentences_in_bangla": [
+    "তার রঙমহল সবাইকে মুগ্ধ করে।",
+    "পুরনো দিনের রঙমহলগুলো ইতিহাসের স্মৃতি।"
+  ],
+  "example_sentences_in_english": [
+    "His rangmahal enchants everyone.",
+    "The old rangmahals are memories of history."
+  ],
+  "usage_domain": [
+    "literature",
+    "historical context",
+    "descriptive language"
+  ],
+  "tags": [
+    "wealth",
+    "luxury",
+    "pleasure",
+    "mansion"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Refers to opulent pleasure houses or pavilions in Mughal and Nawabi eras in Bengal, often associated with royal entertainment and architecture."
+  ],
+  "note": "This term draws from historical architecture, evoking images of colorful, lavish buildings for leisure."
+}

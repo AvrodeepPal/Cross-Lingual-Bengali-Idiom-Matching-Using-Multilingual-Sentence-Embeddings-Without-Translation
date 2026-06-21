@@ -1,0 +1,41 @@
+{
+  "id": "6459",
+  "idiom": "নিশির ডাক",
+  "alternative_idioms": [],
+  "literal_meaning": "রাত্রির ডাক",
+  "figurative_meaning_bn": "কল্পিত প্রেতযোনি- মানুষের বিশ্বাস এই যে, রাত্রিকালে এদের ডাকে নিদ্রোত্থিত মানুষ এদের অনুসরণ করে মারা যায়",
+  "figurative_meaning_en": "An imaginary ghostly entity; the belief is that at night, these spirits call out, and people awakened from sleep follow them to their death",
+  "similar_in_english": [
+    "siren's call",
+    "will-o'-the-wisp"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের লোকেরা নিশির ডাক শুনলে দরজা বন্ধ করে রাখে।",
+    "রাতের অন্ধকারে নিশির ডাকের গল্প শুনে শিহরণ ঘুরে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "Villagers close their doors if they hear the call of the night spirit.",
+    "Hearing stories of the night spirit's call in the darkness sends shivers down the spine."
+  ],
+  "usage_domain": [
+    "folklore",
+    "superstition",
+    "fear"
+  ],
+  "tags": [
+    "প্রেতাত্মা",
+    "রাত্রি",
+    "মৃত্যু",
+    "লোককথা"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "বাংলা লোকসংস্কৃতিতে প্রচলিত বিশ্বাস যে রাতে প্রেতাত্মারা ডেকে মানুষকে মৃত্যুর দিকে নিয়ে যায়"
+  ],
+  "note": "এটি বাংলা গ্রামীণ অন্ধবিশ্বাসের একটি উদাহরণ"
+}

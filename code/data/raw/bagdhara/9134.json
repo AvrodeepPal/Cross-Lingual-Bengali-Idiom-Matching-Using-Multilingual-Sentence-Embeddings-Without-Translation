@@ -1,0 +1,44 @@
+{
+  "id": "9134",
+  "idiom": "রায়বাঘিনী",
+  "alternative_idioms": [
+    "রণচণ্ডী"
+  ],
+  "literal_meaning": "রায়ের বাঘিনী (Ray's tigress)",
+  "figurative_meaning_bn": "আক্রমণশীলা নারী; উগ্রচণ্ডা স্ত্রী; কোপনস্বভাবা ও দাপটপূর্ণা নারী",
+  "figurative_meaning_en": "Aggressive woman; fierce-tempered wife; angry-natured and domineering woman",
+  "similar_in_english": [
+    "Virago",
+    "Hellcat",
+    "Shrew"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা সত্যিকারের রায়বাঘিনী, কারও কথা শোনে না।",
+    "গ্রামের সেই রায়বাঘিনী স্ত্রী সবাইকে ভয় দেখায়।"
+  ],
+  "example_sentences_in_english": [
+    "She is a real raibaghini, doesn't listen to anyone.",
+    "That raibaghini wife in the village scares everyone."
+  ],
+  "usage_domain": [
+    "Personality description",
+    "Gender stereotypes",
+    "Colloquial speech"
+  ],
+  "tags": [
+    "fierce woman",
+    "aggression",
+    "domineering",
+    "Bengali folklore"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References a literary or folk character like 'রায়বাঘিনী ননদিনী', possibly inspired by powerful historical women in Bengali zamindar families."
+  ],
+  "note": "The term draws from Bengali cultural depictions of strong, intimidating female figures in rural or semi-rural settings."
+}

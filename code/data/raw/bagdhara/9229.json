@@ -1,0 +1,41 @@
+{
+  "id": "9229",
+  "idiom": "লণ্ডন হয়ে মক্কা যাত্রা",
+  "alternative_idioms": [],
+  "literal_meaning": "লণ্ডনের মাধ্যমে মক্কায় যাত্রা",
+  "figurative_meaning_bn": "ঘুরপথে কাজ করা",
+  "figurative_meaning_en": "Taking a roundabout or circuitous route to accomplish something",
+  "similar_in_english": [
+    "Taking the long way round",
+    "Going via a detour"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কাজটি করতে লণ্ডন হয়ে মক্কা যাত্রা করার মতো ঘুরপথ নেওয়া উচিত নয়।",
+    "সে লণ্ডন হয়ে মক্কা যাত্রা করে সমস্যাটি সমাধান করতে গেল, কিন্তু শেষে সময় নষ্ট হলো।"
+  ],
+  "example_sentences_in_english": [
+    "There's no need to go to Mecca via London to complete this task; just do it directly.",
+    "He took a Mecca via London approach to solve the problem, but it only wasted time."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Work and planning",
+    "Travel and navigation"
+  ],
+  "tags": [
+    "Detour",
+    "Inefficiency",
+    "Circuitous",
+    "Travel metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "This idiom originates from the concept of Hajj pilgrims or travelers taking an unnecessarily long route from Bengal to Mecca via London during colonial times, symbolizing inefficiency in British-influenced travel routes."
+  ],
+  "note": "The idiom highlights colonial-era travel complexities in Bengali linguistic tradition."
+}

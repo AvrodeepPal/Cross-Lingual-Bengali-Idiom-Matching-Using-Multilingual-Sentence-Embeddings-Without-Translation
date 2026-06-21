@@ -1,0 +1,42 @@
+{
+  "id": "744",
+  "idiom": "উচ্চিংড়া",
+  "alternative_idioms": [
+    "উচ্চিংড়ে"
+  ],
+  "literal_meaning": "উচ্চ (উঁচু বা উচ্চস্বর) + ইংড়া (ছোট চিংড়ি বা কাঁটাযুক্ত ছোট জীব, যা আক্রমণাত্মক)",
+  "figurative_meaning_bn": "কোপন স্বভাব",
+  "figurative_meaning_en": "Irritable or short-tempered nature",
+  "similar_in_english": [
+    "short-tempered",
+    "hot-headed",
+    "quick to anger"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খুব উচ্চিংড়া, ছোটখাটো ব্যাপারে রেগে যায়।",
+    "এই উচ্চিংড়া লোকের সঙ্গে কথা বলতে গেলে সাবধান হতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is very short-tempered and gets angry over trivial matters.",
+    "You have to be careful when talking to this hot-headed person."
+  ],
+  "usage_domain": [
+    "personality description",
+    "colloquial conversation",
+    "everyday language"
+  ],
+  "tags": [
+    "temper",
+    "anger",
+    "irritability",
+    "personality trait"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from colloquial references to small, aggressive creatures like tiny prawns or fish, symbolizing disproportionate anger."
+}

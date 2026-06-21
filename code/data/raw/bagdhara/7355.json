@@ -1,0 +1,37 @@
+{
+  "id": "7355",
+  "idiom": "বলে আসা",
+  "alternative_idioms": [],
+  "literal_meaning": "বলার পর আসা (to come after saying)",
+  "figurative_meaning_bn": "সংবাদ দিয়ে আসা",
+  "figurative_meaning_en": "to come after delivering news or information",
+  "similar_in_english": [
+    "bring word",
+    "come with tidings"
+  ],
+  "example_sentences_in_bangla": [
+    "খবরটা বলে আয় তো।",
+    "বাজার থেকে দামগুলো বলে আসো।"
+  ],
+  "example_sentences_in_english": [
+    "Go and tell the news, then come back.",
+    "Come back after informing about the market prices."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "communication"
+  ],
+  "tags": [
+    "news",
+    "information",
+    "instruction"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is used in informal spoken Bengali to instruct someone to fetch or relay information."
+}

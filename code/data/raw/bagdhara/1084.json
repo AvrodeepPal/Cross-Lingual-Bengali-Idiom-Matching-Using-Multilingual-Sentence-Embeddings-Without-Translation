@@ -1,0 +1,37 @@
+{
+  "id": "1084",
+  "idiom": "একমুরগি দুবার জবাই",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি মুরগিকে দুবার জবাই করা",
+  "figurative_meaning_bn": "একই অপরাধের জন্য দুবার শাস্তি প্রদান",
+  "figurative_meaning_en": "Imposing double punishment for the same offense",
+  "similar_in_english": [
+    "Double jeopardy"
+  ],
+  "example_sentences_in_bangla": [
+    "একই ভুলের জন্য দুবার শাস্তি দেওয়া হয়েছে, এ তো একমুরগি দুবার জবাই।",
+    "স্কুলে ছেলেটিকে একই ঘটনার জন্য দুবার কর্তৃক দণ্ডিত করা হলো, এমন অন্যায় একমুরগি দুবার জবাইয়ের মতো।"
+  ],
+  "example_sentences_in_english": [
+    "He was punished twice for the same mistake; it's like slaughtering one chicken twice.",
+    "The court imposed double penalty for the identical crime, akin to slaughtering one chicken twice."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Justice",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "punishment",
+    "injustice",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from rural imagery of animal slaughter to critique unfair justice practices."
+}

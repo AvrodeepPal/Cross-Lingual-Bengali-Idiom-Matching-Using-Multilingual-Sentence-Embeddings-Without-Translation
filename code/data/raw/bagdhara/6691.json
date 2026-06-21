@@ -1,0 +1,42 @@
+{
+  "id": "6691",
+  "idiom": "পাই পয়সার হিসাব",
+  "alternative_idioms": [
+    "পাই পাই হিসাব"
+  ],
+  "literal_meaning": "পাওয়া অর্থের নিখুঁত হিসাব (প্রাপ্ত টাকা-পয়সার সূক্ষ্ম বিবরণ)",
+  "figurative_meaning_bn": "নিখুঁত হিসাব; অতি নিপুণ ও সূক্ষ্ম হিসাব; সম্পূর্ণ হিসাব; কড়াক্রান্তির হিসাব; কড়ায় গণ্ডায় হিসাব",
+  "figurative_meaning_en": "Meticulous and precise accounting; very skilled and detailed calculation; complete and strict reckoning down to the last detail",
+  "similar_in_english": [
+    "To the last penny",
+    "Nickel and diming",
+    "Dot every i and cross every t"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসায়ীটি পাই পয়সার হিসাব রেখে লাভের হার বাড়িয়েছেন।",
+    "ঘরের খরচের পাই পয়সার হিসাব না রাখলে অর্থনৈতিক সমস্যা হবে।"
+  ],
+  "example_sentences_in_english": [
+    "The businessman increased profits by keeping accounts to the last paisa.",
+    "Without meticulous accounting of household expenses, financial problems will arise."
+  ],
+  "usage_domain": [
+    "finance",
+    "business",
+    "daily life"
+  ],
+  "tags": [
+    "accounting",
+    "precision",
+    "meticulousness",
+    "calculation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali emphasis on financial prudence in trade and household management."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6217",
+  "idiom": "নমাসে ছমাসে",
+  "alternative_idioms": [
+    "নমাস ছমাস অন্তর"
+  ],
+  "literal_meaning": "নবমাসে বা ছয়মাস অন্তর (every nine months or six months interval)",
+  "figurative_meaning_bn": "কদাচিৎ, বহুদিন বাদে বাদে",
+  "figurative_meaning_en": "Rarely, occasionally after a long interval",
+  "similar_in_english": [
+    "once in a blue moon",
+    "every now and then"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নমাসে ছমাসে একবার দেখা দেয়।",
+    "এই বইটি নমাসে ছমাসে পড়ি।"
+  ],
+  "example_sentences_in_english": [
+    "He shows up once in a blue moon.",
+    "I read this book every now and then."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "time expressions",
+    "everyday conversation"
+  ],
+  "tags": [
+    "rarity",
+    "interval",
+    "figurative time"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom likely derives from 'নবমাসে ছয়মাসে', emphasizing long gaps in occurrence, common in Bengali oral tradition."
+}

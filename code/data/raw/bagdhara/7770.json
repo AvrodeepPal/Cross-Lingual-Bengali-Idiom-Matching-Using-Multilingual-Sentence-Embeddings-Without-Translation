@@ -1,0 +1,39 @@
+{
+  "id": "7770",
+  "idiom": "বুকে ঢেঁকির পাড় পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বুকে ঢেঁকির কিনারা পড়া (the edge of a dhunki falling on the chest)",
+  "figurative_meaning_bn": "রক্ত চঞ্চল হওয়া",
+  "figurative_meaning_en": "blood becoming restless or agitated",
+  "similar_in_english": [
+    "blood boiling",
+    "hot under the collar"
+  ],
+  "example_sentences_in_bangla": [
+    "খবর শুনে তার বুকে ঢেঁকির পাড় পড়ল।",
+    "অন্যায় দেখে আমার বুকে ঢেঁকির পাড় পড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Upon hearing the news, his blood became restless.",
+    "Seeing the injustice made my blood boil."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation"
+  ],
+  "tags": [
+    "anger",
+    "agitation",
+    "rural life"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from rural Bengali life where a dhunki (a traditional wooden pestle for pounding rice) is used; the sharp edge falling on one's chest symbolizes sudden pain and agitation, metaphorically representing emotional turmoil."
+  ],
+  "note": "Dhunki is a tool deeply embedded in agrarian Bengali culture."
+}

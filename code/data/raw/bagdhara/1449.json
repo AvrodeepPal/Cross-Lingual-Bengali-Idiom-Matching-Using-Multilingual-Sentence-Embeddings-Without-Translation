@@ -1,0 +1,34 @@
+{
+  "id": "1449",
+  "idiom": "কথাবার্তা",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা (talk) + বার্তা (news/talk); word-by-word: talks or conversations",
+  "figurative_meaning_bn": "আলাপ আলোচনা, কথোপকথন; প্রসঙ্গ",
+  "figurative_meaning_en": "conversation, discussion; topic",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "দুজনের মধ্যে কথাবার্তা চলছে।",
+    "আজকাল তার সাথে কথাবার্তা কম হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "There is conversation going on between the two.",
+    "These days, conversation with him has decreased."
+  ],
+  "usage_domain": [
+    "communication",
+    "daily life"
+  ],
+  "tags": [
+    "conversation",
+    "discussion",
+    "synonym compound"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a common Bengali compound word (yugma shabda) rather than a highly figurative idiom."
+}

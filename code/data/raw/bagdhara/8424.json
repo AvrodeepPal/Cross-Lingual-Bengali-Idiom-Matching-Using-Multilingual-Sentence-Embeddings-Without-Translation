@@ -1,0 +1,39 @@
+{
+  "id": "8424",
+  "idiom": "লাঠি যার মাটি তার",
+  "alternative_idioms": [],
+  "literal_meaning": "লাঠি যার, মাটি তার (stick whose, land his)",
+  "figurative_meaning_bn": "ভূসম্পত্তি",
+  "figurative_meaning_en": "Land property or possession rights through force or control",
+  "similar_in_english": [
+    "Possession is nine-tenths of the law",
+    "Might makes right"
+  ],
+  "example_sentences_in_bangla": [
+    "জমি নিয়ে ঝগড়ায় লাঠি যার মাটি তার হয়ে যায়।",
+    "গ্রামের এই প্রথায় লাঠি যার মাটি তার বলে সবাই জানে।"
+  ],
+  "example_sentences_in_english": [
+    "In land disputes, it often becomes 'whose stick, his land'.",
+    "The village follows the rule that 'whose stick, his land' in property matters."
+  ],
+  "usage_domain": [
+    "property disputes",
+    "rural law",
+    "possession"
+  ],
+  "tags": [
+    "proverb",
+    "possession",
+    "rural culture",
+    "force"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This is a traditional Bengali proverb emphasizing possession through physical control, often in rural contexts."
+}

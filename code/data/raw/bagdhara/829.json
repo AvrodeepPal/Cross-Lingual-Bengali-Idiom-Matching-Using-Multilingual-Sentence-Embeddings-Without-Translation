@@ -1,0 +1,38 @@
+{
+  "id": "829",
+  "idiom": "উপরমহল",
+  "alternative_idioms": [],
+  "literal_meaning": "উপরের মহল (upper mansion or upper level)",
+  "figurative_meaning_bn": "সরকারীস্তর",
+  "figurative_meaning_en": "Government level or higher official authorities",
+  "similar_in_english": [
+    "The powers that be",
+    "Upper echelons"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সমস্যার সমাধানের জন্য উপরমহলের সাহায্য নিতে হবে।",
+    "উপরমহল থেকে নির্দেশ এসেছে, তাই কাজ শুরু করো।"
+  ],
+  "example_sentences_in_english": [
+    "We need to seek help from the upper level to resolve this issue.",
+    "An order has come from the higher authorities, so start the work."
+  ],
+  "usage_domain": [
+    "Administration",
+    "Bureaucracy",
+    "Politics"
+  ],
+  "tags": [
+    "Government",
+    "Official",
+    "Hierarchy"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to bureaucratic or governmental higher-ups in formal contexts"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6123",
+  "idiom": "ধোঁয়াটে",
+  "alternative_idioms": [
+    "ধোঁয়াশা"
+  ],
+  "literal_meaning": "ধোঁয়ার মতো অস্পষ্ট বা ধোঁয়াটে",
+  "figurative_meaning_bn": "অস্পষ্টভাব",
+  "figurative_meaning_en": "in a hazy or unclear manner",
+  "similar_in_english": [
+    "hazy",
+    "fuzzy",
+    "through a fog"
+  ],
+  "example_sentences_in_bangla": [
+    "সমস্ত বিষয়টা আমার কাছে ধোঁয়াটে লাগছে।",
+    "তার কথাগুলো ধোঁয়াটে মনে হচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "The whole matter seems hazy to me.",
+    "His words feel unclear and fuzzy."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "perception and clarity"
+  ],
+  "tags": [
+    "vagueness",
+    "perception",
+    "figurative language"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variants like ধোঁয়াশা are used interchangeably in spoken Bengali."
+}

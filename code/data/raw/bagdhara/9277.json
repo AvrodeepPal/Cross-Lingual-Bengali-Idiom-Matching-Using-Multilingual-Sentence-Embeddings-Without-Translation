@@ -1,0 +1,40 @@
+{
+  "id": "9277",
+  "idiom": "লাড়ার মার ভাঁড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "লাড়া তৈরি করা মায়ের ভাঁড়া (পাত্র)",
+  "figurative_meaning_bn": "যে নারী তার অল্প জিনিসপত্র এধার-ওধার করে, তার ক্ষণস্থায়ী ভান্ডার",
+  "figurative_meaning_en": "The temporary or makeshift storage of a woman who borrows and lends her meager possessions from neighbors",
+  "similar_in_english": [
+    "hand-to-mouth existence",
+    "scraping the barrel"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বাড়ির রান্নাঘর লাড়ার মার ভাঁড়ার মতো, সবসময় ধার করে চলে।",
+    "গ্রামের এই পরিবারের অবস্থা লাড়ার মার ভাঁড়া, কোনো স্থায়ী জিনিস নেই।"
+  ],
+  "example_sentences_in_english": [
+    "Her kitchen is like the pot of the laddoo-maker's mother, always relying on borrowed items.",
+    "This rural family's situation resembles a temporary larder, with nothing permanent and everything on loan."
+  ],
+  "usage_domain": [
+    "household management",
+    "poverty",
+    "daily life"
+  ],
+  "tags": [
+    "borrowing",
+    "meager possessions",
+    "women's role",
+    "instability"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  " ": "",
+  "note": "This idiom reflects traditional Bengali rural life where women manage households with limited resources through community borrowing."
+}
