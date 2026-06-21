@@ -1,0 +1,38 @@
+{
+  "id": "3461",
+  "idiom": "ঘরের ইঁদুর বাঁশ কাটে",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘরের ইঁদুর বাঁশ কাটে (The rat of the house cuts bamboo)",
+  "figurative_meaning_bn": "ঘরের লোক শত্রুতা করে",
+  "figurative_meaning_en": "One's own people cause enmity or betrayal",
+  "similar_in_english": [
+    "The enemy within",
+    "A snake in one's own bosom"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ভাইয়ের এই কাজ দেখে মনে হয় ঘরের ইঁদুর বাঁশ কাটে।",
+    "পরিবারের মধ্যে এমন বিশ্বাসঘাতকতা ঘরের ইঁদুর বাঁশ কাটার মতো।"
+  ],
+  "example_sentences_in_english": [
+    "His brother's actions make it seem like the rat in the house cuts bamboo.",
+    "Such betrayal within the family is like the rat in the house cutting bamboo."
+  ],
+  "usage_domain": [
+    "family dynamics",
+    "betrayal",
+    "relationships"
+  ],
+  "tags": [
+    "internal enemy",
+    "treachery",
+    "proverbial warning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from rural imagery where a household rat causes unexpected damage to stored bamboo, symbolizing insider threats."
+}

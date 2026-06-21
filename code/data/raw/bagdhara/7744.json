@@ -1,0 +1,40 @@
+{
+  "id": "7744",
+  "idiom": "বুক কাঁপা",
+  "alternative_idioms": [
+    "বুক ঢিপঢিপ করা"
+  ],
+  "literal_meaning": "বুক কাঁপানো (chest trembles)",
+  "figurative_meaning_bn": "ভয় পাওয়া",
+  "figurative_meaning_en": "to feel fear or terror",
+  "similar_in_english": [
+    "heart skips a beat",
+    "shaking with fear"
+  ],
+  "example_sentences_in_bangla": [
+    "ভূতের কথা শুনে তার বুক কাঁপছে।",
+    "পরীক্ষার আগে ছাত্রের বুক কাঁপা শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "Hearing the ghost story made his heart tremble.",
+    "The student's heart started trembling before the exam."
+  ],
+  "usage_domain": [
+    "emotions",
+    "fear",
+    "daily conversation"
+  ],
+  "tags": [
+    "fear",
+    "body metaphor",
+    "emotional expression"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used to describe intense fear in Bengali literature and speech"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "5105",
+  "idiom": "ঠোনকা মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "বাঁকা আঙুল বা হুক দিয়ে আঘাত করা",
+  "figurative_meaning_bn": "বাঁকা আঙুলে খোঁচা মারা",
+  "figurative_meaning_en": "to make an indirect criticism or hint at a fault obliquely",
+  "similar_in_english": [
+    "beat around the bush",
+    "drop a hint"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সরাসরি বলল না, ঠোনকা মারল তার বন্ধুর অলসতা নিয়ে।",
+    "প্রতিবেশীরা ঠোনকা মেরে আমাদের পরিবারের খরচের কথা তুলল।"
+  ],
+  "example_sentences_in_english": [
+    "He didn't say it directly; he poked at his friend's laziness indirectly.",
+    "The neighbors hinted obliquely at our family's expenses."
+  ],
+  "usage_domain": [
+    "conversation",
+    "social criticism"
+  ],
+  "tags": [
+    "indirect",
+    "sarcasm",
+    "hinting"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali conversational nuances for subtle rebuke."
+}

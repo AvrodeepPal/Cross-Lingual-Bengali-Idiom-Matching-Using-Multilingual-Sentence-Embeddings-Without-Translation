@@ -1,0 +1,38 @@
+{
+  "id": "10188",
+  "idiom": "হাতাখুন্তি",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতার খুন্তি (sleeve hook)",
+  "figurative_meaning_bn": "রান্নাঘরে গৃহিণীর হাতের কাছে থাকা সরঞ্জামসমূহ",
+  "figurative_meaning_en": "Kitchen utensils or tools readily available within the housewife's reach",
+  "similar_in_english": [
+    "At one's fingertips",
+    "Kitchen essentials"
+  ],
+  "example_sentences_in_bangla": [
+    "রান্নাঘরে সব হাতাখুন্তি সঠিক জায়গায় রাখা হয়েছে।",
+    "মায়ের হাতাখুন্তি ছাড়া রান্না সম্ভব নয়।"
+  ],
+  "example_sentences_in_english": [
+    "All the kitchen tools are kept within easy reach in the house.",
+    "Cooking is impossible without the mother's handy utensils."
+  ],
+  "usage_domain": [
+    "Household",
+    "Cooking",
+    "Daily life"
+  ],
+  "tags": [
+    "Kitchen",
+    "Household items",
+    "Traditional tools"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to everyday kitchen implements in traditional Bengali homes, emphasizing accessibility."
+}

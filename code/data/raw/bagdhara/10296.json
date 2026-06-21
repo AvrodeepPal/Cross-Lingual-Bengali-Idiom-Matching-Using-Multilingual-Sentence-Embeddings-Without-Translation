@@ -1,0 +1,43 @@
+{
+  "id": "10296",
+  "idiom": "হালফিল",
+  "alternative_idioms": [
+    "ফিলহাল"
+  ],
+  "literal_meaning": "বর্তমান অবস্থা এবং এখনকার সময় (হাল = বর্তমান অবস্থা, ফিল = এখন)",
+  "figurative_meaning_bn": "অধুনা; বর্তমান; সম্প্রতি",
+  "figurative_meaning_en": "at present; current; recently",
+  "similar_in_english": [
+    "for the time being",
+    "at the moment",
+    "currently"
+  ],
+  "example_sentences_in_bangla": [
+    "হালফিল আবহাওয়া খুব গরম পড়েছে।",
+    "হালফিল আমরা এই প্রকল্পে ব্যস্ত।"
+  ],
+  "example_sentences_in_english": [
+    "At present, the weather is very hot.",
+    "Currently, we are busy with this project."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "business",
+    "news reporting"
+  ],
+  "tags": [
+    "time expression",
+    "adverbial phrase",
+    "loanword from Urdu"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Derived from Urdu 'hal-filhal', a common expression in South Asian languages indicating temporary present state, influenced by colonial-era linguistic exchanges."
+  ],
+  "note": "This idiom is a direct borrowing and widely used in spoken and written Bengali without deep historical anecdotes."
+}

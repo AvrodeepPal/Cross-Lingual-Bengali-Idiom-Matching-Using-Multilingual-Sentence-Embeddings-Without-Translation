@@ -1,0 +1,39 @@
+{
+  "id": "7580",
+  "idiom": "বাপ-মা মরা দায়",
+  "alternative_idioms": [],
+  "literal_meaning": "বাপ-মা মরা দায় (পিতা-মাতার মৃত্যুর দায়িত্ব)",
+  "figurative_meaning_bn": "বিশেষ দায়; যে বিপদে হীনতা স্বীকার করতে হয়",
+  "figurative_meaning_en": "A grave responsibility or burden that forces one to admit defeat or incapacity",
+  "similar_in_english": [
+    "It's not my funeral",
+    "Not my cross to bear"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কাজটা আমার বাপ-মা মরা দায় নয়।",
+    "সে বলল, এটা তার বাপ-মা মরা দায়, সে পারবে না।"
+  ],
+  "example_sentences_in_english": [
+    "This task is not my grave responsibility.",
+    "He said it's his parents' dying duty; he can't handle it."
+  ],
+  "usage_domain": [
+    "conversational",
+    "refusal of duty",
+    "family obligations"
+  ],
+  "tags": [
+    "burden",
+    "responsibility",
+    "defeat",
+    "family"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects traditional Bengali emphasis on familial duties and limitations."
+}

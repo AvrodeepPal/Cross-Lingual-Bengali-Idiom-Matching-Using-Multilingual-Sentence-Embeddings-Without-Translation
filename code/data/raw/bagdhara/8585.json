@@ -1,0 +1,35 @@
+{
+  "id": "8585",
+  "idiom": "মামারবাড়ী",
+  "alternative_idioms": [],
+  "literal_meaning": "মামার বাড়ি (maternal uncle's house)",
+  "figurative_meaning_bn": "কয়েদখানা",
+  "figurative_meaning_en": "jail or prison",
+  "similar_in_english": [
+    "the big house (slang for prison)"
+  ],
+  "example_sentences_in_bangla": [
+    "বাচ্চাটা যদি আরও দুষ্টুমি করে, তাহলে মামারবাড়ী পাঠিয়ে দেব।"
+  ],
+  "example_sentences_in_english": [
+    "If the kid keeps misbehaving, I'll send him to the maternal uncle's house (meaning jail)."
+  ],
+  "usage_domain": [
+    "family",
+    "discipline",
+    "colloquial threats"
+  ],
+  "tags": [
+    "punishment",
+    "family relations",
+    "warning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to sending misbehaving children to the strict maternal uncle's home as a form of punishment, implying isolation like imprisonment."
+}

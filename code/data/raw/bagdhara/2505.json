@@ -1,0 +1,41 @@
+{
+  "id": "2505",
+  "idiom": "খনি",
+  "alternative_idioms": [],
+  "literal_meaning": "খনি (mine or quarry)",
+  "figurative_meaning_bn": "ঐশ্বর্যের ভান্ডার, রত্নের আকর",
+  "figurative_meaning_en": "Treasure house of wealth, mine of gems",
+  "similar_in_english": [
+    "Treasure trove",
+    "Gold mine",
+    "Mine of information"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বাড়ি ধনের খনি।",
+    "সে জ্ঞানের খনি।"
+  ],
+  "example_sentences_in_english": [
+    "His house is a treasure trove of wealth.",
+    "She is a mine of knowledge."
+  ],
+  "usage_domain": [
+    "Wealth",
+    "Knowledge",
+    "Resources"
+  ],
+  "tags": [
+    "Metaphor",
+    "Treasure",
+    "Abundance"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the Mahabharata, described as 'খনিস্বরূপ' (mine-like), with the proverb 'যাহা নাই ভারতে তাহা নাই ভারতে' implying the epic contains everything like a mine."
+  ],
+  "note": "Often used metaphorically for abundant sources beyond literal mining."
+}

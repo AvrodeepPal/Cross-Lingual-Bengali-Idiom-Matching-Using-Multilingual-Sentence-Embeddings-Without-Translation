@@ -1,0 +1,37 @@
+{
+  "id": "2204",
+  "idiom": "কিলিয়ে কাঁঠাল পাকানো",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁঠালকে কিল বা নখ দিয়ে পাকানোর চেষ্টা",
+  "figurative_meaning_bn": "অস্বাভাবিকভাবে দ্রূত কার্যসম্পন্ন করার চেষ্টা করা",
+  "figurative_meaning_en": "Attempting to accomplish a task in an unnaturally hasty manner",
+  "similar_in_english": [
+    "Jumping the gun",
+    "Putting the cart before the horse"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কিলিয়ে কাঁঠাল পাকানোর মতো করে ব্যবসাটা তাড়াতাড়ি বড় করতে চায়, কিন্তু এতে ক্ষতিই হবে।",
+    "পরীক্ষার প্রস্তুতি কিলিয়ে কাঁঠাল পাকানোর চেষ্টা করলে ফল ভালো হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is trying to expand the business as if ripening jackfruit by nailing, but it will only cause harm.",
+    "Rushing exam preparation like forcing a jackfruit to ripen unnaturally won't yield good results."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "work and business"
+  ],
+  "tags": [
+    "haste",
+    "futility",
+    "unnatural effort"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from rural agricultural practices involving jackfruit, emphasizing the futility of forcing natural processes."
+}

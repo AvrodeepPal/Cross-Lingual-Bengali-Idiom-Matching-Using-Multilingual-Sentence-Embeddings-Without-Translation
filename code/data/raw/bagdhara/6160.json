@@ -1,0 +1,39 @@
+{
+  "id": "6160",
+  "idiom": "নচ্ছার",
+  "alternative_idioms": [],
+  "literal_meaning": "নচ্ছার (অর্থহীন বা অকেজো শব্দ, যা অপবাদমূলকভাবে ব্যবহৃত হয়)",
+  "figurative_meaning_bn": "অপদার্থ, সারবিহীন অতি নীচ",
+  "figurative_meaning_en": "Worthless, devoid of substance, extremely vile",
+  "similar_in_english": [
+    "good-for-nothing",
+    "lowlife",
+    "scum"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা নচ্ছার লোক, কোনো কাজেই লাগে না।",
+    "এই নচ্ছারটাকে আর সহ্য করতে পারছি না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a good-for-nothing guy, useless for any work.",
+    "I can't tolerate this lowlife anymore."
+  ],
+  "usage_domain": [
+    "informal speech",
+    "abusive language"
+  ],
+  "tags": [
+    "slang",
+    "abuse",
+    "negative",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a colloquial abusive term commonly used in everyday Bengali speech to demean someone as utterly worthless."
+}

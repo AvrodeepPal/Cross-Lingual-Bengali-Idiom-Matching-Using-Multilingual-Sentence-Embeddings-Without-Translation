@@ -1,0 +1,39 @@
+{
+  "id": "9128",
+  "idiom": "রামা-শ্যামা",
+  "alternative_idioms": [],
+  "literal_meaning": "রামা এবং শ্যামা (সাধারণ নামের উদাহরণ)",
+  "figurative_meaning_bn": "আজেবাজে গুরুত্বহীন লোক",
+  "figurative_meaning_en": "Insignificant or unimportant people",
+  "similar_in_english": [
+    "Tom, Dick, and Harry",
+    "Joe Sixpack"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি রামা-শ্যামা কাউকে চিনি না।",
+    "সভায় রামা-শ্যামা জনতা ভর্তি।"
+  ],
+  "example_sentences_in_english": [
+    "I don't know any Tom, Dick, or Harry.",
+    "The meeting was full of insignificant people."
+  ],
+  "usage_domain": [
+    "Informal conversation",
+    "Everyday language"
+  ],
+  "tags": [
+    "insignificance",
+    "common people",
+    "dismissive"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from common Indian names Rama and Shyama, often used as placeholders for ordinary individuals in Bengali folklore and daily speech."
+  ],
+  "note": "The idiom leverages ubiquitous names to denote anonymity and lack of prominence."
+}

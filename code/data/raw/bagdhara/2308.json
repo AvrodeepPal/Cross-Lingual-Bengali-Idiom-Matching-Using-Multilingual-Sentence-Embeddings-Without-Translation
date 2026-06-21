@@ -1,0 +1,41 @@
+{
+  "id": "2308",
+  "idiom": "কূটাভাস",
+  "alternative_idioms": [
+    "বিরোধাভাস",
+    "আপাতবিরোধী উক্তি"
+  ],
+  "literal_meaning": "প্রত্যাশার বাইরে বা বিপরীতমুখী আভাস",
+  "figurative_meaning_bn": "অসম্ভব বা বিরুদ্ধ মনে হলেও প্রকৃতপক্ষে সত্য এমন বাক্যালঙ্কার",
+  "figurative_meaning_en": "A figure of speech that seems impossible or contradictory but is actually true",
+  "similar_in_english": [
+    "oxymoron",
+    "paradox"
+  ],
+  "example_sentences_in_bangla": [
+    "কবিতায় 'অন্ধকার আলো' কূটাভাসের উদাহরণ।",
+    "তার বক্তৃতায় কূটাভাস ব্যবহার করে গভীর সত্য প্রকাশ করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "'Dark light' in the poem is an example of oxymoron.",
+    "The speech used paradox to reveal a profound truth."
+  ],
+  "usage_domain": [
+    "literature",
+    "rhetoric",
+    "poetry"
+  ],
+  "tags": [
+    "বাক্যালঙ্কার",
+    "সাহিত্যিক উপাদান",
+    "আলঙ্কারিক ভাষা"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি সংস্কৃত কাব্যতত্ত্ব থেকে উদ্ভূত বাংলা সাহিত্যিক শব্দ"
+}

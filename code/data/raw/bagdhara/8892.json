@@ -1,0 +1,43 @@
+{
+  "id": "8892",
+  "idiom": "যখন তখন অবস্থা",
+  "alternative_idioms": [
+    "এখন তখন অবস্থা",
+    "যায় যায় অবস্থা"
+  ],
+  "literal_meaning": "যখন-তখন অবস্থা (কখন যে কী অবস্থা হবে তা নির্ভরযোগ্য নয়)",
+  "figurative_meaning_bn": "মুমূর্ষু; যেকোনো সময় মৃত্যু হতে পারে",
+  "figurative_meaning_en": "Moribund; on the verge of death at any moment",
+  "similar_in_english": [
+    "On one's last legs",
+    "At death's door",
+    "Living on borrowed time"
+  ],
+  "example_sentences_in_bangla": [
+    "তার যখন তখন অবস্থা, ডাক্তার বলেছেন যেকোনো মুহূর্তে সব শেষ হতে পারে।",
+    "দুর্ঘটনার পর তার যখন তখন অবস্থা হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is in a critical condition, on the brink of death at any moment.",
+    "After the accident, she was in a moribund state, liable to pass away anytime."
+  ],
+  "usage_domain": [
+    "Health",
+    "Medical",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "death",
+    "illness",
+    "critical condition",
+    "urgency"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures the precariousness of life in Bengali expressive language."
+}

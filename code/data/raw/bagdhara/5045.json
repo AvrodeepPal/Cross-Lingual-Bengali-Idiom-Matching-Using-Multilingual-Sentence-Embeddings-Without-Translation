@@ -1,0 +1,41 @@
+{
+  "id": "5045",
+  "idiom": "ঠাকুরবাড়ী",
+  "alternative_idioms": [],
+  "literal_meaning": "ঠাকুরের বাড়ি (deity's house)",
+  "figurative_meaning_bn": "দেবালয়, মন্দির",
+  "figurative_meaning_en": "Temple, shrine",
+  "similar_in_english": [
+    "House of God",
+    "Place of worship"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের শেষ প্রান্তে একটি প্রাচীন ঠাকুরবাড়ী আছে।",
+    "পূজার সময় সবাই ঠাকুরবাড়ীতে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "There is an ancient temple at the end of the village.",
+    "Everyone goes to the shrine during the festival."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Architecture",
+    "Daily life"
+  ],
+  "tags": [
+    "temple",
+    "worship",
+    "deity",
+    "Hinduism"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to traditional Bengali Hindu temples or family deity shrines, often associated with Vaishnavism and local worship practices."
+  ],
+  "note": "This term is commonly used in Bengali culture to denote a place of worship, especially in rural or semi-urban settings."
+}

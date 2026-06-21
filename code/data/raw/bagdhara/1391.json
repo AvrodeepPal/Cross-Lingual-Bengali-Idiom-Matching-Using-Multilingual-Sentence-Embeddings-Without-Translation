@@ -1,0 +1,46 @@
+{
+  "id": "1391",
+  "idiom": "কণ্ঠরোধ",
+  "alternative_idioms": [
+    "টুঁটি চাপা",
+    "টেপা"
+  ],
+  "literal_meaning": "কণ্ঠের রোধ (throat or voice obstruction)",
+  "figurative_meaning_bn": "কথা বলার ক্ষমতা বা প্রতিবাদ করার অধিকার বিলোপ/হরণ",
+  "figurative_meaning_en": "Suppression or deprivation of the ability to speak or the right to protest",
+  "similar_in_english": [
+    "gag one's voice",
+    "muzzle the opposition",
+    "silence dissent"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকারের কণ্ঠরোধ নীতির ফলে সাংবাদিকরা সত্য প্রকাশ করতে পারছেন না।",
+    "অন্যায়ের বিরুদ্ধে কণ্ঠরোধ করে দেওয়া হয়েছে শ্রমিকদের।"
+  ],
+  "example_sentences_in_english": [
+    "The government's policy of silencing voices has prevented journalists from revealing the truth.",
+    "The workers' right to protest has been suppressed through voice obstruction."
+  ],
+  "usage_domain": [
+    "politics",
+    "human rights",
+    "media",
+    "social justice"
+  ],
+  "tags": [
+    "suppression",
+    "protest",
+    "freedom of speech",
+    "oppression"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in Rabindranath Tagore's poetry: 'কণ্ঠ আমার রুদ্ধ আজিকে বাঁশি সঙ্গীত হারা', symbolizing loss of voice in colonial or oppressive contexts."
+  ],
+  "note": "Deeply tied to Bengali literary tradition and themes of resistance against authority."
+}

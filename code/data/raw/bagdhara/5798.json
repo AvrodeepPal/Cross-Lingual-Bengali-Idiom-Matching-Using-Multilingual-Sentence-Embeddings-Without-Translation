@@ -1,0 +1,39 @@
+{
+  "id": "5798",
+  "idiom": "দিন আনা দিন খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "দিন আনা (দিনের মজুরি আনা) এবং দিন খাওয়া (সেই দিনের উপার্জনেই দিন কাটানো)",
+  "figurative_meaning_bn": "দিনমজুরি করে সংসারযাত্রা নির্বাহ করা",
+  "figurative_meaning_en": "Living hand-to-mouth by doing daily wage labor to sustain one's family",
+  "similar_in_english": [
+    "Live hand to mouth",
+    "Earn one's daily bread"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের অনেক লোক দিন আনা দিন খাওয়া করে জীবিকা নির্বাহ করে।",
+    "আমাদের পরিবারের অবস্থা এমন যে, দিন আনা দিন খাওয়াই আমাদের চলছে।"
+  ],
+  "example_sentences_in_english": [
+    "Many villagers in the area live a hand-to-mouth existence through daily labor.",
+    "Our family's situation is such that we barely make ends meet day by day."
+  ],
+  "usage_domain": [
+    "economy",
+    "lifestyle",
+    "poverty"
+  ],
+  "tags": [
+    "daily wage",
+    "hand-to-mouth",
+    "labor",
+    "subsistence"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the economic realities of working-class Bengalis, often in agrarian or informal labor contexts."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6555",
+  "idiom": "পড়ো জমি",
+  "alternative_idioms": [],
+  "literal_meaning": "পড়ে থাকা জমি (lying or fallen land)",
+  "figurative_meaning_bn": "অব্যবহৃত জমি",
+  "figurative_meaning_en": "unused or fallow land",
+  "similar_in_english": [
+    "fallow land",
+    "idle land"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের চারপাশে অনেক পড়ো জমি পড়ে আছে।",
+    "সেই পড়ো জমিতে ফসল চাষ করলে লাভ হবে।"
+  ],
+  "example_sentences_in_english": [
+    "There is a lot of fallow land around the village.",
+    "Cultivating that unused land would be profitable."
+  ],
+  "usage_domain": [
+    "agriculture",
+    "rural economy"
+  ],
+  "tags": [
+    "land",
+    "farming",
+    "rural",
+    "agricultural"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to land left uncultivated, common in Bengali agrarian contexts"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "9479",
+  "idiom": "শিরোধার্য",
+  "alternative_idioms": [
+    "মাথায় করে নেওয়া"
+  ],
+  "literal_meaning": "শিরে (মাথায়) ধারণ করার যোগ্য",
+  "figurative_meaning_bn": "অবশ্য পালনীয়",
+  "figurative_meaning_en": "Something that must be strictly followed or observed",
+  "similar_in_english": [
+    "Take to heart",
+    "Follow to the letter"
+  ],
+  "example_sentences_in_bangla": [
+    "গুরুর উপদেশ তার কাছে শিরোধার্য।",
+    "এই নিয়মগুলো আমাদের জন্য শিরোধার্য।"
+  ],
+  "example_sentences_in_english": [
+    "The guru's advice is binding on him.",
+    "These rules are imperative for us."
+  ],
+  "usage_domain": [
+    "Advice",
+    "Duty",
+    "Ethics"
+  ],
+  "tags": [
+    "Respect",
+    "Obligation",
+    "Tradition"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from the guru-shishya tradition in Indian culture, where a guru's advice is considered sacred and to be worn on the head like a crown."
+  ],
+  "note": "The idiom draws from Hindu scriptural reverence for teachers."
+}

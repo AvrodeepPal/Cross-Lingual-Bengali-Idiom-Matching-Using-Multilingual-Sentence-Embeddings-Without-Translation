@@ -1,0 +1,39 @@
+{
+  "id": "5187",
+  "idiom": "ডুবানো",
+  "alternative_idioms": [],
+  "literal_meaning": "কোনোকিছুকে পানিতে ডুবিয়ে দেওয়া বা নিমজ্জিত করা",
+  "figurative_meaning_bn": "ধ্বংস/সর্বনাশ করা",
+  "figurative_meaning_en": "to destroy or ruin completely",
+  "similar_in_english": [
+    "to sink someone's ship",
+    "to bring to ruin"
+  ],
+  "example_sentences_in_bangla": [
+    "অসৎ বন্ধুরা তাকে ডুবিয়ে দিল।",
+    "ভুল সিদ্ধান্তের কারণে তার ব্যবসা ডুবে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Bad friends sank him completely.",
+    "Wrong decisions caused his business to sink."
+  ],
+  "usage_domain": [
+    "personal life",
+    "business",
+    "finance"
+  ],
+  "tags": [
+    "destruction",
+    "ruin",
+    "betrayal",
+    "financial loss"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies irreversible damage caused by external influences like bad company or poor choices."
+}

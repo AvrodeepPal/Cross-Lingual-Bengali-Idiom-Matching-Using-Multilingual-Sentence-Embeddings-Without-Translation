@@ -1,0 +1,39 @@
+{
+  "id": "2951",
+  "idiom": "গরগর",
+  "alternative_idioms": [],
+  "literal_meaning": "বিড়ালের আরামের সময় উৎপন্ন হওয়া ধ্বন্যাত্মক শব্দ (পুনরাবৃত্তিমূলক)",
+  "figurative_meaning_bn": "আরামসূচক ধ্বন্যাত্মক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "An onomatopoeic reduplicated word indicating comfort or contentment",
+  "similar_in_english": [
+    "purr",
+    "purring like a cat"
+  ],
+  "example_sentences_in_bangla": [
+    "আদর পেয়ে বিড়ালটা গরগর করছে।",
+    "সে সোফায় বসে গরগর করে আরাম করছে।"
+  ],
+  "example_sentences_in_english": [
+    "The cat is purring after receiving affection.",
+    "He is purring with contentment while lounging on the sofa."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "animal description",
+    "expressions of comfort"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "animal sound",
+    "contentment",
+    "reduplication"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is primarily an onomatopoeic expression used idiomatically to denote satisfaction, common in Bengali folklore and everyday speech involving animals."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "893",
+  "idiom": "এঁটোপাত",
+  "alternative_idioms": [
+    "এঁটোখেকো"
+  ],
+  "literal_meaning": "এঁটো (অবশিষ্ট খাবার) পাত (পাত্র বা পাতা) – অবশিষ্ট খাবার খাওয়া লোক",
+  "figurative_meaning_bn": "অতি হীনভাবে বেঁচে থাকা লোক; পরমুখাপেক্ষী; পরান্নভোজী",
+  "figurative_meaning_en": "A person living in extreme poverty and meanness; entirely dependent on others; one who subsists on others' food",
+  "similar_in_english": [
+    "Living hand to mouth",
+    "Sponger",
+    "Pauper"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা এঁটোপাত, সবসময় অন্যের দয়ায় খায়।",
+    "গ্রামের এই এঁটোপাত লোকেরা কষ্ট করে জীবন যাপন করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real leftover eater, always relying on others' charity for food.",
+    "The poor leftover eaters in the village struggle to make ends meet."
+  ],
+  "usage_domain": [
+    "Social commentary",
+    "Poverty description",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "poverty",
+    "dependence",
+    "humility",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Derived from the proverb 'এঁটোপাত কখনো স্বর্গে যায় না', which implies that those who live off scraps are lowly and unworthy of higher realms, rooted in traditional Bengali rural life where leaf plates were used for serving food."
+  ],
+  "note": "The idiom evokes images of rural poverty and dependence on alms or leftovers in Bengali culture."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2663",
+  "idiom": "খুঁট আখরিয়া",
+  "alternative_idioms": [
+    "খুঁটআখরে",
+    "আখুরে"
+  ],
+  "literal_meaning": "খুঁট (stub or peg) আখরিয়া (letter writer)",
+  "figurative_meaning_bn": "যে বিশেষ চেষ্টা করে অক্ষর লিখতে পারে",
+  "figurative_meaning_en": "Someone who takes special effort to write letters meticulously",
+  "similar_in_english": [
+    "Dot the i's and cross the t's",
+    "Sweat over the details"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খুঁট আখরিয়া মানুষ, প্রত্যেক অক্ষর সাজিয়ে লেখে।",
+    "পরীক্ষার সময় খুঁট আখরিয়া হয়ে উঠলাম, ভুল হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a stickler for details, writing every letter with utmost care.",
+    "During the exam, I became meticulous, ensuring no errors in my writing."
+  ],
+  "usage_domain": [
+    "Education",
+    "Writing",
+    "Daily conversation"
+  ],
+  "tags": [
+    "meticulous",
+    "effort",
+    "precision",
+    "writing"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to painstaking attention to writing, rooted in traditional Bengali literacy practices"
+}

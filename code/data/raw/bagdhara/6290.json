@@ -1,0 +1,40 @@
+{
+  "id": "6290",
+  "idiom": "নাক গলানো",
+  "alternative_idioms": [],
+  "literal_meaning": "নাক ঢোকানো বা নাক প্রবেশ করানো",
+  "figurative_meaning_bn": "অনধিকার চর্চা করা; পরের কাজে হস্তক্ষেপ করা; যুক্ত হওয়া",
+  "figurative_meaning_en": "To interfere without authority; to meddle in others' affairs; to get involved inappropriately",
+  "similar_in_english": [
+    "Stick one's nose into something",
+    "Butt in",
+    "Meddle"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি আমার ব্যক্তিগত জীবনে নাক গলাবে না।",
+    "প্রতিবেশীর ব্যাপারে নাক গলানো উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "Don't poke your nose into my personal life.",
+    "It's not right to meddle in the neighbor's affairs."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "everyday conversation",
+    "interpersonal relations"
+  ],
+  "tags": [
+    "interference",
+    "meddling",
+    "nosiness",
+    "unwanted involvement"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects common Bengali cultural norms around privacy and boundaries in social interactions."
+}

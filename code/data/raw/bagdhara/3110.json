@@ -1,0 +1,42 @@
+{
+  "id": "3110",
+  "idiom": "গাঙ পেরুলেই পাটনী শালা",
+  "alternative_idioms": [],
+  "literal_meaning": "গাঙ (ছোট নদী) পেরিয়ে যাওয়ার সঙ্গে সঙ্গে পাটনী শালা (ভাগ্নে বা শ্যালকের মতো আত্মীয়) হয়ে যাওয়া",
+  "figurative_meaning_bn": "স্বার্থসিদ্ধি হয়ে গেলে উপকারী কেউ নয়",
+  "figurative_meaning_en": "Once self-interest is fulfilled, the benefactor is no longer of use",
+  "similar_in_english": [
+    "Out of sight, out of mind",
+    "Use and discard",
+    "Burn bridges after crossing"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার সাহায্য নেওয়ার পরই আমাকে পরিত্যাগ করল, গাঙ পেরুলেই পাটনী শালা।",
+    "রাজনীতিতে অনেকেই এমন, ভোট পাওয়ার পর সমর্থকদের ভুলে যায়, গাঙ পেরুলেই পাটনী শালা।"
+  ],
+  "example_sentences_in_english": [
+    "He abandoned me right after getting my help, just like crossing the river and then the ferryman becomes a brother-in-law.",
+    "In politics, many forget their supporters after winning votes, as if crossing the river and then the helper is irrelevant."
+  ],
+  "usage_domain": [
+    "daily life",
+    "relationships",
+    "politics"
+  ],
+  "tags": [
+    "ingratitude",
+    "betrayal",
+    "self-interest",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the riverine lifestyle in rural Bengal, where boatmen ferry people across rivers like the Ganga, symbolizing temporary alliances that end once the need is met."
+  ],
+  "note": "The idiom reflects the pragmatic and sometimes harsh interpersonal dynamics in traditional Bengali society."
+}

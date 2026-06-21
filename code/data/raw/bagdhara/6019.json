@@ -1,0 +1,40 @@
+{
+  "id": "6019",
+  "idiom": "ধরাছোঁয়ার বাইরে",
+  "alternative_idioms": [],
+  "literal_meaning": "ধরা-ছোঁয়ার বাইরে (হাতের ধরন বা ছোঁয়ার পরিসরের বাইরে)",
+  "figurative_meaning_bn": "বোধগম্যতার বাইরে; সাধারণ বুদ্ধি দিয়ে বোঝা যায় না এমন",
+  "figurative_meaning_en": "Beyond comprehension; something that cannot be understood with ordinary intelligence",
+  "similar_in_english": [
+    "Over one's head",
+    "Beyond one's grasp",
+    "It's all Greek to me"
+  ],
+  "example_sentences_in_bangla": [
+    "এই জটিল গণিতের সমস্যাটি আমার ধরাছোঁয়ার বাইরে।",
+    "তার বক্তৃতার অর্থ আমার ধরাছোঁয়ার বাইরে পড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "This complex math problem is beyond my grasp.",
+    "The meaning of his speech is beyond my comprehension."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Education"
+  ],
+  "tags": [
+    "comprehension",
+    "intelligence",
+    "difficulty",
+    "understanding"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom metaphorically extends the physical act of grasping to intellectual understanding, common in Bengali expressive language."
+}

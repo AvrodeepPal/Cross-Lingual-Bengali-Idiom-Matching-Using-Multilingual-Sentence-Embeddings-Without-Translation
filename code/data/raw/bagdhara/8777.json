@@ -1,0 +1,40 @@
+{
+  "id": "8777",
+  "idiom": "মুখে জল দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখে জল দেওয়া (giving water to the mouth)",
+  "figurative_meaning_bn": "মৃত্যুকালে মুখে গঙ্গাজল দেওয়া",
+  "figurative_meaning_en": "Giving Ganges water to the mouth at the time of death",
+  "similar_in_english": [
+    "administering last rites"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মৃত্যুকালে পরিবারের সদস্যরা মুখে জল দিয়ে বিদায় জানাল।",
+    "পুরনো রীতি অনুসারে মুখে জল দেওয়া হয়েছে, এবার শান্তি পাবে।"
+  ],
+  "example_sentences_in_english": [
+    "At the time of his death, family members gave water to his mouth as a farewell rite.",
+    "Following the old custom, water was given to his mouth; now he will find peace."
+  ],
+  "usage_domain": [
+    "death rituals",
+    "funeral practices",
+    "Hindu traditions"
+  ],
+  "tags": [
+    "idiom",
+    "death",
+    "Hindu ritual",
+    "Ganges water"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom stems from the ancient Hindu practice of offering Ganges water to the dying, believed to purify the soul and ensure moksha or liberation from the cycle of rebirth."
+  ],
+  "note": "The idiom specifically invokes the sanctity of Ganges water in Bengali Hindu culture."
+}

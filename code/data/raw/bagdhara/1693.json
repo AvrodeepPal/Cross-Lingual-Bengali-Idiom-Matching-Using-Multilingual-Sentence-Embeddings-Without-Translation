@@ -1,0 +1,43 @@
+{
+  "id": "1693",
+  "idiom": "কলির সন্ধ্যা",
+  "alternative_idioms": [
+    "কলির সন্ধে"
+  ],
+  "literal_meaning": "কালীর সন্ধ্যা (Kali's evening)",
+  "figurative_meaning_bn": "ভয়াবহ দুর্দিনের/দুর্ভাগ্যের সূত্রপাত",
+  "figurative_meaning_en": "The onset of terrible hard times or misfortune",
+  "similar_in_english": [
+    "The calm before the storm",
+    "The beginning of the end"
+  ],
+  "example_sentences_in_bangla": [
+    "এই অর্থনৈতিক সংকট তো সবে কলির সন্ধ্যা, আরও খারাপ দিন আসবে।",
+    "তার জীবনে কলির সন্ধ্যা নেমে এসেছে, সবকিছু উল্টে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "This economic crisis is just the Kali evening; worse days are coming.",
+    "Kali's evening has descended on his life; everything will turn upside down."
+  ],
+  "usage_domain": [
+    "Literature",
+    "Daily conversation",
+    "Prophecy and omens"
+  ],
+  "tags": [
+    "misfortune",
+    "omen",
+    "Kali Yuga",
+    "calamity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the mythological concept of Kali Yuga in Hindu scriptures, symbolizing the age of vice and decline, where 'Kali's evening' evokes the twilight of moral decay leading to catastrophe."
+  ],
+  "note": "The idiom draws from Hindu cosmology, where Kali represents both the goddess and the era of strife."
+}

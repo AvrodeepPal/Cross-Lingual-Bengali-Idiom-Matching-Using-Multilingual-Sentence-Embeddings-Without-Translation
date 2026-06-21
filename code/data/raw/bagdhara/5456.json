@@ -1,0 +1,38 @@
+{
+  "id": "5456",
+  "idiom": "তীর্থের কাক",
+  "alternative_idioms": [],
+  "literal_meaning": "তীর্থস্থানের কাক",
+  "figurative_meaning_bn": "লোভী ব্যক্তি",
+  "figurative_meaning_en": "A greedy person",
+  "similar_in_english": [
+    "a greedy scavenger"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তীর্থের কাকের মতো সবকিছু নিজের করে নিতে চায়।",
+    "দানের সময় তার লোভী স্বভাব তীর্থের কাকের মতো প্রকাশ পায়।"
+  ],
+  "example_sentences_in_english": [
+    "He wants to take everything for himself like a pilgrimage crow.",
+    "His greedy nature shows during donations, just like a pilgrimage crow."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "character description"
+  ],
+  "tags": [
+    "greed",
+    "animal metaphor",
+    "pilgrimage"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the observation of crows at Bengali pilgrimage sites (tirthas) where they greedily scavenge food offerings from devotees, symbolizing opportunistic greed."
+  ],
+  "note": "The idiom highlights cultural observations of animal behavior in religious contexts."
+}

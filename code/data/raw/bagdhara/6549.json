@@ -1,0 +1,40 @@
+{
+  "id": "6549",
+  "idiom": "বাজারে পড়তে না পাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বাজারে পড়তে বা উপলব্ধ হতে না পাওয়া",
+  "figurative_meaning_bn": "বাজারে পণ্যটির গরম তেলেভাজার মত ব্যাপক চাহিদা",
+  "figurative_meaning_en": "The product has such high demand in the market that it sells like hot fritters and is hard to find",
+  "similar_in_english": [
+    "Selling like hot cakes",
+    "In great demand",
+    "Flying off the shelves"
+  ],
+  "example_sentences_in_bangla": [
+    "নতুন স্মার্টফোনটি বাজারে পড়তে না পাওয়া, সবাই কিনতে ছুটছে।",
+    "এই বইটি এতটাই জনপ্রিয় যে বাজারে পড়তে না পাওয়া।"
+  ],
+  "example_sentences_in_english": [
+    "The new smartphone is not available in the market; everyone is rushing to buy it.",
+    "This book is so popular that it's not to be found in the market."
+  ],
+  "usage_domain": [
+    "Commerce",
+    "Market",
+    "Economy"
+  ],
+  "tags": [
+    "Demand",
+    "Popularity",
+    "Scarcity",
+    "Consumerism"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to everyday Bengali market dynamics where high-demand items disappear quickly, evoking images of street food like telebhaja."
+}

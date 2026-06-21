@@ -1,0 +1,39 @@
+{
+  "id": "7371",
+  "idiom": "বসিয়ে দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কাউকে বসানো বা বসিয়ে রাখা",
+  "figurative_meaning_bn": "সর্বনাশ করা",
+  "figurative_meaning_en": "To cause complete ruin or destitution",
+  "similar_in_english": [
+    "Go bust",
+    "Bring to ruin",
+    "Leave penniless"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসায়ের লোকসান তাকে পথে বসিয়ে দিয়েছে।",
+    "এই ভুল সিদ্ধান্ত তার জীবনকে বসিয়ে দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The business loss has left him ruined on the streets.",
+    "This wrong decision has completely ruined his life."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Misfortune",
+    "Daily life"
+  ],
+  "tags": [
+    "financial ruin",
+    "destitution",
+    "hardship"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of economic downfall in Bengali literature and speech"
+}

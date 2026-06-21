@@ -1,0 +1,39 @@
+{
+  "id": "2419",
+  "idiom": "ক্যাডার",
+  "alternative_idioms": [],
+  "literal_meaning": "সংগঠনের কাঠামো বা ফ্রেমওয়ার্ক",
+  "figurative_meaning_bn": "সংগঠনের কর্মীবৃন্দ",
+  "figurative_meaning_en": "The dedicated members or backbone of an organization",
+  "similar_in_english": [
+    "Rank and file",
+    "Grassroots members"
+  ],
+  "example_sentences_in_bangla": [
+    "দলের ক্যাডাররা নির্বাচনে সক্রিয় ভূমিকা পালন করেছে।",
+    "সংগঠনের শক্তিশালী ক্যাডার ছাড়া কোনো আন্দোলন সফল হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "The party's cadre played an active role in the elections.",
+    "No movement succeeds without a strong organizational cadre."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Organization"
+  ],
+  "tags": [
+    "Political",
+    "Activism",
+    "Communist terminology"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term 'cadre' originates from French military usage and was adopted in Marxist-Leninist politics to refer to trained revolutionary members, popularized in Bengali political discourse through communist and leftist movements in India and Bangladesh."
+  ],
+  "note": "Borrowed term from English/French, commonly used in political contexts in Bengali."
+}

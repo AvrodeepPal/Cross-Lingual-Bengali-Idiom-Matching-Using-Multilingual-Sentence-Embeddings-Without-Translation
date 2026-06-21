@@ -1,0 +1,38 @@
+{
+  "id": "3386",
+  "idiom": "গৌরচন্দ্রিকা",
+  "alternative_idioms": [],
+  "literal_meaning": "গৌরের চন্দ্রিকা (প্রাচীন বাংলার চাঁদের আলো)",
+  "figurative_meaning_bn": "নানা বাহানায় মূলবিষয় নাকচের চেষ্টা",
+  "figurative_meaning_en": "Attempting to avoid the main issue through various pretexts",
+  "similar_in_english": [
+    "Beat around the bush"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় সবাই মূল সমস্যা নিয়ে আলোচনা করতে চাইলেও, তিনি গৌরচন্দ্রিকা করে অন্যান্য বিষয় তুললেন।",
+    "পরীক্ষার প্রস্তুতি নিয়ে প্রশ্ন করলে ছেলেটি গৌরচন্দ্রিকা করে অন্য কথা বলতে শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "In the meeting, while everyone wanted to discuss the main problem, he resorted to gaurachandrika by bringing up other topics.",
+    "When asked about exam preparation, the boy started gaurachandrika by talking about unrelated things."
+  ],
+  "usage_domain": [
+    "Conversation",
+    "Debate",
+    "Literature"
+  ],
+  "tags": [
+    "avoidance",
+    "excuses",
+    "evasion",
+    "pretext"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Possibly derived from literary or poetic references to ancient Bengal (Gaur), used metaphorically for indirect or evasive speech."
+}

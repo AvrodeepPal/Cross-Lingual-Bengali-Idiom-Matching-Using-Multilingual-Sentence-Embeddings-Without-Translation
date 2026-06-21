@@ -1,0 +1,45 @@
+{
+  "id": "4188",
+  "idiom": "চৌকাঠ না মাড়ানো",
+  "alternative_idioms": [
+    "কথায় না থাকা",
+    "ছায়া না মাড়ানো",
+    "পথ না মাড়ানো",
+    "পা ধুতে না আসা"
+  ],
+  "literal_meaning": "চৌকাঠের উপর পা না রাখা (threshold not stepping on)",
+  "figurative_meaning_bn": "সম্পর্ক না রাখা; সম্পর্ক ছিন্ন করা; সংস্পর্শে না আসা",
+  "figurative_meaning_en": "Not maintaining relations; severing ties; avoiding contact",
+  "similar_in_english": [
+    "never set foot in one's house again",
+    "cut off all ties",
+    "wash one's hands of someone"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার বাড়ির চৌকাঠ আর কোনদিন মাড়াব না।",
+    "আমি তার সঙ্গে সম্পর্ক ছিন্ন করে চৌকাঠ না মাড়ানোর সিদ্ধান্ত নিয়েছি।"
+  ],
+  "example_sentences_in_english": [
+    "I will never set foot in your house again.",
+    "I've decided to sever ties and never cross his threshold."
+  ],
+  "usage_domain": [
+    "social relations",
+    "family disputes",
+    "personal conflicts"
+  ],
+  "tags": [
+    "relationship",
+    "severing ties",
+    "avoidance",
+    "hospitality"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali emphasis on home and hospitality, where crossing the threshold symbolizes entering one's personal or social space."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "1368",
+  "idiom": "কড়ায় গণ্ডায় হিসাব",
+  "alternative_idioms": [
+    "কড়াক্রান্তির হিসাব",
+    "পাই পয়সার হিসাব"
+  ],
+  "literal_meaning": "কড়া (কঠোর) এবং গণ্ডা (পরিমাপের ঝুড়ি বা একক) অনুসারে হিসাব",
+  "figurative_meaning_bn": "পাই-পয়সা পর্যন্ত নিখুঁত হিসাব; অতি নিপুণ ও সূক্ষ্ম হিসাবমতে, পুরোপুরি",
+  "figurative_meaning_en": "Precise accounting down to the last paisa; extremely accurate and meticulous calculation, completely thorough",
+  "similar_in_english": [
+    "To the last penny",
+    "Dotting every i and crossing every t",
+    "Nickel and diming"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসায়ে সফল হতে হলে কড়ায় গণ্ডায় হিসাব রাখতে হয়।",
+    "তিনি খরচের কড়ায় গণ্ডায় হিসাব করে জীবন যাপন করেন।"
+  ],
+  "example_sentences_in_english": [
+    "To succeed in business, you must keep accounts to the last detail.",
+    "He lives his life with meticulous accounting of every expense."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Business",
+    "Accounting"
+  ],
+  "tags": [
+    "precision",
+    "meticulous",
+    "thoroughness",
+    "financial accuracy"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali mercantile practices emphasizing exactitude in trade and daily transactions."
+}

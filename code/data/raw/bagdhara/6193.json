@@ -1,0 +1,39 @@
+{
+  "id": "6193",
+  "idiom": "ননস্টপ",
+  "alternative_idioms": [],
+  "literal_meaning": "বন্ধ ছাড়া (ইংরেজি 'non-stop' এর সরাসরি ব্যবহার)",
+  "figurative_meaning_bn": "একনাগাড়ে",
+  "figurative_meaning_en": "continuously or without interruption",
+  "similar_in_english": [
+    "non-stop",
+    "without a break",
+    "back-to-back"
+  ],
+  "example_sentences_in_bangla": [
+    "ঝাড়া একঘণ্টা ননস্টপ বকে চলেছে।",
+    "ট্রেনটি ননস্টপ কলকাতা চলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He talked non-stop for an hour.",
+    "The train ran non-stop to Kolkata."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "transportation",
+    "modern life"
+  ],
+  "tags": [
+    "loanword",
+    "modern expression",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is a direct borrowing from English, commonly used in urban Bengali speech to denote uninterrupted action."
+}

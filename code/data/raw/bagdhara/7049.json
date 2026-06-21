@@ -1,0 +1,38 @@
+{
+  "id": "7049",
+  "idiom": "ফড়ফড়",
+  "alternative_idioms": [],
+  "literal_meaning": "ফড়িং-ফড়িং শব্দের অনুকরণ (যেমন ডানা ঝাপটানো বা কাগজ নড়াচড়ার শব্দ)",
+  "figurative_meaning_bn": "কিছু নড়াচড়া আওয়াজ",
+  "figurative_meaning_en": "a rustling or stirring sound",
+  "similar_in_english": [
+    "flutter",
+    "rustle",
+    "flap flap"
+  ],
+  "example_sentences_in_bangla": [
+    "বাক্সের ভিতর থেকে ফড়ফড় শব্দ আসছে।",
+    "পাতায় ফড়ফড় করে বাতাস বইছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's a fluttering sound coming from inside the box.",
+    "The wind is rustling through the leaves."
+  ],
+  "usage_domain": [
+    "descriptive language",
+    "sound imitation"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "reduplication",
+    "sound effect"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic reduplicated word used to mimic fluttering or rustling noises in everyday Bengali speech."
+}

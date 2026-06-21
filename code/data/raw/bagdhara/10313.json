@@ -1,0 +1,38 @@
+{
+  "id": "10313",
+  "idiom": "হিঁয়াকা মাটি হুঁয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হিঁয়াকা (প্রতারণা বা ছল) দিয়ে মাটি (মাটি) হুঁয়া (হয়ে যাওয়া বা ধুলো হয়ে যাওয়া)",
+  "figurative_meaning_bn": "ধাঁন্ধাবাজী",
+  "figurative_meaning_en": "trickery or deception",
+  "similar_in_english": [
+    "smoke and mirrors",
+    "pull the wool over one's eyes"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হিঁয়াকা মাটি হুঁয়া করে লোকদের ঠকায়।",
+    "ব্যবসায় ধাঁধায় পড়লে হিঁয়াকা মাটি হুঁয়া করো না।"
+  ],
+  "example_sentences_in_english": [
+    "He deceives people through trickery.",
+    "Don't resort to trickery in business when in trouble."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "business",
+    "daily conversation"
+  ],
+  "tags": [
+    "deception",
+    "negative",
+    "figurative"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali colloquial expressions for deceitful practices, possibly originating from rural bargaining contexts."
+}

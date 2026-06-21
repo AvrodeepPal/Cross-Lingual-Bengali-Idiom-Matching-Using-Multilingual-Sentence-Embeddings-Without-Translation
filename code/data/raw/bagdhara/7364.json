@@ -1,0 +1,41 @@
+{
+  "id": "7364",
+  "idiom": "হাট বসা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাট (market) বসা (to sit)",
+  "figurative_meaning_bn": "সক্রিয় হওয়া; কাজ শুরু হওয়া",
+  "figurative_meaning_en": "becoming active; starting work or activity",
+  "similar_in_english": [
+    "the ball is rolling",
+    "business is booming"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ সকাল থেকে হাট বসেছে, অনেক লোক এসেছে।",
+    "প্রকল্পটি এখন হাট বসার মতো চলছে।"
+  ],
+  "example_sentences_in_english": [
+    "The market has started today, with many people coming in.",
+    "The project is now up and running like a bustling market."
+  ],
+  "usage_domain": [
+    "commerce",
+    "daily life",
+    "rural activities"
+  ],
+  "tags": [
+    "market",
+    "activity",
+    "starting",
+    "rural"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Referenced in Rabindranath Tagore's literature, evoking rural Bengali market scenes."
+  ],
+  "note": "The input idiom text 'বসা১' appears to be a fragment; reconstructed as 'হাট বসা' based on context and example."
+}

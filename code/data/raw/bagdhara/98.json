@@ -1,0 +1,41 @@
+{
+  "id": "98",
+  "idiom": "অজগ্রাম",
+  "alternative_idioms": [
+    "অজপাড়া",
+    "অজ পাড়াগাঁ"
+  ],
+  "literal_meaning": "অজানা গ্রাম বা অজানা পাড়া",
+  "figurative_meaning_bn": "খাঁটি পুরোদস্তুর পল্লী",
+  "figurative_meaning_en": "Genuine, full-fledged rural village",
+  "similar_in_english": [
+    "The backwoods",
+    "Quintessential countryside"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বাড়ি অজগ্রামে, খাঁটি গ্রাম্য জীবন চলে সেখানে।",
+    "এই অজগ্রামে গিয়ে দেখলাম পুরোদস্তুর পল্লীমনের ছবি।"
+  ],
+  "example_sentences_in_english": [
+    "His house is in a real ajogram, where authentic village life thrives.",
+    "Visiting that ajogram, I saw a picture of full-fledged rural simplicity."
+  ],
+  "usage_domain": [
+    "Rural description",
+    "Cultural reference"
+  ],
+  "tags": [
+    "village",
+    "rural",
+    "authentic",
+    "remote"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Variants reflect regional pronunciations in Bengali dialects."
+}

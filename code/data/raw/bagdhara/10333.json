@@ -1,0 +1,44 @@
+{
+  "id": "10333",
+  "idiom": "হুজুর হুজুর করা",
+  "alternative_idioms": [
+    "মশাই মশাই করা"
+  ],
+  "literal_meaning": "বারবার 'হুজুর' বলে সম্বোধন করা (অতিরিক্ত সম্মান বা চাটুকারিতার সাথে)",
+  "figurative_meaning_bn": "চাটুকারিতা বা তোষামুদি করা",
+  "figurative_meaning_en": "To engage in flattery or sycophancy",
+  "similar_in_english": [
+    "Brown-nosing",
+    "Bootlicking",
+    "Apple-polishing"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বসের সামনে হুজুর হুজুর করে তার প্রশংসা করে যায়।",
+    "প্রমোশন পাওয়ার জন্য সে উর্ধ্বতনদের কাছে হুজুর হুজুর করতে শুরু করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He flatters the boss excessively by calling him 'sir' repeatedly to gain favor.",
+    "To get a promotion, he started bootlicking his superiors."
+  ],
+  "usage_domain": [
+    "social",
+    "professional",
+    "conversational"
+  ],
+  "tags": [
+    "flattery",
+    "sycophancy",
+    "informal",
+    "derogatory"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term 'হুজুর' originates from Arabic 'huzur' meaning 'presence' and is traditionally used to address Muslim religious scholars (maulvis) in Bengal, but the idiom satirizes its overuse in flattery, reflecting colonial and post-colonial social dynamics in Bengali society."
+  ],
+  "note": "The idiom highlights the cultural practice of exaggerated respect in hierarchical Bengali interactions."
+}

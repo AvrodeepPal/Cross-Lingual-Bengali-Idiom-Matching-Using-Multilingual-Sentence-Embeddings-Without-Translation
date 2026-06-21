@@ -1,0 +1,40 @@
+{
+  "id": "575",
+  "idiom": "আমড়া গাছে আম ফলে না",
+  "alternative_idioms": [],
+  "literal_meaning": "আমড়া গাছ আম ফল ফলে না",
+  "figurative_meaning_bn": "কারো চরিত্র ও কর্ম তার বংশকুলের বিপরীত হয় না; বিপরীত বাগধারাও সত্য",
+  "figurative_meaning_en": "A person's character and actions do not contradict their lineage; the opposite is also true in some cases",
+  "similar_in_english": [
+    "Like father, like son",
+    "The apple doesn't fall far from the tree"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বাবা সৎব্যবহারী ছিলেন, ছেলেও তাই, আমড়া গাছে আম ফলে না।",
+    "এই পরিবারের সবাই শান্তিপ্রিয়, আমড়া গাছে আম ফলে না।"
+  ],
+  "example_sentences_in_english": [
+    "His father was honest, and so is his son; a hog plum tree doesn't bear mangoes.",
+    "Everyone in this family is peace-loving; a hog plum tree doesn't bear mangoes."
+  ],
+  "usage_domain": [
+    "family",
+    "character",
+    "heredity"
+  ],
+  "tags": [
+    "proverb",
+    "lineage",
+    "nature metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom contrasts with exceptions like Prahlada, a devotee born in a demon family in Hindu mythology, illustrating that while lineage often determines character, divine exceptions exist."
+  ],
+  "note": "The proverb acknowledges both the norm of inherited traits and rare deviations, often referenced in moral discussions."
+}

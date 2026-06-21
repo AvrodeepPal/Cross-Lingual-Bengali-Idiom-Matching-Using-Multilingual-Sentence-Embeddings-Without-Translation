@@ -1,0 +1,42 @@
+{
+  "id": "7093",
+  "idiom": "ফাঁকা আওয়াজ",
+  "alternative_idioms": [
+    "ফাঁকা কথা",
+    "ফাঁকা বুলি"
+  ],
+  "literal_meaning": "empty or hollow sound",
+  "figurative_meaning_bn": "বৃথা আস্ফালন; বাজে কথার হাঁকডাক, মিথ্যা আশ্বাস",
+  "figurative_meaning_en": "futile fuss; empty talk or clamor, false assurances",
+  "similar_in_english": [
+    "empty words",
+    "all talk and no action",
+    "hot air"
+  ],
+  "example_sentences_in_bangla": [
+    "তার দেওয়া প্রতিশ্রুতি শুনে মনে হলো এটা ফাঁকা আওয়াজ।",
+    "রাজনীতিতে এমন ফাঁকা কথা অনেক শুনেছি, কিন্তু কাজ হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "His promises sounded like empty noise after a while.",
+    "In politics, I've heard such empty talk many times, but nothing gets done."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "politics",
+    "personal relations"
+  ],
+  "tags": [
+    "skepticism",
+    "warning",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom emphasizes the futility of unsubstantiated claims in Bengali discourse."
+}

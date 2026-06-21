@@ -1,0 +1,39 @@
+{
+  "id": "7086",
+  "idiom": "ফাঁক ধরা",
+  "alternative_idioms": [],
+  "literal_meaning": "গ্যাপ বা ত্রুটি ধরা (gap or flaw catching)",
+  "figurative_meaning_bn": "ত্রুটি খুঁজে পাওয়া; দোষ ধরা",
+  "figurative_meaning_en": "to find a fault; to pick holes in something",
+  "similar_in_english": [
+    "nitpick",
+    "find fault with",
+    "poke holes in"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বক্তৃতায় কোনো ফাঁক ধরতে পারলাম না।",
+    "সবসময় অন্যের কাজে ফাঁক ধরার চেষ্টা করো না।"
+  ],
+  "example_sentences_in_english": [
+    "I couldn't find any flaw in his speech.",
+    "Don't always try to pick holes in others' work."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "criticism",
+    "workplace"
+  ],
+  "tags": [
+    "fault-finding",
+    "criticism",
+    "perfectionism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects a common cultural tendency in Bengali discourse to scrutinize for imperfections."
+}

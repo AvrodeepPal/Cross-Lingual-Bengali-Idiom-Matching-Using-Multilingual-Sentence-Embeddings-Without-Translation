@@ -1,0 +1,39 @@
+{
+  "id": "750",
+  "idiom": "উজান-ভাঁটি",
+  "alternative_idioms": [],
+  "literal_meaning": "উজান (উচ্চ জলরাশি বা উজান বাতাস) - ভাঁটি (নিম্ন জলরাশি বা ভাঁটার সময়)",
+  "figurative_meaning_bn": "উন্নতি-অবনতি",
+  "figurative_meaning_en": "rise and fall",
+  "similar_in_english": [
+    "ebb and flow",
+    "ups and downs",
+    "highs and lows"
+  ],
+  "example_sentences_in_bangla": [
+    "জীবনে উজান-ভাঁটি আসতে থাকে।",
+    "ব্যবসায়ের উজান-ভাঁটি দেখা যায়।"
+  ],
+  "example_sentences_in_english": [
+    "Life has its ups and downs.",
+    "Business experiences rise and fall."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "motivational contexts"
+  ],
+  "tags": [
+    "nautical metaphor",
+    "life fluctuations",
+    "prosperity and decline"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from tidal movements in rivers, common in Bengal's riverine culture"
+}

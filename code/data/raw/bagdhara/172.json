@@ -1,0 +1,40 @@
+{
+  "id": "172",
+  "idiom": "অন্ধকারে হাতড়ানো",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ধকারে হাত দিয়ে টটোলা বা অনুসন্ধান করা",
+  "figurative_meaning_bn": "স্পষ্ট জ্ঞান না থাকায় অনুমানে কিছু করা বা বলা",
+  "figurative_meaning_en": "Doing or saying something based on guesswork due to lack of clear knowledge",
+  "similar_in_english": [
+    "Groping in the dark",
+    "Shooting in the dark",
+    "Flying blind"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি অন্ধকারে হাতড়ানোর মতো এই সিদ্ধান্ত নিয়েছেন, কোনো তথ্য ছাড়াই।",
+    "জীবনের এই পরিস্থিতিতে সবাই অন্ধকারে হাতড়ানোর মতো চলছেন।"
+  ],
+  "example_sentences_in_english": [
+    "He made this decision like groping in the dark, without any information.",
+    "In this situation of life, everyone is proceeding like groping in the dark."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "decision-making",
+    "uncertainty"
+  ],
+  "tags": [
+    "guesswork",
+    "ignorance",
+    "uncertainty",
+    "anxiety"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the universal experience of navigating darkness, common in Bengali rural and everyday contexts."
+}

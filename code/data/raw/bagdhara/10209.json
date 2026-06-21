@@ -1,0 +1,38 @@
+{
+  "id": "10209",
+  "idiom": "হাতে গড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতে তৈরি বা আকার দেওয়া",
+  "figurative_meaning_bn": "স্বহস্তে বানানো",
+  "figurative_meaning_en": "Made by one's own hands",
+  "similar_in_english": [
+    "Handmade",
+    "Made from scratch"
+  ],
+  "example_sentences_in_bangla": [
+    "এই টেরাকোটার মূর্তিটি হাতে গড়া, তাই এর মূল্য অনেক।",
+    "গ্রামের মেয়েরা হাতে গড়া রুটি খেতে পছন্দ করে।"
+  ],
+  "example_sentences_in_english": [
+    "This terracotta statue is handmade, so it's very valuable.",
+    "Village girls prefer to eat handmade rotis."
+  ],
+  "usage_domain": [
+    "Crafts",
+    "Cooking",
+    "Daily life"
+  ],
+  "tags": [
+    "Handicraft",
+    "Homemade",
+    "Traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Often associated with traditional Bengali pottery and rural craftsmanship"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "15",
+  "idiom": "অকালবোধন",
+  "alternative_idioms": [],
+  "literal_meaning": "অকালে বোধন বা জাগরণ",
+  "figurative_meaning_bn": "অনুপযুক্ত সময়ে কোন শুভ কাজের সূচনা",
+  "figurative_meaning_en": "Initiating an auspicious activity at an inappropriate time",
+  "similar_in_english": [
+    "jumping the gun",
+    "ill-timed action"
+  ],
+  "example_sentences_in_bangla": [
+    "এখনই ব্যবসা শুরু করা অকালবোধনের মতো হবে।",
+    "তার পরিকল্পনা সম্পূর্ণ অকালবোধন।"
+  ],
+  "example_sentences_in_english": [
+    "Starting the business now would be like akal bodhan.",
+    "His plan is a complete ill-timed endeavor."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Cultural discussions"
+  ],
+  "tags": [
+    "time",
+    "auspiciousness",
+    "ritual",
+    "Hinduism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom derives from the Ramayana, where Lord Rama performed the untimely invocation (akal bodhan) of Goddess Durga during his battle against Ravana to seek her blessings, deviating from the traditional time of Durga Puja."
+  ],
+  "note": "Strongly tied to Bengali Hindu traditions, especially Durga Puja narratives."
+}

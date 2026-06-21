@@ -1,0 +1,38 @@
+{
+  "id": "3231",
+  "idiom": "গুড়ে বালি",
+  "alternative_idioms": [],
+  "literal_meaning": "গুড়ের মধ্যে বালি (jaggery mixed with sand)",
+  "figurative_meaning_bn": "আশায় নৈরাশ্য, আশা বিফল",
+  "figurative_meaning_en": "hope turning into disappointment, dashed expectations",
+  "similar_in_english": [
+    "all that glitters is not gold",
+    "too good to be true"
+  ],
+  "example_sentences_in_bangla": [
+    "আশা করেছিলাম সাহায্য পাব, কিন্তু সে গুড়ে বালি প্রমাণিত হলো।",
+    "তার প্রতিশ্রুতি গুড়ে বালি, কোনো লাভ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "I hoped for help, but it turned out to be sand in jaggery.",
+    "His promises are like sand in jaggery—utterly disappointing."
+  ],
+  "usage_domain": [
+    "conversational",
+    "emotional",
+    "relationships"
+  ],
+  "tags": [
+    "disappointment",
+    "deception",
+    "false hope"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to something that appears sweet and beneficial but is actually worthless or harmful, drawing from everyday rural experiences with impure jaggery."
+}

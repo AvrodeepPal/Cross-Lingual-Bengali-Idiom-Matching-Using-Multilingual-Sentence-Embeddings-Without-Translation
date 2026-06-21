@@ -1,0 +1,39 @@
+{
+  "id": "1902",
+  "idiom": "কাঞ্চনমূল্য",
+  "alternative_idioms": [],
+  "literal_meaning": "সোনার মূল্য",
+  "figurative_meaning_bn": "অগ্নিমূল্য",
+  "figurative_meaning_en": "Exorbitant price or cost as high as gold",
+  "similar_in_english": [
+    "Cost an arm and a leg",
+    "Pay through the nose"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকাল বাজারে সবকিছুর দাম কাঞ্চনমূল্য হয়ে গেছে।",
+    "এই নতুন গাড়িটি কিনতে কাঞ্চনমূল্য খরচ হবে।"
+  ],
+  "example_sentences_in_english": [
+    "Nowadays, everything in the market costs a king's ransom.",
+    "Buying this new car will cost an arm and a leg."
+  ],
+  "usage_domain": [
+    "Economy",
+    "Daily life",
+    "Markets"
+  ],
+  "tags": [
+    "expensive",
+    "price",
+    "market",
+    "complaint"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the high value of gold to express inflated prices in everyday Bengali commerce."
+}

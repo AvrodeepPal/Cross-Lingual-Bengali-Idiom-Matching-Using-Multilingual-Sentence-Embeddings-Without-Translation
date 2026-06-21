@@ -1,0 +1,38 @@
+{
+  "id": "9181",
+  "idiom": "রোদ পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "সূর্যের আলো পড়া বা কমে যাওয়া",
+  "figurative_meaning_bn": "রোদের তেজ কমে যাওয়া, বিকাল হওয়া",
+  "figurative_meaning_en": "The intensity of the sunlight decreasing, indicating afternoon time",
+  "similar_in_english": [
+    "The heat of the day is past",
+    "The sun is dipping low"
+  ],
+  "example_sentences_in_bangla": [
+    "রোদ পড়েছে, এখন বাইরে খেলতে যাওয়া যায়।",
+    "দুপুরের তাপ কমে রোদ পড়ার পর কাজ শুরু করি।"
+  ],
+  "example_sentences_in_english": [
+    "The sun has waned, now we can go out to play.",
+    "We start work after the afternoon heat subsides and the sun dips."
+  ],
+  "usage_domain": [
+    "Time of day",
+    "Weather",
+    "Daily routine"
+  ],
+  "tags": [
+    "Nature",
+    "Time",
+    "Agrarian"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the practical awareness of solar cycles in everyday Bengali life, especially in rural settings."
+}

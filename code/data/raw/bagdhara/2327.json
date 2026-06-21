@@ -1,0 +1,39 @@
+{
+  "id": "2327",
+  "idiom": "কেঁচে গণ্ডুষ",
+  "alternative_idioms": [],
+  "literal_meaning": "অপরিপক্ক বা অসম্পূর্ণ গণ্ডুষ (অর্থাৎ, অসমাপ্ত মুখধোয়া বা গার্গল করা)",
+  "figurative_meaning_bn": "অসমাপ্ত কাজ পুনরায় সূচনা; নতুন করে আরম্ভ করা; আবার গোড়া থেকে শুরু করা",
+  "figurative_meaning_en": "Restarting an incomplete task; starting anew; beginning again from the start",
+  "similar_in_english": [
+    "Back to square one",
+    "Start from scratch"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষাটি খারাপ হয়ে যাওয়ার পর ছাত্রটি কেঁচে গণ্ডুষ করে পড়াশোনা নতুন করে শুরু করল।",
+    "ব্যবসা ব্যর্থ হওয়ায় তারা কেঁচে গণ্ডুষ করে আবার পরিকল্পনা করতে বসল।"
+  ],
+  "example_sentences_in_english": [
+    "After the exam went poorly, the student started his studies over from the beginning like rinsing and gargling anew.",
+    "When the business failed, they restarted the planning process from scratch."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Work and projects",
+    "Education"
+  ],
+  "tags": [
+    "restart",
+    "failure recovery",
+    "rebeginning",
+    "daily life"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the everyday act of gargling incompletely and starting over, reflecting practical Bengali household routines."
+}

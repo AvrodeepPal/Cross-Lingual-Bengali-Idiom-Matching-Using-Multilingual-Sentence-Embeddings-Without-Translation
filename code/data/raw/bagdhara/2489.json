@@ -1,0 +1,40 @@
+{
+  "id": "2489",
+  "idiom": "খড়ের আগুন",
+  "alternative_idioms": [],
+  "literal_meaning": "খড়ের আগুন (straw fire)",
+  "figurative_meaning_bn": "উগ্রপ্রকৃতির লোক, যে দপ করে রেগে যায় আবার অপ্লতেই ঠাণ্ডা হয়; রুক্ষপ্রকৃতি লোক",
+  "figurative_meaning_en": "A person with a fiery temperament who flares up in anger suddenly and cools down just as quickly; a rough-natured individual",
+  "similar_in_english": [
+    "quick-tempered",
+    "hot-headed but short-fused",
+    "blow hot and cold"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খড়ের আগুনের মতো, একটু কথায় দপ করে রেগে যায় কিন্তু কিছুক্ষণ পরই সব ভুলে যায়।",
+    "তার রাগ খড়ের আগুনের মতো জ্বলে ওঠে, কিন্তু তেমনি দ্রুত নিভে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is like a straw fire, flaring up in anger at the slightest provocation but cooling down moments later.",
+    "Her temper is a straw fire—it ignites fiercely but dies out just as fast."
+  ],
+  "usage_domain": [
+    "personality description",
+    "colloquial speech",
+    "emotional expression"
+  ],
+  "tags": [
+    "anger",
+    "temperament",
+    "personality",
+    "ephemeral emotion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from the imagery of straw burning brightly but briefly, common in agrarian Bengali contexts."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "8093",
+  "idiom": "ভীমশব্দ",
+  "alternative_idioms": [],
+  "literal_meaning": "ভয়ঙ্কর শব্দ",
+  "figurative_meaning_bn": "উচ্চমাত্রার ভয়ানক শব্দ",
+  "figurative_meaning_en": "an extremely terrifying loud noise",
+  "similar_in_english": [
+    "deafening roar",
+    "earth-shattering sound"
+  ],
+  "example_sentences_in_bangla": [
+    "বজ্রপাতের ভীমশব্দে গ্রামের সবাই কেঁপে উঠল।",
+    "যুদ্ধক্ষেত্রে বন্দুকের ভীমশব্দ শুনে শত্রুরা পালিয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The thunder's terrifying roar made everyone in the village tremble.",
+    "The guns' deafening blasts on the battlefield made the enemies flee."
+  ],
+  "usage_domain": [
+    "nature",
+    "war",
+    "fear"
+  ],
+  "tags": [
+    "sound",
+    "terror",
+    "intensity"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to intensely frightening auditory experiences, often in natural or dramatic contexts"
+}

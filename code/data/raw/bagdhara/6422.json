@@ -1,0 +1,38 @@
+{
+  "id": "6422",
+  "idiom": "নিত্যনৈমিত্তিক",
+  "alternative_idioms": [],
+  "literal_meaning": "নিত্য (দৈনন্দিন) + নৈমিত্তিক (বিশেষ উপলক্ষের)",
+  "figurative_meaning_bn": "দৈনন্দিন ও বিশেষ উপলক্ষে করণীয়",
+  "figurative_meaning_en": "Daily and special occasion duties or tasks",
+  "similar_in_english": [
+    "routine and ritual obligations"
+  ],
+  "example_sentences_in_bangla": [
+    "সকালে স্নান করা আমার নিত্যনৈমিত্তিক কাজ।",
+    "পূজা-অর্চনা আমাদের পরিবারের নিত্যনৈমিত্তিক কর্ম।"
+  ],
+  "example_sentences_in_english": [
+    "Bathing in the morning is my daily and occasional task.",
+    "Performing puja is our family's routine and special duty."
+  ],
+  "usage_domain": [
+    "daily life",
+    "religion",
+    "household chores"
+  ],
+  "tags": [
+    "compound word",
+    "duties",
+    "routine",
+    "ritual"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a compound adjective rather than a traditional idiomatic phrase, often used in religious or formal contexts in Bengali culture."
+}

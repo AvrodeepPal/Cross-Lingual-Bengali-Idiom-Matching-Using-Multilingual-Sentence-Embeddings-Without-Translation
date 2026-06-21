@@ -1,0 +1,37 @@
+{
+  "id": "8701",
+  "idiom": "মুখ দেখাতে না পারা",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখ দেখানোর ক্ষমতা না থাকা",
+  "figurative_meaning_bn": "লজ্জিত হওয়া",
+  "figurative_meaning_en": "to feel ashamed or embarrassed",
+  "similar_in_english": [
+    "can't show one's face",
+    "hide in shame"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ভুলের জন্য বন্ধুদের সামনে মুখ দেখাতে পারছে না।",
+    "পরীক্ষায় ফেল করার পর ছেলেটি মুখ দেখাতে লজ্জা পাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He can't show his face to his friends because of his mistake.",
+    "After failing the exam, the boy is too ashamed to face anyone."
+  ],
+  "usage_domain": [
+    "emotions",
+    "social interactions"
+  ],
+  "tags": [
+    "shame",
+    "embarrassment",
+    "lajja"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday social norms in Bengali culture where shame is expressed through avoidance of eye contact or presence."
+}

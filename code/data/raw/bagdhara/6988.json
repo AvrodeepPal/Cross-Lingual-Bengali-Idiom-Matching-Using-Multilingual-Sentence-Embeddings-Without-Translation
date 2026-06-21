@@ -1,0 +1,41 @@
+{
+  "id": "6988",
+  "idiom": "পোঁদপাকা",
+  "alternative_idioms": [
+    "ইঁচোড়ে পাকা"
+  ],
+  "literal_meaning": "পোঁদে পাকা (অর্থাৎ অকালে পোঁদের মতো অংশে পাকা হওয়া)",
+  "figurative_meaning_bn": "অকালপক্ব, ডেঁপো অশালীন",
+  "figurative_meaning_en": "prematurely mature or immature in a vulgar way, cheeky or indecent",
+  "similar_in_english": [
+    "wet behind the ears",
+    "fresh out of the oven (in a sassy way)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো এখনও পোঁদপাকা ছেলে, এত বড় সিদ্ধান্ত নিতে পারবে না।",
+    "বাচ্চাটা পোঁদপাকা হয়ে গেছে, সবসময় অশালীন কথা বলে।"
+  ],
+  "example_sentences_in_english": [
+    "He's still a green kid, wet behind the ears, he can't make such big decisions yet.",
+    "The boy has become cheeky and indecent, always saying vulgar things."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "informal speech",
+    "family or rural conversations"
+  ],
+  "tags": [
+    "vulgar",
+    "immaturity",
+    "indecency",
+    "folksy"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from rustic, body-related metaphors common in Bengali village folklore, emphasizing premature or inappropriate behavior."
+}

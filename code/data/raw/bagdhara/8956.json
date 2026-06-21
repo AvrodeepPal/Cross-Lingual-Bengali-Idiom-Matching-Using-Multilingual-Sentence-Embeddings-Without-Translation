@@ -1,0 +1,38 @@
+{
+  "id": "8956",
+  "idiom": "যামঘোষ",
+  "alternative_idioms": [
+    "ঘোষা"
+  ],
+  "literal_meaning": "যমের ঘোষণা (Yama's announcement)",
+  "figurative_meaning_bn": "ঘড়ি",
+  "figurative_meaning_en": "clock",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "তার ঘরে পুরনো যামঘোষ ঝুলছে, যা রাতে টিকটিক শব্দ করে।",
+    "সময়ের যামঘোষ শুনে সবাই উঠে পড়ে কাজে লেগে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "An old clock is hanging in his room, ticking at night.",
+    "Hearing the clock's chime, everyone gets up and starts working."
+  ],
+  "usage_domain": [
+    "time management",
+    "daily life"
+  ],
+  "tags": [
+    "time",
+    "death metaphor",
+    "mythology"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the Hindu god Yama, symbolizing the inevitability of time and death in Bengali folklore."
+  ],
+  "note": "The idiom draws from mythological imagery where Yama's call signifies the end of life, metaphorically extended to a timepiece."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7984",
+  "idiom": "ভাই ভাই ঠাঁই ঠাঁই",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাই ভাই, ঠাঁই ঠাঁই (ভাইদের নিজ নিজ স্থান বা অবস্থান)",
+  "figurative_meaning_bn": "লাঠালাঠি সম্পর্ক",
+  "figurative_meaning_en": "A stiff or formal relationship like sticks",
+  "similar_in_english": [
+    "Keep one's distance",
+    "Arm's length relationship"
+  ],
+  "example_sentences_in_bangla": [
+    "তাদের ভাই ভাই ঠাঁই ঠাঁই সম্পর্ক, কখনো মিলে বেড়ায় না।",
+    "প্রতিবেশীদের মধ্যে ভাই ভাই ঠাঁই ঠাঁই ভাব চলছে।"
+  ],
+  "example_sentences_in_english": [
+    "They have a brother-brother, place-place relationship; they never hang out together.",
+    "There's a stiff formality between the neighbors like distant brothers."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships",
+    "social interactions"
+  ],
+  "tags": [
+    "siblings",
+    "formality",
+    "distance",
+    "family dynamics"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to siblings or close relations who maintain formal distance without deep emotional bonding."
+}

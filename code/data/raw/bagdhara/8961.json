@@ -1,0 +1,39 @@
+{
+  "id": "8961",
+  "idiom": "যাহা বাহান্ন তাহা তিপ্পান্ন",
+  "alternative_idioms": [],
+  "literal_meaning": "যা বাহান্ন তা তিপ্পান্ন (যা ৫২ তা ৫৩)",
+  "figurative_meaning_bn": "দোষ যখন করেইছি একটু বেশি করলে বিশেষ দোষ হবে না, এমন বেপরোয়া ভাব",
+  "figurative_meaning_en": "The reckless attitude that since the mistake has already been made, doing a little more won't make much additional harm",
+  "similar_in_english": [
+    "In for a penny, in for a pound",
+    "What's one more?"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ইতিমধ্যে একটা মিথ্যা বলেছে, এখন আরও একটা বললে কী হবে? যাহা বাহান্ন তাহা তিপ্পান্ন।",
+    "পরীক্ষায় একটা প্রশ্নের উত্তর কপি করেছি, এখন সবগুলো কপি করি—যাহা বাহান্ন তাহা তিপ্পান্ন।"
+  ],
+  "example_sentences_in_english": [
+    "He's already lied once, what's one more lie? What's 52 is 53.",
+    "I copied one answer in the exam, might as well copy all— what's 52 is 53."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "moral reasoning",
+    "everyday conversation"
+  ],
+  "tags": [
+    "recklessness",
+    "justification",
+    "numerical",
+    "folksy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses consecutive numbers to imply minimal additional impact, rooted in simple arithmetic for emphasis."
+}

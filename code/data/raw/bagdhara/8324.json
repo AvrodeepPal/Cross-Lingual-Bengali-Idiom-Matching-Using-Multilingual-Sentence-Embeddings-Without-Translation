@@ -1,0 +1,40 @@
+{
+  "id": "8324",
+  "idiom": "মনের সাধ",
+  "alternative_idioms": [],
+  "literal_meaning": "মনের ইচ্ছা বা কামনা",
+  "figurative_meaning_bn": "বাসনা",
+  "figurative_meaning_en": "desire or longing",
+  "similar_in_english": [
+    "heart's desire",
+    "what the heart wishes"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মনের সাধ একটা বিদেশ ভ্রমণ করা।",
+    "শিশুটির মনের সাধ খেলনা পাওয়া।"
+  ],
+  "example_sentences_in_english": [
+    "His heart's desire is to travel abroad.",
+    "The child's longing is to get a toy."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature"
+  ],
+  "tags": [
+    "desire",
+    "emotion",
+    "wish",
+    "longing"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References a line from Michael Madhusudan Dutt's work: 'সাধিতে মনের সাধ ঘটে যদি পরমাদ মধুহীন করোনাকো তব মনঃকোকনদে'"
+  ],
+  "note": "Idiom draws from 19th-century Bengali literature"
+}

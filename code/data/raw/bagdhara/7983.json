@@ -1,0 +1,37 @@
+{
+  "id": "7983",
+  "idiom": "ভাই বেরাদর",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাই এবং বেরাদর (brothers and relatives)",
+  "figurative_meaning_bn": "আত্মীয়সজন, জ্ঞাতি-গোষ্ঠী",
+  "figurative_meaning_en": "relatives, kin, clan members",
+  "similar_in_english": [
+    "kith and kin",
+    "flesh and blood"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ভাই বেরাদর সবাই বিয়েতে এসেছে।",
+    "গ্রামের ভাই বেরাদর মিলিত হয়েছে উৎসবে।"
+  ],
+  "example_sentences_in_english": [
+    "All his kith and kin have come to the wedding.",
+    "The village relatives gathered for the festival."
+  ],
+  "usage_domain": [
+    "family",
+    "social relations"
+  ],
+  "tags": [
+    "kinship",
+    "relatives",
+    "family ties"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes the importance of extended family in Bengali society."
+}

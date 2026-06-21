@@ -1,0 +1,40 @@
+{
+  "id": "3634",
+  "idiom": "চকমকি ঠোকা",
+  "alternative_idioms": [],
+  "literal_meaning": "চকমকি দ্বারা আগুন জ্বালানো",
+  "figurative_meaning_bn": "হঠাৎ কোনো বিষয়ে উত্তেজনা বা বিবাদ জাগানো",
+  "figurative_meaning_en": "to suddenly ignite excitement or controversy",
+  "similar_in_english": [
+    "strike a match",
+    "light a fire under someone"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথায় চকমকি ঠোকা হয়ে গেল পুরো বাড়ির ঝগড়া।",
+    "সভায় একটা বক্তৃতা চকমকি ঠোকার মতো সবাইকে উত্তেজিত করে তুলল।"
+  ],
+  "example_sentences_in_english": [
+    "His words struck a flint and ignited a family quarrel.",
+    "The speech in the meeting was like striking flint, exciting everyone."
+  ],
+  "usage_domain": [
+    "conversational",
+    "conflict",
+    "motivation"
+  ],
+  "tags": [
+    "fire-related",
+    "sudden action",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the traditional method of starting fire by striking flint stones, a common practice in rural Bengal before modern lighters."
+  ],
+  "note": "The idiom metaphorically extends the literal act to sparking disputes or enthusiasm."
+}

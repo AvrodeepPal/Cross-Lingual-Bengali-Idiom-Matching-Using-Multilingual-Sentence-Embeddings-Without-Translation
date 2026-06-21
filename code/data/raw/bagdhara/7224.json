@@ -1,0 +1,42 @@
+{
+  "id": "7224",
+  "idiom": "বকবক করা",
+  "alternative_idioms": [
+    "ক্যাসেট বাজা"
+  ],
+  "literal_meaning": "অবিরাম বকবকানি বা কলকলানি করে কথা বলা (অনুকরণাত্মক শব্দ)",
+  "figurative_meaning_bn": "অবিরাম কথা বলা, বিরক্তিকর বাচালতা করা",
+  "figurative_meaning_en": "To talk incessantly or chatter annoyingly",
+  "similar_in_english": [
+    "To run off at the mouth",
+    "To babble on",
+    "To yap endlessly"
+  ],
+  "example_sentences_in_bangla": [
+    "এইরে আবার বকবক করা শুরু হল, মাথা ধরার আগেই আমি পালাই।",
+    "সভায় সে বকবক করে সবার সময় নষ্ট করল।"
+  ],
+  "example_sentences_in_english": [
+    "Oh no, he's started babbling again; I'll escape before my head starts hurting.",
+    "He wasted everyone's time in the meeting by chattering incessantly."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Informal speech",
+    "Social interactions"
+  ],
+  "tags": [
+    "speech",
+    "annoyance",
+    "verbosity",
+    "chatter"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic idiom mimicking continuous talking sounds, widely used in colloquial Bengali."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2222",
+  "idiom": "কুঁড়া জালি",
+  "alternative_idioms": [
+    "কুঁড়ো জালি"
+  ],
+  "literal_meaning": "ছোট জাল যা মাছ ধরার জন্য ব্যবহৃত হয়",
+  "figurative_meaning_bn": "মাছ ধরার ছোট জালবিশেষ",
+  "figurative_meaning_en": "a specific small net used for catching fish",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "গ্রামের পুকুরে কুঁড়া জালি দিয়ে ছোট ছোট মাছ ধরা যায়।",
+    "তিনি কুঁড়া জালি নিয়ে নদীর ধারে গেলেন।"
+  ],
+  "example_sentences_in_english": [
+    "Small fish can be caught in the village pond using a kurda jali.",
+    "He went to the riverbank with a kurda jali."
+  ],
+  "usage_domain": [
+    "fishing",
+    "rural life"
+  ],
+  "tags": [
+    "fishing net",
+    "rural tool",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This term refers to a traditional small-meshed fishing net commonly used in Bengali rural areas; no strong figurative metaphorical usage found beyond its literal application in fishing contexts."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8326",
+  "idiom": "মন্ত্রমুগ্ধ",
+  "alternative_idioms": [],
+  "literal_meaning": "মন্ত্র দ্বারা মুগ্ধ বা আকৃষ্ট",
+  "figurative_meaning_bn": "রূপ, গুণ, ব্যক্তিত্ব ইত্যাদিতে অবিভূত",
+  "figurative_meaning_en": "Enchanted or captivated by beauty, qualities, personality, etc.",
+  "similar_in_english": [
+    "spellbound",
+    "under a spell",
+    "bewitched"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কণ্ঠস্বরে শ্রোতারা মন্ত্রমুগ্ধ হয়ে গেল।",
+    "সেই চিত্রকর্ম দেখে সকলে মন্ত্রমুগ্ধ।"
+  ],
+  "example_sentences_in_english": [
+    "The audience was spellbound by her voice.",
+    "Everyone was enchanted by that artwork."
+  ],
+  "usage_domain": [
+    "literature",
+    "emotions",
+    "admiration"
+  ],
+  "tags": [
+    "enchantment",
+    "captivation",
+    "positive emotion"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term draws from the concept of mantras in Indian traditions, implying a hypnotic or magical attraction."
+}

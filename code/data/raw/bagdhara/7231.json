@@ -1,0 +1,42 @@
+{
+  "id": "7231",
+  "idiom": "বক্রোক্তি",
+  "alternative_idioms": [],
+  "literal_meaning": "বক্র (indirect/crooked) + উক্তি (statement)",
+  "figurative_meaning_bn": "শ্লেষপূর্ণ বা বিদ্রুপাত্মক বাক্য, টিটকারি, প্রচ্ছন্ন নিন্দাবাদ; কাব্যালঙ্কারবিশেষ",
+  "figurative_meaning_en": "Sarcastic or mocking statement, taunt, veiled criticism; a specific figure of speech in poetics",
+  "similar_in_english": [
+    "backhanded compliment",
+    "sarcasm",
+    "innuendo"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথায় স্পষ্ট বক্রোক্তি লক্ষ্য করা গেল।",
+    "সভায় সে বক্রোক্তিতে তার প্রতিপক্ষকে আঘাত করল।"
+  ],
+  "example_sentences_in_english": [
+    "Sarcasm was evident in his words.",
+    "In the meeting, he attacked his opponent with a veiled insult."
+  ],
+  "usage_domain": [
+    "literature",
+    "conversation",
+    "rhetoric"
+  ],
+  "tags": [
+    "sarcasm",
+    "irony",
+    "poetic device",
+    "criticism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Sanskrit 'Vakrokti', a classical figure of speech in Indian poetics, notably discussed in medieval texts like the 'Vakroktijivita' by Kuntaka."
+  ],
+  "note": "Primarily a literary term, but used in everyday language to denote indirect mockery."
+}

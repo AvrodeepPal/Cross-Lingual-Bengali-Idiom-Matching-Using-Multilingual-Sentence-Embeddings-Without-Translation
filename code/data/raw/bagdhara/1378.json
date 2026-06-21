@@ -1,0 +1,40 @@
+{
+  "id": "1378",
+  "idiom": "কড়িচণ্ডাল",
+  "alternative_idioms": [
+    "পিশাচ"
+  ],
+  "literal_meaning": "কড়ি (শঙ্খমুদ্রা বা অর্থের প্রতীক) + চণ্ডাল (নিম্নবর্গীয় বা নৃশংস ব্যক্তি)",
+  "figurative_meaning_bn": "অর্থপিশাচ, সুদখোর",
+  "figurative_meaning_en": "money demon, usurer",
+  "similar_in_english": [
+    "shylock",
+    "money-grubber"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা কড়িচণ্ডাল, কখনো টাকা ধার দেয় না।",
+    "এই সুদখোর কড়িচণ্ডালের মতো আচরণ করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real usurer, never lends money without interest.",
+    "That money-grubber behaves like a demon for cash."
+  ],
+  "usage_domain": [
+    "insults",
+    "finance",
+    "daily conversation"
+  ],
+  "tags": [
+    "greed",
+    "miser",
+    "abuse"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is used as a strong insult for greedy moneylenders in traditional Bengali society."
+}

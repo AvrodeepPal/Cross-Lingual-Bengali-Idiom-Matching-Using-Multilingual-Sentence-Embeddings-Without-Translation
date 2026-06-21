@@ -1,0 +1,40 @@
+{
+  "id": "4390",
+  "idiom": "ছেঁড়াছিঁড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "বারবার ছেঁড়া বা ছেঁড়া অবস্থা",
+  "figurative_meaning_bn": "সমার্থক যুগ্মশব্দ; বারবার ছেঁড়া",
+  "figurative_meaning_en": "Synonymous reduplicative word; repeated tearing or tearing into pieces",
+  "similar_in_english": [
+    "torn to shreds",
+    "in tatters",
+    "falling apart"
+  ],
+  "example_sentences_in_bangla": [
+    "এই চিঠিটা ছেঁড়াছিঁড়ি করে ফেলো না।",
+    "তার জামাটা ছেঁড়াছিঁড়ি হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Don't tear this letter to shreds.",
+    "His shirt is all torn up."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "clothing and objects",
+    "figurative for arguments"
+  ],
+  "tags": [
+    "reduplicative",
+    "repetition",
+    "damage",
+    "destruction"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a common reduplicative form in Bengali for emphasizing repeated action or state of disrepair."
+}

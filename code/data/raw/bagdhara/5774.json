@@ -1,0 +1,38 @@
+{
+  "id": "5774",
+  "idiom": "দাবীদাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "দাবী (claim) + দাওয়া (demand or legal plea)",
+  "figurative_meaning_bn": "স্বত্বাধিকার ও তা আদায়ের জন্য প্রার্থনা",
+  "figurative_meaning_en": "Assertion of ownership rights and demands for their enforcement",
+  "similar_in_english": [
+    "lay claim to",
+    "stake a claim"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই জমির ওপর তার দাবীদাওয়া রয়েছে।",
+    "আদালতে দাবীদাওয়া করে তিনি সম্পত্তি ফিরিয়ে নিলেন।"
+  ],
+  "example_sentences_in_english": [
+    "He has a claim on that land.",
+    "By filing claims in court, she recovered the property."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Property Rights"
+  ],
+  "tags": [
+    "claim",
+    "demand",
+    "ownership",
+    "litigation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Persian-Arabic influences in Bengali legal terminology"
+}

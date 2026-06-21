@@ -1,0 +1,42 @@
+{
+  "id": "9426",
+  "idiom": "শাকে বালি",
+  "alternative_idioms": [
+    "গুড়ে বালি"
+  ],
+  "literal_meaning": "শাকের মধ্যে বালি (sand in the greens/vegetables)",
+  "figurative_meaning_bn": "আশায় বিঘ্ন, দুর্ভাগ্য",
+  "figurative_meaning_en": "an obstacle in one's hopes, misfortune",
+  "similar_in_english": [
+    "a fly in the ointment",
+    "dashed hopes"
+  ],
+  "example_sentences_in_bangla": [
+    "তার স্বপ্ন পূরণের ঠিক আগে শাকে বালি পড়ল।",
+    "বিয়ের প্রস্তুতিতে শাকে বালি এসে পড়ায় সবাই হতাশ হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Just before his dream came true, there was sand in the greens.",
+    "Misfortune struck like sand in the vegetables during the wedding preparations, leaving everyone disappointed."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "expressions of disappointment"
+  ],
+  "tags": [
+    "misfortune",
+    "obstacle",
+    "hope",
+    "daily life"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom likely originates from rural Bengali cooking practices where sand or grit accidentally mixes with freshly picked greens, symbolizing unexpected ruin in simple joys."
+  ],
+  "note": "The idiom evokes imagery of rural household chores and the fragility of aspirations in everyday life."
+}

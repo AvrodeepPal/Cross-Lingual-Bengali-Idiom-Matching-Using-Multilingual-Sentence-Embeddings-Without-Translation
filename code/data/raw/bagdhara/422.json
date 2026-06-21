@@ -1,0 +1,41 @@
+{
+  "id": "422",
+  "idiom": "আঙুল মটকানো",
+  "alternative_idioms": [],
+  "literal_meaning": "আঙুল মটকে ফেলা বা আঙুলের জোড়া ছাড়ানো",
+  "figurative_meaning_bn": "অভিশাপ দেওয়া",
+  "figurative_meaning_en": "to curse or cast a curse",
+  "similar_in_english": [
+    "put a curse on",
+    "give the evil eye"
+  ],
+  "example_sentences_in_bangla": [
+    "সে রাগের মあまり আমার দিকে আঙুল মটকালো।",
+    "গ্রামের লোকেরা বিশ্বাস করে যে আঙুল মটকানো অশুভ ফল আনে।"
+  ],
+  "example_sentences_in_english": [
+    "In anger, he snapped his fingers at me, cursing my fate.",
+    "Villagers believe that cracking fingers brings bad luck or a curse."
+  ],
+  "usage_domain": [
+    "superstition",
+    "verbal expression",
+    "folk beliefs"
+  ],
+  "tags": [
+    "curse",
+    "superstition",
+    "negative gesture",
+    "folk idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom stems from Bengali folk beliefs where snapping fingers is thought to invoke evil spirits or direct a curse towards someone, often used in rural storytelling and superstitions."
+  ],
+  "note": "The gesture is symbolic of invoking misfortune, common in traditional Bengali narratives."
+}

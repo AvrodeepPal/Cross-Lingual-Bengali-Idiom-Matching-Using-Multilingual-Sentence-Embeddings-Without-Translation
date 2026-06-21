@@ -1,0 +1,40 @@
+{
+  "id": "3501",
+  "idiom": "ঘাড় ধরা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘাড় ধরে ধরা বা ঘাড়ে হাত দিয়ে বল প্রয়োগ করা",
+  "figurative_meaning_bn": "কাউকে হঠাৎ বা বলপ্রয়োগ করে ধরে ফেলা বা বাধ্য করা",
+  "figurative_meaning_en": "To seize or apprehend someone suddenly or by force",
+  "similar_in_english": [
+    "collar someone",
+    "nab someone",
+    "grab by the scruff of the neck"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ চোরটার ঘাড় ধরল।",
+    "সে তার শত্রুর ঘাড় ধরে তাকে শাস্তি দিল।"
+  ],
+  "example_sentences_in_english": [
+    "The police collared the thief.",
+    "He grabbed his enemy by the neck and punished him."
+  ],
+  "usage_domain": [
+    "law enforcement",
+    "confrontation",
+    "discipline"
+  ],
+  "tags": [
+    "force",
+    "apprehension",
+    "arrest",
+    "physical restraint"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects physical confrontations common in Bengali storytelling and daily life."
+}

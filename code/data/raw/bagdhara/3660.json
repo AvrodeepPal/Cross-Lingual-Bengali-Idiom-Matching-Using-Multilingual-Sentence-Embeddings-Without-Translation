@@ -1,0 +1,36 @@
+{
+  "id": "3660",
+  "idiom": "চক্ষুলাল",
+  "alternative_idioms": [],
+  "literal_meaning": "চক্ষু লাল (red eyes)",
+  "figurative_meaning_bn": "রাগান্বিত",
+  "figurative_meaning_en": "enraged or furious",
+  "similar_in_english": [
+    "seeing red"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চক্ষু লাল করে বকুনি দিচ্ছে।",
+    "রাগে তার চক্ষু লাল হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is seeing red and scolding everyone.",
+    "She turned red-eyed with anger at the news."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation"
+  ],
+  "tags": [
+    "anger",
+    "rage",
+    "figurative expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the physical sign of bloodshot eyes due to intense anger, common in Bengali expressive language."
+}

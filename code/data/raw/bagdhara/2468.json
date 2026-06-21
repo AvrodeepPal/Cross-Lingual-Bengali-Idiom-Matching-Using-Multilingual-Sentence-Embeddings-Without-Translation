@@ -1,0 +1,37 @@
+{
+  "id": "2468",
+  "idiom": "খচাখচ",
+  "alternative_idioms": [],
+  "literal_meaning": "খচাখচ শব্দের অনুকরণমূলক অর্থ (দ্রুত কাটা বা লেখার শব্দ)",
+  "figurative_meaning_bn": "অতিদ্রুততাভাবব্যঞ্জক",
+  "figurative_meaning_en": "indicating extreme speed or haste",
+  "similar_in_english": [
+    "chop-chop",
+    "in a flash"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কলম খচাখচ করে চিঠিটা লিখে ফেলল।",
+    "সে খচাখচ করে কাগজটা ছিঁড়ে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "He scribbled the letter in a flash with his pen.",
+    "She slashed the paper quickly with a khachakhch sound."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "writing and actions"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "speed",
+    "haste"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression mimicking the sound of rapid scribbling or cutting"
+}

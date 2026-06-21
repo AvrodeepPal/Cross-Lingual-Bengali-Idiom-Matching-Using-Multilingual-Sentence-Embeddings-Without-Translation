@@ -1,0 +1,39 @@
+{
+  "id": "6703",
+  "idiom": "পাকা করা",
+  "alternative_idioms": [],
+  "literal_meaning": "দৃঢ় বা স্থায়ী করে তোলা (পাকা মানে দৃঢ় বা পাকা নির্মাণ, করা মানে করা)",
+  "figurative_meaning_bn": "পরিবর্তন করা",
+  "figurative_meaning_en": "to change or make permanent",
+  "similar_in_english": [
+    "to firm up",
+    "to solidify"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের আগে তিনি বাড়িটা পাকা করে ফেলেছেন।",
+    "প্রকল্পটি পাকা করার জন্য সব প্রস্তুতি নেওয়া হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Before the wedding, he made the house permanent.",
+    "All preparations have been made to solidify the project."
+  ],
+  "usage_domain": [
+    "construction",
+    "preparation",
+    "family events"
+  ],
+  "tags": [
+    "idiom",
+    "figurative",
+    "bengali culture",
+    "rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of upgrading temporary structures to permanent ones, especially for significant life events like marriages in Bengali society."
+}

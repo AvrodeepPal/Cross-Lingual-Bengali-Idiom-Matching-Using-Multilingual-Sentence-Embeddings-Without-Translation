@@ -1,0 +1,40 @@
+{
+  "id": "1729",
+  "idiom": "কাঁকলাস",
+  "alternative_idioms": [
+    "কাকলাস"
+  ],
+  "literal_meaning": "কৃশ দেহবান বা স্কেলেটন",
+  "figurative_meaning_bn": "অত্যন্ত কৃশ লোক",
+  "figurative_meaning_en": "An extremely thin person",
+  "similar_in_english": [
+    "Skin and bones",
+    "Bag of bones"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কাঁকলাসের মতো হয়ে গেছে, খাওয়া-দাওয়া একদম বন্ধ করে দিয়েছে।",
+    "গ্রামের সেই বুড়ো কাঁকলাসের মতো চেহারা নিয়ে ঘুরে বেড়ায়।"
+  ],
+  "example_sentences_in_english": [
+    "He has become like a skeleton; he has completely stopped eating.",
+    "That old man in the village wanders around with a skeleton-like appearance."
+  ],
+  "usage_domain": [
+    "Physical description",
+    "Colloquial expression"
+  ],
+  "tags": [
+    "thinness",
+    "appearance",
+    "body",
+    "derogatory"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Spelling variations exist due to regional dialects; refers to emaciated figure resembling a skeleton."
+}

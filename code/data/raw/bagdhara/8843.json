@@ -1,0 +1,39 @@
+{
+  "id": "8843",
+  "idiom": "মেঘভাঙা রদ্দুর",
+  "alternative_idioms": [],
+  "literal_meaning": "মেঘ ভেঙে পড়া তীব্র রৌদ্র",
+  "figurative_meaning_bn": "জ্বালাধরানো তীব্র ঝলসানো রৌদ্র",
+  "figurative_meaning_en": "Tormenting, intense, scorching sunlight",
+  "similar_in_english": [
+    "blazing sun",
+    "scorching heat"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকের মেঘভাঙা রদ্দুরে কাজ করা কষ্টকর হয়ে উঠেছে।",
+    "গ্রীষ্মকালে মেঘভাঙা রদ্দুর সবাইকে ক্লান্ত করে দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "Working in today's cloud-breaking scorching sun has become exhausting.",
+    "In summer, the cloud-breaking scorching sun tires everyone out."
+  ],
+  "usage_domain": [
+    "weather",
+    "daily life",
+    "agriculture"
+  ],
+  "tags": [
+    "heat",
+    "sun",
+    "torment",
+    "nature"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the sudden intense sunlight after clouds part, common in Bengal's monsoon climate."
+}

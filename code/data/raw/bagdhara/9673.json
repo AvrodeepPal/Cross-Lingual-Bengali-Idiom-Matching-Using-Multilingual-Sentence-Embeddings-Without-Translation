@@ -1,0 +1,38 @@
+{
+  "id": "9673",
+  "idiom": "সাঁই সাঁই করে দৌড়",
+  "alternative_idioms": [],
+  "literal_meaning": "বাতাসের শোঁ-শোঁ শব্দ করে দৌড়ানো",
+  "figurative_meaning_bn": "দ্রুত গতিতে দৌড়ানো বা পলায়ন",
+  "figurative_meaning_en": "Running at high speed or fleeing",
+  "similar_in_english": [
+    "Run like the wind",
+    "Make a hasty retreat"
+  ],
+  "example_sentences_in_bangla": [
+    "ভয় পেয়ে সে সাঁই সাঁই করে দৌড় দিল।",
+    "পুলিশ দেখে চোর সাঁই সাঁই করে পালাল।"
+  ],
+  "example_sentences_in_english": [
+    "Terrified, he ran off with a whistling speed.",
+    "Seeing the police, the thief fled at breakneck speed."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Narrative descriptions"
+  ],
+  "tags": [
+    "speed",
+    "escape",
+    "fear",
+    "movement"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression mimicking the sound of rapid movement"
+}

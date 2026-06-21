@@ -1,0 +1,39 @@
+{
+  "id": "5083",
+  "idiom": "ঠেঙ্গাবাজী",
+  "alternative_idioms": [],
+  "literal_meaning": "লাঠি দিয়ে খেলা বা মারামারি",
+  "figurative_meaning_bn": "লাঠি মারামারি",
+  "figurative_meaning_en": "Fighting or brawling with sticks",
+  "similar_in_english": [
+    "Beat with a stick",
+    "Rough and tumble fight"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে দুই দলের মধ্যে ঠেঙ্গাবাজী শুরু হয়ে গেছে।",
+    "সে ঠেঙ্গাবাজী করে তার শত্রুকে পরাজিত করল।"
+  ],
+  "example_sentences_in_english": [
+    "A stick fight broke out between the two groups in the village.",
+    "He defeated his enemy through a brawl with sticks."
+  ],
+  "usage_domain": [
+    "Conflict",
+    "Violence",
+    "Rural disputes"
+  ],
+  "tags": [
+    "fight",
+    "brawl",
+    "aggression",
+    "rural"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom reflects traditional rural conflicts in Bengali culture, often associated with village disputes."
+}

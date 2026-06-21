@@ -1,0 +1,39 @@
+{
+  "id": "6298",
+  "idiom": "নাকানিচুবানি খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "নাক নিচু করে খাওয়া (নাক নিচু করে অপমানিত অবস্থায় খাদ্য গ্রহণ করা)",
+  "figurative_meaning_bn": "ক্রমাগত দুর্দশাগ্রস্ত হওয়া বা লাঞ্ছনা ভোগ করা",
+  "figurative_meaning_en": "To continuously suffer hardships or endure repeated humiliations",
+  "similar_in_english": [
+    "To eat humble pie",
+    "To take one's lumps"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবনে নাকানিচুবানি খাওয়ার মতো অনেক কষ্ট সহ্য করতে হয়েছে।",
+    "প্রতিদিনের জীবনে নাকানিচুবানি খেয়ে সে এখনও টিকে আছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has had to endure continuous humiliations throughout his life.",
+    "She survives by putting up with daily insults and hardships."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "literature",
+    "social commentary"
+  ],
+  "tags": [
+    "humiliation",
+    "suffering",
+    "endurance",
+    "adversity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali expressions of social subservience and hardship."
+}

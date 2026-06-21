@@ -1,0 +1,38 @@
+{
+  "id": "6587",
+  "idiom": "পথের কুকুর",
+  "alternative_idioms": [],
+  "literal_meaning": "পথের কুকুর (road's dog)",
+  "figurative_meaning_bn": "একান্ত অবহেলিত আশ্রয়হীন ব্যক্তি",
+  "figurative_meaning_en": "An utterly neglected and homeless person",
+  "similar_in_english": [
+    "stray dog",
+    "down-and-out"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পথের কুকুরের মতো চারদিকে ঘুরে বেড়ায়।",
+    "গ্রামের এই অবস্থায় সে একেবারে পথের কুকুর হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He wanders around like a street dog.",
+    "In this village situation, he has become just like a stray dog."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "poverty description"
+  ],
+  "tags": [
+    "homelessness",
+    "neglect",
+    "poverty",
+    "animal metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the common sight of stray dogs in Bengali society, symbolizing destitution."
+}

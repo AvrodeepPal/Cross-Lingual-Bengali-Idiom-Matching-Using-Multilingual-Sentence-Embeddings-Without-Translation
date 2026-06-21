@@ -1,0 +1,42 @@
+{
+  "id": "9241",
+  "idiom": "লম্বা দেওয়া",
+  "alternative_idioms": [
+    "চম্পট দেওয়া"
+  ],
+  "literal_meaning": "লম্বা (দীর্ঘ) দেওয়া (দান করা বা প্রসারিত করা)",
+  "figurative_meaning_bn": "পলায়ন করা",
+  "figurative_meaning_en": "to flee or run away",
+  "similar_in_english": [
+    "to take to one's heels",
+    "to beat a hasty retreat",
+    "to leg it"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ দেখে চোর লম্বা দিয়ে পালিয়ে গেল।",
+    "বৃষ্টি শুরু হতেই সবাই লম্বা দিল।"
+  ],
+  "example_sentences_in_english": [
+    "The thief took to his heels when he saw the police.",
+    "Everyone beat a hasty retreat as soon as it started raining."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "informal conversation",
+    "narrative"
+  ],
+  "tags": [
+    "escape",
+    "flee",
+    "avoidance",
+    "cowardice"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies a sudden or hasty escape, rooted in everyday Bengali vernacular."
+}

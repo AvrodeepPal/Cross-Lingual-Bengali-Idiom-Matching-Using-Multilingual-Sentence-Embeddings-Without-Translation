@@ -1,0 +1,41 @@
+{
+  "id": "8097",
+  "idiom": "ভুঁড়ো শিয়াল",
+  "alternative_idioms": [],
+  "literal_meaning": "ভুঁড়ো (পেটওয়ালা বা স্থূলকায়) শিয়াল (শিয়াল)",
+  "figurative_meaning_bn": "বিদ্রুপে স্থূলকায় ব্যক্তি",
+  "figurative_meaning_en": "Derisively referring to a pot-bellied or obese person",
+  "similar_in_english": [
+    "fat cat (for a wealthy, pompous person)",
+    "tub of lard (mocking obesity)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো একটা ভুঁড়ো শিয়াল, এত মোটা হয়ে গেছে!",
+    "ভুঁড়ো শিয়ালের মতো করে খেয়ে নিচ্ছে সব।"
+  ],
+  "example_sentences_in_english": [
+    "He's just a pot-bellied fox, he's gotten so fat!",
+    "He's eating like a pot-bellied fox."
+  ],
+  "usage_domain": [
+    "conversational",
+    "humor",
+    "insult"
+  ],
+  "tags": [
+    "mockery",
+    "obesity",
+    "animal metaphor",
+    "body shaming"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom likely originates from rural Bengali folklore where foxes are common animals, and 'bhundo' exaggerates the belly for humorous ridicule of human physique."
+  ],
+  "note": "The idiom uses animal imagery typical in Bengali proverbs to mock physical appearance."
+}

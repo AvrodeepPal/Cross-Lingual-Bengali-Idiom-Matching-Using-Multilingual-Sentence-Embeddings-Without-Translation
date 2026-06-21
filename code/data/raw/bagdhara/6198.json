@@ -1,0 +1,40 @@
+{
+  "id": "6198",
+  "idiom": "নন্নড়ে",
+  "alternative_idioms": [
+    "নন্নড়িয়া"
+  ],
+  "literal_meaning": "মাথা দুর্বলতায় অস্থিরভাবে নড়া",
+  "figurative_meaning_bn": "এত দুর্বল যে মাথা স্থির না থেকে নড়ে",
+  "figurative_meaning_en": "So weak that the head cannot stay steady and shakes",
+  "similar_in_english": [
+    "shaking like a leaf",
+    "weak in the knees"
+  ],
+  "example_sentences_in_bangla": [
+    "রোগে ভুগে সে নন্নড়ে হয়ে পড়েছে।",
+    "ভাত খেয়ে উঠতেই নন্নড়ে অবস্থা হলো।"
+  ],
+  "example_sentences_in_english": [
+    "He has become so weak from illness that his head is shaking uncontrollably.",
+    "After eating, he felt so feeble that his head started wobbling."
+  ],
+  "usage_domain": [
+    "health",
+    "physical weakness",
+    "daily conversation"
+  ],
+  "tags": [
+    "weakness",
+    "physical state",
+    "onomatopoeic"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom uses onomatopoeia to mimic the shaking motion, common in rural Bengali dialects."
+}

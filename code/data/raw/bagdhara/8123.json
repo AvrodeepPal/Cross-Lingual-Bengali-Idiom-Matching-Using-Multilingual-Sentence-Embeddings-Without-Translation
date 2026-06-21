@@ -1,0 +1,41 @@
+{
+  "id": "8123",
+  "idiom": "ভূতের বাপের শ্রাদ্ধ",
+  "alternative_idioms": [],
+  "literal_meaning": "ভূতের বাপের শ্রাদ্ধ অনুষ্ঠান",
+  "figurative_meaning_bn": "অতি বিশৃঙ্খল অনুষ্ঠান",
+  "figurative_meaning_en": "An extremely disorganized ceremony",
+  "similar_in_english": [
+    "A complete shambles",
+    "Bedlam"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই সভাটা হয়ে গেল ভূতের বাপের শ্রাদ্ধের মতো বিশৃঙ্খল।",
+    "বাড়ির পূজাটা এতটাই অগোছালো হল যে বলা যায় ভূতের বাপের শ্রাদ্ধ।"
+  ],
+  "example_sentences_in_english": [
+    "That meeting turned into a ghost's father's shraddha – utter chaos.",
+    "The family puja was so disorganized it was like the shraddha for a ghost's father."
+  ],
+  "usage_domain": [
+    "Social events",
+    "Ceremonies",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "chaos",
+    "disorder",
+    "supernatural",
+    "ritual"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the absurdity of performing shraddha, a Hindu ancestral rite, for a ghost's father, highlighting impossible and chaotic scenarios in traditional rituals."
+  ],
+  "note": "References Hindu concepts of shraddha and ghosts, emphasizing cultural absurdity in disorganized events."
+}

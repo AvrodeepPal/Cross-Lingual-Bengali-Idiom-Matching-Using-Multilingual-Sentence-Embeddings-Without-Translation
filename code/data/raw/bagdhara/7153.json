@@ -1,0 +1,41 @@
+{
+  "id": "7153",
+  "idiom": "ফুটো পয়সা",
+  "alternative_idioms": [
+    "কানাকড়ি"
+  ],
+  "literal_meaning": "ফুটো (ছিদ্রযুক্ত) পয়সা (টাকা বা মুদ্রা)",
+  "figurative_meaning_bn": "অতি নগণ্য, তুচ্ছ পরিমাণ",
+  "figurative_meaning_en": "Extremely insignificant or trivial amount",
+  "similar_in_english": [
+    "peanuts",
+    "pocket change",
+    "small potatoes"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কাছে ফুটো পয়সা পর্যন্ত নেই।",
+    "এই কাজের বিনিময়ে ফুটো পয়সা দেওয়া হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He doesn't have even pocket change to his name.",
+    "They won't pay peanuts for this kind of work."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Daily Conversation",
+    "Bargaining"
+  ],
+  "tags": [
+    "Money",
+    "Insignificance",
+    "Poverty"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to worthless or negligible money, often used in contexts of financial triviality in Bengali culture."
+}

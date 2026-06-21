@@ -1,0 +1,39 @@
+{
+  "id": "10009",
+  "idiom": "হাউস সার্জন",
+  "alternative_idioms": [],
+  "literal_meaning": "হাউস (ঘর বা হাসপাতাল) সার্জন (শল্যচিকিৎসক)",
+  "figurative_meaning_bn": "হাসপাতালে নির্দিষ্ট সময়ের জন্য নিযুক্ত চিকিৎসক",
+  "figurative_meaning_en": "A doctor appointed for a specific period in a hospital",
+  "similar_in_english": [
+    "House Surgeon",
+    "Medical Intern",
+    "Resident Doctor"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি মেডিকেল কলেজ থেকে পাস করে হাউস সার্জন হিসেবে যোগ দিয়েছেন।",
+    "হাসপাতালে হাউস সার্জনদের দায়িত্ব অনেক।"
+  ],
+  "example_sentences_in_english": [
+    "He joined as a house surgeon after passing from medical college.",
+    "House surgeons in the hospital have many responsibilities."
+  ],
+  "usage_domain": [
+    "Medical",
+    "Professional"
+  ],
+  "tags": [
+    "medicine",
+    "hospital",
+    "doctor",
+    "internship"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is a transliterated English term commonly used in Bengali medical contexts, referring to a junior doctor in training."
+}

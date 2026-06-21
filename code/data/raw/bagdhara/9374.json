@@ -1,0 +1,40 @@
+{
+  "id": "9374",
+  "idiom": "লোক হাসাহাসি",
+  "alternative_idioms": [
+    "লোকহাসান"
+  ],
+  "literal_meaning": "লোকের হাসাহাসি বা উপহাসমূলক হাসি",
+  "figurative_meaning_bn": "জনসাধারণ কর্তৃক উপহাস; সাধারণের উপহাসের বিষয়বস্তু",
+  "figurative_meaning_en": "Mockery by the general public; subject of ridicule by the common people",
+  "similar_in_english": [
+    "laughing stock",
+    "object of ridicule"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ভুলের জন্য সে লোক হাসাহাসির পাত্র হয়ে উঠেছে।",
+    "এই ঘটনা পুরো গ্রামে লোকহাসানের কারণ হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Due to his mistake, he has become the object of public mockery.",
+    "This incident has turned into a laughing stock for the entire village."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "everyday conversation"
+  ],
+  "tags": [
+    "ridicule",
+    "mockery",
+    "public opinion",
+    "social embarrassment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali social norms where public opinion can lead to shaming."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1335",
+  "idiom": "কটাক্ষ",
+  "alternative_idioms": [],
+  "literal_meaning": "পাশের চোখে দৃষ্টি",
+  "figurative_meaning_bn": "আড়চোখে দৃষ্টিপাত",
+  "figurative_meaning_en": "sidelong glance or look",
+  "similar_in_english": [
+    "give the side-eye",
+    "look askance"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কটাক্ষ করে আমার দিকে তাকাল।",
+    "কটাক্ষের মাধ্যমে তার অসন্তোষ প্রকাশ পেল।"
+  ],
+  "example_sentences_in_english": [
+    "She gave me a sidelong glance.",
+    "His disapproval was evident through that sidelong look."
+  ],
+  "usage_domain": [
+    "conversation",
+    "literature",
+    "emotions"
+  ],
+  "tags": [
+    "gaze",
+    "disdain",
+    "suspicion",
+    "flirtation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Sanskrit 'kaṭākṣa', often used in classical Bengali literature to denote subtle or mocking glances."
+}

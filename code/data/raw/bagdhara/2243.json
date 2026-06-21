@@ -1,0 +1,41 @@
+{
+  "id": "2243",
+  "idiom": "কুটনি",
+  "alternative_idioms": [
+    "কুট্টনী"
+  ],
+  "literal_meaning": "কুটনী (একধরনের কপট বা চতুর নারী, শব্দভিত্তিকভাবে 'কুট' থেকে উদ্ভূত যা কাটা বা খোঁচা দেওয়া অর্থে ব্যবহৃত)",
+  "figurative_meaning_bn": "কান ভাঙানি দিয়ে বিবাদ সৃষ্টি করে এমন নারী",
+  "figurative_meaning_en": "A woman who creates disputes by gossiping or spreading rumors",
+  "similar_in_english": [
+    "busybody",
+    "pot-stirrer",
+    "gossipmonger"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে সেই কুটনি সবার মধ্যে বিবাদ বাধিয়ে দিয়েছে।",
+    "অফিসের সেই কুটনি সহকর্মীদের মধ্যে ঝগড়া শুরু করেছে গুজব ছড়িয়ে।"
+  ],
+  "example_sentences_in_english": [
+    "That kutni in the village has stirred up fights among everyone.",
+    "The office kutni started arguments among colleagues by spreading rumors."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "family disputes"
+  ],
+  "tags": [
+    "gossip",
+    "quarrelsome",
+    "derogatory",
+    "gender-specific"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই শব্দটি সংস্কৃত 'কুট্টনী' থেকে উদ্ভূত, যা প্রাচীনকালে মধ্যস্থতাকারী নারীকে বোঝাত।"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6895",
+  "idiom": "পিঠমোড়া করা",
+  "alternative_idioms": [],
+  "literal_meaning": "পিঠের দিকে হাত মোড়া করে বাঁধা",
+  "figurative_meaning_bn": "দড়ি দিয়ে উভয় হাত পিছনে নিয়ে শক্ত করে বাঁধা",
+  "figurative_meaning_en": "To tie both hands behind the back tightly with a rope, restraining someone securely",
+  "similar_in_english": [
+    "Tie someone's hands behind their back",
+    "Bind hand and foot"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ চোরটাকে পিঠমোড়া করে বাঁধল।",
+    "অপরাধীকে পিঠমোড়া করিয়া আটক করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The police tied the thief with his hands behind his back.",
+    "The criminal was restrained by binding his hands behind him."
+  ],
+  "usage_domain": [
+    "Law enforcement",
+    "Restraint",
+    "Punishment"
+  ],
+  "tags": [
+    "বাঁধা",
+    "আটক",
+    "চোর ধরা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional methods of securing prisoners in Bengali society."
+}

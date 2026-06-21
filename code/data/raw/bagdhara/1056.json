@@ -1,0 +1,47 @@
+{
+  "id": "1056",
+  "idiom": "এক পালকের পাখি",
+  "alternative_idioms": [
+    "একবাগানের ফুল",
+    "এককলসির জল",
+    "এককুঁয়োর ব্যাঙ",
+    "একগাঙের চিল",
+    "একগাছের ছাল",
+    "একজলাশয়ের মাছ",
+    "একঝাঁকের কৈ"
+  ],
+  "literal_meaning": "একই পালকের পাখি (একই ফ্লক বা গোষ্ঠীর পাখি)",
+  "figurative_meaning_bn": "একদল/শ্রেণিভুক্ত; একই গুণসম্পন্ন",
+  "figurative_meaning_en": "Belonging to the same group or class; sharing the same qualities",
+  "similar_in_english": [
+    "birds of a feather",
+    "two peas in a pod"
+  ],
+  "example_sentences_in_bangla": [
+    "ওরা সবাই এক পালকের পাখি, একই ধরনের কাজ করে।",
+    "দুই বন্ধু এক পালকের পাখির মতো একই চিন্তা করে।"
+  ],
+  "example_sentences_in_english": [
+    "They are all birds of the same feather, doing similar kinds of work.",
+    "The two friends think alike, like birds of a feather."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "relationships",
+    "character description"
+  ],
+  "tags": [
+    "similarity",
+    "grouping",
+    "proverbial expression",
+    "nature-based"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from natural observations of birds flocking together, common in Bengali oral traditions."
+}

@@ -1,0 +1,15 @@
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+torch>=2.0.0
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+scipy>=1.10.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+datasets>=2.10.0          # for HuggingFace datasets
+tqdm>=4.65.0
+openpyxl>=3.1.0           # for Excel files
+langdetect>=1.0.9         # language detection
+jupyter>=1.0.0
+ipykernel>=6.0.0

@@ -1,0 +1,41 @@
+{
+  "id": "5271",
+  "idiom": "ঢেঁকি গেলা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঢেঁকি চলে গেল (the pestle went away)",
+  "figurative_meaning_bn": "অনুরোধে অনিচ্ছা সত্ত্বেও কোনো কঠিন কাজের দায়িত্ব নেওয়া",
+  "figurative_meaning_en": "Reluctantly taking on the responsibility of a difficult task upon request",
+  "similar_in_english": [
+    "bite the bullet",
+    "draw the short straw"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রকল্পটি খুব কঠিন হলেও, বন্ধুর অনুরোধে সে ঢেঁকি গেলা করে দায়িত্ব নিল।",
+    "অফিসের সবাই এড়িয়ে যাওয়ায়, শেষ পর্যন্ত রাহুল ঢেঁকি গেলা করে অতিরিক্ত কাজটা সামলাল।"
+  ],
+  "example_sentences_in_english": [
+    "Though the project was very tough, he reluctantly took it on at his friend's request, like the dhinki going away.",
+    "When everyone else avoided it, Rahul finally shouldered the extra work grudgingly upon insistence."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work",
+    "social obligations"
+  ],
+  "tags": [
+    "reluctance",
+    "duty",
+    "hard labor",
+    "rural idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from rural Bengali agrarian life, where the 'dhinki' (a wooden pestle for pounding rice) represents a burdensome tool; 'going' implies taking it up unwillingly, reflecting traditional village dynamics of shared labor."
+  ],
+  "note": "Deeply tied to pre-modern rural tools and communal responsibilities in Bengal."
+}

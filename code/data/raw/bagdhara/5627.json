@@ -1,0 +1,41 @@
+{
+  "id": "5627",
+  "idiom": "দণ্ডপাণি",
+  "alternative_idioms": [],
+  "literal_meaning": "দণ্ড হাতে ধারণকারী (staff or rod in hand)",
+  "figurative_meaning_bn": "যম, শাসনকর্তা",
+  "figurative_meaning_en": "Yam (the god of death), an authority figure or punisher",
+  "similar_in_english": [
+    "the Grim Reaper",
+    "the long arm of the law"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দণ্ডপাণির মতো কঠোরভাবে শাস্তি দিল।",
+    "আইনের দণ্ডপাণি কখনো নিদ্রিত হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "He punished them strictly like Yam.",
+    "The long arm of the law never sleeps."
+  ],
+  "usage_domain": [
+    "religion",
+    "authority",
+    "justice"
+  ],
+  "tags": [
+    "mythology",
+    "deity",
+    "punishment",
+    "Hinduism"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References Yam from Hindu mythology; quoted in Madhusudan Dutt's literature as 'দণ্ডপাণি দণ্ডধর যথা'"
+  ],
+  "note": "Derived from Sanskrit roots in Bengali literary tradition"
+}

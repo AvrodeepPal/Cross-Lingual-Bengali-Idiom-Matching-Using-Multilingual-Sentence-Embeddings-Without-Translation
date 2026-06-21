@@ -1,0 +1,38 @@
+{
+  "id": "9808",
+  "idiom": "সুরে সুর মিলানো",
+  "alternative_idioms": [],
+  "literal_meaning": "সুরের সাথে সুর মিলিয়ে নেওয়া (tune with tune matching)",
+  "figurative_meaning_bn": "সর্বোত্তমভাবে সমর্থন করা",
+  "figurative_meaning_en": "To provide complete support or full agreement",
+  "similar_in_english": [
+    "To be in tune with",
+    "To sing from the same hymn sheet"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মতামতের সাথে সুরে সুর মিলিয়ে দিলাম।",
+    "রাজনীতিতে সবাই সুরে সুর মিলায় না।"
+  ],
+  "example_sentences_in_english": [
+    "I tuned in completely with his opinion.",
+    "In politics, not everyone sings from the same hymn sheet."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "politics",
+    "relationships"
+  ],
+  "tags": [
+    "agreement",
+    "support",
+    "harmony"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Metaphor derived from musical harmony, common in everyday Bengali discourse"
+}

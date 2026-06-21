@@ -1,0 +1,38 @@
+{
+  "id": "6569",
+  "idiom": "পথকষ্ট",
+  "alternative_idioms": [],
+  "literal_meaning": "পথের কষ্ট (path's hardship)",
+  "figurative_meaning_bn": "দুর্গম বা দূরের পথে চলার পরিশ্রম",
+  "figurative_meaning_en": "The toil or hardship of traveling on difficult or distant paths",
+  "similar_in_english": [
+    "arduous journey",
+    "trials of the road"
+  ],
+  "example_sentences_in_bangla": [
+    "ভ্রমণে অনেক পথকষ্ট সহ্য করতে হয়।",
+    "গ্রামে যাওয়ার পথকষ্ট অসহ্য।"
+  ],
+  "example_sentences_in_english": [
+    "Traveling involves a lot of path hardships.",
+    "The path hardship to the village is unbearable."
+  ],
+  "usage_domain": [
+    "travel",
+    "journey",
+    "hardship"
+  ],
+  "tags": [
+    "পরিশ্রম",
+    "ভ্রমণ",
+    "কষ্ট"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to physical and metaphorical struggles in travel, common in Bengali literature."
+}

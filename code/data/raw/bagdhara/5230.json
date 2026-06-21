@@ -1,0 +1,43 @@
+{
+  "id": "5230",
+  "idiom": "ঢাকাঢাকি",
+  "alternative_idioms": [
+    "ছিপাছিপি",
+    "ঢাকঢাক গুড়গুড়",
+    "লুকোচুরি"
+  ],
+  "literal_meaning": "ঢাকা বা আবৃত করার ক্রিয়া (reduplicative form indicating secretive covering)",
+  "figurative_meaning_bn": "গোপন করা, লুকানো",
+  "figurative_meaning_en": "To conceal, to hide, to cover up",
+  "similar_in_english": [
+    "Beat around the bush",
+    "Cover one's tracks",
+    "Sweep under the rug"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার অপরাধ ঢাকাঢাকি করার চেষ্টা করছে।",
+    "সত্য বলো, কোনো ঢাকাঢাকি করো না।"
+  ],
+  "example_sentences_in_english": [
+    "He is trying to cover up his crime.",
+    "Tell the truth, don't beat around the bush."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Politics",
+    "Personal relations"
+  ],
+  "tags": [
+    "concealment",
+    "secrecy",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reduplicative idiom common in colloquial Bengali for evasive behavior"
+}

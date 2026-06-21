@@ -1,0 +1,38 @@
+{
+  "id": "8965",
+  "idiom": "যে-কে-সেই",
+  "alternative_idioms": [],
+  "literal_meaning": "যে কে সেই (যে-কোনো ব্যক্তি বা অবস্থা যেমন ছিল তেমনই)",
+  "figurative_meaning_bn": "অপরিবর্তিত অবস্থা",
+  "figurative_meaning_en": "Unchanged or unaltered state",
+  "similar_in_english": [
+    "Back to square one",
+    "Same old, same old"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কয়েকদিন ভালো ছিল, কিন্তু এখন আবার যে-কে-সেই।",
+    "প্রকল্পটি শুরুতে সফল মনে হয়েছিল, কিন্তু শেষে যে-কে-সেই।"
+  ],
+  "example_sentences_in_english": [
+    "He seemed better for a few days, but now it's back to the same old condition.",
+    "The project looked promising at first, but in the end, it's unchanged."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Health and recovery",
+    "Situational changes"
+  ],
+  "tags": [
+    "reversion",
+    "status quo",
+    "unchanged"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom captures the Bengali tendency to express cyclical or persistent conditions in daily life."
+}

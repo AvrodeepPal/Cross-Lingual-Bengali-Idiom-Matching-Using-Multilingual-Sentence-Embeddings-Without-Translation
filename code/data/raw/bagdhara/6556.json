@@ -1,0 +1,37 @@
+{
+  "id": "6556",
+  "idiom": "পড়োবাড়ী",
+  "alternative_idioms": [],
+  "literal_meaning": "পড়ে থাকা বাড়ি (abandoned or fallen house)",
+  "figurative_meaning_bn": "জনশূন্য বাড়ি",
+  "figurative_meaning_en": "Deserted or uninhabited house",
+  "similar_in_english": [
+    "Ghost town",
+    "Abandoned house"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের শেষ প্রান্তে একটা পড়োবাড়ী দাঁড়িয়ে আছে।",
+    "যুদ্ধের পর অনেক পড়োবাড়ী দেখা গেল গ্রামে।"
+  ],
+  "example_sentences_in_english": [
+    "A deserted house stands at the end of the village.",
+    "Many abandoned houses were seen in the village after the war."
+  ],
+  "usage_domain": [
+    "Descriptive",
+    "Rural life"
+  ],
+  "tags": [
+    "abandonment",
+    "emptiness",
+    "place"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The provided original meaning 'জনশূন্য রবাদ' appears to be a typographical error; corrected to standard interpretation as 'জনশূন্য বাড়ি' based on linguistic context."
+}

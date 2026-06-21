@@ -1,0 +1,37 @@
+{
+  "id": "10010",
+  "idiom": "হাওয়া খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "eating air",
+  "figurative_meaning_bn": "অনাহারে থাকা, কিছু না খাওয়া",
+  "figurative_meaning_en": "to go hungry, not eating anything",
+  "similar_in_english": [
+    "to go hungry",
+    "living on air"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দিনভর কাজ করে হাওয়া খেয়েছে।",
+    "ভাত না খেয়ে হাওয়া খাওয়া কষ্টের কাজ।"
+  ],
+  "example_sentences_in_english": [
+    "He worked all day and went hungry.",
+    "Going without food and just eating air is tough."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "expressions of hunger"
+  ],
+  "tags": [
+    "hunger",
+    "sarcasm",
+    "poverty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used sarcastically to imply lack of sustenance or intelligence in a light-hearted scolding manner"
+}

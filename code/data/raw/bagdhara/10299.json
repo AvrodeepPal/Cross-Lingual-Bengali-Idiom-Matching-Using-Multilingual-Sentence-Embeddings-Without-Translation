@@ -1,0 +1,37 @@
+{
+  "id": "10299",
+  "idiom": "হাল হকিকত",
+  "alternative_idioms": [],
+  "literal_meaning": "হাল (condition/state) + হকিকত (reality/truth)",
+  "figurative_meaning_bn": "প্রকৃত অবস্থা",
+  "figurative_meaning_en": "actual state of affairs",
+  "similar_in_english": [
+    "state of affairs",
+    "true situation"
+  ],
+  "example_sentences_in_bangla": [
+    "দেশের হাল-হকিকত খুব খারাপ।",
+    "কোম্পানির হাল-হকিকত জানতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "The state of affairs in the country is very bad.",
+    "We need to know the true situation of the company."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "news and politics"
+  ],
+  "tags": [
+    "condition",
+    "reality",
+    "situation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a synonymous compound word commonly used in Bengali to denote the genuine condition."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "9487",
+  "idiom": "শুনশান",
+  "alternative_idioms": [],
+  "literal_meaning": "শব্দহীনতা বা অনুরণিত শূন্যতা",
+  "figurative_meaning_bn": "আওয়াজহীন নিস্তব্ধ",
+  "figurative_meaning_en": "soundless stillness or eerie silence",
+  "similar_in_english": [
+    "dead silence",
+    "pin-drop silence",
+    "eerie quiet"
+  ],
+  "example_sentences_in_bangla": [
+    "রাতের বন্য অঞ্চলে সবকিছু শুনশান হয়ে গেছে।",
+    "যুদ্ধের পর শহরটি সম্পূর্ণ শুনশান।"
+  ],
+  "example_sentences_in_english": [
+    "The forest area at night became completely silent and desolate.",
+    "The city was utterly quiet after the war."
+  ],
+  "usage_domain": [
+    "descriptive literature",
+    "everyday conversation",
+    "poetry"
+  ],
+  "tags": [
+    "silence",
+    "desolation",
+    "atmosphere",
+    "emptiness"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Equivalent to Hindi 'sun-saan', often used to describe post-event quietude in Bengali narratives."
+}

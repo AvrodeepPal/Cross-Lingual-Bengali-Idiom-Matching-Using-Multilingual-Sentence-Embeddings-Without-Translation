@@ -1,0 +1,39 @@
+{
+  "id": "9761",
+  "idiom": "সাফাই গাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "সাফাই (নির্দোষতা বা যুক্তি) গাওয়া (গান করা বা উচ্চারণ করা)",
+  "figurative_meaning_bn": "নির্দোষিতা প্রমাণের জন্য যুক্তি দেখানো",
+  "figurative_meaning_en": "To provide justifications or excuses to prove one's innocence",
+  "similar_in_english": [
+    "protest one's innocence",
+    "make excuses"
+  ],
+  "example_sentences_in_bangla": [
+    "আর সাফাই গাওয়া বন্ধ করো, সবাই তোমার কাজ জানে।",
+    "সে তার ভুলের সাফাই গাইতে শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "Stop singing safai, everyone knows what you did.",
+    "He started singing his innocence to justify his mistake."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "arguments",
+    "legal contexts"
+  ],
+  "tags": [
+    "excuse",
+    "justification",
+    "innocence",
+    "defense"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the metaphorical idea of 'singing' as vocalizing defenses, common in South Asian linguistic traditions."
+}

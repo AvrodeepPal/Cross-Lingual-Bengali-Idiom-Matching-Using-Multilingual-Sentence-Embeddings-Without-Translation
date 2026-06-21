@@ -1,0 +1,38 @@
+{
+  "id": "1183",
+  "idiom": "এতবার",
+  "alternative_idioms": [],
+  "literal_meaning": "এত (so much) + বার (times)",
+  "figurative_meaning_bn": "দফায় দফায়; বারবার",
+  "figurative_meaning_en": "in installments; repeatedly",
+  "similar_in_english": [
+    "time and again",
+    "over and over",
+    "again and again"
+  ],
+  "example_sentences_in_bangla": [
+    "এতবার বলেছি, তবু শুনছ না।",
+    "এতবার চেষ্টা করেছি, কিন্তু সফল হইনি।"
+  ],
+  "example_sentences_in_english": [
+    "I've told you so many times, but you're still not listening.",
+    "I've tried so many times, but I haven't succeeded."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "reprimand"
+  ],
+  "tags": [
+    "repetition",
+    "frequency",
+    "emphasis"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes excessive repetition in everyday speech, common in Bengali households."
+}

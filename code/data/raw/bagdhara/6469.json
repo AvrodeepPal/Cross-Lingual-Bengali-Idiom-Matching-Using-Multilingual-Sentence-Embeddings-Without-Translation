@@ -1,0 +1,37 @@
+{
+  "id": "6469",
+  "idiom": "নুন খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "লবণ খাওয়া",
+  "figurative_meaning_bn": "উপকার নেওয়া/পাওয়া",
+  "figurative_meaning_en": "To receive a favor or benefit",
+  "similar_in_english": [
+    "To owe someone a debt of gratitude",
+    "To be indebted to someone"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি আমার অনেক নুন খেয়েছেন, তাই এখন আমাকে সাহায্য করবেন।",
+    "এই সাহায্যের জন্য আমি তার নুন খেয়েছি।"
+  ],
+  "example_sentences_in_english": [
+    "He has eaten a lot of my salt, so he will help me now.",
+    "I have eaten his salt for this help."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Gratitude and obligation"
+  ],
+  "tags": [
+    "উপকার",
+    "ঋণ",
+    "সম্পর্ক"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural norm of hospitality in Bengali society, where sharing salt symbolizes accepting someone's kindness and incurring a sense of obligation."
+}

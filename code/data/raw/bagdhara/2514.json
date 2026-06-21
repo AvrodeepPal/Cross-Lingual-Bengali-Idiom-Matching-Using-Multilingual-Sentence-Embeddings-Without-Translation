@@ -1,0 +1,38 @@
+{
+  "id": "2514",
+  "idiom": "খবর-নয়-খবর",
+  "alternative_idioms": [],
+  "literal_meaning": "খবর-না-খবর (news-not-news)",
+  "figurative_meaning_bn": "খবর না থাকাটাই একটা খবর তথা সুখবর; বাজে খবর বাতাসে ছড়ায়",
+  "figurative_meaning_en": "No news is itself news, that is, good news; bad news spreads like wildfire",
+  "similar_in_english": [
+    "No news is good news",
+    "Bad news travels fast"
+  ],
+  "example_sentences_in_bangla": [
+    "তার থেকে কোনো খবর-নয়-খবর না আসায় আমরা বুঝলাম সব ঠিক আছে।",
+    "বাজে খবরের মতো খবর-নয়-খবর সারা শহরে ছড়িয়ে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "No news from him was itself news, meaning everything was fine.",
+    "Like bad news, the rumor spread across the city in no time."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "news and rumors"
+  ],
+  "tags": [
+    "news",
+    "gossip",
+    "rumor",
+    "absence of information"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural tendency in Bengali speech to imply positivity from silence while noting the speed of negative information."
+}

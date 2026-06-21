@@ -1,0 +1,42 @@
+{
+  "id": "6690",
+  "idiom": "পাই-পয়সা",
+  "alternative_idioms": [],
+  "literal_meaning": "পুরাতন মুদ্রার সবচেয়ে কম পরিমাণ (পাই মানে এক আনার চার ভাগের এক ভাগ, পয়সা মানে ছোট মুদ্রা)",
+  "figurative_meaning_bn": "সামান্যতম পরিমাণ",
+  "figurative_meaning_en": "the smallest amount or not even the tiniest bit",
+  "similar_in_english": [
+    "not a penny",
+    "not worth a dime",
+    "peanuts"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কাছ থেকে পাই-পয়সার উপকার আশা করা বৃথা।",
+    "এই কাজ থেকে পাই-পয়সার লাভ হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "Expecting even a pittance of help from him is futile.",
+    "There's not the slightest benefit from this job."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "financial",
+    "everyday conversation"
+  ],
+  "tags": [
+    "money",
+    "negligible",
+    "worthlessness",
+    "currency"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from pre-independence Indian currency system where 'pai' was the smallest unit (1/4 of an anna) and 'paisa' a minor coin, used to denote utter insignificance or minimal value in Bengali folklore and daily parlance."
+  ],
+  "note": "Commonly used to dismiss negligible benefits or contributions."
+}

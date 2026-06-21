@@ -1,0 +1,41 @@
+{
+  "id": "4719",
+  "idiom": "জোড়াতালি",
+  "alternative_idioms": [
+    "তাপ্পি মারা"
+  ],
+  "literal_meaning": "ছিন্নস্থান সেলাই করে জোড়া লাগানো এবং ছিদ্রস্থানে তালি মারা",
+  "figurative_meaning_bn": "ক্ষতিগ্রস্ত স্থান মেরামত করার কাজ, সেলাই এবং তালি দিয়ে জোড়া লাগানো",
+  "figurative_meaning_en": "The task of mending damaged areas by sewing to join and slapping to patch holes, often implying makeshift or crude repairs",
+  "similar_in_english": [
+    "Patch up",
+    "Slap together",
+    "Make do"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরের দেয়ালে ফাটল দেখে সে জোড়াতালি দিয়ে মেরামত করল।",
+    "পুরনো জামার ছেঁড়া জায়গায় জোড়াতালি করে পরিষ্কার করে নিল।"
+  ],
+  "example_sentences_in_english": [
+    "He repaired the crack in the wall with a quick patch job.",
+    "She mended the tear in the old shirt using makeshift stitching and slapping."
+  ],
+  "usage_domain": [
+    "Repair and maintenance",
+    "Daily life",
+    "Crafts"
+  ],
+  "tags": [
+    "mending",
+    "makeshift repair",
+    "traditional method"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Refers to traditional, rudimentary repair techniques common in rural Bengali households"
+}

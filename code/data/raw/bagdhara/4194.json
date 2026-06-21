@@ -1,0 +1,36 @@
+{
+  "id": "4194",
+  "idiom": "চৌমাথা",
+  "alternative_idioms": [
+    "চৌমোহনা"
+  ],
+  "literal_meaning": "চার রাস্তার মিলনস্থল",
+  "figurative_meaning_bn": "চাররাস্তার মিলনস্থল",
+  "figurative_meaning_en": "meeting point of four roads",
+  "similar_in_english": [
+    "crossroads"
+  ],
+  "example_sentences_in_bangla": [
+    "চৌমাথায় তোমার জন্য অপেক্ষা করব।"
+  ],
+  "example_sentences_in_english": [
+    "I'll wait for you at the four-way junction."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "directions"
+  ],
+  "tags": [
+    "place",
+    "intersection",
+    "meeting point"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Refers to a four-way road intersection commonly used in urban contexts for meetings or waiting."
+}

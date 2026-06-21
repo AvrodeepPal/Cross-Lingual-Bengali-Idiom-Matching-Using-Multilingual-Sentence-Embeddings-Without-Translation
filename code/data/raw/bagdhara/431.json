@@ -1,0 +1,38 @@
+{
+  "id": "431",
+  "idiom": "আজকালের মধ্যে",
+  "alternative_idioms": [],
+  "literal_meaning": "আজকালের মধ্যস্থলে বা এই সময়ের মধ্যে",
+  "figurative_meaning_bn": "অনতিবিলম্বে; দু'একদিনের মধ্যে",
+  "figurative_meaning_en": "without much delay; within a couple of days",
+  "similar_in_english": [
+    "soon",
+    "before long",
+    "any day now"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকালের মধ্যে চিঠিটা পৌঁছে যাবে।",
+    "তুমি আজকালের মধ্যে ফিরে এসো।"
+  ],
+  "example_sentences_in_english": [
+    "The letter will arrive soon.",
+    "Come back within a couple of days."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "time expressions"
+  ],
+  "tags": [
+    "time",
+    "urgency",
+    "soon"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the temporal flexibility in Bengali speech, emphasizing immediacy without strict timelines."
+}

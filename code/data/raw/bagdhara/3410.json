@@ -1,0 +1,41 @@
+{
+  "id": "3410",
+  "idiom": "ঘড়ি ধরে",
+  "alternative_idioms": [
+    "কাঁটায় কাঁটায়"
+  ],
+  "literal_meaning": "ঘড়ি ধরে (clock holding or by the clock)",
+  "figurative_meaning_bn": "নির্দিষ্ট সময়ে; সময়ের এতটুকু ব্যতিক্রম না করে",
+  "figurative_meaning_en": "At the specified time; without the slightest deviation from the schedule",
+  "similar_in_english": [
+    "On the dot",
+    "To the minute",
+    "Like clockwork"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি ঘড়ি ধরে অফিসে যান।",
+    "পরীক্ষায় ঘড়ি ধরে উত্তর লিখতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He arrives at the office by the clock every day.",
+    "You need to write answers by the clock during the exam."
+  ],
+  "usage_domain": [
+    "Time management",
+    "Punctuality",
+    "Daily routine"
+  ],
+  "tags": [
+    "সময়ানুবর্তিতা",
+    "নিয়মানুবর্তিতা",
+    "দৈনন্দিন জীবন"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the influence of modern timekeeping in Bengali society."
+}

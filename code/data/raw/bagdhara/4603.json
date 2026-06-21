@@ -1,0 +1,42 @@
+{
+  "id": "4603",
+  "idiom": "জাতে ওঠা",
+  "alternative_idioms": [
+    "জাতে তোলা"
+  ],
+  "literal_meaning": "জাতে উঠা বা তোলা (caste-এ উঠা বা তোলা)",
+  "figurative_meaning_bn": "মর্যাদাবৃদ্ধির ফলে উচ্চ অভিজাত সমাজে স্থান পাওয়া/দেওয়া",
+  "figurative_meaning_en": "To attain or grant a position in the upper elite society as a result of enhanced prestige",
+  "similar_in_english": [
+    "rise through the ranks",
+    "social climbing"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ব্যবসায়িক সাফল্যের কারণে সে জাতে উঠেছে।",
+    "পরিবারের প্রভাবে তাকে জাতে তোলা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Due to his business success, he has risen in caste.",
+    "He has been elevated in society by his family's influence."
+  ],
+  "usage_domain": [
+    "social status",
+    "prestige",
+    "society"
+  ],
+  "tags": [
+    "caste system",
+    "social mobility",
+    "elite society"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the historical caste hierarchy in Bengali and broader Indian society, reflecting social structures from medieval times."
+  ],
+  "note": "The idiom highlights traditional notions of social elevation tied to prestige."
+}

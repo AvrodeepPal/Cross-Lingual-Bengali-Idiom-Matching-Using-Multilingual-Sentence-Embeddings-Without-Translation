@@ -1,0 +1,41 @@
+{
+  "id": "3468",
+  "idiom": "ঘরের ঢেঁকির কুমির হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘরের ঢেঁকুর কুমির হয়ে ওঠা (becoming the crocodile of the household's pounding mortar)",
+  "figurative_meaning_bn": "আত্মীয়ের শত্রু হওয়া; প্রচ্ছন্ন শত্রু",
+  "figurative_meaning_en": "To become an enemy of one's relative; a covert or hidden enemy",
+  "similar_in_english": [
+    "Snake in the grass",
+    "Wolf in sheep's clothing"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরিবারের মধ্যে ঘরের ঢেঁকির কুমির হয়ে উঠেছে, কারণ সে চুপচাপ সবাইকে ক্ষতি করার চেষ্টা করছে।",
+    "ভাইপোটি ঘরের ঢেঁকির কুমির হয়ে গেছে, আত্মীয়দের মধ্যে বিভেদ সৃষ্টি করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has become the crocodile of the house's dhengi in the family, quietly plotting harm to everyone.",
+    "The nephew turned into a hidden enemy among relatives, sowing discord."
+  ],
+  "usage_domain": [
+    "Family relationships",
+    "Betrayal",
+    "Social dynamics"
+  ],
+  "tags": [
+    "hidden enemy",
+    "family betrayal",
+    "covert hostility",
+    "rural idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom draws from rural Bengali household imagery where the 'dhengi' (pounding mortar) is placed near water sources, evoking the danger of a lurking crocodile symbolizing unexpected threats from within the home."
+  ],
+  "note": "The idiom reflects traditional agrarian life in Bengal, emphasizing vigilance against internal foes."
+}

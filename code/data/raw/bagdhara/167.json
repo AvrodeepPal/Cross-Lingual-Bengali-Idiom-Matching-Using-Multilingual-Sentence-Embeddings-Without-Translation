@@ -1,0 +1,38 @@
+{
+  "id": "167",
+  "idiom": "অন্ধকারে ঢিল ছোঁড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ধকারে পাথর ছুঁড়ে মারা",
+  "figurative_meaning_bn": "কার্যসিদ্ধি হতে পারে এই আশায় অনিশ্চয়তা সত্বেও কিছু করা",
+  "figurative_meaning_en": "Taking action despite uncertainty in the hope that it might succeed",
+  "similar_in_english": [
+    "A shot in the dark"
+  ],
+  "example_sentences_in_bangla": [
+    "অন্ধকারে ঢিল ছোঁড়ার মতো সে লটারির টিকিট কিনল, জিততে পারে কি না কে জানে।",
+    "এই প্রকল্পে বিনিয়োগ করা অন্ধকারে ঢিল ছোঁড়া হবে, কিন্তু চেষ্টা করে দেখতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He bought a lottery ticket like throwing a stone in the dark, who knows if he'll win.",
+    "Investing in this project would be like a shot in the dark, but we have to try."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Decision-making",
+    "Risk assessment"
+  ],
+  "tags": [
+    "uncertainty",
+    "hope",
+    "action",
+    "risk"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects a pragmatic approach to uncertainty common in Bengali folklore and daily life."
+}

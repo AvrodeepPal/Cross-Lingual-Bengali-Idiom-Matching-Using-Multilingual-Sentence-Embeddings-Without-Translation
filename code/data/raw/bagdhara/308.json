@@ -1,0 +1,39 @@
+{
+  "id": "308",
+  "idiom": "আঁচাআঁচি",
+  "alternative_idioms": [],
+  "literal_meaning": "পরস্পরের দোষ খুঁজে বেড়ানো (sniffing or probing for faults)",
+  "figurative_meaning_bn": "পরস্পরের দোষ অনুসন্ধান",
+  "figurative_meaning_en": "searching for each other's faults",
+  "similar_in_english": [
+    "nitpicking",
+    "fault-finding",
+    "poking holes"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা সবসময় একে অপরের দোষ খুঁজতে আঁচাআঁচি করে।",
+    "পাড়ায় সবাই তাদের আঁচাআঁচির জন্য এড়িয়ে চলে।"
+  ],
+  "example_sentences_in_english": [
+    "They are always nitpicking each other's faults.",
+    "Everyone in the neighborhood avoids them because of their constant fault-finding."
+  ],
+  "usage_domain": [
+    "interpersonal relationships",
+    "daily conversation",
+    "criticism"
+  ],
+  "tags": [
+    "criticism",
+    "interpersonal",
+    "negative interaction"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali social dynamics where subtle probing for weaknesses is common in close-knit communities."
+}

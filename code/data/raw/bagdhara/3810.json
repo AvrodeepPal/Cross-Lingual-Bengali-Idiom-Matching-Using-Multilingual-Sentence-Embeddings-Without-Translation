@@ -1,0 +1,44 @@
+{
+  "id": "3810",
+  "idiom": "চাক্কি পেষা",
+  "alternative_idioms": [
+    "ঘানি টানা"
+  ],
+  "literal_meaning": "চাক্কি (পাথরের ঘর্ষণযন্ত্র) পেষা (ঘষা বা পিষে তোলা)",
+  "figurative_meaning_bn": "কঠোর পরিশ্রম করা",
+  "figurative_meaning_en": "To perform hard labor or toil diligently",
+  "similar_in_english": [
+    "Work like a dog",
+    "Grind away",
+    "Burn the midnight oil"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সারাদিন চাক্কি পেষা করে পরিবারের জন্য আয় করে।",
+    "পরীক্ষার জন্য প্রস্তুতি নেওয়ার সময় ছাত্ররা চাক্কি পেষা করে।"
+  ],
+  "example_sentences_in_english": [
+    "He toils all day like grinding a millstone to support his family.",
+    "Students grind away preparing for exams."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Work and labor",
+    "Motivational contexts"
+  ],
+  "tags": [
+    "পরিশ্রম",
+    "কঠোর শ্রম",
+    "গ্রামীণ জীবন",
+    "সমার্থক"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "এই বাগধারা ঐতিহ্যবাহী তেল ছাঁকার পদ্ধতি থেকে উদ্ভূত, যেখানে গরু বা মানুষ চাক্কি ঘুরিয়ে বীজ থেকে তেল বের করত, যা কঠোর শারীরিক শ্রমের প্রতীক।"
+  ],
+  "note": "সমার্থক 'ঘানি টানা'ও একই ধরনের কাজকে নির্দেশ করে।"
+}

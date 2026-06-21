@@ -1,0 +1,41 @@
+{
+  "id": "795",
+  "idiom": "উথালপাথাল",
+  "alternative_idioms": [
+    "উথলপাথল",
+    "উথালিপাথালি"
+  ],
+  "literal_meaning": "সমুদ্রের উথাল-পাতাল অবস্থা, নীচ থেকে উপরে উথলে ওঠা",
+  "figurative_meaning_bn": "ওলট-পালট; বিক্ষুব্ধ; বিপর্যস্ত",
+  "figurative_meaning_en": "Upside down; disturbed; in distress",
+  "similar_in_english": [
+    "Turned upside down",
+    "In turmoil",
+    "All at sixes and sevens"
+  ],
+  "example_sentences_in_bangla": [
+    "ঝড়ের পর গ্রামের রাস্তাগুলো উথালপাথাল হয়ে গেছে।",
+    "তার মনে উথালপাথাল ভাব চলছে খবর শুনে।"
+  ],
+  "example_sentences_in_english": [
+    "The village roads were turned upside down after the storm.",
+    "His mind is in turmoil after hearing the news."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Describing chaos"
+  ],
+  "tags": [
+    "disorder",
+    "disturbance",
+    "upheaval"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Originates from imagery of stormy seas in Bengali coastal culture"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2149",
+  "idiom": "কালাশুদ্ধি",
+  "alternative_idioms": [],
+  "literal_meaning": "কাল (অশুভ সময়) + শুদ্ধি (পবিত্রীকরণ)",
+  "figurative_meaning_bn": "যে সময়ে কৃত ধর্মীয় ক্রিয়াকর্ম শুদ্ধ হয় না",
+  "figurative_meaning_en": "The time when performed religious rituals do not achieve purification",
+  "similar_in_english": [
+    "at an inauspicious hour"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ কালাশুদ্ধি, এ সময় পূজা করে লাভ নেই।",
+    "বাড়ির শুদ্ধিকরণ কালাশুদ্ধিতে করলে ফল হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "Today is an inauspicious time for rituals; worshiping now won't be effective.",
+    "Performing house purification during an unlucky period yields no result."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Rituals",
+    "Astrology"
+  ],
+  "tags": [
+    "Hindu",
+    "Auspicious time",
+    "Purification rite"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Hindu astrological concepts of inauspicious periods like Rahu Kaal where rituals are ineffective."
+  ],
+  "note": "Specific to traditional Bengali Hindu practices"
+}

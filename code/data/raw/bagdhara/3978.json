@@ -1,0 +1,40 @@
+{
+  "id": "3978",
+  "idiom": "চুমকুড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "সশব্দ চুমার আওয়াজ",
+  "figurative_meaning_bn": "গাড়োয়ানের পরিচিত সংকেতমূলক আওয়াজ যা গরু চেনে",
+  "figurative_meaning_en": "A familiar signaling sound made by a driver that the ox recognizes",
+  "similar_in_english": [
+    "His master's voice"
+  ],
+  "example_sentences_in_bangla": [
+    "গাড়োয়ানের চুমকুড়ি শুনেই গরু এগিয়ে আসে।",
+    "এই চুমকুড়ির মতোই তার কণ্ঠস্বর তার অনুসারীদের চেনা।"
+  ],
+  "example_sentences_in_english": [
+    "The ox starts moving just upon hearing the driver's chumkuri.",
+    "His voice is as recognizable to his followers as the chumkuri to the ox."
+  ],
+  "usage_domain": [
+    "rural life",
+    "agriculture",
+    "proverbs"
+  ],
+  "tags": [
+    "sound imitation",
+    "animal behavior",
+    "master-servant relation",
+    "proverbial expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from traditional Bengali rural practices where bullock cart drivers use specific sounds like 'chumkuri' to control and communicate with oxen, highlighting the bond between humans and animals in agrarian society."
+  ],
+  "note": "Often used in the proverb 'গাড়োয়ানের চুমকুড়ি গরু চেনে' to denote familiarity and recognition."
+}

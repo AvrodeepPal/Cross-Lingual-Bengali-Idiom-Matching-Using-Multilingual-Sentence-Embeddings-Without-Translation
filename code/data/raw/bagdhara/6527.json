@@ -1,0 +1,38 @@
+{
+  "id": "6527",
+  "idiom": "পঙ্কোদ্ধার",
+  "alternative_idioms": [],
+  "literal_meaning": "পঙ্ক বা কাদা থেকে উদ্ধার করা",
+  "figurative_meaning_bn": "আবিলতা মুক্ত করা",
+  "figurative_meaning_en": "To remove turbidity or clarify by eliminating impurities",
+  "similar_in_english": [
+    "clear the waters",
+    "clear the air"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার দ্বারা এই পঙ্কোদ্ধার সম্ভব নয়।",
+    "এই জটিল পরিস্থিতির পঙ্কোদ্ধার করা জরুরি।"
+  ],
+  "example_sentences_in_english": [
+    "It is not possible for me to clarify this situation.",
+    "It is urgent to clear up this complicated situation."
+  ],
+  "usage_domain": [
+    "clarification",
+    "problem-solving",
+    "everyday language"
+  ],
+  "tags": [
+    "figurative",
+    "purification",
+    "rural idiom"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the process of clearing sediment from water bodies, common in Bengali rural contexts."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "6489",
+  "idiom": "নেড়া পাহাড়",
+  "alternative_idioms": [],
+  "literal_meaning": "নেড়া (খোয়া) পাহাড় (barren mountain)",
+  "figurative_meaning_bn": "গাছপালা ইত্যাদি শূন্য",
+  "figurative_meaning_en": "Devoid of trees, plants, and vegetation",
+  "similar_in_english": [
+    "Barren wasteland",
+    "Desolate hill"
+  ],
+  "example_sentences_in_bangla": [
+    "এই নেড়া পাহাড়ে কোনো সবুজাভ দেখা যায় না।",
+    "গ্রামের পাশে নেড়া পাহাড়ের মতো জমি পড়ে আছে।"
+  ],
+  "example_sentences_in_english": [
+    "No greenery is visible on this barren mountain.",
+    "The land next to the village lies like a barren mountain."
+  ],
+  "usage_domain": [
+    "Nature",
+    "Landscape description"
+  ],
+  "tags": [
+    "barren",
+    "desolate",
+    "rural imagery"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Refers to imagery of deforested or naturally barren hills common in Bengali rural contexts"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9467",
+  "idiom": "শিয়ালপণ্ডিত",
+  "alternative_idioms": [],
+  "literal_meaning": "শিয়ালের মতো পণ্ডিত (fox-like scholar)",
+  "figurative_meaning_bn": "পণ্ডিতাভিমানী মুর্খ; মূর্খ অথচ খুব চতুর",
+  "figurative_meaning_en": "A fool arrogant about his scholarship; a fool who pretends to be very clever",
+  "similar_in_english": [
+    "sly as a fox",
+    "wise fool"
+  ],
+  "example_sentences_in_bangla": [
+    "সে শিয়ালপণ্ডিতের মতো বুদ্ধিমান সেজে কাজ করছে, কিন্তু আসলে সম্পূর্ণ মূর্খ।",
+    "গ্রামের সেই লোকটি শিয়ালপণ্ডিতের ভূমিকায় নিজেকে উপস্থাপন করে সবাইকে ধোঁকা দিতে চায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is pretending to be clever like a fox pandit, but he's actually a complete fool.",
+    "That village man acts like a fox pandit, trying to deceive everyone with his false wisdom."
+  ],
+  "usage_domain": [
+    "folklore",
+    "everyday conversation",
+    "literature"
+  ],
+  "tags": [
+    "animal metaphor",
+    "deception",
+    "arrogance",
+    "folktale"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Derived from Bengali folktales (রূপকথা) where the fox character poses as a learned pandit but is exposed as cunning yet foolish."
+  ],
+  "note": "This idiom draws from traditional animal fables emphasizing hypocrisy and false intellect in rural storytelling."
+}

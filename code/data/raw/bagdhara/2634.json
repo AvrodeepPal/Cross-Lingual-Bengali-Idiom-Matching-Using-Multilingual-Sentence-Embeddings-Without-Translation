@@ -1,0 +1,42 @@
+{
+  "id": "2634",
+  "idiom": "খাসতালুক",
+  "alternative_idioms": [],
+  "literal_meaning": "ব্যক্তিগত সম্পত্তি বা অধীনস্থ জমি",
+  "figurative_meaning_bn": "স্বীয় অধীনে থাকা জমি; নিজের সম্পত্তি; জমিদারের কর্তৃত্বাধীন জমি",
+  "figurative_meaning_en": "Land under one's direct control; personal property; land under the authority of a zamindar",
+  "similar_in_english": [
+    "one's own turf",
+    "personal domain",
+    "backyard politics"
+  ],
+  "example_sentences_in_bangla": [
+    "জননেতারা দেশটাকে নিজের খাসতালুক মনে করে।",
+    "সে তার ব্যবসাকে খাসতালুকের মতো দেখে, কারো হস্তক্ষেপ সহ্য করে না।"
+  ],
+  "example_sentences_in_english": [
+    "Political leaders consider the country as their personal estate.",
+    "He treats his business like a private domain, tolerating no interference from others."
+  ],
+  "usage_domain": [
+    "politics",
+    "property ownership",
+    "administration"
+  ],
+  "tags": [
+    "zamindari",
+    "control",
+    "possession",
+    "figurative property"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Refers to the zamindari system in colonial Bengal, where 'khas taluk' denoted lands directly managed by the zamindar without intermediaries, highlighting feudal land ownership structures."
+  ],
+  "note": "This idiom draws from historical land revenue systems in Bengal, often used metaphorically for absolute control."
+}

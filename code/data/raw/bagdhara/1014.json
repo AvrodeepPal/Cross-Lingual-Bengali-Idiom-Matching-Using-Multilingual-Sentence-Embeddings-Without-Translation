@@ -1,0 +1,39 @@
+{
+  "id": "1014",
+  "idiom": "একটানা",
+  "alternative_idioms": [],
+  "literal_meaning": "এক টানে (একবার টেনে, অবিচ্ছিন্নভাবে)",
+  "figurative_meaning_bn": "অবিরাম; অবিশ্রান্ত",
+  "figurative_meaning_en": "uninterrupted; continuous without break",
+  "similar_in_english": [
+    "non-stop",
+    "without a break",
+    "back-to-back"
+  ],
+  "example_sentences_in_bangla": [
+    "সারাদিন ধরে একটানা বৃষ্টি হয়ে চলেছে।",
+    "তিন ঘণ্টা একটানা কাজ করলাম।"
+  ],
+  "example_sentences_in_english": [
+    "It rained continuously all day long.",
+    "I worked for three hours straight."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "weather description",
+    "work and routine"
+  ],
+  "tags": [
+    "continuity",
+    "persistence",
+    "uninterrupted action"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is derived from the concept of pulling something in one continuous motion, reflecting everyday Bengali linguistic patterns."
+}

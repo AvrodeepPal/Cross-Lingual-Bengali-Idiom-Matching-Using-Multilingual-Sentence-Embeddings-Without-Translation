@@ -1,0 +1,37 @@
+{
+  "id": "4308",
+  "idiom": "ছাপোষা",
+  "alternative_idioms": [],
+  "literal_meaning": "stamped and reared (ছাপা + পোষা, implying branded and tamed like an animal)",
+  "figurative_meaning_bn": "নিরীহ দরিদ্রব্যক্তি",
+  "figurative_meaning_en": "meek and impoverished person",
+  "similar_in_english": [
+    "poor soul",
+    "meek as a lamb"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এক ছাপোষা মানুষ, কখনো কারো সাথে ঝগড়া করে না।",
+    "গ্রামের ছাপোষা লোকেরা প্রায়ই ধনীদের শোষণের শিকার হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a meek and impoverished person, never arguing with anyone.",
+    "The poor souls in the village often fall victim to exploitation by the wealthy."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "poverty description"
+  ],
+  "tags": [
+    "meekness",
+    "poverty",
+    "oppression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects socio-economic disparities in traditional Bengali society."
+}

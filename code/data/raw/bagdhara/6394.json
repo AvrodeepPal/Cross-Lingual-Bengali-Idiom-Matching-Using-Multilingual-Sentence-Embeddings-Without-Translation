@@ -1,0 +1,39 @@
+{
+  "id": "6394",
+  "idiom": "নামেমাত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "শুধু নামে",
+  "figurative_meaning_bn": "নামত, শুধু নামে, কাজে নয়",
+  "figurative_meaning_en": "in name only, merely nominal, not in practice",
+  "similar_in_english": [
+    "in name only",
+    "on paper",
+    "in theory"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি নামেমাত্র সম্পাদক।",
+    "এটি নামেমাত্র স্বাধীনতা।"
+  ],
+  "example_sentences_in_english": [
+    "He is a nominal editor.",
+    "This is nominal independence."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "formal writing",
+    "journalism"
+  ],
+  "tags": [
+    "nominal",
+    "superficial",
+    "figurative"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used to describe superficial or token roles in Bengali discourse."
+}

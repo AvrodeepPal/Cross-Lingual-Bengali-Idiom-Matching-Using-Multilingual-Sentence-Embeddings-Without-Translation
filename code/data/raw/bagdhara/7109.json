@@ -1,0 +1,41 @@
+{
+  "id": "7109",
+  "idiom": "ফাঁদা",
+  "alternative_idioms": [],
+  "literal_meaning": "বিস্তার করা বা ছড়ানো (যেমন জাল বা আসন বিস্তার করা)",
+  "figurative_meaning_bn": "বিস্তারে বর্ণনা করা",
+  "figurative_meaning_en": "to describe or narrate in detail",
+  "similar_in_english": [
+    "to spin a yarn",
+    "to elaborate"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ঘটনাটা ফাঁদা ফাঁদা করে বলল।",
+    "গল্পটা ফাঁদা করে শোনাও।"
+  ],
+  "example_sentences_in_english": [
+    "He narrated the incident in elaborate detail.",
+    "Spin the story out for us."
+  ],
+  "usage_domain": [
+    "storytelling",
+    "conversation",
+    "literature"
+  ],
+  "tags": [
+    "narrative",
+    "description",
+    "elaboration",
+    "oral tradition"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "উদ্ভব সম্ভবত জাল বা আসন বিস্তারের রূপক থেকে, বাংলা লোককথা ও মৌখিক ঐতিহ্যে প্রচলিত।"
+  ],
+  "note": "প্রায়শই 'গল্প ফাঁদা' আকারে ব্যবহৃত হয় গল্প বিস্তারের জন্য।"
+}

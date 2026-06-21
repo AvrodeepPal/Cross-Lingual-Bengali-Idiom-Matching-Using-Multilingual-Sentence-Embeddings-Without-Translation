@@ -1,0 +1,41 @@
+{
+  "id": "3537",
+  "idiom": "ঘিয়ে ভাজা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘি দিয়ে ভাজা (fried in ghee)",
+  "figurative_meaning_bn": "রুগ্ন রসকষহীন; হাড়-জিরজিরে",
+  "figurative_meaning_en": "sickly and emaciated; skinny and bony",
+  "similar_in_english": [
+    "skin and bones",
+    "bag of bones"
+  ],
+  "example_sentences_in_bangla": [
+    "দুর্ভিক্ষের পর গ্রামের অনেকেই ঘিয়ে ভাজা হয়ে গিয়েছে।",
+    "সেই বৃদ্ধ লোকটি দেখতে ঘিয়ে ভাজা কুকুরের মতো হাড়-জিরজিরে।"
+  ],
+  "example_sentences_in_english": [
+    "After the famine, many villagers became as emaciated as if fried in ghee.",
+    "The old man looked skinny and bony, like a dog fried in ghee."
+  ],
+  "usage_domain": [
+    "health",
+    "appearance",
+    "poverty"
+  ],
+  "tags": [
+    "negative",
+    "animal reference",
+    "emaciation",
+    "frailty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the vivid imagery of a stray dog so thin and frail that it appears as if it has been fried in ghee, symbolizing extreme malnutrition often seen in rural Bengali contexts during times of scarcity."
+  ],
+  "note": "The idiom evokes a sense of pity and hardship, commonly used in literature to describe poverty-stricken conditions."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "9613",
+  "idiom": "সফট ড্রিংক",
+  "alternative_idioms": [],
+  "literal_meaning": "কোমল পানীয়",
+  "figurative_meaning_bn": "অ্যালকোহলমুক্ত পানীয়; চা, কফি, মিল্কশেক ইত্যাদি কোমল পানীয়",
+  "figurative_meaning_en": "Non-alcoholic beverage; soft drinks like tea, coffee, milkshake, etc.",
+  "similar_in_english": [
+    "soft drink"
+  ],
+  "example_sentences_in_bangla": [
+    "পার্টিতে সফট ড্রিংক খাবেন?",
+    "আজকাল যুবকরা আড্ডায় সফট ড্রিংকের পরিবর্তে হার্ড ড্রিংক পছন্দ করে।"
+  ],
+  "example_sentences_in_english": [
+    "Would you like a soft drink at the party?",
+    "Nowadays, young people prefer hard drinks over soft drinks during hangouts."
+  ],
+  "usage_domain": [
+    "beverages",
+    "social gatherings",
+    "daily life"
+  ],
+  "tags": [
+    "loanword",
+    "modern",
+    "urban slang"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is a direct borrowing from English, commonly used in contemporary Bengali urban contexts to contrast with alcoholic beverages."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "3275",
+  "idiom": "গৃহদাহ",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘরের দাহনা (house burning)",
+  "figurative_meaning_bn": "সাংসারিক বিপর্যয়",
+  "figurative_meaning_en": "domestic or family calamity",
+  "similar_in_english": [
+    "the house is on fire (indicating a crisis)",
+    "family in ruins"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সংসারে গৃহদাহ লেগেছে, সবাই দুঃখী।",
+    "এই ঘটনার পর তার জীবনে গৃহদাহ ঘটেছে।"
+  ],
+  "example_sentences_in_english": [
+    "A fire has broken out in his household, leaving everyone in distress.",
+    "After the incident, a calamity befell his family life."
+  ],
+  "usage_domain": [
+    "family",
+    "disaster",
+    "everyday language"
+  ],
+  "tags": [
+    "calamity",
+    "misfortune",
+    "household crisis"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the literal imagery of a house fire as a metaphor for irreversible family disasters in Bengali culture."
+}

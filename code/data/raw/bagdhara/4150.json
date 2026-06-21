@@ -1,0 +1,39 @@
+{
+  "id": "4150",
+  "idiom": "চোদ্দপুরুষ",
+  "alternative_idioms": [],
+  "literal_meaning": "চোদ্দ (চতুর্দশ) পুরুষ (প্রজন্ম বা বংশধর)",
+  "figurative_meaning_bn": "ঊর্ধ্বতন সাত ও অধস্তন সাতপুরুষ",
+  "figurative_meaning_en": "Seven generations above and seven generations below",
+  "similar_in_english": [
+    "From generation to generation",
+    "The sins of the fathers are visited upon the children"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চোদ্দপুরুষের সম্পত্তি নষ্ট হয়ে গেল।",
+    "এই পরিবারের চোদ্দপুরুষ ধরে এই ঐতিহ্য চলে আসছে।"
+  ],
+  "example_sentences_in_english": [
+    "His family's fortune was ruined for fourteen generations.",
+    "This tradition has been passed down through fourteen generations in the family."
+  ],
+  "usage_domain": [
+    "Family and lineage",
+    "Curses and blessings",
+    "Historical narratives"
+  ],
+  "tags": [
+    "ancestry",
+    "generations",
+    "lineage",
+    "heritage"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the entire lineage spanning ancestors and descendants, often used in contexts of inheritance or curses."
+}

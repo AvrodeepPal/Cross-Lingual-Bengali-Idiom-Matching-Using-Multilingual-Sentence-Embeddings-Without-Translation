@@ -1,0 +1,41 @@
+{
+  "id": "7403",
+  "idiom": "বাঁকাচক্ষু",
+  "alternative_idioms": [
+    "বাঁকা নজর"
+  ],
+  "literal_meaning": "বাঁকা চোখ (crooked eye)",
+  "figurative_meaning_bn": "কুদৃষ্টি; মন্দদৃষ্টি",
+  "figurative_meaning_en": "Evil eye; malicious glance",
+  "similar_in_english": [
+    "Evil eye",
+    "Give the evil eye"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বাঁকাচক্ষু পড়লে কাজটা নষ্ট হয়ে যাবে।",
+    "গ্রামের লোকেরা বাঁকাচক্ষু থেকে বাঁচতে নজরুত্তর ব্যবহার করে।"
+  ],
+  "example_sentences_in_english": [
+    "His evil eye will ruin the work if he sees it.",
+    "Villagers use nazar battu to protect from the evil eye."
+  ],
+  "usage_domain": [
+    "Superstition",
+    "Folklore",
+    "Everyday warnings"
+  ],
+  "tags": [
+    "negative",
+    "gaze",
+    "protection",
+    "malicious"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to superstitious belief in harmful glances, common in South Asian cultures."
+}

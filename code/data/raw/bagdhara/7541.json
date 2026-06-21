@@ -1,0 +1,38 @@
+{
+  "id": "7541",
+  "idiom": "বাতাস লাগা",
+  "alternative_idioms": [],
+  "literal_meaning": "বাতাসের স্পর্শ পাওয়া",
+  "figurative_meaning_bn": "বাতাসরূপী অপদেবতার প্রভাব পড়া",
+  "figurative_meaning_en": "To be affected by the influence of a malevolent deity in the form of wind",
+  "similar_in_english": [
+    "Catch a chill",
+    "Struck by misfortune"
+  ],
+  "example_sentences_in_bangla": [
+    "ছেলেটার বাতাস লেগেছে, তাই সে হঠাৎ অসুস্থ হয়ে পড়েছে।",
+    "বাইরে ঘুরতে গিয়ে বাতাস লেগে তার জ্বর হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The boy has been affected by the wind, so he suddenly fell ill.",
+    "After going out, he caught the wind and developed a fever."
+  ],
+  "usage_domain": [
+    "Health",
+    "Superstition",
+    "Daily life"
+  ],
+  "tags": [
+    "illness",
+    "evil spirit",
+    "folk belief"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali beliefs in supernatural afflictions often linked to sudden illnesses."
+}

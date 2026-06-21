@@ -1,0 +1,38 @@
+{
+  "id": "5809",
+  "idiom": "দিন ঘনিয়ে আসা",
+  "alternative_idioms": [],
+  "literal_meaning": "দিনগুলো ঘন হয়ে আসা (days becoming dense or closing in)",
+  "figurative_meaning_bn": "মৃত্যু আসন্ন",
+  "figurative_meaning_en": "Death is imminent",
+  "similar_in_english": [
+    "The end is near",
+    "One's days are numbered"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বয়স বাড়ার সাথে সাথে দিন ঘনিয়ে আসছে।",
+    "রোগের কারণে তার দিন ঘনিয়ে এসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "As he ages, his end is drawing near.",
+    "Due to the illness, his days are closing in."
+  ],
+  "usage_domain": [
+    "death",
+    "illness",
+    "end of life"
+  ],
+  "tags": [
+    "মৃত্যু",
+    "আসন্নতা",
+    "জীবনের শেষ"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the poetic Bengali way of expressing mortality without direct confrontation."
+}

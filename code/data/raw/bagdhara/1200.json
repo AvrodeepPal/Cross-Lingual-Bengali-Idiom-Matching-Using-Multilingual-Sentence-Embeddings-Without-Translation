@@ -1,0 +1,37 @@
+{
+  "id": "1200",
+  "idiom": "এনার্জি",
+  "alternative_idioms": [],
+  "literal_meaning": "শক্তি বা শারীরিক/মানসিক ক্ষমতা",
+  "figurative_meaning_bn": "শক্তি; ক্ষমতা",
+  "figurative_meaning_en": "energy; power",
+  "similar_in_english": [
+    "full of energy",
+    "vitality"
+  ],
+  "example_sentences_in_bangla": [
+    "তার এনার্জি দেখে সবাই অবাক হয়ে যায়।",
+    "বৃদ্ধবয়সে এনার্জি কমে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "His energy surprises everyone.",
+    "Energy decreases in old age."
+  ],
+  "usage_domain": [
+    "everyday language",
+    "health and fitness"
+  ],
+  "tags": [
+    "loanword",
+    "modern",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "city",
+  "history": [],
+  "note": "This is a transliterated English loanword commonly used in Bengali, not a traditional idiom."
+}

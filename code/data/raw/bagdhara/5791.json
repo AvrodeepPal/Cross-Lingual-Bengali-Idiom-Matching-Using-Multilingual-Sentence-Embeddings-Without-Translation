@@ -1,0 +1,43 @@
+{
+  "id": "5791",
+  "idiom": "দিগগজ",
+  "alternative_idioms": [
+    "বিদ্যাদিগগজ",
+    "হস্তীমূর্খ"
+  ],
+  "literal_meaning": "পূর্বাদিক্রমে অষ্টদিকে রক্ষক ঐরাবতসহ অষ্টহস্তী",
+  "figurative_meaning_bn": "মহামূর্খ",
+  "figurative_meaning_en": "A great fool or ignoramus",
+  "similar_in_english": [
+    "Dumb as a post",
+    "All brawn and no brains"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দিগগজের মতো সবকিছু ভুলে যায়।",
+    "এই দিগগজ পণ্ডিতের কথা কেউ শোনে না।"
+  ],
+  "example_sentences_in_english": [
+    "He forgets everything like a directional elephant.",
+    "No one listens to this fool pretending to be wise."
+  ],
+  "usage_domain": [
+    "Sarcasm",
+    "Insult",
+    "Conversation"
+  ],
+  "tags": [
+    "Mythology",
+    "Foolishness",
+    "Sarcastic"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the eight mythical elephants (Diggaj) in Hindu cosmology that guard the eight directions of the universe, with Airavata being the chief elephant of Indra."
+  ],
+  "note": "Often used to mock someone with superficial knowledge or great stupidity despite appearances of wisdom."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5966",
+  "idiom": "দোটানা",
+  "alternative_idioms": [
+    "দোনোমনো"
+  ],
+  "literal_meaning": "দুই দিকে টানা বা বিভক্ত মন",
+  "figurative_meaning_bn": "দুই ভিন্ন জিনিসের প্রতি মনের সমান আকর্ষণ এবং তার ফলে দ্বিধা",
+  "figurative_meaning_en": "Equal mental attraction towards two different things and the resulting hesitation or dilemma",
+  "similar_in_english": [
+    "Torn between two choices",
+    "On the horns of a dilemma",
+    "Between a rock and a hard place"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দুটি চাকরির মধ্যে দোটানায় পড়েছে।",
+    "বিয়ের প্রস্তাব দুটির মধ্যে তার মন দোনোমনো হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is torn between the two job offers.",
+    "Her mind is divided between the two marriage proposals."
+  ],
+  "usage_domain": [
+    "Decision-making",
+    "Emotions",
+    "Daily life"
+  ],
+  "tags": [
+    "dilemma",
+    "indecision",
+    "choice",
+    "hesitation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variants like 'দোনোমনো' emphasize mental division, commonly used in spoken Bengali."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2736",
+  "idiom": "খেলাপ",
+  "alternative_idioms": [],
+  "literal_meaning": "বিপরীতমুখী বা অসঙ্গতিপূর্ণ আচরণ (বিপরীত দিকে যাওয়া)",
+  "figurative_meaning_bn": "বিরূপ আচরণ",
+  "figurative_meaning_en": "improper or adverse behavior",
+  "similar_in_english": [
+    "act up",
+    "step out of line",
+    "go back on one's word"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সভায় খেলাপ করেছে।",
+    "আমি কখনো কথার খেলাপ করি না।"
+  ],
+  "example_sentences_in_english": [
+    "He misbehaved in the meeting.",
+    "I never go back on my word."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "ethics",
+    "social behavior"
+  ],
+  "tags": [
+    "misconduct",
+    "violation",
+    "impropriety"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of breaking promises or social norms in Bengali culture"
+}

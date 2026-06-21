@@ -1,0 +1,40 @@
+{
+  "id": "1894",
+  "idiom": "কাজের বাইরে",
+  "alternative_idioms": [
+    "কাজের বার"
+  ],
+  "literal_meaning": "কাজের বাইরে (work-er outside)",
+  "figurative_meaning_bn": "অনুপযুক্ত ব্যক্তি, অকর্মণ্য",
+  "figurative_meaning_en": "An unsuitable or incompetent person",
+  "similar_in_english": [
+    "fish out of water",
+    "square peg in a round hole"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এই চাকরিতে কাজের বাইরে, তার কোনো দক্ষতা নেই।",
+    "এই দলে তার কোনো স্থান নেই, সে সম্পূর্ণ কাজের বাইরে।"
+  ],
+  "example_sentences_in_english": [
+    "He is completely out of his depth in this job; he has no skills for it.",
+    "She doesn't belong in this team; she's a total misfit."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "workplace",
+    "social commentary"
+  ],
+  "tags": [
+    "incompetence",
+    "unsuitability",
+    "misfit"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects everyday Bengali expressions for describing lack of aptitude in tasks or roles."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "9667",
+  "idiom": "সস্তায় কিস্তিমাত",
+  "alternative_idioms": [],
+  "literal_meaning": "সস্তা দামে কিস্তির মাধ্যমে (cheaply in installments)",
+  "figurative_meaning_bn": "কম খরচে কার্যোদ্ধার",
+  "figurative_meaning_en": "Accomplishing tasks at minimal expense",
+  "similar_in_english": [
+    "On a shoestring budget",
+    "Making ends meet cheaply"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি সস্তায় কিস্তিমাত করে বাড়ি কিনেছেন।",
+    "ব্যবসায় সাফল্যের জন্য সস্তায় কিস্তিমাত করতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He bought the house on cheap installments.",
+    "To succeed in business, one must manage on a shoestring."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Business",
+    "Daily Life"
+  ],
+  "tags": [
+    "Thrift",
+    "Economy",
+    "Resourcefulness"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects Bengali cultural emphasis on frugality and practical management."
+}

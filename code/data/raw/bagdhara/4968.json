@@ -1,0 +1,37 @@
+{
+  "id": "4968",
+  "idiom": "টুগবুগুনি",
+  "alternative_idioms": [],
+  "literal_meaning": "অনুকারশব্দ যা আগুনের তাপে জল ফুটে ওঠার শব্দের অনুকরণ করে",
+  "figurative_meaning_bn": "আগুনের তাপে জল ফোটার শব্দ",
+  "figurative_meaning_en": "The onomatopoeic sound of water boiling due to the heat of fire",
+  "similar_in_english": [
+    "bubble (as in bubbling water)"
+  ],
+  "example_sentences_in_bangla": [
+    "চুলায় জল রাঁধার সময় টুগবুগুনি শব্দ হয়ে উঠল।",
+    "কড়াইতে জল ফুটতে শুরু করতেই টুগবুগুনি আওয়াজ শোনা গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The water started making a tugging buguni sound as it boiled on the stove.",
+    "As the pot heated up, the bubbling water produced a tugbuguni noise."
+  ],
+  "usage_domain": [
+    "Culinary",
+    "Everyday sounds",
+    "Descriptive language"
+  ],
+  "tags": [
+    "Onomatopoeia",
+    "Sound imitation",
+    "Boiling water"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is primarily an onomatopoeic expression rooted in everyday rural cooking practices in Bengali culture."
+}

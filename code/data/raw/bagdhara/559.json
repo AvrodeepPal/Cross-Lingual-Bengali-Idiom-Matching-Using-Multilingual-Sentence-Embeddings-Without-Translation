@@ -1,0 +1,41 @@
+{
+  "id": "559",
+  "idiom": "আবড়াখাবড়া",
+  "alternative_idioms": [
+    "এবড়োখেবড়ো",
+    "উভড়খাবড়া"
+  ],
+  "literal_meaning": "অসমান বা উঁচু-নিচু পৃষ্ঠের শব্দানুকরণী অর্থ",
+  "figurative_meaning_bn": "অসমান, উঁচু-নিচু, বন্ধুর",
+  "figurative_meaning_en": "uneven, up and down, rough",
+  "similar_in_english": [
+    "bumpy road",
+    "full of ups and downs",
+    "rough terrain"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের রাস্তাটা খুব আবড়াখাবড়া, হাঁটতে অসুবিধা হয়।",
+    "জীবনটা আবড়াখাবড়া হয়ে গেছে, কখনো সুখ কখনো দুঃখ।"
+  ],
+  "example_sentences_in_english": [
+    "The village road is very uneven, making it difficult to walk.",
+    "Life has become full of ups and downs, sometimes joy and sometimes sorrow."
+  ],
+  "usage_domain": [
+    "terrain description",
+    "metaphorical for life challenges"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "descriptive",
+    "everyday language"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Has Hindi influence via উভড়খাবড়া, commonly used in spoken Bengali for uneven surfaces."
+}

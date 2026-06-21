@@ -1,0 +1,42 @@
+{
+  "id": "6693",
+  "idiom": "পাওনা থোওনা",
+  "alternative_idioms": [
+    "দেনাপাওনা",
+    "হিসাবনিকাশ"
+  ],
+  "literal_meaning": "প্রাপ্য (পাওনা) এবং পরিশোধযোগ্য (থোওনা বা দেনা)",
+  "figurative_meaning_bn": "প্রাপ্যের প্রাপ্তি ও দেয় পরিশোধ",
+  "figurative_meaning_en": "Settlement of receivables and payables; receiving dues and discharging debts",
+  "similar_in_english": [
+    "Balance the books",
+    "Settle accounts",
+    "Call it even"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসার শেষে আমরা পাওনা থোওনা সব নিকাশ করে নিলাম।",
+    "বন্ধুদের মধ্যে পাওনা থোওনা শোধ করে সম্পর্কটা পরিষ্কার হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "At the end of the business deal, we settled all receivables and payables.",
+    "Clearing the dues between friends made our relationship straightforward."
+  ],
+  "usage_domain": [
+    "finance",
+    "business",
+    "interpersonal relations"
+  ],
+  "tags": [
+    "financial settlement",
+    "debt clearance",
+    "accounting"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term 'থোওনা' appears to be a dialectal or variant spelling of 'দেনা' (debt payable) in some regional Bengali usages."
+}

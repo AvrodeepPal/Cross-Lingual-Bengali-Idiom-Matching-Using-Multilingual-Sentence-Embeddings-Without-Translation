@@ -1,0 +1,38 @@
+{
+  "id": "6",
+  "idiom": "অকস্মাৎ বজ্রপাত",
+  "alternative_idioms": [],
+  "literal_meaning": "অকস্মাৎ বজ্রপাত (sudden lightning strike)",
+  "figurative_meaning_bn": "অপ্রত্যাশিত বিপদ",
+  "figurative_meaning_en": "unexpected calamity",
+  "similar_in_english": [
+    "bolt from the blue",
+    "thunderbolt out of a clear sky"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চাকরি হারানোর খবরটি অকস্মাৎ বজ্রপাতের মতো এসে পড়ল।",
+    "পরিবারের সদস্যের মৃত্যুর সংবাদে অকস্মাৎ বজ্রপাত হল।"
+  ],
+  "example_sentences_in_english": [
+    "The news of his job loss struck like a sudden thunderbolt.",
+    "The family faced an unexpected calamity with the sudden death of a member."
+  ],
+  "usage_domain": [
+    "disaster",
+    "surprise",
+    "family crises"
+  ],
+  "tags": [
+    "sudden",
+    "calamity",
+    "shock"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from natural phenomena observed in rural Bengal, evoking the terror of unforeseen storms."
+}

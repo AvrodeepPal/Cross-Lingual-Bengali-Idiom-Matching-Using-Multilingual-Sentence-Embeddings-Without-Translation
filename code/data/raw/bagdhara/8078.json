@@ -1,0 +1,42 @@
+{
+  "id": "8078",
+  "idiom": "ভিটেমাটি",
+  "alternative_idioms": [
+    "বাস্তুভিটা"
+  ],
+  "literal_meaning": "ভিটের মাটি (homestead soil or ancestral land)",
+  "figurative_meaning_bn": "যে ভূমিখণ্ডের উপর পুরুষানুক্রমে বাসগৃহ স্থাপিত",
+  "figurative_meaning_en": "The land on which houses have been established generation after generation; ancestral homestead",
+  "similar_in_english": [
+    "ancestral home",
+    "family estate",
+    "roots"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার ভিটেমাটি এই গ্রামে, এখান থেকেই আমাদের পরিবারের শুরু।",
+    "বহু বছর পর সে তার ভিটেমাটিতে ফিরে এলো।"
+  ],
+  "example_sentences_in_english": [
+    "My ভিটেমাটি is in this village, where our family originated.",
+    "After many years, he returned to his ভিটেমাটি."
+  ],
+  "usage_domain": [
+    "family",
+    "inheritance",
+    "rural life"
+  ],
+  "tags": [
+    "ancestry",
+    "heritage",
+    "land ownership",
+    "generational"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to deep-rooted Bengali concepts of familial land attachment in agrarian society"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2659",
+  "idiom": "খুঁচানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ঝাঁকি দেওয়া বা খোঁচা দেওয়া (pinching or pricking)",
+  "figurative_meaning_bn": "উত্ত্যক্ত করা, বারবার তাগাদা দেওয়া",
+  "figurative_meaning_en": "to annoy or irritate, to repeatedly nag or pester",
+  "similar_in_english": [
+    "to nag",
+    "to get on someone's nerves",
+    "to poke fun at persistently"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমাকে সারাদিন খুঁচাচ্ছে তার কাজের জন্য।",
+    "বাচ্চাটা মাকে খুঁচিয়ে খাবার চাইছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has been nagging me all day about his work.",
+    "The child is pestering his mother by pinching to get food."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "family interactions",
+    "workplace nagging"
+  ],
+  "tags": [
+    "annoyance",
+    "pestering",
+    "repetition",
+    "irritation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom derives from the literal act of pinching to urge action, often used in contexts like debt recovery as in traditional Bengali rural life."
+  ],
+  "note": "Common in spoken Bengali to express mild frustration from persistent urging."
+}

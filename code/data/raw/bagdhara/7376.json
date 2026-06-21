@@ -1,0 +1,39 @@
+{
+  "id": "7376",
+  "idiom": "বসে খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বসে খাওয়া (sitting and eating)",
+  "figurative_meaning_bn": "উপার্জন নেই তাই সঞ্চিত অর্থ ভেঙে খাওয়া",
+  "figurative_meaning_en": "Living off one's savings due to lack of income",
+  "similar_in_english": [
+    "Dipping into one's savings",
+    "Living off one's capital"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চাকরি হারিয়ে এখন বসে খাচ্ছে, কোনো আয় নেই।",
+    "পরিবারের সঞ্চয় ভেঙে বসে খাওয়ার দিন চলছে।"
+  ],
+  "example_sentences_in_english": [
+    "He lost his job and is now living off his savings with no income.",
+    "The family is going through days of eating into their accumulated funds."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Daily Life",
+    "Economy"
+  ],
+  "tags": [
+    "unemployment",
+    "savings",
+    "financial distress",
+    "poverty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the economic realities in Bengali-speaking regions, emphasizing the shift from active earning to passive consumption."
+}

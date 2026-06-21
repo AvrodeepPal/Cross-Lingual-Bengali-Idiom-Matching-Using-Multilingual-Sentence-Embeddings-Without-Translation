@@ -1,0 +1,42 @@
+{
+  "id": "9442",
+  "idiom": "শিকড় গাড়া",
+  "alternative_idioms": [
+    "মৌরসীপাট্টা"
+  ],
+  "literal_meaning": "শিকড় গেড়ে ফেলা (roots planting)",
+  "figurative_meaning_bn": "কায়েমীভাবে অধিকার করে বসা; কোথাও পাকাপাকিভাবে অবস্থান করা",
+  "figurative_meaning_en": "To establish oneself permanently; to settle down firmly somewhere",
+  "similar_in_english": [
+    "Put down roots",
+    "Strike roots",
+    "Make one's home"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এই গ্রামে শিকড় গেড়েছে এবং আর কোথাও যেতে চায় না।",
+    "পরিবারটি শহরে শিকড় গাড়ার পর থেকে জীবন স্থিতিশীল হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has put down roots in this village and doesn't want to go anywhere else.",
+    "The family has settled down firmly in the city, making life stable."
+  ],
+  "usage_domain": [
+    "settlement",
+    "daily life",
+    "migration"
+  ],
+  "tags": [
+    "permanence",
+    "establishment",
+    "roots",
+    "stability"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from agricultural imagery common in Bengali rural life, symbolizing deep attachment to a place."
+}

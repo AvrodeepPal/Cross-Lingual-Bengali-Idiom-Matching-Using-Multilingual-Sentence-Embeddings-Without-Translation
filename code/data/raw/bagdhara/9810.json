@@ -1,0 +1,43 @@
+{
+  "id": "9810",
+  "idiom": "সুলুকসন্ধান",
+  "alternative_idioms": [
+    "অন্ধিসন্ধি",
+    "ঘাঁতঘোঁত"
+  ],
+  "literal_meaning": "গোপন পথের অনুসন্ধান (hidden path's search)",
+  "figurative_meaning_bn": "কোন বিষয়ের গোপন তথ্য",
+  "figurative_meaning_en": "Secret information about something",
+  "similar_in_english": [
+    "inside information",
+    "dirt on someone",
+    "the lowdown"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি অনেক সুলুকসন্ধান জানি, কিন্তু বলব না।",
+    "সে সব সুলুকসন্ধান করে সবার খবর রাখে।"
+  ],
+  "example_sentences_in_english": [
+    "I know a lot of inside information, but I won't tell.",
+    "He gathers all the secret info on everyone."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "gossip",
+    "daily life"
+  ],
+  "tags": [
+    "secret",
+    "information",
+    "inquiry",
+    "colloquial"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali colloquialism for hidden knowledge, often used in social contexts."
+}

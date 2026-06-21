@@ -1,0 +1,42 @@
+{
+  "id": "9681",
+  "idiom": "সাক্ষীগোপাল",
+  "alternative_idioms": [],
+  "literal_meaning": "পুরীর নিকটবর্তী স্থানে প্রতিষ্ঠিত শ্রীকৃষ্ণের বিগ্রহ",
+  "figurative_meaning_bn": "যে ব্যক্তি স্বয়ং নিষ্ক্রিয় থেকে অন্যের কার্যকলাপ লক্ষ করে; ঘটনা দেখে অথচ পুতুলের মতো নিষ্ক্রিয় ব্যক্তি; নিস্ক্রীয় দর্শক; ব্যক্তিত্বহীন পুরুষ",
+  "figurative_meaning_en": "A person who remains inactive while observing others' activities; someone who witnesses events but stays passive like a doll; an inactive spectator; a man without personality",
+  "similar_in_english": [
+    "bystander",
+    "fly on the wall",
+    "silent witness"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি সাক্ষীগোপালের মতো দাঁড়িয়ে কী করছ? সাহায্য করো!",
+    "সভায় সবাই কাজ করছে, কিন্তু সে সাক্ষীগোপালের মতো নিষ্ক্রিয়।"
+  ],
+  "example_sentences_in_english": [
+    "Why are you standing like Sakshigopal? Help out!",
+    "Everyone is working in the meeting, but he's inactive like Sakshigopal."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "satirical",
+    "everyday criticism"
+  ],
+  "tags": [
+    "religious reference",
+    "inactivity",
+    "mockery",
+    "Hindu mythology"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom originates from a legend in Hindu mythology where Lord Krishna, as Sakshigopal (witness Gopal), moved to testify in a court dispute between a devotee and a landowner in Puri, Odisha, emphasizing divine intervention as a silent witness."
+  ],
+  "note": "Refers to the famous temple in Satyabadi near Puri, symbolizing passive observation in Bengali folklore."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3788",
+  "idiom": "চাঁদমারি",
+  "alternative_idioms": [],
+  "literal_meaning": "চন্দ্রাকৃতির লক্ষ্যস্থল",
+  "figurative_meaning_bn": "তীর বা বন্দুকের গুলি ছোড়ার অভ্যাসের জন্য স্থাপিত চন্দ্রাকৃতি লক্ষ্যস্থল; নিশানাস্থল",
+  "figurative_meaning_en": "A moon-shaped target set up for practicing archery or shooting bullets; aiming point",
+  "similar_in_english": [
+    "bullseye",
+    "target practice"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চাঁদমারিতে তীর ছুঁড়ে নিশানা স ধরতে শিখছে।",
+    "বন্দুকের অভ্যাসের জন্য চাঁদমারি বসানো হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is learning to hit the bullseye by shooting arrows at the moon target.",
+    "A moon-shaped target has been set up for rifle practice."
+  ],
+  "usage_domain": [
+    "sports",
+    "military training",
+    "hunting"
+  ],
+  "tags": [
+    "লক্ষ্য",
+    "নিশানা",
+    "অভ্যাস",
+    "তীরন্দাজি"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from traditional Bengali archery and shooting practices where moon-shaped targets were used for training accuracy."
+  ],
+  "note": "The term is specific to contexts involving marksmanship training."
+}

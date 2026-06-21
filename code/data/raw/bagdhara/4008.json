@@ -1,0 +1,44 @@
+{
+  "id": "4008",
+  "idiom": "চেঁচামেচি",
+  "alternative_idioms": [
+    "চেঁচাচেঁচি",
+    "চিল্লাচিল্লি",
+    "হইচই",
+    "হট্টগোল"
+  ],
+  "literal_meaning": "ধ্বন্যাত্মক সহচরশব্দ যা চিৎকার বা গণ্ডগোলের শব্দ অনুকরণ করে",
+  "figurative_meaning_bn": "গণ্ডগোল; বহুলোকের একত্র চিৎকার",
+  "figurative_meaning_en": "Noisy commotion; collective shouting of many people",
+  "similar_in_english": [
+    "Hullabaloo",
+    "Uproar",
+    "Clamor"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে এত চেঁচামেচি হচ্ছে কেন?",
+    "সভায় চেঁচামেচির কারণে কিছু শোনা যাচ্ছে না।"
+  ],
+  "example_sentences_in_english": [
+    "Why all this hullabaloo in the market?",
+    "The clamor in the meeting made it impossible to hear anything."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Describing crowds or chaos"
+  ],
+  "tags": [
+    "Onomatopoeic",
+    "Noise",
+    "Commotion",
+    "Crowd behavior"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom is rooted in everyday Bengali auditory experiences of crowded places."
+}

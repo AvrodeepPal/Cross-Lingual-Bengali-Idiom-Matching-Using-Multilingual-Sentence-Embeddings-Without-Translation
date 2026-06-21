@@ -1,0 +1,41 @@
+{
+  "id": "7937",
+  "idiom": "ব্যঙ্গোক্তি",
+  "alternative_idioms": [],
+  "literal_meaning": "ব্যঙ্গসম্পূর্ণ উক্তি",
+  "figurative_meaning_bn": "ব্যাঞ্জনাপূর্ণ উক্তি- অলঙ্কারবিশেষ",
+  "figurative_meaning_en": "A statement full of sarcasm - a specific figure of speech",
+  "similar_in_english": [
+    "sarcastic remark",
+    "ironic statement"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথায় ব্যঙ্গোক্তি ছিল, যা শ্রোতাদের হাসিয়ে দিল।",
+    "লেখকের ব্যঙ্গোক্তি সমাজের দোষগুলো তুলে ধরে।"
+  ],
+  "example_sentences_in_english": [
+    "His words were full of sarcasm, which made the audience laugh.",
+    "The author's sarcastic remarks highlight the flaws in society."
+  ],
+  "usage_domain": [
+    "literature",
+    "rhetoric",
+    "conversation"
+  ],
+  "tags": [
+    "sarcasm",
+    "figure of speech",
+    "irony",
+    "alankar"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Derived from Sanskrit rhetorical traditions, where 'vyangya' refers to implied meaning in poetics."
+  ],
+  "note": "This term is more of a rhetorical device than a traditional proverb, rooted in classical Bengali literature."
+}

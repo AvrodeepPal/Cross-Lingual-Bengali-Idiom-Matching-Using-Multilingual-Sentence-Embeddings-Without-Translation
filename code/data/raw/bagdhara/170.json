@@ -1,0 +1,37 @@
+{
+  "id": "170",
+  "idiom": "অন্ধকারে থাকা",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্ধকারের মধ্যে থাকা",
+  "figurative_meaning_bn": "থাকার জায়গা না পাওয়া",
+  "figurative_meaning_en": "not finding a place to stay",
+  "similar_in_english": [
+    "left out in the cold",
+    "stranded without shelter"
+  ],
+  "example_sentences_in_bangla": [
+    "বৃষ্টির রাতে শহরে এসে সে অন্ধকারে থেকেছে।",
+    "যাত্রীদের ভিড়ে হোটেল না পেয়ে তারা অন্ধকারে থাকল।"
+  ],
+  "example_sentences_in_english": [
+    "Coming to the city on a rainy night, he was left in the dark without a place to stay.",
+    "Unable to find a hotel amid the crowd of travelers, they were left in the dark."
+  ],
+  "usage_domain": [
+    "daily life",
+    "travel"
+  ],
+  "tags": [
+    "accommodation",
+    "difficulty",
+    "helplessness"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The original meaning appears to have typographical errors; interpreted as relating to lack of shelter."
+}

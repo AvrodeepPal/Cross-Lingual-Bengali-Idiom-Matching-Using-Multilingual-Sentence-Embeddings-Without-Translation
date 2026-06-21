@@ -1,0 +1,39 @@
+{
+  "id": "3415",
+  "idiom": "ঘনঘটা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘন আবরণ বা পর্দা",
+  "figurative_meaning_bn": "মেঘের আড়ম্বর",
+  "figurative_meaning_en": "dense canopy of clouds",
+  "similar_in_english": [
+    "cloud cover",
+    "blanket of clouds"
+  ],
+  "example_sentences_in_bangla": [
+    "আকাশে ঘনঘটা পড়েছে, বৃষ্টি হবে বলে মনে হচ্ছে।",
+    "গ্রীষ্মের দুপুরে ঘনঘটা ছাড়া আর কোনো আশ্রয় নেই।"
+  ],
+  "example_sentences_in_english": [
+    "A dense canopy of clouds has formed in the sky, suggesting rain is coming.",
+    "In the summer afternoon, there's no shelter except the dense cloud cover."
+  ],
+  "usage_domain": [
+    "weather",
+    "nature",
+    "poetry"
+  ],
+  "tags": [
+    "idiom",
+    "clouds",
+    "atmosphere",
+    "figurative"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from natural observations in Bengali rural life, often used in literature to describe overcast skies."
+}

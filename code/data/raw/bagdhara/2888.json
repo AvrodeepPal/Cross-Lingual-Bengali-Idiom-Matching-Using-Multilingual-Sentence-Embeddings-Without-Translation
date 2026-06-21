@@ -1,0 +1,37 @@
+{
+  "id": "2888",
+  "idiom": "গণাগোষ্ঠী",
+  "alternative_idioms": [],
+  "literal_meaning": "গণ (জনসমূহ) + গোষ্ঠী (সম্প্রদায় বা দল)",
+  "figurative_meaning_bn": "আত্মীয়পরিজনসমূহ",
+  "figurative_meaning_en": "relatives and kinfolk",
+  "similar_in_english": [
+    "kith and kin",
+    "family and friends"
+  ],
+  "example_sentences_in_bangla": [
+    "তার গণাগোষ্ঠী সবাই মিলে উৎসব উদযাপন করল।",
+    "গণাগোষ্ঠীর সাহায্যে সে কষ্ট কাটিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "His kith and kin all gathered to celebrate the festival.",
+    "He overcame the hardship with the help of his relatives and kinfolk."
+  ],
+  "usage_domain": [
+    "family",
+    "social relations"
+  ],
+  "tags": [
+    "family",
+    "community",
+    "relatives"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term refers to a collective of close relatives, emphasizing familial bonds in Bengali social context."
+}

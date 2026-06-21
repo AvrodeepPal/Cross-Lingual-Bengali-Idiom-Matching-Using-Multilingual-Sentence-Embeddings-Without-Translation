@@ -1,0 +1,38 @@
+{
+  "id": "1011",
+  "idiom": "একটা কিছু",
+  "alternative_idioms": [],
+  "literal_meaning": "একটা (one) কিছু (something)",
+  "figurative_meaning_bn": "অজানা কিন্তু অস্তিত্বহীন নয়; অজ্ঞাত, কিন্তু আছে",
+  "figurative_meaning_en": "Unknown but not non-existent; unidentified, but present",
+  "similar_in_english": [
+    "Something's fishy",
+    "There's something up"
+  ],
+  "example_sentences_in_bangla": [
+    "এখানে একটা কিছু গোলমাল আছে।",
+    "তার কথায় একটা কিছু সত্যি লাগছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's something fishy going on here.",
+    "There's something true in what he said."
+  ],
+  "usage_domain": [
+    "suspicion",
+    "uncertainty",
+    "everyday conversation"
+  ],
+  "tags": [
+    "idiom",
+    "suspicion",
+    "existence"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to imply an unspecified issue or presence in informal contexts"
+}

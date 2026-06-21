@@ -1,0 +1,39 @@
+{
+  "id": "3876",
+  "idiom": "চাল বাড়ানো",
+  "alternative_idioms": [],
+  "literal_meaning": "চাল (ভাত বা জীবনধারা) বাড়ানো (বৃদ্ধি করা)",
+  "figurative_meaning_bn": "জীবনযাত্রার আড়ম্বর বাড়ানো; সংসারের খরচ বাড়ানো",
+  "figurative_meaning_en": "Increasing the ostentation of one's lifestyle; raising household expenses",
+  "similar_in_english": [
+    "Living beyond one's means",
+    "Keeping up with the Joneses"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার আয়ের সীমা ছাড়িয়ে চাল বাড়িয়েছে, এখন ঋণে জর্জরিত।",
+    "বিয়ের পর তারা চাল বাড়ানোর জন্য নতুন গাড়ি কিনেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has increased his style beyond his income and is now drowning in debt.",
+    "After the wedding, they bought a new car to raise their standard of living."
+  ],
+  "usage_domain": [
+    "Daily life",
+    "Finance",
+    "Family"
+  ],
+  "tags": [
+    "lifestyle",
+    "expenses",
+    "economy",
+    "social status"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali concerns about managing household resources, often linked to rice as a staple food symbolizing basic sustenance."
+}

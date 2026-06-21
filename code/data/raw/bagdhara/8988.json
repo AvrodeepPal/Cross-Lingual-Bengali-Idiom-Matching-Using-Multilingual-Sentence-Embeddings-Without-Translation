@@ -1,0 +1,38 @@
+{
+  "id": "8988",
+  "idiom": "যোগাযোগ",
+  "alternative_idioms": [],
+  "literal_meaning": "সংযোগ বা যোগসূত্র",
+  "figurative_meaning_bn": "খবরাখবর; দেখাশোনা; দেখাসাক্ষাৎ",
+  "figurative_meaning_en": "news or gossip; care or attention; meeting or contact",
+  "similar_in_english": [
+    "keep in touch",
+    "stay connected"
+  ],
+  "example_sentences_in_bangla": [
+    "বহুকাল ধরে আমাদের মধ্যে কোনো যোগাযোগ ছিল না।",
+    "তারা নিয়মিত যোগাযোগ রাখে পরিবারের সাথে।"
+  ],
+  "example_sentences_in_english": [
+    "There has been no communication between us for a long time.",
+    "They keep in regular contact with the family."
+  ],
+  "usage_domain": [
+    "communication",
+    "relationships",
+    "social interactions"
+  ],
+  "tags": [
+    "communication",
+    "contact",
+    "connection"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "যোগাযোগ is a common Bengali term for communication, often used idiomatically in contexts of maintaining contact."
+}

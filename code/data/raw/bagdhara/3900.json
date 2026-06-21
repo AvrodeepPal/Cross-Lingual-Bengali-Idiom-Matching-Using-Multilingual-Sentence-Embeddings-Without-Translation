@@ -1,0 +1,42 @@
+{
+  "id": "3900",
+  "idiom": "চিচিং-ফাঁক",
+  "alternative_idioms": [],
+  "literal_meaning": "চি চি শব্দ করে ফাঁক হওয়া (অকস্মাৎ ফেটে যাওয়া বা উন্মুক্ত হওয়া)",
+  "figurative_meaning_bn": "গুপ্ত বিষয় উন্মেচিত/প্রকাশিত",
+  "figurative_meaning_en": "Secret matters revealed or exposed",
+  "similar_in_english": [
+    "spill the beans",
+    "out in the open",
+    "lay bare"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার ব্যক্তিগত জীবন চিচিং-ফাঁক হয়ে যাবে না বলে সতর্ক থাকি।",
+    "সেই ঘটনার পর তার সমস্ত পরিকল্পনা চিচিং-ফাঁক হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "I stay cautious so that my personal life doesn't get completely exposed.",
+    "After that incident, all his plans were laid bare."
+  ],
+  "usage_domain": [
+    "literature",
+    "everyday conversation",
+    "secrecy discussions"
+  ],
+  "tags": [
+    "revelation",
+    "exposure",
+    "secrecy",
+    "figurative"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Popularized in the works of Kazi Nazrul Islam, a prominent Bengali poet and revolutionary."
+  ],
+  "note": "This idiom evokes a sudden, audible splitting open, metaphorically indicating unintended disclosure."
+}

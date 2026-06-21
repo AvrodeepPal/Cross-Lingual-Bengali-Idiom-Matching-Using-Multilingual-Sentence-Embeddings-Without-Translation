@@ -1,0 +1,37 @@
+{
+  "id": "5701",
+  "idiom": "দলাদলি",
+  "alternative_idioms": [],
+  "literal_meaning": "দল গঠনের দলাদলি (group formation's intrigue or factionalism)",
+  "figurative_meaning_bn": "দলবেঁধে বিরুদ্ধাচরণ",
+  "figurative_meaning_en": "Opposition or resistance by forming groups or factions",
+  "similar_in_english": [
+    "Forming factions",
+    "Clique warfare"
+  ],
+  "example_sentences_in_bangla": [
+    "রাজনীতিতে দলাদলি করে সে তার প্রতিদ্বন্দ্বীকে পরাজিত করল।",
+    "গ্রামে দলাদলির ফলে ঝগড়া বেড়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "In politics, he defeated his rival through factional maneuvering.",
+    "Factionalism in the village has led to increased quarrels."
+  ],
+  "usage_domain": [
+    "politics",
+    "social conflicts"
+  ],
+  "tags": [
+    "factionalism",
+    "opposition",
+    "group intrigue"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects common social and political dynamics in Bengali-speaking regions."
+}

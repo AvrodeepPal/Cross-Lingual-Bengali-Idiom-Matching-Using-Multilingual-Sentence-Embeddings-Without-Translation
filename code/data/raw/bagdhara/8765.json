@@ -1,0 +1,38 @@
+{
+  "id": "8765",
+  "idiom": "মুখে আনা",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখে আনা (শাব্দিকভাবে: মুখের কাছে আনা বা উচ্চারণের জন্য প্রস্তুত করা)",
+  "figurative_meaning_bn": "উচ্চারণ করা; বলা",
+  "figurative_meaning_en": "to utter; to say",
+  "similar_in_english": [
+    "bring up (in conversation)",
+    "put into words"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কখনো সেই বিষয়টি মুখে আনেনি।",
+    "এমন কথা মুখে আনলে অনেক সমস্যা হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He never brought up that topic.",
+    "Uttering such words can cause a lot of trouble."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "speech and expression"
+  ],
+  "tags": [
+    "speech",
+    "utterance",
+    "expression",
+    "prohibition"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies hesitation or taboo in speaking certain words, rooted in Bengali linguistic norms."
+}

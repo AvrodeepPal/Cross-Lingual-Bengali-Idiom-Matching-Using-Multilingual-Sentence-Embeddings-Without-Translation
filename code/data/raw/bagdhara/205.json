@@ -1,0 +1,41 @@
+{
+  "id": "205",
+  "idiom": "অন্নসঙ্কট",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্নের সঙ্কট (food crisis)",
+  "figurative_meaning_bn": "খাদ্যাভাব",
+  "figurative_meaning_en": "food shortage",
+  "similar_in_english": [
+    "famine",
+    "food scarcity"
+  ],
+  "example_sentences_in_bangla": [
+    "দেশে অন্নসঙ্কট দেখা দিয়েছে, যা কৃষকদের জন্য বড় চ্যালেঞ্জ।",
+    "অন্নসঙ্কটের সময় সরকারকে দ্রুত ব্যবস্থা নিতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "A food shortage has struck the country, posing a major challenge for farmers.",
+    "During the food crisis, the government must take swift action."
+  ],
+  "usage_domain": [
+    "economics",
+    "agriculture",
+    "social issues"
+  ],
+  "tags": [
+    "food",
+    "crisis",
+    "scarcity",
+    "famine"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to historical events like the Bengal Famine of 1943, which caused widespread food shortages in Bengal due to wartime policies and natural disasters."
+  ],
+  "note": "Often used in contexts of national or regional agricultural crises in Bengali-speaking regions."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2532",
+  "idiom": "খরচের খাতায়",
+  "alternative_idioms": [],
+  "literal_meaning": "খরচের খাতায় (expense account book-এ)",
+  "figurative_meaning_bn": "অন্তিম অবস্থা; বাঁচার আশা নেই",
+  "figurative_meaning_en": "Final stage; no hope of survival",
+  "similar_in_english": [
+    "one foot in the grave",
+    "written off",
+    "beyond saving"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অসুস্থতা এতটাই গুরুতর যে, ডাক্তার বলেছেন খরচের খাতায় লেখা হয়েছে।",
+    "ব্যবসাটি এখন খরচের খাতায়, আর লাভের কোনো সম্ভাবনা নেই।"
+  ],
+  "example_sentences_in_english": [
+    "His illness is so severe that the doctors say he's been entered in the expense book.",
+    "The business is now written off as a loss, with no chance of recovery."
+  ],
+  "usage_domain": [
+    "medical",
+    "financial",
+    "everyday conversation"
+  ],
+  "tags": [
+    "death",
+    "hopelessness",
+    "loss",
+    "finality"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from traditional Bengali accounting practices where unrecoverable expenses are noted in a separate ledger, metaphorically applied to hopeless situations."
+}

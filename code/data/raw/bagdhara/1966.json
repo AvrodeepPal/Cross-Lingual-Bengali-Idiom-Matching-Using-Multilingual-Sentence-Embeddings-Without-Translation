@@ -1,0 +1,39 @@
+{
+  "id": "1966",
+  "idiom": "কাতার",
+  "alternative_idioms": [],
+  "literal_meaning": "সারি বা পঙক্তি (row or line)",
+  "figurative_meaning_bn": "পঙক্তি, শ্রেণী, সারি, বড় দল",
+  "figurative_meaning_en": "row, line, series, large group",
+  "similar_in_english": [
+    "in a line",
+    "queue up",
+    "long line"
+  ],
+  "example_sentences_in_bangla": [
+    "দোকানের সামনে লম্বা কাতার লেগেছে।",
+    "ছাত্ররা ক্লাসে কাতার বেঁধে দাঁড়িয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "A long queue has formed in front of the shop.",
+    "The students are standing in a line for class."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "social gatherings",
+    "public services"
+  ],
+  "tags": [
+    "grouping",
+    "assembly",
+    "order"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Arabic 'qatar' meaning a row; commonly used in contexts of waiting or organized groups in Bengali daily life."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "5943",
+  "idiom": "দেনাপাওনা",
+  "alternative_idioms": [],
+  "literal_meaning": "দেনা (ঋণ দেওয়া) এবং পাওনা (প্রাপ্যের অধিকার)",
+  "figurative_meaning_bn": "দেয় পরিশোধ ও প্রাপ্যের প্রাপ্তি",
+  "figurative_meaning_en": "Settlement of debts and receipt of dues",
+  "similar_in_english": [
+    "Settle accounts",
+    "Square the ledger",
+    "Call it even"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসার শেষে দেনাপাওনা করে নেওয়া হলো।",
+    "বন্ধুর সাথে দেনাপাওনা সারিয়ে নাও।"
+  ],
+  "example_sentences_in_english": [
+    "The business settled its debts and receivables at the end.",
+    "Square up the accounts with your friend."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Business",
+    "Daily transactions"
+  ],
+  "tags": [
+    "Accounting",
+    "Settlement",
+    "Debt",
+    "Commerce"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "সমার্থক: হিসাবনিকাশ"
+}

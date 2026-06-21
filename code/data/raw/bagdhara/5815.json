@@ -1,0 +1,41 @@
+{
+  "id": "5815",
+  "idiom": "দিনদুপুর",
+  "alternative_idioms": [],
+  "literal_meaning": "দিনের দুপুর (midday of the day)",
+  "figurative_meaning_bn": "মধ্যাহ্ন, বেলা দ্বিপ্রহর, প্রকাশ্য দিবালোক",
+  "figurative_meaning_en": "broad daylight, midday, openly in the light of day",
+  "similar_in_english": [
+    "in broad daylight",
+    "at high noon"
+  ],
+  "example_sentences_in_bangla": [
+    "দিনদুপুরে এমন অপরাধ করা সাহসের কাজ।",
+    "সবাই দেখতে পেল যখন দিনদুপুরে চুরি হলো।"
+  ],
+  "example_sentences_in_english": [
+    "Committing such a crime in broad daylight takes guts.",
+    "Everyone saw the theft happen in broad daylight."
+  ],
+  "usage_domain": [
+    "proverbs",
+    "daily conversation",
+    "crime descriptions"
+  ],
+  "tags": [
+    "time",
+    "daylight",
+    "openness",
+    "audacity"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from Bengali proverbs highlighting the audacity of crimes like robbery committed openly during the day, emphasizing lack of fear or hiding."
+  ],
+  "note": "Often used to describe bold or brazen actions without concealment."
+}

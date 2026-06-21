@@ -1,0 +1,37 @@
+{
+  "id": "5085",
+  "idiom": "ঠেলাগাড়ী",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতে ঠেলা গাড়ি (pushcart or handcart)",
+  "figurative_meaning_bn": "অলস, ধীরগতিসম্পন্ন ব্যক্তি",
+  "figurative_meaning_en": "A lazy, slow-moving person",
+  "similar_in_english": [
+    "slowpoke",
+    "lazybones"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ঠেলাগাড়ির মতো চলে, কখনো তাড়াতাড়ি কিছু করে না।",
+    "কাজে তার গতি ঠেলাগাড়ির চেয়েও কম।"
+  ],
+  "example_sentences_in_english": [
+    "He moves like a handcart, never in a hurry.",
+    "His pace at work is slower than a handcart."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "descriptive"
+  ],
+  "tags": [
+    "laziness",
+    "slowness",
+    "everyday language"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the slow movement of traditional handcarts in Bengali daily life."
+}

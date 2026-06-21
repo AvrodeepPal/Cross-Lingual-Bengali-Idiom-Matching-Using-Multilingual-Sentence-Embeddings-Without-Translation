@@ -1,0 +1,48 @@
+{
+  "id": "503",
+  "idiom": "আদমের সময়",
+  "alternative_idioms": [
+    "আদিকাণ্ডে",
+    "আদ্দিকালে",
+    "ভূষণ্ডির সময়ে",
+    "মান্ধাতার আমলে"
+  ],
+  "literal_meaning": "আদমের সময় (Adam's time)",
+  "figurative_meaning_bn": "অতি প্রাচীনকালে; বহুকাল আগে",
+  "figurative_meaning_en": "In very ancient times; a long time ago",
+  "similar_in_english": [
+    "Time immemorial",
+    "In the days of Adam",
+    "Since the beginning of time"
+  ],
+  "example_sentences_in_bangla": [
+    "এই গল্প আদমের সময় থেকে চলে আসছে।",
+    "আদমের সময়ের কথা শুনলে মনে হয় যেন ইতিহাসের শুরু।"
+  ],
+  "example_sentences_in_english": [
+    "This story has been passed down since Adam's time.",
+    "Hearing about Adam's time feels like the beginning of history."
+  ],
+  "usage_domain": [
+    "Literature",
+    "Storytelling",
+    "Everyday conversation",
+    "History"
+  ],
+  "tags": [
+    "ancient",
+    "time reference",
+    "biblical",
+    "figurative time"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the era of Adam, the first human according to Abrahamic traditions (Bible and Quran), symbolizing the dawn of humanity and used in Bengali to evoke prehistoric antiquity."
+  ],
+  "note": "The idiom draws from religious narratives but is secularized in common usage to denote extreme antiquity."
+}

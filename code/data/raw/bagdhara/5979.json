@@ -1,0 +1,42 @@
+{
+  "id": "5979",
+  "idiom": "দৌড়ঝাঁপ",
+  "alternative_idioms": [
+    "ধাপ"
+  ],
+  "literal_meaning": "দৌড় (running) + ঝাঁপ (jumping or leaping)",
+  "figurative_meaning_bn": "ছূটোছুটি; দাপাদাপি; দৌড়াদৌড়ি; ব্যস্ততা",
+  "figurative_meaning_en": "running around; bustling about; hurrying; busyness",
+  "similar_in_english": [
+    "running around in circles",
+    "hustle and bustle",
+    "in a flurry"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার আর দৌড়ঝাঁপ করার বয়স নেই।",
+    "প্রজেক্টের জন্য সবাই দৌড়ঝাঁপ করছে।"
+  ],
+  "example_sentences_in_english": [
+    "I'm too old for all this running around.",
+    "Everyone is bustling about for the project."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work",
+    "conversation"
+  ],
+  "tags": [
+    "busyness",
+    "effort",
+    "activity",
+    "synonymous compounds"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a compound of synonymous words (একার্থক সহচর শব্দদ্বয়) evoking physical exertion in daily Bengali life."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7104",
+  "idiom": "ফাঁড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "জ্যোতিষশাস্ত্রে ফাঁসির ফাঁড়া বা মৃত্যুর ফাঁদ",
+  "figurative_meaning_bn": "জ্যোতিষ গণনানুযায়ী মৃত্যুযোগ বা কঠিন বিপদের সম্ভাবনা",
+  "figurative_meaning_en": "According to astrological calculations, the likelihood of death or severe peril",
+  "similar_in_english": [
+    "Dodging a bullet",
+    "On the brink of death",
+    "Under a dark star"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার জন্মকুণ্ডলীতে ফাঁড়া দেখা গেছে, তাই সতর্ক থাকতে হবে।",
+    "ফাঁড়া কাটিয়ে কোনোমতে বেঁচে গেছি এই অ্যাক্সিডেন্ট থেকে।"
+  ],
+  "example_sentences_in_english": [
+    "My horoscope shows a phanda period, so I need to be cautious.",
+    "I've narrowly survived after crossing the phanda in that accident."
+  ],
+  "usage_domain": [
+    "Astrology",
+    "Danger and Survival",
+    "Daily Superstitions"
+  ],
+  "tags": [
+    "জ্যোতিষ",
+    "বিপদ",
+    "মৃত্যু",
+    "সতর্কতা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "উদ্ভব জ্যোতিষশাস্ত্রের প্রাচীন হিন্দু ঐতিহ্য থেকে, যেখানে গ্রহ-নক্ষত্রের ভিত্তিতে মৃত্যুকালীন ফেজ নির্ধারণ করা হয়।"
+  ],
+  "note": "এটি বাংলা সংস্কৃতিতে জ্যোতিষ-ভিত্তিক বিশ্বাসের অংশ, প্রায়শই দৈনন্দিন কথোপকথনে ব্যবহৃত হয়।"
+}

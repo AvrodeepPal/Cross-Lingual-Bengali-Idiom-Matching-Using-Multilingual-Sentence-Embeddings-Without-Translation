@@ -1,0 +1,37 @@
+{
+  "id": "3492",
+  "idiom": "ঘাটলা",
+  "alternative_idioms": [],
+  "literal_meaning": "পাকা/বাঁধানো ঘাট",
+  "figurative_meaning_bn": "দৃঢ় বা স্থায়ী ব্যবস্থা",
+  "figurative_meaning_en": "a solid or permanent arrangement",
+  "similar_in_english": [
+    "rock solid",
+    "set in stone"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ব্যবসা একটা পাকা ঘাটলা।",
+    "এই চুক্তি ঘাটলা, চিন্তা করিস না।"
+  ],
+  "example_sentences_in_english": [
+    "His business is a solid ghat.",
+    "This deal is rock solid, don't worry."
+  ],
+  "usage_domain": [
+    "business",
+    "daily conversation"
+  ],
+  "tags": [
+    "solid",
+    "permanent",
+    "reliable"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to river ghats common in Bengali rural life, symbolizing stability."
+}

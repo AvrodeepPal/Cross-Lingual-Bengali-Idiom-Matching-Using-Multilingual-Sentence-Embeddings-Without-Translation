@@ -1,0 +1,41 @@
+{
+  "id": "9424",
+  "idiom": "শাক দিয়ে মাছ ঢাকা",
+  "alternative_idioms": [],
+  "literal_meaning": "শাক দিয়ে মাছ ঢেকে রাখা (vegetables used to cover fish)",
+  "figurative_meaning_bn": "গুরুতর অপরাধ সামান্য উপায়ে বা সহজে ঢাকার চেষ্টা; যা লুকানো যায় না তা লুকাবার আপ্রাণ চেষ্টা; যা জানাজানি হয়ে গেছে তা নানাকথায় ভুলিয়ে ঢাকা দেবার ব্যর্থ প্রয়াস",
+  "figurative_meaning_en": "Attempt to cover a serious offense with a trivial or easy method; desperate effort to hide what cannot be concealed; futile attempt to gloss over something that has become public knowledge with various excuses",
+  "similar_in_english": [
+    "sweeping something under the rug",
+    "closing the stable door after the horse has bolted"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ভুলটি শাক দিয়ে মাছ ঢাকার মতো লুকাতে চাইছে।",
+    "রাজনীতিতে এমন ঘটনা ঘটলে প্রায়ই শাক দিয়ে মাছ ঢাকার চেষ্টা করা হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He's trying to hide his mistake like covering a fish with vegetables.",
+    "In politics, such incidents often lead to attempts at covering up like hiding fish with greens."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "politics",
+    "scandals"
+  ],
+  "tags": [
+    "deception",
+    "futility",
+    "cover-up",
+    "hypocrisy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the line 'আর কেন প্রাণ বিধুমুখি শাক দিয়ে মাছ ঢাকো' from the famous Bengali play 'Gopal Ure' by a renowned playwright."
+  ],
+  "note": "The idiom draws from everyday rural imagery of market or kitchen scenes where fish cannot be hidden by greens due to its distinct smell."
+}

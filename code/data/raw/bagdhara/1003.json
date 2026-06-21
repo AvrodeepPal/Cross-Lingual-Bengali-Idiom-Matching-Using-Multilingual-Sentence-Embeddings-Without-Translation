@@ -1,0 +1,38 @@
+{
+  "id": "1003",
+  "idiom": "একজাই",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি একক হিসাব বা একপেশে লেখা",
+  "figurative_meaning_bn": "মোটহিসাব",
+  "figurative_meaning_en": "Final accounting or overall balance",
+  "similar_in_english": [
+    "Balancing the books",
+    "Year-end reckoning"
+  ],
+  "example_sentences_in_bangla": [
+    "বছর শেষে তার একজাই করে দেখল, লাভ হয়েছে।",
+    "দোকানের মালিক বার্ষিক একজাই তৈরি করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "At the end of the year, he did his final accounting and saw a profit.",
+    "The shop owner prepared the yearly balance sheet."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Accounting",
+    "Daily life"
+  ],
+  "tags": [
+    "হিসাব",
+    "ব্যবসা",
+    "গ্রামীণ জীবন"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "প্রধানত গ্রামীণ বাংলায় ব্যবহৃত, কৃষি ও ছোট ব্যবসার বার্ষিক হিসাবের জন্য"
+}

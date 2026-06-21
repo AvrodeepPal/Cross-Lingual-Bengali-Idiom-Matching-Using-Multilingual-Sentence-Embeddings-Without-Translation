@@ -1,0 +1,41 @@
+{
+  "id": "8191",
+  "idiom": "মই কাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "মই (সিঁড়ি বা মই) কেড়ে নেওয়া",
+  "figurative_meaning_bn": "আশা দিয়ে পরে নিরাশ করা; বিপদে ফেলে ছেড়ে যাওয়া",
+  "figurative_meaning_en": "Giving hope and then disappointing; abandoning someone in trouble",
+  "similar_in_english": [
+    "Pull the rug out from under someone",
+    "Leave in the lurch"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমাকে মই কাড়া করে দিল, সাহায্যের প্রতিশ্রুতি দিয়ে পরে একা ফেলে গেল।",
+    "ব্যবসায়িক অংশীদারটি মই কাড়া করে চলে গেল, যাতে আমরা বিপদে পড়লাম।"
+  ],
+  "example_sentences_in_english": [
+    "He pulled the ladder away from me by promising help and then abandoning me alone.",
+    "The business partner left us in the lurch, putting us in a difficult situation."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Relationships",
+    "Betrayal"
+  ],
+  "tags": [
+    "disappointment",
+    "abandonment",
+    "deception",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This proverb derives from the rural imagery of helping someone climb a tree using a ladder and then removing it, leaving the person stranded, symbolizing betrayal in everyday Bengali life."
+  ],
+  "note": "Based on traditional proverb (প্রবাদ) rooted in agrarian practices."
+}

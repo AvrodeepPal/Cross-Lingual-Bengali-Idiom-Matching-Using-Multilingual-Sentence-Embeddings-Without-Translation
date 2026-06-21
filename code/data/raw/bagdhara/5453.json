@@ -1,0 +1,41 @@
+{
+  "id": "5453",
+  "idiom": "তীরে এসে তরী ডোবা",
+  "alternative_idioms": [],
+  "literal_meaning": "তীরে পৌঁছে তরী ডুবে যাওয়া",
+  "figurative_meaning_bn": "কাজের শেষদিকে বিফল হওয়া",
+  "figurative_meaning_en": "Failing at the very end of a task or effort",
+  "similar_in_english": [
+    "Snatching defeat from the jaws of victory",
+    "Falling at the last hurdle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে প্রজেক্টটি প্রায় শেষ করেই ছিল, কিন্তু তীরে এসে তরী ডোবা, শেষ মুহূর্তে একটা ভুলে সব নষ্ট হয়ে গেল।",
+    "খেলায় তারা জিততে চলেছিল, কিন্তু তীরে এসে তরী ডোবা, শেষ গোলে আত্মগোল করে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "He was almost done with the project, but like a boat sinking at the shore, a last-minute mistake ruined everything.",
+    "They were about to win the game, but snatching defeat from the jaws of victory, they scored an own goal at the end."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work",
+    "sports"
+  ],
+  "tags": [
+    "failure",
+    "last moment",
+    "proverbial",
+    "cautionary"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the riverine culture of Bengal, where boats (tori) were common for transport, symbolizing the frustration of a safe journey ending in disaster just before reaching the shore."
+  ],
+  "note": "Reflects the precarious nature of life in flood-prone, river-dependent regions of Bengal."
+}

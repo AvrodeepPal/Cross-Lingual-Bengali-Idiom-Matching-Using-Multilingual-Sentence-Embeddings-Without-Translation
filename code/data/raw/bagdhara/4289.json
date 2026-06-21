@@ -1,0 +1,39 @@
+{
+  "id": "4289",
+  "idiom": "ছাড়াছাড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "পরস্পর ছাড়া বা বিচ্ছেদের পুনরাবৃত্তি (reciprocal separation)",
+  "figurative_meaning_bn": "প্রায় সমার্থক শব্দদ্বয়; পরস্পর থেকে সম্পূর্ণ বিচ্ছিন্ন",
+  "figurative_meaning_en": "Nearly synonymous words; complete separation from each other",
+  "similar_in_english": [
+    "go their separate ways",
+    "part company"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই বন্ধুর মধ্যে ছাড়াছাড়ি হয়ে গেছে।",
+    "বিয়ের পর তাদের ছাড়াছাড়ি হলো।"
+  ],
+  "example_sentences_in_english": [
+    "The two friends have parted ways completely.",
+    "They separated completely after the marriage."
+  ],
+  "usage_domain": [
+    "relationships",
+    "friendships",
+    "daily conversation"
+  ],
+  "tags": [
+    "separation",
+    "breakup",
+    "mutual parting",
+    "reduplicative idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses reduplication for emphasis, common in Bengali expressive language."
+}

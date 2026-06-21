@@ -1,0 +1,38 @@
+{
+  "id": "452",
+  "idiom": "আটাশে ছেলে",
+  "alternative_idioms": [],
+  "literal_meaning": "আট মাসে জন্মগ্রহণকারী ছেলে",
+  "figurative_meaning_bn": "আটমাসে ভূমিষ্ঠ ছেলে",
+  "figurative_meaning_en": "A boy born in the eighth month",
+  "similar_in_english": [
+    "Premature baby",
+    "Eight-month-old infant"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আটাশে ছেলে হওয়ায় তার শরীর দুর্বল ছিল।",
+    "গ্রামে আটাশে ছেলে জন্মলে সবাই চিন্তিত হয়ে পড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "He was an eight-month baby, so his body was weak.",
+    "In the village, everyone gets worried if a boy is born prematurely in the eighth month."
+  ],
+  "usage_domain": [
+    "Family",
+    "Health",
+    "Birth"
+  ],
+  "tags": [
+    "premature birth",
+    "infant",
+    "traditional expression"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom refers to a premature birth, common in rural Bengali contexts to describe early deliveries."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1788",
+  "idiom": "কাঁটা দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁটা দেওয়া (thorn to give)",
+  "figurative_meaning_bn": "বাধা সৃষ্টি করা",
+  "figurative_meaning_en": "To create an obstacle or hindrance",
+  "similar_in_english": [
+    "Put a spoke in one's wheel",
+    "Throw a wrench in the works"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সাফল্যে কাঁটা দেওয়ার জন্য তার শত্রুরা চক্রান্ত করছে।",
+    "প্রকল্পটিতে কাঁটা দেওয়া হয়েছে অপ্রত্যাশিত সমস্যার কারণে।"
+  ],
+  "example_sentences_in_english": [
+    "His rivals are plotting to put a thorn in his success.",
+    "The project faced obstacles due to unexpected hurdles."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Politics",
+    "Workplace"
+  ],
+  "tags": [
+    "hindrance",
+    "obstacle",
+    "interference",
+    "negative action"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the imagery of thorns causing pain or blockage, common in agrarian Bengali contexts."
+}

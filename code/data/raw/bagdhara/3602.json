@@ -1,0 +1,41 @@
+{
+  "id": "3602",
+  "idiom": "ঘোড়ার গোয়ালে ভেড়া ঢোকা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘোড়ার গোয়ালে ভেড়া ঢোকানো (putting a sheep into a horse's stable)",
+  "figurative_meaning_bn": "হটকারী সিদ্ধান্ত",
+  "figurative_meaning_en": "hasty or rash decision",
+  "similar_in_english": [
+    "jumping the gun",
+    "act in haste, repent at leisure"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ঘোড়ার গোয়ালে ভেড়া ঢোকার মতো হটকারী সিদ্ধান্ত নিয়ে চাকরি ছেড়ে দিল।",
+    "ব্যবসায়ে ঘোড়ার গোয়ালে ভেড়া ঢোকা না করে ভালো করে চিন্তা করো।"
+  ],
+  "example_sentences_in_english": [
+    "He quit his job like putting a sheep in a horse's stable, making a hasty decision.",
+    "In business, don't make a rash decision like putting a sheep in a horse's stable; think carefully."
+  ],
+  "usage_domain": [
+    "decision-making",
+    "everyday advice",
+    "rural proverbs"
+  ],
+  "tags": [
+    "hasty",
+    "inappropriate action",
+    "animal metaphor",
+    "proverbial warning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from rural Bengali agrarian life, where mixing incompatible livestock like sheep and horses in the same stable leads to chaos, symbolizing ill-considered actions."
+  ],
+  "note": "Emphasizes the mismatch and potential harm of impulsive choices in traditional contexts."
+}

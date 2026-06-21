@@ -1,0 +1,39 @@
+{
+  "id": "450",
+  "idiom": "আটপৌরে ভাষা",
+  "alternative_idioms": [],
+  "literal_meaning": "সাধারণ জনগণের ভাষা (language of the common masses)",
+  "figurative_meaning_bn": "কথ্যভাষা; চলতি সাধারণ বা সর্বদা ব্যবহারের ভাষা",
+  "figurative_meaning_en": "Colloquial language; everyday common or perpetually used language",
+  "similar_in_english": [
+    "vernacular",
+    "common parlance",
+    "street talk"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের লোকেরা আটপৌরে ভাষায় কথা বলে।",
+    "সাহিত্যে আটপৌরে ভাষা ব্যবহার করে গল্পগুলো আরও জীবন্ত হয়।"
+  ],
+  "example_sentences_in_english": [
+    "The villagers speak in the colloquial language of the masses.",
+    "Using everyday common language makes the stories more lively in literature."
+  ],
+  "usage_domain": [
+    "linguistics",
+    "daily conversation",
+    "literature"
+  ],
+  "tags": [
+    "colloquial",
+    "vernacular",
+    "folk language"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the language spoken by the ordinary Bengali populace, emphasizing accessibility over formal dialects."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "5790",
+  "idiom": "দিকদারি",
+  "alternative_idioms": [],
+  "literal_meaning": "দিকের অবস্থা বা দিকহারা অবস্থা",
+  "figurative_meaning_bn": "বিরক্তিকর অবস্থা",
+  "figurative_meaning_en": "A state of confusion or perplexity",
+  "similar_in_english": [
+    "At a loss",
+    "All at sea"
+  ],
+  "example_sentences_in_bangla": [
+    "এই জটিল সমস্যায় সে পুরোপুরি দিকদারিতে পড়ে গেছে।",
+    "পরীক্ষার প্রস্তুতিতে তার মনে দিকদারি দেখা দিচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is completely at a loss in this complicated problem.",
+    "She is feeling perplexed while preparing for the exam."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Emotional states"
+  ],
+  "tags": [
+    "confusion",
+    "irritation",
+    "perplexity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a mental state of being directionless, common in Bengali colloquial speech"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8803",
+  "idiom": "মুখের উপর কথা বলা",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখের উপর কথা বলা (face-এর উপর কথা বলা)",
+  "figurative_meaning_bn": "বাচালতা করা; তর্ক-বিতর্ক করা",
+  "figurative_meaning_en": "To be garrulous or talkative; to engage in arguments or debates",
+  "similar_in_english": [
+    "talk back",
+    "answer back",
+    "speak one's mind boldly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বড়দের মুখের উপর কথা বলে, যা অভদ্রতা।",
+    "বিতর্কের সময় সবাই মুখের উপর কথা বলতে শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "He talks back to his elders, which is rude.",
+    "During the debate, everyone started talking back to each other."
+  ],
+  "usage_domain": [
+    "conversation",
+    "family interactions",
+    "debates"
+  ],
+  "tags": [
+    "talkative",
+    "argumentative",
+    "rudeness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali cultural norms around respect and polite communication."
+}

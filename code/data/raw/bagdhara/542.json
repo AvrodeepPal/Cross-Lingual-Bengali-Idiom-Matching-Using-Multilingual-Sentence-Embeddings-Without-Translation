@@ -1,0 +1,39 @@
+{
+  "id": "542",
+  "idiom": "আপ-খোরাকি",
+  "alternative_idioms": [],
+  "literal_meaning": "নিজের খরচে খাবারের ব্যবস্থা",
+  "figurative_meaning_bn": "নিজের খরচে খাবার ব্যবস্থা করার চাকরির সর্ত",
+  "figurative_meaning_en": "A job condition requiring one to arrange and pay for their own food",
+  "similar_in_english": [
+    "self-catering position",
+    "no board included"
+  ],
+  "example_sentences_in_bangla": [
+    "এই চাকরিতে আপ-খোরাকি, তাই আলাদা খরচ করতে হবে।",
+    "গ্রামের স্কুল মাস্টারির চাকরি আপ-খোরাকি ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "This job is on an ap-khoraki basis, so we'll have to budget for food separately.",
+    "The village schoolmaster's position was ap-khoraki, without provided meals."
+  ],
+  "usage_domain": [
+    "employment",
+    "rural jobs",
+    "traditional work"
+  ],
+  "tags": [
+    "চাকরি",
+    "খাবার",
+    "অর্থনৈতিক",
+    "গ্রামীণ"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি ঐতিহ্যবাহী বাংলা চাকরির শর্তাবলী থেকে উদ্ভূত, বিশেষ করে গ্রামীণ এলাকায়।"
+}

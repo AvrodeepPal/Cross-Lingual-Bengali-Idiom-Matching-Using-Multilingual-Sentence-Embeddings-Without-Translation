@@ -1,0 +1,41 @@
+{
+  "id": "6168",
+  "idiom": "নজর লাগা",
+  "alternative_idioms": [],
+  "literal_meaning": "কুদৃষ্টির আঘাতে পড়া",
+  "figurative_meaning_bn": "কুদৃষ্টিতে পড়া",
+  "figurative_meaning_en": "To be afflicted by the evil eye",
+  "similar_in_english": [
+    "Give the evil eye",
+    "Jinxed by bad luck"
+  ],
+  "example_sentences_in_bangla": [
+    "শিশুটির নজর লেগেছে, তাই হঠাৎ অসুস্থ হয়ে পড়েছে।",
+    "নতুন গাড়িতে নজর লাগার ভয়ে আমি কাজুকাঁঠি বেঁধে রেখেছি।"
+  ],
+  "example_sentences_in_english": [
+    "The child has been struck by the evil eye, that's why he suddenly fell ill.",
+    "I'm afraid the new car will get the evil eye, so I've tied a lemon and chili to ward it off."
+  ],
+  "usage_domain": [
+    "Superstition",
+    "Daily conversation",
+    "Health and misfortune"
+  ],
+  "tags": [
+    "evil eye",
+    "nazar",
+    "superstition",
+    "misfortune"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The concept of 'nazar' or evil eye is rooted in ancient folklore across South Asia and the Middle East, often linked to beliefs in protective charms like black dots or amulets to avert misfortune."
+  ],
+  "note": "Commonly used in Bengali households to explain sudden misfortunes, especially for children and new possessions."
+}

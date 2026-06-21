@@ -1,0 +1,37 @@
+{
+  "id": "541",
+  "idiom": "আপকা ওয়াস্তে",
+  "alternative_idioms": [],
+  "literal_meaning": "আপনার জন্য বা আপনার স্বার্থে",
+  "figurative_meaning_bn": "নির্দিষ্ট ব্যক্তির জন্য; চাটুকার; তোষামুদে",
+  "figurative_meaning_en": "for a specific person; sycophant; flatterer",
+  "similar_in_english": [
+    "brown-noser",
+    "apple polisher"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আপকা ওয়াস্তে সবসময় মিথ্যে প্রশংসা করে।",
+    "এই চাকরিটা আপকা ওয়াস্তে পেয়েছি, কিন্তু আসলে চাটুকারিতার ফল।"
+  ],
+  "example_sentences_in_english": [
+    "He always flatters to please you specifically.",
+    "I got this job for your sake, but really through sycophancy."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "workplace politics"
+  ],
+  "tags": [
+    "flattery",
+    "sycophancy",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom implies insincere actions to gain favor, rooted in everyday Bengali social dynamics."
+}

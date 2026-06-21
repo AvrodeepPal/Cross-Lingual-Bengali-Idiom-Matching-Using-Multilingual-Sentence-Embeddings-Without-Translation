@@ -1,0 +1,37 @@
+{
+  "id": "7200",
+  "idiom": "ফ্যাঁকড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "গিঁট লাগা বা জট পাকানো (tangled or knotted)",
+  "figurative_meaning_bn": "আনুসঙ্গিক বাধা, ঝামেলা",
+  "figurative_meaning_en": "unforeseen complication or hassle",
+  "similar_in_english": [
+    "a snag",
+    "a hitch in the plans"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রকল্পে ফ্যাঁকড়া এসে গেছে।",
+    "এই কাজে অনেক ফ্যাঁকড়া আছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's a snag in the project.",
+    "This job has a lot of hitches."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "problem-solving"
+  ],
+  "tags": [
+    "obstacle",
+    "trouble",
+    "complication"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression evoking the sound or feel of entanglement"
+}

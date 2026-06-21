@@ -1,0 +1,38 @@
+{
+  "id": "7687",
+  "idiom": "বিধি বাম",
+  "alternative_idioms": [],
+  "literal_meaning": "বিধি (divine will or fate) বাম (left or unfavorable)",
+  "figurative_meaning_bn": "বিধাতা অপ্রসন্ন",
+  "figurative_meaning_en": "The creator is displeased",
+  "similar_in_english": [
+    "The gods are against us",
+    "Fate is unkind"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকের দুর্ঘটনায় বিধি বাম হয়েছে বলে মনে হচ্ছে।",
+    "পরীক্ষায় ফেল করার পর সে বলল, বিধি বাম।"
+  ],
+  "example_sentences_in_english": [
+    "It feels like the creator is displeased with today's accident.",
+    "After failing the exam, he said the fates were against him."
+  ],
+  "usage_domain": [
+    "religion",
+    "misfortune",
+    "everyday expression"
+  ],
+  "tags": [
+    "fate",
+    "divine displeasure",
+    "superstition"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the idea of divine disfavor in Hindu-Bengali traditions"
+}

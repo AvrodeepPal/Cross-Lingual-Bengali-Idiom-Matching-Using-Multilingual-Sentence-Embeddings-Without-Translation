@@ -1,0 +1,40 @@
+{
+  "id": "7205",
+  "idiom": "ফ্যাচফ্যাচ করা",
+  "alternative_idioms": [],
+  "literal_meaning": "ক্রমাগত ফ্যাচফ্যাচ শব্দ করা (অনুকরণমূলক শব্দ যা বকবক বা জঞ্জনাতির শব্দের অনুরণন)",
+  "figurative_meaning_bn": "ক্রমাগত বকবক করা; বাজে বকা; বিরক্তিকর কথা বলা",
+  "figurative_meaning_en": "To chatter incessantly; to talk nonsense; to speak in an irritating manner",
+  "similar_in_english": [
+    "to yap",
+    "to nag",
+    "to blabber"
+  ],
+  "example_sentences_in_bangla": [
+    "বাচ্চাটা সারাদিন ফ্যাচফ্যাচ করে মাকে বিরক্ত করছে।",
+    "সে কানের কাছে ফ্যাচফ্যাচ করে যাচ্ছে, শোনা যাচ্ছে না কিছু।"
+  ],
+  "example_sentences_in_english": [
+    "The child is irritating his mother by chattering all day long.",
+    "He's yapping in my ear, I can't hear anything else."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation",
+    "family interactions"
+  ],
+  "tags": [
+    "annoyance",
+    "chatter",
+    "onomatopoeic",
+    "spoken Bengali"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is onomatopoeic, imitating the sound of persistent, annoying speech common in Bengali oral tradition."
+}

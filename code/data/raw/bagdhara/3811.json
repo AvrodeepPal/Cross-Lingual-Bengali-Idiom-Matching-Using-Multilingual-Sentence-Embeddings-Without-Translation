@@ -1,0 +1,38 @@
+{
+  "id": "3811",
+  "idiom": "চাগাড় দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পশুকে চাগাড় (উত্তেজক যন্ত্র) দেওয়া বা লাগানো",
+  "figurative_meaning_bn": "উত্তেজিত হয়ে ওঠা; প্রবলভাব ধারণ করা",
+  "figurative_meaning_en": "To become excited or agitated; to intensify strongly",
+  "similar_in_english": [
+    "to get fired up",
+    "to spur into action"
+  ],
+  "example_sentences_in_bangla": [
+    "দুর্বুদ্ধি তার মাথায় চাগাড় দিয়েছে।",
+    "বিতর্কে তার চাগাড় দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Foolishness has goaded his mind into excitement.",
+    "The debate has riled him up intensely."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation",
+    "arguments"
+  ],
+  "tags": [
+    "excitement",
+    "agitation",
+    "rural origin"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Origin likely from agricultural practices involving animal herding in Bengal"
+}

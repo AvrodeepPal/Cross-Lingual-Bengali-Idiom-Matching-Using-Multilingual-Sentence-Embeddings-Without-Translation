@@ -1,0 +1,42 @@
+{
+  "id": "4588",
+  "idiom": "জাতক্রোধ",
+  "alternative_idioms": [],
+  "literal_meaning": "জাত (caste/race) + ক্রোধ (anger/wrath)",
+  "figurative_meaning_bn": "জাতপাত বা জাতিগত ভেদাভেদ থেকে উৎপন্ন বিদ্বেষ",
+  "figurative_meaning_en": "Hatred arising from caste or ethnic discrimination",
+  "similar_in_english": [
+    "racial animosity",
+    "caste bigotry"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জাতক্রোধের কারণে সমাজে বিভেদ সৃষ্টি হয়েছে।",
+    "জাতক্রোধ থেকে উদ্ভূত এই ঘটনা সকলকে চিন্তিত করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "His caste hatred has created divisions in society.",
+    "This incident stemming from racial animosity has worried everyone."
+  ],
+  "usage_domain": [
+    "social issues",
+    "discrimination",
+    "politics"
+  ],
+  "tags": [
+    "caste",
+    "discrimination",
+    "hatred",
+    "ethnicity",
+    "prejudice"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Rooted in the historical caste system prevalent in Bengali and broader Indian society, influenced by colonial and pre-colonial social structures."
+  ],
+  "note": "The idiom reflects ongoing social tensions in Bengali culture related to jati (caste) divisions."
+}

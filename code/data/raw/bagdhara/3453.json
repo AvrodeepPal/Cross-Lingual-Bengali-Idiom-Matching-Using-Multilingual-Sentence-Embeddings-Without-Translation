@@ -1,0 +1,40 @@
+{
+  "id": "3453",
+  "idiom": "ঘরে আগুন দেওয়া",
+  "alternative_idioms": [
+    "ঘর ভাঙা"
+  ],
+  "literal_meaning": "ঘরে আগুন জ্বালানো (to light a fire in the house)",
+  "figurative_meaning_bn": "পরিজনদের ধ্বংসসাধন করা; সংসারের শান্তি নষ্ট করা",
+  "figurative_meaning_en": "To cause destruction to family members; to ruin the peace of the household",
+  "similar_in_english": [
+    "to stir up trouble at home",
+    "to sow discord in the family"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথায় ঘরে আগুন দিয়েছে।",
+    "নতুন বউ এসে ঘরে আগুন দিচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "His words have set the house on fire.",
+    "The new bride is stirring up trouble in the home."
+  ],
+  "usage_domain": [
+    "family",
+    "domestic life",
+    "relationships"
+  ],
+  "tags": [
+    "family conflict",
+    "destruction",
+    "chaos"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of marital or familial discord, evoking traditional Bengali household tensions."
+}

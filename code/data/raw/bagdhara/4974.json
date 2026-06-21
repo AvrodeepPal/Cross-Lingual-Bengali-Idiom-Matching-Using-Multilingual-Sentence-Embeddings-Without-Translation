@@ -1,0 +1,44 @@
+{
+  "id": "4974",
+  "idiom": "টুমটাম",
+  "alternative_idioms": [
+    "অল্পস্বল্প",
+    "টুকটাক",
+    "টুকিটাকি"
+  ],
+  "literal_meaning": "ছোট ছোট টুকরো বা অল্প পরিমাণের অনুকরণমূলক শব্দ",
+  "figurative_meaning_bn": "অল্প বা সামান্য কিছু",
+  "figurative_meaning_en": "A small or insignificant amount",
+  "similar_in_english": [
+    "bits and pieces",
+    "a smidgen",
+    "trifles"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কাছে টুমটাম টাকা আছে।",
+    "এটা টুমটাম খাবার মাত্র।"
+  ],
+  "example_sentences_in_english": [
+    "He has only a little bit of money.",
+    "This is just a small amount of food."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "commerce",
+    "daily life"
+  ],
+  "tags": [
+    "quantity",
+    "small amount",
+    "insignificant",
+    "reduplicative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a reduplicative expression common in colloquial Bengali for denoting minimal quantities."
+}

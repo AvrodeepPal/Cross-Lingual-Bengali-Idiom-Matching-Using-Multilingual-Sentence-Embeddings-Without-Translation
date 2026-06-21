@@ -1,0 +1,42 @@
+{
+  "id": "5494",
+  "idiom": "তেড়েফুঁড়ে",
+  "alternative_idioms": [
+    "তেড়েমেড়ে"
+  ],
+  "literal_meaning": "তেড়ে এসে ফুঁড়ে ফেটে (দ্রুত এবং উচ্ছ্বাসের সাথে বলা)",
+  "figurative_meaning_bn": "সাহসের সাথে মুখ ফুটে",
+  "figurative_meaning_en": "To speak boldly or audaciously without hesitation",
+  "similar_in_english": [
+    "Shoot from the hip",
+    "Speak one's mind",
+    "Blurt out"
+  ],
+  "example_sentences_in_bangla": [
+    "তেড়েফুঁড়ে কথা বলে সে সবসময় সমস্যায় পড়ে।",
+    "সভায় তেড়েফুঁড়ে তার মতামত প্রকাশ করল।"
+  ],
+  "example_sentences_in_english": [
+    "He always gets into trouble by speaking teredphure.",
+    "She expressed her opinion teredphure in the meeting."
+  ],
+  "usage_domain": [
+    "Conversation",
+    "Public speaking",
+    "Everyday language"
+  ],
+  "tags": [
+    "boldness",
+    "audacity",
+    "rash speech",
+    "expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Onomatopoeic expression mimicking hasty, forceful speech common in colloquial Bengali."
+}

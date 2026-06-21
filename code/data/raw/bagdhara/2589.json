@@ -1,0 +1,38 @@
+{
+  "id": "2589",
+  "idiom": "খাতা লেখা",
+  "alternative_idioms": [],
+  "literal_meaning": "খাতায় লেখা (writing in a notebook)",
+  "figurative_meaning_bn": "দৈনন্দিন জমাখরচের হিসাব রাখা",
+  "figurative_meaning_en": "keeping accounts of daily income and expenses",
+  "similar_in_english": [
+    "keep the books",
+    "balance the books"
+  ],
+  "example_sentences_in_bangla": [
+    "সে প্রতিদিন খাতা লেখা করে তার পরিবারের খরচের হিসাব রাখে।",
+    "ব্যবসায়ীরা খাতা লেখা না করলে লোকসান হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "She maintains her family's budget by writing in a notebook every day.",
+    "Businessmen who don't keep accounts end up in loss."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily life",
+    "household management"
+  ],
+  "tags": [
+    "accounting",
+    "practical",
+    "routine"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali practices of manual record-keeping in households and small businesses."
+}

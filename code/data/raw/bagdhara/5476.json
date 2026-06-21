@@ -1,0 +1,48 @@
+{
+  "id": "5476",
+  "idiom": "তুলকালাম কাণ্ড",
+  "alternative_idioms": [
+    "কুরুক্ষেত্র কাণ্ড",
+    "খণ্ডপ্রলয়",
+    "ধুন্ধুমারকাণ্ড",
+    "মহামারিকাণ্ড",
+    "লঙ্কাকাণ্ড"
+  ],
+  "literal_meaning": "তুলকালামের ঘটনা বা বিপর্যয়কর ঘটনা (তুলকালাম: ইসলামী ঐতিহ্যে নূহের জলপ্রলয়ের মতো মহাপ্লাবন)",
+  "figurative_meaning_bn": "তুমুল ঝগড়া, প্রচণ্ড গোলমাল",
+  "figurative_meaning_en": "Tumultuous quarrel, intense commotion or chaos",
+  "similar_in_english": [
+    "All hell broke loose",
+    "Raise a storm",
+    "Uproar and pandemonium"
+  ],
+  "example_sentences_in_bangla": [
+    "পাড়ায় তুলকালাম কাণ্ড শুরু হয়ে গেছে দুই পরিবারের ঝগড়ায়।",
+    "সভায় তুলকালাম কাণ্ড চলছে, কেউ কথা শুনছে না।"
+  ],
+  "example_sentences_in_english": [
+    "A tulkalam kand has started in the neighborhood due to the fight between two families.",
+    "There's a tulkalam kand going on in the meeting; no one is listening."
+  ],
+  "usage_domain": [
+    "Social conflicts",
+    "Public gatherings",
+    "Family disputes"
+  ],
+  "tags": [
+    "chaos",
+    "quarrel",
+    "commotion",
+    "Islamic reference"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the 'Tulkalam' or great deluge mentioned in Islamic tradition, akin to Noah's flood in the Quran, symbolizing catastrophic events."
+  ],
+  "note": "This idiom draws from religious narratives to describe extreme disorder, common in Bengali Muslim-influenced expressions."
+}

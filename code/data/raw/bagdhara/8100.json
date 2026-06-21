@@ -1,0 +1,41 @@
+{
+  "id": "8100",
+  "idiom": "ভুরু কোঁচকানো",
+  "alternative_idioms": [
+    "ভুরু বাঁকানো"
+  ],
+  "literal_meaning": "ভুরু কুঁচকে ফেলা বা বাঁকানো (to furrow or arch the eyebrows)",
+  "figurative_meaning_bn": "অবিশ্বাস বা বিরক্তি প্রকাশ করা",
+  "figurative_meaning_en": "to express disbelief or annoyance",
+  "similar_in_english": [
+    "to raise an eyebrow",
+    "to frown",
+    "to knit one's brows"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অদ্ভুত গল্প শুনে সবাই ভুরু কোঁচকাল।",
+    "বিরক্ত হয়ে সে ভুরু বাঁকিয়ে চলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone furrowed their brows upon hearing his strange story.",
+    "Annoyed, she arched her eyebrows and walked away."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "emotional expression"
+  ],
+  "tags": [
+    "facial expression",
+    "disbelief",
+    "annoyance",
+    "non-verbal communication"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects common non-verbal cues in Bengali social interactions."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6574",
+  "idiom": "পথ জোড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পথকে জোড়া দেওয়া (path joined or closed)",
+  "figurative_meaning_bn": "বাধা দেওয়া; যাওয়ার পথ বন্ধ করা",
+  "figurative_meaning_en": "To obstruct; to block the way",
+  "similar_in_english": [
+    "Block the way",
+    "Stand in someone's path",
+    "Throw obstacles in the way"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার সাফল্যের পথ জোড়া দিয়েছে।",
+    "পুলিশ রাস্তায় বাধা স্থাপন করে পথ জোড়া করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has blocked my path to success.",
+    "The police set up barriers and blocked the road."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Conflicts and obstacles"
+  ],
+  "tags": [
+    "obstruction",
+    "hindrance",
+    "blockage"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday experiences of physical or metaphorical barriers in Bengali culture."
+}

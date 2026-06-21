@@ -1,0 +1,42 @@
+{
+  "id": "5240",
+  "idiom": "ঢাকের পিঠে বাঁশ",
+  "alternative_idioms": [
+    "ঢাকের বাঁয়া"
+  ],
+  "literal_meaning": "ঢাকের পিঠে বাঁশ (drum's back/surface with bamboo)",
+  "figurative_meaning_bn": "অনাবশ্যক বস্তু",
+  "figurative_meaning_en": "An unnecessary or futile thing",
+  "similar_in_english": [
+    "a square peg in a round hole",
+    "barking up the wrong tree"
+  ],
+  "example_sentences_in_bangla": [
+    "এই প্রস্তাব তো ঢাকের পিঠে বাঁশ, কোনো কাজে লাগবে না।",
+    "তার চেষ্টা ঢাকের পিঠে বাঁশের মতো ব্যর্থ হবে।"
+  ],
+  "example_sentences_in_english": [
+    "This proposal is like bamboo on a drum's back; it won't work at all.",
+    "His effort will be futile, just like putting bamboo on a drum."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation",
+    "expressing futility"
+  ],
+  "tags": [
+    "futility",
+    "impossibility",
+    "traditional instruments"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom originates from the traditional Bengali drum (dhak), which is played with sticks, not bamboo, highlighting the absurdity of an ill-suited or impossible action."
+  ],
+  "note": "Refers to the cultural use of dhak in festivals and rural music."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "1641",
+  "idiom": "কলকে পাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "তেলকল বা কল পাওয়া (oil mill or press to obtain)",
+  "figurative_meaning_bn": "আসরে মর্যাদা পাওয়া; খতির-যত্ন পাওয়া; সম্মান/সমাদর/স্বীকৃতি পাওয়া; উপেক্ষিত না হওয়া",
+  "figurative_meaning_en": "To receive respect in gatherings; to be treated with care and honor; to gain recognition; not to be ignored",
+  "similar_in_english": [
+    "to be held in high regard",
+    "to get one's due respect",
+    "to command attention"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় তার কথা শোনা হয় কারণ সে কলকে পায়।",
+    "গ্রামের বড় মানুষরা সবসময় কলকে পান, তাই সকলে তাদের সম্মান করে।"
+  ],
+  "example_sentences_in_english": [
+    "His words are heard in meetings because he receives the oil mill honor.",
+    "Village elders always get the oil mill treatment, so everyone respects them."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "community gatherings",
+    "daily respect"
+  ],
+  "tags": [
+    "honor",
+    "attention",
+    "recognition",
+    "social status"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from rural Bengali life where the 'kol' (traditional oil expeller) was a valuable tool, symbolizing importance and care given to essential community assets."
+  ],
+  "note": "The idiom reflects traditional agrarian values in Bengal."
+}

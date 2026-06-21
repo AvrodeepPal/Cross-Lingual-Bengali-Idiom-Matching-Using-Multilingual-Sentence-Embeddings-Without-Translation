@@ -1,0 +1,40 @@
+{
+  "id": "1214",
+  "idiom": "এমনি এমনি",
+  "alternative_idioms": [
+    "শুধু শুধু"
+  ],
+  "literal_meaning": "এমনভাবে এমনভাবে (শুধুমাত্র তেমনি করে, কোনো কারণ ছাড়াই)",
+  "figurative_meaning_bn": "অপ্রয়োজনে; বিনাকারণে",
+  "figurative_meaning_en": "Without reason; unnecessarily",
+  "similar_in_english": [
+    "For no good reason",
+    "Out of the blue",
+    "Just like that"
+  ],
+  "example_sentences_in_bangla": [
+    "এমনি এমনি কেন এত রাগ করছ?",
+    "সে এমনি এমনি চলে গেল বাড়ি থেকে।"
+  ],
+  "example_sentences_in_english": [
+    "Why are you so angry for no reason?",
+    "He just left home without any reason."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "informal speech"
+  ],
+  "tags": [
+    "causeless",
+    "unnecessary",
+    "spontaneous"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in everyday Bengali to express actions without apparent cause, reflecting casual linguistic patterns."
+}

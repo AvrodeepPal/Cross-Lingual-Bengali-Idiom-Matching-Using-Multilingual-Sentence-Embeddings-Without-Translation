@@ -1,0 +1,41 @@
+{
+  "id": "1681",
+  "idiom": "কলজে পুড়ে খাঁক",
+  "alternative_idioms": [
+    "কলিজা পুড়ে খাঁক"
+  ],
+  "literal_meaning": "হৃদয়ে পোড়া খাক",
+  "figurative_meaning_bn": "শোকে দুঃখে হৃদয় পুড়ে ছাই",
+  "figurative_meaning_en": "The heart burns to ashes in grief and sorrow",
+  "similar_in_english": [
+    "Heartburn of grief",
+    "Burning with sorrow"
+  ],
+  "example_sentences_in_bangla": [
+    "সন্তানের মৃত্যুতে তার কলজে পুড়ে খাঁক হয়ে গেছে।",
+    "বিচ্ছেদের যন্ত্রণায় তার কলজে পুড়ে খাঁক।"
+  ],
+  "example_sentences_in_english": [
+    "Her heart burns to ashes with grief over her child's death.",
+    "His heart is burning to ashes in the pain of separation."
+  ],
+  "usage_domain": [
+    "emotions",
+    "sorrow",
+    "daily conversation"
+  ],
+  "tags": [
+    "দুঃখ",
+    "শোক",
+    "হৃদয়",
+    "আবেগ"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variant forms reflect dialectical differences in pronouncing 'heart' as 'কলজ' or 'কলিজা'."
+}

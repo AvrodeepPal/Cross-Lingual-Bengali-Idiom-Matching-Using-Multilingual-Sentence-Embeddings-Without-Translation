@@ -1,0 +1,40 @@
+{
+  "id": "1265",
+  "idiom": "ওয়ারিসৎনামা",
+  "alternative_idioms": [
+    "ওসীয়ৎনামা"
+  ],
+  "literal_meaning": "ওয়ারিসের নামা বা দলিল",
+  "figurative_meaning_bn": "শেষ ইচ্ছাপত্র",
+  "figurative_meaning_en": "Last will and testament",
+  "similar_in_english": [
+    "Last will and testament"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সম্পত্তির বণ্টনের জন্য ওয়ারিসৎনামা লেখা হয়েছে।",
+    "পিতার ওয়ারিসৎনামা অনুসারে সম্পত্তি ভাগ হবে।"
+  ],
+  "example_sentences_in_english": [
+    "A will has been written for the distribution of his property.",
+    "The property will be divided according to the father's last will and testament."
+  ],
+  "usage_domain": [
+    "legal",
+    "inheritance"
+  ],
+  "tags": [
+    "আইনি",
+    "সম্পত্তি",
+    "ইসলামী আইন"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "এটি আরবি 'ওয়াসিয়্যাহ' শব্দ থেকে উদ্ভূত, যা ইসলামী আইনে উত্তরাধিকারের শেষ ইচ্ছাপত্রকে নির্দেশ করে।"
+  ],
+  "note": "এটি প্রধানত মুসলিম সম্প্রদায়ে ব্যবহৃত আইনি শব্দ, যদিও বাংলায় সাধারণভাবে বোঝা যায়।"
+}

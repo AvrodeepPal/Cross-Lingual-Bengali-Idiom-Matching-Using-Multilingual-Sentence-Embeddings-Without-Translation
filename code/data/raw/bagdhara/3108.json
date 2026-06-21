@@ -1,0 +1,39 @@
+{
+  "id": "3108",
+  "idiom": "গাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "গাওয়া (গান গাওয়ার অর্থে, কিন্তু এখানে সাক্ষ্যের অর্থে ব্যবহৃত)",
+  "figurative_meaning_bn": "সাক্ষ্য",
+  "figurative_meaning_en": "testimony",
+  "similar_in_english": [
+    "bear witness",
+    "give evidence"
+  ],
+  "example_sentences_in_bangla": [
+    "আদালতে তার গাওয়া খুবই গুরুত্বপূর্ণ।",
+    "ঘটনার সত্যতা নিশ্চিত করতে অন্তত তিনজনের গাওয়া দরকার।"
+  ],
+  "example_sentences_in_english": [
+    "His testimony is very important in court.",
+    "At least three testimonies are needed to confirm the truth of the incident."
+  ],
+  "usage_domain": [
+    "legal",
+    "judicial"
+  ],
+  "tags": [
+    "সাক্ষ্য",
+    "আইনি",
+    "ধর্মীয়"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এটি ইসলামী আইনের সাক্ষ্য প্রদানের ধারণা থেকে উদ্ভূত, যেখানে একাধিক সাক্ষীর প্রয়োজন হয় সত্যতা যাচাইয়ের জন্য।"
+  ],
+  "note": "প্রধানত মুসলিম সম্প্রদায়ে ব্যবহৃত, উর্দু/আরবি 'গাওয়াহ' থেকে এসেছে।"
+}

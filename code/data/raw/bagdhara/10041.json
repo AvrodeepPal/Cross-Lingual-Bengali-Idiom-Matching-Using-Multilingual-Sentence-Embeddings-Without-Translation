@@ -1,0 +1,41 @@
+{
+  "id": "10041",
+  "idiom": "হাড় কালি হওয়া",
+  "alternative_idioms": [
+    "হাড় ভাজা হওয়া"
+  ],
+  "literal_meaning": "হাড় কালো হয়ে যাওয়া (bones turning black)",
+  "figurative_meaning_bn": "অত্যন্ত দুঃখকষ্ট ভোগ করা",
+  "figurative_meaning_en": "To suffer extreme hardship or sorrow",
+  "similar_in_english": [
+    "To be put through the wringer",
+    "To suffer to the marrow of one's bones"
+  ],
+  "example_sentences_in_bangla": [
+    "দারিদ্র্যের কারণে সে হাড় কালি হয়ে গেছে।",
+    "যুদ্ধের সময় অনেকেই হাড় কালি হয়ে বেঁচে ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "He has turned bones black due to poverty's torment.",
+    "Many survived the war having suffered bone-deep agony."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Emotional expression"
+  ],
+  "tags": [
+    "suffering",
+    "hardship",
+    "poverty",
+    "sorrow"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly describes profound physical and emotional exhaustion from prolonged suffering, often linked to poverty or adversity in Bengali folklore."
+}

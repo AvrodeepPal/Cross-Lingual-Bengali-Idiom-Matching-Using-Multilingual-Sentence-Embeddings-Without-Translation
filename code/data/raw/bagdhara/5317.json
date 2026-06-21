@@ -1,0 +1,44 @@
+{
+  "id": "5317",
+  "idiom": "তক্তা বানানো",
+  "alternative_idioms": [
+    "হাড় গুড়িয়ে দেওয়া",
+    "হাড়গোড় ভেঙ্গে দেওয়া",
+    "হাড়মাস আলাদা করা"
+  ],
+  "literal_meaning": "তক্তা (প্ল্যাঙ্ক বা ফ্ল্যাট বোর্ড) তৈরি করা",
+  "figurative_meaning_bn": "প্রচণ্ড প্রহার করা",
+  "figurative_meaning_en": "To beat or thrash someone severely",
+  "similar_in_english": [
+    "Beat black and blue",
+    "Give a sound thrashing",
+    "Pummel into submission"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ভাইকে তক্তা বানানোর মতো মেরেছে।",
+    "পুলিশ চোরটাকে তক্তা বানানোর উপায়ে শাস্তি দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He beat his brother so badly it was like making him into a plank.",
+    "The police thrashed the thief mercilessly, turning him into a plank."
+  ],
+  "usage_domain": [
+    "Colloquial language",
+    "Conflict and violence",
+    "Everyday expressions"
+  ],
+  "tags": [
+    "violence",
+    "beating",
+    "punishment",
+    "figurative punishment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom evokes imagery of flattening something by force, common in rural Bengali storytelling and disputes."
+}

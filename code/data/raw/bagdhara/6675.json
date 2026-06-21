@@ -1,0 +1,38 @@
+{
+  "id": "6675",
+  "idiom": "পাঁচ পাগলের ঘর",
+  "alternative_idioms": [],
+  "literal_meaning": "পাঁচজন পাগলের ঘর",
+  "figurative_meaning_bn": "গৃহস্থের পাঁচজন পাঁচপ্রকৃতির",
+  "figurative_meaning_en": "A household with five people of diverse or eccentric natures",
+  "similar_in_english": [
+    "Madhouse",
+    "It's a zoo"
+  ],
+  "example_sentences_in_bangla": [
+    "আমাদের বাড়িটা পাঁচ পাগলের ঘরের মতো, সবাই নিজের মতো করে চলে।",
+    "এই অফিসটা পাঁচ পাগলের ঘরের মতো বিশৃঙ্খল।"
+  ],
+  "example_sentences_in_english": [
+    "Our house is like the house of five madmen, everyone goes their own way.",
+    "This office is like a house of five madmen, totally chaotic."
+  ],
+  "usage_domain": [
+    "Family",
+    "Household",
+    "Daily life"
+  ],
+  "tags": [
+    "chaos",
+    "family dynamics",
+    "eccentricity"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the typical Bengali joint family setup with varied personalities leading to lively disorder."
+}

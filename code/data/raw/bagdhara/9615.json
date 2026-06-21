@@ -1,0 +1,39 @@
+{
+  "id": "9615",
+  "idiom": "সবজান্তা",
+  "alternative_idioms": [],
+  "literal_meaning": "সবকিছু জানে এমন ব্যক্তি",
+  "figurative_meaning_bn": "ব্যঙ্গার্থে- কিছু জানে না তবু জানার ভান করে এমন; আসলে সব একটু একটু জানে কিন্তু কিছুই ভালোভাবে জানে না",
+  "figurative_meaning_en": "Sarcastically refers to someone who pretends to know everything despite knowing little, or superficially knows a bit about many things but nothing in depth",
+  "similar_in_english": [
+    "jack of all trades, master of none",
+    "know-it-all"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবজান্তা, সব বিষয়ে মতামত দেয় কিন্তু কোনোটাতেই পারদর্শী নয়।",
+    "এই সবজান্তা লোকের কথা শুনে বিভ্রান্ত হয়ে যাই।"
+  ],
+  "example_sentences_in_english": [
+    "He is a know-it-all, opining on every topic but expert in none.",
+    "Listening to this jack-of-all-trades confuses me."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "sarcasm",
+    "social commentary"
+  ],
+  "tags": [
+    "ব্যঙ্গ",
+    "ভান",
+    "অজ্ঞতা",
+    "pretentiousness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights the cultural disdain for superficial knowledge in Bengali society"
+}

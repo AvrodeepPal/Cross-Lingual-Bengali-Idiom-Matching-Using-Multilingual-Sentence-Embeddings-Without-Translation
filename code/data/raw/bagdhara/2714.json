@@ -1,0 +1,44 @@
+{
+  "id": "2714",
+  "idiom": "খেঁচাখিঁচি",
+  "alternative_idioms": [
+    "খেঁচাখেঁচি",
+    "খেচাখেচি",
+    "খেচামেচি"
+  ],
+  "literal_meaning": "onomatopoeic expression mimicking sounds of petty squabbling or bickering",
+  "figurative_meaning_bn": "গোলমাল; চিল্লাচিল্লিম ঝগড়াঝাটি; মনোমালিন্য",
+  "figurative_meaning_en": "hubbub or commotion; noisy and petty quarrels; ill-feeling or discord",
+  "similar_in_english": [
+    "bickering",
+    "squabbling",
+    "tit for tat"
+  ],
+  "example_sentences_in_bangla": [
+    "বাড়িতে সারাদিন খেঁচাখিঁচি চলছে।",
+    "দুই বোনের মধ্যে খেঁচাখিঁচি শুরু হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's constant bickering going on in the house all day.",
+    "A squabble has started between the two sisters."
+  ],
+  "usage_domain": [
+    "family life",
+    "relationships",
+    "daily conversations"
+  ],
+  "tags": [
+    "quarrel",
+    "argument",
+    "discord",
+    "petty fight"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variations in spelling reflect regional pronunciations in Bengali dialects."
+}

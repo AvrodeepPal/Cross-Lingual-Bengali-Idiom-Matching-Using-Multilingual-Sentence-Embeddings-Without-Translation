@@ -1,0 +1,40 @@
+{
+  "id": "6119",
+  "idiom": "ধোঁকাবাজ",
+  "alternative_idioms": [],
+  "literal_meaning": "ধোঁকা বিক্রেতা (deception seller)",
+  "figurative_meaning_bn": "প্রতারক",
+  "figurative_meaning_en": "Deceiver or fraudster",
+  "similar_in_english": [
+    "con artist",
+    "swindler",
+    "charlatan"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ধোঁকাবাজ, তার কথায় বিশ্বাস করো না।",
+    "ধোঁকাবাজ লোকের সাথে ব্যবসা করলে লোকসান হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a con artist; don't believe his words.",
+    "Dealing with a swindler leads to loss."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "business warnings",
+    "character description"
+  ],
+  "tags": [
+    "deception",
+    "fraud",
+    "negative trait",
+    "warning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in Bengali to describe dishonest individuals, rooted in everyday market interactions."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7041",
+  "idiom": "ফকির",
+  "alternative_idioms": [],
+  "literal_meaning": "মুসলিম ধর্মাবলম্বী ভিক্ষুক বা দরিদ্র ব্যক্তি",
+  "figurative_meaning_bn": "কপর্দকশূন্য, অতিনিঃস্ব ব্যক্তি",
+  "figurative_meaning_en": "penniless, extremely destitute person",
+  "similar_in_english": [
+    "down and out",
+    "from prince to pauper"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ব্যবসায়ের কারণে ফকির হয়ে গেছে।",
+    "কাল রাজা আজ ফকির, এমনই তার অবস্থা।"
+  ],
+  "example_sentences_in_english": [
+    "He has become a pauper due to business losses.",
+    "Yesterday a king, today a pauper—that's his situation."
+  ],
+  "usage_domain": [
+    "poverty",
+    "social status"
+  ],
+  "tags": [
+    "proverbial",
+    "destitution",
+    "transience"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The associated proverb 'কাল রাজা আজ ফকির' illustrates the impermanence of wealth and power in Bengali folklore."
+  ],
+  "note": "Often used in the context of the proverb to emphasize sudden downfall."
+}

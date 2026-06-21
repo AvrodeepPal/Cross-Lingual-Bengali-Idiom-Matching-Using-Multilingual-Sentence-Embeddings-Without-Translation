@@ -1,0 +1,41 @@
+{
+  "id": "8738",
+  "idiom": "মুখ মোড়া",
+  "alternative_idioms": [
+    "মুখ মারা"
+  ],
+  "literal_meaning": "মুখ ঢেকে দেওয়া বা সেলাই করে বন্ধ করা",
+  "figurative_meaning_bn": "কাপড়ের প্রান্ত বা বস্তার মুখ সেলাই করা",
+  "figurative_meaning_en": "Sewing the edge of cloth or the mouth of a sack",
+  "similar_in_english": [
+    "sew up",
+    "tie up loose ends"
+  ],
+  "example_sentences_in_bangla": [
+    "চালের বস্তার মুখ মোড়া করে রাখো, যাতে পড়ে না যায়।",
+    "চুক্তির পর কাগজপত্রের মুখ মোড়া হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Sew up the mouth of the rice sack so it doesn't spill.",
+    "After the agreement, the documents were sewn up."
+  ],
+  "usage_domain": [
+    "daily life",
+    "commerce",
+    "crafts"
+  ],
+  "tags": [
+    "sewing",
+    "closing",
+    "finalizing",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional practices in handling cloth and sacks in Bengali daily life."
+}

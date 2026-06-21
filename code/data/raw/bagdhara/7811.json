@@ -1,0 +1,39 @@
+{
+  "id": "7811",
+  "idiom": "বুড়োহাবড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বুড়ো (বৃদ্ধ পুরুষ) + হাবড়া (অগোছালো বা হাস্যকর ভঙ্গি)",
+  "figurative_meaning_bn": "কাণ্ডজ্ঞানহীন বৃদ্ধ",
+  "figurative_meaning_en": "An elderly person lacking common sense or judgment",
+  "similar_in_english": [
+    "Old fool",
+    "Senile old man"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই বুড়োহাবড়া আর কোনো কাজে লাগবে না, সবসময় ভুল করে।",
+    "গ্রামের সেই বুড়োহাবড়া সারাদিন অর্থহীন কথা বলে।"
+  ],
+  "example_sentences_in_english": [
+    "That old fool won't be of any use anymore; he always makes mistakes.",
+    "The village's senile old man talks nonsense all day."
+  ],
+  "usage_domain": [
+    "Colloquial",
+    "Descriptive",
+    "Insulting"
+  ],
+  "tags": [
+    "age-related",
+    "derogatory",
+    "folksy",
+    "elderly"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects colloquial Bengali humor and criticism of aging without wisdom."
+}

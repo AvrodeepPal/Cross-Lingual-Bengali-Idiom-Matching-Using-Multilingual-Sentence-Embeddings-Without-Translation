@@ -1,0 +1,38 @@
+{
+  "id": "2611",
+  "idiom": "খাপছাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "খাপ ছাড়া (তলোয়ারের খাপ ছাড়া বা বেড়ের বাইরে)",
+  "figurative_meaning_bn": "অসংলগ্ন, বেমানান",
+  "figurative_meaning_en": "incongruous, inappropriate, out of place",
+  "similar_in_english": [
+    "out of place",
+    "fish out of water",
+    "square peg in a round hole"
+  ],
+  "example_sentences_in_bangla": [
+    "খাপছাড়া কথাবার্তা বলো না।",
+    "এই অনুষ্ঠানে খাপছাড়া পোশাক পরেছ।"
+  ],
+  "example_sentences_in_english": [
+    "Don't talk out of place.",
+    "You're wearing clothes that are inappropriate for this event."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature"
+  ],
+  "tags": [
+    "figurative",
+    "negative",
+    "incongruity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to something like a sword without its sheath, implying lack of harmony or fit."
+}

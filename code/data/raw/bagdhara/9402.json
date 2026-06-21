@@ -1,0 +1,41 @@
+{
+  "id": "9402",
+  "idiom": "শতেকখাকি",
+  "alternative_idioms": [
+    "খাগি"
+  ],
+  "literal_meaning": "শতেক খা কি (হাজার খেয়েছে কি, অর্থাৎ অনেক মাথা খেয়েছে)",
+  "figurative_meaning_bn": "যে নারী বহুস্বজনের মাথা খেয়েছে অর্থাৎ মৃত্যু দেখেছে",
+  "figurative_meaning_en": "A woman who has caused the death of many people, implying she has witnessed or brought about numerous deaths",
+  "similar_in_english": [
+    "Black widow",
+    "Femme fatale"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো শতেকখাকি, তার স্বামী-সন্তান সবাইকে শেষ করে দিয়েছে।",
+    "গাঁয়ে সেই শতেকখাকিকে সবাই এড়িয়ে চলে।"
+  ],
+  "example_sentences_in_english": [
+    "She is a real shatekkhaki, having outlived or caused the demise of many husbands and children.",
+    "Everyone in the village avoids that shatekkhaki woman."
+  ],
+  "usage_domain": [
+    "Slang",
+    "Insults",
+    "Gender-specific"
+  ],
+  "tags": [
+    "female insult",
+    "death-related",
+    "archaic slang",
+    "negative connotation"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an archaic, derogatory term primarily used in rural or semi-urban Bengali contexts to insult women perceived as bringing misfortune or death to others."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2400",
+  "idiom": "কোর্টশিপ",
+  "alternative_idioms": [],
+  "literal_meaning": "ইউরোপীয় প্রথায় প্রেমের আদান-প্রদান (courtship as borrowed from English)",
+  "figurative_meaning_bn": "ইউরোপীয় প্রথায় বিবাহের পূর্বে পাত্রপাত্রীদের মধ্যে ভাবের আদান-প্রদান বা মন দেওয়া-নেওয়া; পূর্বরাগ",
+  "figurative_meaning_en": "In European tradition, the exchange of affections or mutual romantic interest between prospective partners before marriage; pre-marital romance",
+  "similar_in_english": [
+    "courtship",
+    "wooing",
+    "dating"
+  ],
+  "example_sentences_in_bangla": [
+    "তাদের সম্পর্ক শুরু হয়েছে কোর্টশিপের মাধ্যমে।",
+    "বাংলাদেশে কোর্টশিপ এখনও অনেকের কাছে অচেনা।"
+  ],
+  "example_sentences_in_english": [
+    "Their relationship began through courtship.",
+    "Courtship is still unfamiliar to many in Bangladesh."
+  ],
+  "usage_domain": [
+    "romance",
+    "marriage",
+    "relationships"
+  ],
+  "tags": [
+    "western influence",
+    "love",
+    "pre-marital",
+    "romantic"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Borrowed from English 'courtship', reflecting colonial and modern Western influences on Bengali social norms."
+  ],
+  "note": "This term is a direct loanword and not a traditional Bengali idiom, often used in urban, educated contexts to describe Western-style dating."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5837",
+  "idiom": "দিশাহারা",
+  "alternative_idioms": [
+    "দিশেহারা"
+  ],
+  "literal_meaning": "দিক বা দিশা হারানো (lost in direction)",
+  "figurative_meaning_bn": "কিংকর্তব্যবিমূঢ়, বিব্রত, ব্যতিব্যস্ত, হতভম্ব",
+  "figurative_meaning_en": "bewildered, perplexed, flustered, at a loss for what to do",
+  "similar_in_english": [
+    "at a loss",
+    "all at sea",
+    "lost for words"
+  ],
+  "example_sentences_in_bangla": [
+    "খবর শুনে সে দিশাহারা হয়ে গেল।",
+    "পরীক্ষার প্রশ্ন দেখে ছাত্রটি দিশাহারা হয়ে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "He became bewildered upon hearing the news.",
+    "The student was perplexed seeing the exam questions."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "emotions"
+  ],
+  "tags": [
+    "confusion",
+    "perplexity",
+    "bewilderment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variants like দিশেহারা are phonetic alternatives common in spoken Bengali."
+}

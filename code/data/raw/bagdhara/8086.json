@@ -1,0 +1,40 @@
+{
+  "id": "8086",
+  "idiom": "ভিদভিদে",
+  "alternative_idioms": [
+    "গুজগুজিয়া",
+    "গুজগুজে"
+  ],
+  "literal_meaning": "অস্পষ্ট বা গোলমেলে উচ্চারণের অনুকরণমূলক শব্দ",
+  "figurative_meaning_bn": "যার পেটের কথা স্পষ্ট পাওয়া যায় না",
+  "figurative_meaning_en": "Mumbled or indistinct speech where words are not clearly audible",
+  "similar_in_english": [
+    "Mumbling",
+    "Mutter under one's breath"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ভিদভিদে করে কথা বলে, কিছুই বোঝা যায় না।",
+    "বাচ্চাটা ভয়ে ভিদভিদে উত্তর দিল।"
+  ],
+  "example_sentences_in_english": [
+    "He speaks in a mumble, and nothing is understandable.",
+    "The child gave a mumbled reply out of fear."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Speech description"
+  ],
+  "tags": [
+    "অস্পষ্টতা",
+    "কথা বলা",
+    "অনুকরণমূলক"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি অনুকরণমূলক বাগধারা যা বাংলা ভাষার দৈনন্দিন ব্যবহারে প্রচলিত"
+}

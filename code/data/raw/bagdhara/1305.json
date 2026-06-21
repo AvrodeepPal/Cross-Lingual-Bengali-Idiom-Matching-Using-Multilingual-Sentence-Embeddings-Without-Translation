@@ -1,0 +1,43 @@
+{
+  "id": "1305",
+  "idiom": "কচকচি",
+  "alternative_idioms": [
+    "কচকচানি",
+    "কচকচালি"
+  ],
+  "literal_meaning": "কচকচ শব্দের অনুকরণ, যা কলহ বা তর্কের ধ্বনিকে নির্দেশ করে",
+  "figurative_meaning_bn": "কলহ, ঝগড়াঝাটি, তর্কবিতর্ক, বাদানুবাদ ইত্যাদির অনুকার ধ্বনি",
+  "figurative_meaning_en": "Onomatopoeic sound imitating quarrels, fights, debates, and discussions",
+  "similar_in_english": [
+    "ruckus",
+    "hubbub of arguments",
+    "clatter of disputes"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় আইনের কচকচি চলছিল।",
+    "পাড়ায় ঢেঁকির কচকচি শোনা যাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "There was a clatter of legal arguments in the meeting.",
+    "The neighborhood is filled with the racket of petty squabbles."
+  ],
+  "usage_domain": [
+    "legal discussions",
+    "everyday arguments",
+    "public speeches"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "quarrel",
+    "debate",
+    "noise"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "সমার্থক: ক্যাচকেচি, খচখচি, খ্যাচাখেচি"
+}

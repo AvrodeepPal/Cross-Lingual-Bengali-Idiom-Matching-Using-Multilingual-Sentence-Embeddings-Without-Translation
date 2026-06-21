@@ -1,0 +1,37 @@
+{
+  "id": "2373",
+  "idiom": "কৈফিয়ৎ",
+  "alternative_idioms": [],
+  "literal_meaning": "ব্যাখ্যা বা যুক্তি প্রদান (explanation or justification)",
+  "figurative_meaning_bn": "আত্মপক্ষ সমর্থন",
+  "figurative_meaning_en": "Self-justification",
+  "similar_in_english": [
+    "Making excuses",
+    "Justifying one's actions"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার অনুপস্থিতির কৈফিয়ৎ দিচ্ছে।",
+    "ভুল করার পর কৈফিয়ৎ দেওয়া ছাড়া তার আর কোনো উপায় নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He is giving justification for his absence.",
+    "After making a mistake, he has no choice but to offer excuses."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Arguments and debates"
+  ],
+  "tags": [
+    "Excuse",
+    "Justification",
+    "Self-defense"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Loanword from Arabic/Urdu, commonly used in Bengali for excuses or rationalizations."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3073",
+  "idiom": "গা কেমন করা",
+  "alternative_idioms": [
+    "গা কেমন-কেমন করা"
+  ],
+  "literal_meaning": "শরীরে অস্বস্তি বা অদ্ভুত অনুভূতি হওয়া",
+  "figurative_meaning_bn": "বমির ভাব হওয়া",
+  "figurative_meaning_en": "To feel nauseous or like vomiting",
+  "similar_in_english": [
+    "Feel queasy",
+    "Have butterflies in one's stomach (for unease)",
+    "Feel like throwing up"
+  ],
+  "example_sentences_in_bangla": [
+    "খাবারটা খেয়ে গা কেমন করছে।",
+    "ঘুরতে গিয়ে গা কেমন করে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "I feel nauseous after eating that food.",
+    "I started feeling queasy during the trip."
+  ],
+  "usage_domain": [
+    "health",
+    "emotions",
+    "daily life"
+  ],
+  "tags": [
+    "nausea",
+    "discomfort",
+    "bodily sensation",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures physical discomfort in everyday Bengali speech."
+}

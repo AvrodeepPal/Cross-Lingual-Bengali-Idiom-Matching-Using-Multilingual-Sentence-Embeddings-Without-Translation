@@ -1,0 +1,37 @@
+{
+  "id": "5072",
+  "idiom": "ঠেকাঠেকি",
+  "alternative_idioms": [],
+  "literal_meaning": "পরস্পর স্পর্শ করা",
+  "figurative_meaning_bn": "পরস্পর স্পর্শ",
+  "figurative_meaning_en": "mutual contact or touching",
+  "similar_in_english": [
+    "cheek by jowl",
+    "rubbing shoulders"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে যাওয়ার সময় ঠেকাঠেকি করে এগোতে হয়।",
+    "দু'জন বন্ধু ঠেকাঠেকি করে বসে গল্প করছিল।"
+  ],
+  "example_sentences_in_english": [
+    "In the market, you have to push through with people touching each other.",
+    "The two friends sat close, touching shoulders while chatting."
+  ],
+  "usage_domain": [
+    "daily life",
+    "social interaction"
+  ],
+  "tags": [
+    "proximity",
+    "crowd",
+    "physical contact"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Refers to close physical proximity often in crowded settings typical of Bengali urban or market life."
+}

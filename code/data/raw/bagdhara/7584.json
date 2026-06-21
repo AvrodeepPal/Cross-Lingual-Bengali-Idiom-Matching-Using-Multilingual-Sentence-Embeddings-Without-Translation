@@ -1,0 +1,43 @@
+{
+  "id": "7584",
+  "idiom": "বাপের জন্মে",
+  "alternative_idioms": [
+    "বাপের কালে",
+    "বাপের বয়সে"
+  ],
+  "literal_meaning": "বাপের জন্মকাল বা জীবনকালে (in the father's birth or lifetime)",
+  "figurative_meaning_bn": "কখনও; কোনকালে, কোনদিন; নিজের জন্মেতো নয়ই এমনকি আগের কালও নয়",
+  "figurative_meaning_en": "Never; at any time or day; not even in one's own lifetime, let alone in previous eras",
+  "similar_in_english": [
+    "Not in my lifetime",
+    "When hell freezes over",
+    "In a pig's eye"
+  ],
+  "example_sentences_in_bangla": [
+    "এমন ঘটনা বাপের জন্মে হয়নি।",
+    "তুমি এটা করবে? বাপের জন্মে না!"
+  ],
+  "example_sentences_in_english": [
+    "Such an incident never happened in my father's lifetime.",
+    "You will do that? Not in my father's lifetime!"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Exaggerated denial",
+    "Colloquial expression"
+  ],
+  "tags": [
+    "exaggeration",
+    "time reference",
+    "family",
+    "denial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes generational improbability, common in oral Bengali traditions"
+}

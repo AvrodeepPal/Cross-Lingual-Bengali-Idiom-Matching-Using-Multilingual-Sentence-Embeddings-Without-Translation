@@ -1,0 +1,39 @@
+{
+  "id": "2499",
+  "idiom": "খতম করা",
+  "alternative_idioms": [],
+  "literal_meaning": "শেষ করা বা সমাপ্ত করা",
+  "figurative_meaning_bn": "মেরে ফেলা; সাবাড় করা",
+  "figurative_meaning_en": "To kill; to eliminate completely",
+  "similar_in_english": [
+    "To wipe out",
+    "To finish off",
+    "To do in"
+  ],
+  "example_sentences_in_bangla": [
+    "শত্রুদের খতম করে দেওয়া হয়েছে।",
+    "আসামিদের খতম করার জন্য অভিযান চালানো হলো।"
+  ],
+  "example_sentences_in_english": [
+    "The enemies have been wiped out.",
+    "An operation was launched to finish off the culprits."
+  ],
+  "usage_domain": [
+    "warfare",
+    "conflict",
+    "violence"
+  ],
+  "tags": [
+    "destruction",
+    "enemy",
+    "elimination"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Persian/Urdu 'khatm' meaning to end or finish, commonly used in contexts of conflict."
+}

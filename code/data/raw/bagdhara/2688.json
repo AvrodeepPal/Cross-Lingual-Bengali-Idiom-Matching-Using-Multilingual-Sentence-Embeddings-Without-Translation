@@ -1,0 +1,38 @@
+{
+  "id": "2688",
+  "idiom": "খুড়োর কল",
+  "alternative_idioms": [],
+  "literal_meaning": "খুড়োর যন্ত্র বা কৌশল",
+  "figurative_meaning_bn": "লোক ঠকানোর যন্ত্র; মিথ্যা আশা জাগিয়ে লোককে বোকা বানানোর কৌশল",
+  "figurative_meaning_en": "A device to deceive people; a strategy to fool others by instilling false hopes",
+  "similar_in_english": [
+    "bait and switch",
+    "smoke and mirrors"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খুড়োর কল দেখিয়ে আমাকে টাকা হাতিয়ে নিল।",
+    "রাজনীতিতে এই খুড়োর কল চালিয়ে ভোটারদের প্রতারিত করা হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He used an uncle's trick to swindle my money away.",
+    "In politics, they fool voters with these deceptive tactics."
+  ],
+  "usage_domain": [
+    "deception",
+    "fraud",
+    "everyday conversation"
+  ],
+  "tags": [
+    "trickery",
+    "false hope",
+    "proverbial deceit"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Refers to traditional rural deceptive gadgets or schemes in Bengali folklore"
+}

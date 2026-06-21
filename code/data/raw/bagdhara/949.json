@@ -1,0 +1,41 @@
+{
+  "id": "949",
+  "idiom": "এককালে",
+  "alternative_idioms": [],
+  "literal_meaning": "এক সময়",
+  "figurative_meaning_bn": "কোন একসময়ে",
+  "figurative_meaning_en": "At one time or in the past",
+  "similar_in_english": [
+    "Once upon a time",
+    "In the old days",
+    "Back in the day"
+  ],
+  "example_sentences_in_bangla": [
+    "এককালে এই গ্রামে সবাই খুব সুখী ছিল।",
+    "এককালে কলকাতায় ঘোড়ায় টানা ট্রাম চলত।"
+  ],
+  "example_sentences_in_english": [
+    "Once upon a time, everyone in this village was very happy.",
+    "In the old days, horse-drawn trams ran in Kolkata."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Storytelling",
+    "Historical reference"
+  ],
+  "tags": [
+    "Time",
+    "Past",
+    "Nostalgia"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Refers to past eras, often evoking historical changes like the use of horse-drawn trams in Kolkata during the colonial period."
+  ],
+  "note": "Commonly used to introduce nostalgic or historical anecdotes in Bengali speech and literature."
+}

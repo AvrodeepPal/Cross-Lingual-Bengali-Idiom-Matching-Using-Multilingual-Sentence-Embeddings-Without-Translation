@@ -1,0 +1,40 @@
+{
+  "id": "5886",
+  "idiom": "দুপায়ে দণ্ডবৎ",
+  "alternative_idioms": [],
+  "literal_meaning": "দুই পায়ে উপুড় হয়ে পড়ে প্রণাম করা (প্রসারিত হয়ে মাটিতে লুটিয়ে পড়া)",
+  "figurative_meaning_bn": "ব্যঙ্গার্থে ক্ষমা প্রার্থনা করা",
+  "figurative_meaning_en": "To beg for forgiveness sarcastically or insincerely",
+  "similar_in_english": [
+    "Eat one's words",
+    "Fall on one's knees (sarcastically)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ভুল স্বীকার না করে দুপায়ে দণ্ডবৎ করে ক্ষমা চাইল, কিন্তু সবাই জানে এটা ব্যঙ্গ।",
+    "ভুল হলে দুপায়ে দণ্ডবৎ করার দরকার নেই, সত্যিকারের ক্ষমা চাও।"
+  ],
+  "example_sentences_in_english": [
+    "He didn't admit his mistake but sarcastically begged forgiveness on bended knees, and everyone knew it was mockery.",
+    "No need to grovel insincerely when you've erred; just apologize sincerely."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Sarcastic expression"
+  ],
+  "tags": [
+    "sarcasm",
+    "apology",
+    "mockery",
+    "traditional gesture"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the ancient Sanskrit term 'dandavat pranam', a traditional Hindu gesture of full prostration symbolizing complete surrender or respect, often used in religious contexts."
+  ],
+  "note": "The idiom twists the respectful religious act into a sarcastic plea, highlighting insincerity in modern usage."
+}

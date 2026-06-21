@@ -1,0 +1,42 @@
+{
+  "id": "7055",
+  "idiom": "ফতো নবাব",
+  "alternative_idioms": [
+    "ফতো বাবু"
+  ],
+  "literal_meaning": "ভুয়া নবাব/বাবু (fake Nawab/Babu)",
+  "figurative_meaning_bn": "অন্তঃসারশূন্য ব্যক্তি, যার কেবল নবাবের মত চালচলন আছে অথচ উপযুক্ত সম্বল নেই; যার নিজের কিছু নেই কেবল পরের দৌলতে বাবুগিরি করে",
+  "figurative_meaning_en": "A person devoid of substance, who only mimics the demeanor of a Nawab but lacks the appropriate resources; someone who has nothing of their own and merely acts superior by relying on others",
+  "similar_in_english": [
+    "all hat and no cattle",
+    "putting on airs"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ফতো নবাব, বাইরে থেকে দেখলে ধনী বলে মনে হয় কিন্তু আসলে কিছুই নেই তার।",
+    "অফিসে সেই ফতো বাবু সবাইকে নির্দেশ দেয় কিন্তু নিজের কোনো ক্ষমতা নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He is a fake Nawab; he looks wealthy from the outside but actually has nothing.",
+    "That Babu in the office bosses everyone around but has no real authority of his own."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "everyday conversation"
+  ],
+  "tags": [
+    "mockery",
+    "hypocrisy",
+    "pretentiousness",
+    "wealth disparity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom references the historical Nawabs, who were prominent Muslim rulers in Bengal during the Mughal and early British periods, contrasting their genuine status with pretenders who mimic elite behavior without substance."
+  ],
+  "note": "Synonymous with 'পরপুষ্ট' (living off others' wealth)"
+}

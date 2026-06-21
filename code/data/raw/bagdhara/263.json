@@ -1,0 +1,41 @@
+{
+  "id": "263",
+  "idiom": "অল্প জলের মাছ",
+  "alternative_idioms": [
+    "পানির মাছ"
+  ],
+  "literal_meaning": "অল্প জলের মাছ (little water's fish)",
+  "figurative_meaning_bn": "সামান্য পুঁজির বা সম্পদের মালিক; অল্প ধন নিয়ে গর্বকারী ব্যক্তি",
+  "figurative_meaning_en": "Owner of meager capital or wealth; a person who takes pride in little money",
+  "similar_in_english": [
+    "Big frog in a small puddle",
+    "Small fry"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অল্প জলের মাছ, তার ছোটখাটো সম্পত্তিতেই খুব গর্ব করে।",
+    "গ্রামের এই দোকানদার অল্প জলের মাছের মতো তার সীমিত আয় নিয়ে বড়লোক সেজে থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a small fish in shallow water, taking great pride in his modest possessions.",
+    "The village shopkeeper acts like a big shot with his limited income, just like a fish in little water."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Social commentary",
+    "Finance and wealth"
+  ],
+  "tags": [
+    "wealth",
+    "pride",
+    "humility",
+    "mockery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from rural Bengali imagery of fish in shallow ponds, symbolizing limited but self-satisfied existence."
+}

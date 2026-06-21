@@ -1,0 +1,38 @@
+{
+  "id": "2801",
+  "idiom": "খ্যাপলা জালে মাছ ধরা",
+  "alternative_idioms": [],
+  "literal_meaning": "খ্যাপলা (ছেঁড়া) জালে মাছ ধরা",
+  "figurative_meaning_bn": "ধান্ধায় থাকা",
+  "figurative_meaning_en": "To be in a state of uncertainty or idle waiting for opportunities",
+  "similar_in_english": [
+    "Twiddling one's thumbs",
+    "Marking time"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খ্যাপলা জালে মাছ ধরার মতো অবস্থায় আছে, কোনো সিদ্ধান্ত নিতে পারছে না।",
+    "ব্যবসায়ের লোকসানের পর তারা খ্যাপলা জালে মাছ ধরার ভঙ্গিতে বসে আছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is in a situation like trying to catch fish with a torn net, unable to make a decision.",
+    "After the business loss, they are sitting idle like fishermen with a broken net."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature"
+  ],
+  "tags": [
+    "futility",
+    "waiting",
+    "uncertainty",
+    "fishing metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Rooted in traditional Bengali fishing practices, symbolizing futile efforts in rural life."
+}

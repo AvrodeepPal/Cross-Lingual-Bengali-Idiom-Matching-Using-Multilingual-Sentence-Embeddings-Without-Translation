@@ -1,0 +1,38 @@
+{
+  "id": "6858",
+  "idiom": "পারদ চড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পারদ (mercury) উঠা (rising)",
+  "figurative_meaning_bn": "তাপমাত্রা বেড়ে যাওয়া; উত্তেজনা বৃদ্ধি পাওয়া",
+  "figurative_meaning_en": "temperature rising; increase in excitement or tension",
+  "similar_in_english": [
+    "the mercury is rising",
+    "things are heating up"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় পারদ চড়ছে।",
+    "বিতর্কের মাঝে পারদ চড়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The mercury is rising in the meeting.",
+    "The mercury shot up in the midst of the debate."
+  ],
+  "usage_domain": [
+    "social discussions",
+    "debates",
+    "emotional contexts"
+  ],
+  "tags": [
+    "excitement",
+    "tension",
+    "temperature metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom draws from the imagery of a thermometer, reflecting modern scientific influence in Bengali expression."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6515",
+  "idiom": "পকেটে হাত পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পকেটে হাত পড়া (hand falling or reaching into the pocket)",
+  "figurative_meaning_bn": "অর্থের টানাটানি; অর্থভান্ডারে টান",
+  "figurative_meaning_en": "Financial strain; dipping into one's savings or reserves",
+  "similar_in_english": [
+    "To be broke",
+    "To dip into one's pocket",
+    "To be in a financial pinch"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার পকেটে হাত পড়েছে, এখন কোনো টাকা নেই।",
+    "বাজারে দাম বেড়ে গেছে, সবার পকেটে হাত পড়ার সময় এসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "My pocket is empty now; I have no money left.",
+    "With rising prices, it's time for everyone's pockets to feel the strain."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily life",
+    "economy"
+  ],
+  "tags": [
+    "money",
+    "financial difficulty",
+    "poverty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday financial struggles in Bengali-speaking regions."
+}

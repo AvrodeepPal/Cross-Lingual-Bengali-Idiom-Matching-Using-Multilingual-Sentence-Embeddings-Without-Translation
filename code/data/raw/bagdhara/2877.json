@@ -1,0 +1,41 @@
+{
+  "id": "2877",
+  "idiom": "গড়িমসি",
+  "alternative_idioms": [],
+  "literal_meaning": "অলসতা বা গড়িমস করে থাকা (শাব্দিকভাবে অলস আচরণের অনুকরণমূলক শব্দ)",
+  "figurative_meaning_bn": "দুষ্ট গরুমোষের মত সমর্থ হয়েও ভার বইতে অনিহা",
+  "figurative_meaning_en": "Unwillingness to bear burdens despite being as strong as a naughty cow or buffalo (laziness despite capability)",
+  "similar_in_english": [
+    "lazy as a sloth",
+    "strong as an ox but won't lift a finger"
+  ],
+  "example_sentences_in_bangla": [
+    "সে গড়িমসি করে কাজ করতে চায় না, যদিও শক্তিশালী।",
+    "গড়িমসির কারণে তার সব পরিকল্পনা ব্যর্থ হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He is full of laziness and refuses to work, even though he is strong.",
+    "His idleness ruined all his plans despite his capabilities."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "daily life",
+    "work ethic"
+  ],
+  "tags": [
+    "laziness",
+    "idleness",
+    "reluctance",
+    "capability unused"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Originates from Bengali agrarian culture where strong cattle like cows and buffaloes are common but sometimes stubborn and idle."
+  ],
+  "note": "The idiom reflects rural Bengali life and attitudes towards work."
+}

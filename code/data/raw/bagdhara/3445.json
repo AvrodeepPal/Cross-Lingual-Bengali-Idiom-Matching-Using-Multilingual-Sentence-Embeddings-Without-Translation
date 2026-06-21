@@ -1,0 +1,45 @@
+{
+  "id": "3445",
+  "idiom": "ঘরশত্রু",
+  "alternative_idioms": [
+    "ঘরের কুমির",
+    "ঘরভেদী"
+  ],
+  "literal_meaning": "ঘরের শত্রু (house enemy)",
+  "figurative_meaning_bn": "পরের সাথে হাত মিলিয়ে আপনজনের অনিষ্টকারী ব্যক্তি",
+  "figurative_meaning_en": "A person who collaborates with outsiders to harm their own people",
+  "similar_in_english": [
+    "Fifth columnist",
+    "Snake in the grass",
+    "Traitor within"
+  ],
+  "example_sentences_in_bangla": [
+    "আমাদের সমাজে এই ঘরশত্রু সবসময় বাইরের শক্তির সাথে মিলে অনিষ্ট করে।",
+    "পরিবারের মধ্যে একজন ঘরশত্রু থাকলে সবাই বিপদে পড়ে।"
+  ],
+  "example_sentences_in_english": [
+    "In our society, this home enemy always joins forces with external powers to cause harm.",
+    "If there's a home enemy within the family, everyone is in danger."
+  ],
+  "usage_domain": [
+    "Family",
+    "Politics",
+    "Society"
+  ],
+  "tags": [
+    "betrayal",
+    "treason",
+    "internal threat",
+    "traitor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the Ramayana epic, referencing Vibhishana, Ravana's brother who betrayed him by allying with Rama, symbolizing internal betrayal."
+  ],
+  "note": "The idiom is deeply embedded in Bengali folklore and literature, often used to describe disloyalty from within."
+}

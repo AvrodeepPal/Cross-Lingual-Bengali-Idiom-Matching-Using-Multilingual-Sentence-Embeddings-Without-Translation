@@ -1,0 +1,40 @@
+{
+  "id": "1317",
+  "idiom": "কচুপোড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পোড়া কচু (burnt taro or colocasia)",
+  "figurative_meaning_bn": "অখাদ্য বস্তু, কিছুই না, ফাঁকি",
+  "figurative_meaning_en": "Something inedible or worthless, nothing at all, a deception or trick",
+  "similar_in_english": [
+    "The short end of the stick",
+    "A raw deal",
+    "Worthless scraps"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার ভাগ্যে শুধু কচুপোড়া পড়েছে।",
+    "এই চাকরিটা তো কচুপোড়ার মতো, কোনো লাভ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "My luck has only brought me burnt taro.",
+    "This job is like burnt taro—utterly worthless."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "expression of misfortune",
+    "deception"
+  ],
+  "tags": [
+    "worthless",
+    "bad luck",
+    "trickery",
+    "rural idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Refers to the inedible state of burnt colocasia root, symbolizing misfortune in everyday Bengali rural life."
+}

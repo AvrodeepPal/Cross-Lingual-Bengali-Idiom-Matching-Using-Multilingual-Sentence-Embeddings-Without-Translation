@@ -1,0 +1,42 @@
+{
+  "id": "1004",
+  "idiom": "একজোট",
+  "alternative_idioms": [
+    "এককাট্টা"
+  ],
+  "literal_meaning": "একটি জোড়া বা বান্ডিল (one bundle or united as one)",
+  "figurative_meaning_bn": "সংঘবদ্ধ",
+  "figurative_meaning_en": "United or allied, often for self-interest",
+  "similar_in_english": [
+    "In cahoots",
+    "Band together",
+    "United front"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা স্বার্থের জন্য একজোট হয়ে পড়েছে।",
+    "দুই দল একজোট করে নির্বাচনে লড়বে।"
+  ],
+  "example_sentences_in_english": [
+    "They have united for their own interests.",
+    "The two parties will band together to contest the election."
+  ],
+  "usage_domain": [
+    "politics",
+    "social alliances",
+    "business"
+  ],
+  "tags": [
+    "unity",
+    "alliance",
+    "self-interest",
+    "cooperation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often implies temporary or opportunistic unity in Bengali usage"
+}

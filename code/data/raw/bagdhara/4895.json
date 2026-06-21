@@ -1,0 +1,38 @@
+{
+  "id": "4895",
+  "idiom": "টাকা খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "eating money",
+  "figurative_meaning_bn": "ঘুষ নেওয়া",
+  "figurative_meaning_en": "taking bribes",
+  "similar_in_english": [
+    "lining one's pockets",
+    "on the take"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকারি অফিসে কাজ করাতে হলে টাকা খাওয়া অফিসারদের সঙ্গে লেনদেন করতে হয়।",
+    "সে টাকা খেয়ে প্রকল্পের টেন্ডার পেয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "To get work done in government offices, one has to deal with officers who take bribes.",
+    "He took bribes to secure the project tender."
+  ],
+  "usage_domain": [
+    "politics",
+    "administration",
+    "business"
+  ],
+  "tags": [
+    "corruption",
+    "bribery",
+    "greed"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects widespread perceptions of bureaucratic corruption in Bengali-speaking regions."
+}

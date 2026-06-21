@@ -1,0 +1,42 @@
+{
+  "id": "7697",
+  "idiom": "বিন্দুবিসর্গ",
+  "alternative_idioms": [
+    "বিন্দুমাত্র"
+  ],
+  "literal_meaning": "বিন্দু এবং বিসর্গ (দুটি অতি ক্ষুদ্র বিরামচিহ্ন)",
+  "figurative_meaning_bn": "অতি সামান্যপরিমাণ আভাস; কিছুমাত্র, সামান্যতম পরিমাণ",
+  "figurative_meaning_en": "The slightest hint or amount; not at all, the tiniest quantity",
+  "similar_in_english": [
+    "not one iota",
+    "not a jot",
+    "not a whit"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি এই ব্যাপারে বিন্দুবিসর্গ জানি না।",
+    "তার কথায় বিন্দুবিসর্গ সত্যতা নেই।"
+  ],
+  "example_sentences_in_english": [
+    "I don't know a single iota about this matter.",
+    "There's not a shred of truth in his words."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "formal writing"
+  ],
+  "tags": [
+    "quantity",
+    "negation",
+    "small amount",
+    "punctuation reference"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Sanskrit punctuation marks, emphasizing minimalism in Bengali linguistic tradition"
+}

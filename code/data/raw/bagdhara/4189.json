@@ -1,0 +1,41 @@
+{
+  "id": "4189",
+  "idiom": "চৌঘরি মাত দেখানো",
+  "alternative_idioms": [],
+  "literal_meaning": "দাবাখেলায় চারদিক ঘিরে রেখে মাত দেওয়া (chess-এ king-কে চারদিক থেকে আটকে checkmate দেখানো)",
+  "figurative_meaning_bn": "বিষম সঙ্কটে ফেলা",
+  "figurative_meaning_en": "To put someone in a dire or desperate situation",
+  "similar_in_english": [
+    "Checkmate",
+    "Back into a corner",
+    "Put in a tight spot"
+  ],
+  "example_sentences_in_bangla": [
+    "শত্রুরা তাকে চৌঘরি মাত দেখিয়ে বিপদে ফেলেছে।",
+    "রাজনীতিতে প্রতিপক্ষ চৌঘরি মাত দেখানোর চেষ্টা করছে।"
+  ],
+  "example_sentences_in_english": [
+    "The enemies have shown him checkmate, putting him in dire straits.",
+    "In politics, the opposition is trying to corner him with a checkmate move."
+  ],
+  "usage_domain": [
+    "Games and Strategy",
+    "Conflict and Politics",
+    "Everyday Crises"
+  ],
+  "tags": [
+    "দাবা (Chess)",
+    "সঙ্কট (Crisis)",
+    "কৌশল (Strategy)"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই বাগধারা দাবাখেলার টার্মিনোলজি থেকে উদ্ভূত, যেখানে 'চৌঘরি মাত' king-কে চারদিক থেকে আটকে ফেলার অর্থ বহন করে।"
+  ],
+  "note": "দাবা বাংলা সংস্কৃতিতে জনপ্রিয়, তাই এটি কৌশলগত পরিস্থিতির প্রতীক হিসেবে ব্যবহৃত হয়।"
+}

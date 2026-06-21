@@ -1,0 +1,37 @@
+{
+  "id": "3011",
+  "idiom": "গলা সাধা",
+  "alternative_idioms": [],
+  "literal_meaning": "গলা (voice/throat) সাধা (to practice or tune)",
+  "figurative_meaning_bn": "রেওয়াজ করা; সরগম সাধনা; সুরের সাধনা",
+  "figurative_meaning_en": "To practice singing; vocal training; tuning one's voice",
+  "similar_in_english": [
+    "Warm up one's voice",
+    "Practice scales"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি প্রতিদিন সকালে গলা সাধেন গানের জন্য।",
+    "শিল্পীরা মঞ্চে উঠার আগে গলা সাধে।"
+  ],
+  "example_sentences_in_english": [
+    "He practices his voice every morning for singing.",
+    "The artists warm up their voices before going on stage."
+  ],
+  "usage_domain": [
+    "Music",
+    "Performing Arts"
+  ],
+  "tags": [
+    "Vocal Practice",
+    "Singing",
+    "Rehearsal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in contexts of Bengali classical or folk music traditions"
+}

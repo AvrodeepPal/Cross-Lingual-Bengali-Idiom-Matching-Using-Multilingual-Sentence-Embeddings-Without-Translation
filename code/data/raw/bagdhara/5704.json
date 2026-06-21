@@ -1,0 +1,39 @@
+{
+  "id": "5704",
+  "idiom": "দলে ভারী",
+  "alternative_idioms": [],
+  "literal_meaning": "দলে ভারী (group-এ heavy)",
+  "figurative_meaning_bn": "একেকটি দলে বহুসংখ্যক লোক",
+  "figurative_meaning_en": "A large number of people in each group",
+  "similar_in_english": [
+    "Heavy hitter",
+    "Big league"
+  ],
+  "example_sentences_in_bangla": [
+    "এই দলে ভারী লোকজনের কারণে সবাই ভয় পায়।",
+    "তাদের দলে ভারী হওয়ায় তারা সহজেই জিতে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The team is heavy with people, so everyone is intimidated.",
+    "They won easily because their group was heavy in numbers."
+  ],
+  "usage_domain": [
+    "Social",
+    "Politics",
+    "Sports"
+  ],
+  "tags": [
+    "group",
+    "numbers",
+    "strength",
+    "quantity"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to numerical strength in groups, common in Bengali social contexts."
+}

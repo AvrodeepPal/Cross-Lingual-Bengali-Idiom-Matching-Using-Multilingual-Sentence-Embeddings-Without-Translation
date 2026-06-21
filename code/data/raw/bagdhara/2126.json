@@ -1,0 +1,41 @@
+{
+  "id": "2126",
+  "idiom": "কালশশী",
+  "alternative_idioms": [
+    "কালোশশী"
+  ],
+  "literal_meaning": "কালো শশী (কৃষ্ণবর্ণের চন্দ্র)",
+  "figurative_meaning_bn": "কৃষ্ণপক্ষের চাঁদ",
+  "figurative_meaning_en": "The moon during the dark fortnight (waning phase)",
+  "similar_in_english": [
+    "Waning moon",
+    "Dark moon"
+  ],
+  "example_sentences_in_bangla": [
+    "রাতের আকাশে কালশশী উঠেছে, সবকিছু অন্ধকারময়।",
+    "কৃষ্ণপক্ষে কালশশীর আলো খুবই কম হয়।"
+  ],
+  "example_sentences_in_english": [
+    "The dark moon has risen in the night sky, enveloping everything in darkness.",
+    "During the waning phase, the light of the dark moon is very faint."
+  ],
+  "usage_domain": [
+    "Astronomy",
+    "Poetry",
+    "Folklore"
+  ],
+  "tags": [
+    "চন্দ্র",
+    "কৃষ্ণপক্ষ",
+    "অন্ধকার",
+    "লোকসংস্কৃতি"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom refers to the moon in its waning phase, commonly used in Bengali literature to evoke themes of dimness or melancholy."
+}

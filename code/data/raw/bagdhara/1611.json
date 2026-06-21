@@ -1,0 +1,41 @@
+{
+  "id": "1611",
+  "idiom": "করালবদনা",
+  "alternative_idioms": [],
+  "literal_meaning": "করাল (ভয়ঙ্কর) + বদন (মুখ) = ভয়ঙ্কর মুখবিশিষ্ট",
+  "figurative_meaning_bn": "ভীষণমুখবিশিষ্টা নারী",
+  "figurative_meaning_en": "A woman with a terrifying or fierce face",
+  "similar_in_english": [
+    "frightful hag",
+    "ogre-faced woman"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন করালবদনা নারী, তার চেহারা দেখলেই সবাই ভয় পায়।",
+    "গ্রামের সেই করালবদনা দিদি রাতে কখনো বাইরে বের হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "She is a karalbadana woman; everyone gets scared just seeing her face.",
+    "The karalbadana aunt from the village never goes out at night."
+  ],
+  "usage_domain": [
+    "descriptive language",
+    "physical appearance",
+    "folklore"
+  ],
+  "tags": [
+    "fear",
+    "women",
+    "mythical description",
+    "negative portrayal"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Sanskrit terms used in Puranic literature to describe fierce female deities like Kali, symbolizing terrifying aspects in Bengali folklore."
+  ],
+  "note": "Often used in literary or storytelling contexts to evoke dread."
+}

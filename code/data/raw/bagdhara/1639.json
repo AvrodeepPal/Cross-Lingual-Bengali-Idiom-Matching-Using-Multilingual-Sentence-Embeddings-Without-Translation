@@ -1,0 +1,39 @@
+{
+  "id": "1639",
+  "idiom": "কলকাঠি নাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কলকাঠি (হাঁড়ির হাতল) নাড়া বা সরানো",
+  "figurative_meaning_bn": "বদ উদ্দেশ্যে আড়াল থেকে নিয়ন্ত্রণ করা",
+  "figurative_meaning_en": "To manipulate or control from behind the scenes with malicious intent",
+  "similar_in_english": [
+    "Pull the strings",
+    "Work behind the curtain"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আড়াল থেকে কলকাঠি নাড়ছে এবং সবকিছু নিয়ন্ত্রণ করছে।",
+    "রাজনীতিতে অনেকে কলকাঠি নাড়ার চেষ্টা করে লাভের জন্য।"
+  ],
+  "example_sentences_in_english": [
+    "He is pulling the strings from behind the scenes to control everything.",
+    "In politics, many try to manipulate events for personal gain."
+  ],
+  "usage_domain": [
+    "politics",
+    "business",
+    "interpersonal relations"
+  ],
+  "tags": [
+    "manipulation",
+    "deception",
+    "control",
+    "malice"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from everyday imagery of controlling a cooking pot indirectly, symbolizing hidden influence in Bengali folklore and literature."
+}

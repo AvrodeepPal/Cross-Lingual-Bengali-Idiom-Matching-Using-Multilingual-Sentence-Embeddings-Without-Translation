@@ -1,0 +1,38 @@
+{
+  "id": "1843",
+  "idiom": "কাগজপত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "কাগজ এবং পত্র (papers and letters/documents)",
+  "figurative_meaning_bn": "দলিলজাতীয় প্রয়োজনীয় প্রমাণপত্রসমূহ; নানা ধরনের খুঁটিনাটি কাগজ",
+  "figurative_meaning_en": "Necessary proof documents such as deeds; various kinds of minor papers",
+  "similar_in_english": [
+    "paperwork",
+    "documents"
+  ],
+  "example_sentences_in_bangla": [
+    "আবেদনের জন্য সব কাগজপত্র সঙ্গে নিয়ে যান।",
+    "অফিসে কাগজপত্র জমা দেওয়া হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Take all the paperwork with you for the application.",
+    "The documents have been submitted to the office."
+  ],
+  "usage_domain": [
+    "legal",
+    "administrative",
+    "bureaucracy"
+  ],
+  "tags": [
+    "documents",
+    "proof",
+    "formal papers"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is more of a compound noun referring to official documents rather than a highly figurative idiom."
+}

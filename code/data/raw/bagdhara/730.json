@@ -1,0 +1,42 @@
+{
+  "id": "730",
+  "idiom": "উঁচি দোকান ফীকি পান",
+  "alternative_idioms": [
+    "উচি দোকান ফীকি পকান"
+  ],
+  "literal_meaning": "উঁচি (উঁচু বা দেখনসনি) দোকান (দোকান) ফীকি (স্বাদহীন) পান (পানের পাতা)",
+  "figurative_meaning_bn": "দেখনদারী; বাইরের আড়ম্বরমাত্র",
+  "figurative_meaning_en": "Superficial show; mere outward appearance without substance",
+  "similar_in_english": [
+    "All show and no substance",
+    "Style over substance",
+    "All hat and no cattle"
+  ],
+  "example_sentences_in_bangla": [
+    "ওর নতুন বাড়িটা উঁচি দোকান ফীকি পান, বাইরে চকচকে কিন্তু ভিতরে সবকিছু অসম্পূর্ণ।",
+    "রাজনীতিতে অনেকে এমন উঁচি দোকান ফীকি পানের মতো, প্রতিশ্রুতি দিয়ে ভোট কাড়ে কিন্তু কাজ করে না।"
+  ],
+  "example_sentences_in_english": [
+    "His new house is like a high shop with bland betel – flashy on the outside but incomplete inside.",
+    "Many politicians are like high shops with bland betel, promising much to win votes but delivering nothing."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism",
+    "Social commentary"
+  ],
+  "tags": [
+    "Appearance",
+    "Deception",
+    "Superficiality",
+    "Market culture"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from traditional Bengali bazaar culture where betel shops (paan dokan) are common, symbolizing deceptive grandeur."
+}

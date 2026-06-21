@@ -1,0 +1,41 @@
+{
+  "id": "6660",
+  "idiom": "পলকে প্রলয়",
+  "alternative_idioms": [],
+  "literal_meaning": "পলকের মধ্যে প্রলয় (একটা চোখের পলকে বিশ্বব্যাপী ধ্বংস)",
+  "figurative_meaning_bn": "মুহূর্তের মধ্যে একটা ভীষণ কাণ্ড হওয়া",
+  "figurative_meaning_en": "A catastrophic event occurring in an instant",
+  "similar_in_english": [
+    "All hell breaks loose",
+    "The end of the world in a flash"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই রাত্রিতে ঝড় উঠে পলকে প্রলয় হয়ে গেল।",
+    "বিস্ফোরণের সাথে পলকে প্রলয় ঘটল, সবকিছু ধ্বংস হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "That night, the storm rose and catastrophe struck in a blink.",
+    "With the explosion, deluge happened in an instant, destroying everything."
+  ],
+  "usage_domain": [
+    "disasters",
+    "sudden events",
+    "everyday warnings"
+  ],
+  "tags": [
+    "destruction",
+    "suddenness",
+    "catastrophe",
+    "mythological"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the Hindu concept of 'Pralaya' or cosmic dissolution, symbolizing sudden end times in mythology."
+  ],
+  "note": "The idiom draws from ancient Bengali literary and mythological traditions."
+}

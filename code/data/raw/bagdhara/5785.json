@@ -1,0 +1,38 @@
+{
+  "id": "5785",
+  "idiom": "দালাল",
+  "alternative_idioms": [],
+  "literal_meaning": "দালাল (broker or middleman)",
+  "figurative_meaning_bn": "ব্যঙ্গে অযৌক্তিকভাবে কারও পক্ষ অবলম্বনকারী বা পক্ষসমর্থনকারী",
+  "figurative_meaning_en": "Sarcastically, a person who unreasonably supports or advocates for someone's side",
+  "similar_in_english": [
+    "bootlicker",
+    "toady",
+    "lackey"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সরকারের দালাল হয়ে গেছে।",
+    "মালিকের দালাল ছাড়া আর কিছু নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He has become a bootlicker for the government.",
+    "He's nothing but a toady for the boss."
+  ],
+  "usage_domain": [
+    "politics",
+    "social criticism"
+  ],
+  "tags": [
+    "sarcasm",
+    "betrayal",
+    "hypocrisy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in political satire in Bengali literature and media"
+}

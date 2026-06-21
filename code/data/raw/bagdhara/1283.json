@@ -1,0 +1,39 @@
+{
+  "id": "1283",
+  "idiom": "ওস্তাদি",
+  "alternative_idioms": [],
+  "literal_meaning": "মাস্টারি বা দক্ষতার অবস্থা (mastery or state of expertise)",
+  "figurative_meaning_bn": "প্রশংসার্থে কেরামতি, দক্ষতা",
+  "figurative_meaning_en": "Used in praise to denote remarkable skill or expertise",
+  "similar_in_english": [
+    "mastery",
+    "prowess",
+    "wizardry"
+  ],
+  "example_sentences_in_bangla": [
+    "ছেলেটির ওস্তাদি স্বীকার করতে হবে।",
+    "তার গানের ওস্তাদি সত্যিই অসাধারণ।"
+  ],
+  "example_sentences_in_english": [
+    "We have to acknowledge the boy's mastery.",
+    "His mastery in singing is truly remarkable."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "praise and admiration"
+  ],
+  "tags": [
+    "skill",
+    "expertise",
+    "praise",
+    "admiration"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Persian 'Ustad' meaning master, commonly used in Bengali to express admiration for skills"
+}

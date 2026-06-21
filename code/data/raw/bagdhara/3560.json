@@ -1,0 +1,39 @@
+{
+  "id": "3560",
+  "idiom": "ঘুণধরা",
+  "alternative_idioms": [
+    "ঘুণে ধরা"
+  ],
+  "literal_meaning": "ঘুণপোকা দিয়ে আক্রান্ত বা ক্ষতিগ্রস্ত",
+  "figurative_meaning_bn": "অনেক পুরানো",
+  "figurative_meaning_en": "Very old or antiquated",
+  "similar_in_english": [
+    "Moth-eaten",
+    "Worm-eaten"
+  ],
+  "example_sentences_in_bangla": [
+    "এই আলমারিটা ঘুণধরা হয়ে গেছে, আর ব্যবহার করা যাবে না।",
+    "তার ঘরে সব জিনিসপত্র ঘুণধরা।"
+  ],
+  "example_sentences_in_english": [
+    "This cupboard is moth-eaten and can't be used anymore.",
+    "All the items in his house are worm-eaten."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Describing old objects"
+  ],
+  "tags": [
+    "Age",
+    "Decay",
+    "Antiquity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the common issue of woodworms damaging wooden furniture in traditional Bengali households."
+}

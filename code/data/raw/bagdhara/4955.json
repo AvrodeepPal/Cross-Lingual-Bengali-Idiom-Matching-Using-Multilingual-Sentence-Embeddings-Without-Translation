@@ -1,0 +1,42 @@
+{
+  "id": "4955",
+  "idiom": "টিপ্পনী কাটা",
+  "alternative_idioms": [
+    "পিড়িং মারা",
+    "ফোড়ন কাটা"
+  ],
+  "literal_meaning": "পাশের নোট বা টিপ্পনী লেখা বা কাটা",
+  "figurative_meaning_bn": "অন্যের কথার মধ্যে অনাবশ্যক মন্তব্য করা; কথাবার্তার মধ্যে বিদ্রুপাত্মক মন্তব্য করা; সকল বিষয়ে খুঁত ধরা",
+  "figurative_meaning_en": "To make unnecessary comments in others' speech; to interject sarcastic remarks in conversation; to find faults in everything",
+  "similar_in_english": [
+    "nitpicking",
+    "making snide remarks",
+    "throwing shade"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় সকলে আলোচনা করছিল, হঠাৎ সে টিপ্পনী কেটে সবাইকে অস্বস্তিকর করে তুলল।",
+    "বন্ধুদের মধ্যে গল্প হচ্ছিল, কিন্তু রিনা কথায় কথায় টিপ্পনী কাটতে লাগল।"
+  ],
+  "example_sentences_in_english": [
+    "During the meeting, everyone was discussing, but he suddenly made a snide remark that made everyone uncomfortable.",
+    "The friends were chatting, but Rina kept interjecting sarcastic comments throughout."
+  ],
+  "usage_domain": [
+    "social interaction",
+    "conversation",
+    "criticism"
+  ],
+  "tags": [
+    "sarcasm",
+    "interruption",
+    "fault-finding"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the practice of writing marginal notes in texts, metaphorically extended to verbal interruptions."
+}

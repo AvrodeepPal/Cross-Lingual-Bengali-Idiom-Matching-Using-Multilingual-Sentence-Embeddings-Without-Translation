@@ -1,0 +1,37 @@
+{
+  "id": "4352",
+  "idiom": "ছিরি",
+  "alternative_idioms": [],
+  "literal_meaning": "ছোট কাটা বা ছেঁড়া",
+  "figurative_meaning_bn": "নিন্দার্থে মন্দ ধারণ",
+  "figurative_meaning_en": "In a derogatory sense, a bad notion or flaw",
+  "similar_in_english": [
+    "a blemish",
+    "a slip-up"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথায় ছিরি পড়ে গেছে।",
+    "এই কাজে ছিরি আছে, ভালো হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "There is a flaw in his speech.",
+    "This work has a blemish; it won't turn out well."
+  ],
+  "usage_domain": [
+    "conversation",
+    "criticism"
+  ],
+  "tags": [
+    "derogatory",
+    "speech",
+    "flaw"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to point out imperfections in speech or actions in everyday Bengali discourse."
+}

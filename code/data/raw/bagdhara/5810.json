@@ -1,0 +1,39 @@
+{
+  "id": "5810",
+  "idiom": "দিন চলা",
+  "alternative_idioms": [],
+  "literal_meaning": "দিন চলা (দিনগুলো চলা বা অতিবাহিত হওয়া)",
+  "figurative_meaning_bn": "দৈনন্দিন জীবন নির্বাহ হওয়া; জীবনযাত্রার দৈনন্দিন খরচ জোগাড় হওয়া; বেঁচে থাকা",
+  "figurative_meaning_en": "Managing daily life; arranging for everyday living expenses; surviving somehow",
+  "similar_in_english": [
+    "Making ends meet",
+    "Getting by",
+    "Day-to-day survival"
+  ],
+  "example_sentences_in_bangla": [
+    "এই অল্প আয়ে কোনোমতে দিন চলে।",
+    "গ্রামে সে শুধুমাত্র কৃষিকাজ করে দিন চালায়।"
+  ],
+  "example_sentences_in_english": [
+    "With this meager income, I can barely make ends meet.",
+    "In the village, he gets by just doing farm work."
+  ],
+  "usage_domain": [
+    "daily life",
+    "economy",
+    "survival"
+  ],
+  "tags": [
+    "livelihood",
+    "struggle",
+    "everyday expression"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the resilience in Bengali daily struggles, often used in contexts of modest living."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5040",
+  "idiom": "ঠাকুর ঘরে কে আমি কলা খায়নি",
+  "alternative_idioms": [],
+  "literal_meaning": "ঠাকুরের ঘরে কে, আমি কলা খাইনি (Who in the deity's house, I didn't eat the banana)",
+  "figurative_meaning_bn": "দোষ ধরার পূর্বেই বিনা প্রয়োজনে দোষ অস্বীকার করা",
+  "figurative_meaning_en": "Unnecessarily denying a wrongdoing before any accusation is made",
+  "similar_in_english": [
+    "The lady doth protest too much",
+    "Methinks thou dost protest too much"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কোনো ভুল করেনি, তবু ঠাকুর ঘরে কে আমি কলা খায়নি বলে আগেই অস্বীকার করে ফেলল।",
+    "মিটিংয়ে কেউ কিছু বলার আগেই সে ঠাকুর ঘরে কে আমি কলা খায়নি করে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "He hadn't done anything wrong, yet he preemptively denied it by saying 'Who in the deity's house, I didn't eat the banana.'",
+    "Before anyone could accuse her, she started protesting unnecessarily like 'Who in the temple, I didn't steal the fruit.'"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Defense and denial",
+    "Folklore and proverbs"
+  ],
+  "tags": [
+    "denial",
+    "preemptive",
+    "proverb",
+    "overreaction"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This proverb originates from rural Bengali folklore, possibly alluding to a story where someone in a village temple (Thakur's house) denies eating sacred bananas before being questioned, highlighting unnecessary self-defense."
+  ],
+  "note": "The idiom draws from traditional village life where temples (Thakur ghor) hold communal fruits like bananas as offerings."
+}

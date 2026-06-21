@@ -1,0 +1,42 @@
+{
+  "id": "4431",
+  "idiom": "ছোটহাজারি",
+  "alternative_idioms": [
+    "জলখাবার"
+  ],
+  "literal_meaning": "ছোট (small) + হাজারি (light meal or snack)",
+  "figurative_meaning_bn": "ইংরাজীকায়দায় প্রাতঃরাশ; নাশতা; সকালবেলার লঘু জলযোগ",
+  "figurative_meaning_en": "Light breakfast in English style; morning snack; light morning refreshment",
+  "similar_in_english": [
+    "Continental breakfast",
+    "Light breakfast"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ সকালে ছোটহাজারি করে অফিসে যাব।",
+    "বাড়িতে ছোটহাজারির জন্য চা আর বিস্কুট রাখা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "I'll have a light breakfast this morning before going to the office.",
+    "Tea and biscuits are kept at home for morning snack."
+  ],
+  "usage_domain": [
+    "Culinary",
+    "Daily routine"
+  ],
+  "tags": [
+    "food",
+    "morning",
+    "snack",
+    "breakfast"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "The term likely originates from the British colonial period in Bengal, referring to a light English-style morning meal as opposed to heavier traditional Bengali breakfasts."
+  ],
+  "note": "Common in urban Bengali households influenced by colonial customs."
+}

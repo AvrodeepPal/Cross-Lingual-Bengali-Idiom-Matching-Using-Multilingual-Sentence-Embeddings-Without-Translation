@@ -1,0 +1,39 @@
+{
+  "id": "1623",
+  "idiom": "কর্তার ইচ্ছাই কর্ম",
+  "alternative_idioms": [],
+  "literal_meaning": "কর্তার ইচ্ছাই কর্ম (master's wish itself is the work)",
+  "figurative_meaning_bn": "উপরওয়ালা/প্রভুর নির্দেশে কাজ, যুক্তির অবকাশ নেই; স্বেচ্ছাচারিতা",
+  "figurative_meaning_en": "Work according to the superior or master's orders, with no scope for reasoning; arbitrariness",
+  "similar_in_english": [
+    "The boss's word is law",
+    "Whatever the master says goes"
+  ],
+  "example_sentences_in_bangla": [
+    "অফিসে কর্তার ইচ্ছাই কর্ম, কোনো যুক্তি শোনা হয় না।",
+    "গ্রামের জমিদারের কর্তার ইচ্ছাই কর্ম ছিল সেই যুগে।"
+  ],
+  "example_sentences_in_english": [
+    "In the office, the boss's wish is the work; no reasoning is entertained.",
+    "In that era, the landlord's whim was the law in the village."
+  ],
+  "usage_domain": [
+    "workplace",
+    "authority",
+    "hierarchy"
+  ],
+  "tags": [
+    "authority",
+    "obedience",
+    "arbitrariness",
+    "despotism"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects traditional hierarchical structures in Bengali society, often invoking divine or authoritative will."
+}

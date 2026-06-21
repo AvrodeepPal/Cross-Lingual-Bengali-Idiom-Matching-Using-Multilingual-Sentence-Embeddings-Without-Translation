@@ -1,0 +1,39 @@
+{
+  "id": "1232",
+  "idiom": "এলোমেলো",
+  "alternative_idioms": [],
+  "literal_meaning": "অনুকরণমূলক শব্দ যা ছত্রাকার বা অগোছালো অবস্থা বোঝায়",
+  "figurative_meaning_bn": "অনুকারদশব্দ; নিয়মরহিত; পরিপাটিহীন; বিশৃঙ্খল",
+  "figurative_meaning_en": "Onomatopoeic word; without rules; untidy; disorderly",
+  "similar_in_english": [
+    "All over the place",
+    "Higgledy-piggledy",
+    "In disarray"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরের ভিতর সবকিছু এলোমেলো অবস্থায় ছিল।",
+    "তার চিন্তাভাবনা একেবারে এলোমেলো হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Everything inside the room was in a disorderly state.",
+    "His thoughts have become completely haphazard."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Descriptions of chaos"
+  ],
+  "tags": [
+    "disorder",
+    "untidiness",
+    "chaos",
+    "haphazard"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic adjective commonly used in Bengali to describe lack of order."
+}

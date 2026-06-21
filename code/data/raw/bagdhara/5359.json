@@ -1,0 +1,40 @@
+{
+  "id": "5359",
+  "idiom": "তাঁতের মাকু",
+  "alternative_idioms": [],
+  "literal_meaning": "তাঁতের (বুননের) মাকু (চালক বা নল)",
+  "figurative_meaning_bn": "খালি দিক পরিবর্তন করে এমন ব্যক্তি",
+  "figurative_meaning_en": "A person who only changes direction or sides",
+  "similar_in_english": [
+    "Turncoat",
+    "Weathervane"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তাঁতের মাকুর মতো সবসময় দল বদল করে।",
+    "রাজনীতিতে এমন তাঁতের মাকু লোকেরা অনেক দেখা যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He changes parties like a weaver's shuttle.",
+    "In politics, such turncoats are common."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Everyday betrayal",
+    "Social relationships"
+  ],
+  "tags": [
+    "fickleness",
+    "betrayal",
+    "opportunism"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom draws from traditional Bengali weaving, where the shuttle (মাকু) moves back and forth rapidly, symbolizing quick changes without substance."
+  ],
+  "note": "The idiom metaphorically refers to the shuttle in a loom that constantly shifts direction, akin to an unreliable person."
+}

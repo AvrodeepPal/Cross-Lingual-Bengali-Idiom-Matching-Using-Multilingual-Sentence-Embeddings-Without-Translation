@@ -1,0 +1,41 @@
+{
+  "id": "5344",
+  "idiom": "তরি-তরকারি",
+  "alternative_idioms": [
+    "শাক-পাতাড়",
+    "শাকসবজি"
+  ],
+  "literal_meaning": "তরি (পাতাযুক্ত শাক) এবং তরকারি (আনাজ-পাতা) এর সমন্বয়",
+  "figurative_meaning_bn": "সহচর শব্দ; নানাবিধ কাঁচা আনাজ; রন্ধনোপযোগী শাক ফলমূল",
+  "figurative_meaning_en": "Companion term; various kinds of raw vegetables; greens and fruits suitable for cooking",
+  "similar_in_english": [
+    "greens and veggies",
+    "pot herbs"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজার থেকে তরি-তরকারি কিনে এনেছি রান্নার জন্য।",
+    "তরি-তরকারির দাম আজ বেশ চড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "I bought greens and veggies from the market for cooking.",
+    "The price of greens and veggies is quite high today."
+  ],
+  "usage_domain": [
+    "food",
+    "cooking",
+    "daily life"
+  ],
+  "tags": [
+    "vegetables",
+    "bengali cuisine",
+    "everyday language"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is more of a compound term than a figurative idiom, commonly used in Bengali for assorted vegetables."
+}

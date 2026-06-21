@@ -1,0 +1,39 @@
+{
+  "id": "1858",
+  "idiom": "কাছা ধরা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাপড়ের কাছা বা হাতার মোড়া ধরা",
+  "figurative_meaning_bn": "পরনির্ভরশীল, স্বাধীনভাবে কাজ করতে অক্ষম",
+  "figurative_meaning_en": "Dependent on others, unable to act independently",
+  "similar_in_english": [
+    "Cling to someone's coattails",
+    "Ride on coattails"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় তার বাবার কাছা ধরে থাকে, নিজে কিছু করে না।",
+    "এই ছেলেটি চাকরিতে তার বন্ধুর কাছা ধরে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He always clings to his father's coattails and doesn't do anything on his own.",
+    "This guy got the job by riding on his friend's coattails."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Family dynamics",
+    "Workplace dependency"
+  ],
+  "tags": [
+    "dependency",
+    "reliance",
+    "lack of independence",
+    "traditional imagery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from traditional Bengali attire where 'কাছা' refers to the cuff of a dhoti or kurta, symbolizing holding onto someone for support."
+}

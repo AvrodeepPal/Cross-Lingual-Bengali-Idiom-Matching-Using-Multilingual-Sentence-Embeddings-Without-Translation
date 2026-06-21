@@ -1,0 +1,37 @@
+{
+  "id": "3860",
+  "idiom": "চার্জ",
+  "alternative_idioms": [],
+  "literal_meaning": "আইনি অভিযোগ বা দায়ের (legal charge)",
+  "figurative_meaning_bn": "অভিযোগ",
+  "figurative_meaning_en": "accusation",
+  "similar_in_english": [
+    "face charges",
+    "bring charges against"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার নামে চার্জ আছে।",
+    "পুলিশ তার বিরুদ্ধে চার্জ দায়ের করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "There is a charge against your name.",
+    "The police have filed charges against him."
+  ],
+  "usage_domain": [
+    "legal",
+    "conversational"
+  ],
+  "tags": [
+    "আইনি",
+    "অভিযোগ",
+    "আধুনিক"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "এটি ইংরেজি 'charge' শব্দ থেকে ধার করা আধুনিক বাংলা ব্যবহার।"
+}

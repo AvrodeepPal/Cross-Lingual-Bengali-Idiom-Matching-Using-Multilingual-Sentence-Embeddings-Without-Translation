@@ -1,0 +1,39 @@
+{
+  "id": "6544",
+  "idiom": "পটাপট করে",
+  "alternative_idioms": [],
+  "literal_meaning": "পটাপট শব্দ করে (অনুকরণমূলক শব্দের মাধ্যমে দ্রুততার ইঙ্গিত)",
+  "figurative_meaning_bn": "দ্রুত বা একের পর এক",
+  "figurative_meaning_en": "quickly or in rapid succession",
+  "similar_in_english": [
+    "in quick succession",
+    "one after another",
+    "thick and fast"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পটাপট করে চিঠি লিখে ফেলল।",
+    "বৃষ্টি পটাপট করে পড়ছে।"
+  ],
+  "example_sentences_in_english": [
+    "He wrote the letters patapat kore.",
+    "The rain is falling patapat kore."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "descriptive language"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "adverbial",
+    "speed",
+    "succession"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom mimics the sound of rapid actions, common in spoken Bengali."
+}

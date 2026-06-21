@@ -1,0 +1,42 @@
+{
+  "id": "7317",
+  "idiom": "বরবাদ",
+  "alternative_idioms": [
+    "বানচাল"
+  ],
+  "literal_meaning": "নষ্টকর বা ধ্বংসাত্মক অবস্থা",
+  "figurative_meaning_bn": "সম্পূর্ণ নষ্ট ব্যর্থ বা পণ্ড",
+  "figurative_meaning_en": "Completely ruined, failed, or spoiled",
+  "similar_in_english": [
+    "Down the drain",
+    "Gone to pot",
+    "All for naught"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অসতর্কতার জন্য পুরো প্রকল্পটাই বরবাদ হয়ে গেল।",
+    "আবহাওয়ার কারণে আমাদের ছুটির পরিকল্পনা সম্পূর্ণ বরবাদ।"
+  ],
+  "example_sentences_in_english": [
+    "Due to his carelessness, the entire project was ruined.",
+    "The vacation plans were completely spoiled because of the weather."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Business and work",
+    "Personal life"
+  ],
+  "tags": [
+    "failure",
+    "waste",
+    "ruin",
+    "disappointment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in colloquial Bengali to express total loss or failure."
+}

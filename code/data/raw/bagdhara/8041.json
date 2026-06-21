@@ -1,0 +1,42 @@
+{
+  "id": "8041",
+  "idiom": "ভাবগতিক",
+  "alternative_idioms": [
+    "ভঙ্গি"
+  ],
+  "literal_meaning": "ভাবের গতি বা চলন (attitude's movement or manner)",
+  "figurative_meaning_bn": "আচরণ, অভিপ্রায়, প্রবণতা; সমার্থক: চালচলন, ধরণ-ধারণ, রকম-সকম",
+  "figurative_meaning_en": "behavior, intention, tendency; synonyms: conduct, manner, style",
+  "similar_in_english": [
+    "body language",
+    "demeanor",
+    "vibe"
+  ],
+  "example_sentences_in_bangla": [
+    "ওর ভাবগতিক দেখে মনে হচ্ছে সে অসুস্থ।",
+    "তার ভঙ্গি থেকে বোঝা যায় সে খুব উত্তেজিত।"
+  ],
+  "example_sentences_in_english": [
+    "His demeanor suggests he's unwell.",
+    "From her mannerisms, it's clear she's very excited."
+  ],
+  "usage_domain": [
+    "social interaction",
+    "everyday conversation",
+    "psychology"
+  ],
+  "tags": [
+    "behavior",
+    "attitude",
+    "manner",
+    "intention"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom captures subtle non-verbal cues in Bengali social contexts"
+}

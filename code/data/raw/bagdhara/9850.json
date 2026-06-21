@@ -1,0 +1,40 @@
+{
+  "id": "9850",
+  "idiom": "সোলেনামা",
+  "alternative_idioms": [],
+  "literal_meaning": "সুলহ বা আপসের দলিল (পারসিক 'সুলহনামা' থেকে উদ্ভূত, অর্থ শান্তি বা সমঝোতার নথি)",
+  "figurative_meaning_bn": "আপোস-মীমাংসা বা নিষ্পত্তির দলিল",
+  "figurative_meaning_en": "Deed of compromise or settlement",
+  "similar_in_english": [
+    "Out-of-court settlement",
+    "Compromise agreement"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই পক্ষের মধ্যে বিরোধ মিটিয়ে সোলেনামা স্বাক্ষরিত হলো।",
+    "আদালতে যাওয়ার আগে তারা সোলেনামা করে নিল।"
+  ],
+  "example_sentences_in_english": [
+    "The dispute between the two parties was resolved by signing a deed of compromise.",
+    "They settled the matter out of court with a compromise agreement."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Dispute Resolution"
+  ],
+  "tags": [
+    "দলিল",
+    "আপস",
+    "আইনি",
+    "সমঝোতা"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "এটি পারসিক 'সুলহনামা' থেকে উদ্ভূত, যা মুসলিম শাসনকালে বাংলায় আইনি দলিল হিসেবে প্রচলিত হয়েছে।"
+  ],
+  "note": "প্রধানত আইনি প্রসঙ্গে ব্যবহৃত, সাধারণ কথোপকথনে কম দেখা যায়।"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "932",
+  "idiom": "এককলম লিখে দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "এক কলমে লিখে দেওয়া (one stroke of the pen to write and provide)",
+  "figurative_meaning_bn": "স্বীয় বক্তব্য অন্যথা হবে না- এই নিশ্চিত বিষয়ক উক্তি",
+  "figurative_meaning_en": "A firm statement ensuring one's words will not be altered; a definitive commitment in writing",
+  "similar_in_english": [
+    "Put it in black and white",
+    "Sign on the dotted line",
+    "Set in stone"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি চুক্তিটা এককলম লিখে দিয়েছি, এখন আর কোনো পরিবর্তন সম্ভব নয়।",
+    "সে তার প্রতিশ্রুতি এককলম লিখে দিয়ে নিশ্চিত করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "I wrote the agreement in one go, and now no changes are possible.",
+    "He committed his promise to writing definitively."
+  ],
+  "usage_domain": [
+    "legal",
+    "business",
+    "personal commitments"
+  ],
+  "tags": [
+    "finality",
+    "commitment",
+    "writing",
+    "assurance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural emphasis on written commitments in Bengali society, often used in formal agreements."
+}

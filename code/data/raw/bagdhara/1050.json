@@ -1,0 +1,39 @@
+{
+  "id": "1050",
+  "idiom": "একপয়সা মা-বাপ",
+  "alternative_idioms": [],
+  "literal_meaning": "এক পয়সার মা-বাপ (অর্থাৎ এক পয়সার মূল্যবান মা-বাবা)",
+  "figurative_meaning_bn": "অতিকৃপণ",
+  "figurative_meaning_en": "Extremely stingy or miserly",
+  "similar_in_english": [
+    "Penny-pincher",
+    "Tightfisted",
+    "Skinflint"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একপয়সা মা-বাপ, কখনো কাউকে সাহায্য করে না।",
+    "তার একপয়সা মা-বাপের মতো আচরণ দেখে সবাই অবাক হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a one-paisa parent, never helps anyone.",
+    "Everyone is surprised by his behavior like a one-paisa parent."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Personality",
+    "Family"
+  ],
+  "tags": [
+    "stinginess",
+    "miserliness",
+    "greed"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights cultural disdain for excessive frugality in Bengali society."
+}

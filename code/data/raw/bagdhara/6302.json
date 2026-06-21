@@ -1,0 +1,40 @@
+{
+  "id": "6302",
+  "idiom": "নাকাল",
+  "alternative_idioms": [],
+  "literal_meaning": "নাক (nose) + আল (leading or path, implying being led by the nose or troubled path)",
+  "figurative_meaning_bn": "হয়রান, পরিশ্রান্ত",
+  "figurative_meaning_en": "harassed, exhausted, or in trouble",
+  "similar_in_english": [
+    "run ragged",
+    "worn out",
+    "at one's wits' end"
+  ],
+  "example_sentences_in_bangla": [
+    "দীর্ঘ যাত্রায় নাকাল হয়ে পড়েছি।",
+    "এই কাজে আমাকে নাকাল করে দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "I've become exhausted from the long journey.",
+    "This work has left me completely harassed."
+  ],
+  "usage_domain": [
+    "daily life",
+    "travel",
+    "work struggles"
+  ],
+  "tags": [
+    "exhaustion",
+    "harassment",
+    "trouble",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of physical or mental fatigue from efforts or adversities in Bengali folklore and everyday speech."
+}

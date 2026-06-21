@@ -1,0 +1,38 @@
+{
+  "id": "8705",
+  "idiom": "মুখপত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখ (face/mouth) + পত্র (letter/page)",
+  "figurative_meaning_bn": "ভূমিকা; প্রস্তাবনা",
+  "figurative_meaning_en": "Preface; Introduction",
+  "similar_in_english": [
+    "foreword",
+    "prologue"
+  ],
+  "example_sentences_in_bangla": [
+    "বইটির মুখপত্রে লেখক তার জীবনের কথা বর্ণনা করেছেন।",
+    "এই প্রবন্ধের মুখপত্রটি পাঠককে বিষয়টির গুরুত্ব বোঝায়।"
+  ],
+  "example_sentences_in_english": [
+    "The preface of the book describes the author's life experiences.",
+    "The introduction of this essay explains the importance of the topic to the reader."
+  ],
+  "usage_domain": [
+    "literature",
+    "writing",
+    "publishing"
+  ],
+  "tags": [
+    "formal",
+    "literary",
+    "introductory"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is commonly used in Bengali literary contexts to refer to the introductory section of books or writings."
+}

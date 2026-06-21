@@ -1,0 +1,40 @@
+{
+  "id": "6404",
+  "idiom": "না হয়",
+  "alternative_idioms": [],
+  "literal_meaning": "না হওয়া বা না হয়ে ওঠা (শাব্দিকভাবে 'না' এবং 'হয়' এর সমন্বয়ে স্বীকৃতি বা ঘটনার অস্বীকারের অর্থ)",
+  "figurative_meaning_bn": "তর্কের খাতিরে মেনে নেওয়া",
+  "figurative_meaning_en": "Accepting or conceding for the sake of argument",
+  "similar_in_english": [
+    "If you say so",
+    "Alright, whatever you say",
+    "I'll let you have that"
+  ],
+  "example_sentences_in_bangla": [
+    "না হয়, তোমার কথাই ঠিক বলো।",
+    "না হয় আমরা এখনই যাই, পরে দেখা যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "Alright, if you insist, we'll do it your way.",
+    "Fine, you win this argument for now."
+  ],
+  "usage_domain": [
+    "conversation",
+    "debate",
+    "everyday dialogue"
+  ],
+  "tags": [
+    "concession",
+    "informal",
+    "argument",
+    "persuasion"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali conversational politeness in resolving minor disputes without escalation."
+}

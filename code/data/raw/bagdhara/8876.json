@@ -1,0 +1,41 @@
+{
+  "id": "8876",
+  "idiom": "মোসাহেব",
+  "alternative_idioms": [],
+  "literal_meaning": "সঙ্গী বা পার্শ্বচর",
+  "figurative_meaning_bn": "খোশামুদে; চাটুকার; চামচে; তোষামোদকারী পার্শ্বচর; মনঃতুষ্টকারী",
+  "figurative_meaning_en": "sycophant; flatterer; bootlicker; yes-man; ingratiating companion",
+  "similar_in_english": [
+    "yes-man",
+    "bootlicker",
+    "toady"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় বসের মোসাহেবের মতো আচরণ করে।",
+    "পার্টির নেতারা তাদের মোসাহেবদের দিয়ে কাজ চালায়।"
+  ],
+  "example_sentences_in_english": [
+    "He always behaves like a sycophant to the boss.",
+    "Party leaders run their affairs through their flatterers."
+  ],
+  "usage_domain": [
+    "workplace",
+    "politics",
+    "social interactions"
+  ],
+  "tags": [
+    "flattery",
+    "insincerity",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term originates from Persian 'musahib', referring to royal companions in Mughal courts, evolving in Bengali to denote insincere flatterers."
+  ],
+  "note": "Rooted in Indo-Persian linguistic influence on Bengali."
+}

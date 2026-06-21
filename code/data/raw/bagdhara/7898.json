@@ -1,0 +1,41 @@
+{
+  "id": "7898",
+  "idiom": "বৈরাগ্য",
+  "alternative_idioms": [],
+  "literal_meaning": "রাগ বা আসক্তির অভাব (বৈ + রাগ্য)",
+  "figurative_meaning_bn": "সংসারে অনাসক্তি; বিষয়ভোগে ঔদাসীন্য",
+  "figurative_meaning_en": "Detachment from worldly affairs; indifference to material pleasures",
+  "similar_in_english": [
+    "non-attachment",
+    "renunciation of worldly desires"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবনে বৈরাগ্যের ছোঁয়া লাগার পর সে সবকিছু ছেড়ে দিয়েছে।",
+    "বৈরাগ্য অর্জন করতে হলে মনকে নিয়ন্ত্রণ করতে শিখতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "After experiencing vairagya in his life, he has given up everything.",
+    "To attain vairagya, one must learn to control the mind."
+  ],
+  "usage_domain": [
+    "spirituality",
+    "philosophy",
+    "literature"
+  ],
+  "tags": [
+    "detachment",
+    "renunciation",
+    "asceticism",
+    "spiritual liberation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term originates from ancient Sanskrit texts and is central to Indian philosophical traditions, notably in Vedanta and Bhakti movements."
+  ],
+  "note": "Often associated with Rabindranath Tagore's literary works, as in the quoted line emphasizing that liberation through vairagya is not for everyone."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "7303",
+  "idiom": "বয়স হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বয়স বৃদ্ধি পাওয়া বা বয়স্ক হওয়া",
+  "figurative_meaning_bn": "সাবালক বা বৃদ্ধ হওয়া",
+  "figurative_meaning_en": "To become adult or elderly",
+  "similar_in_english": [
+    "to grow old",
+    "coming of age"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বয়স হয়েছে, কিন্তু বুদ্ধি এখনও গজায়নি।",
+    "বয়স হওয়ার পরও সে ছেলেমানুষের মতো আচরণ করে।"
+  ],
+  "example_sentences_in_english": [
+    "He has grown old, but wisdom hasn't come yet.",
+    "Even after aging, he behaves like a child."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "family discussions"
+  ],
+  "tags": [
+    "age",
+    "maturity",
+    "wisdom"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used ironically to highlight lack of wisdom despite age."
+}

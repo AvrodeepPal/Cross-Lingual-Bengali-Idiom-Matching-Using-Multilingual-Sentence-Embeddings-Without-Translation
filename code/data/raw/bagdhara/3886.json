@@ -1,0 +1,40 @@
+{
+  "id": "3886",
+  "idiom": "চালুমাল",
+  "alternative_idioms": [],
+  "literal_meaning": "চালু (স্টাইলিশ বা দক্ষ) + মাল (জিনিস বা বস্তু)",
+  "figurative_meaning_bn": "বিদ্রুপে- ফন্দিবাজ লোক; লোকের মন জয় করে নিজের কাজ হাসিল করতে দক্ষ ব্যক্তি-অশালীন",
+  "figurative_meaning_en": "Sarcastically, a cunning or sly person; a skilled individual who wins over people's hearts to achieve their own goals - impudent or vulgar",
+  "similar_in_english": [
+    "smooth operator",
+    "slick character",
+    "con artist"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো একটা চালুমাল, সবাইকে মাতিয়ে নিজের স্বার্থ সিদ্ধ করে।",
+    "বড় চালুমাল আছো দেখছি, এভাবে কি কাজ চলে?"
+  ],
+  "example_sentences_in_english": [
+    "He's quite the smooth operator, fooling everyone to get his way.",
+    "You're a real slick character, aren't you? How does that work?"
+  ],
+  "usage_domain": [
+    "conversational",
+    "sarcasm",
+    "social interaction"
+  ],
+  "tags": [
+    "বিদ্রুপ",
+    "ফন্দি",
+    "দক্ষতা",
+    "অশালীনতা"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is colloquial Bengali slang often used in informal, urban or semi-urban settings to mock cunning behavior."
+}

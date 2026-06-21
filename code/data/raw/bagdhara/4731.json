@@ -1,0 +1,39 @@
+{
+  "id": "4731",
+  "idiom": "জোরাজুরি",
+  "alternative_idioms": [],
+  "literal_meaning": "জোর (শক্তি বা বলপ্রয়োগ) এবং জুরি (অনুরোধ বা চাপ দেওয়া) থেকে উদ্ভূত",
+  "figurative_meaning_bn": "সহচরশব্দ; নির্বন্ধ অতিশয়োক্তি; পীড়াপীড়ি",
+  "figurative_meaning_en": "coercion; excessive insistence; pestering",
+  "similar_in_english": [
+    "strong-arm tactics",
+    "put the screws on",
+    "pester someone"
+  ],
+  "example_sentences_in_bangla": [
+    "জোরাজুরি করে কাজ করিয়ে নেওয়া যায় না।",
+    "সে তার বন্ধুকে জোরাজুরি করে টাকা ধার দিতে বলল।"
+  ],
+  "example_sentences_in_english": [
+    "You can't get work done through coercion.",
+    "He pestered his friend to lend him money."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "persuasion",
+    "family matters"
+  ],
+  "tags": [
+    "coercion",
+    "insistence",
+    "pressure"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali social dynamics where direct pressure is frowned upon in polite interactions."
+}

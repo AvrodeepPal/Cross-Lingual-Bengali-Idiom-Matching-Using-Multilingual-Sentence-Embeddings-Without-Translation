@@ -1,0 +1,41 @@
+{
+  "id": "4003",
+  "idiom": "চূড়ামণিযোগ",
+  "alternative_idioms": [],
+  "literal_meaning": "চূড়া (শীর্ষ বা মুকুট) + মণি (রত্ন) + যোগ (সংযোগ বা উপলক্ষ)",
+  "figurative_meaning_bn": "চন্দ্রগ্রহণ ও সূর্যগ্রহণ উপলক্ষে গঙ্গাস্নানের যোগ",
+  "figurative_meaning_en": "The auspicious conjunction for bathing in the Ganges during lunar and solar eclipses",
+  "similar_in_english": [
+    "Once in a blue moon (for rare celestial events)",
+    "Under a lucky star (for auspicious timings)"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ চূড়ামণিযোগে গঙ্গাস্নান করলে পাপমোচন হবে।",
+    "চন্দ্রগ্রহণের সময় চূড়ামণিযোগ পালন করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Bathing in the Ganges during Choodamani Yoga today will cleanse one's sins.",
+    "The lunar eclipse marks the observance of Choodamani Yoga."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Astronomy",
+    "Cultural Practices"
+  ],
+  "tags": [
+    "গ্রহণ",
+    "গঙ্গাস্নান",
+    "যোগ",
+    "হিন্দু রীতি"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This term refers to traditional Hindu astrological timings during eclipses, rooted in ancient Vedic practices for purification rituals along the Ganges."
+  ],
+  "note": "This is a specialized term from Hindu astrology rather than a common figurative idiom."
+}

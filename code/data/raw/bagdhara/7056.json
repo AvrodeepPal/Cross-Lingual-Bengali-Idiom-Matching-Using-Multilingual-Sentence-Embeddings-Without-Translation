@@ -1,0 +1,41 @@
+{
+  "id": "7056",
+  "idiom": "ফতোয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ইসলামী ধর্মীয় ফতোয়া বা লিখিত রায়",
+  "figurative_meaning_bn": "লিখিত আদেশ/নির্দেশ",
+  "figurative_meaning_en": "Written order or directive",
+  "similar_in_english": [
+    "Issue a decree",
+    "Papal bull"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকার ফতোয়া জারি করল, কিন্তু কেউ মানল না।",
+    "এটা শুধু ফতোয়া, বাস্তবে কিছু হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "The government issued a fatwa, but no one followed it.",
+    "It's just a fatwa; nothing will happen in reality."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Administration",
+    "Legal"
+  ],
+  "tags": [
+    "authority",
+    "obedience",
+    "ineffectiveness",
+    "Islamic"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term 'fatwa' originates from Islamic jurisprudence, referring to a non-binding legal opinion issued by a mufti, with historical examples like the 1989 fatwa against Salman Rushdie by Ayatollah Khomeini."
+  ],
+  "note": "Often used figuratively to imply an authoritative but potentially ignored command in Bengali discourse."
+}

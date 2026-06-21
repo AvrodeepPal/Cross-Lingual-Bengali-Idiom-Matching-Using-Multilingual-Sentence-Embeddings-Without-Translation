@@ -1,0 +1,38 @@
+{
+  "id": "9581",
+  "idiom": "সক্কালবেলা",
+  "alternative_idioms": [],
+  "literal_meaning": "অতি প্রথম সকালের সময়",
+  "figurative_meaning_bn": "অতি প্রত্যুষে, ঝোঁকযুক্ত সকালবেলা, ভোর হতে-না-হতেই",
+  "figurative_meaning_en": "Very early in the morning, at the break of dawn, right as the day begins",
+  "similar_in_english": [
+    "At the crack of dawn",
+    "Bright and early"
+  ],
+  "example_sentences_in_bangla": [
+    "সক্কালবেলা উঠে কাজে বেরিয়ে পড়ল।",
+    "সক্কালবেলা বাজারে গিয়ে সবজি কিনে নিল।"
+  ],
+  "example_sentences_in_english": [
+    "He got up at the crack of dawn and started working.",
+    "She went to the market bright and early to buy vegetables."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Time expressions"
+  ],
+  "tags": [
+    "morning",
+    "early",
+    "dawn",
+    "daily routine"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural emphasis on early rising in rural Bengali life for agricultural or daily chores."
+}

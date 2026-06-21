@@ -1,0 +1,41 @@
+{
+  "id": "6573",
+  "idiom": "পথ ছাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "পথ থেকে সরে যাওয়া বা যাতায়াতের পথ ছেড়ে দেওয়া",
+  "figurative_meaning_bn": "যাবার সুযোগ করে দেওয়া যাওয়া-আসার পথ থেকে সরে যাওয়া",
+  "figurative_meaning_en": "To make way for someone to pass or to step aside from the path of movement",
+  "similar_in_english": [
+    "Step aside",
+    "Give way",
+    "Make room"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি পথ ছাড়ো, আমাকে যেতে দাও।",
+    "ভিড়ের মধ্যে সবাই পথ ছাড়ল যাতে অ্যাম্বুলেন্স যেতে পারে।"
+  ],
+  "example_sentences_in_english": [
+    "Step aside, let me pass.",
+    "Everyone made way in the crowd so the ambulance could go through."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "politeness",
+    "movement"
+  ],
+  "tags": [
+    "courtesy",
+    "obstruction removal",
+    "social interaction"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the famous Rabindra Sangeet 'পথ ছাড়ো ওগো শ্যাম কথা রাখো মোর' by Rabindranath Tagore, where 'শ্যাম' alludes to Lord Krishna."
+  ],
+  "note": "The idiom draws from devotional and poetic contexts in Bengali literature."
+}

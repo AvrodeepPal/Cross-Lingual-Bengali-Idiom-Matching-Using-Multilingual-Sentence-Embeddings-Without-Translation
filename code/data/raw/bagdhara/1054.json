@@ -1,0 +1,38 @@
+{
+  "id": "1054",
+  "idiom": "এক পা যাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি পা এগিয়ে যাওয়া",
+  "figurative_meaning_bn": "অতি অল্পদূর; প্রথম পা বাড়ালে যতদূর যাওয়া যায়",
+  "figurative_meaning_en": "A very short distance; the extent one can go by merely taking the first step",
+  "similar_in_english": [
+    "a stone's throw",
+    "take the first step"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দোকানে এক পা যাওয়ার পরই ফিরে এল।",
+    "কাজ শুরু করতে গিয়ে এক পা যাওয়াই থেমে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He went only one step towards the shop and then turned back.",
+    "He took just one step into starting the work and then stopped."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "travel",
+    "decision-making"
+  ],
+  "tags": [
+    "short distance",
+    "hesitation",
+    "limited progress"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies reluctance or fear to proceed further."
+}

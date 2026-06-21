@@ -1,0 +1,43 @@
+{
+  "id": "5274",
+  "idiom": "ঢেঁকি স্বর্গে গিয়ে গেলেও ধান ভানে",
+  "alternative_idioms": [
+    "ঢেঁকি স্বর্গে গিয়ে ধান ভানে"
+  ],
+  "literal_meaning": "যদি ঢেঁকি স্বর্গে চলে যায় তবুও সে ধান ভানে",
+  "figurative_meaning_bn": "যার যা স্বভাব তা মরলেও ছাড়তে পারে না",
+  "figurative_meaning_en": "A person's inherent nature cannot be changed even after death",
+  "similar_in_english": [
+    "A leopard cannot change its spots",
+    "Old habits die hard"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সারাজীবন অলস ছিল, ঢেঁকি স্বর্গে গিয়ে গেলেও ধান ভানে।",
+    "তার মিথ্যাবাদী স্বভাব কখনো যাবে না, ঢেঁকি স্বর্গে গিয়ে গেলেও ধান ভানে।"
+  ],
+  "example_sentences_in_english": [
+    "He has been lazy all his life; even if the pestle goes to heaven, it still husks rice.",
+    "His habit of lying will never change; even if the pestle goes to heaven, it still husks rice."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "character description",
+    "moral lessons"
+  ],
+  "tags": [
+    "habit",
+    "nature",
+    "unchanging behavior",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from traditional Bengali rural life where the 'ঢেঁকি' (pestle) is a tool used for husking rice in a mortar, symbolizing an unchangeable function tied to its purpose."
+  ],
+  "note": "The idiom highlights the persistence of innate traits, often used to comment on stubborn habits."
+}

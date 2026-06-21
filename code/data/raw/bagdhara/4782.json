@@ -1,0 +1,41 @@
+{
+  "id": "4782",
+  "idiom": "ঝড়তিপড়তি",
+  "alternative_idioms": [],
+  "literal_meaning": "ঝড়ে উড়ে যাওয়া বা হাতড়ানোর সময় ছড়িয়ে পড়া ছোটখাটো অংশবিশেষ",
+  "figurative_meaning_bn": "সহচরশব্দ; উপেক্ষণীয় ক্ষতির ভাগ; ছোটখাটো অবশিষ্টাংশ; নাড়াচাড়ায় মালের যে অংশ নষ্ট হয়; যৎসামান্য",
+  "figurative_meaning_en": "synonymous term; negligible share of loss; minor remnants; the portion of goods damaged during handling; insignificant amount",
+  "similar_in_english": [
+    "scraps",
+    "crumbs from the table",
+    "odds and ends",
+    "peanuts"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার ভাগে পড়ল শুধু ঝড়তিপড়তি।",
+    "ব্যবসায়ে অনেক সময় লাভের পরও ঝড়তিপড়তি নিয়ে সন্তুষ্ট থাকতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "I only got the scraps in the deal.",
+    "In business, sometimes you have to settle for the negligible remnants after the main profit."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "trade and commerce",
+    "folklore"
+  ],
+  "tags": [
+    "negligible",
+    "remnants",
+    "loss",
+    "insignificant"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom originates from rural trade practices where goods like grains or fabrics lose small portions during handling or wind exposure."
+}

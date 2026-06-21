@@ -1,0 +1,40 @@
+{
+  "id": "1392",
+  "idiom": "কণ্ঠস্থ",
+  "alternative_idioms": [
+    "মুখস্থ"
+  ],
+  "literal_meaning": "কণ্ঠে স্থাপিত (throat-placed)",
+  "figurative_meaning_bn": "স্মৃতিতে ধরা আছে",
+  "figurative_meaning_en": "committed to memory",
+  "similar_in_english": [
+    "by heart",
+    "learn by rote"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার এই কবিতাটি কণ্ঠস্থ আছে।",
+    "তিনি সকল শ্লোক কণ্ঠস্থ করে ফেলেছেন।"
+  ],
+  "example_sentences_in_english": [
+    "I have this poem committed to memory.",
+    "He has memorized all the verses by heart."
+  ],
+  "usage_domain": [
+    "education",
+    "literature",
+    "oral tradition"
+  ],
+  "tags": [
+    "memory",
+    "recitation",
+    "learning"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali oral traditions of memorization in poetry and scriptures."
+}

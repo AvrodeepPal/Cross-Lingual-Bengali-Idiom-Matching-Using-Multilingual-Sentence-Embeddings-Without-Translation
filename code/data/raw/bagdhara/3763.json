@@ -1,0 +1,44 @@
+{
+  "id": "3763",
+  "idiom": "চলাফেরা",
+  "alternative_idioms": [
+    "পায়চারি",
+    "হাঁটা-চলা",
+    "হাঁটাহাঁটি"
+  ],
+  "literal_meaning": "চলা (walking/moving) + ফেরা (returning/going around)",
+  "figurative_meaning_bn": "ইতস্তত ভ্রমণ",
+  "figurative_meaning_en": "wandering or traveling from place to place",
+  "similar_in_english": [
+    "toing and froing",
+    "roaming about",
+    "getting around"
+  ],
+  "example_sentences_in_bangla": [
+    "বুড়োবয়সে এখন আর চলাফেরা করতে পারি না।",
+    "তার চলাফেরা দেখে মনে হয় সে সব জায়গায় ঘুরে বেড়ায়।"
+  ],
+  "example_sentences_in_english": [
+    "In old age, I can't do much traveling anymore.",
+    "From his constant toing and froing, it seems he wanders everywhere."
+  ],
+  "usage_domain": [
+    "daily life",
+    "travel",
+    "aging"
+  ],
+  "tags": [
+    "movement",
+    "travel",
+    "mobility",
+    "everyday expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in colloquial Bengali to describe mobility or lack thereof in later life"
+}

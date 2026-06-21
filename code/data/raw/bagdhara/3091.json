@@ -1,0 +1,41 @@
+{
+  "id": "3091",
+  "idiom": "গা জ্বালা করা",
+  "alternative_idioms": [
+    "গায়ে জ্বালা ধরা"
+  ],
+  "literal_meaning": "শরীরে বা ত্বকে জ্বালা করা (to cause burning or irritation on the body/skin)",
+  "figurative_meaning_bn": "ঘৃণার/বিরক্তি উদ্রেক হওয়া",
+  "figurative_meaning_en": "To evoke disgust or irritation",
+  "similar_in_english": [
+    "Get on one's nerves",
+    "Make one's skin crawl",
+    "Rub the wrong way"
+  ],
+  "example_sentences_in_bangla": [
+    "তার আচরণ দেখে আমার গা জ্বালা করল।",
+    "এই গন্ধে গায়ে জ্বালা ধরে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "His behavior made my skin crawl.",
+    "This smell gives me the creeps."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation",
+    "annoyance"
+  ],
+  "tags": [
+    "negative emotion",
+    "body metaphor",
+    "colloquial"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses a sensory metaphor common in Bengali expressive language to describe visceral discomfort."
+}

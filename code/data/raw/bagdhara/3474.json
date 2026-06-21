@@ -1,0 +1,38 @@
+{
+  "id": "3474",
+  "idiom": "ঘরোয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘরের সংশ্লিষ্ট বা ঘরের মতো",
+  "figurative_meaning_bn": "পারিবারিক",
+  "figurative_meaning_en": "Familial or domestic",
+  "similar_in_english": [
+    "Homely",
+    "Down-home"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ঘরোয়া কথা শুনে মনে হয় সবাই পরিবারের মতো।",
+    "তারা ঘরোয়া জীবন যাপন করে।"
+  ],
+  "example_sentences_in_english": [
+    "Hearing this homely talk makes it feel like everyone is family.",
+    "They lead a domestic life."
+  ],
+  "usage_domain": [
+    "Family",
+    "Conversation",
+    "Daily life"
+  ],
+  "tags": [
+    "domestic",
+    "familial",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to something intimate and family-like, often used in casual contexts."
+}

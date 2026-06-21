@@ -1,0 +1,44 @@
+{
+  "id": "10023",
+  "idiom": "হাজারি",
+  "alternative_idioms": [
+    "ছোট হাজারি",
+    "বড় হাজারি"
+  ],
+  "literal_meaning": "হাজারের অনুপাতে বা সংখ্যায় (কলোনিয়াল প্রসঙ্গে খাদ্য ভাতা)",
+  "figurative_meaning_bn": "ইয়োরোপীয় প্রথায় ভোজন",
+  "figurative_meaning_en": "European-style meal or breakfast",
+  "similar_in_english": [
+    "continental breakfast",
+    "light breakfast"
+  ],
+  "example_sentences_in_bangla": [
+    "সকালে ছোট হাজারি খেয়ে অফিসে যাই।",
+    "বড় হাজারি বলতে ডিম, রুটি আর চা বোঝায়।"
+  ],
+  "example_sentences_in_english": [
+    "I have a small hazari in the morning before going to the office.",
+    "Big hazari refers to eggs, bread, and tea."
+  ],
+  "usage_domain": [
+    "food and dining",
+    "daily routine",
+    "colonial influence"
+  ],
+  "tags": [
+    "breakfast",
+    "european custom",
+    "colonial term",
+    "meal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Derived from British colonial era practices where 'hazari' referred to meal allowances or hasty meals for officers, adapted into Bengali for European-style breakfasts."
+  ],
+  "note": "This term reflects Anglo-Indian linguistic borrowing in Bengali vocabulary."
+}

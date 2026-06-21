@@ -1,0 +1,36 @@
+{
+  "id": "4554",
+  "idiom": "জল হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "জল হয়ে যাওয়া বা জল পড়া",
+  "figurative_meaning_bn": "বৃষ্টি হওয়া",
+  "figurative_meaning_en": "to rain",
+  "similar_in_english": [
+    "it's raining"
+  ],
+  "example_sentences_in_bangla": [
+    "কাল রাতে সামান্য জল হয়েছে।",
+    "আজ সকাল থেকে জল হচ্ছে, বাইরে যাওয়া যাবে না।"
+  ],
+  "example_sentences_in_english": [
+    "It rained lightly last night.",
+    "It's been raining since morning; we can't go outside."
+  ],
+  "usage_domain": [
+    "weather",
+    "daily conversation"
+  ],
+  "tags": [
+    "rain",
+    "colloquial",
+    "euphemism"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a colloquial expression often used for light or drizzle in Bengali, reflecting everyday rural or semi-urban weather talk."
+}

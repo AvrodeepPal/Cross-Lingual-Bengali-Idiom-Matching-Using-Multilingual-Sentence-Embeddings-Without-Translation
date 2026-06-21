@@ -1,0 +1,45 @@
+{
+  "id": "9056",
+  "idiom": "রম্ভা",
+  "alternative_idioms": [
+    "অষ্টরম্ভা",
+    "ঘোড়ার ডিম"
+  ],
+  "literal_meaning": "রম্ভা (হিন্দু পুরাণের এক অপ্সরা বা নিম্ফের নাম)",
+  "figurative_meaning_bn": "শূন্য; কিছুই নয়; ফাঁকি",
+  "figurative_meaning_en": "Zero; nothing at all; a trick or deception",
+  "similar_in_english": [
+    "zilch",
+    "nada",
+    "a wild goose chase"
+  ],
+  "example_sentences_in_bangla": [
+    "তার প্রতিশ্রুতিতে কোনো রম্ভা নেই।",
+    "এটা তো সম্পূর্ণ রম্ভা, কিছুই পাওয়া যাবে না।"
+  ],
+  "example_sentences_in_english": [
+    "There's no substance in his promises—it's all Rambha.",
+    "This is complete nonsense; it's just a Rambha."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "informal speech",
+    "everyday conversation"
+  ],
+  "tags": [
+    "nothingness",
+    "deception",
+    "emptiness",
+    "mythological reference"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from Rambha, a celestial nymph (apsara) in Hindu mythology, symbolizing illusion or something beautiful yet insubstantial, akin to zero or a hoax in colloquial use."
+  ],
+  "note": "Often used interchangeably with synonyms like অষ্টরম্ভা, implying multiplicity of illusion leading to nothingness."
+}

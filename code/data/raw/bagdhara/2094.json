@@ -1,0 +1,39 @@
+{
+  "id": "2094",
+  "idiom": "কায়েম",
+  "alternative_idioms": [],
+  "literal_meaning": "স্থাপিত বা নির্ধারিত (established or fixed)",
+  "figurative_meaning_bn": "পাকা, বহাল, চিরস্থায়ী",
+  "figurative_meaning_en": "permanent, confirmed, everlasting",
+  "similar_in_english": [
+    "set in stone",
+    "permanent fixture",
+    "tenured"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চাকরিতে কায়েম হয়েছে।",
+    "এটি একটি কায়েমি বন্দোবস্ত।"
+  ],
+  "example_sentences_in_english": [
+    "He has been confirmed in his job.",
+    "This is a permanent settlement."
+  ],
+  "usage_domain": [
+    "employment",
+    "legal",
+    "administration"
+  ],
+  "tags": [
+    "permanence",
+    "confirmation",
+    "stability"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in bureaucratic and administrative contexts in Bengali-speaking regions."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "6265",
+  "idiom": "না ঘাটকা, না ঘরকা",
+  "alternative_idioms": [],
+  "literal_meaning": "না ঘাটের, না ঘরের (না নদীর সিঁড়ির অংশ, না বাড়ির অংশ)",
+  "figurative_meaning_bn": "ইতস্তত ভাব; সিদ্ধান্ত নিতে অপারগ; সমতুল্য ত্রিশঙ্কু অবস্থা",
+  "figurative_meaning_en": "Indecisiveness; inability to make decisions; a state of limbo or being neither here nor there",
+  "similar_in_english": [
+    "Sitting on the fence",
+    "Betwixt and between",
+    "In limbo"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চাকরির প্রস্তাব নিয়ে না ঘাটকা না ঘরকা হয়ে পড়েছে।",
+    "রাজনীতিতে এই দল না ঘাটকা না ঘরকা অবস্থায় আছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is neither at the ghat nor at home regarding the job offer, completely indecisive.",
+    "The party is in a neither-here-nor-there state in politics."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Decision-making",
+    "Politics"
+  ],
+  "tags": [
+    "indecision",
+    "hesitation",
+    "dilemma",
+    "limbo"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom likely originates from rural Bengali life, where 'ghat' refers to riverbanks used for bathing or rituals, and 'ghar' to home, symbolizing someone who belongs to neither place, evoking a sense of displacement or indecision in village settings."
+  ],
+  "note": "The idiom draws from everyday rural imagery, emphasizing cultural nuances of belonging and choice in Bengali society."
+}

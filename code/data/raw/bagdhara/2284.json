@@ -1,0 +1,42 @@
+{
+  "id": "2284",
+  "idiom": "কুলাভিমান",
+  "alternative_idioms": [
+    "জাত্যভিমান"
+  ],
+  "literal_meaning": "কুলের (বংশের) আভিমান (গর্ব বা অহংকার)",
+  "figurative_meaning_bn": "আভিজাত্যের গর্ব",
+  "figurative_meaning_en": "Pride of nobility or aristocratic arrogance",
+  "similar_in_english": [
+    "Highborn pride",
+    "Blue-blooded snobbery"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কুলাভিমানের জন্য সে নিম্নবর্গের লোকদের সাথে কথা বলতে চায় না।",
+    "গ্রামের এই লোকটির কুলাভিমান এতটাই যে সে শহুরে জীবন গ্রহণ করতে অস্বীকার করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "His aristocratic pride prevents him from talking to people from lower classes.",
+    "The villager's clan pride is so strong that he refuses to adopt urban life."
+  ],
+  "usage_domain": [
+    "social class",
+    "behavior",
+    "interpersonal relations"
+  ],
+  "tags": [
+    "pride",
+    "arrogance",
+    "nobility",
+    "caste",
+    "elitism"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali social hierarchies involving family lineage and caste pride."
+}

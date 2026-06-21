@@ -1,0 +1,40 @@
+{
+  "id": "7009",
+  "idiom": "পোস্টমর্টেম",
+  "alternative_idioms": [],
+  "literal_meaning": "মৃত্যুর পরে (ল্যাটিন: post mortem)",
+  "figurative_meaning_bn": "মৃত্যুর পরে মৃতদেহের পরীক্ষা",
+  "figurative_meaning_en": "Examination of a dead body after death",
+  "similar_in_english": [
+    "Postmortem",
+    "Autopsy"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ পোস্টমর্টেম রিপোর্টের অপেক্ষায় আছে।",
+    "ডাক্তাররা পোস্টমর্টেম করে মৃত্যুর কারণ নির্ণয় করলেন।"
+  ],
+  "example_sentences_in_english": [
+    "The police are awaiting the postmortem report.",
+    "The doctors conducted a postmortem to determine the cause of death."
+  ],
+  "usage_domain": [
+    "Medical",
+    "Legal",
+    "Forensic"
+  ],
+  "tags": [
+    "Latin origin",
+    "Borrowed term",
+    "Formal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "city",
+  "history": [
+    "Originated from Latin phrase 'post mortem' meaning 'after death', adopted in medical and legal contexts worldwide."
+  ],
+  "note": "This is a borrowed Latin term used in Bengali, not a native idiom, but functions similarly in formal discourse."
+}

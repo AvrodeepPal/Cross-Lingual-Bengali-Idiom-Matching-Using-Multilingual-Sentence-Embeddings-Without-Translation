@@ -1,0 +1,43 @@
+{
+  "id": "5447",
+  "idiom": "তিলে তিলে",
+  "alternative_idioms": [
+    "তিল তিল করে"
+  ],
+  "literal_meaning": "তিল অনু তিল (সেসামের বীজের মতো ছোট ছোট অংশে)",
+  "figurative_meaning_bn": "একটু একটু করে, ধীরে ধীরে",
+  "figurative_meaning_en": "little by little, gradually",
+  "similar_in_english": [
+    "bit by bit",
+    "inch by inch",
+    "step by step"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তিলে তিলে তার লক্ষ্যের দিকে এগিয়ে যাচ্ছে।",
+    "এই কাজটি তিলে তিলে সম্পন্ন করতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He is progressing towards his goal little by little.",
+    "This task must be completed gradually."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "motivational advice",
+    "proverbs"
+  ],
+  "tags": [
+    "gradual progress",
+    "accumulation",
+    "patience"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the cultural proverb akin to 'Rome was not built in a day,' emphasizing gradual development."
+  ],
+  "note": "Variants reflect slight dialectical differences in expression."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7443",
+  "idiom": "বাকবিতণ্ডা",
+  "alternative_idioms": [
+    "বাগবিতণ্ডা"
+  ],
+  "literal_meaning": "কথার তর্ক বা বাক্যালাপের ঝগড়া",
+  "figurative_meaning_bn": "কথা কাটাকাটি, প্রবল তর্কাতর্কি",
+  "figurative_meaning_en": "verbal sparring, heated argument or fierce debate",
+  "similar_in_english": [
+    "exchange words",
+    "verbal jousting",
+    "tit for tat"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই বন্ধুর মধ্যে অকারণে বাকবিতণ্ডা শুরু হয়ে গেল।",
+    "সভায় বাকবিতণ্ডা করে সময় নষ্ট করবেন না।"
+  ],
+  "example_sentences_in_english": [
+    "An unnecessary verbal sparring started between the two friends.",
+    "Don't waste time with heated arguments in the meeting."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "disputes",
+    "debates"
+  ],
+  "tags": [
+    "argument",
+    "quarrel",
+    "debate",
+    "verbal fight"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Synonyms include ঝগড়াঝাটি, ফইজত, বাদানুবাদ"
+}

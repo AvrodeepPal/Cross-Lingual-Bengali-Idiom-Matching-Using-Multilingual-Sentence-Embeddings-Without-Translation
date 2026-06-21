@@ -1,0 +1,39 @@
+{
+  "id": "2440",
+  "idiom": "ক্ষণজন্মা",
+  "alternative_idioms": [],
+  "literal_meaning": "ক্ষণে জন্মগ্রহণকারী (born in a moment)",
+  "figurative_meaning_bn": "পূণ্যবান, ভাগ্যবান, শুভক্ষণে যার জন্ম",
+  "figurative_meaning_en": "Fortunate, lucky, one born at an auspicious moment",
+  "similar_in_english": [
+    "Born under a lucky star",
+    "Born with a silver spoon in one's mouth"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ক্ষণজন্মা বলে তার জীবন সবসময় সফলতায় ভরা।",
+    "এই ক্ষণজন্মা ছেলের জন্ম দেশের উজ্জ্বল ভবিষ্যতের লক্ষণ।"
+  ],
+  "example_sentences_in_english": [
+    "He is kshanjanma, so his life is always filled with success.",
+    "The birth of this kshanjanma boy is a sign of the country's bright future."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Astrology"
+  ],
+  "tags": [
+    "fortune",
+    "auspiciousness",
+    "birth",
+    "luck"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to astrological beliefs in auspicious birth times in Bengali Hindu culture"
+}

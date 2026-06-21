@@ -1,0 +1,37 @@
+{
+  "id": "2590",
+  "idiom": "খাতায় নাম লেখানো",
+  "alternative_idioms": [],
+  "literal_meaning": "খাতায় নাম লেখানো (register বা খাতায় নিজের নাম লিখিয়ে নেওয়া)",
+  "figurative_meaning_bn": "বদসঙ্গের সদস্য হওয়া",
+  "figurative_meaning_en": "becoming a member of bad company (often used sarcastically)",
+  "similar_in_english": [
+    "falling in with the wrong crowd",
+    "joining the ranks of the rogues"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খারাপ লোকের সঙ্গে মিশে খাতায় নাম লেখিয়েছে।",
+    "এই বয়সে খাতায় নাম লেখানো উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He has gotten his name written in the register by associating with bad people.",
+    "At this age, getting your name in the register isn't advisable."
+  ],
+  "usage_domain": [
+    "social commentary",
+    "everyday conversation"
+  ],
+  "tags": [
+    "sarcasm",
+    "bad association",
+    "warning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used with sarcasm to mock or warn about poor choices in companionship"
+}

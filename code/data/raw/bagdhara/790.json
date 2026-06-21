@@ -1,0 +1,40 @@
+{
+  "id": "790",
+  "idiom": "উতোর-চাপান",
+  "alternative_idioms": [],
+  "literal_meaning": "উত্তর দেওয়া এবং চাপানো (প্রতিক্রিয়া এবং চাপ প্রয়োগ)",
+  "figurative_meaning_bn": "প্রশ্ন ও উত্তর; প্রশ্ন ও পালটা প্রশ্ন",
+  "figurative_meaning_en": "question and answer; question and counter-question",
+  "similar_in_english": [
+    "back-and-forth",
+    "tit for tat questioning",
+    "Q and A"
+  ],
+  "example_sentences_in_bangla": [
+    "বৈঠকে সকলে উতোর-চাপান করে বিষয়টি স্পষ্ট করল।",
+    "তাদের মধ্যে উতোর-চাপান চলছিল কোনো সিদ্ধান্ত না নেওয়া পর্যন্ত।"
+  ],
+  "example_sentences_in_english": [
+    "In the meeting, everyone engaged in question-and-answer to clarify the issue.",
+    "There was a back-and-forth of questions between them until no decision was reached."
+  ],
+  "usage_domain": [
+    "conversation",
+    "debate",
+    "discussion"
+  ],
+  "tags": [
+    "dialogue",
+    "inquiry",
+    "exchange",
+    "questioning"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom likely derives from conversational exchange, possibly metaphorical from loading/unloading in rural transport contexts"
+}

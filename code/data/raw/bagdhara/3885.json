@@ -1,0 +1,38 @@
+{
+  "id": "3885",
+  "idiom": "চালুমাল",
+  "alternative_idioms": [],
+  "literal_meaning": "চালু (বর্তমান বা প্রচলিত) মাল (পণ্য বা জিনিসপত্র)",
+  "figurative_meaning_bn": "বাজারে কাটতি আছে এমন পণ্য",
+  "figurative_meaning_en": "Goods that are in demand or selling well in the market",
+  "similar_in_english": [
+    "hot commodity",
+    "fast-moving consumer goods"
+  ],
+  "example_sentences_in_bangla": [
+    "এই দোকানে চালুমাল পাওয়া যায়, তাই সবসময় ভিড়।",
+    "বাজারে চালুমালের দাম একটু বেশি হয়।"
+  ],
+  "example_sentences_in_english": [
+    "You can find fast-selling items in this shop, so it's always crowded.",
+    "Prices of in-demand goods are a bit higher in the market."
+  ],
+  "usage_domain": [
+    "commerce",
+    "market",
+    "business"
+  ],
+  "tags": [
+    "trade",
+    "economy",
+    "demand"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to merchandise in vogue in Bengali trading contexts"
+}

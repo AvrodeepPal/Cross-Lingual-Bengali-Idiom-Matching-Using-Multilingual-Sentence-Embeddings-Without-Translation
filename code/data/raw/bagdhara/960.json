@@ -1,0 +1,39 @@
+{
+  "id": "960",
+  "idiom": "একগলা",
+  "alternative_idioms": [],
+  "literal_meaning": "গলা পর্যন্ত (neck-deep)",
+  "figurative_meaning_bn": "গলাপর্যন্ত ডোবে এমন; গলা-প্রমাণ",
+  "figurative_meaning_en": "up to the neck; neck-deep",
+  "similar_in_english": [
+    "neck-deep",
+    "up to one's neck"
+  ],
+  "example_sentences_in_bangla": [
+    "নদীতে একগলা জল জমেছে, সাঁতার কাটা কঠিন হবে।",
+    "সে তার ব্যবসায় একগলা ঋণে জড়িয়ে পড়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The river has neck-deep water, swimming will be difficult.",
+    "He is neck-deep in debt from his business."
+  ],
+  "usage_domain": [
+    "water depth",
+    "financial trouble",
+    "deep involvement"
+  ],
+  "tags": [
+    "depth",
+    "water",
+    "trouble",
+    "figurative depth"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts involving water or metaphorical immersion in problems"
+}

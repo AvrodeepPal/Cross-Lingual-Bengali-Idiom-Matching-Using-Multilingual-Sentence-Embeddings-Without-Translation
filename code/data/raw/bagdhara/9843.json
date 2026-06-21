@@ -1,0 +1,45 @@
+{
+  "id": "9843",
+  "idiom": "সোনার পাথরবাটি",
+  "alternative_idioms": [
+    "অশ্বডিম্ব",
+    "অমাবস্যার চাঁদ",
+    "ঘোড়ার ডিম",
+    "বালিহীন বালিয়াড়ি"
+  ],
+  "literal_meaning": "সোনার তৈরি পাথরের বাটি (a mortar made of gold, which is contradictory as mortars are typically stone)",
+  "figurative_meaning_bn": "অসম্ভব বা অস্তিত্বহীন বস্তু",
+  "figurative_meaning_en": "Something impossible or non-existent",
+  "similar_in_english": [
+    "When pigs fly",
+    "A square circle",
+    "The moon made of green cheese"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথা শুনে মনে হলো এটা সোনার পাথরবাটি, কখনো সম্ভব নয়।",
+    "এই প্রকল্পটি সোনার পাথরবাটির মতো, বাস্তবে অসম্ভব।"
+  ],
+  "example_sentences_in_english": [
+    "Hearing his words, it seemed like a golden stone mortar—utterly impossible.",
+    "This project is like a golden stone mortar; it's simply not feasible in reality."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Humor and sarcasm"
+  ],
+  "tags": [
+    "impossibility",
+    "metaphor",
+    "absurdity",
+    "folklore expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws on the inherent contradiction of material properties to emphasize impossibility, common in oral Bengali traditions."
+}

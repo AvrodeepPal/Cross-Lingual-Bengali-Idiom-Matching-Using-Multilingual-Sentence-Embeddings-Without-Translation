@@ -1,0 +1,39 @@
+{
+  "id": "4467",
+  "idiom": "জড়িবুটি",
+  "alternative_idioms": [],
+  "literal_meaning": "জড়ি (গাছের শিকড় বা ভেষজ) এবং বুটি (ছোট টুকরো বা বড়ি)",
+  "figurative_meaning_bn": "গাছের শিকড় ও ছাল থেকে তৈরী টোটকা ওষুধের বড়ি",
+  "figurative_meaning_en": "Pills or quack medicines made from the roots and barks of trees",
+  "similar_in_english": [
+    "herbal remedy",
+    "snake oil"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের কবিরাজ তাকে জড়িবুটি দিয়ে চিকিত্সা করলেন।",
+    "আধুনিক ওষুধের পরিবর্তে সে জড়িবুটি খেয়ে সুস্থ হয়ে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "The village healer treated him with herbal pills.",
+    "Instead of modern medicine, he recovered by taking herbal concoctions."
+  ],
+  "usage_domain": [
+    "medicine",
+    "traditional healing"
+  ],
+  "tags": [
+    "herbal",
+    "folk medicine",
+    "ayurvedic"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Rooted in ancient Bengali folk medicine practices influenced by Ayurveda."
+  ],
+  "note": "Often implies traditional or unverified remedies in everyday usage."
+}

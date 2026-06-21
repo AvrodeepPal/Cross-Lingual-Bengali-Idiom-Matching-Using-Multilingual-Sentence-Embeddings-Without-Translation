@@ -1,0 +1,39 @@
+{
+  "id": "3185",
+  "idiom": "গায়ের জ্বালা",
+  "alternative_idioms": [
+    "গাত্রদাহ"
+  ],
+  "literal_meaning": "গায়ের জ্বালা (শাব্দিক অর্থ: ত্বকের জ্বালা বা পোড়া অনুভূতি)",
+  "figurative_meaning_bn": "ঈর্ষা, হিংসা",
+  "figurative_meaning_en": "envy, jealousy",
+  "similar_in_english": [
+    "green with envy",
+    "burning with jealousy"
+  ],
+  "example_sentences_in_bangla": [
+    "তার নতুন গাড়ি দেখে প্রতিবেশীর গায়ের জ্বালা ধরে গেল।",
+    "পরীক্ষায় ভালো ফল করায় বন্ধুরা আমার প্রতি গায়ের জ্বালা দেখাতে শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "Seeing his new car made the neighbor burn with envy.",
+    "My friends started showing jealousy towards me after I scored well in the exam."
+  ],
+  "usage_domain": [
+    "emotions",
+    "social interactions"
+  ],
+  "tags": [
+    "jealousy",
+    "envy",
+    "negative emotion"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলা সাহিত্য এবং দৈনন্দিন কথোপকথনে ব্যাপকভাবে ব্যবহৃত হয়।"
+}

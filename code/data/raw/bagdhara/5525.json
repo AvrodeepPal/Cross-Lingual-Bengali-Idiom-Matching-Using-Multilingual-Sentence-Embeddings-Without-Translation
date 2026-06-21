@@ -1,0 +1,40 @@
+{
+  "id": "5525",
+  "idiom": "তোয়াজ",
+  "alternative_idioms": [],
+  "literal_meaning": "সম্মান প্রদর্শন বা খাতির",
+  "figurative_meaning_bn": "অভ্যর্থনা, খাতির, মনোরঞ্জন",
+  "figurative_meaning_en": "courtesy, respect, entertainment or flattery towards superiors",
+  "similar_in_english": [
+    "butter up",
+    "fawn over",
+    "toady to"
+  ],
+  "example_sentences_in_bangla": [
+    "উপরওয়ালাকে তোয়াজ করে কাজ সহজ করা যায়।",
+    "সে সবসময় বসকে তোয়াজ করে।"
+  ],
+  "example_sentences_in_english": [
+    "Flattering the boss can make work easier.",
+    "He always flatters his superiors."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "workplace",
+    "hierarchy"
+  ],
+  "tags": [
+    "flattery",
+    "respect",
+    "courtesy",
+    "sycophancy"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from Persian/Arabic 'tawajjuh' meaning attention or regard, adapted in Bengali for social deference."
+}

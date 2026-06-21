@@ -1,0 +1,43 @@
+{
+  "id": "7433",
+  "idiom": "বাঁ হাতের খেল",
+  "alternative_idioms": [
+    "বাঁ হাতের কাজ",
+    "বাঁ হাতের ব্যাপার"
+  ],
+  "literal_meaning": "বাঁ হাতের খেলা (left hand's game or play)",
+  "figurative_meaning_bn": "ঘুষগ্রহণ",
+  "figurative_meaning_en": "taking bribes or bribery",
+  "similar_in_english": [
+    "sleight of hand",
+    "backhander",
+    "under the table deal"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকারি চাকরিতে ঘুষ নেওয়া তার বাঁ হাতের খেল হয়ে গেছে।",
+    "এই প্রকল্পে অনুমোদন পাওয়ার জন্য বাঁ হাতের কাজ করতে হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Taking bribes has become a sleight of hand for him in government service.",
+    "To get approval for this project, some backhanded dealings had to be done."
+  ],
+  "usage_domain": [
+    "politics",
+    "business",
+    "corruption"
+  ],
+  "tags": [
+    "negative",
+    "deception",
+    "bribery",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the connotation of 'left hand' implying deceit or trickery, akin to sleight of hand in magic or corruption."
+}

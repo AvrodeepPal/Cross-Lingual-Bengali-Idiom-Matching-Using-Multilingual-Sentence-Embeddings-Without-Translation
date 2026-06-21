@@ -1,0 +1,40 @@
+{
+  "id": "5259",
+  "idiom": "ঢিলেরবদলে পাটকেল",
+  "alternative_idioms": [
+    "ঢিল মারলে পাটকেল পড়ে"
+  ],
+  "literal_meaning": "ঢিল (ছোট পাথর) এর বদলে পাটকেল (পাটের বস্তায় বাঁধা বড় পাথর বা ভারী প্রজেকটাইল)",
+  "figurative_meaning_bn": "আঘাতের উত্তরে আরও বড় প্রত্যাঘাত আসে",
+  "figurative_meaning_en": "A larger counterattack comes in response to an initial blow",
+  "similar_in_english": [
+    "Fight fire with fire",
+    "An eye for an eye, but escalated"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ছোটখাটো ঝগড়া শুরু করল, কিন্তু ঢিলেরবদলে পাটকেল পেয়ে গেল।",
+    "রাজনীতিতে এমন হয়, ঢিলেরবদলে পাটকেল ফিরে আসে।"
+  ],
+  "example_sentences_in_english": [
+    "He started a minor quarrel, but ended up getting a cannonball in return for a pebble.",
+    "In politics, it's like that—if you throw a stone, a boulder comes back."
+  ],
+  "usage_domain": [
+    "conflict resolution",
+    "social interactions",
+    "politics"
+  ],
+  "tags": [
+    "retaliation",
+    "escalation",
+    "proverbial warning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from rural practices of stone-throwing disputes, emphasizing disproportionate responses."
+}

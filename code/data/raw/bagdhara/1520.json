@@ -1,0 +1,42 @@
+{
+  "id": "1520",
+  "idiom": "কদমবুসি",
+  "alternative_idioms": [],
+  "literal_meaning": "কদম (পা) বুসি (চুম্বন বা স্পর্শ করা)",
+  "figurative_meaning_bn": "পায়ে হাত দিয়ে প্রণাম/সালাম করার সংস্কার",
+  "figurative_meaning_en": "The custom of greeting or showing respect by touching the feet with hands",
+  "similar_in_english": [
+    "touch one's feet",
+    "pay obeisance",
+    "kowtow"
+  ],
+  "example_sentences_in_bangla": [
+    "পুরনো জমিদারি যুগে কদমবুসি করে প্রভুর অধীনে সমর্পণ দেখানো হতো।",
+    "আজকাল কদমবুসির রীতি প্রায় লুপ্ত হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "In the old zamindari era, kadambusi was done to show submission to the lord.",
+    "Nowadays, the custom of kadambusi has almost disappeared."
+  ],
+  "usage_domain": [
+    "etiquette",
+    "tradition",
+    "social hierarchy"
+  ],
+  "tags": [
+    "respect",
+    "greeting",
+    "feudalism",
+    "cultural practice"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom refers to the feudal practice in historical Bengal where servants, tenants, or inferiors would touch the feet of landlords or superiors as a sign of deep respect and submission, common during the zamindari system under British colonial rule."
+  ],
+  "note": "Derived from Persian 'qadam-bosi' (kissing the foot), adapted into Bengali cultural context."
+}

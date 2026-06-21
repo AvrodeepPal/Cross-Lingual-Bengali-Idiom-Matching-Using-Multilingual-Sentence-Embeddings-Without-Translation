@@ -1,0 +1,42 @@
+{
+  "id": "7335",
+  "idiom": "বর্ণবিদ্বেষ",
+  "alternative_idioms": [],
+  "literal_meaning": "বর্ণের প্রতি বিদ্বেষ (caste or varna hatred)",
+  "figurative_meaning_bn": "এক বর্ণ/জাতির অন্য বর্ণ/জাতির প্রতি ঘৃণা",
+  "figurative_meaning_en": "Hatred of one caste or community towards another caste or community",
+  "similar_in_english": [
+    "racial prejudice",
+    "casteism",
+    "ethnic animosity"
+  ],
+  "example_sentences_in_bangla": [
+    "সমাজে বর্ণবিদ্বেষের কারণে বিভিন্ন জাতির মধ্যে দ্বন্দ্ব দেখা যায়।",
+    "ঐতিহাসিকভাবে বর্ণবিদ্বেষ ভারতীয় সমাজকে বিভক্ত করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Caste hatred in society leads to conflicts between different communities.",
+    "Historically, caste hatred has divided Indian society."
+  ],
+  "usage_domain": [
+    "social issues",
+    "discrimination",
+    "sociology"
+  ],
+  "tags": [
+    "caste",
+    "hatred",
+    "prejudice",
+    "social division"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom stems from the ancient varna system in Hindu scriptures like the Rigveda, which categorized society into four varnas, leading to persistent caste-based discrimination and social hierarchies in Bengali and broader Indian culture."
+  ],
+  "note": "This term is more of a compound word than a traditional proverb, often used in discussions of social reform."
+}

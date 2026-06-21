@@ -1,0 +1,40 @@
+{
+  "id": "4203",
+  "idiom": "চ্যাঙা-ব্যাঙা",
+  "alternative_idioms": [
+    "চুনোপুঁটি"
+  ],
+  "literal_meaning": "ছোট-ছোট ব্যাঙের মতো অসার বা তুচ্ছ জিনিস",
+  "figurative_meaning_bn": "গুরুত্বহীন লোক",
+  "figurative_meaning_en": "Insignificant or unimportant people",
+  "similar_in_english": [
+    "small fry",
+    "nobodies",
+    "peanuts"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চ্যাঙা-ব্যাঙা লোকের সঙ্গে সময় নষ্ট করে না।",
+    "এই চ্যাঙা-ব্যাঙা দলের কথায় কান দিও না।"
+  ],
+  "example_sentences_in_english": [
+    "He doesn't waste time with insignificant people.",
+    "Don't pay attention to what this bunch of nobodies says."
+  ],
+  "usage_domain": [
+    "conversational",
+    "social commentary"
+  ],
+  "tags": [
+    "insignificance",
+    "derogatory",
+    "people"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from rural imagery of small, worthless creatures to denote triviality in human context."
+}

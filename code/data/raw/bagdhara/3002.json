@@ -1,0 +1,43 @@
+{
+  "id": "3002",
+  "idiom": "গলাধাক্কা",
+  "alternative_idioms": [
+    "অর্ধচন্দ্র",
+    "ঘাড়ধাক্কা"
+  ],
+  "literal_meaning": "গলায় ধাক্কা দেওয়া (throat or neck push)",
+  "figurative_meaning_bn": "অপমান করে বিদায় করা",
+  "figurative_meaning_en": "to dismiss or send away with insult or humiliation",
+  "similar_in_english": [
+    "give someone the boot",
+    "kick to the curb",
+    "show the door"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুকে গলাধাক্কা দিয়ে বাড়ি থেকে তাড়িয়ে দিল।",
+    "কোম্পানিতে খারাপ পারফরম্যান্সের জন্য তাকে গলাধাক্কা দেওয়া হলো।"
+  ],
+  "example_sentences_in_english": [
+    "He gave his friend a গলাধাক্কা and threw him out of the house.",
+    "She was given a গলাধাক্কা from the company due to poor performance."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "workplace dismissal",
+    "family disputes"
+  ],
+  "tags": [
+    "insult",
+    "dismissal",
+    "colloquial",
+    "negative expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali social interactions involving rejection."
+}

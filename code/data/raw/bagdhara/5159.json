@@ -1,0 +1,38 @@
+{
+  "id": "5159",
+  "idiom": "ডায়েরি লেখা",
+  "alternative_idioms": [],
+  "literal_meaning": "ডায়েরি লিখে রাখা",
+  "figurative_meaning_bn": "দৈনন্দিন ঘটনার দিনপঞ্জী লেখা",
+  "figurative_meaning_en": "Recording daily events in a diary",
+  "similar_in_english": [
+    "Keeping a diary",
+    "Journaling"
+  ],
+  "example_sentences_in_bangla": [
+    "সে প্রতিদিন তার দৈনন্দিন কাজকর্ম ডায়েরি লেখে।",
+    "বিপদের সময় ডায়েরি লেখা তার মনকে শান্ত করে।"
+  ],
+  "example_sentences_in_english": [
+    "She writes in her diary every day about her daily activities.",
+    "Keeping a diary helps him reflect on his experiences during tough times."
+  ],
+  "usage_domain": [
+    "Personal reflection",
+    "Daily routine",
+    "Writing and literature"
+  ],
+  "tags": [
+    "দিনপঞ্জি",
+    "দৈনন্দিন জীবন",
+    "স্মৃতি লিপি"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This expression is largely literal but commonly used in Bengali for personal record-keeping, reflecting a cultural emphasis on introspection and documentation."
+}

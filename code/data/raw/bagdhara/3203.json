@@ -1,0 +1,42 @@
+{
+  "id": "3203",
+  "idiom": "গিজগিজ",
+  "alternative_idioms": [
+    "গিসগিস"
+  ],
+  "literal_meaning": "ধ্বন্যাত্মক দ্বিত্বশব্দ (onomatopoeic reduplicated word imitating buzzing or murmuring sound)",
+  "figurative_meaning_bn": "বহুলোকের একত্র সমাবেশ হেতু গুঞ্জনশব্দ",
+  "figurative_meaning_en": "The buzzing or murmuring sound caused by a large gathering of people",
+  "similar_in_english": [
+    "abuzz with activity",
+    "humming with crowds",
+    "packed like sardines"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় লোক গিজগিজ করছে।",
+    "বাজারে গিজগিজ করে উঠেছে লোকজন।"
+  ],
+  "example_sentences_in_english": [
+    "The hall is buzzing with people.",
+    "The market is humming with crowds."
+  ],
+  "usage_domain": [
+    "social gatherings",
+    "crowds",
+    "events"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "crowd description",
+    "murmur",
+    "gathering"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Synonym in Bengali: ঠাসাঠাসি (packed tightly)"
+}

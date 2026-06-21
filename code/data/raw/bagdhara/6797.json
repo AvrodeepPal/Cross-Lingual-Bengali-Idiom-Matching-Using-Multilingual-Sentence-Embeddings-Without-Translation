@@ -1,0 +1,39 @@
+{
+  "id": "6797",
+  "idiom": "পাততাড়ি গুটানো",
+  "alternative_idioms": [],
+  "literal_meaning": "পাততাড়ি (পাতার তৈরি থালা বা আসন) গুটিয়ে নেওয়া",
+  "figurative_meaning_bn": "বাক্স-প্যাঁটরা নিয়ে স্থায়ীভাবে স্থানত্যাগ করা",
+  "figurative_meaning_en": "To pack up one's belongings and leave a place permanently",
+  "similar_in_english": [
+    "Pack up and go",
+    "Hit the road for good",
+    "Clear out permanently"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের ঝগড়ায় সে তার পাততাড়ি গুটিয়ে চলে গেল।",
+    "চাকরি হারানোর পর তারা পাততাড়ি গুটিয়ে শহর ছেড়ে দিল।"
+  ],
+  "example_sentences_in_english": [
+    "After the village quarrel, he packed up his leaf plates and left for good.",
+    "After losing his job, they packed up and left the city permanently."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "relocation",
+    "daily life"
+  ],
+  "tags": [
+    "departure",
+    "permanent move",
+    "rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali rural practices using disposable leaf utensils, symbolizing a simple, final departure."
+}

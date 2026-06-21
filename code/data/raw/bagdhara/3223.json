@@ -1,0 +1,41 @@
+{
+  "id": "3223",
+  "idiom": "গুজরান",
+  "alternative_idioms": [],
+  "literal_meaning": "দিন কাটানো বা চালানো (passing or managing the day)",
+  "figurative_meaning_bn": "জীবিকা নির্বাহ করা",
+  "figurative_meaning_en": "To earn a living or make ends meet",
+  "similar_in_english": [
+    "Make ends meet",
+    "Get by",
+    "Earn one's keep"
+  ],
+  "example_sentences_in_bangla": [
+    "গরিব লোকেরা কোনোমতে দিন গুজরান করে।",
+    "শহরে এসে চাকরি না পেয়ে সে কষ্ট করে গুজরান করছে।"
+  ],
+  "example_sentences_in_english": [
+    "Poor people somehow manage to make ends meet.",
+    "Without a job in the city, he is struggling to get by."
+  ],
+  "usage_domain": [
+    "daily life",
+    "economy",
+    "livelihood"
+  ],
+  "tags": [
+    "survival",
+    "poverty",
+    "hardship"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in Rabindranath Tagore's works, such as in the context of rural life and farming: 'চাষবাস করে দিন গুজরান করি'."
+  ],
+  "note": "The idiom originates from Persian influences in Bengali, commonly used in literature to depict modest living."
+}

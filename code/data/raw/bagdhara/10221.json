@@ -1,0 +1,37 @@
+{
+  "id": "10221",
+  "idiom": "হাতে নেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতে নেওয়া (taking in hand)",
+  "figurative_meaning_bn": "দায়িত্ব নেওয়া",
+  "figurative_meaning_en": "To take responsibility or undertake a duty",
+  "similar_in_english": [
+    "Take on a responsibility",
+    "Take charge"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরিবারের দায়িত্ব হাতে নিয়েছে।",
+    "প্রকল্পটি হাতে নেওয়ার পর কাজ শুরু হলো।"
+  ],
+  "example_sentences_in_english": [
+    "He has taken the family responsibility in hand.",
+    "The project started after taking it in hand."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "professional"
+  ],
+  "tags": [
+    "responsibility",
+    "action",
+    "commitment"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural emphasis on personal accountability in Bengali society."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "5414",
+  "idiom": "তাসের ঘর",
+  "alternative_idioms": [],
+  "literal_meaning": "কার্ডের ঘর (house of cards)",
+  "figurative_meaning_bn": "ভঙ্গুর অবস্থা, বিপজ্জনক অবস্থা",
+  "figurative_meaning_en": "fragile situation, precarious or dangerous condition",
+  "similar_in_english": [
+    "house of cards",
+    "on thin ice"
+  ],
+  "example_sentences_in_bangla": [
+    "তাদের ব্যবসা এখন তাসের ঘরের মতো ভঙ্গুর।",
+    "রাজনৈতিক পরিস্থিতি তাসের ঘরের মতো অস্থির হয়ে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Their business is now as fragile as a house of cards.",
+    "The political situation has become as unstable as a house of cards."
+  ],
+  "usage_domain": [
+    "politics",
+    "business",
+    "daily life"
+  ],
+  "tags": [
+    "instability",
+    "fragility",
+    "danger"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the universal image of a card house collapsing easily, adapted into Bengali linguistic usage."
+}

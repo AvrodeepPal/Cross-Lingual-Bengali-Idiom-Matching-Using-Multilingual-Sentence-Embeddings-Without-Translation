@@ -1,0 +1,41 @@
+{
+  "id": "401",
+  "idiom": "আগাপাস্তালা",
+  "alternative_idioms": [
+    "আগা-পাছতলা"
+  ],
+  "literal_meaning": "আগা (সামনে) - পাছ (পিছনে) - তলা (নীচে); সম্পূর্ণ আগাগোড়া বা সামনে-পিছনে-নীচ পর্যন্ত",
+  "figurative_meaning_bn": "আপাদমস্তক; উপর থেকে নীচ পর্যন্ত; সর্বাঙ্গ",
+  "figurative_meaning_en": "from head to toe; from top to bottom; the entire body",
+  "similar_in_english": [
+    "from head to toe",
+    "all over",
+    "top to bottom"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আগাপাস্তালা কাদায় মাখামাখি হয়ে এসেছে।",
+    "ঘরটা আগাপাস্তালা পরিষ্কার করে দাও।"
+  ],
+  "example_sentences_in_english": [
+    "He came back covered in mud from head to toe.",
+    "Clean the entire house from top to bottom."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "descriptive language"
+  ],
+  "tags": [
+    "body",
+    "extent",
+    "completeness",
+    "physical coverage"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly describes total coverage or immersion, rooted in everyday Bengali anatomical references."
+}

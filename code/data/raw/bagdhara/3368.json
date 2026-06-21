@@ -1,0 +1,40 @@
+{
+  "id": "3368",
+  "idiom": "গোলমালে চণ্ডীপাঠ",
+  "alternative_idioms": [],
+  "literal_meaning": "বিশৃঙ্খলা বা গোলমালের মধ্যে চণ্ডীপাঠ (দেবীমাহাত্ম্যের পাঠ) করা",
+  "figurative_meaning_bn": "কোনো রকমে দায় উদ্ধার",
+  "figurative_meaning_en": "Somehow escaping a responsibility or obligation",
+  "similar_in_english": [
+    "By the skin of one's teeth",
+    "Dodging a bullet"
+  ],
+  "example_sentences_in_bangla": [
+    "সে গোলমালে চণ্ডীপাঠ করে দায় থেকে পালিয়ে গেল।",
+    "কাজের চাপে গোলমালে চণ্ডীপাঠ করে সবাইকে শান্ত করল।"
+  ],
+  "example_sentences_in_english": [
+    "He escaped the responsibility by reciting Chandi in the chaos.",
+    "In the midst of confusion, she somehow wriggled out of her duty."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Crisis management"
+  ],
+  "tags": [
+    "confusion",
+    "escape",
+    "religious ritual",
+    "evasion"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the Bengali Hindu tradition of reciting the Chandi Path (Devi Mahatmya) during times of distress or chaos to invoke divine protection, often done hastily to resolve immediate troubles."
+  ],
+  "note": "References the cultural practice of emergency religious recitation in Bengali society."
+}

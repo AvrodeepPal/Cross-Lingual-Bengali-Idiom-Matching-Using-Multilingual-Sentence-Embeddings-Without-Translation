@@ -1,0 +1,42 @@
+{
+  "id": "6909",
+  "idiom": "পেষা",
+  "alternative_idioms": [
+    "পিষা"
+  ],
+  "literal_meaning": "পিষে ফেলা বা চূর্ণ করা (যেমন মজুতে পেষা)",
+  "figurative_meaning_bn": "অত্যাচার করা; পীড়ন করা",
+  "figurative_meaning_en": "To oppress; to torment",
+  "similar_in_english": [
+    "Grind down",
+    "Put through the wringer",
+    "Walk all over"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার শত্রুদের পেষে মারবে বলে হুমকি দিল।",
+    "দারিদ্র্য তাকে এতটাই পেষেছে যে সে আর উঠতে পারছে না।"
+  ],
+  "example_sentences_in_english": [
+    "He threatened to grind his enemies down.",
+    "Poverty has tormented him so much that he can't get up anymore."
+  ],
+  "usage_domain": [
+    "Colloquial",
+    "Threats",
+    "Social oppression"
+  ],
+  "tags": [
+    "Oppression",
+    "Torment",
+    "Violence",
+    "Figurative threat"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom derives from the physical act of grinding grains, common in rural Bengali life, symbolizing relentless pressure."
+}

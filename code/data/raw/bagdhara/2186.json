@@ -1,0 +1,43 @@
+{
+  "id": "2186",
+  "idiom": "কিচকিচ",
+  "alternative_idioms": [
+    "কিচকিচানি",
+    "কিচিরমিচির"
+  ],
+  "literal_meaning": "onomatopoeic sound of whispering or murmuring chatter",
+  "figurative_meaning_bn": "কোলাহল, গোলমাল ধ্বনি",
+  "figurative_meaning_en": "uproar, noisy commotion or hubbub",
+  "similar_in_english": [
+    "hubbub",
+    "making a racket",
+    "cacophony"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় কিচকিচ করে কথা বলা বন্ধ করো।",
+    "বাজারে কিচিরমিচির শোনা যাচ্ছে সবার কথায়।"
+  ],
+  "example_sentences_in_english": [
+    "Stop the chattering in the meeting.",
+    "There's a hubbub in the market from everyone's talking."
+  ],
+  "usage_domain": [
+    "social gatherings",
+    "public meetings",
+    "daily conversations"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "noise",
+    "disorder",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom mimics the sound of indistinct, noisy chatter common in Bengali expressive language."
+}

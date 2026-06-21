@@ -1,0 +1,38 @@
+{
+  "id": "5252",
+  "idiom": "ঢিল দিয়ে ঢিল টানা",
+  "alternative_idioms": [],
+  "literal_meaning": "পাথর দিয়ে পাথর ছুড়ে মারা",
+  "figurative_meaning_bn": "আঘাত করে প্রত্যাঘাত খাওয়া",
+  "figurative_meaning_en": "To receive a counterblow after inflicting harm",
+  "similar_in_english": [
+    "Tit for tat",
+    "What goes around comes around"
+  ],
+  "example_sentences_in_bangla": [
+    "সে প্রথমে অফিসে কলিগকে অপমান করল, কিন্তু এখন ঢিল দিয়ে ঢিল টানা হচ্ছে তার সাথে।",
+    "রাজনীতিতে প্রায়ই ঢিল দিয়ে ঢিল টানা দেখা যায়, কেউ কাউকে আঘাত করলে প্রত্যাঘাত আসবেই।"
+  ],
+  "example_sentences_in_english": [
+    "He first insulted his colleague at the office, but now he's facing tit for tat.",
+    "In politics, you often see what goes around comes around; if you harm someone, retaliation is inevitable."
+  ],
+  "usage_domain": [
+    "daily life",
+    "social conflicts",
+    "politics"
+  ],
+  "tags": [
+    "retaliation",
+    "consequence",
+    "tit-for-tat"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from everyday rural imagery of stone-throwing disputes, emphasizing reciprocity in harm."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "7519",
+  "idiom": "বাজে জমা",
+  "alternative_idioms": [],
+  "literal_meaning": "বাজে (অপচয় বা অব্যবহার্য) জমা (সঞ্চয় বা জমা)",
+  "figurative_meaning_bn": "নিজ জমার অতিরিক্ত জমা; সামান্য লাভ",
+  "figurative_meaning_en": "Extra accumulation beyond one's own; slight profit",
+  "similar_in_english": [
+    "icing on the cake",
+    "small potatoes"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ব্যবসায় থেকে মূলতো লোকসানই হয়েছে, শুধু বাজে জমা পেয়েছি।",
+    "কৃষকটি তার জমির পাশে একটুকরো বাজে জমা পেয়ে খুশি হলো।"
+  ],
+  "example_sentences_in_english": [
+    "In this business, I mostly incurred losses, only got a scrap of profit.",
+    "The farmer was happy to get a small extra plot beyond his own land."
+  ],
+  "usage_domain": [
+    "finance",
+    "agriculture",
+    "everyday conversation"
+  ],
+  "tags": [
+    "profit",
+    "accumulation",
+    "minimal gain"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often refers to minor additional benefits in land or financial contexts in Bengali rural life."
+}

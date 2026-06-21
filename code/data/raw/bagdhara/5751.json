@@ -1,0 +1,38 @@
+{
+  "id": "5751",
+  "idiom": "দাউদাউ",
+  "alternative_idioms": [],
+  "literal_meaning": "প্রবল মোটাশিখায় আগুনের দ্বিত্ব (আগুনের উজ্জ্বল জ্বলনের শব্দানুকরণ)",
+  "figurative_meaning_bn": "প্রবল মোটাশিখায় আগুন",
+  "figurative_meaning_en": "Intense blazing with thick, strong flames",
+  "similar_in_english": [
+    "blazing fiercely",
+    "raging fire"
+  ],
+  "example_sentences_in_bangla": [
+    "চিতাটা দাউদাউ করে জ্বলছে।",
+    "আগুনটা দাউদাউ করে জ্বলতে শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "The pyre is blazing fiercely.",
+    "The fire started burning with intense flames."
+  ],
+  "usage_domain": [
+    "descriptive language",
+    "fire-related contexts"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "fire",
+    "intense",
+    "reduplication"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression mimicking the sound and intensity of fire."
+}

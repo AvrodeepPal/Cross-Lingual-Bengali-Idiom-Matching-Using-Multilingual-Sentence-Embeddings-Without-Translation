@@ -1,0 +1,47 @@
+{
+  "id": "7222",
+  "idiom": "বকধার্মিক",
+  "alternative_idioms": [
+    "তিলককাটা বামুন",
+    "তুলসীবনের বাঘ",
+    "বাঘের গায়ে নামাবলী",
+    "বিড়ালের গলায় তুলসীমালা",
+    "বিড়ালতপস্বী",
+    "ভিজে বিড়াল"
+  ],
+  "literal_meaning": "বকের মতো ধার্মিক (crane-like religious person)",
+  "figurative_meaning_bn": "বিদ্রুপে ধর্মের ভান করে এমন ভেকধারী ব্যক্তি, মেকী ধার্মিক",
+  "figurative_meaning_en": "A hypocritical person who pretends to be religious for show, a fake pious individual",
+  "similar_in_english": [
+    "Wolf in sheep's clothing",
+    "Holier-than-thou",
+    "Sanctimonious hypocrite"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা বকধার্মিক, মন্দিরে গিয়ে প্রার্থনা করে কিন্তু বাড়িতে সবাইকে কষ্ট দেয়।",
+    "প্রতিবেশীরা তাকে বকধার্মিক বলে মনে করে কারণ তার ধার্মিকতা শুধু বাইরের জন্য।"
+  ],
+  "example_sentences_in_english": [
+    "He is a bakdharmik, praying in the temple but tormenting everyone at home.",
+    "The neighbors think of him as a bakdharmik because his piety is only for show."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Hypocrisy",
+    "Social Commentary"
+  ],
+  "tags": [
+    "বিদ্রুপ",
+    "ধর্মীয় ভণ্ডামি",
+    "সমাজ",
+    "প্রাণী-ভিত্তিক উপমা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারাটি বাংলা সাহিত্যে প্রায়শই ব্যবহৃত হয় ধর্মীয় ভণ্ডামির সমালোচনায়, যেখানে বক পাখির স্থিরতা ও একাগ্রতার উপমা দিয়ে ভণ্ডামিকে তুলনা করা হয়।"
+}

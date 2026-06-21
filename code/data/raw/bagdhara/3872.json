@@ -1,0 +1,44 @@
+{
+  "id": "3872",
+  "idiom": "চালচুলোহীন",
+  "alternative_idioms": [
+    "চালচূলো নেই",
+    "চাল-না-চুলো"
+  ],
+  "literal_meaning": "চাল (ধানের চাল) এবং চুলো (রান্নার চুলা) নেই",
+  "figurative_meaning_bn": "আহার-বাসস্থানের সংস্থান নেই এমন; নিস্ব; নিঃসম্বল; নিঃসহায়; নিরাশ্রয়",
+  "figurative_meaning_en": "One without means for food and shelter; destitute; without possessions; helpless; homeless",
+  "similar_in_english": [
+    "Down and out",
+    "Without a pot to piss in",
+    "Flat broke"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চালচুলোহীন অবস্থায় রাস্তায় ঘুরে বেড়াচ্ছে।",
+    "গ্রামের অনেক পরিবার চালচুলোহীন হয়ে পড়েছে দুর্ভিক্ষের কারণে।"
+  ],
+  "example_sentences_in_english": [
+    "He is wandering the streets in a destitute state.",
+    "Many families in the village have become homeless due to the famine."
+  ],
+  "usage_domain": [
+    "poverty",
+    "socioeconomic hardship",
+    "daily life"
+  ],
+  "tags": [
+    "destitution",
+    "helplessness",
+    "rural poverty"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the agrarian Bengali culture where 'chaal' (rice) and 'chulo' (stove) symbolize basic sustenance, reflecting historical rural poverty and famines in Bengal."
+  ],
+  "note": "The idiom emphasizes the absence of fundamental household essentials, highlighting vulnerability in traditional Bengali society."
+}

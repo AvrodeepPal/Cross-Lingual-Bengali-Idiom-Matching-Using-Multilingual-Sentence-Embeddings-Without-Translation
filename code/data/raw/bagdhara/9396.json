@@ -1,0 +1,39 @@
+{
+  "id": "9396",
+  "idiom": "শতছিদ্র",
+  "alternative_idioms": [],
+  "literal_meaning": "শত ছিদ্র (হাজার গর্ত বা ছিদ্রযুক্ত বস্তু)",
+  "figurative_meaning_bn": "নানাদোষে দুষ্ট",
+  "figurative_meaning_en": "Full of numerous faults or defects",
+  "similar_in_english": [
+    "Riddled with flaws",
+    "Full of holes"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই বইটি শতছিদ্র, অনেক ভুল আছে।",
+    "তার চরিত্র শতছিদ্র, বিশ্বাস করা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "That book is full of faults; it has many errors.",
+    "His character is riddled with defects; he can't be trusted."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literary criticism",
+    "Moral judgment"
+  ],
+  "tags": [
+    "negative",
+    "faults",
+    "defects",
+    "character flaw"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Metaphorically compares a person or thing to a sieve or colander with many holes, implying pervasive imperfections."
+}

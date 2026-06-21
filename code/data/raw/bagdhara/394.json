@@ -1,0 +1,41 @@
+{
+  "id": "394",
+  "idiom": "আখের গুছানো",
+  "alternative_idioms": [],
+  "literal_meaning": "আখ (গাঁদা বা উত্তম ফসল) গুছিয়ে রাখা বা সাজানো",
+  "figurative_meaning_bn": "ভবিষ্যৎ গুছানো; স্বার্থ হাসিল করা",
+  "figurative_meaning_en": "Securing one's future; achieving personal interests",
+  "similar_in_english": [
+    "Feathering one's nest",
+    "Planning ahead"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চাকরি ছেড়ে ব্যবসা শুরু করে তার আখের গুছানো করেছে।",
+    "পরিবারের জন্য আখের গুছানো করে নাও, না হলে পরে পস্তাবে।"
+  ],
+  "example_sentences_in_english": [
+    "He quit his job to start a business, securing his future.",
+    "Plan for your family's interests now, or you'll regret it later."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Financial planning",
+    "Personal strategy"
+  ],
+  "tags": [
+    "future planning",
+    "self-interest",
+    "preparation",
+    "agrarian origin"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from rural Bengali agrarian life where farmers 'arrange' their sugarcane harvest to ensure future income and stability."
+  ],
+  "note": "Idiom draws from the cultural importance of sugarcane as a cash crop in Bengal."
+}

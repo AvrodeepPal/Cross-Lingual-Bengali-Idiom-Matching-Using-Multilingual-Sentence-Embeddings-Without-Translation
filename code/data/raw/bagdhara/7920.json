@@ -1,0 +1,42 @@
+{
+  "id": "7920",
+  "idiom": "বোলাবুলি",
+  "alternative_idioms": [],
+  "literal_meaning": "বোলা-বলা (পরস্পরের উত্তর-প্রত্যুত্তরে কথা বলা)",
+  "figurative_meaning_bn": "উত্তর ও প্রত্যুত্তর; গণ্ডগোল বচসা, বাকবিতণ্ডা",
+  "figurative_meaning_en": "Response and counter-response; quarrelsome talk, verbal altercation",
+  "similar_in_english": [
+    "back and forth",
+    "tit for tat",
+    "verbal sparring"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই বন্ধু বোলাবুলি করে বিষয়টি নিয়ে আলোচনা করল।",
+    "সভায় সকলে বোলাবুলি করে সিদ্ধান্ত নিল।"
+  ],
+  "example_sentences_in_english": [
+    "The two friends had a back-and-forth discussion about the matter.",
+    "In the meeting, everyone engaged in verbal sparring to reach a decision."
+  ],
+  "usage_domain": [
+    "conversation",
+    "debate",
+    "daily communication"
+  ],
+  "tags": [
+    "dialogue",
+    "argument",
+    "exchange of words",
+    "quarrel"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in the Bengali Mahabharata by Kashiram Das: 'দুইজনে বোলাবুলি হইল বিস্তর', indicating extensive verbal exchange in epic narratives."
+  ],
+  "note": "The idiom draws from classical Bengali literature, emphasizing interactive and sometimes contentious dialogue."
+}

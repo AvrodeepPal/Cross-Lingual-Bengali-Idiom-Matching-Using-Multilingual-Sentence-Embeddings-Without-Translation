@@ -1,0 +1,39 @@
+{
+  "id": "4140",
+  "idiom": "চোখের ভুল",
+  "alternative_idioms": [],
+  "literal_meaning": "চোখের ভুল (চোখের দৃষ্টিগত ত্রুটি)",
+  "figurative_meaning_bn": "দেখার ভুল; দৃষ্টিভ্রম",
+  "figurative_meaning_en": "Mistake in seeing; optical illusion",
+  "similar_in_english": [
+    "optical illusion",
+    "trick of the eye"
+  ],
+  "example_sentences_in_bangla": [
+    "এটা চোখের ভুল, আসলে কোনো ছায়া নেই।",
+    "দূর থেকে দেখে মনে হয়েছে চোখের ভুল।"
+  ],
+  "example_sentences_in_english": [
+    "It was just an optical illusion; there was no shadow.",
+    "From afar, it seemed like a trick of the eye."
+  ],
+  "usage_domain": [
+    "perception",
+    "everyday conversation",
+    "mistakes"
+  ],
+  "tags": [
+    "vision",
+    "error",
+    "illusion",
+    "perception"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in Bengali to describe visual misperceptions without deeper historical or religious connotations."
+}

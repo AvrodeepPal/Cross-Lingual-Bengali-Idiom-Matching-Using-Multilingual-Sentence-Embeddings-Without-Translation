@@ -1,0 +1,41 @@
+{
+  "id": "753",
+  "idiom": "উঞ্ছবৃত্তি",
+  "alternative_idioms": [],
+  "literal_meaning": "অবশিষ্টাংশ বা ফেলে দেওয়া জিনিস থেকে জীবিকা",
+  "figurative_meaning_bn": "তুচ্ছ/হীন জীবিকা; স্বল্প আয়ে জীবনযাপন",
+  "figurative_meaning_en": "Trivial or lowly livelihood; living on meager income",
+  "similar_in_english": [
+    "scraping by",
+    "living hand to mouth"
+  ],
+  "example_sentences_in_bangla": [
+    "তার উঞ্ছবৃত্তি করে দিন কাটে, কোনো স্থায়ী আয় নেই।",
+    "গ্রামে অনেকেই উঞ্ছবৃত্তি করে সংসার চালান।"
+  ],
+  "example_sentences_in_english": [
+    "He scrapes by on a meager livelihood with no steady income.",
+    "Many in the village sustain their families through menial occupations."
+  ],
+  "usage_domain": [
+    "poverty",
+    "livelihood",
+    "economy"
+  ],
+  "tags": [
+    "idiom",
+    "poverty",
+    "struggle",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from ancient Indian traditions where ascetics or mendicants lived on scraps or alms, reflecting a life of renunciation and simplicity."
+  ],
+  "note": "Often used in literary contexts to describe economic hardship rooted in cultural norms of austerity."
+}

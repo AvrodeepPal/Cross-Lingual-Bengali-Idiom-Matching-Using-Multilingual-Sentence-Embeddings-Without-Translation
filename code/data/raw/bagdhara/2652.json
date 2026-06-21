@@ -1,0 +1,39 @@
+{
+  "id": "2652",
+  "idiom": "খিটখিটে",
+  "alternative_idioms": [],
+  "literal_meaning": "খিটখিটানি বা বিরক্তিকর শব্দ/আচরণ",
+  "figurative_meaning_bn": "সদাবিরক্তিভাব",
+  "figurative_meaning_en": "constant state of irritation or peevish temperament",
+  "similar_in_english": [
+    "grumpy",
+    "cranky",
+    "short-tempered"
+  ],
+  "example_sentences_in_bangla": [
+    "তার খিটখিটে মেজাজের জন্য কেউ তার সাথে কথা বলতে চায় না।",
+    "আজকাল সে খুব খিটখিটে হয়ে গেছে, সামান্য কথায় রেগে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "No one wants to talk to him because of his peevish temperament.",
+    "Lately, she has become very irritable and gets angry over small things."
+  ],
+  "usage_domain": [
+    "personality description",
+    "emotional state",
+    "daily conversation"
+  ],
+  "tags": [
+    "irritability",
+    "temperament",
+    "negative emotion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic adjective derived from sounds of grumbling or fussing in Bengali colloquial speech."
+}

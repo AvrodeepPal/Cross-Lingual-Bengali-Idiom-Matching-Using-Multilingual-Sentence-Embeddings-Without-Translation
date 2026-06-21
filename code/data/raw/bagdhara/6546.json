@@ -1,0 +1,45 @@
+{
+  "id": "6546",
+  "idiom": "পট্টি মারা",
+  "alternative_idioms": [
+    "চাল মারা",
+    "দাগাবাজী করা",
+    "ধাপ্পা দেওয়া",
+    "ধাপ্পা মারা"
+  ],
+  "literal_meaning": "পট্টি লাগানো বা আঁটানো (bandage or strip to apply)",
+  "figurative_meaning_bn": "প্রতারণা করা; ধাপ্পা দেওয়া; মিথ্যা কথা বলা",
+  "figurative_meaning_en": "To deceive; to cheat; to tell lies",
+  "similar_in_english": [
+    "pull the wool over someone's eyes",
+    "put one over on someone",
+    "hoodwink"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমাকে পট্টি মেরে বেশি দামে জিনিসটা বেচে দিয়েছে।",
+    "তোমার এই পট্টি মারার অভ্যাস ছাড়ো না হলে কেউ তোমাকে বিশ্বাস করবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He deceived me by selling the item at an inflated price.",
+    "Stop telling lies, or no one will trust you anymore."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "deception",
+    "everyday conversation"
+  ],
+  "tags": [
+    "idiom",
+    "deception",
+    "lie",
+    "trickery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the imagery of hastily applying a bandage to cover a wound, metaphorically hiding truth or deceiving others."
+}

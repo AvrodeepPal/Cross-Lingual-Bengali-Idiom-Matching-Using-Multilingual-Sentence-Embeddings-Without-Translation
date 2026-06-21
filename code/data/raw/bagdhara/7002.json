@@ -1,0 +1,42 @@
+{
+  "id": "7002",
+  "idiom": "পোড়ার মুখো",
+  "alternative_idioms": [
+    "পোড়া মুখি",
+    "পোড়া মুখো"
+  ],
+  "literal_meaning": "পোড়া মুখের দিকে মুখ করা বা পোড়া মুখবিশিষ্ট",
+  "figurative_meaning_bn": "কলঙ্কিত চরিত্র যার, মেয়েলী গালিবিশেষ",
+  "figurative_meaning_en": "A person with a tarnished or immoral character, especially used as a derogatory term for women implying promiscuity or scandal",
+  "similar_in_english": [
+    "scarlet woman",
+    "loose woman"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পোড়ার মুখো মেয়ে বলে গ্রামে কেউ তার সাথে কথা বলে না।",
+    "এই পোড়ার মুখো কেন মরে না?"
+  ],
+  "example_sentences_in_english": [
+    "No one in the village talks to that burnt-faced girl because of her reputation.",
+    "Why doesn't this woman of ill repute just die?"
+  ],
+  "usage_domain": [
+    "colloquial insults",
+    "social commentary",
+    "gendered language"
+  ],
+  "tags": [
+    "derogatory",
+    "feminine abuse",
+    "moral judgment",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used in rural or semi-urban Bengali contexts to shame women perceived as morally lax, reflecting patriarchal norms."
+}

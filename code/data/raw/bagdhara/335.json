@@ -1,0 +1,43 @@
+{
+  "id": "335",
+  "idiom": "আককাটা",
+  "alternative_idioms": [
+    "আকাট"
+  ],
+  "literal_meaning": "অস্পষ্ট বা অর্থহীন রেখাটানো বা আঁচড়ানো চিহ্ন",
+  "figurative_meaning_bn": "কাণ্ডজ্ঞানহীন মূর্খ; যে কেবল হিজিবিজি রেখা টানে, লিখতে জানে না",
+  "figurative_meaning_en": "A senseless fool; someone who only draws meaningless squiggles and doesn't know how to write",
+  "similar_in_english": [
+    "chicken scratch (for illegible writing)",
+    "not the sharpest knife in the drawer (for foolishness)"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চিঠির লেখা আককাটা, কিছুই পড়া যায় না।",
+    "সে আককাটা লিখে সময় নষ্ট করে, কোনো কাজের লেখা নয়।"
+  ],
+  "example_sentences_in_english": [
+    "His letter is full of akkata, nothing can be read.",
+    "He wastes time scribbling akkata, not knowing how to write properly."
+  ],
+  "usage_domain": [
+    "education",
+    "literacy",
+    "insult"
+  ],
+  "tags": [
+    "negative",
+    "foolishness",
+    "handwriting",
+    "informal"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to illegible or childish scribbling, possibly originating from observations of poor handwriting in traditional Bengali script learning."
+  ],
+  "note": "The idiom highlights cultural emphasis on proper literacy and handwriting in Bengali society."
+}

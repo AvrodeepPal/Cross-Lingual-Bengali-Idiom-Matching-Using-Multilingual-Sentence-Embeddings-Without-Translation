@@ -1,0 +1,38 @@
+{
+  "id": "3279",
+  "idiom": "গৃহিণী গৃহমুচ্যতে",
+  "alternative_idioms": [],
+  "literal_meaning": "গৃহিণী দ্বারা গৃহ মুক্ত বা বাসযোগ্য হয়",
+  "figurative_meaning_bn": "গৃহিণী থাকলে তবেই গৃহ বাসযোগ্য হয়",
+  "figurative_meaning_en": "A home becomes truly livable only in the presence of a housewife",
+  "similar_in_english": [
+    "A house is not a home without a woman",
+    "Home is where the wife is"
+  ],
+  "example_sentences_in_bangla": [
+    "বাড়িটা যতই সুন্দর হোক না কেন, গৃহিণী না থাকলে গৃহমুচ্যতে না।",
+    "সে বিয়ের পর বুঝল যে গৃহিণী গৃহমুচ্যতে।"
+  ],
+  "example_sentences_in_english": [
+    "No matter how beautiful the house is, it doesn't become livable without a housewife.",
+    "After marriage, he realized that a home is made livable by the housewife."
+  ],
+  "usage_domain": [
+    "family",
+    "household",
+    "gender roles"
+  ],
+  "tags": [
+    "traditional values",
+    "women's role",
+    "domestic life"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali views on family structure and the central role of women in the home."
+}

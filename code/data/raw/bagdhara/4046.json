@@ -1,0 +1,40 @@
+{
+  "id": "4046",
+  "idiom": "চোখ ঝলসানো",
+  "alternative_idioms": [
+    "চোখে ধাঁধা লাগা"
+  ],
+  "literal_meaning": "চোখ পোড়ানো বা ঝলসানো (eyes being scorched or dazzled)",
+  "figurative_meaning_bn": "তীব্র আলোকে চোখ প্রায় বন্ধ হওয়া",
+  "figurative_meaning_en": "eyes almost closing due to intense light",
+  "similar_in_english": [
+    "blinded by the light",
+    "dazzled by brightness"
+  ],
+  "example_sentences_in_bangla": [
+    "সূর্যের প্রখর আলোয় তার চোখ ঝলসানো হয়ে গেল।",
+    "হেডলাইটের আলোয় চোখ ঝলসানোর জন্য গাড়ি চালানো কঠিন হয়ে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "His eyes were dazzled by the harsh sunlight.",
+    "Driving became difficult as the headlights dazzled my eyes."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "descriptive language"
+  ],
+  "tags": [
+    "light",
+    "eyes",
+    "dazzle",
+    "visual discomfort"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom captures the sensory experience common in bright, sunny environments typical of Bengali rural life."
+}

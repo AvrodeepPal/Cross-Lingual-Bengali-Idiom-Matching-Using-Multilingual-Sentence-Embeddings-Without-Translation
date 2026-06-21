@@ -1,0 +1,44 @@
+{
+  "id": "6431",
+  "idiom": "নিমকহারাম",
+  "alternative_idioms": [
+    "নেমখারাম"
+  ],
+  "literal_meaning": "নুন খেয়ে অকৃতজ্ঞ বা বিশ্বাসঘাতক",
+  "figurative_meaning_bn": "অকৃতজ্ঞ, বেইমান - যে উপকার পেয়েও উপকার স্বীকার করে না বা নুন খেয়ে গুণ গায় না",
+  "figurative_meaning_en": "Ungrateful and disloyal - one who receives a favor but fails to acknowledge it or betrays the benefactor",
+  "similar_in_english": [
+    "Bite the hand that feeds you",
+    "Ungrateful wretch",
+    "Backstabber"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নিমকহারাম, আমার সাহায্য করেও আমাকে ছেড়ে চলে গেল।",
+    "নিমকহারাম লোকের সাথে বন্ধুত্ব করা উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is ungrateful; after I helped him, he abandoned me.",
+    "One should not befriend an ungrateful person."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Moral teachings"
+  ],
+  "tags": [
+    "betrayal",
+    "ungratefulness",
+    "disloyalty",
+    "morality"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom originates from the cultural notion in Bengal and broader Indian tradition where sharing salt symbolizes a bond of obligation, and betraying it is seen as the ultimate ingratitude. It is referenced in the works of Ramprasad Sen, a 18th-century Bengali poet and devotee."
+  ],
+  "note": "The variant 'নেমখারাম' is a dialectical or phonetic alternative commonly used in some regions."
+}

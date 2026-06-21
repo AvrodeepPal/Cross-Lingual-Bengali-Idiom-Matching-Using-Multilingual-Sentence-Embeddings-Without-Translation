@@ -1,0 +1,41 @@
+{
+  "id": "1155",
+  "idiom": "একেশ্বরী",
+  "alternative_idioms": [
+    "একা ঘরের গিন্নি"
+  ],
+  "literal_meaning": "একমাত্র দেবী বা ইশ্বরী",
+  "figurative_meaning_bn": "পূর্ণকর্তৃত্বসম্পন্না একমাত্র গৃহিণী",
+  "figurative_meaning_en": "The sole housewife with full authority",
+  "similar_in_english": [
+    "Mistress of the house",
+    "Lady of the manor"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার পরিবারের একেশ্বরী, সবকিছু তার হাতে।",
+    "গ্রামের বাড়িতে মা একেশ্বরী হিসেবে সব দেখাশোনা করেন।"
+  ],
+  "example_sentences_in_english": [
+    "She is the ekeshwari of her family, handling everything.",
+    "In the village home, the mother acts as the sole authority over household matters."
+  ],
+  "usage_domain": [
+    "Family",
+    "Household",
+    "Gender roles"
+  ],
+  "tags": [
+    "গৃহিণী",
+    "কর্তৃত্ব",
+    "পারিবারিক",
+    "মহিলা"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term draws from divine imagery to elevate the role of the housewife in traditional Bengali families."
+}

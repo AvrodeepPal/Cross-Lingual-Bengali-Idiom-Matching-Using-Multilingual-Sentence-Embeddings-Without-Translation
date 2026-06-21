@@ -1,0 +1,40 @@
+{
+  "id": "708",
+  "idiom": "ইলাহী কাণ্ড",
+  "alternative_idioms": [
+    "এলাহী কাণ্ড"
+  ],
+  "literal_meaning": "Divine affair or act of God",
+  "figurative_meaning_bn": "বিরাট ব্যাপার; মহাধুমধাম",
+  "figurative_meaning_en": "A grand affair; great pomp and show",
+  "similar_in_english": [
+    "much ado about nothing",
+    "the whole shebang"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়েবাড়ীতে ইলাহী কাণ্ড চলছে।",
+    "উৎসবে ইলাহী কাণ্ডের মতো আয়োজন হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's a grand spectacle going on at the wedding house.",
+    "The festival was organized like a divine affair."
+  ],
+  "usage_domain": [
+    "celebrations",
+    "weddings",
+    "festivals"
+  ],
+  "tags": [
+    "exaggeration",
+    "pomp",
+    "event"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Synonym in Bengali: যজ্ঞ"
+}

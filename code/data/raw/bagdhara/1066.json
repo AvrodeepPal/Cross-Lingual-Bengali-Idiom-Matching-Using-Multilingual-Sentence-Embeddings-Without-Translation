@@ -1,0 +1,40 @@
+{
+  "id": "1066",
+  "idiom": "একবর্ণ",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি অক্ষর বা বর্ণ",
+  "figurative_meaning_bn": "কিছুমাত্র",
+  "figurative_meaning_en": "not even a little bit",
+  "similar_in_english": [
+    "not a single word",
+    "it's all Greek to me",
+    "didn't get a clue"
+  ],
+  "example_sentences_in_bangla": [
+    "কি বলতে চাইছো একবর্ণও বুঝতে পারলাম না।",
+    "তার বক্তৃতা একবর্ণও মনে পড়ছে না।"
+  ],
+  "example_sentences_in_english": [
+    "I didn't understand even a single word of what you're saying.",
+    "I don't remember even a bit of his speech."
+  ],
+  "usage_domain": [
+    "conversation",
+    "comprehension",
+    "memory"
+  ],
+  "tags": [
+    "misunderstanding",
+    "speech",
+    "forgetfulness",
+    "language"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the basic unit of writing in Bengali script, emphasizing complete incomprehension."
+}

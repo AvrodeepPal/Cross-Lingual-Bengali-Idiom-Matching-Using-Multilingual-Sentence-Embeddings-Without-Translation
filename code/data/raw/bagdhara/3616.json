@@ -1,0 +1,41 @@
+{
+  "id": "3616",
+  "idiom": "ঘোরাঘুরি করা",
+  "alternative_idioms": [
+    "হাঁটাহাঁটি"
+  ],
+  "literal_meaning": "ক্রমাগত ঘুরে বেড়ানো বা যাতায়াত করা",
+  "figurative_meaning_bn": "কোন কাজ আদায়ের জন্য ক্রমাগত যাতায়াত করা",
+  "figurative_meaning_en": "To repeatedly travel or go back and forth to accomplish a task",
+  "similar_in_english": [
+    "Go from pillar to post",
+    "Run around in circles"
+  ],
+  "example_sentences_in_bangla": [
+    "চাকরির জন্য সরকারি অফিসে ঘোরাঘুরি করতে হচ্ছে।",
+    "লাইসেন্স পাওয়ার জন্য দিনরাত ঘোরাঘুরি করলাম।"
+  ],
+  "example_sentences_in_english": [
+    "I'm doing a lot of running around government offices for a job.",
+    "I had to go from pillar to post day and night to get the license."
+  ],
+  "usage_domain": [
+    "Bureaucracy",
+    "Daily life",
+    "Administration"
+  ],
+  "tags": [
+    "Effort",
+    "Persistence",
+    "Frustration",
+    "Official work"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom reflects the common experience of navigating bureaucratic hurdles in Bengali society."
+}

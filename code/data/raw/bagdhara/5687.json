@@ -1,0 +1,43 @@
+{
+  "id": "5687",
+  "idiom": "দরজায় কড়া নাড়া",
+  "alternative_idioms": [
+    "খটখটানো",
+    "টোকা দেওয়া"
+  ],
+  "literal_meaning": "দরজার কড়া নাড়া বা টোকা দেওয়া (knocking or rattling the door knocker)",
+  "figurative_meaning_bn": "যে কোন মুহূর্তে উপস্থিত হতে পারে; সমাসন্ন; সমূহ উপস্থিত; সমার্থক বাগধারা- এলো বলে",
+  "figurative_meaning_en": "It can arrive or happen at any moment; imminent; about to be present; similar to 'it's here'",
+  "similar_in_english": [
+    "Knocking at the door",
+    "On the doorstep",
+    "Just around the corner"
+  ],
+  "example_sentences_in_bangla": [
+    "ফাগুন দরজায় কড়া নাড়ছে।",
+    "বর্ষা দরজায় কড়া নাড়ছে, ছাতা নিয়ে বের হও।"
+  ],
+  "example_sentences_in_english": [
+    "Holi is knocking at the door.",
+    "The monsoon is at the door, take an umbrella when you go out."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Weather and seasons",
+    "Events and anticipation"
+  ],
+  "tags": [
+    "imminence",
+    "arrival",
+    "anticipation",
+    "proverbial expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the anticipation of seasonal or event-based changes in Bengali rural and semi-urban life."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "3425",
+  "idiom": "ঘর জ্বালানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘরে আগুন লাগানো (setting fire to the house)",
+  "figurative_meaning_bn": "পরিবারের সুখশান্তি নষ্ট করা",
+  "figurative_meaning_en": "To destroy the peace and happiness of the family",
+  "similar_in_english": [
+    "stir up trouble at home",
+    "cause domestic discord"
+  ],
+  "example_sentences_in_bangla": [
+    "তার স্ত্রী সবসময় ঘর জ্বালায়, শান্তি রাখে না।",
+    "এই রকম আচরণ করে তুমি আমার ঘর জ্বালাচ্ছ।"
+  ],
+  "example_sentences_in_english": [
+    "His wife is always stirring up trouble at home, never letting peace prevail.",
+    "With this kind of behavior, you're setting my house on fire."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships"
+  ],
+  "tags": [
+    "domestic",
+    "conflict",
+    "negative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali emphasis on family harmony."
+}

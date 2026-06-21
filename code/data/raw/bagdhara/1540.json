@@ -1,0 +1,44 @@
+{
+  "id": "1540",
+  "idiom": "কপর্দকশূন্য",
+  "alternative_idioms": [
+    "পকেট গড়ের মাঠ"
+  ],
+  "literal_meaning": "কপালে কপর্দক (চুলের গোছা) শূন্য, অর্থাৎ মাথায় চুলহীন এবং সম্পদহীন",
+  "figurative_meaning_bn": "নিঃস্ব, সম্বলহীন",
+  "figurative_meaning_en": "penniless, without possessions",
+  "similar_in_english": [
+    "flat broke",
+    "without a penny to one's name",
+    "destitute"
+  ],
+  "example_sentences_in_bangla": [
+    "কপর্দকশূন্য অবস্থায় গাঁ ছেড়ে সহরে এসেছি।",
+    "তার কপর্দকশূন্য হয়ে যাওয়ার পর বন্ধুরা সাহায্য করল।"
+  ],
+  "example_sentences_in_english": [
+    "I came to the city from the village in a penniless state.",
+    "After he became destitute, his friends helped him out."
+  ],
+  "usage_domain": [
+    "poverty",
+    "economy",
+    "daily life"
+  ],
+  "tags": [
+    "idiom",
+    "figurative",
+    "negative",
+    "socioeconomic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই বাগধারার উৎপত্তি সংস্কৃত ভাষা থেকে, যেখানে 'কপর্দক' অর্থ চুলের গোছা বা মুদ্রা, এবং 'শূন্য' অর্থ খালি; প্রাচীনকালে তপস্বীদের মতো সম্পদহীনতার প্রতীক হিসেবে ব্যবহৃত।"
+  ],
+  "note": "এটি বাংলা সাহিত্যে ঘন ঘন ব্যবহৃত হয় দারিদ্র্যের বর্ণনায়।"
+}

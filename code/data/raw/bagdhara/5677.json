@@ -1,0 +1,41 @@
+{
+  "id": "5677",
+  "idiom": "দরকচা",
+  "alternative_idioms": [
+    "কাঁচা"
+  ],
+  "literal_meaning": "আধপাকা বা আধকাঁচা (অর্থাৎ অসম্পূর্ণভাবে রান্না করা বা পাকা হওয়া)",
+  "figurative_meaning_bn": "আধপাকা-আধকাঁচা; আংশিক অপরিপক্বতা; দেখতে পাকা কিন্তু ভিতরে শক্ত",
+  "figurative_meaning_en": "half-cooked or half-raw; partial immaturity; appears mature on the outside but hard or undeveloped inside",
+  "similar_in_english": [
+    "half-baked",
+    "green around the edges"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পরিকল্পনাটি একদম দরকচা, এখনো পুরোপুরি তৈরি নয়।",
+    "ফলটা দেখতে পাকা লাগছে কিন্তু ভিতরে দরকচা।"
+  ],
+  "example_sentences_in_english": [
+    "His plan is completely half-baked; it's not fully developed yet.",
+    "The fruit looks ripe but is half-ripe inside."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation",
+    "agriculture and cooking metaphors"
+  ],
+  "tags": [
+    "immaturity",
+    "incompleteness",
+    "partial development",
+    "deception in appearance"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from rural cooking and farming practices in Bengal, where food or fruits are often judged by ripeness."
+}

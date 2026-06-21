@@ -1,0 +1,42 @@
+{
+  "id": "5106",
+  "idiom": "ঠ্যাঁটা",
+  "alternative_idioms": [
+    "ঘ্যাঁচড়া"
+  ],
+  "literal_meaning": "একটি কর্কশ বা অভদ্র শব্দধ্বনি বা অঙ্গভঙ্গি (onomatopoeic expression for rude or stubborn behavior)",
+  "figurative_meaning_bn": "অবাধ্য, একগুঁয়ে, কর্কশভাষী, বেহায়া",
+  "figurative_meaning_en": "disobedient, stubborn, harsh-speaking, shameless",
+  "similar_in_english": [
+    "little brat",
+    "cheeky imp",
+    "smart aleck"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা বড় ঠ্যাঁটা ছেলে, কারো কথা শোনে না।",
+    "এই ঠ্যাঁটা মেয়েটা সবসময় বেহায়াপনা করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a big brat; he doesn't listen to anyone.",
+    "This cheeky girl always acts shamelessly."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "family conversations",
+    "describing children"
+  ],
+  "tags": [
+    "negative personality",
+    "stubbornness",
+    "rudeness",
+    "child behavior"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is typically used in informal, spoken Bengali to describe mischievous or ill-mannered individuals, especially children."
+}

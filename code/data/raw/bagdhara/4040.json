@@ -1,0 +1,39 @@
+{
+  "id": "4040",
+  "idiom": "চোখ গরম করা",
+  "alternative_idioms": [],
+  "literal_meaning": "চোখকে গরম করা (to make the eyes hot)",
+  "figurative_meaning_bn": "চোখ আরক্ত/লাল করা",
+  "figurative_meaning_en": "To make the eyes red or bloodshot",
+  "similar_in_english": [
+    "See red (become angry)",
+    "Bloodshot eyes (from crying or anger)"
+  ],
+  "example_sentences_in_bangla": [
+    "দুঃখে তার চোখ গরম হয়ে গেল।",
+    "ক্রোধে সে চোখ গরম করে ফেলল।"
+  ],
+  "example_sentences_in_english": [
+    "In sorrow, his eyes became hot (reddened).",
+    "In anger, he made his eyes hot (bloodshot)."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Anger",
+    "Sadness"
+  ],
+  "tags": [
+    "anger",
+    "crying",
+    "emotion",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies emotional intensity leading to reddened eyes, common in everyday Bengali expression."
+}

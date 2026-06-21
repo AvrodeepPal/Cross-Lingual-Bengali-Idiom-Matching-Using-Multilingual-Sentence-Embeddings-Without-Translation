@@ -1,0 +1,39 @@
+{
+  "id": "3156",
+  "idiom": "গায়ে গায়ে শোধ",
+  "alternative_idioms": [],
+  "literal_meaning": "শরীর দিয়ে শরীরে পরিশোধ (শারীরিক শ্রমের মাধ্যমে পরিশোধ)",
+  "figurative_meaning_bn": "নগদ টাকা না দিয়ে গায়ে খেটে ঋণ পরিশোধ",
+  "figurative_meaning_en": "Repaying a debt through physical labor instead of cash payment",
+  "similar_in_english": [
+    "work off a debt",
+    "pay in sweat"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ঋণ গায়ে গায়ে শোধ করল, কোনো টাকা দিল না।",
+    "গরিব কৃষকরা প্রায়ই জমিদারের কাছে গায়ে গায়ে শোধ করে।"
+  ],
+  "example_sentences_in_english": [
+    "He worked off his debt instead of paying cash.",
+    "Poor farmers often repay landlords through physical labor."
+  ],
+  "usage_domain": [
+    "finance",
+    "labor",
+    "debt"
+  ],
+  "tags": [
+    "ঋণ",
+    "শ্রম",
+    "দারিদ্র্য",
+    "পরিশোধ"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলার গ্রামীণ অর্থনৈতিক ব্যবস্থায় শ্রম-ভিত্তিক ঋণ পরিশোধের সাংস্কৃতিক প্রসঙ্গ থেকে উদ্ভূত।"
+}

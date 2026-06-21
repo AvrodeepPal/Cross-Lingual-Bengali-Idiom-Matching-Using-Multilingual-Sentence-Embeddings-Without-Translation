@@ -1,0 +1,42 @@
+{
+  "id": "2991",
+  "idiom": "গলাকাটা দর",
+  "alternative_idioms": [
+    "গলাকাটা দাম"
+  ],
+  "literal_meaning": "গলা কাটার মতো দর (throat-cutting price)",
+  "figurative_meaning_bn": "অস্বাভাবিক/মাত্রাতিরিক্ত দাম/মূল্য",
+  "figurative_meaning_en": "Unusually or excessively high price/value",
+  "similar_in_english": [
+    "Daylight robbery",
+    "Highway robbery",
+    "Exorbitant prices"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে গলাকাটা দরে আনাজ বিক্রি হচ্ছে।",
+    "এই দোকানে গলাকাটা দামে জিনিসপত্র কেনা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "Vegetables are being sold at throat-cutting prices in the market.",
+    "You can't buy things at such exorbitant prices in this shop."
+  ],
+  "usage_domain": [
+    "Commerce",
+    "Market",
+    "Economics"
+  ],
+  "tags": [
+    "Price",
+    "Excessive",
+    "Market",
+    "Negotiation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to inflated prices in everyday market transactions, common in Bengali vernacular."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5233",
+  "idiom": "ঢাকাইয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ঢাকার (শহরের নাম) সম্পর্কিত বা ঢাকা-স্টাইলের",
+  "figurative_meaning_bn": "অতি স্থূল; খুব স্ফীত",
+  "figurative_meaning_en": "Extremely fat; very swollen",
+  "similar_in_english": [
+    "Pot-bellied",
+    "Puffed up like a balloon"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পেট ঢাকাইয়া হয়ে গেছে খাওয়ার পর।",
+    "এই ফলটা ঢাকাইয়া ফুলে উঠেছে।"
+  ],
+  "example_sentences_in_english": [
+    "His belly has become pot-bellied after eating.",
+    "This fruit has swollen up like a balloon."
+  ],
+  "usage_domain": [
+    "Body description",
+    "Humor",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "fatness",
+    "swelling",
+    "body",
+    "Dhaka reference"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Originates from the puffed-up appearance of traditional Dhaka fishing nets (ঢাকাই জাল), which resemble a swollen belly."
+  ],
+  "note": "The idiom draws from the visual similarity to 'ঢাকাই জাল' (Dhaka-style net), a cultural reference to Dhaka's fishing heritage."
+}

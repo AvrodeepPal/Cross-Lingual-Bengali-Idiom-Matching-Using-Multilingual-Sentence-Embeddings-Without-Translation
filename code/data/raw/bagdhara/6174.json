@@ -1,0 +1,41 @@
+{
+  "id": "6174",
+  "idiom": "নজর লাগা",
+  "alternative_idioms": [],
+  "literal_meaning": "কুদৃষ্টির আঘাতে পড়া",
+  "figurative_meaning_bn": "কুদৃষ্টিতে পড়া",
+  "figurative_meaning_en": "To be affected by the evil eye",
+  "similar_in_english": [
+    "Give someone the evil eye",
+    "Jinxed"
+  ],
+  "example_sentences_in_bangla": [
+    "শিশুটির নজর লেগেছে, তাই হঠাৎ অসুস্থ হয়ে পড়েছে।",
+    "নতুন গাড়িটিতে নজর লেগেছে বলে দুর্ঘটনা ঘটেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The child has been struck by the evil eye, that's why he suddenly fell ill.",
+    "The new car got the evil eye and met with an accident."
+  ],
+  "usage_domain": [
+    "Superstition",
+    "Everyday conversation",
+    "Health and misfortune"
+  ],
+  "tags": [
+    "evil eye",
+    "curse",
+    "superstition",
+    "protection"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom stems from ancient folk beliefs in the evil eye (nazar), a concept prevalent in South Asian and Middle Eastern cultures, often warded off with amulets like black dots or taweez."
+  ],
+  "note": "Commonly used to explain sudden misfortunes, especially for children or new possessions."
+}

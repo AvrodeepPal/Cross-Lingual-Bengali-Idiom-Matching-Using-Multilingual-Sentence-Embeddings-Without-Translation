@@ -1,0 +1,45 @@
+{
+  "id": "8889",
+  "idiom": "যক্ষের ধন",
+  "alternative_idioms": [
+    "যকের ধন",
+    "জখের ধন"
+  ],
+  "literal_meaning": "যক্ষের দেওয়া ধন বা যক্ষের ধনরত্ন",
+  "figurative_meaning_bn": "বিদ্রুপে খুব কৃপণ লোকের ধন",
+  "figurative_meaning_en": "Sarcastically, the wealth of a very miserly person",
+  "similar_in_english": [
+    "Miser's hoard",
+    "Scrooge's fortune"
+  ],
+  "example_sentences_in_bangla": [
+    "সে যক্ষের ধনের মতো টাকা জমিয়ে রাখে, কখনো খরচ করে না।",
+    "তার যক্ষের ধন দেখে হাসি পায়, এত কৃপণতা!"
+  ],
+  "example_sentences_in_english": [
+    "He hoards money like a miser's treasure and never spends it.",
+    "Seeing his miserly wealth makes one laugh with sarcasm!"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Sarcasm and mockery"
+  ],
+  "tags": [
+    "miserliness",
+    "wealth",
+    "sarcasm",
+    "folklore",
+    "mythology"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Yaksha (যক্ষ) refers to mythical semi-divine beings in Hindu, Buddhist, and Jain traditions, often depicted as guardians of treasures in ancient Indian folklore, which influences Bengali expressions."
+  ],
+  "note": "The idiom draws from mythological concepts where Yakshas are associated with hidden wealth, used here to mock extreme stinginess."
+}

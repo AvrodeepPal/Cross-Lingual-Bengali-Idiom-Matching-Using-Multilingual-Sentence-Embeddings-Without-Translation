@@ -1,0 +1,40 @@
+{
+  "id": "2828",
+  "idiom": "গঙ্গাযাত্রী",
+  "alternative_idioms": [],
+  "literal_meaning": "গঙ্গা নদীতে যাত্রা করা ব্যক্তি",
+  "figurative_meaning_bn": "মুমূর্ষু ব্যক্তি",
+  "figurative_meaning_en": "A person on the verge of death",
+  "similar_in_english": [
+    "One foot in the grave",
+    "At death's door"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অবস্থা এখন গঙ্গাযাত্রীর মতো হয়ে গেছে।",
+    "বয়সের কারণে দাদু গঙ্গাযাত্রী হয়ে পড়েছেন।"
+  ],
+  "example_sentences_in_english": [
+    "His condition has become like that of a Ganges pilgrim now.",
+    "Due to old age, grandfather has become a dying man."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Medical contexts",
+    "Literature"
+  ],
+  "tags": [
+    "death",
+    "pilgrimage",
+    "Hinduism"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the Hindu tradition where terminally ill individuals undertake a pilgrimage to the Ganges River, believing that dying there grants salvation (moksha)."
+  ],
+  "note": "The idiom reflects the cultural reverence for the Ganges in Bengali Hindu society."
+}

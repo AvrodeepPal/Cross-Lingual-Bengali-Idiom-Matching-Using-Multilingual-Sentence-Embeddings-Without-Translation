@@ -1,0 +1,37 @@
+{
+  "id": "999",
+  "idiom": "একজন",
+  "alternative_idioms": [],
+  "literal_meaning": "এক (one) + জন (person)",
+  "figurative_meaning_bn": "অনির্দিষ্ট একব্যক্তি",
+  "figurative_meaning_en": "An unspecified or indefinite person",
+  "similar_in_english": [
+    "Someone",
+    "A certain person"
+  ],
+  "example_sentences_in_bangla": [
+    "সকালে একজন তোমার খোঁজ করছিল।",
+    "একজন অচেনা লোক দরজায় এসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "This morning, someone was looking for you.",
+    "A stranger came to the door."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Informal speech"
+  ],
+  "tags": [
+    "indefinite reference",
+    "person",
+    "general usage"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a basic expression rather than a traditional idiom, commonly used in Bengali to refer to an unidentified individual."
+}

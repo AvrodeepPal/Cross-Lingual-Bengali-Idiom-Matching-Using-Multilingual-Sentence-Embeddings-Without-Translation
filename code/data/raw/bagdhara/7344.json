@@ -1,0 +1,39 @@
+{
+  "id": "7344",
+  "idiom": "বলা-কওয়া",
+  "alternative_idioms": [
+    "কহা"
+  ],
+  "literal_meaning": "বলা (to say) এবং কওয়া/কহা (to say) – একই অর্থের যুগ্মশব্দ",
+  "figurative_meaning_bn": "একার্থক যুগ্মশব্দ; জ্ঞাপন, পূর্বস্থির",
+  "figurative_meaning_en": "Synonymous compound word; to inform or announce, predetermined or already decided",
+  "similar_in_english": [
+    "said and done",
+    "a done deal"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বিষয়টি আগে থেকেই বলা-কওয়া আছে।",
+    "তার ভাগ্য বলা-কওয়া ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "This matter has already been said and settled beforehand.",
+    "His fate was predetermined."
+  ],
+  "usage_domain": [
+    "conversation",
+    "decision-making"
+  ],
+  "tags": [
+    "synonyms",
+    "predetermination",
+    "announcement"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a tautological expression emphasizing certainty in speech or decision."
+}

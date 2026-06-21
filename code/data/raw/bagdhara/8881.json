@@ -1,0 +1,41 @@
+{
+  "id": "8881",
+  "idiom": "মৌরসি পাট্টা",
+  "alternative_idioms": [],
+  "literal_meaning": "মৌরসি (মৌগল আমলের স্থায়ী জমিদারি অধিকার) পাট্টা (স্থায়ী লিজ বা উত্তরাধিকারী অধিকারপত্র)",
+  "figurative_meaning_bn": "অন্যায়ভাবে স্থায়ী অধিকার কায়েম",
+  "figurative_meaning_en": "Establishing permanent rights unjustly or through unlawful means",
+  "similar_in_english": [
+    "Squatter's rights",
+    "Adverse possession"
+  ],
+  "example_sentences_in_bangla": [
+    "সে জমির উপর মৌরসি পাট্টা দাবি করে বসেছে, যদিও তার কোনো আইনি অধিকার নেই।",
+    "এই অঞ্চলে অনেকে অন্যায়ভাবে মৌরসি পাট্টা করে জমি দখল করে নেয়।"
+  ],
+  "example_sentences_in_english": [
+    "He has claimed squatter's rights on the land, even though he has no legal title to it.",
+    "In this area, many people unlawfully establish permanent possession over properties."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Property disputes",
+    "Injustice"
+  ],
+  "tags": [
+    "land rights",
+    "unlawful possession",
+    "permanent claim",
+    "Mughal tenure"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term 'মৌরসি' originates from the Mughal era in Bengal, referring to hereditary and permanent land grants (zamindari rights) that were often manipulated for unjust gains, leading to this idiomatic use for illegal permanent claims."
+  ],
+  "note": "This idiom draws from historical land revenue systems in colonial and pre-colonial Bengal."
+}

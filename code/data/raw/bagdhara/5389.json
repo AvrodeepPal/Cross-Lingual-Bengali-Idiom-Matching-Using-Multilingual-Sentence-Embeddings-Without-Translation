@@ -1,0 +1,43 @@
+{
+  "id": "5389",
+  "idiom": "তাল কাটা",
+  "alternative_idioms": [
+    "ভঙ্গ হওয়া"
+  ],
+  "literal_meaning": "তাল (রিদম বা লয়) কাটা (ভাঙা বা বিচ্ছিন্ন করা)",
+  "figurative_meaning_bn": "মাত্রায় সামঞ্জসহীন হওয়া",
+  "figurative_meaning_en": "To be out of sync or lose coordination in rhythm or proportion",
+  "similar_in_english": [
+    "Out of sync",
+    "Out of step",
+    "Fall out of rhythm"
+  ],
+  "example_sentences_in_bangla": [
+    "উভয়ের মধ্যে তাল কেটেছে, তাই তারা আর একসাথে কাজ করতে পারছে না।",
+    "নাচের সময় তাল কেটে গেলে পুরো অনুষ্ঠান নষ্ট হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "There's no sync between them anymore; they've lost their rhythm.",
+    "When the beat breaks during the dance, the whole performance falls apart."
+  ],
+  "usage_domain": [
+    "music",
+    "dance",
+    "relationships",
+    "coordination"
+  ],
+  "tags": [
+    "rhythm",
+    "disproportion",
+    "figurative",
+    "performing arts"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from traditional Bengali music and dance where maintaining 'tal' (rhythm) is crucial."
+}

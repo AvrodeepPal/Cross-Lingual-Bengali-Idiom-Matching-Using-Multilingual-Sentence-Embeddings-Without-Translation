@@ -1,0 +1,39 @@
+{
+  "id": "10102",
+  "idiom": "হাত কেটে বসা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত কেটে বসা (hand cutting and sitting)",
+  "figurative_meaning_bn": "নিজেই প্রতিকারের উপায় নষ্ট করা",
+  "figurative_meaning_en": "To ruin one's own means of remedy or solution",
+  "similar_in_english": [
+    "Cut off one's nose to spite one's face",
+    "Shoot oneself in the foot"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার নিজের হাত কেটে বসল যখন চাকরি ছেড়ে দিয়ে ব্যবসা শুরু করল কিন্তু পরিকল্পনা ছাড়াই।",
+    "এই সিদ্ধান্ত নেয়া তার হাত কেটে বসার মতোই হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He cut off his own hand by quitting his job to start a business without any plan.",
+    "Making this decision would be like cutting off his own hand."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Decision-making",
+    "Self-sabotage"
+  ],
+  "tags": [
+    "self-harm",
+    "ruin",
+    "remedy",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes self-inflicted damage to one's own interests, common in Bengali oral traditions."
+}

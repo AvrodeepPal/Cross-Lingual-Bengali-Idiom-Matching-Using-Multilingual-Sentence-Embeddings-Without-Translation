@@ -1,0 +1,38 @@
+{
+  "id": "1237",
+  "idiom": "অ্যাড ইন্টারিম",
+  "alternative_idioms": [],
+  "literal_meaning": "মধ্যকালে বা অন্তর্বর্তী সময়ে",
+  "figurative_meaning_bn": "অন্তর্বর্তীকালীন; মধ্যকালীন",
+  "figurative_meaning_en": "Interim; temporary; in the meantime",
+  "similar_in_english": [
+    "in the interim",
+    "stopgap measure"
+  ],
+  "example_sentences_in_bangla": [
+    "সভাপতির অনুপস্থিতিতে অ্যাড ইন্টারিম সভাপতি নিযুক্ত করা হলো।",
+    "প্রকল্পের জন্য অ্যাড ইন্টারিম ব্যবস্থা নেওয়া দরকার।"
+  ],
+  "example_sentences_in_english": [
+    "An ad interim chairman was appointed in the absence of the president.",
+    "An interim arrangement is needed for the project."
+  ],
+  "usage_domain": [
+    "formal",
+    "legal",
+    "administration"
+  ],
+  "tags": [
+    "borrowed phrase",
+    "Latin origin",
+    "formal expression"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "city",
+  "history": [],
+  "note": "This is a Latin phrase borrowed into Bengali formal and legal contexts, not a traditional native idiom."
+}

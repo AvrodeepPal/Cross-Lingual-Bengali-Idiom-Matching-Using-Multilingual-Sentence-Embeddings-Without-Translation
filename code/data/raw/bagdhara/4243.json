@@ -1,0 +1,41 @@
+{
+  "id": "4243",
+  "idiom": "ছপ্পর ফুঁড়ে",
+  "alternative_idioms": [
+    "ছাদ ফুঁড়ে"
+  ],
+  "literal_meaning": "ছাদ বা ছপ্পর ভেদ করে (roof piercing through)",
+  "figurative_meaning_bn": "অপ্রত্যাশিতভাবে; আশাতীতভাবে",
+  "figurative_meaning_en": "unexpectedly; beyond expectation",
+  "similar_in_english": [
+    "out of the blue",
+    "from the heavens"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ছেলে হঠাৎ লটারি জিতে গেল, ছপ্পর ফুঁড়ে ধনী হয়ে উঠল।",
+    "আল্লা যখন দেন, তখন ছপ্পর ফুঁড়ে দেন।"
+  ],
+  "example_sentences_in_english": [
+    "He suddenly won the lottery and became rich beyond expectation.",
+    "When God gives, He gives abundantly, piercing through the roof."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "fortune and surprise"
+  ],
+  "tags": [
+    "proverbial",
+    "fortune",
+    "divine intervention"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the Hindi proverb 'Jab Allah deta hai to chhapar phad ke deta hai', implying divine generosity in abundance."
+  ],
+  "note": "Variants reflect regional differences in roofing materials (thatched vs. tiled roofs)."
+}

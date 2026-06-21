@@ -1,0 +1,40 @@
+{
+  "id": "2567",
+  "idiom": "খাজা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁচা বা অপরিপক্ক (raw or unripe)",
+  "figurative_meaning_bn": "অপদার্থ; অত্যন্ত কাঁচা; নিতান্ত অনভিজ্ঞ, নিরেট বোকা",
+  "figurative_meaning_en": "worthless; extremely inexperienced or raw; utterly ignorant, downright foolish",
+  "similar_in_english": [
+    "greenhorn",
+    "wet behind the ears",
+    "raw recruit"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খাজা লোক, কোনো কাজ জানে না।",
+    "আচ্ছা খাজা ছেলে তো, এত সহজ কাজও করতে পারে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a raw fellow, doesn't know any work.",
+    "What a greenhorn he is, can't even do such a simple task."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation",
+    "describing incompetence"
+  ],
+  "tags": [
+    "negative",
+    "inexperience",
+    "foolishness",
+    "insult"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the literal sense of 'raw' or 'uncooked' to metaphorically describe lack of maturity or skill in people."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "10065",
+  "idiom": "হাড়মাস এক হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হাড় এবং মাংস একত্রিত হয়ে যাওয়া (bones and flesh merging together, implying extreme thinness)",
+  "figurative_meaning_bn": "অত্যন্ত পরিশ্রমে কাতর হওয়া",
+  "figurative_meaning_en": "To become utterly exhausted and worn out from extreme hard labor",
+  "similar_in_english": [
+    "worked to the bone",
+    "skin and bones",
+    "bone-tired"
+  ],
+  "example_sentences_in_bangla": [
+    "দিনরাত অবিরাম পরিশ্রম করে সে হাড়মাস এক হয়ে গেছে।",
+    "গরিব কৃষকটি ফসল তোলার সময় হাড়মাস এক হওয়ার মতো ক্লান্ত হয়ে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "He worked day and night and became skin and bones from exhaustion.",
+    "The poor farmer was so worn out from harvesting that he looked like skin and bones."
+  ],
+  "usage_domain": [
+    "daily life",
+    "labor and work",
+    "physical exertion"
+  ],
+  "tags": [
+    "exhaustion",
+    "hard work",
+    "physical toll",
+    "fatigue"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures the physical ravages of overwork in Bengali agrarian society."
+}

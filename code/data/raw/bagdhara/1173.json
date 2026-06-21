@@ -1,0 +1,39 @@
+{
+  "id": "1173",
+  "idiom": "এজলাস",
+  "alternative_idioms": [
+    "ইজলাস"
+  ],
+  "literal_meaning": "বিচারকের আসন বা উঁচু মঞ্চ (judge's raised seat or platform)",
+  "figurative_meaning_bn": "বিচারাসন",
+  "figurative_meaning_en": "judge's bench or seat of judgment",
+  "similar_in_english": [
+    "the bench (referring to the judiciary or court)"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রয়োজনে হাইকোর্টের এজলাসে যাবো।",
+    "এই মামলায় এজলাসে আবেদন করতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "If necessary, I'll go to the High Court's bench.",
+    "In this case, an appeal to the bench will be required."
+  ],
+  "usage_domain": [
+    "legal",
+    "judiciary"
+  ],
+  "tags": [
+    "court",
+    "judge",
+    "trial",
+    "legal term"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "Variant spellings reflect phonetic differences in Bengali pronunciation; derived from English 'eject' but adapted to mean judicial bench."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "3615",
+  "idiom": "ঘোর সংসারী",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘোর (intense/extreme) সংসারী (worldly/householder)",
+  "figurative_meaning_bn": "বিষয়-আশয়মোহে আচ্ছন্ন; প্রচণ্ড বিষয়ানুরক্ত; ভোগ-সুখে অতিশয় আসক্ত",
+  "figurative_meaning_en": "Immersed in attachment to material possessions; intensely devoted to worldly matters; excessively addicted to pleasures and comforts",
+  "similar_in_english": [
+    "materialistic to the core",
+    "worldly hedonist"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ঘোর সংসারী, কখনো আধ্যাত্মিকতার দিকে মন দেয় না।",
+    "এই যুগে অনেকেই ঘোর সংসারী হয়ে উঠেছে, সুখের পেছনে ছুটছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a ghôra saṁsārī, never paying attention to spiritual matters.",
+    "In this age, many have become ghôra saṁsārī, chasing after worldly pleasures."
+  ],
+  "usage_domain": [
+    "personality description",
+    "lifestyle critique"
+  ],
+  "tags": [
+    "materialism",
+    "worldly attachment",
+    "hedonism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Rooted in the cultural contrast between samsara (worldly life) and spiritual detachment in Bengali Hindu traditions."
+}

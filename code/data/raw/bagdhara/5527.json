@@ -1,0 +1,43 @@
+{
+  "id": "5527",
+  "idiom": "তোলপাড়",
+  "alternative_idioms": [
+    "চিৎকার-চেঁচামেচি",
+    "হৈচৈ"
+  ],
+  "literal_meaning": "তোলা এবং উপড়ানো (সবকিছু উল্টে দেওয়া)",
+  "figurative_meaning_bn": "তুমুল ঝগড়া, বিক্ষোভ",
+  "figurative_meaning_en": "fierce quarrel, uproar or protest",
+  "similar_in_english": [
+    "raise hell",
+    "kick up a fuss",
+    "make a scene"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় তোলপাড় হয়ে গেল।",
+    "পাড়ায় তোলপাড় শুরু হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "There was an uproar in the meeting.",
+    "An uproar has started in the neighborhood."
+  ],
+  "usage_domain": [
+    "social",
+    "politics",
+    "daily life"
+  ],
+  "tags": [
+    "uproar",
+    "quarrel",
+    "protest",
+    "commotion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom captures the essence of chaotic disruption in Bengali social contexts."
+}

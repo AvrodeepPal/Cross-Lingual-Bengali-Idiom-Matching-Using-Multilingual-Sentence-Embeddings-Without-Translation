@@ -1,0 +1,44 @@
+{
+  "id": "4303",
+  "idiom": "ছানাপোনা",
+  "alternative_idioms": [
+    "আণ্ডাবাচ্চা",
+    "কাচ্চাবাচ্চা",
+    "বাচ্চাকাচ্চা"
+  ],
+  "literal_meaning": "ছানা (ছানা) এবং পোনা (ফুলে ওঠা ছানা বা ক্ষুদ্র পাখি)",
+  "figurative_meaning_bn": "ব্যঙ্গে অতি অল্পবয়স্ক ছেলেমেয়ে বা ছোট শিশুসন্তান",
+  "figurative_meaning_en": "sarcastically referring to very young children or toddlers",
+  "similar_in_english": [
+    "small fry",
+    "little brats",
+    "young 'uns"
+  ],
+  "example_sentences_in_bangla": [
+    "এই ছানাপোনা দলকে কোনো গুরুত্বপূর্ণ কাজ দিও না।",
+    "গ্রামের ছানাপোনা রাস্তায় খেলছে।"
+  ],
+  "example_sentences_in_english": [
+    "Don't give any important tasks to this bunch of little brats.",
+    "The village kids are playing on the street."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "family",
+    "sarcastic remarks"
+  ],
+  "tags": [
+    "children",
+    "sarcasm",
+    "derogatory",
+    "youth"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from rural imagery of baby birds to belittle young people."
+}

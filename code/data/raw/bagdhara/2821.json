@@ -1,0 +1,40 @@
+{
+  "id": "2821",
+  "idiom": "গঙ্গাপুত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "গঙ্গার পুত্র (son of the Ganges)",
+  "figurative_meaning_bn": "ডোম; শবদাহকারী ব্যক্তি; মুর্দাফরাশ",
+  "figurative_meaning_en": "A Dom (a member of the Dom caste involved in cremations); a person who handles corpses; a pallbearer",
+  "similar_in_english": [
+    "undertaker"
+  ],
+  "example_sentences_in_bangla": [
+    "গঙ্গার তীরে গঙ্গাপুত্ররা মৃতদেহের দাহ করে।",
+    "সে গঙ্গাপুত্র হিসেবে পরিচিত, মৃতদেহ বহন করে।"
+  ],
+  "example_sentences_in_english": [
+    "On the banks of the Ganges, the sons of Ganga perform cremations.",
+    "He is known as a son of Ganga, handling the transport of corpses."
+  ],
+  "usage_domain": [
+    "funeral rites",
+    "social caste",
+    "death rituals"
+  ],
+  "tags": [
+    "Ganges",
+    "Dom community",
+    "cremation",
+    "Hindu traditions"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term refers to the Dom community, a Scheduled Caste in India historically associated with cremation duties along the Ganges River, rooted in ancient Hindu practices of riverine funerals."
+  ],
+  "note": "This expression carries connotations of social stigma due to caste associations but holds reverence in ritual contexts."
+}

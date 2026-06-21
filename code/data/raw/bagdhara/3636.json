@@ -1,0 +1,41 @@
+{
+  "id": "3636",
+  "idiom": "চকমা দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "চকমা (কৌশলী পলায়ন বা ছলনা) দেওয়া",
+  "figurative_meaning_bn": "ধোঁকা দেওয়া; প্রবঞ্চনা করা",
+  "figurative_meaning_en": "To deceive or trick someone",
+  "similar_in_english": [
+    "To pull a fast one",
+    "To give someone the slip",
+    "To hoodwink"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমাকে চকমা দিয়ে বাড়ি থেকে পালিয়ে গেল।",
+    "দোকানদারটি গ্রাহককে চকমা দিয়ে নিম্নমানের মাল দেওয়ার চেষ্টা করল।"
+  ],
+  "example_sentences_in_english": [
+    "He gave me the slip and ran away from home.",
+    "The shopkeeper tried to trick the customer by selling inferior goods."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "deception",
+    "everyday conversation"
+  ],
+  "tags": [
+    "trickery",
+    "deceit",
+    "evasion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom likely originates from the Chakma ethnic group in Bangladesh, known for their agility and guerrilla tactics in the Chittagong Hill Tracts, symbolizing clever evasion."
+  ],
+  "note": "The term 'চকমা' refers to the indigenous Chakma people, adding a cultural layer to the expression."
+}

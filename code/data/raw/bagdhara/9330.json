@@ -1,0 +1,38 @@
+{
+  "id": "9330",
+  "idiom": "লেজ গুটানো",
+  "alternative_idioms": [],
+  "literal_meaning": "লেজ গুটিয়ে নেওয়া (tail to fold or tuck)",
+  "figurative_meaning_bn": "পরাজিত কুকুরের ন্যায় লেজ গুটিয়ে পলায়ন করা",
+  "figurative_meaning_en": "To flee or retreat in defeat, like a dog tucking its tail between its legs",
+  "similar_in_english": [
+    "With one's tail between one's legs"
+  ],
+  "example_sentences_in_bangla": [
+    "পরাজয়ের পর সে লেজ গুটিয়ে মাঠ ছেড়ে চলে গেল।",
+    "বিতর্কে হেরে যাওয়ার পর তারা লেজ গুটানোর ভঙ্গিতে চলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "After the defeat, he slunk away with his tail between his legs.",
+    "Having lost the argument, they left with their tails tucked in."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Sports and competition",
+    "Politics"
+  ],
+  "tags": [
+    "Animal metaphor",
+    "Defeat",
+    "Cowardice",
+    "Retreat"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from observable animal behavior in rural Bengali life, symbolizing submission or escape from confrontation."
+}

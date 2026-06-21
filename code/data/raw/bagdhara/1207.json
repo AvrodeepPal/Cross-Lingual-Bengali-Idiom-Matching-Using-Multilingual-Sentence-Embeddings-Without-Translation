@@ -1,0 +1,39 @@
+{
+  "id": "1207",
+  "idiom": "এপাশ-ওপাশ করা",
+  "alternative_idioms": [],
+  "literal_meaning": "এ পাশে-ও পাশে করা (this side-that side to do)",
+  "figurative_meaning_bn": "যন্ত্রণায় ছটফট করা",
+  "figurative_meaning_en": "to toss and turn in pain or agony",
+  "similar_in_english": [
+    "toss and turn",
+    "writhe in agony"
+  ],
+  "example_sentences_in_bangla": [
+    "পেটের ব্যথায় সে সারা রাত এপাশ-ওপাশ করল।",
+    "অসুস্থতায় ছেলেটি বিছানায় এপাশ-ওপাশ করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He tossed and turned all night due to stomach pain.",
+    "The boy is writhing in bed from illness."
+  ],
+  "usage_domain": [
+    "Health",
+    "Emotions",
+    "Daily Life"
+  ],
+  "tags": [
+    "pain",
+    "discomfort",
+    "agony",
+    "physical suffering"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly describes physical restlessness due to pain, commonly used in spoken Bengali to express suffering."
+}

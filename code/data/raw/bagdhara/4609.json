@@ -1,0 +1,38 @@
+{
+  "id": "4609",
+  "idiom": "জানাজানি",
+  "alternative_idioms": [],
+  "literal_meaning": "জানা-জানা (পরস্পরের জ্ঞান বা অবগতি)",
+  "figurative_meaning_bn": "পরস্পরের কাছ থেকে পরস্পরের জানা",
+  "figurative_meaning_en": "Mutual exchange of knowledge or secrets between each other",
+  "similar_in_english": [
+    "You tell me yours and I'll tell you mine",
+    "Exchange of confidences"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই বন্ধু জানাজানি করে সময় কাটাচ্ছে।",
+    "তারা অফিসের জানাজানি শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "The two friends spent time in mutual gossiping.",
+    "They started exchanging office secrets."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Informal conversation"
+  ],
+  "tags": [
+    "gossip",
+    "intimacy",
+    "friendship",
+    "reduplicative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a sahachara shabda (companion word) indicating reciprocal sharing, common in Bengali colloquial speech."
+}

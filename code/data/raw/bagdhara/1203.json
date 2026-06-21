@@ -1,0 +1,42 @@
+{
+  "id": "1203",
+  "idiom": "ইন্তেজাম",
+  "alternative_idioms": [
+    "এন্তেজাম"
+  ],
+  "literal_meaning": "শৃঙ্খলা বা ব্যবস্থাপনা (পার্সিয়ান উদ্ভবের শব্দ)",
+  "figurative_meaning_bn": "বন্দোবস্ত; ব্যবস্থা",
+  "figurative_meaning_en": "arrangement; management",
+  "similar_in_english": [
+    "get one's ducks in a row",
+    "arrangement"
+  ],
+  "example_sentences_in_bangla": [
+    "পার্টির খানাপিনার ইন্তেজাম খুব ভালো হয়েছে।",
+    "ঘরের ইন্তেজাম করে নাও, অতিথিরা আসছে।"
+  ],
+  "example_sentences_in_english": [
+    "The arrangement for the party's food was excellent.",
+    "Get the house in order; the guests are coming."
+  ],
+  "usage_domain": [
+    "planning",
+    "organization",
+    "daily life"
+  ],
+  "tags": [
+    "loanword",
+    "persian origin",
+    "administration"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Borrowed from Persian 'intizam', introduced during Mughal rule in Bengal, commonly used in administrative and everyday contexts."
+  ],
+  "note": "This is a loanword often used idiomatically in Bengali for organizational matters, though not a traditional proverb-like idiom."
+}

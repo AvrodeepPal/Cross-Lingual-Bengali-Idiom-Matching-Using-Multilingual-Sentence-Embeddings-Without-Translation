@@ -1,0 +1,41 @@
+{
+  "id": "1503",
+  "idiom": "কথার শ্রাদ্ধ",
+  "alternative_idioms": [],
+  "literal_meaning": "কথার শ্রাদ্ধ (শব্দ বা কথার অন্ত্যেষ্টিক্রিয়া)",
+  "figurative_meaning_bn": "কথার অপব্যয়; বেকার কথাবার্তা",
+  "figurative_meaning_en": "Waste of words; idle or futile talk",
+  "similar_in_english": [
+    "Empty words",
+    "Talk is cheap",
+    "Beating a dead horse"
+  ],
+  "example_sentences_in_bangla": [
+    "এখন আর তাকে বোঝানো কথার শ্রাদ্ধ।",
+    "এসব আলোচনা কথার শ্রাদ্ধ হয়ে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "Trying to convince him now is just a waste of words.",
+    "These discussions will turn into idle talk."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Advice and persuasion"
+  ],
+  "tags": [
+    "futility",
+    "waste",
+    "communication",
+    "pointless"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the Hindu ritual of shraddha, performed for the deceased, implying that words offered in such contexts are ultimately futile, symbolizing pointless speech in everyday life."
+  ],
+  "note": "Rooted in Hindu funeral traditions common in Bengali culture."
+}

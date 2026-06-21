@@ -1,0 +1,41 @@
+{
+  "id": "4809",
+  "idiom": "ঝাড়ফুঁক",
+  "alternative_idioms": [],
+  "literal_meaning": "ঝাড়া এবং ফুঁক দেওয়া (বাতাস বা শ্বাস ছুড়ে দেওয়ার কাজ)",
+  "figurative_meaning_bn": "রোগ সারাতে মন্ত্র পড়ে গায়ে ফুঁ দেওয়ার সংস্কার",
+  "figurative_meaning_en": "The ritual of chanting mantras and blowing on the body to cure illness",
+  "similar_in_english": [
+    "faith healing",
+    "exorcism ritual"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের লোকেরা রোগের জন্য প্রথমে ঝাড়ফুঁক করে।",
+    "আধুনিক ঔষধের বদলে ঝাড়ফুঁকের উপর নির্ভর করা বিপজ্জনক।"
+  ],
+  "example_sentences_in_english": [
+    "In the village, people first resort to jharphunk for illnesses.",
+    "Relying on jharphunk instead of modern medicine can be dangerous."
+  ],
+  "usage_domain": [
+    "Health",
+    "Traditional Medicine",
+    "Superstition"
+  ],
+  "tags": [
+    "ritual",
+    "folk healing",
+    "mantra",
+    "superstition"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom refers to a traditional folk healing practice in Bengali culture, often performed by local healers like ojhas or kabirajs using incantations and breath to ward off evil spirits or cure ailments."
+  ],
+  "note": "Primarily associated with rural Bengali traditions, sometimes viewed skeptically in urban contexts."
+}

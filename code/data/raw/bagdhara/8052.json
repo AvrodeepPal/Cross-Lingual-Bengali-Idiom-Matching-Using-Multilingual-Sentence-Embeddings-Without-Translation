@@ -1,0 +1,37 @@
+{
+  "id": "8052",
+  "idiom": "ভালো দেখানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ভালো দেখানো (good appearing or showing good)",
+  "figurative_meaning_bn": "উপযুক্ত; শোভন; সমর্থনযোগ্য",
+  "figurative_meaning_en": "appropriate; decorous; acceptable",
+  "similar_in_english": [
+    "seem fitting",
+    "look proper"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার এখানে থাকা ভালো দেখায় না।",
+    "এই সিদ্ধান্তটা ভালো দেখাবে না।"
+  ],
+  "example_sentences_in_english": [
+    "It doesn't look good for me to stay here.",
+    "This decision won't seem appropriate."
+  ],
+  "usage_domain": [
+    "social etiquette",
+    "daily conversation"
+  ],
+  "tags": [
+    "propriety",
+    "appearance",
+    "social norms"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects Bengali emphasis on social propriety and decorum in interactions."
+}

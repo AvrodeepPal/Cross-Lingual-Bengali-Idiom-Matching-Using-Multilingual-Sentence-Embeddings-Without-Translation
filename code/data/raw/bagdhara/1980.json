@@ -1,0 +1,37 @@
+{
+  "id": "1980",
+  "idiom": "কান কাটা যাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কান কাটা হয়ে যাওয়া (ear being cut off)",
+  "figurative_meaning_bn": "অপমানিত হওয়া, লজ্জিত হওয়া",
+  "figurative_meaning_en": "to be humiliated or embarrassed",
+  "similar_in_english": [
+    "lose face",
+    "die of shame"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার এই আচরণে আমার কান কাটা যাচ্ছে।",
+    "সভায় তার ভুল উত্তরে সকলের কান কাটা গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Your behavior is humiliating me.",
+    "His wrong answer in the meeting embarrassed everyone."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "emotional expression"
+  ],
+  "tags": [
+    "shame",
+    "embarrassment",
+    "humiliation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom metaphorically expresses deep shame, akin to physical disfigurement in traditional contexts."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "460",
+  "idiom": "আঠারো মাসে বছর",
+  "alternative_idioms": [
+    "আটারো মাসে বছর",
+    "বত্রিশ দিনে মাস"
+  ],
+  "literal_meaning": "আঠারো মাসে এক বছর",
+  "figurative_meaning_bn": "অকর্মণ্যতা; আলস্য; কুঁড়েমি; দীর্ঘসূত্রতা; অহেতুক কালক্ষেপণের ফলে কাজে বিলম্ব",
+  "figurative_meaning_en": "Laziness; idleness; procrastination; prolonging matters unnecessarily; delay in work due to pointless time-wasting",
+  "similar_in_english": [
+    "a month of Sundays",
+    "taking one's sweet time",
+    "dragging one's feet"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আঠারো মাসে বছর কাটায়, কোনো কাজই সময়মতো শেষ করে না।",
+    "এই প্রকল্পটি আঠারো মাসে বছর নিয়ে চলছে, কখনো শেষ হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He takes eighteen months for a year, never finishing any work on time.",
+    "This project is dragging on like eighteen months in a year; it will never end."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work",
+    "conversation"
+  ],
+  "tags": [
+    "laziness",
+    "procrastination",
+    "delay",
+    "idleness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom exaggerates time to highlight inefficiency, common in Bengali proverbial speech."
+}

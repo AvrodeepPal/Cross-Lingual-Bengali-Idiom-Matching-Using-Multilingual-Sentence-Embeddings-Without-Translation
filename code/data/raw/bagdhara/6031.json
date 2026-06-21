@@ -1,0 +1,39 @@
+{
+  "id": "6031",
+  "idiom": "ধর্মকর্ম",
+  "alternative_idioms": [],
+  "literal_meaning": "ধর্মের কাজ বা ধর্মীয় কর্মকাণ্ড",
+  "figurative_meaning_bn": "শাস্ত্রবিধি অনুযায়ী পূণ্যকর্ম",
+  "figurative_meaning_en": "Pious acts or religious rituals performed in accordance with scriptural injunctions",
+  "similar_in_english": [
+    "acts of piety",
+    "religious observances"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি প্রতিদিন ধর্মকর্ম করে মনের শান্তি লাভ করেন।",
+    "গ্রামে ধর্মকর্মের উৎসবে সকলে অংশ নেয়।"
+  ],
+  "example_sentences_in_english": [
+    "He performs dharmakarma every day to attain peace of mind.",
+    "In the village, everyone participates in the festival of dharmakarma."
+  ],
+  "usage_domain": [
+    "religion",
+    "daily rituals",
+    "cultural practices"
+  ],
+  "tags": [
+    "ধর্ম",
+    "পূজা",
+    "শাস্ত্র",
+    "পূণ্য"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This phrase is commonly used in Hindu-Bengali contexts to denote obligatory religious duties."
+}

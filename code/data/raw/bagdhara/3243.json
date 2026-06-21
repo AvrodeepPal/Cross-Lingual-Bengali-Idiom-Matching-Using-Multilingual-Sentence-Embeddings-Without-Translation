@@ -1,0 +1,42 @@
+{
+  "id": "3243",
+  "idiom": "গুবলেট",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাসমান বা ভেসে যাওয়া বস্তু (যেমন নৌকা বা পাত্র)",
+  "figurative_meaning_bn": "ভেস্তে যাওয়া; ভেস্তে গেছে এমন",
+  "figurative_meaning_en": "To drift away or become ruined and dispersed",
+  "similar_in_english": [
+    "gone down the drain",
+    "all at sea",
+    "go to pot"
+  ],
+  "example_sentences_in_bangla": [
+    "বন্যার কারণে সব ফসল গুবলেট হয়ে গেছে।",
+    "পরিকল্পনা সব গুবলেট হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "Due to the flood, all the crops have floated away.",
+    "The plan has all gone to pot."
+  ],
+  "usage_domain": [
+    "everyday language",
+    "disaster contexts",
+    "loss and ruin"
+  ],
+  "tags": [
+    "negative",
+    "figurative",
+    "destruction",
+    "dispersion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Likely originates from frequent floods in Bengal, where belongings float away in rivers."
+  ],
+  "note": "The idiom evokes imagery of items drifting in water, common in riverine Bengali culture."
+}

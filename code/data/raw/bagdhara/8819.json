@@ -1,0 +1,38 @@
+{
+  "id": "8819",
+  "idiom": "মুড়ি-মুড়কি",
+  "alternative_idioms": [],
+  "literal_meaning": "ফোলা ভাত বা মুড়ি এবং তার ছোট টুকরো",
+  "figurative_meaning_bn": "সাধারণ বা নিতান্ত অকিঞ্চিৎকর ভোজ্যদ্রব্য",
+  "figurative_meaning_en": "Ordinary or utterly insignificant food items",
+  "similar_in_english": [
+    "peanuts",
+    "small potatoes"
+  ],
+  "example_sentences_in_bangla": [
+    "এই উপহারটা মুড়ি-মুড়কির মতো, কোনো মূল্য নেই।",
+    "তার দেওয়া সাহায্য মুড়ি-মুড়কির সমান।"
+  ],
+  "example_sentences_in_english": [
+    "This gift is like peanuts, worth nothing.",
+    "The help he offered was as insignificant as puffed rice bits."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "food",
+    "everyday life"
+  ],
+  "tags": [
+    "insignificant",
+    "trivial",
+    "snack-related"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to common rural snacks in Bengali culture, emphasizing triviality."
+}

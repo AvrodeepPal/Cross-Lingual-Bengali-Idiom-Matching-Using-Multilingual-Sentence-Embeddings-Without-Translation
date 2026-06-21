@@ -1,0 +1,41 @@
+{
+  "id": "7",
+  "idiom": "অকাজের গোঁসাই",
+  "alternative_idioms": [],
+  "literal_meaning": "অকাজের (অকেজো বা নিষ্প্রয়োজনীয় কাজের) গোঁসাই (ভ্রাম্যমাণ ধর্মীয় সাধু বা গোস্বামী)",
+  "figurative_meaning_bn": "অনুচিত কাজ করতে মুখিয় থাকা ব্যক্তি",
+  "figurative_meaning_en": "A person inclined to engage in inappropriate or futile activities",
+  "similar_in_english": [
+    "busybody",
+    "meddler"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তো অকাজের গোঁসাই, সবসময় ফাজলামিতে লিপ্ত থাকে।",
+    "গ্রামের ওই লোকটি অকাজের গোঁসাই বলে পরিচিত, কোনো কাজে মন দিতে পারে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real akajer gosai, always getting involved in pointless mischief.",
+    "That village guy is known as an akajer gosai; he never focuses on anything useful."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation",
+    "criticism"
+  ],
+  "tags": [
+    "negative",
+    "person description",
+    "futility",
+    "mischief"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The term draws from 'gosai', referring to wandering Vaishnava mendicants in Bengali tradition, often stereotyped as idle or meddlesome in folklore."
+  ],
+  "note": "The idiom critiques unproductive or disruptive behavior through the lens of a religious figure's stereotype."
+}

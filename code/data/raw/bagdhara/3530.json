@@ -1,0 +1,40 @@
+{
+  "id": "3530",
+  "idiom": "ঘাম দিয়ে জ্বর ছাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘাম দিয়ে জ্বর ছাড়ানো (sweating out the fever)",
+  "figurative_meaning_bn": "আশ্বস্ত হওয়া, উদ্বেগ-উৎকণ্ঠা থেকে স্বস্তি পাওয়া; বিপদ থেকে নিস্কৃতি; হাঁপ ছেড়ে বাঁচা",
+  "figurative_meaning_en": "To feel relieved, to get relief from anxiety and worry; to escape from danger; to breathe a sigh of relief",
+  "similar_in_english": [
+    "Breathe a sigh of relief",
+    "Out of the woods",
+    "Safe and sound"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষার ফলাফল ভালো আসার পর সে ঘাম দিয়ে জ্বর ছাড়লো।",
+    "বিপদের মুখ থেকে রক্ষা পেয়ে পরিবারের সবাই ঘাম দিয়ে জ্বর ছাড়লো।"
+  ],
+  "example_sentences_in_english": [
+    "After receiving good exam results, he breathed a sigh of relief.",
+    "Having escaped danger, the whole family felt relieved."
+  ],
+  "usage_domain": [
+    "relief",
+    "anxiety",
+    "danger"
+  ],
+  "tags": [
+    "idiom",
+    "relief",
+    "figurative",
+    "emotional"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the physical sensation of fever breaking through sweat, metaphorically applied to emotional relief in Bengali culture."
+}

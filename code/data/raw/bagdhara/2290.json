@@ -1,0 +1,40 @@
+{
+  "id": "2290",
+  "idiom": "কুলের প্রদীপ",
+  "alternative_idioms": [
+    "কুলের বাতি"
+  ],
+  "literal_meaning": "কুলের (বংশের) প্রদীপ (দীপক বা আলোক)",
+  "figurative_meaning_bn": "বংশের একমাত্র সন্তান",
+  "figurative_meaning_en": "The only child of the family lineage",
+  "similar_in_english": [
+    "The light of the family",
+    "The sole heir"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কুলের প্রদীপটি বিদেশে চলে গেছে, এখন বংশের ভবিষ্যৎ কে দেখবে?",
+    "এই পরিবারের কুলের প্রদীপ হিসেবে ছেলেটির উপর সবার আশা ন্যস্ত।"
+  ],
+  "example_sentences_in_english": [
+    "His family's only light has gone abroad; who will carry on the lineage now?",
+    "The boy is the lamp of the clan, with all hopes resting on him."
+  ],
+  "usage_domain": [
+    "family",
+    "lineage",
+    "inheritance"
+  ],
+  "tags": [
+    "বংশ",
+    "একমাত্র সন্তান",
+    "পারিবারিক আশা"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলা সংস্কৃতিতে বংশধারার গুরুত্বকে তুলে ধরে, যেখানে একমাত্র সন্তানকে আলোর প্রতীক হিসেবে দেখা হয়।"
+}

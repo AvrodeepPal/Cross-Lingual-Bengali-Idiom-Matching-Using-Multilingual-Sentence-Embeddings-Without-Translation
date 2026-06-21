@@ -1,0 +1,40 @@
+{
+  "id": "9933",
+  "idiom": "হরফুনমৌলা",
+  "alternative_idioms": [
+    "হারফুনমৌলা"
+  ],
+  "literal_meaning": "every trick's master (referring to a versatile but superficially knowledgeable person, possibly derived from 'har' meaning every and 'moula' meaning scholar or master)",
+  "figurative_meaning_bn": "ব্যঙ্গার্থে সবজান্তা; সকল কাজের কাজি",
+  "figurative_meaning_en": "sarcastically, a know-it-all; judge in all matters",
+  "similar_in_english": [
+    "jack of all trades, master of none",
+    "know-it-all"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা হরফুনমৌলা, সব বিষয়ে তার মতামত আছে।",
+    "গ্রামের হরফুনমৌলা বলল, এই কাজটা এভাবে করতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a harfunnamoula, he has an opinion on everything.",
+    "The village harfunnamoula said, this task must be done this way."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "sarcasm",
+    "social commentary"
+  ],
+  "tags": [
+    "ব্যঙ্গ",
+    "জ্ঞানপ্রদর্শন",
+    "pretentiousness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term likely draws from the image of a meddlesome village mullah or scholar in Bengali society."
+}

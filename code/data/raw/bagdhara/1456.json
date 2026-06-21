@@ -1,0 +1,40 @@
+{
+  "id": "1456",
+  "idiom": "কথামাত্র সার",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা মাত্র সার (শুধু কথাই তার সারাংশ বা মূল উপাদান)",
+  "figurative_meaning_bn": "অন্তঃসারশূন্য, অসার কথা, ফাঁকা আওয়াজ, বাকপটু, বাকসর্বস্ব; বাগাড়ম্বর যার একমাত্র আশ্রয়",
+  "figurative_meaning_en": "Empty of inner essence, insubstantial words, empty sound or babble, eloquent speaker, master of rhetoric; pomp and show whose only support is words",
+  "similar_in_english": [
+    "All talk and no action",
+    "Empty words",
+    "Hot air"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথামাত্র সার, কোনো কাজে হাত দিতে চায় না।",
+    "রাজনীতিতে অনেকেই কথামাত্র সার হয়ে থাকেন।"
+  ],
+  "example_sentences_in_english": [
+    "He is all talk and no action; he never follows through on his promises.",
+    "Many politicians are just full of empty words without any real substance."
+  ],
+  "usage_domain": [
+    "conversation",
+    "politics",
+    "criticism"
+  ],
+  "tags": [
+    "empty talk",
+    "eloquence",
+    "insubstantial",
+    "rhetoric"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights the cultural disdain in Bengali society for mere verbal show without practical value."
+}

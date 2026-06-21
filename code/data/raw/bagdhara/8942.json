@@ -1,0 +1,41 @@
+{
+  "id": "8942",
+  "idiom": "যমের ভুল",
+  "alternative_idioms": [],
+  "literal_meaning": "যমের ভুল (Yama's mistake)",
+  "figurative_meaning_bn": "যে মরছে না তার মৃত্যু কামনা করে গালি",
+  "figurative_meaning_en": "A curse wishing death upon someone who is not dying",
+  "similar_in_english": [
+    "Wishing someone an early grave",
+    "Damning the undying"
+  ],
+  "example_sentences_in_bangla": [
+    "ওর অসুখ দেখে যমের ভুল বলে দিলাম।",
+    "এত কষ্ট পেলেও মরছে না, যমের ভুল করে দাও।"
+  ],
+  "example_sentences_in_english": [
+    "Seeing his illness, I cursed him with Yama's mistake.",
+    "He's suffering so much but not dying; wish Yama's mistake upon him."
+  ],
+  "usage_domain": [
+    "Insults",
+    "Curses",
+    "Folklore expressions"
+  ],
+  "tags": [
+    "Death",
+    "Curse",
+    "Mythology",
+    "Hinduism"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom references Yama, the Hindu god of death, implying an erroneous call for death on someone still alive, rooted in mythological beliefs about the afterlife."
+  ],
+  "note": "This expression draws from Hindu cosmology where Yama decides the time of death."
+}

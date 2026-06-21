@@ -1,0 +1,39 @@
+{
+  "id": "8768",
+  "idiom": "কোন মুখে",
+  "alternative_idioms": [],
+  "literal_meaning": "কোন (which/what) মুখে (in/on face)",
+  "figurative_meaning_bn": "কোন লজ্জায়; দেখাবার বা বলবার মত মুখ না থাকার ভাব",
+  "figurative_meaning_en": "Out of shame; the feeling of lacking a face to show or speak",
+  "similar_in_english": [
+    "How can I face him?",
+    "I haven't got the face to show up",
+    "Lose face"
+  ],
+  "example_sentences_in_bangla": [
+    "কোন মুখে আমি তার সামনে যাবো?",
+    "এই ভুলের পর কোন মুখে কথা বলবো?"
+  ],
+  "example_sentences_in_english": [
+    "With what face can I go before him?",
+    "After this mistake, what face do I have to speak?"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Emotional expression"
+  ],
+  "tags": [
+    "shame",
+    "embarrassment",
+    "lajja",
+    "emotion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in spoken Bengali to express deep embarrassment"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6310",
+  "idiom": "নাকে ঝামা ঘষে দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "নাকে নাকঝামা ঘষে দেওয়া (নাকের অলঙ্কার ঘষে নাকের উপর লাগানো)",
+  "figurative_meaning_bn": "তীব্র সমালোচনা করে নিশ্চুপ করে দেওয়া",
+  "figurative_meaning_en": "To silence someone through severe criticism",
+  "similar_in_english": [
+    "give someone a dressing-down",
+    "put someone in their place",
+    "rub someone's nose in it"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় তার বক্তব্যের জবাবে চেয়ারম্যান তাকে নাকে ঝামা ঘষে দিলেন।",
+    "ভাইয়ের দোষ দেখিয়ে বোন তাকে নাকে ঝামা ঘষে চুপ করিয়ে দিল।"
+  ],
+  "example_sentences_in_english": [
+    "In the meeting, the chairperson silenced him by rubbing his nose in his mistake.",
+    "The sister shut her brother up by giving him a severe scolding for his fault."
+  ],
+  "usage_domain": [
+    "arguments",
+    "workplace",
+    "family disputes"
+  ],
+  "tags": [
+    "criticism",
+    "admonishment",
+    "silencing",
+    "reprimand"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from traditional Bengali adornments like nose rings, symbolizing humiliation through forceful correction."
+}

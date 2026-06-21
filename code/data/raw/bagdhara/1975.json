@@ -1,0 +1,38 @@
+{
+  "id": "1975",
+  "idiom": "কানকথা",
+  "alternative_idioms": [],
+  "literal_meaning": "কানের কথা (ear talk)",
+  "figurative_meaning_bn": "কানে কানে বলা কথা, গোপন মন্ত্রণা",
+  "figurative_meaning_en": "Whispered words or secret consultation",
+  "similar_in_english": [
+    "Whisper in one's ear",
+    "Hush-hush talk"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা কোণে দাঁড়িয়ে কানকথা বলছে।",
+    "বন্ধুরা গোপনীয় বিষয় নিয়ে কানকথা করল।"
+  ],
+  "example_sentences_in_english": [
+    "They are whispering in the corner.",
+    "The friends had a secret consultation about the matter."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Secrecy and gossip"
+  ],
+  "tags": [
+    "secrecy",
+    "whisper",
+    "confidential",
+    "gossip"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in informal Bengali speech to denote private discussions."
+}

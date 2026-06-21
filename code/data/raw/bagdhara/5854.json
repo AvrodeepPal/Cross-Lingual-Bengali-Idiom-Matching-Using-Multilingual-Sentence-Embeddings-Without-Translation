@@ -1,0 +1,40 @@
+{
+  "id": "5854",
+  "idiom": "দুকূল",
+  "alternative_idioms": [],
+  "literal_meaning": "দুই তীর বা তট (নদীর দুকুল)",
+  "figurative_meaning_bn": "ইহকাল ও পরকাল; সমস্ত আশ্রয়",
+  "figurative_meaning_en": "This life and the hereafter; all means of support",
+  "similar_in_english": [
+    "between two worlds",
+    "all bases covered"
+  ],
+  "example_sentences_in_bangla": [
+    "তার দুকূল গেল, কোনো আশ্রয় রইল না।",
+    "জীবনের দুকূল সুরক্ষিত রাখতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "He lost both shores, with no support left.",
+    "One must secure the shores of life."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature",
+    "philosophy"
+  ],
+  "tags": [
+    "river imagery",
+    "support",
+    "life and afterlife"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from riverine imagery in Bengali proverbs, symbolizing total loss as in 'একূল-ওকূল দুকূল গেল অকূলপারে গোকুল'."
+  ],
+  "note": "Often used in contexts of loss or security in Bengali folklore."
+}

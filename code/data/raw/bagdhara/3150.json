@@ -1,0 +1,43 @@
+{
+  "id": "3150",
+  "idiom": "গান্ধর্ববিবাহ",
+  "alternative_idioms": [],
+  "literal_meaning": "গান্ধর্বদের মতো বিবাহ (celestial musicians' marriage)",
+  "figurative_meaning_bn": "পাত্রপাত্রীর ইচ্ছানুসারে প্রচলিত আচার অনুষ্ঠান না করে একে অপরকে স্বামী ও স্ত্রীরূপে বরণ",
+  "figurative_meaning_en": "Marriage by mutual consent of the bride and groom without following traditional rituals, accepting each other as husband and wife",
+  "similar_in_english": [
+    "love marriage",
+    "elopement",
+    "common-law marriage"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা গান্ধর্ববিবাহ করে সুখী জীবন যাপন করছে।",
+    "পুরনো সমাজে গান্ধর্ববিবাহকে অনেক সময় অগ্রহণযোগ্য মনে করা হতো।"
+  ],
+  "example_sentences_in_english": [
+    "They entered into a Gandharva marriage and are living happily.",
+    "In traditional society, Gandharva marriage was often considered unacceptable."
+  ],
+  "usage_domain": [
+    "marriage",
+    "relationships",
+    "culture"
+  ],
+  "tags": [
+    "love",
+    "tradition",
+    "Hindu customs",
+    "wedding"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Gandharva marriage is one of the eight classical forms of Hindu marriage described in ancient texts like Manusmriti, symbolizing union based on mutual attraction without parental consent or rituals.",
+    "It draws from mythology where Gandharvas, celestial beings, marry spontaneously through love."
+  ],
+  "note": "This idiom reflects pre-modern Hindu social norms and is still referenced in discussions of marital customs in Bengali literature and culture."
+}

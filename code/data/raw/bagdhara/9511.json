@@ -1,0 +1,39 @@
+{
+  "id": "9511",
+  "idiom": "শোধবোধ",
+  "alternative_idioms": [],
+  "literal_meaning": "শোধ (প্রতিশোধ বা সমাধান) + বোধ (অনুভূতি বা উপলব্ধি)",
+  "figurative_meaning_bn": "প্রতিশোধ এবং তার জন্য প্রবোধ",
+  "figurative_meaning_en": "Revenge and the persuasion or instigation towards it",
+  "similar_in_english": [
+    "An eye for an eye",
+    "Revenge is sweet"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মনে শোধবোধ জাগ্রত হয়েছে, তাই সে প্রতিশোধ নিতে প্ররোচিত হচ্ছে।",
+    "শোধবোধে ভরা হয়ে সে বন্ধুদের প্রবোধ দিয়ে যাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "A sense of revenge has awakened in him, so he is being urged to take vengeance.",
+    "Filled with vengeful intent, he is persuading his friends to act."
+  ],
+  "usage_domain": [
+    "emotions",
+    "conflict",
+    "interpersonal relations"
+  ],
+  "tags": [
+    "revenge",
+    "instigation",
+    "anger",
+    "retaliation"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This appears to be an obscure or compound expression emphasizing vengeful mindset in Bengali linguistic usage."
+}

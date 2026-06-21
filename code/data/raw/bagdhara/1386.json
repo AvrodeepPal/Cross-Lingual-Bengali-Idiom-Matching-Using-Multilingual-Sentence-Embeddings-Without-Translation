@@ -1,0 +1,39 @@
+{
+  "id": "1386",
+  "idiom": "কুলের কন্টক",
+  "alternative_idioms": [],
+  "literal_meaning": "কুলের (family/clan) কন্টক (thorn)",
+  "figurative_meaning_bn": "কলঙ্ক; অপবাদ; লজ্জা; নিন্দাজনিত দুঃখের হেতু বলে অবাঞ্ছিত",
+  "figurative_meaning_en": "A stain or disgrace; slander; shame; something unwanted as it causes sorrow from criticism",
+  "similar_in_english": [
+    "Black sheep of the family",
+    "Family disgrace"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার পরিবারের কুলের কন্টক হয়ে উঠেছে তার খারাপ আচরণের জন্য।",
+    "এই ঘটনা আমাদের কুলের কন্টক সৃষ্টি করেছে সকলের কাছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has become the black sheep of the family due to his bad behavior.",
+    "This incident has created a family disgrace in the eyes of everyone."
+  ],
+  "usage_domain": [
+    "Family",
+    "Social",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "disgrace",
+    "shame",
+    "family honor",
+    "slander"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects traditional Bengali emphasis on family reputation and honor."
+}

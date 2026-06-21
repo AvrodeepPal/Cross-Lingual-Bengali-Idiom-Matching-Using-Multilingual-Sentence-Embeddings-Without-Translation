@@ -1,0 +1,40 @@
+{
+  "id": "4594",
+  "idiom": "জাতভাই",
+  "alternative_idioms": [],
+  "literal_meaning": "জাতের ভাই (caste brother)",
+  "figurative_meaning_bn": "একস্বভাবের লোক; একই পেশার মানুষ; সমগোত্রীয়",
+  "figurative_meaning_en": "People of the same nature; people of the same profession; of the same clan",
+  "similar_in_english": [
+    "Brother in arms",
+    "Kindred spirit",
+    "One of our own"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা জাতভাই হিসেবে একে অপরকে সাহায্য করে।",
+    "এই পেশার লোকেরা সবাই জাতভাইয়ের মতো বাঁধা।"
+  ],
+  "example_sentences_in_english": [
+    "They help each other as caste brothers.",
+    "People in this profession are all bound like caste brothers."
+  ],
+  "usage_domain": [
+    "Social relations",
+    "Professional camaraderie",
+    "Kinship"
+  ],
+  "tags": [
+    "caste",
+    "brotherhood",
+    "community",
+    "similarity"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects traditional Bengali social structures emphasizing community ties."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1301",
+  "idiom": "কংস রাজার বদ ফরমাশ",
+  "alternative_idioms": [],
+  "literal_meaning": "কংস রাজার খারাপ আদেশ",
+  "figurative_meaning_bn": "অন্যায় ও অসম্ভব আদেশ",
+  "figurative_meaning_en": "Unjust and impossible command",
+  "similar_in_english": [
+    "A tyrant's unreasonable decree",
+    "Fool's errand imposed by authority"
+  ],
+  "example_sentences_in_bangla": [
+    "বসের এই কংস রাজার বদ ফরমাশ মেনে নেওয়া অসম্ভব।",
+    "সে তার বন্ধুকে কংস রাজার বদ ফরমাশের মতো একটা অযৌক্তিক কাজ দিল।"
+  ],
+  "example_sentences_in_english": [
+    "It's impossible to follow the boss's command like Kansa Raja's bad order.",
+    "He gave his friend an unreasonable task akin to Kansa Raja's unjust decree."
+  ],
+  "usage_domain": [
+    "Authority and obedience",
+    "Folklore and criticism"
+  ],
+  "tags": [
+    "Mythology",
+    "Tyranny",
+    "Unreasonable demand"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to King Kansa from Hindu mythology in the Bhagavata Purana, the tyrannical uncle of Lord Krishna who issued cruel and impossible orders to thwart a prophecy about his death."
+  ],
+  "note": "Idiom draws from Vaishnava traditions prevalent in Bengali culture."
+}

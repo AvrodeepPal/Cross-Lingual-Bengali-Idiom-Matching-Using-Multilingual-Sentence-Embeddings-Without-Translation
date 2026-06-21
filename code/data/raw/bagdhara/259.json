@@ -1,0 +1,42 @@
+{
+  "id": "259",
+  "idiom": "অলিগলি",
+  "alternative_idioms": [
+    "গলিঘুঁজি"
+  ],
+  "literal_meaning": "সরু গলি (narrow alley)",
+  "figurative_meaning_bn": "খুব সরু ও দুর্গম রাস্তা; গলি ও তস্যগলি; গলি এবং তার থেকেও সঙ্কীর্ণ পথ",
+  "figurative_meaning_en": "Very narrow and inaccessible road; alley and its narrower paths",
+  "similar_in_english": [
+    "back alley",
+    "rabbit warren"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পুরনো শহরের অলিগলিতে ঘুরতে খুব মজা লাগে।",
+    "গ্রামের অলিগলি দিয়ে যাওয়া কঠিন কাজ।"
+  ],
+  "example_sentences_in_english": [
+    "It's fun to wander through the narrow alleys of this old city.",
+    "Navigating the village's narrow alleys is a tough task."
+  ],
+  "usage_domain": [
+    "urban description",
+    "geography"
+  ],
+  "tags": [
+    "path",
+    "narrow",
+    "alley",
+    "inaccessible"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Often associated with the labyrinthine streets of historical cities like Kashi (Varanasi)."
+  ],
+  "note": "The idiom evokes imagery of densely packed urban or semi-urban areas in Bengali culture."
+}

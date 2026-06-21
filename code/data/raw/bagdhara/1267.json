@@ -1,0 +1,40 @@
+{
+  "id": "1267",
+  "idiom": "ওয়াস্তা",
+  "alternative_idioms": [],
+  "literal_meaning": "সমর্থনে বা কারণে (for the sake of or on account of)",
+  "figurative_meaning_bn": "উদ্দেশ্যে; শেয়ের জন্য, কারণে, নিমিত্তে",
+  "figurative_meaning_en": "for the purpose of; for the sake of something, for a reason, on the occasion of",
+  "similar_in_english": [
+    "for the sake of",
+    "on account of"
+  ],
+  "example_sentences_in_bangla": [
+    "আপনার ওয়াস্তা আমি এই কাজটা করছি।",
+    "ভালোবাসার ওয়াস্তা সে সব সহ্য করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "For your sake, I'm doing this job.",
+    "For the sake of love, she endured everything."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "formal writing"
+  ],
+  "tags": [
+    "purpose",
+    "reason",
+    "occasion",
+    "sake"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Persian/Urdu 'bar wasta' meaning 'for the sake of', introduced through historical linguistic influences in Bengal."
+  ],
+  "note": "This idiom reflects Persianate influences in Bengali due to Mughal era interactions."
+}

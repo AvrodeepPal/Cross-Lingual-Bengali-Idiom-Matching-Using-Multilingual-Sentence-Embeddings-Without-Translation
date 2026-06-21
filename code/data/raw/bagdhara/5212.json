@@ -1,0 +1,43 @@
+{
+  "id": "5212",
+  "idiom": "ড্যামেজ কন্ট্রোল",
+  "alternative_idioms": [],
+  "literal_meaning": "ক্ষতির নিয়ন্ত্রণ",
+  "figurative_meaning_bn": "বিপদ থেকে বাঁচার চেষ্টা",
+  "figurative_meaning_en": "efforts to mitigate or limit damage after a mistake",
+  "similar_in_english": [
+    "damage control",
+    "put out fires",
+    "cover one's tracks"
+  ],
+  "example_sentences_in_bangla": [
+    "আলটপকা মন্তব্য করে এখন সে ড্যামেজ কন্ট্রোল করতে নেমেছে।",
+    "কোম্পানির ভুল সিদ্ধান্তের পর ড্যামেজ কন্ট্রোলের জন্য প্রেস কনফারেন্স ডাকা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "After making a rash comment, he's now trying to do damage control.",
+    "The company called a press conference for damage control following the wrong decision."
+  ],
+  "usage_domain": [
+    "politics",
+    "media",
+    "business",
+    "public relations"
+  ],
+  "tags": [
+    "modern",
+    "borrowed from English",
+    "slang",
+    "PR term"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "city",
+  "history": [
+    "Originated as an English term in the mid-20th century, popularized in political and corporate contexts during crisis management scenarios."
+  ],
+  "note": "This is a direct transliteration of the English phrase 'damage control', commonly used in contemporary Bengali urban discourse, especially in media and politics."
+}

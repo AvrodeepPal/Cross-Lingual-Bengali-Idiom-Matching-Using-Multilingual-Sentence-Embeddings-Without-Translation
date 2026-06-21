@@ -1,0 +1,37 @@
+{
+  "id": "7881",
+  "idiom": "বেলা পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বেলা (দিনের মধ্যভাগ বা বিকাল) পড়া (পড়ে যাওয়া বা নামা)",
+  "figurative_meaning_bn": "বিকাল হয়ে আসা",
+  "figurative_meaning_en": "Afternoon approaching or setting in",
+  "similar_in_english": [
+    "The afternoon is wearing on",
+    "It's getting late in the day"
+  ],
+  "example_sentences_in_bangla": [
+    "বেলা পড়লে আমরা বাড়ি ফিরব।",
+    "বেলা পড়ে গেছে, এখন কাজ শেষ করা যাবে না।"
+  ],
+  "example_sentences_in_english": [
+    "We'll return home when the afternoon sets in.",
+    "The afternoon has worn on; we can't finish the work now."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Temporal expressions"
+  ],
+  "tags": [
+    "time",
+    "afternoon",
+    "daily life"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the natural progression of time in everyday Bengali rural and semi-urban life, emphasizing the passage from morning to afternoon."
+}

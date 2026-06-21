@@ -1,0 +1,41 @@
+{
+  "id": "6754",
+  "idiom": "পা চালানো",
+  "alternative_idioms": [
+    "পা চলা"
+  ],
+  "literal_meaning": "পা (feet) চালানো/চলা (to move or walk)",
+  "figurative_meaning_bn": "এগিয়ে যাওয়া, হাঁটা",
+  "figurative_meaning_en": "to proceed or walk forward",
+  "similar_in_english": [
+    "get a move on",
+    "put your foot down"
+  ],
+  "example_sentences_in_bangla": [
+    "দ্রুত পা চালাও, দেরি হয়ে যাবে।",
+    "পা আর চলছে না, খুব ক্লান্ত লাগছে।"
+  ],
+  "example_sentences_in_english": [
+    "Move your feet quickly, we'll be late.",
+    "My feet won't carry me anymore, I'm exhausted."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "travel",
+    "urgency"
+  ],
+  "tags": [
+    "movement",
+    "walking",
+    "hurry",
+    "fatigue"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom often implies urgency or exhaustion in movement, rooted in everyday Bengali life."
+}

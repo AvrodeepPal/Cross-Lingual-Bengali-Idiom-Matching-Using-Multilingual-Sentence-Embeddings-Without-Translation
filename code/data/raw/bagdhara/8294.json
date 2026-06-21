@@ -1,0 +1,40 @@
+{
+  "id": "8294",
+  "idiom": "মনে আসা",
+  "alternative_idioms": [
+    "মনে করা"
+  ],
+  "literal_meaning": "মনে (in the mind) আসা (to come) / করা (to do)",
+  "figurative_meaning_bn": "স্মরণে আসা",
+  "figurative_meaning_en": "to come to mind or to remember",
+  "similar_in_english": [
+    "come to mind",
+    "ring a bell",
+    "jog one's memory"
+  ],
+  "example_sentences_in_bangla": [
+    "মনে আসছে না তোমাকে কি বলেছি।",
+    "গানটা মনে করতে পারছি না।"
+  ],
+  "example_sentences_in_english": [
+    "I can't remember what I told you.",
+    "I can't recall that song."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "memory recall"
+  ],
+  "tags": [
+    "memory",
+    "recall",
+    "forgetfulness"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a common expression in everyday Bengali speech for recalling or failing to recall something."
+}

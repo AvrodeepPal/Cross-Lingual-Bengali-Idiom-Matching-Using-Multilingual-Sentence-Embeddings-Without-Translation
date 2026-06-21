@@ -1,0 +1,42 @@
+{
+  "id": "4693",
+  "idiom": "জুতা খাওয়া",
+  "alternative_idioms": [
+    "জুতা মারা"
+  ],
+  "literal_meaning": "জুতা খাওয়া (শাব্দিকভাবে: জুতা খাওয়া বা জুতা দিয়ে আঘাত পাওয়া)",
+  "figurative_meaning_bn": "অপমানিত হওয়া",
+  "figurative_meaning_en": "to be insulted or humiliated",
+  "similar_in_english": [
+    "to get the boot",
+    "to be put in one's place"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার উপরীয়ের কাছে জুতা খেয়েছে।",
+    "বিতর্কে হেরে সে জুতা খাওয়ার মতো অপমানিত হলো।"
+  ],
+  "example_sentences_in_english": [
+    "He was humiliated by his boss, as if he had eaten a shoe.",
+    "Losing the argument left him feeling like he had been slapped with a shoe."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "conflicts and arguments"
+  ],
+  "tags": [
+    "insult",
+    "humiliation",
+    "anger",
+    "social rebuke"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "In Bengali and broader South Asian culture, hitting someone with a shoe is a profound gesture of contempt, symbolizing the lowest form of disrespect as shoes are considered impure."
+  ],
+  "note": "The variant 'জুতা মারা' implies actively insulting someone by the act."
+}

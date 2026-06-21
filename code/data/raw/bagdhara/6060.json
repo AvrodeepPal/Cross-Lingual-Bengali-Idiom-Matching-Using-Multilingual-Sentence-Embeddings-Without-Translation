@@ -1,0 +1,37 @@
+{
+  "id": "6060",
+  "idiom": "ধান্ধাবাজ",
+  "alternative_idioms": [],
+  "literal_meaning": "ধান্ধা (কৌশল বা ব্যবসা) + বাজ (দক্ষ বা চালাক ব্যক্তি)",
+  "figurative_meaning_bn": "সুঅর্থে সুযোগসন্ধানী",
+  "figurative_meaning_en": "shrewd opportunist (in a positive sense)",
+  "similar_in_english": [
+    "go-getter",
+    "hustler"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন ধান্ধাবাজ ব্যক্তি, সবসময় নতুন সুযোগ খুঁজে পায়।",
+    "বাজারে ধান্ধাবাজ হিসেবে তার খ্যাতি আছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a shrewd opportunist who always finds new chances.",
+    "He has a reputation as a hustler in the market."
+  ],
+  "usage_domain": [
+    "business",
+    "daily life"
+  ],
+  "tags": [
+    "opportunism",
+    "shrewdness",
+    "resourcefulness"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term implies cleverness in seizing opportunities without negative connotations."
+}

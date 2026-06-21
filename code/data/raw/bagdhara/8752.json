@@ -1,0 +1,42 @@
+{
+  "id": "8752",
+  "idiom": "মুখসাপট",
+  "alternative_idioms": [
+    "মুখসাট"
+  ],
+  "literal_meaning": "মুখ যেন সাপের মতো পিচ্ছিল বা চালাক",
+  "figurative_meaning_bn": "বাকচাতুর্য; অহংকৃত উক্তি",
+  "figurative_meaning_en": "Eloquence; boastful utterance",
+  "similar_in_english": [
+    "silver-tongued",
+    "smooth talker",
+    "full of boast"
+  ],
+  "example_sentences_in_bangla": [
+    "লোকটার মুখ সাপটে, সে যা বলে তা সবাইকে বিভ্রান্ত করে।",
+    "তার বাক্যে মুখসাপটের ছোঁয়া লাগে, কিন্তু সত্যি কথা কম বলে।"
+  ],
+  "example_sentences_in_english": [
+    "The man has a snake-like mouth; he deceives everyone with his words.",
+    "His speech carries the touch of a slippery tongue, but he speaks little truth."
+  ],
+  "usage_domain": [
+    "conversation",
+    "rhetoric",
+    "social interaction"
+  ],
+  "tags": [
+    "eloquence",
+    "boast",
+    "deception",
+    "speech"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom refers to slippery or cunning speech, akin to a snake's movement."
+}

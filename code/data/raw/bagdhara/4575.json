@@ -1,0 +1,39 @@
+{
+  "id": "4575",
+  "idiom": "জলের মাছ ভাঙায়",
+  "alternative_idioms": [
+    "গোল গর্তে চৌকা পেরেক",
+    "পান্তাভাতে ঘি"
+  ],
+  "literal_meaning": "জলের মাছ ভাঙায় (water's fish breaks)",
+  "figurative_meaning_bn": "যে ব্যক্তি খুবই অনভ্যস্ত বা অস্বস্তিকর অবস্থায় পড়েছে",
+  "figurative_meaning_en": "A person who is in a very unaccustomed or uncomfortable situation",
+  "similar_in_english": [
+    "Like a fish out of water"
+  ],
+  "example_sentences_in_bangla": [
+    "নতুন শহরে এসে সে জলের মাছ ভাঙায়।",
+    "গ্রামের ছেলে শহুরে জীবনে জলের মাছ ভাঙায়।"
+  ],
+  "example_sentences_in_english": [
+    "Coming to the new city, he feels like a fish out of water.",
+    "The village boy is like a fish out of water in urban life."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Social adaptation"
+  ],
+  "tags": [
+    "discomfort",
+    "unfamiliarity",
+    "awkwardness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from rural aquatic imagery common in Bengali folklore."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7459",
+  "idiom": "বাগানো",
+  "alternative_idioms": [],
+  "literal_meaning": "বাগান তৈরি করার মতো সাজানো বা প্রস্তুত করা",
+  "figurative_meaning_bn": "জোগাড় করা; লাভ করা",
+  "figurative_meaning_en": "to arrange or manage something; to gain or benefit",
+  "similar_in_english": [
+    "to pull strings",
+    "to wangle",
+    "to fix up"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি একটা চাকরি বাগিয়েছি।",
+    "সে ব্যবসায় লাভ বাগানোর চেষ্টা করছে।"
+  ],
+  "example_sentences_in_english": [
+    "I managed to arrange a job.",
+    "He is trying to gain profit in business."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "employment",
+    "business"
+  ],
+  "tags": [
+    "arrangement",
+    "management",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom derives from the idea of 'cultivating' or 'preparing' like a garden, extended to arranging opportunities in everyday life."
+}

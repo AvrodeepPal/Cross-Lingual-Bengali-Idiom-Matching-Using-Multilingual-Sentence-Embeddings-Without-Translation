@@ -1,0 +1,40 @@
+{
+  "id": "6412",
+  "idiom": "নিজের কোলে ঝোল টানা",
+  "alternative_idioms": [],
+  "literal_meaning": "নিজের কোলে ঝোল টেনে নেওয়া",
+  "figurative_meaning_bn": "অন্যকে বঞ্চিত করে নিজের স্বার্থ সাধন করা; স্বার্থপর হওয়া",
+  "figurative_meaning_en": "Depriving others to serve one's own interests; being selfish",
+  "similar_in_english": [
+    "Feathering one's own nest",
+    "Every man for himself"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নিজের কোলে ঝোল টানলো, পরিবারের অন্য সদস্যদের কিছুই দিল না।",
+    "ব্যবসায়ে সঙ্গীকে বঞ্চিত করে নিজের কোলে ঝোল টানার চেষ্টা করলো সে।"
+  ],
+  "example_sentences_in_english": [
+    "He pulled the gravy into his own lap, not giving anything to the other family members.",
+    "In business, he tried to deprive his partner and pull the gravy into his own lap."
+  ],
+  "usage_domain": [
+    "daily life",
+    "social interactions",
+    "business"
+  ],
+  "tags": [
+    "selfishness",
+    "greed",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from traditional Bengali meal-sharing practices where food is served on a common plate, and someone selfishly draws the curry towards themselves, leaving others with less."
+  ],
+  "note": "The idiom reflects communal eating customs in Bengali households."
+}

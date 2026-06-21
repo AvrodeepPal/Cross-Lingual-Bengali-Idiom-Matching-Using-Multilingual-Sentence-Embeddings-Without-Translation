@@ -1,0 +1,40 @@
+{
+  "id": "5383",
+  "idiom": "তামাদি",
+  "alternative_idioms": [],
+  "literal_meaning": "তামা (তামার মতো কিছু) দি (দেওয়া)",
+  "figurative_meaning_bn": "এইসময় অবধি; দাবীর সময় অতিক্রান্ত",
+  "figurative_meaning_en": "Up to this time; the time for the claim has lapsed",
+  "similar_in_english": [
+    "Time's up",
+    "The deadline has passed",
+    "Too late to claim"
+  ],
+  "example_sentences_in_bangla": [
+    "তামাদি হয়ে গেছে, এখন আর দাবি করা যাবে না।",
+    "সময় তামাদি, কোনো উপায় নেই।"
+  ],
+  "example_sentences_in_english": [
+    "The time has lapsed; you can't claim it now.",
+    "It's past the deadline, no way around it."
+  ],
+  "usage_domain": [
+    "legal",
+    "time management",
+    "everyday conversation"
+  ],
+  "tags": [
+    "time",
+    "expiration",
+    "delay",
+    "claim"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom appears to be regionally specific or archaic, referring to the expiration of a claim period in traditional contexts."
+}

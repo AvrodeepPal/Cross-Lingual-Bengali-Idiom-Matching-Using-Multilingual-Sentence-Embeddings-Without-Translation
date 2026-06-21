@@ -1,0 +1,44 @@
+{
+  "id": "3448",
+  "idiom": "ঘরভেদী বিভীষণ",
+  "alternative_idioms": [
+    "সন্ধানী বিভীষণ"
+  ],
+  "literal_meaning": "ঘর ভেদকারী বা সন্ধানকারী বিভীষণ (house-breaching or searching Vibhishana)",
+  "figurative_meaning_bn": "যে লোক আপন ঘরের সন্ধান শত্রুর কাছে বলে অনিষ্ট ঘটায়",
+  "figurative_meaning_en": "A person who reveals the secrets of his own home to the enemy and causes harm",
+  "similar_in_english": [
+    "fifth columnist",
+    "traitor within",
+    "turncoat"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ঘরভেদী বিভীষণের মতো আচরণ করে পরিবারের রহস্য শত্রুকে জানিয়ে দিয়েছে।",
+    "এই রাজনৈতিক নেতা সন্ধানী বিভীষণের উদাহরণ, দলের গোপন তথ্য প্রকাশ করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He acted like a house-breaching Vibhishana by revealing family secrets to the rivals.",
+    "This politician is a searching Vibhishana, having leaked the party's confidential information."
+  ],
+  "usage_domain": [
+    "social",
+    "politics",
+    "family"
+  ],
+  "tags": [
+    "betrayal",
+    "traitor",
+    "mythological reference",
+    "Ramayana"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the Ramayana epic, where Vibhishana, the brother of the demon king Ravana, defects to Lord Rama's side during the war over Sita, revealing the secrets and vulnerabilities of Lanka to aid Rama's victory."
+  ],
+  "note": "The idiom carries a strong connotation of internal betrayal, rooted in Hindu mythology prevalent in Bengali culture."
+}

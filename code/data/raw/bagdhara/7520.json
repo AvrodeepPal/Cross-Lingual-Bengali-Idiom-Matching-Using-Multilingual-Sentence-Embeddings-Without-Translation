@@ -1,0 +1,41 @@
+{
+  "id": "7520",
+  "idiom": "বাজে জিনিস",
+  "alternative_idioms": [
+    "বাজে মার্কা"
+  ],
+  "literal_meaning": "বাজে (worthless/bad) জিনিস (thing); মার্কা (brand/mark)",
+  "figurative_meaning_bn": "অকেজো বা অপ্রয়োজনীয় জিনিস; কোন কাজের নয়",
+  "figurative_meaning_en": "Useless or unnecessary thing; good for nothing",
+  "similar_in_english": [
+    "junk",
+    "trash",
+    "good for nothing"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বাজে জিনিসটা কেন কিনলে?",
+    "বাজে মার্কার জিনিস ব্যবহার করো না।"
+  ],
+  "example_sentences_in_english": [
+    "Why did you buy this useless thing?",
+    "Don't use junk brand items."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "criticism of objects"
+  ],
+  "tags": [
+    "negative",
+    "waste",
+    "objects",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to low-quality or worthless items in daily Bengali speech"
+}

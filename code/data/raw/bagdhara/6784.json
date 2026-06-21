@@ -1,0 +1,43 @@
+{
+  "id": "6784",
+  "idiom": "পাড়াপড়শী",
+  "alternative_idioms": [
+    "পড়সী"
+  ],
+  "literal_meaning": "পাড়ার প্রতিবেশী বা লোকালয়ের বাসিন্দা",
+  "figurative_meaning_bn": "পাড়ার প্রতিবেশীরা; পল্লীর অধিবাসীবৃন্দ",
+  "figurative_meaning_en": "Neighbors of the neighborhood; residents of the locality or village community",
+  "similar_in_english": [
+    "Nosy neighbors",
+    "The whole neighborhood"
+  ],
+  "example_sentences_in_bangla": [
+    "পাড়াপড়শীরা সবাই খবর পেয়ে এসে জড়ো হয়েছে।",
+    "যার বিয়ে তার মনে নেই, পাড়াপড়শীর ঘুম নেই।"
+  ],
+  "example_sentences_in_english": [
+    "The neighbors have all gathered after hearing the news.",
+    "The one getting married doesn't care, but the neighbors can't sleep."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Community gossip",
+    "Proverbial expressions"
+  ],
+  "tags": [
+    "প্রতিবেশী",
+    "সম্প্রদায়",
+    "গসিপ",
+    "প্রবাদ"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এটি প্রায়শই প্রবাদে ব্যবহৃত হয় যেমন 'যার বিয়ে তার মনে নাই, পাড়াপড়শীর ঘুম নাই', যা বাঙালি সমাজের প্রতিবেশীদের কৌতূহলী প্রকৃতি তুলে ধরে।"
+  ],
+  "note": "সহচর শব্দ হিসেবে বহুজনার্থক, প্রধানত সম্প্রদায়িক জীবনের প্রসঙ্গে ব্যবহৃত।"
+}

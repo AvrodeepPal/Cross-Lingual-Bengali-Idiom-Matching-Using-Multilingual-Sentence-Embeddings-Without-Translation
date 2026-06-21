@@ -1,0 +1,40 @@
+{
+  "id": "4572",
+  "idiom": "জলের ছিটে দিয়ে লগির গুঁতো খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "জল ছিটিয়ে লগি (কাঠের টুকরো) থেকে আঘাত পাওয়া",
+  "figurative_meaning_bn": "বিপদ ডেকে আনা",
+  "figurative_meaning_en": "Inviting trouble or danger",
+  "similar_in_english": [
+    "Playing with fire",
+    "Courting disaster"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অপ্রয়োজনে বিরক্তিকর লোকের সাথে কথা বলে জলের ছিটে দিয়ে লগির গুঁতো খেলো।",
+    "এই কাজ করলে তুমি নিজের জন্য বিপদ ডেকে আনবে, যেন জলের ছিটে দিয়ে লগির গুঁতো খাও।"
+  ],
+  "example_sentences_in_english": [
+    "By unnecessarily arguing with the boss, he invited trouble like getting hit by a log after sprinkling water on it.",
+    "If you keep provoking them, you'll be courting disaster, just like sprinkling water on a log and getting struck by it."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Warnings and advice"
+  ],
+  "tags": [
+    "danger",
+    "caution",
+    "folklore",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom likely originates from rural Bengali practices where attempting to move or cut a heavy log by sprinkling water to soften it backfires, causing the log to slip and strike the person, symbolizing self-inflicted harm."
+  ],
+  "note": "The idiom draws from practical rural experiences with wood and water, emphasizing unintended consequences."
+}

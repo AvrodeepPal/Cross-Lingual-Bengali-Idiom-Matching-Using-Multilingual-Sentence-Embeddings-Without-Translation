@@ -1,0 +1,38 @@
+{
+  "id": "2535",
+  "idiom": "খরচের খাতায়",
+  "alternative_idioms": [],
+  "literal_meaning": "খরচের খাতায় (খরচের হিসাবের খাতায়)",
+  "figurative_meaning_bn": "রিক্তহস্ত",
+  "figurative_meaning_en": "empty-handed",
+  "similar_in_english": [
+    "come away empty-handed",
+    "with empty pockets"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বাজার থেকে খরচের খাতায় ফিরে এলো।",
+    "প্রস্তাবটি খরচের খাতায় গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He returned from the market empty-handed.",
+    "The proposal went empty-handed."
+  ],
+  "usage_domain": [
+    "daily life",
+    "finance",
+    "commerce"
+  ],
+  "tags": [
+    "emptiness",
+    "loss",
+    "poverty"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom metaphorically refers to returning without gain, akin to an expense with no return."
+}

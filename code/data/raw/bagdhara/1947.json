@@ -1,0 +1,40 @@
+{
+  "id": "1947",
+  "idiom": "কাঠবিড়ালীর সেতুবন্ধন",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঠবিড়ালীর সেতু নির্মাণ",
+  "figurative_meaning_bn": "নগণ্যের সাহায্য; কোন তুচ্ছ কাজ তুচ্ছ নয়",
+  "figurative_meaning_en": "The assistance of the insignificant; no trivial task is truly trivial",
+  "similar_in_english": [
+    "Every little bit helps",
+    "Small drops make the ocean"
+  ],
+  "example_sentences_in_bangla": [
+    "এই প্রকল্পে সকলের অবদান দরকার, যেমন কাঠবিড়ালীর সেতুবন্ধন।",
+    "তার ছোট্ট সাহায্যও উল্লেখযোগ্য, কাঠবিড়ালীর সেতুবন্ধনের মতো।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone's contribution is needed in this project, like the squirrel's bridge building.",
+    "Her small help is noteworthy, just like the squirrel's bridge building."
+  ],
+  "usage_domain": [
+    "motivation",
+    "teamwork",
+    "proverbs"
+  ],
+  "tags": [
+    "cultural reference",
+    "Ramayana",
+    "small efforts"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from the Ramayana epic, where squirrels aided Lord Rama's vanara army in building the bridge (Setu) to Lanka by carrying tiny pebbles and sand, illustrating that even the smallest efforts contribute to monumental achievements."
+  ],
+  "note": "The idiom emphasizes the value of collective minor contributions in Bengali folklore and literature."
+}

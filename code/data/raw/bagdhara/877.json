@@ -1,0 +1,37 @@
+{
+  "id": "877",
+  "idiom": "ঋণচোর",
+  "alternative_idioms": [],
+  "literal_meaning": "ঋণের চোর (debt thief)",
+  "figurative_meaning_bn": "যে কখনো ঋণ শোধ করে না",
+  "figurative_meaning_en": "One who never repays a debt",
+  "similar_in_english": [
+    "deadbeat",
+    "welcher"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ঋণচোর, কখনো ধার করা টাকা ফেরত দেয় না।",
+    "ঋণচোরের সাথে টাকা ধার দেওয়া উচিত নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a deadbeat; he never pays back borrowed money.",
+    "You shouldn't lend money to a welcher."
+  ],
+  "usage_domain": [
+    "finance",
+    "everyday conversation"
+  ],
+  "tags": [
+    "debt",
+    "untrustworthy",
+    "thief"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects cultural values around honesty in financial dealings in Bengali society."
+}

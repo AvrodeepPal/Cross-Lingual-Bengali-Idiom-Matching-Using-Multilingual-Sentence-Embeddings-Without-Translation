@@ -1,0 +1,42 @@
+{
+  "id": "9931",
+  "idiom": "হরদম",
+  "alternative_idioms": [
+    "হরঘড়ি"
+  ],
+  "literal_meaning": "প্রতি মুহূর্তে; প্রতি শ্বাসে",
+  "figurative_meaning_bn": "অনবরত; সর্বক্ষণ",
+  "figurative_meaning_en": "Continuously; All the time",
+  "similar_in_english": [
+    "All the time",
+    "Non-stop",
+    "Round the clock"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হরদম মিথ্যা কথা বলে।",
+    "বাচ্চাটা হরদম খেলতে চায়।"
+  ],
+  "example_sentences_in_english": [
+    "He lies all the time.",
+    "The child wants to play all the time."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Time expression"
+  ],
+  "tags": [
+    "Continuity",
+    "Frequency",
+    "Everyday language"
+  ],
+  "frequency": "Very common",
+  "sentiment": "Neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from Hindi-Urdu 'हर दम' (har dam), meaning 'every breath', often linked to constant devotion in religious contexts like bhakti traditions."
+  ],
+  "note": "The idiom has roots in Indo-Aryan languages, emphasizing perpetual action."
+}

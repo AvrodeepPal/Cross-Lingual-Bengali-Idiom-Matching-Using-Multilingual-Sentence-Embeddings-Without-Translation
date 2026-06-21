@@ -1,0 +1,39 @@
+{
+  "id": "9967",
+  "idiom": "হাঁউমাউ",
+  "alternative_idioms": [],
+  "literal_meaning": "হাঁও-মাঁও শব্দের অনুকরণ (collective wailing sound)",
+  "figurative_meaning_bn": "বহুলোকের একত্র ক্রন্দন শব্দ",
+  "figurative_meaning_en": "The sound of many people crying together in grief",
+  "similar_in_english": [
+    "weeping and wailing",
+    "a chorus of lamentations"
+  ],
+  "example_sentences_in_bangla": [
+    "মৃত্যুসংবাদে সকলে হাঁউমাউ করে কেঁদে উঠলো।",
+    "দুর্ঘটনার পর গ্রামে হাঁউমাউ কান্নার ধ্বনি ছড়িয়ে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "Upon hearing the news of death, everyone started wailing loudly.",
+    "After the accident, the sound of collective sobbing filled the village."
+  ],
+  "usage_domain": [
+    "emotions",
+    "grief",
+    "mourning"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "crying",
+    "collective sorrow",
+    "lamentation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in Bengali literature to depict intense collective mourning."
+}

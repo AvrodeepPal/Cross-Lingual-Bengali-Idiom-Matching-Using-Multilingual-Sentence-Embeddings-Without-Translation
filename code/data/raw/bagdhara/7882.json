@@ -1,0 +1,45 @@
+{
+  "id": "7882",
+  "idiom": "বেলা ফুরানো",
+  "alternative_idioms": [
+    "বেলা যাওয়া"
+  ],
+  "literal_meaning": "দিনের বেলা বা সময় শেষ হয়ে যাওয়া",
+  "figurative_meaning_bn": "দিন শেষ হয়ে আসা; অল্প-জীবন ফুরিয়ে আসা",
+  "figurative_meaning_en": "The day is drawing to a close; life is coming to an end",
+  "similar_in_english": [
+    "The day is drawing to a close",
+    "Time is running out",
+    "The end is nigh"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবনের বেলা ফুরানোর মতো অনুভূতি হচ্ছে।",
+    "বেলা ফুরানোর আগে কাজ শেষ করো।"
+  ],
+  "example_sentences_in_english": [
+    "It feels like the end of the day for his life.",
+    "Finish the work before the day draws to a close."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Poetry"
+  ],
+  "tags": [
+    "time",
+    "life",
+    "end",
+    "daylight",
+    "melancholy"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the line 'বেলা যে ফুরায় আঁধার ঘনায় মোর দ্বারে কেন এলে পান্থ' from a traditional Bengali laghugiti or poem, evoking themes of transience in Bengali literature."
+  ],
+  "note": "The idiom often carries a poetic connotation of impermanence, rooted in Bengali literary traditions."
+}

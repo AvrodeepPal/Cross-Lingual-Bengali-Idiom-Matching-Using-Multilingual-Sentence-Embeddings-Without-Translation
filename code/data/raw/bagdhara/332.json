@@ -1,0 +1,39 @@
+{
+  "id": "332",
+  "idiom": "আঁধারে ঢিল ছোঁড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "আঁধারে পাথর ছোঁড়া",
+  "figurative_meaning_bn": "আন্দাজে কিছু করা; কোন বিষয়ে সঠিক না জেনে আন্দাজে কিছু বলা",
+  "figurative_meaning_en": "Doing something by guesswork; saying something based on assumption without accurate knowledge",
+  "similar_in_english": [
+    "A shot in the dark",
+    "Shooting in the dark"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি আঁধারে ঢিল ছোঁড়া করছ না তো? প্রথমে তথ্য সংগ্রহ করো।",
+    "এই সিদ্ধান্ত নেওয়া আঁধারে ঢিল ছোঁড়ার মতো, কোনো ভিত্তি নেই।"
+  ],
+  "example_sentences_in_english": [
+    "Are you throwing stones in the dark? Gather facts first.",
+    "This decision is like shooting in the dark, with no solid basis."
+  ],
+  "usage_domain": [
+    "conversation",
+    "decision making",
+    "advice"
+  ],
+  "tags": [
+    "guesswork",
+    "uncertainty",
+    "caution",
+    "recklessness"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Idiom draws from rural imagery of attempting actions in poor visibility, emphasizing the risks of uninformed actions in Bengali folklore."
+}

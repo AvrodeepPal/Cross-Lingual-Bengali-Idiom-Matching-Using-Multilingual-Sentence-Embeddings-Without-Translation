@@ -1,0 +1,39 @@
+{
+  "id": "4997",
+  "idiom": "টেনে টেনে",
+  "alternative_idioms": [],
+  "literal_meaning": "টেনে (আকর্ষণ করে বা লম্বা করে) দ্বিত্ব",
+  "figurative_meaning_bn": "ধীরে ধীরে বা লম্বা করে বলার অর্থে দ্বিত্ব",
+  "figurative_meaning_en": "Reduplication to indicate slowness or drawing out, as in speaking prolongedly",
+  "similar_in_english": [
+    "drawl one's words",
+    "speak at a snail's pace"
+  ],
+  "example_sentences_in_bangla": [
+    "সে টেনে টেনে কথা বলে, যাতে সবাই বুঝতে পারে।",
+    "গল্পটা টেনে টেনে শোনাও, তাহলে মজা লাগবে।"
+  ],
+  "example_sentences_in_english": [
+    "He speaks drawing out his words, so everyone can understand.",
+    "Narrate the story slowly and prolongedly; it'll be more enjoyable."
+  ],
+  "usage_domain": [
+    "speech",
+    "conversation",
+    "narrative"
+  ],
+  "tags": [
+    "reduplication",
+    "slowness",
+    "emphasis",
+    "linguistic device"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a phonetic reduplication common in spoken Bengali to mimic slow, deliberate speech patterns."
+}

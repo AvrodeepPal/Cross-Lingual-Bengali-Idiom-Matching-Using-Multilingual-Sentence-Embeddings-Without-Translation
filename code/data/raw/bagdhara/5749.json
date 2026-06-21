@@ -1,0 +1,42 @@
+{
+  "id": "5749",
+  "idiom": "দাঁতের বদলে দাঁত",
+  "alternative_idioms": [
+    "চোখের বদলে চোখ"
+  ],
+  "literal_meaning": "দাঁতের পরিবর্তে দাঁত",
+  "figurative_meaning_bn": "প্রতিশোধ নিতে একই ঘটনার পুনরাবৃত্তি",
+  "figurative_meaning_en": "Retaliation in kind; exact revenge by repeating the same act",
+  "similar_in_english": [
+    "An eye for an eye",
+    "Tit for tat"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুর অপমানের প্রতিশোধে দাঁতের বদলে দাঁতের নীতি অনুসরণ করল।",
+    "যুদ্ধে দাঁতের বদলে দাঁতের চক্র চলতে থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He followed the principle of tooth for a tooth to avenge his friend's insult.",
+    "In war, the cycle of tooth for a tooth continues endlessly."
+  ],
+  "usage_domain": [
+    "justice",
+    "revenge",
+    "moral philosophy"
+  ],
+  "tags": [
+    "proverb",
+    "retaliation",
+    "equality in punishment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom derives from the ancient principle of lex talionis, codified in Hammurabi's Code and referenced in religious texts like the Bible (Exodus 21:24) and Quran, emphasizing proportional justice."
+  ],
+  "note": "Comparable to the broader 'an eye for an eye' concept in Bengali proverbial usage."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2341",
+  "idiom": "কেঠো",
+  "alternative_idioms": [],
+  "literal_meaning": "রুক্ষ বা শুষ্ক পদার্থ বা বস্তু",
+  "figurative_meaning_bn": "রুক্ষ; শ্রীহীন",
+  "figurative_meaning_en": "rough; lacking charm or attractiveness",
+  "similar_in_english": [
+    "rough around the edges",
+    "unkempt"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কেঠো চেহারা দেখে কেউই আকৃষ্ট হয় না।",
+    "এই কেঠো মাটির রাস্তা হাঁটতে খুব কষ্ট হয়।"
+  ],
+  "example_sentences_in_english": [
+    "His rough appearance doesn't attract anyone.",
+    "Walking on this coarse dirt road is very difficult."
+  ],
+  "usage_domain": [
+    "appearance",
+    "description",
+    "everyday language"
+  ],
+  "tags": [
+    "negative",
+    "physical description",
+    "texture"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to describe unrefined or unattractive features in Bengali colloquial speech."
+}

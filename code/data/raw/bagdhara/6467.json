@@ -1,0 +1,36 @@
+{
+  "id": "6467",
+  "idiom": "নুনকুটা",
+  "alternative_idioms": [],
+  "literal_meaning": "কুটা বা পিষ্ট নুন (ground or powdered salt)",
+  "figurative_meaning_bn": "ঈষৎ লবনস্বাদযুক্ত",
+  "figurative_meaning_en": "slightly salty in taste",
+  "similar_in_english": [
+    "a pinch of salt"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সবজিতে নুনকুটা লেগেছে, একটু কম লবণ দিতে হবে।",
+    "চা-তে নুনকুটা স্বাদ এলে অদ্ভুত লাগে।"
+  ],
+  "example_sentences_in_english": [
+    "This vegetable has a slight salty taste; we should use less salt next time.",
+    "A hint of saltiness in the tea makes it taste odd."
+  ],
+  "usage_domain": [
+    "culinary",
+    "taste description"
+  ],
+  "tags": [
+    "food",
+    "flavor",
+    "salty"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a subtle salty flavor in Bengali culinary expressions, common in rural cooking contexts."
+}

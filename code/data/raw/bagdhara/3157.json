@@ -1,0 +1,39 @@
+{
+  "id": "3157",
+  "idiom": "গায়ে গায়ে শোধ",
+  "alternative_idioms": [],
+  "literal_meaning": "গায়ের উপর গায়ে শোধ করা (শরীরের সাথে সরাসরি স্পর্শ করে পরিশোধ)",
+  "figurative_meaning_bn": "পরস্পরের দেনাপাওনা কাটাকাটি করে ঋণ পরিশোধ",
+  "figurative_meaning_en": "Settling mutual debts by offsetting accounts directly",
+  "similar_in_english": [
+    "squaring accounts",
+    "calling it even"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই বন্ধু গায়ে গায়ে শোধ করে নিল তাদের পুরনো ঋণ।",
+    "ব্যবসায়ীরা প্রায়ই গায়ে গায়ে শোধ করে লেনদেন শেষ করে।"
+  ],
+  "example_sentences_in_english": [
+    "The two friends settled their old debt skin to skin.",
+    "Businessmen often square their accounts directly without intermediaries."
+  ],
+  "usage_domain": [
+    "finance",
+    "commerce",
+    "daily life"
+  ],
+  "tags": [
+    "debt",
+    "settlement",
+    "mutual",
+    "offsetting"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom reflects traditional Bengali practices of direct, informal debt settlement in rural or small-town commerce."
+}

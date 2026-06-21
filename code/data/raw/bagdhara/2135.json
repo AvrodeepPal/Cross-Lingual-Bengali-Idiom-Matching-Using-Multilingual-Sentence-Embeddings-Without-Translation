@@ -1,0 +1,41 @@
+{
+  "id": "2135",
+  "idiom": "কালাগ্নি",
+  "alternative_idioms": [],
+  "literal_meaning": "কাল (সময় বা মৃত্যু) এর অগ্নি (আগুন)",
+  "figurative_meaning_bn": "প্রলয়ঙ্কর সৃষ্টিনাশক অগ্নি",
+  "figurative_meaning_en": "Apocalyptic fire that destroys creation",
+  "similar_in_english": [
+    "Hellfire",
+    "Doomsday blaze"
+  ],
+  "example_sentences_in_bangla": [
+    "পুরাণে কালাগ্নির কথা বলা হয়েছে যা সৃষ্টির অবসান ঘটায়।",
+    "যুদ্ধের ধ্বংসলীলা কালাগ্নির মতো ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "The scriptures describe Kalagni as the fire that ends creation.",
+    "The war's devastation was like a Kalagni."
+  ],
+  "usage_domain": [
+    "Mythology",
+    "Literature",
+    "Disaster description"
+  ],
+  "tags": [
+    "destruction",
+    "apocalypse",
+    "fire",
+    "mythical"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the cosmic fire in Hindu mythology that consumes the universe at the end of a kalpa (cycle of creation)."
+  ],
+  "note": "Derived from Sanskrit roots, commonly used in Bengali literature to denote ultimate destruction."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4956",
+  "idiom": "টিফিন",
+  "alternative_idioms": [],
+  "literal_meaning": "হালকা অপরাহ্নের খাবার বা নাস্তা",
+  "figurative_meaning_bn": "অপরাহ্নের বিরতি",
+  "figurative_meaning_en": "Afternoon break",
+  "similar_in_english": [
+    "Tea break",
+    "Coffee break"
+  ],
+  "example_sentences_in_bangla": [
+    "স্কুলে টিফিনের সময় বন্ধুরা একসাথে খেলে।",
+    "অফিসে টিফিনে একটু বিশ্রাম নাও।"
+  ],
+  "example_sentences_in_english": [
+    "During tiffin time at school, friends play together.",
+    "Take a short break during tiffin at the office."
+  ],
+  "usage_domain": [
+    "Daily life",
+    "Workplace",
+    "Education"
+  ],
+  "tags": [
+    "time",
+    "break",
+    "meal",
+    "routine"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Borrowed from English 'tiffin' during the British colonial period in India, originally referring to a light midday or afternoon meal carried in a tiffin box."
+  ],
+  "note": "Commonly used in Bengali-speaking regions for school or office breaks, often involving snacks."
+}

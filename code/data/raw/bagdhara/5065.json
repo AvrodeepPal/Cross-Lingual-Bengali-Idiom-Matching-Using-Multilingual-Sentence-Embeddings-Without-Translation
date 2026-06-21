@@ -1,0 +1,39 @@
+{
+  "id": "5065",
+  "idiom": "ঠিকঠিকানা",
+  "alternative_idioms": [],
+  "literal_meaning": "নির্দিষ্ট ঠিকানা",
+  "figurative_meaning_bn": "নির্দিষ্ট বাসস্থান, স্থায়ী আস্তানা",
+  "figurative_meaning_en": "fixed residence or permanent abode",
+  "similar_in_english": [
+    "no fixed address",
+    "no fixed abode"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কোনো ঠিকঠিকানা নেই, সে সারাক্ষণ ঘুরে বেড়ায়।",
+    "এই শহরে আমার ঠিকঠিকানা খুঁজে পাওয়া কঠিন।"
+  ],
+  "example_sentences_in_english": [
+    "He has no fixed address; he wanders around all the time.",
+    "Finding my fixed address in this city is difficult."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "descriptive",
+    "legal"
+  ],
+  "tags": [
+    "location",
+    "stability",
+    "home",
+    "wandering"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used to describe nomadic or unstable lifestyles in Bengali culture."
+}

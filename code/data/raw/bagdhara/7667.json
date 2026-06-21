@@ -1,0 +1,43 @@
+{
+  "id": "7667",
+  "idiom": "বিড়ালের গলায় ঘণ্টা বাঁধা",
+  "alternative_idioms": [
+    "ম্যাও ধরা"
+  ],
+  "literal_meaning": "বিড়ালের গলায় ঘণ্টা বাঁধা",
+  "figurative_meaning_bn": "কোনো প্রয়োজনীয় কিন্তু বিপজ্জনক কাজের ঝুঁকি নেওয়া",
+  "figurative_meaning_en": "Taking the risk of performing a necessary but dangerous task",
+  "similar_in_english": [
+    "Bell the cat"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই চোর ধরতে হলে বিড়ালের গলায় ঘণ্টা বাঁধার মতো সাহস লাগবে।",
+    "কোম্পানির অভিযোগ তুলতে বিড়ালের গলায় ঘণ্টা বাঁধা যেন হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "It takes the courage to bell the cat to catch that thief.",
+    "Raising the complaint against the company was like belling the cat."
+  ],
+  "usage_domain": [
+    "risk-taking",
+    "courage",
+    "dangerous actions"
+  ],
+  "tags": [
+    "idiom",
+    "proverb",
+    "risk",
+    "bravery",
+    "danger"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from Aesop's fable 'Belling the Cat,' where mice decide to tie a bell around the cat's neck to be warned of its approach, but none volunteer for the dangerous task, highlighting the gap between planning and action."
+  ],
+  "note": "The idiom emphasizes the peril in volunteering for hazardous duties, adapted into Bengali folklore."
+}

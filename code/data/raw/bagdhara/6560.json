@@ -1,0 +1,39 @@
+{
+  "id": "6560",
+  "idiom": "পণ্ডিতম্মন্য",
+  "alternative_idioms": [
+    "পণ্ডিতাভিমানী"
+  ],
+  "literal_meaning": "যিনি নিজেকে পণ্ডিত বলে মনে করেন",
+  "figurative_meaning_bn": "যে অপণ্ডিত নিজেকে পণ্ডিত বলে মনে করে",
+  "figurative_meaning_en": "One who is unlearned but considers himself a scholar",
+  "similar_in_english": [
+    "pseudo-intellectual",
+    "know-it-all"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন পণ্ডিতম্মন্য ব্যক্তি, কোনো জ্ঞান নেই কিন্তু সবাইকে উপদেশ দেয়।",
+    "গ্রামের সেই লোকটি পণ্ডিতম্মন্য হয়ে বসে পড়েছে, আসলে কিছুই বোঝে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a pseudo-intellectual, has no knowledge but lectures everyone.",
+    "That village man has become a know-it-all, but actually understands nothing."
+  ],
+  "usage_domain": [
+    "education",
+    "social interaction"
+  ],
+  "tags": [
+    "arrogance",
+    "ignorance",
+    "self-deception"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali critique of false erudition in rural or semi-urban settings."
+}

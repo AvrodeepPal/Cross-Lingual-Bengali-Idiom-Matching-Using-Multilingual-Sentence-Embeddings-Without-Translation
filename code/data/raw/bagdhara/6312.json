@@ -1,0 +1,39 @@
+{
+  "id": "6312",
+  "idiom": "নাকে দড়ি দিয়ে ঘুরানো",
+  "alternative_idioms": [],
+  "literal_meaning": "নাকে দড়ি দিয়ে ঘুরিয়ে নেওয়া বা নিয়ন্ত্রণ করা",
+  "figurative_meaning_bn": "নাকালের একশেষ করা",
+  "figurative_meaning_en": "To completely control or manipulate someone, leading them as one pleases",
+  "similar_in_english": [
+    "Lead someone by the nose",
+    "Have someone wrapped around one's little finger"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার কর্মচারীদের নাকে দড়ি দিয়ে ঘুরায়।",
+    "প্রেমিকার প্রতি তার এত আসক্তি যে সে নাকে দড়ি দিয়ে ঘুরানোর মতো হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He leads his employees by the nose.",
+    "His attachment to his girlfriend has made him someone who can be led by the nose."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "relationships",
+    "workplace"
+  ],
+  "tags": [
+    "manipulation",
+    "control",
+    "dominance",
+    "subjugation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from rural imagery of leading animals like bulls or cows by a rope through the nose, symbolizing total obedience."
+}

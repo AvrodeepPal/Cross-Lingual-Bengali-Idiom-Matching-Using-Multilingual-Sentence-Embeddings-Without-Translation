@@ -1,0 +1,41 @@
+{
+  "id": "3257",
+  "idiom": "গুরুমুখী বিদ্যা",
+  "alternative_idioms": [],
+  "literal_meaning": "গুরুর মুখ থেকে প্রাপ্ত বিদ্যা",
+  "figurative_meaning_bn": "যে বিদ্যা কেবল গুরুর মুখ হইতে শুনিয়া অধিগত করিতে হয়",
+  "figurative_meaning_en": "Knowledge that must be acquired solely by listening from the guru's mouth",
+  "similar_in_english": [
+    "Oral tradition",
+    "Esoteric knowledge"
+  ],
+  "example_sentences_in_bangla": [
+    "সংগীত একটি গুরুমুখী বিদ্যা, যা শুধুমাত্র গুরুর কাছ থেকে শেখা যায়।",
+    "যোগশাস্ত্র গুরুমুখী বিদ্যা, বই পড়ে নয়, গুরুর মুখে শুনে আয়ত্ত করতে হয়।"
+  ],
+  "example_sentences_in_english": [
+    "Music is a guru-mukhi vidya, learned only from the guru's teachings.",
+    "Yoga is an oral knowledge passed down from the guru's mouth, not from books."
+  ],
+  "usage_domain": [
+    "Education",
+    "Music",
+    "Traditional Arts"
+  ],
+  "tags": [
+    "guru-shishya parampara",
+    "oral learning",
+    "traditional knowledge",
+    "Hindu culture"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the ancient guru-shishya tradition in Indian classical music and arts, where knowledge was transmitted orally without written texts."
+  ],
+  "note": "Primarily associated with disciplines like music and yoga that require direct mentorship."
+}

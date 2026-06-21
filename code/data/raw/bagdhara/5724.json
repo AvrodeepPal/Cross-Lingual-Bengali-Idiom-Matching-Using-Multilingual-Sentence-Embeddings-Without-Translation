@@ -1,0 +1,38 @@
+{
+  "id": "5724",
+  "idiom": "দস্তুর",
+  "alternative_idioms": [],
+  "literal_meaning": "প্রথা বা রীতি (custom or practice)",
+  "figurative_meaning_bn": "প্রথা, রীতি",
+  "figurative_meaning_en": "custom, tradition (often implying a corrupt or established practice like bribery in official dealings)",
+  "similar_in_english": [
+    "business as usual",
+    "the done thing"
+  ],
+  "example_sentences_in_bangla": [
+    "সরকারি দপ্তরে কাজ করাতে ঘুষ দেওয়া এখন দস্তুর হয়ে গেছে।",
+    "এখানে দেরি করা দস্তুর, তাড়াতাড়ি কিছু হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "Giving bribes in government offices has become the custom now.",
+    "Delaying things is the norm here; nothing happens quickly."
+  ],
+  "usage_domain": [
+    "bureaucracy",
+    "corruption",
+    "daily administration"
+  ],
+  "tags": [
+    "corruption",
+    "custom",
+    "bureaucratic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "The term originates from Persian 'dastur' meaning order or custom, commonly used in South Asian administrative contexts to denote entrenched corrupt practices."
+}

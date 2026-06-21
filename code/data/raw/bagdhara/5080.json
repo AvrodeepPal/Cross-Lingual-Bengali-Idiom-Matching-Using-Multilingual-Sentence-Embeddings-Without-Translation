@@ -1,0 +1,40 @@
+{
+  "id": "5080",
+  "idiom": "ঠেঙ্গানি খাওয়া",
+  "alternative_idioms": [
+    "ঠেঙ্গানি দেওয়া"
+  ],
+  "literal_meaning": "চড় বা থাপ্পড় খাওয়া বা দেওয়া",
+  "figurative_meaning_bn": "মার খাওয়া/দেওয়া",
+  "figurative_meaning_en": "to receive or give a beating",
+  "similar_in_english": [
+    "to take a beating",
+    "to get slapped around"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ছেলেকে ঠেঙ্গানি খাওয়াল কারণ সে দুষ্টুমি করছিল।",
+    "পুলিশের কাছে ঠেঙ্গানি খেয়ে সে শিক্ষা নিল।"
+  ],
+  "example_sentences_in_english": [
+    "He gave his son a beating because he was being naughty.",
+    "He took a beating from the police and learned his lesson."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "punishment",
+    "everyday speech"
+  ],
+  "tags": [
+    "violence",
+    "physical punishment",
+    "reprimand"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a sharp slap on the cheek, often used in rural or semi-urban Bengali contexts for disciplinary actions."
+}

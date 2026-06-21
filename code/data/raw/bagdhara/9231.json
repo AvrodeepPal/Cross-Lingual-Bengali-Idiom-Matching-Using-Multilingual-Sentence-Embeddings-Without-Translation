@@ -1,0 +1,47 @@
+{
+  "id": "9231",
+  "idiom": "লবডঙ্কা",
+  "alternative_idioms": [
+    "অষ্টরম্ভা",
+    "কচু",
+    "কচু না ঘেচূ",
+    "কলা",
+    "কাঁচকলা"
+  ],
+  "literal_meaning": "লব (ছোট আঙুল) + ডঙ্কা (ছোট বা তুচ্ছ অংশ); ছোট আঙুল বা তুচ্ছ কিছু",
+  "figurative_meaning_bn": "কিছু না, ফাঁকি; বৃদ্ধাঙ্গুষ্ঠ",
+  "figurative_meaning_en": "Nothing at all; zilch; getting the short end or nothing in a share",
+  "similar_in_english": [
+    "Drew the short straw",
+    "Got zilch",
+    "Empty-handed",
+    "Came away with nothing"
+  ],
+  "example_sentences_in_bangla": [
+    "পার্টিতে সবাই খাবার পেল, কিন্তু আমার ভাগ্যে লবডঙ্কা।",
+    "লটারিতে জিততে গিয়ে লবডঙ্কা পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone got some food at the party, but I drew the labdanka.",
+    "I tried to win the lottery but ended up with zilch."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Expressions of disappointment",
+    "Sharing outcomes"
+  ],
+  "tags": [
+    "disappointment",
+    "nothingness",
+    "fair share",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the little finger as a symbol of insignificance in dividing shares, common in Bengali folk expressions."
+}

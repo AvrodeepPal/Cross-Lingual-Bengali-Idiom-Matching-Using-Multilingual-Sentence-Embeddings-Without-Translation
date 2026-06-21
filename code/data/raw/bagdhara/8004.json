@@ -1,0 +1,38 @@
+{
+  "id": "8004",
+  "idiom": "ভাঙা গলা",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাঙা (broken) গলা (throat/voice)",
+  "figurative_meaning_bn": "অকার্যকর, অবরুদ্ধ, বিকৃত স্বর",
+  "figurative_meaning_en": "hoarse, broken, or distorted voice",
+  "similar_in_english": [
+    "voice cracking",
+    "hoarse voice"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ভাঙা গলায় সে তার দুঃখ প্রকাশ করল।",
+    "ঠান্ডা লাগার পর তার গলা ভাঙা হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He expressed his sorrow in a broken voice.",
+    "His voice became hoarse after catching a cold."
+  ],
+  "usage_domain": [
+    "emotions",
+    "speech",
+    "health"
+  ],
+  "tags": [
+    "voice",
+    "emotion",
+    "hoarseness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used to describe emotional distress or vocal strain in Bengali literature and daily conversation."
+}

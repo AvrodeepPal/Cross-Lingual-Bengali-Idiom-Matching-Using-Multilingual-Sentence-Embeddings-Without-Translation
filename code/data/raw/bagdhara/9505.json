@@ -1,0 +1,38 @@
+{
+  "id": "9505",
+  "idiom": "শেষ মুহূর্ত",
+  "alternative_idioms": [],
+  "literal_meaning": "শেষ মুহূর্ত (last moment)",
+  "figurative_meaning_bn": "চলে যাওয়ার সময়; প্রায় শেষের দিক",
+  "figurative_meaning_en": "Time of departure; almost towards the end",
+  "similar_in_english": [
+    "eleventh hour",
+    "at the last minute"
+  ],
+  "example_sentences_in_bangla": [
+    "আমি শেষ মুহূর্তে ট্রেন ধরতে গিয়ে তাড়াহুড়ো করলাম।",
+    "পরীক্ষার শেষ মুহূর্তে পড়াশোনা শুরু করলে ভালো ফল হয় না।"
+  ],
+  "example_sentences_in_english": [
+    "I rushed to catch the train at the last moment.",
+    "Starting to study at the last moment before the exam doesn't yield good results."
+  ],
+  "usage_domain": [
+    "daily life",
+    "decision making",
+    "time management"
+  ],
+  "tags": [
+    "urgency",
+    "procrastination",
+    "time pressure"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes the risks of hasty decisions under time constraints, akin to the English 'eleventh hour'."
+}

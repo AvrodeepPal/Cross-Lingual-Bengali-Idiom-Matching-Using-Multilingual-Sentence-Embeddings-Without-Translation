@@ -1,0 +1,42 @@
+{
+  "id": "7576",
+  "idiom": "বাপ তোলা",
+  "alternative_idioms": [
+    "চোদ্দ পুরুষ তোলা",
+    "বাপ-বাপান্ত করা"
+  ],
+  "literal_meaning": "বাপকে তোলা বা উত্থাপন করা (father to raise or invoke)",
+  "figurative_meaning_bn": "বাপের নাম করে গালিগালাজ করা",
+  "figurative_meaning_en": "Invoking one's father to hurl abuses or curses",
+  "similar_in_english": [
+    "Cussing out someone's family",
+    "Dragging parents into an argument"
+  ],
+  "example_sentences_in_bangla": [
+    "হার মেনে নিতে না পেরে সে প্রতিপক্ষের বাপ তোলা শুরু করল।",
+    "ঝগড়ায় কথা শেষ হলে সে বাপ তোলার মুখোশ ধারণ করল।"
+  ],
+  "example_sentences_in_english": [
+    "Unable to accept defeat, he started invoking the opponent's father with curses.",
+    "When words ran out in the argument, he resorted to abusing by bringing up the father."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "arguments",
+    "insults"
+  ],
+  "tags": [
+    "abusive",
+    "family reference",
+    "curse word",
+    "verbal aggression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects a common pattern in Bengali verbal confrontations where family honor is targeted."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1384",
+  "idiom": "কড়ে রাঁড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "কড়া বা শক্ত রাঁড়ি (widow)",
+  "figurative_meaning_bn": "অল্পবয়স্কা বা বাল্যবিধবা",
+  "figurative_meaning_en": "a young woman or child widow",
+  "similar_in_english": [
+    "young widow"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে সে কড়ে রাঁড়ি হয়ে সকলের দয়া পায়।",
+    "অল্প বয়সেই বিধবা হয়ে সে কড়ে রাঁড়ির মতো জীবন যাপন করছে।"
+  ],
+  "example_sentences_in_english": [
+    "In the village, she became a young widow and received everyone's sympathy.",
+    "Having become a widow at a young age, she lives like a child widow."
+  ],
+  "usage_domain": [
+    "social status",
+    "family",
+    "marriage"
+  ],
+  "tags": [
+    "widowhood",
+    "youth",
+    "traditional society"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom reflects historical practices of child marriage in Bengali society, leading to early widowhood."
+}

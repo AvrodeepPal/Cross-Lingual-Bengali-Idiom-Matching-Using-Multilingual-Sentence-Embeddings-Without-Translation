@@ -1,0 +1,39 @@
+{
+  "id": "2010",
+  "idiom": "কানমন্ত্রে মন নাশ",
+  "alternative_idioms": [],
+  "literal_meaning": "কানে মন্ত্র দেওয়ায় মনের ধ্বংস",
+  "figurative_meaning_bn": "কান ভাঙানিতে মনে মালিন্য জন্মে",
+  "figurative_meaning_en": "Gossip or whispers lead to mental distress or corruption",
+  "similar_in_english": [
+    "Loose lips sink ships",
+    "A little bird told me (but negatively, implying harm)"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামে সেই কানমন্ত্রে মন নাশ হয়ে গেল, সবাই পরস্পরকে সন্দেহ করতে শুরু করল।",
+    "অফিসে এই কানমন্ত্রে মন নাশের ফলে টিমের মধ্যে বিশ্বাসের অভাব দেখা দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "That village gossip led to the destruction of minds, as everyone started suspecting each other.",
+    "In the office, such whispers caused mental distress, eroding trust within the team."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "psychology",
+    "relationships"
+  ],
+  "tags": [
+    "gossip",
+    "whisper",
+    "mental health",
+    "rumor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights the cultural caution against gossip in Bengali society, emphasizing its psychological impact."
+}

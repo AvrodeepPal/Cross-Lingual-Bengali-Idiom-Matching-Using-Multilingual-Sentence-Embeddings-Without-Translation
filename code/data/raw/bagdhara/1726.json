@@ -1,0 +1,39 @@
+{
+  "id": "1726",
+  "idiom": "কাঁইমাই",
+  "alternative_idioms": [],
+  "literal_meaning": "অস্পষ্ট বা অর্থহীন শব্দধ্বনি (onomatopoeic sound for unintelligible speech)",
+  "figurative_meaning_bn": "সহচরশব্দ; দুর্বোধ্য কথা/ভাষা",
+  "figurative_meaning_en": "gibberish; incomprehensible words or language",
+  "similar_in_english": [
+    "gibberish",
+    "double Dutch"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথা কাঁইমাই করে বলছে, কিছুই বুঝতে পারছি না।",
+    "বাচ্চাটা কাঁইমাই করে কাঁদছে, কী চায় তা বোঝা যাচ্ছে না।"
+  ],
+  "example_sentences_in_english": [
+    "He's speaking in kaimai, I can't understand a thing.",
+    "The baby is crying in kaimai, I don't know what it wants."
+  ],
+  "usage_domain": [
+    "language",
+    "communication"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "gibberish",
+    "incomprehensible"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the perception of South Indian (Madrasi/Tamil) languages as unintelligible to Bengalis, stemming from historical interactions between regions in India."
+  ],
+  "note": "This idiom mimics the sound of unfamiliar dialects, often used humorously in Bengali contexts."
+}

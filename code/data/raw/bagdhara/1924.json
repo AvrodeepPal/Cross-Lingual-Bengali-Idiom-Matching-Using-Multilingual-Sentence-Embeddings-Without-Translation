@@ -1,0 +1,40 @@
+{
+  "id": "1924",
+  "idiom": "কাটাকাটি মারামারি",
+  "alternative_idioms": [],
+  "literal_meaning": "পরস্পর কাটাকাটি এবং মারামারি (mutual slashing and brawling)",
+  "figurative_meaning_bn": "খুনোখুনি, হানাহানি",
+  "figurative_meaning_en": "mutual enmity and constant fighting or harming",
+  "similar_in_english": [
+    "tit for tat",
+    "mutual destruction",
+    "blood feud"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই গ্রামের মধ্যে কাটাকাটি মারামারি চলছে অনেক দিন ধরে।",
+    "পাড়ার ছেলেরা কাটাকাটি মারামারি করে সম্পত্তির জন্য।"
+  ],
+  "example_sentences_in_english": [
+    "There has been mutual enmity and fighting between the two villages for a long time.",
+    "The neighborhood boys are engaged in constant brawling over property."
+  ],
+  "usage_domain": [
+    "social conflicts",
+    "family disputes",
+    "community rivalries"
+  ],
+  "tags": [
+    "violence",
+    "enmity",
+    "conflict",
+    "rivalry"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures ongoing interpersonal or group conflicts in Bengali society, often implying escalating violence."
+}

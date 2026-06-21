@@ -1,0 +1,41 @@
+{
+  "id": "8760",
+  "idiom": "মুখাগ্নি",
+  "alternative_idioms": [],
+  "literal_meaning": "শবের মুখে আগুন দেওয়া",
+  "figurative_meaning_bn": "দাহকালে শবের মুখে আগুন দেওয়া",
+  "figurative_meaning_en": "Lighting fire on the mouth of the corpse during cremation, symbolizing an act done against tradition or improperly",
+  "similar_in_english": [
+    "putting the cart before the horse",
+    "doing something backwards"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অনুষ্ঠানে মুখাগ্নি হয়ে গেল, সবকিছু উল্টোপাল্টা হয়েছে।",
+    "এই কাজটা মুখাগ্নির মতোই ভুলভাবে করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The ceremony turned into a mukhagni; everything was done all wrong.",
+    "This task was handled like mukhagni, completely against the norms."
+  ],
+  "usage_domain": [
+    "funeral rites",
+    "tradition and customs",
+    "impropriety"
+  ],
+  "tags": [
+    "death ritual",
+    "Hindu tradition",
+    "mistake",
+    "improper conduct"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom references the Hindu cremation practice where, according to scriptures (Shastras), the fire should be applied to the head (shir) of the deceased, not the mouth, making 'mukhagni' an improper deviation from ritual norms."
+  ],
+  "note": "The idiom is often used metaphorically to indicate grave errors in procedure, especially in solemn or traditional contexts."
+}

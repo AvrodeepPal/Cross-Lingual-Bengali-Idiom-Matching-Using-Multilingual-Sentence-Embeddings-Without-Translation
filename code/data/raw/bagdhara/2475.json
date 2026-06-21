@@ -1,0 +1,38 @@
+{
+  "id": "2475",
+  "idiom": "খটখটানো",
+  "alternative_idioms": [],
+  "literal_meaning": "খটখট শব্দ করা; দরজায় কড়া নাড়া",
+  "figurative_meaning_bn": "খটখট শব্দ করে দরজায় কড়া নাড়া",
+  "figurative_meaning_en": "to make a rattling sound by turning a door knob",
+  "similar_in_english": [
+    "rattle the door",
+    "knock persistently"
+  ],
+  "example_sentences_in_bangla": [
+    "সে রাতে দরজায় খটখটানো করে আমাকে জাগিয়ে তুলল।",
+    "বাচ্চারা খেলার সময় খটখটানো করে শব্দ তুলছে।"
+  ],
+  "example_sentences_in_english": [
+    "He rattled the door at night to wake me up.",
+    "The children are making rattling noises while playing."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "household activities"
+  ],
+  "tags": [
+    "sound",
+    "door",
+    "knocking",
+    "onomatopoeia"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This expression is onomatopoeic, mimicking the sound of rattling, commonly used in Bengali to describe knocking or making noise at doors in traditional homes."
+}

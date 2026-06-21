@@ -1,0 +1,41 @@
+{
+  "id": "3525",
+  "idiom": "ঘানি পেষা",
+  "alternative_idioms": [],
+  "literal_meaning": "Grinding the oil mill (ঘানিতে তেল পেষা করা)",
+  "figurative_meaning_bn": "শ্রমসাধ্য কাজ করা; শ্রমসাধ্য কাজ করে দীর্ঘদিন চলা",
+  "figurative_meaning_en": "Doing laborious work; continuing hard labor for a long time",
+  "similar_in_english": [
+    "work one's fingers to the bone",
+    "grind away"
+  ],
+  "example_sentences_in_bangla": [
+    "সংসার চালাতে আমাকে ঘানি পেষার মতো কাজ করতে হচ্ছে প্রতিদিন।",
+    "বছরের পর বছর ঘানি পেষা করে সে তার পরিবারকে সাহায্য করছে।"
+  ],
+  "example_sentences_in_english": [
+    "I have to toil like grinding an oil mill every day to run the household.",
+    "Year after year, he is grinding away like an oil mill to support his family."
+  ],
+  "usage_domain": [
+    "daily life",
+    "work",
+    "family"
+  ],
+  "tags": [
+    "labor",
+    "hardship",
+    "persistence",
+    "toil"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "The idiom derives from the traditional Bengali practice of using a 'ghani'—a wooden oil press operated by animals or humans through repetitive grinding to extract oil from seeds, symbolizing endless, backbreaking labor in rural agrarian life."
+  ],
+  "note": "The idiom evokes the drudgery of pre-industrial rural work, often implying unrewarded effort."
+}

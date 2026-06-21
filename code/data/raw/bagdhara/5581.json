@@ -1,0 +1,42 @@
+{
+  "id": "5581",
+  "idiom": "থাবা দেওয়া",
+  "alternative_idioms": [
+    "থাবা বসানো",
+    "থাবা মারা"
+  ],
+  "literal_meaning": "প্রাণীর থাবা দিয়ে আঁচড়ানো বা ধরে রাখা",
+  "figurative_meaning_bn": "কেড়ে বা ছিনিয়ে নেওয়া; জবরদস্তি করে নেওয়া",
+  "figurative_meaning_en": "To seize or snatch away by force; to take something coercively",
+  "similar_in_english": [
+    "To get one's claws into",
+    "To sink one's teeth into (possessively)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ভাইয়ের সম্পত্তিতে থাবা মারার চেষ্টা করছে।",
+    "দোকানদারটি গ্রাহকের পকেটে থাবা দেওয়ার জন্য অপেক্ষা করছিল।"
+  ],
+  "example_sentences_in_english": [
+    "He is trying to get his paws on his brother's property.",
+    "The shopkeeper was waiting to claw into the customer's pocket."
+  ],
+  "usage_domain": [
+    "Property disputes",
+    "Everyday conflicts",
+    "Family matters"
+  ],
+  "tags": [
+    "force",
+    "greed",
+    "seizure",
+    "coercion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from animalistic imagery of predation, common in Bengali folklore."
+}

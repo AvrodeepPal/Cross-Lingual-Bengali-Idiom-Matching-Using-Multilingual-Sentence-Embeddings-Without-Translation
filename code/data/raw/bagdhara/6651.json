@@ -1,0 +1,39 @@
+{
+  "id": "6651",
+  "idiom": "পরের ধনে পোদ্দারি",
+  "alternative_idioms": [],
+  "literal_meaning": "অন্যের ধনে পোদ্দারের মতো আচরণ করা",
+  "figurative_meaning_bn": "অন্যের অর্থ অন্যকাজে খরচ করার সময় স্বেচ্ছামত কম বা বেশি খরচ বা দান করা",
+  "figurative_meaning_en": "When spending someone else's money on other purposes, freely spending or giving away either less or more at one's own discretion",
+  "similar_in_english": [
+    "Free with other people's money",
+    "Easy come, easy go"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরের ধনে পোদ্দারি করে সবাইকে খাবার দিয়ে দিল।",
+    "অফিসের টাকায় পরের ধনে পোদ্দারি করে পার্টি দিল।"
+  ],
+  "example_sentences_in_english": [
+    "He acted like a poddar with others' money and treated everyone to food.",
+    "Using office funds, he spent freely like a poddar with someone else's wealth on a party."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Daily Life",
+    "Social Interactions"
+  ],
+  "tags": [
+    "Money",
+    "Extravagance",
+    "Irresponsibility",
+    "Generosity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the traditional role of a 'poddar' as a treasurer in Bengali society, implying careless handling of others' finances."
+}

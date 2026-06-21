@@ -1,0 +1,36 @@
+{
+  "id": "1140",
+  "idiom": "একাসন",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি আসন (one seat)",
+  "figurative_meaning_bn": "অভিন্ন আসন; একমাত্র উপবেশন স্থান",
+  "figurative_meaning_en": "Shared seat; only place to sit",
+  "similar_in_english": [
+    "Sitting on the same stool (implying poverty or closeness)"
+  ],
+  "example_sentences_in_bangla": [
+    "গরিব পরিবারে একাসনেই সবাই খেতে বসে।",
+    "তাদের ঘরে একাসনের অবস্থা, কোনো অতিরিক্ত আসন নেই।"
+  ],
+  "example_sentences_in_english": [
+    "In a poor family, everyone sits on one seat to eat.",
+    "Their home is in such a state of one seat, with no extra chairs."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Descriptions of poverty"
+  ],
+  "tags": [
+    "poverty",
+    "simplicity",
+    "shared resources"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Refers to extreme simplicity or poverty in traditional Bengali households"
+}

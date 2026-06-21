@@ -1,0 +1,40 @@
+{
+  "id": "4958",
+  "idiom": "টিমটিম করা",
+  "alternative_idioms": [],
+  "literal_meaning": "আলোকবর্তিকা বা প্রদীপের মতো ঝিকমিক করে জ্বলা",
+  "figurative_meaning_bn": "অতিকষ্টে অস্তিত্ব বজায় রাখা, শেষ অবস্থা",
+  "figurative_meaning_en": "To barely maintain existence with great difficulty, in a terminal state",
+  "similar_in_english": [
+    "On its last legs",
+    "Hanging by a thread",
+    "Flickering out"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসাটা টিমটিম করে চলছে।",
+    "তার স্বাস্থ্য টিমটিম করছে, যেকোনো সময় শেষ হয়ে যেতে পারে।"
+  ],
+  "example_sentences_in_english": [
+    "The business is flickering along, barely surviving.",
+    "His health is flickering; it could give out any moment."
+  ],
+  "usage_domain": [
+    "business",
+    "economy",
+    "personal health"
+  ],
+  "tags": [
+    "struggle",
+    "decline",
+    "survival",
+    "endurance"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the imagery of a dimly flickering oil lamp, common in traditional Bengali households."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "10220",
+  "idiom": "হাতে নেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতে গ্রহণ করা",
+  "figurative_meaning_bn": "গ্রহণ করা; হাত পেতে নেওয়া",
+  "figurative_meaning_en": "To accept; to take with open hands",
+  "similar_in_english": [
+    "Accept with open arms",
+    "Take hold of"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি উত্তরাধিকার হাতে নিলেন।",
+    "সে আমন্ত্রণটি হাতে নেয়নি।"
+  ],
+  "example_sentences_in_english": [
+    "He accepted the inheritance with open hands.",
+    "She did not take the invitation."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Formal acceptance"
+  ],
+  "tags": [
+    "acceptance",
+    "receiving",
+    "willingness"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom implies voluntary acceptance without hesitation"
+}

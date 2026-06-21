@@ -1,0 +1,40 @@
+{
+  "id": "2931",
+  "idiom": "গদি",
+  "alternative_idioms": [],
+  "literal_meaning": "গদি (আসন বা মসনদ)",
+  "figurative_meaning_bn": "ক্ষমতার উচ্চপদ; মসনদ",
+  "figurative_meaning_en": "High position of power; throne",
+  "similar_in_english": [
+    "Seat of power",
+    "On the throne"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি সরকারের গদিতে বসার জন্য প্রস্তুত হচ্ছেন।",
+    "এই গদি অর্জন করা সহজ নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is preparing to ascend to the seat of power in the government.",
+    "Achieving this throne is not easy."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Administration"
+  ],
+  "tags": [
+    "power",
+    "authority",
+    "throne",
+    "position"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term 'গদি' originates from Persian and Urdu, referring to the throne or seat used by rulers in historical Indian subcontinent courts, symbolizing royal or ministerial authority."
+  ],
+  "note": "Often used in contexts of political ascension or high office."
+}

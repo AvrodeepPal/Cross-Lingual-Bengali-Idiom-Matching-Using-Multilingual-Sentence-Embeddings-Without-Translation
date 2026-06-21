@@ -1,0 +1,40 @@
+{
+  "id": "6628",
+  "idiom": "পরপুষ্টা",
+  "alternative_idioms": [],
+  "literal_meaning": "পরের দ্বারা পুষ্ট বা লালিত",
+  "figurative_meaning_bn": "পরের অন্নে পালিতা; কোকিলা; গণিকা",
+  "figurative_meaning_en": "A woman maintained by another's wealth; like a cuckoo bird; a courtesan",
+  "similar_in_english": [
+    "kept woman",
+    "gold digger",
+    "parasite"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন পরপুষ্টা মহিলা, তার স্বামীর চেয়ে অন্যের উপর নির্ভরশীল।",
+    "গ্রামের সেই কোকিলা-সদৃশ পরপুষ্টা তার সৌন্দর্যের জন্য পরের দয়ায় বেঁচে থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "She is a kept woman, more dependent on others than her husband.",
+    "That village beauty, like a cuckoo, lives as a courtesan on others' charity."
+  ],
+  "usage_domain": [
+    "social relationships",
+    "gender roles",
+    "literature"
+  ],
+  "tags": [
+    "metaphor",
+    "dependency",
+    "women",
+    "criticism"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from natural metaphors like the cuckoo, which lays eggs in others' nests, symbolizing parasitism in Bengali folklore."
+}

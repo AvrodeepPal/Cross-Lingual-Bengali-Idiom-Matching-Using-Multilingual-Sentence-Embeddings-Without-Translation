@@ -1,0 +1,39 @@
+{
+  "id": "106",
+  "idiom": "অজ্ঞাতকুলশীল",
+  "alternative_idioms": [],
+  "literal_meaning": "অজ্ঞাত বংশপরিচয়সম্পন্ন ব্যক্তির আচরণ",
+  "figurative_meaning_bn": "যার বংশপরিচয় বা স্বভাবসম্পর্কে কিছু জানা নেই; সম্পূর্ণ অপরিচিত",
+  "figurative_meaning_en": "One whose family background or nature is unknown; completely unfamiliar",
+  "similar_in_english": [
+    "stranger in a strange land",
+    "unknown quantity"
+  ],
+  "example_sentences_in_bangla": [
+    "অজ্ঞাতকুলশীল ব্যক্তিকে ঘরে আশ্রয় দেওয়া বিপজ্জনক হতে পারে।",
+    "সমাজে অজ্ঞাতকুলশীল লোকের সাথে সতর্কতা অবলম্বন করা উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "It can be dangerous to shelter a person of unknown origins in one's home.",
+    "One should exercise caution when dealing with strangers of unknown background in society."
+  ],
+  "usage_domain": [
+    "social",
+    "family",
+    "cautionary"
+  ],
+  "tags": [
+    "stranger",
+    "unknown",
+    "warning",
+    "family background"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes traditional Bengali values of trust and familiarity in social interactions."
+}

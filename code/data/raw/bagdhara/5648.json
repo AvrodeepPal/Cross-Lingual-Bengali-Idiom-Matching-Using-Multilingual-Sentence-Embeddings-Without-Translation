@@ -1,0 +1,42 @@
+{
+  "id": "5648",
+  "idiom": "দফারফা",
+  "alternative_idioms": [
+    "বারোটা বাজা"
+  ],
+  "literal_meaning": "পত্রপত্রিকা বা দলিলপত্র ছড়িয়ে-ছিটিয়ে যাওয়া বা সম্পূর্ণ বিশৃঙ্খলা",
+  "figurative_meaning_bn": "ধ্বংস, সবশেষ, সর্বনাশ",
+  "figurative_meaning_en": "destruction, complete end, total ruin",
+  "similar_in_english": [
+    "go to the dogs",
+    "total collapse",
+    "go bust"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসায়ের দফারফা হয়ে গেছে।",
+    "পুরো পরিবারের দফারফা হয়ে গেল দুর্ঘটনায়।"
+  ],
+  "example_sentences_in_english": [
+    "The business has gone to complete ruin.",
+    "The entire family was ruined in the accident."
+  ],
+  "usage_domain": [
+    "business",
+    "disaster",
+    "personal loss"
+  ],
+  "tags": [
+    "destruction",
+    "ruin",
+    "financial loss",
+    "catastrophe"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes imagery of scattered documents symbolizing chaos and loss, common in everyday Bengali speech."
+}

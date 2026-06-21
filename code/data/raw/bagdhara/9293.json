@@ -1,0 +1,40 @@
+{
+  "id": "9293",
+  "idiom": "লালফিতে",
+  "alternative_idioms": [],
+  "literal_meaning": "লাল ফিতা (red tape)",
+  "figurative_meaning_bn": "সরকারি অফিসের দীর্ঘসূত্রতা",
+  "figurative_meaning_en": "Bureaucratic delays and excessive formalism in government offices",
+  "similar_in_english": [
+    "Red tape"
+  ],
+  "example_sentences_in_bangla": [
+    "এই লাইসেন্স পেতে লালফিতে আটকে গেছে অনেক দিন।",
+    "সরকারি কাজে লালফিতে সময় নষ্ট হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "Getting this license has been stuck in red tape for days.",
+    "Government work often gets bogged down in bureaucratic red tape."
+  ],
+  "usage_domain": [
+    "Bureaucracy",
+    "Administration",
+    "Government"
+  ],
+  "tags": [
+    "delay",
+    "formalism",
+    "officialdom",
+    "frustration"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "The idiom is a direct borrowing from the English 'red tape,' which refers to the historical use of red ribbons to bind official documents in British administration, symbolizing bureaucratic hurdles."
+  ],
+  "note": "This expression is widely used in modern Bengali to critique administrative inefficiencies, reflecting colonial influences on bureaucratic language."
+}

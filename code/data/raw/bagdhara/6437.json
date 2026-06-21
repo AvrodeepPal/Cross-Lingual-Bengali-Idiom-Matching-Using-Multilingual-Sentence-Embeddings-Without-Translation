@@ -1,0 +1,38 @@
+{
+  "id": "6437",
+  "idiom": "নিমিত্তের ভাগী",
+  "alternative_idioms": [],
+  "literal_meaning": "নিমিত্তের অংশীদার বা সহভাগী",
+  "figurative_meaning_bn": "শুধু সংসর্গবহেতু ফলের জন্য দায়ী হওয়া",
+  "figurative_meaning_en": "Being held responsible solely due to association as the pretext or catalyst",
+  "similar_in_english": [
+    "Fall guy",
+    "Scapegoat",
+    "Take the rap"
+  ],
+  "example_sentences_in_bangla": [
+    "সে শুধু নিমিত্তের ভাগী হয়ে শাস্তি পেল।",
+    "এই ঘটনায় তারা নিমিত্তের ভাগী হয়ে দায়ী করা হলো।"
+  ],
+  "example_sentences_in_english": [
+    "He was punished just for being the fall guy in the matter.",
+    "They were held accountable only as scapegoats in the incident."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Blame and responsibility"
+  ],
+  "tags": [
+    "Scapegoat",
+    "Association",
+    "Blame"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights the injustice of indirect blame in Bengali social contexts."
+}

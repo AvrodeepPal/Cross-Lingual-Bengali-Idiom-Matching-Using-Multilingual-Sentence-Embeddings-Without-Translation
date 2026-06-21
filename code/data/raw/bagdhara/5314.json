@@ -1,0 +1,41 @@
+{
+  "id": "5314",
+  "idiom": "তক্কেতক্কে",
+  "alternative_idioms": [
+    "তাকেতাকে",
+    "টকেটকে"
+  ],
+  "literal_meaning": "চোখের তীক্ষ্ণ দৃষ্টির অনুকরণমূলক শব্দ (onomatopoeic sound of alert peering)",
+  "figurative_meaning_bn": "সজাগ থাকা; সতর্ক অনুসন্ধানে থাকা",
+  "figurative_meaning_en": "To stay alert; to be on vigilant lookout",
+  "similar_in_english": [
+    "Keep one's eyes peeled",
+    "On the qui vive",
+    "Watch like a hawk"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তক্কেতক্কে চারপাশ দেখছে যাতে কেউ না আসে।",
+    "পুলিশ তক্কেতক্কে এলাকা পরীক্ষা করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is looking around alertly to ensure no one approaches.",
+    "The police are scanning the area vigilantly."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "caution and security"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "vigilance",
+    "alertness"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom mimics the sound of quick, cautious glances, common in colloquial Bengali for expressing wariness."
+}

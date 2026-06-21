@@ -1,0 +1,39 @@
+{
+  "id": "9418",
+  "idiom": "শর্মা",
+  "alternative_idioms": [],
+  "literal_meaning": "শর্মা (একটি উপাধি বা পদবি, যা সাধারণত হিন্দু সম্প্রদায়ের লোকের নামের অংশ)",
+  "figurative_meaning_bn": "স্বয়ং; ব্যক্তিবিশেষ",
+  "figurative_meaning_en": "oneself; a specific person (often used self-referentially in a boastful or emphatic manner)",
+  "similar_in_english": [
+    "yours truly",
+    "the undersigned",
+    "moi (in a dramatic sense)"
+  ],
+  "example_sentences_in_bangla": [
+    "এ শর্মা কাউকে রেয়াৎ করে না।",
+    "শর্মা বললেন, এ কাজ আমি নিজেই করব।"
+  ],
+  "example_sentences_in_english": [
+    "This Sharma doesn't give discount to anyone.",
+    "Sharma said, 'This task I will do myself.'"
+  ],
+  "usage_domain": [
+    "conversational",
+    "self-reference",
+    "humor"
+  ],
+  "tags": [
+    "boastful",
+    "self-important",
+    "surname-idiom"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "এই ব্যবহারটি বাঙালি সংস্কৃতিতে সাধারণ পদবি 'শর্মা'কে ব্যবহার করে আত্ম-গৌরব প্রকাশের জন্য উদ্ভূত, বিশেষ করে ব্যবসায়িক বা দৈনন্দিন কথোপকথনে।"
+}

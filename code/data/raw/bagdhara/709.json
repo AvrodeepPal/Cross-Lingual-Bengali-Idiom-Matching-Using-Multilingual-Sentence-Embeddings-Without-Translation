@@ -1,0 +1,42 @@
+{
+  "id": "709",
+  "idiom": "ইলাহী খরচ",
+  "alternative_idioms": [
+    "এলাহী খরচ"
+  ],
+  "literal_meaning": "ইলাহী বা ঈশ্বরীয় খরচ (divine or godly expenditure)",
+  "figurative_meaning_bn": "মাত্রাতিরিক্ত খরচ",
+  "figurative_meaning_en": "Excessive or extravagant spending, often illicit",
+  "similar_in_english": [
+    "Vote buying",
+    "Slush fund spending"
+  ],
+  "example_sentences_in_bangla": [
+    "নির্বাচনের আগে দলটি ইলাহী খরচ করে ভোট কিনতে চেষ্টা করেছে।",
+    "তার ইলাহী খরচের ফলে পক্ষের অর্থনৈতিক অবস্থা খারাপ হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The party resorted to divine expenditure to buy votes before the election.",
+    "His extravagant spending led to the party's financial ruin."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Finance"
+  ],
+  "tags": [
+    "politics",
+    "expenditure",
+    "illegal",
+    "election"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the context of illicit political spending during elections in Bangladesh, where parties use unaccounted funds disguised under religious pretexts to influence voters."
+  ],
+  "note": "The term 'ইলাহী' draws from Islamic connotations of 'Allah', implying spending in the name of the divine to mask illegality."
+}

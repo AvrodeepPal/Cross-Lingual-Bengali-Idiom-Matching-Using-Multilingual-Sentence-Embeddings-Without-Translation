@@ -1,0 +1,40 @@
+{
+  "id": "5921",
+  "idiom": "দেওয়ালের কান থাকা",
+  "alternative_idioms": [],
+  "literal_meaning": "দেওয়ালের কান থাকা (walls having ears)",
+  "figurative_meaning_bn": "কিছু গোপন নয়",
+  "figurative_meaning_en": "Nothing is secret; conversations may be overheard",
+  "similar_in_english": [
+    "The walls have ears",
+    "Little pitchers have big ears"
+  ],
+  "example_sentences_in_bangla": [
+    "এখানে দেওয়ালের কান থাকে, গোপন কথা বলো না।",
+    "দেওয়ালের কান থাকার ভয়ে আমরা চুপ করে রইলাম।"
+  ],
+  "example_sentences_in_english": [
+    "Be careful what you say here; the walls have ears.",
+    "Out of fear that the walls have ears, we stayed silent."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Privacy and caution"
+  ],
+  "tags": [
+    "secrecy",
+    "overhearing",
+    "caution",
+    "proverb"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom reflects a universal caution about privacy, possibly originating from historical contexts of espionage or domestic intrigue in Bengali folklore."
+  ],
+  "note": "The idiom emphasizes the need for discretion in potentially eavesdropped environments."
+}

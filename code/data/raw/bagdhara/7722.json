@@ -1,0 +1,41 @@
+{
+  "id": "7722",
+  "idiom": "বিষচক্ষু",
+  "alternative_idioms": [],
+  "literal_meaning": "বিষাক্ত চোখ",
+  "figurative_meaning_bn": "কুনজর",
+  "figurative_meaning_en": "evil eye or one who casts the evil eye",
+  "similar_in_english": [
+    "give the evil eye",
+    "the evil eye"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বিষচক্ষু, তার দিকে তাকালে শুভকাজ নষ্ট হয়ে যায়।",
+    "বাচ্চাটাকে বিষচক্ষু থেকে রক্ষা করার জন্য কালো টিকা দিয়ে দাও।"
+  ],
+  "example_sentences_in_english": [
+    "She has the evil eye; looking at her spoils good things.",
+    "Protect the child from the evil eye by applying a black dot."
+  ],
+  "usage_domain": [
+    "superstition",
+    "daily conversation",
+    "folklore"
+  ],
+  "tags": [
+    "evil eye",
+    "envy",
+    "superstition",
+    "protection"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from ancient folk beliefs in the evil eye, a concept prevalent in Bengali rural traditions to ward off jealousy-induced misfortune."
+  ],
+  "note": "Commonly used in protective rituals like applying kohl or black dots on children."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "3864",
+  "idiom": "চাল কমানো",
+  "alternative_idioms": [],
+  "literal_meaning": "চাল (ধানের শস্য) কমানো",
+  "figurative_meaning_bn": "জীবনযাত্রার আড়ম্বর কমানো; সংসারের খরচ কমানো",
+  "figurative_meaning_en": "Reducing extravagance in lifestyle; cutting down on household expenses",
+  "similar_in_english": [
+    "tighten one's belt",
+    "cut back on spending"
+  ],
+  "example_sentences_in_bangla": [
+    "অর্থনৈতিক সংকটে পড়ে তারা চাল কমিয়েছে।",
+    "বাজেটের মধ্যে থাকতে হলে চাল কমানোর প্রয়োজন।"
+  ],
+  "example_sentences_in_english": [
+    "Due to financial crisis, they had to cut down on expenses.",
+    "To stay within budget, it's necessary to reduce household spending."
+  ],
+  "usage_domain": [
+    "finance",
+    "lifestyle",
+    "economy"
+  ],
+  "tags": [
+    "daily life",
+    "household",
+    "frugality"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the cultural centrality of rice (chal) as a staple food in Bengali households, symbolizing basic sustenance."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "3827",
+  "idiom": "চাপা দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "চাপ দিয়ে নিচু করা বা ভার চাপানো",
+  "figurative_meaning_bn": "ভার চাপানো",
+  "figurative_meaning_en": "to apply weight or pressure to flatten or suppress",
+  "similar_in_english": [
+    "to weigh down",
+    "to press down"
+  ],
+  "example_sentences_in_bangla": [
+    "কাগজের উপর ভার চাপা দিয়ে শুকিয়ে নাও।",
+    "তার রাগ চাপা দেওয়ার চেষ্টা করলো।"
+  ],
+  "example_sentences_in_english": [
+    "Put weight on the paper to dry it flat.",
+    "He tried to suppress his anger."
+  ],
+  "usage_domain": [
+    "daily life",
+    "physical actions",
+    "emotional control"
+  ],
+  "tags": [
+    "verb phrase",
+    "suppression",
+    "pressure"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This expression can be used both literally for physical pressing and figuratively for suppressing emotions or information."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4565",
+  "idiom": "জলে দেওয়া/যাওয়া",
+  "alternative_idioms": [
+    "জলাঞ্জলি দেওয়া"
+  ],
+  "literal_meaning": "জলে দেওয়া বা যাওয়া (to give or go into water)",
+  "figurative_meaning_bn": "অপচয় করা; কাজে না আসা; নষ্ট করা; নষ্ট হওয়া; বৃথা ব্যয় করা",
+  "figurative_meaning_en": "To waste; to be useless; to spoil; to be spoiled; to spend in vain",
+  "similar_in_english": [
+    "Go down the drain",
+    "Pour money down the drain",
+    "Waste away"
+  ],
+  "example_sentences_in_bangla": [
+    "তার সব পরিশ্রম জলে গেছে।",
+    "এই অর্থ জলে দেওয়া হয়েছে, কোনো লাভ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "All his efforts went down the drain.",
+    "This money was poured down the drain; there's no benefit."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "finance",
+    "time management"
+  ],
+  "tags": [
+    "waste",
+    "loss",
+    "futility",
+    "squander"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the imagery of something dissolving or disappearing in water, emphasizing irretrievable loss."
+}

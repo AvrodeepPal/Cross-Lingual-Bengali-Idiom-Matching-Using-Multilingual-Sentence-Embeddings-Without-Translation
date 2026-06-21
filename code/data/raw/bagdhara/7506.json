@@ -1,0 +1,40 @@
+{
+  "id": "7506",
+  "idiom": "বাজারি মেয়েছেলে",
+  "alternative_idioms": [],
+  "literal_meaning": "বাজার-সংশ্লিষ্ট মেয়ে বা বাজারের মেয়ে",
+  "figurative_meaning_bn": "গণিকা বা মন্দচরিত্রের নারী",
+  "figurative_meaning_en": "prostitute or woman of ill repute",
+  "similar_in_english": [
+    "loose woman",
+    "woman of easy virtue",
+    "streetwalker"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা বাজারি মেয়েছেলে বলে গাঁয়ের লোকেরা তাকে এড়িয়ে চলে।",
+    "এই শহরে অনেক বাজারি মেয়েছেলে দেখা যায় রাতের বাজারে।"
+  ],
+  "example_sentences_in_english": [
+    "The villagers avoid her because she is known as a market girl.",
+    "Many women of ill repute can be seen in the night market of this city."
+  ],
+  "usage_domain": [
+    "slang",
+    "social commentary",
+    "literature"
+  ],
+  "tags": [
+    "derogatory",
+    "gender",
+    "morality",
+    "urban"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom reflects historical associations of bazaar women with certain professions in Bengali society."
+}

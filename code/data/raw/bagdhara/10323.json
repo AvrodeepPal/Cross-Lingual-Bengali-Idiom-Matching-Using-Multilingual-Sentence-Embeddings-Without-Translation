@@ -1,0 +1,41 @@
+{
+  "id": "10323",
+  "idiom": "হিল্লি-দিল্লি",
+  "alternative_idioms": [],
+  "literal_meaning": "অনির্দিষ্ট কাছাকাছি এবং দূরবর্তী স্থানের ছড়ানো শব্দসমষ্টি (rhyming expression for vague distant places)",
+  "figurative_meaning_bn": "কাছের ও দূরের অনির্দিষ্ট যায়গা; বহু দূরবর্তী অজানা দেশ",
+  "figurative_meaning_en": "Unspecified places near and far; very distant unknown lands",
+  "similar_in_english": [
+    "far and wide",
+    "the back of beyond",
+    "Timbuktu",
+    "God knows where"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হিল্লি-দিল্লি ঘুরে বেড়াচ্ছে।",
+    "তার বাড়ি হিল্লি-দিল্লিতে।"
+  ],
+  "example_sentences_in_english": [
+    "He is wandering in hilli-dilli places.",
+    "Her home is in some hilli-dilli land."
+  ],
+  "usage_domain": [
+    "travel",
+    "location",
+    "uncertainty"
+  ],
+  "tags": [
+    "idiom",
+    "distance",
+    "rhyming",
+    "vague places"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses rhyming words to evoke a sense of remoteness without specific geographic reference."
+}

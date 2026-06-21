@@ -1,0 +1,38 @@
+{
+  "id": "527",
+  "idiom": "আধিব্যাধি",
+  "alternative_idioms": [],
+  "literal_meaning": "আধি (মানসিক কষ্ট) + ব্যাধি (শারীরিক রোগ)",
+  "figurative_meaning_bn": "মানসিক ও শারীরিক রোগ",
+  "figurative_meaning_en": "Mental and physical diseases",
+  "similar_in_english": [
+    "ills of body and mind"
+  ],
+  "example_sentences_in_bangla": [
+    "তার আধিব্যাধির কারণে সে কাজ করতে পারছে না।",
+    "আধিব্যাধি থেকে মুক্তি পাওয়া খুব কঠিন।"
+  ],
+  "example_sentences_in_english": [
+    "He can't work because of his mental and physical diseases.",
+    "Recovery from mental and physical ailments is very difficult."
+  ],
+  "usage_domain": [
+    "health",
+    "psychology"
+  ],
+  "tags": [
+    "disease",
+    "mental health",
+    "physical health"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom stems from the traditional Bengali belief encapsulated in the saying 'ব্যাধির চেয়ে আধি হল বড়', emphasizing that mental suffering is greater than physical pain."
+  ],
+  "note": "Highlights the cultural prioritization of mental over physical health in Bengali folklore."
+}

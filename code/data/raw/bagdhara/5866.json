@@ -1,0 +1,39 @@
+{
+  "id": "5866",
+  "idiom": "দুড়দুড়",
+  "alternative_idioms": [],
+  "literal_meaning": "মৃদু কম্পনের শব্দ (onomatopoeic representation of slight trembling)",
+  "figurative_meaning_bn": "ভয়জনিত কারণে মৃদু কম্পন শব্দ",
+  "figurative_meaning_en": "A mild trembling sound caused by fear",
+  "similar_in_english": [
+    "shiver with fear",
+    "heart pounding"
+  ],
+  "example_sentences_in_bangla": [
+    "ভয়ে তার বুকের মধ্যে দুড়দুড় করছে।",
+    "অন্ধকার দেখে শরীরে দুড়দুড় অনুভূত হলো।"
+  ],
+  "example_sentences_in_english": [
+    "Fear made his heart thud inside his chest.",
+    "Darkness caused a shiver to run through his body."
+  ],
+  "usage_domain": [
+    "emotions",
+    "fear",
+    "daily conversation"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "fear",
+    "trembling",
+    "sound"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in Bengali to describe internal fear sensations."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7678",
+  "idiom": "বিদ্যার জাহাজ",
+  "alternative_idioms": [],
+  "literal_meaning": "জ্ঞান বা বিদ্যার জাহাজ",
+  "figurative_meaning_bn": "প্রশংসায় অতিশয় পণ্ডিত; বিদ্রুপে মহামূর্খ",
+  "figurative_meaning_en": "In praise: extremely learned or knowledgeable; in sarcasm: great fool",
+  "similar_in_english": [
+    "walking encyclopedia (positive)",
+    "know-it-all (sarcastic)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বিদ্যার জাহাজ, সব প্রশ্নের উত্তর দিতে পারে।",
+    "বিদ্যার জাহাজ হয়ে এমন সাধারণ ভুল করবে কী করে!"
+  ],
+  "example_sentences_in_english": [
+    "He is a ship of knowledge, able to answer every question.",
+    "What a ship of knowledge, making such a basic mistake!"
+  ],
+  "usage_domain": [
+    "education",
+    "conversation",
+    "literature"
+  ],
+  "tags": [
+    "praise",
+    "sarcasm",
+    "intelligence",
+    "foolishness"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom can shift from positive to negative based on tone and context, reflecting duality in Bengali expression."
+}

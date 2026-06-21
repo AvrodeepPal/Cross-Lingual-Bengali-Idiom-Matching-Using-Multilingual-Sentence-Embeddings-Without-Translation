@@ -1,0 +1,37 @@
+{
+  "id": "6821",
+  "idiom": "পাপ",
+  "alternative_idioms": [],
+  "literal_meaning": "sin (religious wrongdoing)",
+  "figurative_meaning_bn": "আপদ; জঞ্জাল",
+  "figurative_meaning_en": "calamity; trouble or burden",
+  "similar_in_english": [
+    "a curse",
+    "a plague"
+  ],
+  "example_sentences_in_bangla": [
+    "এই পাপটা চলে গেলে আমরা সবাই বাঁচব।",
+    "তার জীবনে এসেছে একটা বড় পাপ, যা তাকে কষ্ট দিচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "If this curse leaves, we'll all be saved.",
+    "A major trouble has entered his life, tormenting him."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "expressing relief"
+  ],
+  "tags": [
+    "misfortune",
+    "burden",
+    "calamity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the religious concept of sin to metaphorically describe severe troubles."
+}

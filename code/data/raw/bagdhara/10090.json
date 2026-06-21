@@ -1,0 +1,40 @@
+{
+  "id": "10090",
+  "idiom": "হাত করা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত (hand) + করা (to do/make); to bring under one's hand or control literally",
+  "figurative_meaning_bn": "আয়ত্ব করা, বশ করা; বশে আনা/রাখা, স্বপক্ষে আনা",
+  "figurative_meaning_en": "To exercise authority over, to subdue; to bring under control or keep under control, to bring to one's own side",
+  "similar_in_english": [
+    "To have someone in one's pocket",
+    "To bring to heel",
+    "To buy off"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি টাকা দিয়ে থানাকে হাত করেছেন।",
+    "আমরা প্রতিপক্ষের নেতাকে হাত করে নিয়েছি।"
+  ],
+  "example_sentences_in_english": [
+    "He bought off the police station with money.",
+    "We have brought the opposition leader under our control."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Corruption",
+    "Influence"
+  ],
+  "tags": [
+    "control",
+    "subdue",
+    "bribe",
+    "manipulation"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies corrupt practices like bribery in everyday Bengali usage."
+}

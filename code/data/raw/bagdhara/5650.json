@@ -1,0 +1,42 @@
+{
+  "id": "5650",
+  "idiom": "দফা শেষ",
+  "alternative_idioms": [
+    "সারা দফা"
+  ],
+  "literal_meaning": "দফা (অধ্যায় বা পর্যায়) শেষ (সমাপ্তি)",
+  "figurative_meaning_bn": "জীবনান্ত, জীবনযাত্রার অবসান করা",
+  "figurative_meaning_en": "End of life, cessation of one's existence",
+  "similar_in_english": [
+    "The end of the road",
+    "Final curtain call",
+    "Drawing one's last breath"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবনের দফা শেষ হয়ে গেছে।",
+    "এই দুর্ঘটনায় তার দফা শেষ।"
+  ],
+  "example_sentences_in_english": [
+    "His life has come to its final chapter.",
+    "The accident marked the end of his days."
+  ],
+  "usage_domain": [
+    "conversational",
+    "literary",
+    "funeral contexts"
+  ],
+  "tags": [
+    "death",
+    "end of life",
+    "finality",
+    "existence"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the metaphorical idea of life as a series of chapters or phases in Bengali storytelling tradition."
+}

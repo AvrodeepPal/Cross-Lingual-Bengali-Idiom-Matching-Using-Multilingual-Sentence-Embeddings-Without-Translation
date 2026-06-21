@@ -1,0 +1,38 @@
+{
+  "id": "5422",
+  "idiom": "তিনকুল",
+  "alternative_idioms": [],
+  "literal_meaning": "তিনটি কুল বা বংশ (পিতৃকুল, মাতৃকুল ও শ্বশুরকুল)",
+  "figurative_meaning_bn": "পিতৃকুল, মাতৃকুল ও শ্বশুরকুল",
+  "figurative_meaning_en": "paternal family, maternal family, and in-laws' family",
+  "similar_in_english": [
+    "extended family",
+    "kinfolk"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনকুলে তার কেউ নেই, তাই সে একা থাকে।",
+    "তার তিনকুলের সকল সদস্য একসাথে উৎসব করে।"
+  ],
+  "example_sentences_in_english": [
+    "He has no one in his three families, so he lives alone.",
+    "All members of his three families celebrate together."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships",
+    "kinship"
+  ],
+  "tags": [
+    "বংশ",
+    "পরিবার",
+    "সম্পর্ক"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the traditional Bengali emphasis on familial lineages and support systems."
+}

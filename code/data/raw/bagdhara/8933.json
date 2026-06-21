@@ -1,0 +1,37 @@
+{
+  "id": "8933",
+  "idiom": "জবুথবু",
+  "alternative_idioms": [],
+  "literal_meaning": "জামাকাপড় চুবসে আটকে থাকা অবস্থা",
+  "figurative_meaning_bn": "পরিপাটিহীন",
+  "figurative_meaning_en": "disheveled or unkempt",
+  "similar_in_english": [
+    "bedraggled",
+    "like a drowned rat"
+  ],
+  "example_sentences_in_bangla": [
+    "বৃষ্টিতে ভিজে তার চেহারা জবুথবু হয়ে গেছে।",
+    "সারাদিন কাজ করে সে জবুথবু অবস্থায় বাড়ি ফিরল।"
+  ],
+  "example_sentences_in_english": [
+    "After getting drenched in the rain, his appearance became disheveled.",
+    "He returned home looking unkempt after a long day of work."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "descriptive"
+  ],
+  "tags": [
+    "appearance",
+    "disorder",
+    "negative"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom text cleaned from apparent OCR error in input; refers to a wet, clinging, untidy state."
+}

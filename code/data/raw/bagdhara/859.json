@@ -1,0 +1,44 @@
+{
+  "id": "859",
+  "idiom": "উশখুশ করা",
+  "alternative_idioms": [
+    "উসখুস করা",
+    "নিশপিশ করা",
+    "নিসপিস করা"
+  ],
+  "literal_meaning": "অস্থিরভাবে নড়াচড়া করা বা ব্যস্ততার শব্দানুকরণ",
+  "figurative_meaning_bn": "কিছু করার জন্য ব্যস্ত হয়ে পড়া",
+  "figurative_meaning_en": "To become restless or eager to do something",
+  "similar_in_english": [
+    "fidgeting to go",
+    "itching to leave",
+    "twitching with impatience"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বাড়ি ফেরার জন্য উশখুশ করছে।",
+    "পার্টিতে থাকতে না চেয়ে সে উশখুশ করতে লাগল।"
+  ],
+  "example_sentences_in_english": [
+    "He is fidgeting to go back home.",
+    "Not wanting to stay at the party, she started fidgeting with impatience."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "emotions",
+    "impatience"
+  ],
+  "tags": [
+    "restlessness",
+    "eagerness",
+    "fidgeting",
+    "onomatopoeic"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি শব্দানুকরণমূলক বাগধারা, বাংলা ভাষার দৈনন্দিন অভিব্যক্তিতে প্রচলিত"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1248",
+  "idiom": "ওজনদার",
+  "alternative_idioms": [],
+  "literal_meaning": "ওজনসম্পন্ন বা ভারী",
+  "figurative_meaning_bn": "গুরুত্বপূর্ণ, ক্ষমতাশালী/প্রতিপত্তিশালী",
+  "figurative_meaning_en": "Important, powerful or influential",
+  "similar_in_english": [
+    "heavyweight",
+    "big shot",
+    "person of influence"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি বেশ ওজনদার ব্যক্তি।",
+    "এই সভায় ওজনদার লোকেরা উপস্থিত আছেন।"
+  ],
+  "example_sentences_in_english": [
+    "He is quite an influential person.",
+    "Heavyweights are present in this meeting."
+  ],
+  "usage_domain": [
+    "politics",
+    "business",
+    "social"
+  ],
+  "tags": [
+    "importance",
+    "influence",
+    "power"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the metaphor of weight symbolizing authority in Bengali linguistic tradition."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "9512",
+  "idiom": "শোধবোধ",
+  "alternative_idioms": [],
+  "literal_meaning": "শোধের অনুভূতি (revenge or repayment feeling)",
+  "figurative_meaning_bn": "হিংসা ও প্রতিহিংসা বা হারজিত সমান-সমান হওয়া, মিটমাট",
+  "figurative_meaning_en": "Settling envy and revenge equally, or becoming even in defeat, leading to reconciliation",
+  "similar_in_english": [
+    "Tit for tat",
+    "An eye for an eye",
+    "Get even"
+  ],
+  "example_sentences_in_bangla": [
+    "তাদের মধ্যে শোধবোধ হয়ে সব ঝগড়া মিটে গেল।",
+    "সে তার হিংসা শোধবোধ করে শান্তি পেল।"
+  ],
+  "example_sentences_in_english": [
+    "They settled their grudge with a sense of retribution, and the quarrel ended.",
+    "He got his revenge in equal measure and found peace."
+  ],
+  "usage_domain": [
+    "daily life",
+    "relationships",
+    "conflicts"
+  ],
+  "tags": [
+    "revenge",
+    "reconciliation",
+    "equality",
+    "settlement"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom reflects Bengali cultural emphasis on balanced justice in disputes"
+}

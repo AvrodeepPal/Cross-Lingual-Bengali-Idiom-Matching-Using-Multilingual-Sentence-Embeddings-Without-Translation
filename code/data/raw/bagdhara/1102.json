@@ -1,0 +1,39 @@
+{
+  "id": "1102",
+  "idiom": "একলা",
+  "alternative_idioms": [
+    "একেলা"
+  ],
+  "literal_meaning": "একা (alone/single)",
+  "figurative_meaning_bn": "অসহায়",
+  "figurative_meaning_en": "helpless or feeling profoundly alone",
+  "similar_in_english": [
+    "all alone",
+    "left to one's own devices"
+  ],
+  "example_sentences_in_bangla": [
+    "সে শহরে একলা এসে অসহায় বোধ করছে।",
+    "বাড়িতে একলা থাকলে মন খারাপ হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "She feels helpless being all alone in the city.",
+    "Staying alone at home makes one feel profoundly lonely."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation"
+  ],
+  "tags": [
+    "loneliness",
+    "helplessness",
+    "solitude"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "একেলা is a dialectical variant commonly used in spoken Bengali."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4464",
+  "idiom": "জড়সড়",
+  "alternative_idioms": [
+    "জবুথবু"
+  ],
+  "literal_meaning": "অনুকরণমূলক শব্দ যা কঠিনতা বা স্থিরতা প্রকাশ করে (stiff or numb sound imitation)",
+  "figurative_meaning_bn": "ভীত ও আড়ষ্ট",
+  "figurative_meaning_en": "Frightened and stiff or awkward due to fear",
+  "similar_in_english": [
+    "Scared stiff",
+    "Frozen with fear"
+  ],
+  "example_sentences_in_bangla": [
+    "ভূমিকম্পের খবর শুনে গ্রামের সবাই জড়সড় হয়ে গেল।",
+    "পরীক্ষার হলে ছাত্ররা ভয়ে জড়সড়।"
+  ],
+  "example_sentences_in_english": [
+    "Upon hearing the earthquake news, everyone in the village froze stiff with fear.",
+    "The students were scared stiff in the exam hall."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Emotional expression",
+    "Literature"
+  ],
+  "tags": [
+    "fear",
+    "stiffness",
+    "onomatopoeia",
+    "emotion"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in spoken Bengali to describe a state of paralysis from fear."
+}

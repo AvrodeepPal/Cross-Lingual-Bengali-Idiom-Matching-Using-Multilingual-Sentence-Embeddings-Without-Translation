@@ -1,0 +1,39 @@
+{
+  "id": "8745",
+  "idiom": "মুখ লুকানো",
+  "alternative_idioms": [
+    "চোখ লুকানো"
+  ],
+  "literal_meaning": "হiding the face",
+  "figurative_meaning_bn": "সামনে না যাওয়া",
+  "figurative_meaning_en": "avoiding facing someone, often due to shame or guilt",
+  "similar_in_english": [
+    "hide one's face in shame",
+    "not show one's face"
+  ],
+  "example_sentences_in_bangla": [
+    "কথা দিয়ে কথা না রাখতে পেরে সে এখন মুখ লুকোচ্ছে।",
+    "ভুল করে ফেলার পর ছেলেটি লজ্জায় মুখ লুকালো।"
+  ],
+  "example_sentences_in_english": [
+    "After failing to keep his promise, he is now hiding his face.",
+    "After making a mistake, the boy hid his face in shame."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "emotional expression"
+  ],
+  "tags": [
+    "shame",
+    "avoidance",
+    "guilt"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali expressions of embarrassment or evasion."
+}

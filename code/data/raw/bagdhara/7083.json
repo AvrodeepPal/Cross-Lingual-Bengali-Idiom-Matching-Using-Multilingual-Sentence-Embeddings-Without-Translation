@@ -1,0 +1,41 @@
+{
+  "id": "7083",
+  "idiom": "ফষ্টিনষ্টি",
+  "alternative_idioms": [],
+  "literal_meaning": "সহচর শব্দ (reduplicative playful sound word indicating light-hearted nonsense)",
+  "figurative_meaning_bn": "ইয়ারকি, ফাজলামি; রঙ্গরস; লঘু হাস্য-পরিহাস; হাসিতামাশা হাসিঠাট্টা",
+  "figurative_meaning_en": "joking around, tomfoolery; humor; light-hearted banter; fun and frolic",
+  "similar_in_english": [
+    "tomfoolery",
+    "horseplay",
+    "fooling around",
+    "joking around"
+  ],
+  "example_sentences_in_bangla": [
+    "বন্ধুরা ফষ্টিনষ্টি করে সময় কাটাচ্ছে।",
+    "পাড়ায় ফষ্টিনষ্টির শব্দ শোনা যাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "The friends are passing time with some tomfoolery.",
+    "Sounds of fun and frolic can be heard in the neighborhood."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "social interactions",
+    "humor"
+  ],
+  "tags": [
+    "playful",
+    "colloquial",
+    "reduplicative",
+    "humor"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a typical Bengali reduplicative expression used in informal settings to denote light-hearted mischief."
+}

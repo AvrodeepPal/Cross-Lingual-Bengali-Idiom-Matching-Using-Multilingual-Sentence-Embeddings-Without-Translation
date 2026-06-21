@@ -1,0 +1,40 @@
+{
+  "id": "4631",
+  "idiom": "জায়াজীবী",
+  "alternative_idioms": [
+    "জায়ানুজীবী"
+  ],
+  "literal_meaning": "স্ত্রীর উপর নির্ভরশীল জীবিকানির্বাহক",
+  "figurative_meaning_bn": "স্ত্রীর রোজগারে বসে খায় এমন ব্যক্তি",
+  "figurative_meaning_en": "A man who lives off his wife's earnings",
+  "similar_in_english": [
+    "Kept man",
+    "Living off one's spouse"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা জায়াজীবী, নিজের কোনো চাকরি নেই।",
+    "গ্রামে অনেক জায়াজীবী দেখা যায় যারা স্ত্রীর পরিশ্রমে চলে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a kept man with no job of his own.",
+    "In the village, many men live as kept men relying on their wives' labor."
+  ],
+  "usage_domain": [
+    "Family",
+    "Society",
+    "Gender roles"
+  ],
+  "tags": [
+    "Negative",
+    "Dependency",
+    "Patriarchy critique"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects traditional Bengali societal views on gender dependency"
+}

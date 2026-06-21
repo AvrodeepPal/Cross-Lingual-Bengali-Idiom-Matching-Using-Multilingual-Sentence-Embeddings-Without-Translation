@@ -1,0 +1,41 @@
+{
+  "id": "4148",
+  "idiom": "চোদ্দপুরুষ",
+  "alternative_idioms": [],
+  "literal_meaning": "চোদ্দ পুরুষ (চোদ্দটি প্রজন্ম বা পুরুষবংশ)",
+  "figurative_meaning_bn": "পুত্র পৌত্রাদিক্রমে অধস্তন চোদ্দপুরুষ",
+  "figurative_meaning_en": "Fourteen generations of descendants in the line of sons and grandsons",
+  "similar_in_english": [
+    "Down through the generations",
+    "For ages to come"
+  ],
+  "example_sentences_in_bangla": [
+    "এই জমিটা চোদ্দপুরুষ ধরে আমার পরিবারের হাতে আছে।",
+    "তার পাপের প্রতিফল চোদ্দপুরুষ ভোগ করবে।"
+  ],
+  "example_sentences_in_english": [
+    "This land has been in my family for fourteen generations.",
+    "He will pay for his sins for fourteen generations."
+  ],
+  "usage_domain": [
+    "Family",
+    "Inheritance",
+    "Curses and Blessings"
+  ],
+  "tags": [
+    "lineage",
+    "descendants",
+    "ancestry",
+    "eternal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the traditional Bengali emphasis on multi-generational family lineages and inheritance practices."
+  ],
+  "note": "The number 'fourteen' is hyperbolic, implying an indefinitely long period."
+}

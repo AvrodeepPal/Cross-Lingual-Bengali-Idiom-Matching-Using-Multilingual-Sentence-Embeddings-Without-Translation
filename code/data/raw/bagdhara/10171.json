@@ -1,0 +1,39 @@
+{
+  "id": "10171",
+  "idiom": "হাত বদল হওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হাতের বদল হওয়া (hands changing)",
+  "figurative_meaning_bn": "একজনের কাছ থেকে অন্যের কাছে যাওয়া; অধিকার হস্তচ্যুত",
+  "figurative_meaning_en": "Passing from one person's possession to another's; loss of authority or power",
+  "similar_in_english": [
+    "Change hands",
+    "Pass the baton"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই পুরনো বাড়িটি হাত বদল হয়ে নতুন মালিকের হাতে চলে গেছে।",
+    "রাজনৈতিক ক্ষমতা হাত বদল হওয়ার পর পরিস্থিতি বদলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "The old house has changed hands and is now with a new owner.",
+    "After the political power changed hands, the situation altered completely."
+  ],
+  "usage_domain": [
+    "general",
+    "property transfer",
+    "politics"
+  ],
+  "tags": [
+    "possession",
+    "transfer",
+    "authority",
+    "change"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in contexts of inheritance, business deals, or political shifts in Bengali culture."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5262",
+  "idiom": "ঢুঁ মারা",
+  "alternative_idioms": [
+    "ঢু দেওয়া"
+  ],
+  "literal_meaning": "দরজায় আঘাত করা (to knock on the door)",
+  "figurative_meaning_bn": "খোঁজ খবর নেওয়া",
+  "figurative_meaning_en": "to make inquiries or seek information door to door",
+  "similar_in_english": [
+    "go door to door",
+    "knock on every door"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার হারানো বইয়ের খোঁজে গ্রামে গ্রামে ঢুঁ মারছে।",
+    "পুলিশ চোরের খবর নিতে বাড়িঘরে ঢুঁ মারল।"
+  ],
+  "example_sentences_in_english": [
+    "He is going door to door in the village to find his lost book.",
+    "The police knocked on every door to gather information about the thief."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "investigation",
+    "searching"
+  ],
+  "tags": [
+    "inquiry",
+    "search",
+    "knock",
+    "information gathering"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects traditional door-to-door practices in Bengali villages for gathering news or information."
+}

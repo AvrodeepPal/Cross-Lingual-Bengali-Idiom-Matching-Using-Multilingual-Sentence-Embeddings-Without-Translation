@@ -1,0 +1,40 @@
+{
+  "id": "1433",
+  "idiom": "কথা নড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা (word/speech) নড়া (to move/stir)",
+  "figurative_meaning_bn": "অন্যথা হওয়া; মিথ্যা হওয়া",
+  "figurative_meaning_en": "To change one's word; to become untrue or false",
+  "similar_in_english": [
+    "Go back on one's word",
+    "Break one's promise",
+    "Eat one's words"
+  ],
+  "example_sentences_in_bangla": [
+    "তার দেওয়া প্রতিশ্রুতি কথা নড়ে গেছে।",
+    "এখন কথা নড়লে কেউ বিশ্বাস করবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He went back on his promise.",
+    "If you change your word now, no one will trust you."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Promises and commitments",
+    "Reliability and trust"
+  ],
+  "tags": [
+    "Promise",
+    "Betrayal",
+    "Change of mind",
+    "Unreliability"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural emphasis on verbal integrity in Bengali society."
+}

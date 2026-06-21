@@ -1,0 +1,42 @@
+{
+  "id": "8426",
+  "idiom": "মাটি করা",
+  "alternative_idioms": [
+    "মাটি হওয়া"
+  ],
+  "literal_meaning": "মাটিতে পরিণত করা বা হওয়া (to turn into soil or mud)",
+  "figurative_meaning_bn": "নষ্ট/পণ্ড করা/হওয়া",
+  "figurative_meaning_en": "to ruin, spoil, or destroy completely",
+  "similar_in_english": [
+    "go to pot",
+    "bite the dust",
+    "go down the drain"
+  ],
+  "example_sentences_in_bangla": [
+    "বৃষ্টির কারণে আমাদের পিকনিক মাটি হয়ে গেল।",
+    "অনেক পরিশ্রম সত্ত্বেও প্রকল্পটি মাটি করে দিলো দুর্নীতি।"
+  ],
+  "example_sentences_in_english": [
+    "The picnic was ruined due to the rain.",
+    "Corruption spoiled the entire project despite all the hard work."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "weather-related events",
+    "planning and failure"
+  ],
+  "tags": [
+    "ruin",
+    "destruction",
+    "disappointment",
+    "weather impact"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often evokes imagery from agrarian life where rain can turn soil to mud and destroy crops or preparations."
+}

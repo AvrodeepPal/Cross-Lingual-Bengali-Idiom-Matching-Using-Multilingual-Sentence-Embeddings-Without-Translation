@@ -1,0 +1,40 @@
+{
+  "id": "7849",
+  "idiom": "বেঢপ",
+  "alternative_idioms": [],
+  "literal_meaning": "ছাঁচের সাথে মেলে না এমন, অসমানুপাতিক",
+  "figurative_meaning_bn": "কদাকার, ছাঁচের সাথে মেলে না এমন",
+  "figurative_meaning_en": "Ill-proportioned, awkward, not fitting the standard mold",
+  "similar_in_english": [
+    "Square peg in a round hole",
+    "Out of place",
+    "Awkward fit"
+  ],
+  "example_sentences_in_bangla": [
+    "তার চেহারা খুব বেঢপ লাগছে।",
+    "এই পোশাকটা তার উপর বেঢপ বসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "His appearance looks very ill-proportioned.",
+    "This outfit doesn't fit him well; it looks awkward."
+  ],
+  "usage_domain": [
+    "physical appearance",
+    "clothing and fashion",
+    "personal description"
+  ],
+  "tags": [
+    "appearance",
+    "negative",
+    "descriptive",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to something mismatched or disproportionate, often used in everyday Bengali speech to describe ungainly looks."
+}

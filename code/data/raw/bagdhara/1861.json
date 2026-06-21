@@ -1,0 +1,38 @@
+{
+  "id": "1861",
+  "idiom": "কাছেপিঠে",
+  "alternative_idioms": [],
+  "literal_meaning": "কাছে পিঠে (নিকটবর্তী পিঠে বা কাছাকাছি অংশে)",
+  "figurative_meaning_bn": "বেশি দূরে নয়, ধারেকাছে, সন্নিকটে",
+  "figurative_meaning_en": "Not too far away, nearby, in close proximity",
+  "similar_in_english": [
+    "close by",
+    "near at hand",
+    "in the vicinity"
+  ],
+  "example_sentences_in_bangla": [
+    "স্কুলটা আমার বাড়ির কাছেপিঠে অবস্থিত।",
+    "দোকানটা কাছেপিঠে নেই, একটু দূরে।"
+  ],
+  "example_sentences_in_english": [
+    "The school is located close by my house.",
+    "The shop isn't nearby; it's a bit far."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "location and distance"
+  ],
+  "tags": [
+    "proximity",
+    "closeness",
+    "spatial reference"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a colloquial expression emphasizing immediate vicinity in Bengali speech."
+}

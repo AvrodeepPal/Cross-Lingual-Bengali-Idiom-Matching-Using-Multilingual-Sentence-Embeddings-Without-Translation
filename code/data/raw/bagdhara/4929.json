@@ -1,0 +1,43 @@
+{
+  "id": "4929",
+  "idiom": "টায়টায়",
+  "alternative_idioms": [
+    "টায়টোয়",
+    "টায়েটায়ে"
+  ],
+  "literal_meaning": "টেনে-টানার শব্দানুকরণ (onomatopoeic expression imitating straining or pulling)",
+  "figurative_meaning_bn": "কোনোরকমে",
+  "figurative_meaning_en": "somehow; by any means; with great difficulty",
+  "similar_in_english": [
+    "by hook or by crook",
+    "scraping by",
+    "by the skin of one's teeth"
+  ],
+  "example_sentences_in_bangla": [
+    "সে টায়টায় করে পরীক্ষায় উত্তীর্ণ হলো।",
+    "গ্রামের লোকেরা টায়টায় করে জীবন যাপন করে।"
+  ],
+  "example_sentences_in_english": [
+    "He somehow passed the exam with great difficulty.",
+    "The villagers are scraping by in their daily lives."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "daily struggles",
+    "informal conversation"
+  ],
+  "tags": [
+    "struggle",
+    "difficulty",
+    "perseverance",
+    "onomatopoeic"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses reduplication typical in Bengali for emphasis on effort; variants reflect regional pronunciations."
+}

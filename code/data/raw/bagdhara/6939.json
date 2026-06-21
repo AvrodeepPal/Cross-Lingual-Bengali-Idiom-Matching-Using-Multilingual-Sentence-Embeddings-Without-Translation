@@ -1,0 +1,40 @@
+{
+  "id": "6939",
+  "idiom": "পেট চলা",
+  "alternative_idioms": [],
+  "literal_meaning": "পেট চালানো (stomach running/moving)",
+  "figurative_meaning_bn": "জীবিকা নির্বাহ করা; আহার্য সংগৃহীত হওয়া",
+  "figurative_meaning_en": "to make a living; to manage to procure sustenance",
+  "similar_in_english": [
+    "make ends meet",
+    "eke out a living",
+    "put food on the table"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রাম থেকে শহরে এসে কোনোমতে পেট চালাচ্ছে।",
+    "উদয়াস্ত পরিশ্রম করে তিনি পরিবারের পেট চালান।"
+  ],
+  "example_sentences_in_english": [
+    "He came to the city from the village and is somehow making ends meet.",
+    "Through relentless hard work, he manages to put food on the table for his family."
+  ],
+  "usage_domain": [
+    "daily life",
+    "economy",
+    "personal struggles"
+  ],
+  "tags": [
+    "livelihood",
+    "hardship",
+    "survival",
+    "poverty"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the everyday struggles in Bengali society, often implying minimal sustenance through labor."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6559",
+  "idiom": "পণ্ডিতমুর্খ",
+  "alternative_idioms": [],
+  "literal_meaning": "পণ্ডিত (বিদ্বান) + মুর্খ (বোকা বা নির্বোধ)",
+  "figurative_meaning_bn": "শুধু পুঁথিগত জ্ঞান আছে, ব্যবহারিক জ্ঞান নেই, এমন; বিদ্বান অথচ নির্বোধ; শাস্ত্রজ্ঞ অথচ বিচারবুদ্ধিহীন",
+  "figurative_meaning_en": "One who possesses only bookish or theoretical knowledge without practical wisdom; learned yet foolish; knowledgeable in scriptures but lacking judgment or common sense",
+  "similar_in_english": [
+    "Book smart but not street smart",
+    "All hat and no cattle",
+    "Ivory tower intellectual"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন পণ্ডিতমুর্খ, শাস্ত্রের কথা বলতে পারে কিন্তু দৈনন্দিন সমস্যার সমাধান জানে না।",
+    "এই পণ্ডিতমুর্খের কথা শুনে হাসি পায়, বইয়ের জ্ঞান ছাড়া কিছু বোঝে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a pandit-murkha, able to quote scriptures but clueless about everyday problem-solving.",
+    "Listening to this pandit-murkha is amusing; he knows nothing beyond bookish knowledge."
+  ],
+  "usage_domain": [
+    "Education",
+    "Criticism",
+    "Daily conversation"
+  ],
+  "tags": [
+    "knowledge",
+    "foolishness",
+    "practical wisdom",
+    "sarcasm"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom highlights the cultural value placed on practical intelligence over rote learning in Bengali society."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "538",
+  "idiom": "আন্দিরাম মহাজন",
+  "alternative_idioms": [],
+  "literal_meaning": "আন্দিরাম নামক মহাজন (একজন ব্যবসায়ী বা সাহাকার)",
+  "figurative_meaning_bn": "কপর্দকশূন্য ব্যবসায়ী",
+  "figurative_meaning_en": "A penniless businessman",
+  "similar_in_english": [
+    "Broke merchant",
+    "Shopkeeper with empty pockets"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আন্দিরাম মহাজনের মতো, ব্যবসা করতে গিয়ে সব টাকা শেষ করে ফেলেছে।",
+    "এই অবস্থায় তার ব্যবসা আন্দিরাম মহাজনের মতোই কপর্দকশূন্য হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is like Andiram Mahajan, having lost all his money in business.",
+    "In this state, his business has become as penniless as Andiram Mahajan."
+  ],
+  "usage_domain": [
+    "Business",
+    "Finance",
+    "Literature"
+  ],
+  "tags": [
+    "poverty",
+    "failure",
+    "historical reference",
+    "bengali literature"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the play 'Nil Darpan' by Dinabandhu Mitra, which depicts the exploitation of indigo farmers by British indigo planters in 19th-century Bengal. Andiram Mahajan is a character representing a ruined moneylender amid the indigo revolt."
+  ],
+  "note": "References the socio-economic turmoil during the Bengal Indigo Revolt."
+}

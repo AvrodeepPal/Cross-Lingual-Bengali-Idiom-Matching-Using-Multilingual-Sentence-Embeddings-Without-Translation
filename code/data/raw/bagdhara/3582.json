@@ -1,0 +1,41 @@
+{
+  "id": "3582",
+  "idiom": "ঘুরানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘুরানো বা ঘুর্ণিত করা (to turn or rotate)",
+  "figurative_meaning_bn": "ঘুর্ণিত করা",
+  "figurative_meaning_en": "to spin or rotate something, often in a playful or coaxing manner to earn a reward",
+  "similar_in_english": [
+    "spin a yarn",
+    "turn the tables"
+  ],
+  "example_sentences_in_bangla": [
+    "বাচ্চাটা খেলার জন্য হাত ঘুরানো শুরু করল।",
+    "তুমি যদি ঘুরানো করো, তাহলে আমি তোমাকে মিষ্টি দেব।"
+  ],
+  "example_sentences_in_english": [
+    "The child started spinning his hand to play the game.",
+    "If you spin around, I'll give you a sweet as a reward."
+  ],
+  "usage_domain": [
+    "children's play",
+    "folklore",
+    "everyday coaxing"
+  ],
+  "tags": [
+    "playful",
+    "rotation",
+    "reward-based",
+    "children's rhyme"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from a traditional Bengali children's rhyme (ছড়া): 'হাত ঘুরালে নাড়ূ দেবো, নইলে নাড়ু কোথায় পাবো', used to encourage playful actions for treats."
+  ],
+  "note": "This expression is rooted in playful folklore, often used in rural or family settings to engage children."
+}

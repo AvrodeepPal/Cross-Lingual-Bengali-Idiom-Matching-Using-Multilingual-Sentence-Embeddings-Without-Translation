@@ -1,0 +1,37 @@
+{
+  "id": "5919",
+  "idiom": "দেওয়ালে মাথা ঠোকা",
+  "alternative_idioms": [],
+  "literal_meaning": "দেওয়ালে মাথা আঘাত করা",
+  "figurative_meaning_bn": "অসম্ভব কোন কাজ করতে ব্যর্থ চেষ্টা করা",
+  "figurative_meaning_en": "To make a futile attempt to accomplish something impossible",
+  "similar_in_english": [
+    "Banging one's head against a brick wall"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অসম্ভব লক্ষ্য অর্জনের জন্য দেওয়ালে মাথা ঠোকা করছে।",
+    "এই সমস্যা সমাধানের চেষ্টা করে দেওয়ালে মাথা ঠোকা হয়ে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "He is banging his head against the wall trying to achieve an impossible goal.",
+    "Attempting to solve this problem will just be banging your head against the wall."
+  ],
+  "usage_domain": [
+    "frustration",
+    "effort",
+    "impossibility"
+  ],
+  "tags": [
+    "futility",
+    "despair",
+    "common expression"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures the sense of repeated, pointless effort in Bengali vernacular."
+}

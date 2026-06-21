@@ -1,0 +1,41 @@
+{
+  "id": "1740",
+  "idiom": "কাঁচা কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাঁচা (raw/uncooked) কথা (words/talk)",
+  "figurative_meaning_bn": "পরিবর্তনযোগ্য প্রাথমিক কথাবার্তা",
+  "figurative_meaning_en": "Changeable preliminary discussions or talks",
+  "similar_in_english": [
+    "trial balloon",
+    "preliminary negotiations",
+    "off-the-cuff remarks"
+  ],
+  "example_sentences_in_bangla": [
+    "এখনও কাঁচা কথা চলছে, চূড়ান্ত সিদ্ধান্ত নেওয়া হয়নি।",
+    "ব্যবসায়িক চুক্তির কাঁচা কথা শুরু হয়েছে, কিন্তু বিস্তারিত আলোচনা বাকি।"
+  ],
+  "example_sentences_in_english": [
+    "It's still raw talk; no final decision has been made yet.",
+    "The business deal is at the stage of preliminary discussions, subject to change."
+  ],
+  "usage_domain": [
+    "conversations",
+    "negotiations",
+    "business",
+    "everyday language"
+  ],
+  "tags": [
+    "preliminary",
+    "tentative",
+    "informal",
+    "negotiation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the metaphor of 'raw' or uncooked food, implying something not yet finalized, common in Bengali oral traditions."
+}

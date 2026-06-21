@@ -1,0 +1,40 @@
+{
+  "id": "5163",
+  "idiom": "ডালভাঙা ক্রোশ",
+  "alternative_idioms": [],
+  "literal_meaning": "শাখা ভাঙা ক্রোশ (branch-breaking mile)",
+  "figurative_meaning_bn": "অতি দীর্ঘপথ",
+  "figurative_meaning_en": "an extremely long distance",
+  "similar_in_english": [
+    "a country mile",
+    "a marathon's distance"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বাড়ি ডালভাঙা ক্রোশ দূরে অবস্থিত।",
+    "যাত্রাটি ডালভাঙা ক্রোশের মতো লম্বা হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "His house is a country mile away.",
+    "The journey turned out to be a marathon's distance."
+  ],
+  "usage_domain": [
+    "travel",
+    "distance",
+    "everyday conversation"
+  ],
+  "tags": [
+    "exaggeration",
+    "journey",
+    "rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom likely originates from rural Bengali traditions of measuring long distances on foot, where paths through forests or fields might involve breaking branches to mark the way."
+  ],
+  "note": "Evokes imagery of arduous rural travel in Bengali culture."
+}

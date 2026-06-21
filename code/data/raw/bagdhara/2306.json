@@ -1,0 +1,38 @@
+{
+  "id": "2306",
+  "idiom": "কূটনীতি",
+  "alternative_idioms": [],
+  "literal_meaning": "কূট (cunning/secret) + নীতি (policy/principle)",
+  "figurative_meaning_bn": "কপটতা; কুটিলতাপূর্ণ নীতি",
+  "figurative_meaning_en": "Hypocrisy; policy full of cunning and deceit",
+  "similar_in_english": [
+    "Machiavellian tactics",
+    "Snake oil diplomacy"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কূটনীতির ফলে সবাইকে ধোঁকা দেওয়া হলো।",
+    "রাজনীতিতে কূটনীতি ছাড়া কাজ চলে না।"
+  ],
+  "example_sentences_in_english": [
+    "His diplomacy full of cunning deceived everyone.",
+    "In politics, cunning policy is unavoidable."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Diplomacy"
+  ],
+  "tags": [
+    "deceit",
+    "cunning",
+    "hypocrisy",
+    "strategy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term often refers to shrewd or duplicitous diplomatic maneuvers in Bengali political discourse."
+}

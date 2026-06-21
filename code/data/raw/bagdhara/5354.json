@@ -1,0 +1,46 @@
+{
+  "id": "5354",
+  "idiom": "তল্পিবাহক",
+  "alternative_idioms": [
+    "চাটুকার",
+    "চামচা",
+    "তোষামুদে",
+    "মোসাহেব"
+  ],
+  "literal_meaning": "তল্পির বাহক বা বহনকারী (satchel or bag carrier)",
+  "figurative_meaning_bn": "অনুচর, আজ্ঞানুসারে চলা ব্যক্তি",
+  "figurative_meaning_en": "Follower or a person who blindly obeys orders, often implying a sycophant or lackey",
+  "similar_in_english": [
+    "yes-man",
+    "lackey",
+    "toady"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার নেতার তল্পিবাহকের মতো সবকিছুতে সমর্থন করে।",
+    "আমি কারো তল্পিবাহক হয়ে থাকতে চাই না।"
+  ],
+  "example_sentences_in_english": [
+    "He supports everything like a lackey to his leader.",
+    "I don't want to be anyone's yes-man."
+  ],
+  "usage_domain": [
+    "social interactions",
+    "politics",
+    "literature"
+  ],
+  "tags": [
+    "sycophancy",
+    "obedience",
+    "flattery"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom derives from historical practices where disciples or followers carried the 'talpi' (a type of satchel or bag) of their guru or leader, symbolizing unwavering loyalty and service."
+  ],
+  "note": "Often used derogatorily to criticize blind allegiance."
+}

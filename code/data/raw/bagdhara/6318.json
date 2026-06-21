@@ -1,0 +1,39 @@
+{
+  "id": "6318",
+  "idiom": "নাকের ডগায়",
+  "alternative_idioms": [],
+  "literal_meaning": "নাকের ডগায় (nose's tip at)",
+  "figurative_meaning_bn": "অতি সন্নিকটে",
+  "figurative_meaning_en": "very close by or right under one's nose",
+  "similar_in_english": [
+    "right under one's nose",
+    "close at hand"
+  ],
+  "example_sentences_in_bangla": [
+    "দস্যুরা পুলিশের নাকের ডগায় লুকিয়ে আছে।",
+    "আমার চাবিটা নাকের ডগায় পড়ে ছিল, তবু খুঁজে পাইনি।"
+  ],
+  "example_sentences_in_english": [
+    "The thieves are hiding right under the police's nose.",
+    "My keys were right under my nose, but I couldn't find them."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "crime and security",
+    "proximity descriptions"
+  ],
+  "tags": [
+    "closeness",
+    "proximity",
+    "irony",
+    "detection"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes ironic proximity, often used in contexts of oversight or hidden dangers."
+}

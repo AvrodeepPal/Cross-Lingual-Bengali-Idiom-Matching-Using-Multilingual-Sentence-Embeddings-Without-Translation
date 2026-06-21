@@ -1,0 +1,38 @@
+{
+  "id": "5777",
+  "idiom": "দায়ঠেলা",
+  "alternative_idioms": [],
+  "literal_meaning": "দায় (responsibility) ঠেলা (to push)",
+  "figurative_meaning_bn": "অনিচ্ছায় একান্ত বাধ্য হয়ে কিছু করা",
+  "figurative_meaning_en": "To do something unwillingly due to extreme compulsion",
+  "similar_in_english": [
+    "Against one's will",
+    "Under duress",
+    "Between a rock and a hard place"
+  ],
+  "example_sentences_in_bangla": [
+    "সে দায়ঠেলা করে কাজটা করল।",
+    "পরিস্থিতির চাপে দায়ঠেলা হয়ে সে সম্মতি দিল।"
+  ],
+  "example_sentences_in_english": [
+    "He did the work grudgingly out of necessity.",
+    "Under pressure, he unwillingly agreed to it."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Social interactions"
+  ],
+  "tags": [
+    "reluctance",
+    "compulsion",
+    "responsibility"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom reflects everyday Bengali expressions of reluctance in fulfilling duties."
+}

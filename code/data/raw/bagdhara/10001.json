@@ -1,0 +1,44 @@
+{
+  "id": "10001",
+  "idiom": "হাঁসফাঁস করা",
+  "alternative_idioms": [
+    "হাঁসফাঁসানো",
+    "আইঢাই করা",
+    "ছটফট করা",
+    "হাঁইফাঁই করা"
+  ],
+  "literal_meaning": "হাঁসের মতো ফোঁসফোঁস শব্দ করে শ্বাস নেওয়া (অনুকরণমূলক শব্দ)",
+  "figurative_meaning_bn": "অতি কষ্টে নিশ্বাস-প্রশ্বাস ত্যাগ ও গ্রহণ, অস্থির বা ব্যাকুল হওয়া",
+  "figurative_meaning_en": "To breathe in and out with great difficulty, to be restless or anxious",
+  "similar_in_english": [
+    "Gasping for breath",
+    "In a flap",
+    "On pins and needles"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষার ফলাফলের জন্য অপেক্ষা করতে গিয়ে সে হাঁসফাঁস করছিল।",
+    "ঘটনার পর সবাই হাঁসফাঁস করে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "He was gasping in anticipation of the exam results.",
+    "Everyone started gasping after the incident."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Emotional expression"
+  ],
+  "tags": [
+    "anxiety",
+    "distress",
+    "restlessness",
+    "onomatopoeia"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি অনুকরণমূলক বাগধারা, বাংলা ভাষার সাধারণ অভিব্যক্তি"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3567",
+  "idiom": "ঘুমিয়ে থাকা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘুমানো অবস্থায় থাকা (sleeping state of being)",
+  "figurative_meaning_bn": "অজ্ঞ/অলস/অসতর্ক থাকা; কোনদিক না দেখা",
+  "figurative_meaning_en": "To be unaware, lazy, or careless; not paying attention to surroundings",
+  "similar_in_english": [
+    "asleep at the wheel",
+    "sleeping on the job"
+  ],
+  "example_sentences_in_bangla": [
+    "বিপদ সামনে এসেছে, এখন ঘুমিয়ে থাকার সময় নয়।",
+    "সে সবসময় ঘুমিয়ে থাকে, কোনো কাজেই মন দিবে না।"
+  ],
+  "example_sentences_in_english": [
+    "Danger is approaching; this is no time to be asleep at the wheel.",
+    "He always sleeps on the job and never pays attention to anything."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "warnings",
+    "admonitions"
+  ],
+  "tags": [
+    "negligence",
+    "unawareness",
+    "laziness",
+    "caution"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes vigilance in everyday Bengali expressions, often used metaphorically for alertness in potential risks."
+}

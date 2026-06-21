@@ -1,0 +1,39 @@
+{
+  "id": "6391",
+  "idiom": "নামে গোয়ালা কাঁজি ভক্ষণ",
+  "alternative_idioms": [],
+  "literal_meaning": "নামে গোয়ালা, কাজি ভক্ষণ (শাব্দিকভাবে: নামমাত্র গরুর রক্ষক, কিন্তু কাজির মতো ভোজন করা)",
+  "figurative_meaning_bn": "কাজে নয়, নামেমাত্র সার",
+  "figurative_meaning_en": "Only in name, lacking substance or real action",
+  "similar_in_english": [
+    "In name only",
+    "All hat and no cattle"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নামে গোয়ালা কাঁজি ভক্ষণ, কিন্তু গরু রাখার কোনো কাজই করে না।",
+    "এই দলটি নামে গোয়ালা কাঁজি ভক্ষণ, বাস্তবে কোনো উন্নয়ী প্রকল্প চালায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a cowherd only in name, devouring sweets like a judge but doing no actual herding.",
+    "This team is nominal at best, all talk and no real work."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism",
+    "Social commentary"
+  ],
+  "tags": [
+    "nominal",
+    "superficial",
+    "hypocrisy",
+    "rural origin"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Idiom likely draws from rural Bengali life contrasting humble roles with indulgent behavior"
+}

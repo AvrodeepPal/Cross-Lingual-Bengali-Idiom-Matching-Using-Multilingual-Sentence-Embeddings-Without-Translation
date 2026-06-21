@@ -1,0 +1,42 @@
+{
+  "id": "6139",
+  "idiom": "ধ্বজা উড়ানো",
+  "alternative_idioms": [
+    "ধ্বজা ধরা"
+  ],
+  "literal_meaning": "ধ্বজা উড়ানো (flag hoisting or flying)",
+  "figurative_meaning_bn": "উগ্রভাবে সমর্থন করা",
+  "figurative_meaning_en": "to support vehemently or champion aggressively",
+  "similar_in_english": [
+    "fly the flag for",
+    "wave the flag",
+    "rally around the flag"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি দলের নীতির ধ্বজা উড়িয়ে প্রচার করছেন।",
+    "সমাজের অধিকারের জন্য ধ্বজা উড়ানোর প্রয়োজন।"
+  ],
+  "example_sentences_in_english": [
+    "He is flying the flag for his party's policies in the campaign.",
+    "It's time to hoist the flag for social rights."
+  ],
+  "usage_domain": [
+    "politics",
+    "advocacy",
+    "social movements"
+  ],
+  "tags": [
+    "support",
+    "vehement",
+    "flag symbolism",
+    "protest"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the act of raising flags in rallies or battles, symbolizing strong allegiance in Bengali political discourse."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "5576",
+  "idiom": "থাকা-না-থাকা",
+  "alternative_idioms": [],
+  "literal_meaning": "থাকা বা না থাকা (existence or non-existence)",
+  "figurative_meaning_bn": "বাঁচা-মরা",
+  "figurative_meaning_en": "life and death",
+  "similar_in_english": [
+    "life or death",
+    "to live or die"
+  ],
+  "example_sentences_in_bangla": [
+    "আমার থাকা-না-থাকার সাথে এই বিষয়ের কোন সম্পর্ক নেই।",
+    "এটা আমার থাকা-না-থাকার প্রশ্ন।"
+  ],
+  "example_sentences_in_english": [
+    "This matter has nothing to do with my life or death.",
+    "This is a question of my life and death."
+  ],
+  "usage_domain": [
+    "conversational",
+    "expressive"
+  ],
+  "tags": [
+    "existence",
+    "indifference",
+    "importance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes matters of utmost importance or complete irrelevance to one's survival."
+}

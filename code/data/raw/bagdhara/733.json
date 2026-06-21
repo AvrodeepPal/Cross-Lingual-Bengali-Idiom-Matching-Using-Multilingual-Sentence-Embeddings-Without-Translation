@@ -1,0 +1,38 @@
+{
+  "id": "733",
+  "idiom": "উঁচু ঘর",
+  "alternative_idioms": [],
+  "literal_meaning": "উঁচু (high/tall) ঘর (house)",
+  "figurative_meaning_bn": "ভালো বংশ; সচ্ছল পরিবার",
+  "figurative_meaning_en": "noble lineage; prosperous family",
+  "similar_in_english": [
+    "born with a silver spoon",
+    "blue blood"
+  ],
+  "example_sentences_in_bangla": [
+    "সে উঁচু ঘরের ছেলে, তাই তার আচরণে একটা গাম্ভীর্য আছে।",
+    "উঁচু ঘর থেকে আসা মেয়েরা সাধারণত শিক্ষিত হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is from a high house, so there's a certain dignity in his behavior.",
+    "Girls from prosperous families are usually well-educated."
+  ],
+  "usage_domain": [
+    "social status",
+    "family background"
+  ],
+  "tags": [
+    "family",
+    "prosperity",
+    "lineage",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects traditional Bengali emphasis on family prestige and social hierarchy."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3438",
+  "idiom": "ঘর ভাঙ্গা",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘর ভাঙ্গা (house breaking)",
+  "figurative_meaning_bn": "গৃহবিবাদ সৃষ্টি করা; কুপরামর্শ দিয়ে একান্নবর্তী পরিবারে মনোমালিন্য সৃষ্টি করে পরস্পরকে পৃথক করা",
+  "figurative_meaning_en": "Creating family discord; by giving bad advice, fostering ill feelings in a joint family and separating family members from each other",
+  "similar_in_english": [
+    "sowing discord",
+    "divide and conquer",
+    "breaking up the family"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার কুপরামর্শ দিয়ে পরিবারে ঘর ভাঙ্গার চেষ্টা করেছে।",
+    "এই বন্ধু ঘর ভাঙ্গার কাজ করে চলে।"
+  ],
+  "example_sentences_in_english": [
+    "He tried to break up the family with his bad advice.",
+    "This friend is always stirring up trouble in the home."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships",
+    "social conflicts"
+  ],
+  "tags": [
+    "discord",
+    "family split",
+    "bad advice",
+    "joint family"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects the traditional Bengali emphasis on joint family harmony"
+}

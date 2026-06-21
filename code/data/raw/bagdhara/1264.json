@@ -1,0 +1,39 @@
+{
+  "id": "1264",
+  "idiom": "ওয়ারিশনামা",
+  "alternative_idioms": [],
+  "literal_meaning": "উত্তরাধিকারীর দলিল বা নথি",
+  "figurative_meaning_bn": "পৈত্রিক সম্পত্তিতে উত্তরাধিকারী",
+  "figurative_meaning_en": "Heir to ancestral property",
+  "similar_in_english": [
+    "Last will and testament",
+    "Inheritance rights"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা ওয়ারিশনামা পেয়ে পরিবারের সম্পত্তি ভাগ করে নিল।",
+    "পুরোনো জমিদারের ওয়ারিশনামা এখনো বিবাদের কারণ।"
+  ],
+  "example_sentences_in_english": [
+    "They received the inheritance deed and divided the family property.",
+    "The old zamindar's inheritance deed is still a source of dispute."
+  ],
+  "usage_domain": [
+    "Legal",
+    "Family",
+    "Property"
+  ],
+  "tags": [
+    "inheritance",
+    "ancestral property",
+    "heir",
+    "legal document"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This term is more of a legal phrase than a traditional idiom, rooted in property inheritance customs in Bengali society."
+}

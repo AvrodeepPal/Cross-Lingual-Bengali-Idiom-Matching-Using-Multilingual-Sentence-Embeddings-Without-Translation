@@ -1,0 +1,40 @@
+{
+  "id": "26",
+  "idiom": "অকূলের কূল",
+  "alternative_idioms": [
+    "অকূলতারণ"
+  ],
+  "literal_meaning": "অকূলের (অশান্ত সমুদ্র বা অসীমতার) কূল (তীর)",
+  "figurative_meaning_bn": "বিপদে ত্রাণকর্তা",
+  "figurative_meaning_en": "Savior in times of distress",
+  "similar_in_english": [
+    "A port in a storm",
+    "Lifeline in trouble"
+  ],
+  "example_sentences_in_bangla": [
+    "বিপদের মুহূর্তে তার সাহায্য অকূলের কূলের মতো ছিল।",
+    "যখন সবাই পরিত্যাগ করল, তখন সে অকূলের কূল হয়ে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "His help was like a shore in the shoreless ocean during the crisis.",
+    "When everyone abandoned me, he became my savior in distress."
+  ],
+  "usage_domain": [
+    "emergency",
+    "support",
+    "relationships"
+  ],
+  "tags": [
+    "rescue",
+    "hope",
+    "positive"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from nautical imagery common in Bengali folklore, symbolizing unexpected relief."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "10337",
+  "idiom": "হুড়মুড়",
+  "alternative_idioms": [],
+  "literal_meaning": "অনুকরণমূলক শব্দ যা ঠেলাঠেলি বা ভারী জিনিস পড়ার আওয়াজ প্রকাশ করে",
+  "figurative_meaning_bn": "ঠেলাঠেলি করে প্রবেশ বা গমনের ভাবসূচক; অনেকগুলি বড়ো ও ভারী জিনিস পড়ার ভাবসূচক",
+  "figurative_meaning_en": "Indicative of entering or proceeding by pushing and shoving; indicative of many large and heavy objects falling",
+  "similar_in_english": [
+    "pell-mell",
+    "in a rush",
+    "come crashing down"
+  ],
+  "example_sentences_in_bangla": [
+    "হুড়মুড় করে সবাই বাসে উঠল।",
+    "হুড়মুড় করে দেয়ালটা ভেঙে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone rushed into the bus pell-mell.",
+    "The wall came crashing down with a thud."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "descriptive narrative",
+    "literature"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "sound imitation",
+    "movement",
+    "collapse"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in Bengali to vividly describe chaotic movement or sudden falls."
+}

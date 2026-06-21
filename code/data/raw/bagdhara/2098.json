@@ -1,0 +1,39 @@
+{
+  "id": "2098",
+  "idiom": "কার বাপের সাধ্য",
+  "alternative_idioms": [],
+  "literal_meaning": "কার বাপের ক্ষমতা বা সাধ্য",
+  "figurative_meaning_bn": "কারো বাপের সাধ্যায়ত্ব নয় এমন মনোভাব",
+  "figurative_meaning_en": "An attitude implying that no one has the capacity or audacity to do something",
+  "similar_in_english": [
+    "Who does he think he is?",
+    "Over my dead body",
+    "Not on my watch"
+  ],
+  "example_sentences_in_bangla": [
+    "কার বাপের সাধ্য যে আমাকে এখান থেকে হটায়।",
+    "কার বাপের সাধ্যি এই কাজটা সম্পন্ন করা।"
+  ],
+  "example_sentences_in_english": [
+    "Whose father's power is it that can remove me from here?",
+    "No one's father has the capacity to complete this task."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "defiance",
+    "everyday conversation"
+  ],
+  "tags": [
+    "challenge",
+    "impossibility",
+    "spoken language"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in informal, assertive contexts to express defiance."
+}

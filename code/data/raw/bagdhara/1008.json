@@ -1,0 +1,37 @@
+{
+  "id": "1008",
+  "idiom": "একটা",
+  "alternative_idioms": [],
+  "literal_meaning": "এক (one) + টা (classifier for objects/things)",
+  "figurative_meaning_bn": "এককসংখ্যক",
+  "figurative_meaning_en": "Singular or one in number (one is sufficient)",
+  "similar_in_english": [
+    "Just one",
+    "One and only"
+  ],
+  "example_sentences_in_bangla": [
+    "একটা ফল দাও, বাকিগুলো লাগবে না।",
+    "সে একটা বই কিনেছে, যথেষ্ট।"
+  ],
+  "example_sentences_in_english": [
+    "Give me one fruit, the rest are not needed.",
+    "He bought one book, that's enough."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Quantification"
+  ],
+  "tags": [
+    "number",
+    "quantity",
+    "sufficiency"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": false,
+  "scape": "country",
+  "history": [],
+  "note": "This appears to be a basic expression rather than a complex idiom; used to indicate minimal quantity."
+}

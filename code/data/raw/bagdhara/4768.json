@@ -1,0 +1,39 @@
+{
+  "id": "4768",
+  "idiom": "ঝকঝক",
+  "alternative_idioms": [
+    "ঝকমক"
+  ],
+  "literal_meaning": "চাকচিক্য বা ঔজ্জ্বল্যের শব্দানুকরণমূলক দ্বিত্বশব্দ",
+  "figurative_meaning_bn": "চাকচিক্য বা ঔজ্জ্বল্যের ভাব প্রকাশক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "A reduplicative word expressing the sense of sparkle or brightness",
+  "similar_in_english": [
+    "All that glitters is not gold"
+  ],
+  "example_sentences_in_bangla": [
+    "এই নতুন বাড়িটা ঝকঝক করছে।",
+    "যাই ঝকঝক করে তাই সোনা নয়।"
+  ],
+  "example_sentences_in_english": [
+    "This new house is shining brightly.",
+    "All that glitters is not gold."
+  ],
+  "usage_domain": [
+    "descriptive language",
+    "proverbs"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "reduplication",
+    "shine",
+    "appearance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in the context of the proverb warning against superficial appearances"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2944",
+  "idiom": "গায়েবী চাল",
+  "alternative_idioms": [
+    "গয়বি চাল",
+    "গৈবী চাল"
+  ],
+  "literal_meaning": "অদৃশ্য বা অনুপস্থিত থেকে চালানো (unseen or absent action/move)",
+  "figurative_meaning_bn": "অবস্থা না জেনেই ব্যবস্থা গ্রহণ",
+  "figurative_meaning_en": "Taking action without knowing the situation",
+  "similar_in_english": [
+    "Shooting in the dark",
+    "Acting blindly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে পরিস্থিতি না বুঝেই গায়েবী চাল চালিয়ে হেরে গেল।",
+    "এইসব গায়েবী চাল এড়িয়ে চলা উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "He lost the game by taking a blind action without understanding the situation.",
+    "One should avoid such blind moves."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Decision-making"
+  ],
+  "tags": [
+    "ignorance",
+    "action",
+    "caution"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term 'গায়েবী' derives from Arabic 'ghayeb' meaning unseen, influenced by Persian-Arabic loanwords in Bengali."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2072",
+  "idiom": "কামচোর",
+  "alternative_idioms": [],
+  "literal_meaning": "কাজের চোর (work thief)",
+  "figurative_meaning_bn": "কাজে ফাঁকিবাজ",
+  "figurative_meaning_en": "someone who shirks or dodges work duties",
+  "similar_in_english": [
+    "slacker",
+    "work shy",
+    "goldbricker"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা কামচোর, অফিসে এসেও কাজ করে না।",
+    "কামচোর লোকের সঙ্গে কাজ করতে ইচ্ছে করে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a work shirker; he comes to the office but doesn't do any work.",
+    "I don't like working with lazy dodgers who avoid their duties."
+  ],
+  "usage_domain": [
+    "workplace",
+    "daily conversation"
+  ],
+  "tags": [
+    "laziness",
+    "work ethic",
+    "negative trait"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Common colloquial term in Bengali for describing lazy individuals in professional or daily settings."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2203",
+  "idiom": "কিলিয়ে কাঁঠাল পাকানো",
+  "alternative_idioms": [],
+  "literal_meaning": "কিল দিয়ে কাঁঠাল পাকানো (nailing a jackfruit to ripen it)",
+  "figurative_meaning_bn": "অসম্ভবকে সম্ভব করার চেষ্টা করা",
+  "figurative_meaning_en": "Attempting to make the impossible possible",
+  "similar_in_english": [
+    "tilting at windmills",
+    "a fool's errand"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কাজটা করা যেন কিলিয়ে কাঁঠাল পাকানো।",
+    "তার চেষ্টা সম্পূর্ণ ব্যর্থ, ঠিক কিলিয়ে কাঁঠাল পাকানোর মতো।"
+  ],
+  "example_sentences_in_english": [
+    "This task is like trying to ripen a jackfruit by nailing it.",
+    "His efforts are completely futile, just like nailing a jackfruit to make it ripen."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "everyday conversation"
+  ],
+  "tags": [
+    "futility",
+    "impossibility",
+    "rural life"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "The idiom draws from traditional Bengali agricultural practices involving jackfruit, highlighting absurd attempts at fruit ripening."
+}

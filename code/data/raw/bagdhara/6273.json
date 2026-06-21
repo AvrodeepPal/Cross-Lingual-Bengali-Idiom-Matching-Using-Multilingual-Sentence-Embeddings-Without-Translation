@@ -1,0 +1,46 @@
+{
+  "id": "6273",
+  "idiom": "নাই আঁকড়া",
+  "alternative_idioms": [
+    "নেই আঁকড়া",
+    "একগুঁয়ে",
+    "একবগগা",
+    "একরোখা",
+    "নাছোড়বান্দা"
+  ],
+  "literal_meaning": "কোনো আঁকড়া বা ধরাধরির অভাব (no grip or hold)",
+  "figurative_meaning_bn": "যে তর্ক ধরে বসে থাকে, তর্ক ছাড়তে চায় না বা তর্ক আঁকড়ে ধরে থাকে এমন",
+  "figurative_meaning_en": "Someone who clings stubbornly to an argument, refuses to let go of a debate, or holds tightly onto their point of view",
+  "similar_in_english": [
+    "stick to one's guns",
+    "stubborn as a mule",
+    "die on the hill"
+  ],
+  "example_sentences_in_bangla": [
+    "তর্কে সে নাই আঁকড়া হয়ে পড়েছে, কিছুতেই মত বদলাবে না।",
+    "এই ব্যাপারে তার নাই আঁকড়া মনোভাব দেখে সবাই বিরক্ত হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has turned into a nai ankora in the argument and won't change his mind no matter what.",
+    "Her nai ankora attitude in the discussion annoyed everyone around."
+  ],
+  "usage_domain": [
+    "debate",
+    "conversation",
+    "daily interactions"
+  ],
+  "tags": [
+    "stubbornness",
+    "argument",
+    "persistence",
+    "obstinacy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom implies a paradoxical literal sense of 'no grip' but figuratively denotes tight clinging, common in Bengali rhetorical expressions."
+}

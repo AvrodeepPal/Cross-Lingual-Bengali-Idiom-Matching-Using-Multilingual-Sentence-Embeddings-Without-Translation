@@ -1,0 +1,48 @@
+{
+  "id": "6206",
+  "idiom": "নবডঙ্কা",
+  "alternative_idioms": [
+    "লবডঙ্কা",
+    "অষ্টরম্ভা",
+    "কচু",
+    "কচু না ঘেচূ",
+    "কলা",
+    "কাঁচকলা"
+  ],
+  "literal_meaning": "বৃদ্ধাঙ্গুষ্ঠ বা হাতের আঙুলের একটি অঙ্গভঙ্গি প্রদর্শন (হাতের বুড়ো আঙুল দেখানোর ভঙ্গি)",
+  "figurative_meaning_bn": "কিছু না, ফাঁকি, বৃদ্ধাঙ্গুষ্ঠ প্রদর্শণ",
+  "figurative_meaning_en": "Nothing at all, a deception or trick, displaying the thumb (as a gesture of dismissal or refusal)",
+  "similar_in_english": [
+    "thumbs down",
+    "zilch",
+    "brush off",
+    "give the cold shoulder"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার অনুরোধে নবডঙ্কা দেখাল।",
+    "কাজটা পেতে চেয়েছিলাম, কিন্তু নবডঙ্কা পেয়ে গেলাম।"
+  ],
+  "example_sentences_in_english": [
+    "He gave me the thumbs down on my request.",
+    "I hoped for the job, but ended up with nothing but a brush off."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "informal conversation",
+    "rejection contexts"
+  ],
+  "tags": [
+    "dismissal",
+    "rejection",
+    "hand gesture",
+    "deception"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom refers to a traditional Bengali hand gesture of showing the thumb sideways to indicate refusal or worthlessness, often used in everyday interactions."
+}

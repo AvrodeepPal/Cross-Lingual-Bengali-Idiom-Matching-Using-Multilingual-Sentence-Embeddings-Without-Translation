@@ -1,0 +1,39 @@
+{
+  "id": "9324",
+  "idiom": "লেঙ্গটার নেই বাটপাড়ের ভয়",
+  "alternative_idioms": [
+    "ল্যাঙ্গটার নেই বাটপাড়ের ভয়"
+  ],
+  "literal_meaning": "লেঙ্গটা (লুঙ্গি বা আঁটকুনি) নেই, বাটপাড়ের (ডাকাতের পথের) ভয় নেই",
+  "figurative_meaning_bn": "যার কিছু নেই তার হারানোর কিছু ভয় নেই",
+  "figurative_meaning_en": "Those who have nothing have nothing to lose and thus fear nothing",
+  "similar_in_english": [
+    "Nothing to lose",
+    "A poor man has no fear of thieves"
+  ],
+  "example_sentences_in_bangla": [
+    "গরিব লোকের তো লেঙ্গটার নেই বাটপাড়ের ভয়, সে কী হারাবে?"
+  ],
+  "example_sentences_in_english": [
+    "The poor man has no fear of highway robbers since he has nothing to lose."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Expressions of fearlessness",
+    "Poverty and resilience"
+  ],
+  "tags": [
+    "poverty",
+    "fearlessness",
+    "rural life",
+    "robbery"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Refers to rural Bengal's historical context of dacoits, but no specific event tied to the idiom"
+}

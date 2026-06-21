@@ -1,0 +1,38 @@
+{
+  "id": "4072",
+  "idiom": "চোখ বুজে থাকা",
+  "alternative_idioms": [],
+  "literal_meaning": "চোখ বন্ধ করে থাকা",
+  "figurative_meaning_bn": "আমলে না আনা",
+  "figurative_meaning_en": "to ignore or not put into practice deliberately",
+  "similar_in_english": [
+    "turn a blind eye",
+    "look the other way"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নিয়ম লঙ্ঘন দেখেও চোখ বুজে থাকে।",
+    "প্রশাসন দুর্নীতির প্রতি চোখ বুজে থাকলে সমস্যা বাড়বে।"
+  ],
+  "example_sentences_in_english": [
+    "He turns a blind eye to rule violations.",
+    "If the administration ignores corruption, problems will escalate."
+  ],
+  "usage_domain": [
+    "daily life",
+    "ethics",
+    "administration"
+  ],
+  "tags": [
+    "ignorance",
+    "deliberate oversight",
+    "avoidance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects a common cultural tendency to overlook minor infractions in social or official contexts."
+}

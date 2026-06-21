@@ -1,0 +1,40 @@
+{
+  "id": "5046",
+  "idiom": "ঠাকুরমশাই",
+  "alternative_idioms": [],
+  "literal_meaning": "ঠাকুরের সম্মানসূচক উপাধি (Thakur as a title for God or Brahmin + Mashai as respectful suffix)",
+  "figurative_meaning_bn": "গুরু; পুরোহিত ব্রাহ্মণ",
+  "figurative_meaning_en": "Guru; Brahmin priest",
+  "similar_in_english": [
+    "Holy man",
+    "Reverend father"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের ঠাকুরমশাই সকলের কাছে খুব সম্মানিত।",
+    "ঠাকুরমশাইয়ের উপদেশ অনুসরণ করলে জীবন সফল হয়।"
+  ],
+  "example_sentences_in_english": [
+    "The village Thakur Mashai is highly respected by everyone.",
+    "Following the advice of Thakur Mashai leads to a successful life."
+  ],
+  "usage_domain": [
+    "religion",
+    "formal address",
+    "respect"
+  ],
+  "tags": [
+    "religious title",
+    "honorific",
+    "Brahmin reference"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term 'ঠাকুর' originates from Sanskrit 'Thakkura', used in Vaishnava traditions to denote divine figures or respected priests in Bengali Hindu society."
+  ],
+  "note": "Commonly used in rural and semi-urban Bengali contexts to address spiritual guides or priests with reverence."
+}

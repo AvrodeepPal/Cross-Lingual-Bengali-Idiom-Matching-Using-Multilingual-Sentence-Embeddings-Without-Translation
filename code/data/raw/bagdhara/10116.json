@@ -1,0 +1,42 @@
+{
+  "id": "10116",
+  "idiom": "হাতছাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত ছাড়া (হাত থেকে ছেড়ে দেওয়া বা হাতের বাইরে)",
+  "figurative_meaning_bn": "অধিকারচ্যুত, বেদখল, বেহাত; হস্তচ্যুত, হাতের বাইরে",
+  "figurative_meaning_en": "dispossessed of rights, evicted, lost; slipped from hand, out of control or reach",
+  "similar_in_english": [
+    "out of hand",
+    "slip through one's fingers",
+    "lose one's grip"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই চাকরিটি তার হাতছাড়া হয়ে গেল।",
+    "পুরনো বাড়িটি পরিবারের হাতছাড়া হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "That job opportunity slipped out of his hands.",
+    "The old house has been lost from the family's possession."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "legal and property matters",
+    "personal loss"
+  ],
+  "tags": [
+    "loss",
+    "possession",
+    "control",
+    "eviction"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The phrase may derive from the explanatory proverb 'হাত ছাড়ালে সতের হাত', suggesting a folk belief where releasing one's hold leads to loss, possibly rooted in agrarian or familial disputes in Bengali society."
+  ],
+  "note": "The idiom emphasizes the irreversibility of loss once something is released from one's grasp."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "9651",
+  "idiom": "সর্পে রজ্জুভ্রম",
+  "alternative_idioms": [],
+  "literal_meaning": "সাপকে রজ্জু (দড়ি) বলে ভুল করা",
+  "figurative_meaning_bn": "নিশ্চল সাপকে রজ্জু বলে ভুল করা; এক বস্তুকে ভুল করে অন্য বস্তু কল্পনা করা",
+  "figurative_meaning_en": "Mistaking a motionless snake for a rope; confusing or imagining one object as another due to error",
+  "similar_in_english": [
+    "Mistaking a rope for a snake",
+    "Seeing things that aren't there",
+    "Jumping at shadows"
+  ],
+  "example_sentences_in_bangla": [
+    "অন্ধকার ঘরে সে নিশ্চল সাপকে দড়ি ভেবে স্পর্শ করতে গিয়ে চমকে উঠল।",
+    "এই সর্পে রজ্জুভ্রমের মতো ভুল করে আমরা অনেক সময় ভয় পাই বাস্তবতা না বুঝে।"
+  ],
+  "example_sentences_in_english": [
+    "In the dim room, he mistook the motionless snake for a rope and touched it, only to jump back in fright.",
+    "Like mistaking a snake for a rope, we often fear illusions without understanding reality."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Philosophy"
+  ],
+  "tags": [
+    "illusion",
+    "mistake",
+    "perception error",
+    "fear"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from ancient Indian philosophical texts, particularly used in Advaita Vedanta to illustrate the concept of maya or illusion, where the rope-snake analogy (often reversed) explains mistaking the unreal for the real."
+  ],
+  "note": "The idiom is a variant of the classic 'rope-snake' illusion from Sanskrit literature, adapted in Bengali to emphasize perceptual error."
+}

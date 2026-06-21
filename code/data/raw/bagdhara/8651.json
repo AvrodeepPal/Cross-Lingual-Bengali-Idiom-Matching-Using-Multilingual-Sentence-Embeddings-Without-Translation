@@ -1,0 +1,39 @@
+{
+  "id": "8651",
+  "idiom": "মুখ নেই",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখ নেই (mouth is absent)",
+  "figurative_meaning_bn": "বাচন শক্তি",
+  "figurative_meaning_en": "power of speech or eloquence",
+  "similar_in_english": [
+    "gift of the gab",
+    "silver tongue"
+  ],
+  "example_sentences_in_bangla": [
+    "উকিলের মুখ নেই, তাই সে কখনো মামলা জিততে পারে না।",
+    "তার মুখ নেই, কথা বলতে গেলে হাঁটু গাড়ায়।"
+  ],
+  "example_sentences_in_english": [
+    "The lawyer has no mouth, so he can never win a case.",
+    "He has no eloquence; he stammers when he tries to speak."
+  ],
+  "usage_domain": [
+    "conversation",
+    "legal",
+    "public speaking"
+  ],
+  "tags": [
+    "speech",
+    "eloquence",
+    "persuasion",
+    "negative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Input idiom text appears garbled; interpreted as 'মুখ নেই' based on provided meaning and example."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "4984",
+  "idiom": "টেকসই",
+  "alternative_idioms": [
+    "টেঁকসই",
+    "টেকসহি"
+  ],
+  "literal_meaning": "যা টেকে বা সহ্য করে (স্থায়িত্বশীল)",
+  "figurative_meaning_bn": "ঠিক সয়ে যাবে; দীর্ঘস্থায়ী; পাকা; পোক্ত; মজবুত",
+  "figurative_meaning_en": "will hold up fine; long-lasting; solid; firm; strong",
+  "similar_in_english": [
+    "built to last",
+    "stands the test of time",
+    "durable as oak"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কাপড়ের শাড়িটি খুব টেকসই, বছরের পর বছর পরিধান করা যায়।",
+    "তার বন্ধুত্ব টেকসই, কখনো ভাঙবে না।"
+  ],
+  "example_sentences_in_english": [
+    "This saree is very durable; it can be worn for years.",
+    "Their friendship is solid; it will never break."
+  ],
+  "usage_domain": [
+    "everyday language",
+    "material description",
+    "relationships"
+  ],
+  "tags": [
+    "durability",
+    "strength",
+    "permanence",
+    "reliability"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an adjective commonly used in Bengali to describe endurance; spelling variations reflect dialectical differences."
+}

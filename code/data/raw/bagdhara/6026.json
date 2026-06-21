@@ -1,0 +1,40 @@
+{
+  "id": "6026",
+  "idiom": "ধরাশায়ী",
+  "alternative_idioms": [],
+  "literal_meaning": "ধরা (caught) + শায়ী (lying down); caught and laid flat",
+  "figurative_meaning_bn": "মাটিতে পতিত",
+  "figurative_meaning_en": "Fallen to the ground or brought low",
+  "similar_in_english": [
+    "Bite the dust",
+    "Hit the deck"
+  ],
+  "example_sentences_in_bangla": [
+    "গরুর গুঁতোয় সে ধরাশায়ী হয়ে গেল।",
+    "যুদ্ধে পরাজিত হয়ে তারা ধরাশায়ী হলো।"
+  ],
+  "example_sentences_in_english": [
+    "He was knocked down by the bull's horn.",
+    "They were brought low after the defeat in battle."
+  ],
+  "usage_domain": [
+    "Everyday language",
+    "Agriculture",
+    "Conflict"
+  ],
+  "tags": [
+    "rural life",
+    "defeat",
+    "physical fall"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Originates from rural incidents involving bulls goring people, common in traditional Bengali agrarian society."
+  ],
+  "note": "Often used metaphorically for defeat or downfall in various contexts."
+}

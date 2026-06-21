@@ -1,0 +1,40 @@
+{
+  "id": "8393",
+  "idiom": "মহাশয়",
+  "alternative_idioms": [],
+  "literal_meaning": "মহান ব্যক্তি বা মহাশয় (great person or sir)",
+  "figurative_meaning_bn": "বিদ্রুপে খারাপ, নীচ; হীন",
+  "figurative_meaning_en": "Sarcastically: bad, lowly; mean or despicable",
+  "similar_in_english": [
+    "His highness (used mockingly)",
+    "Big shot (sarcastically)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন মহাশয়, কিন্তু আসলে খুবই নীচচরিত্রের লোক।",
+    "আমাদের প্রতিবেশী মহাশয়টি সবসময় বড়াই করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real 'mahshoy', but actually a very lowly person.",
+    "Our neighbor is such a 'mahshoy', always boasting about nothing."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Sarcasm and irony"
+  ],
+  "tags": [
+    "sarcasm",
+    "derogatory",
+    "irony",
+    "social commentary"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Often used in Bengali literature and folklore to mock pretentious or insignificant individuals, with examples like the character Keshto in popular stories representing a lowly yet self-important figure."
+  ],
+  "note": "The term is frequently employed in sarcastic contexts in Bengali culture to deflate ego or highlight hypocrisy."
+}

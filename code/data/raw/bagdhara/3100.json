@@ -1,0 +1,38 @@
+{
+  "id": "3100",
+  "idiom": "গা নাড়া দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "শরীর নাড়ানো বা গতি দেওয়া",
+  "figurative_meaning_bn": "চলে ফিরে বেড়ানো",
+  "figurative_meaning_en": "to roam around or move about constantly",
+  "similar_in_english": [
+    "to stretch one's legs",
+    "to get out and about"
+  ],
+  "example_sentences_in_bangla": [
+    "সারাদিন বাড়িতে বসে থেকো না, একটু গা নাড়া দাও।",
+    "বুড়ো বয়সেও তিনি প্রতিদিন গা নাড়া দিয়ে সুস্থ থাকেন।"
+  ],
+  "example_sentences_in_english": [
+    "Don't sit at home all day; go out and move around a bit.",
+    "Even in old age, he stays healthy by moving about every day."
+  ],
+  "usage_domain": [
+    "daily life",
+    "health",
+    "routine activities"
+  ],
+  "tags": [
+    "movement",
+    "exercise",
+    "activity"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes the importance of physical activity in Bengali daily life to maintain health."
+}

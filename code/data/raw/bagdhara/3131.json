@@ -1,0 +1,39 @@
+{
+  "id": "3131",
+  "idiom": "গাড়ল",
+  "alternative_idioms": [],
+  "literal_meaning": "গাড়ল (একটি নির্দিষ্ট শব্দ যা মূর্খ বা অনুসারী বোঝায়)",
+  "figurative_meaning_bn": "অন্যের বা স্ত্রীর বুদ্ধিতে মুর্খের মত চলা ব্যক্তি",
+  "figurative_meaning_en": "A person who foolishly follows the advice or intelligence of others or his wife",
+  "similar_in_english": [
+    "henpecked husband",
+    "blind follower"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা গাড়ল, স্ত্রীর কথায় সবসময় চলে যায়।",
+    "অন্যের পরামর্শে গাড়লের মতো কাজ করিস না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real fool, always following his wife's advice blindly.",
+    "Don't act like a blind follower by taking others' suggestions without thinking."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "family dynamics",
+    "social commentary"
+  ],
+  "tags": [
+    "foolishness",
+    "dependency",
+    "marital relations",
+    "mockery"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom appears to be a colloquial or dialectal term, possibly from rural Bengali dialects, emphasizing blind obedience."
+}

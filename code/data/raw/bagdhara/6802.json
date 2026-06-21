@@ -1,0 +1,44 @@
+{
+  "id": "6802",
+  "idiom": "পাতিপাতি",
+  "alternative_idioms": [
+    "তন্নতন্ন",
+    "পুঙ্খানুপুঙ্খ",
+    "আতিপাঁতি"
+  ],
+  "literal_meaning": "পাতা-পাতা (পাতার মতো ছড়িয়ে-পড়া বা বিস্তারিতভাবে পরীক্ষা করা)",
+  "figurative_meaning_bn": "কোন কিছু বাদ না দিয়ে, চারিদিকে ব্যাপকভাবে, সবিস্তারে",
+  "figurative_meaning_en": "Without leaving anything out, extensively in all directions, in great detail",
+  "similar_in_english": [
+    "leave no stone unturned",
+    "search high and low",
+    "inch by inch"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ঘরটাকে পাতিপাতি খুঁজে দেখল কোনো কিছু হারিয়েছে কি না।",
+    "পরীক্ষার প্রস্তুতিতে পাতিপাতি পড়াশোনা করো।"
+  ],
+  "example_sentences_in_english": [
+    "He searched the room inch by inch to see if anything was missing.",
+    "Study the material thoroughly, leaving no stone unturned for the exam."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "investigation",
+    "preparation"
+  ],
+  "tags": [
+    "thoroughness",
+    "search",
+    "detail-oriented",
+    "reduplication"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses reduplication typical in Bengali for emphasis on completeness."
+}

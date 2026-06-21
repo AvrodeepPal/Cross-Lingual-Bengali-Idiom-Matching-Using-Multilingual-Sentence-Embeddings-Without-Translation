@@ -1,0 +1,39 @@
+{
+  "id": "10088",
+  "idiom": "হাত কচলানো",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত ঘষা বা কচলানো",
+  "figurative_meaning_bn": "অতি দীনভাবে মিনতি করা বা প্রার্থনা করা",
+  "figurative_meaning_en": "To beg or pray in a very humble or pitiable manner",
+  "similar_in_english": [
+    "Beg with folded hands",
+    "Plead desperately"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি হাত কচলাতে কচলাতে সাহায্যের জন্য অনুরোধ করলেন।",
+    "দরিদ্র বৃদ্ধ হাত কচলিয়ে দান চাইলেন।"
+  ],
+  "example_sentences_in_english": [
+    "He rubbed his hands together pleadingly for help.",
+    "The poor old man clasped his hands in supplication for alms."
+  ],
+  "usage_domain": [
+    "pleading",
+    "supplication",
+    "humble request"
+  ],
+  "tags": [
+    "idiom",
+    "humility",
+    "emotion",
+    "desperation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes traditional gestures of humility in Bengali culture."
+}

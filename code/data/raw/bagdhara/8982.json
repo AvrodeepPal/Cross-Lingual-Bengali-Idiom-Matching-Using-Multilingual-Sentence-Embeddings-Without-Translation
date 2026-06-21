@@ -1,0 +1,39 @@
+{
+  "id": "8982",
+  "idiom": "যেমন দান তেমন দক্ষিণা",
+  "alternative_idioms": [],
+  "literal_meaning": "যেমন দান তেমন দক্ষিণা (as the donation, so the dakshina/offering)",
+  "figurative_meaning_bn": "নিকৃষ্ট পারিশ্রমিকের পরিবর্তে তদনুরূপ আশা করা",
+  "figurative_meaning_en": "Expecting an equivalent poor return or reward for a substandard payment or offering",
+  "similar_in_english": [
+    "You get what you pay for",
+    "As you sow, so shall you reap"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কম টাকা দিয়ে ভালো কাজ আশা করছে, কিন্তু যেমন দান তেমন দক্ষিণা।",
+    "পুরোহিতকে অল্প দান দিলে যেমন দান তেমন দক্ষিণা পাবে।"
+  ],
+  "example_sentences_in_english": [
+    "He's expecting great work for a low fee, but as the donation, so the dakshina.",
+    "If you give a small offering to the priest, you'll get a matching reward in return."
+  ],
+  "usage_domain": [
+    "religion",
+    "work",
+    "finance"
+  ],
+  "tags": [
+    "expectation",
+    "quality",
+    "reward",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to Hindu ritual practices where 'dakshina' is an offering to priests, implying reciprocity in quality."
+}

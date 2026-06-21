@@ -1,0 +1,41 @@
+{
+  "id": "7824",
+  "idiom": "বৃদ্ধাঙ্গুষ্ঠ দেখানো",
+  "alternative_idioms": [],
+  "literal_meaning": "বৃদ্ধ বা বড় অঙ্গুষ্ঠ দেখানো (showing the thumb, often hidden behind the back)",
+  "figurative_meaning_bn": "ফাঁকি দেওয়া, প্রতারণা করা",
+  "figurative_meaning_en": "To cheat or deceive someone",
+  "similar_in_english": [
+    "Pull a fast one",
+    "Two-time someone",
+    "Double-cross"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ব্যবসায়ে আমাকে বৃদ্ধাঙ্গুষ্ঠ দেখিয়েছে।",
+    "বন্ধুরা মিলে তাকে বৃদ্ধাঙ্গুষ্ঠ দেখালো।"
+  ],
+  "example_sentences_in_english": [
+    "He showed me the thumb in that business deal, cheating me out of my share.",
+    "His friends pulled a fast one on him during the game."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "deception",
+    "everyday conversation"
+  ],
+  "tags": [
+    "প্রতারণা",
+    "ফাঁকি",
+    "হাতের ইশারা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই প্রবাদটি বাংলা সংস্কৃতিতে হাতের পিছনে অঙ্গুষ্ঠ লুকিয়ে দেখানোর ইশারা থেকে উদ্ভূত, যা লুকোচুরি বা ছল করে কাজ করার প্রতীক।"
+  ],
+  "note": "ইডিয়মটি প্রায়শই ব্যবসা বা খেলাধুলায় ব্যবহৃত হয়, যেখানে কেউ অন্যকে ধোঁকা দেয়।"
+}

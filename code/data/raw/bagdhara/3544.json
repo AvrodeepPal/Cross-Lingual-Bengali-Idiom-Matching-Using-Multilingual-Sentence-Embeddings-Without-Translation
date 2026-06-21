@@ -1,0 +1,39 @@
+{
+  "id": "3544",
+  "idiom": "ঘুঁটে পোড়ে গোবর হাসে",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘুঁটিতে আগুন লাগে, গোবর হাসে (The mortar burns, the cow dung laughs)",
+  "figurative_meaning_bn": "নিজের অবশম্ভাবী বিপদ সম্বন্ধে অজ্ঞতা",
+  "figurative_meaning_en": "Ignorance of one's own impending danger",
+  "similar_in_english": [
+    "Nero fiddles while Rome burns",
+    "Oblivious to the storm coming"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার চাকরি হারানোর আশঙ্কা না বুঝে উল্লাস করছে, ঘুঁটে পোড়ে গোবর হাসে।",
+    "বিপদের মুখে হাসতে থাকলে ঘুঁটে পোড়ে গোবর হাসে হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is celebrating without realizing he might lose his job, like the cow dung laughing while the mortar burns.",
+    "Laughing in the face of danger turns into the cow dung laughing while the mortar burns."
+  ],
+  "usage_domain": [
+    "proverbs",
+    "warnings",
+    "everyday conversation"
+  ],
+  "tags": [
+    "ignorance",
+    "danger",
+    "rural life",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom draws from traditional rural imagery involving household tools and animal waste, highlighting unawareness in agrarian contexts."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2236",
+  "idiom": "কুচুটে",
+  "alternative_idioms": [
+    "কুচুণ্ডে"
+  ],
+  "literal_meaning": "কুচু (ছোট বা কুঁজো) + টে (প্রকৃতির সূচক), অর্থাৎ ছোটখাটো বা কুঁজো প্রকৃতির",
+  "figurative_meaning_bn": "কুটিক প্রকৃতির, হিংশুটে",
+  "figurative_meaning_en": "Petty in nature, malicious or envious",
+  "similar_in_english": [
+    "small-minded",
+    "petty",
+    "spiteful"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কুচুটে মানুষ, সবসময় অন্যের সাফল্যে হিংসা করে।",
+    "এই কুচুটে আচরণে কেউ তার সঙ্গে মেশতে চায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a petty person, always envious of others' success.",
+    "No one wants to associate with such spiteful behavior."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "personality description"
+  ],
+  "tags": [
+    "negative trait",
+    "envy",
+    "malice"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali colloquialism for describing mean-spirited individuals."
+}

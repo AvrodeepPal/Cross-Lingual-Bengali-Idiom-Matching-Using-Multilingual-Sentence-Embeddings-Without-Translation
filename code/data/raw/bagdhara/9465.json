@@ -1,0 +1,41 @@
+{
+  "id": "9465",
+  "idiom": "শিয়রে সমান",
+  "alternative_idioms": [],
+  "literal_meaning": "শিয়রে (কবরের মাথার দিকে) সমান (সমতল বা সমান স্তরে)",
+  "figurative_meaning_bn": "মরণ ঘনিয়ে এসেছে; চরম চঙ্কট আসন্ন",
+  "figurative_meaning_en": "Death is approaching; extreme crisis is imminent",
+  "similar_in_english": [
+    "The end is near",
+    "Death is knocking at the door",
+    "One foot in the grave"
+  ],
+  "example_sentences_in_bangla": [
+    "তার অসুস্থতা এতটাই গুরুতর যে শিয়রে সমান হয়ে গেছে।",
+    "যুদ্ধের পরিস্থিতি শিয়রে সমান, যেকোনো মুহূর্তে ধ্বংস ঘটতে পারে।"
+  ],
+  "example_sentences_in_english": [
+    "His illness has become so severe that it's level with the head.",
+    "The war situation is level with the head; destruction could happen any moment."
+  ],
+  "usage_domain": [
+    "Health and illness",
+    "Crisis and danger"
+  ],
+  "tags": [
+    "death",
+    "imminent danger",
+    "grave",
+    "funeral"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from traditional Bengali burial practices where the grave is dug level with the head of the deceased, symbolizing the finality of death."
+  ],
+  "note": "The input text 'শিয়রে সমন' appears to be a minor transcription variant; standardized to 'শিয়রে সমান' for accuracy."
+}

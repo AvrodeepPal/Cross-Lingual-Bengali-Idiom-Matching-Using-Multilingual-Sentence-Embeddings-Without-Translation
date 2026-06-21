@@ -1,0 +1,40 @@
+{
+  "id": "9047",
+  "idiom": "রদ্দা দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কলার বা গলা চেপে ধরে দেওয়া",
+  "figurative_meaning_bn": "গলাধাক্কা দেওয়া",
+  "figurative_meaning_en": "to grab by the throat or throttle",
+  "similar_in_english": [
+    "grab by the collar",
+    "throttle someone"
+  ],
+  "example_sentences_in_bangla": [
+    "যখন সে রাগে ফুঁসছিল, তখন প্রায় রদ্দা দিয়ে ধরতে যাচ্ছিল।",
+    "ঝগড়ায় একজন অন্যজনকে রদ্দা দিয়ে বলল, 'আর সহ্য করব না!'"
+  ],
+  "example_sentences_in_english": [
+    "When he was fuming with anger, he almost grabbed him by the collar.",
+    "In the argument, one throttled the other and said, 'I can't take it anymore!'"
+  ],
+  "usage_domain": [
+    "conflict",
+    "anger",
+    "physical confrontation"
+  ],
+  "tags": [
+    "violence",
+    "hindi-origin",
+    "colloquial"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from Hindi 'rad'da dena', meaning to seize by the collar, and has been adopted in Bengali colloquial speech to denote aggressive physical restraint."
+  ],
+  "note": "Primarily a borrowed expression from Hindi, used in Bengali contexts for intense confrontations."
+}

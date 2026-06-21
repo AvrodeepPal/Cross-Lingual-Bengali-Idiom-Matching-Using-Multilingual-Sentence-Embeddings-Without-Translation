@@ -1,0 +1,40 @@
+{
+  "id": "8811",
+  "idiom": "মুখোমুখি",
+  "alternative_idioms": [
+    "সামনাসামনি"
+  ],
+  "literal_meaning": "মুখের সাথে মুখ (face to face)",
+  "figurative_meaning_bn": "পরস্পর সম্মুখীন; সমক্ষে",
+  "figurative_meaning_en": "directly facing each other; in the presence of",
+  "similar_in_english": [
+    "face to face",
+    "head-on"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা মুখোমুখি হয়ে তর্ক করল।",
+    "মুখোমুখি বৈঠকটি সফল হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "They argued face to face.",
+    "The face-to-face meeting was successful."
+  ],
+  "usage_domain": [
+    "conversation",
+    "confrontation",
+    "meetings"
+  ],
+  "tags": [
+    "direct",
+    "personal",
+    "encounter"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Common idiom derived from literal facial opposition, widely used in modern Bengali speech."
+}

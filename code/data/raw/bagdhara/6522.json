@@ -1,0 +1,41 @@
+{
+  "id": "6522",
+  "idiom": "পক্ষাঘাত",
+  "alternative_idioms": [],
+  "literal_meaning": "পক্ষে আঘাত (এক পাশে আঘাত)",
+  "figurative_meaning_bn": "একপার্শ্বের অঙ্গ অবশ হয়ে পড়ে এমন ব্যাধিবিশেষ",
+  "figurative_meaning_en": "A specific disease where the limbs on one side of the body become paralyzed or numb",
+  "similar_in_english": [
+    "hemiplegia",
+    "stroke",
+    "paralysis"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বয়স্ক অবস্থায় পক্ষাঘাত হয়েছে, এখন তিনি চলাফেরা করতে পারেন না।",
+    "ভয়ে সে পক্ষাঘাতের মতো অবশ হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He suffered a stroke in his old age and can no longer walk properly.",
+    "He was paralyzed with fear, like having a stroke."
+  ],
+  "usage_domain": [
+    "health",
+    "medicine",
+    "figurative expression"
+  ],
+  "tags": [
+    "ব্যাধি",
+    "অবশ",
+    "আঘাত",
+    "disease",
+    "paralysis"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "প্রধানত চিকিৎসা পরিভাষা, কিন্তু ভাবগত অর্থে বিস্ময় বা ভয়ে অচল হয়ে যাওয়ার জন্য ব্যবহৃত হয়।"
+}

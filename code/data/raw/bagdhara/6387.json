@@ -1,0 +1,40 @@
+{
+  "id": "6387",
+  "idiom": "নাম লেখানো",
+  "alternative_idioms": [],
+  "literal_meaning": "নাম লিখে রেজিস্ট্রি করা (name writing or registration)",
+  "figurative_meaning_bn": "দলভুক্ত হওয়া; মূলতঃ দুস্কৃতির দলে যোগদান",
+  "figurative_meaning_en": "To join a group or party; primarily to enlist in a gang of wrongdoers",
+  "similar_in_english": [
+    "Join the ranks",
+    "Sign up for trouble",
+    "Throw in one's lot with the bad crowd"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খারাপ লোকদের দলে নাম লেখালো।",
+    "রাজনৈতিক দলে নাম লেখানোর পর তার জীবন বদলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He signed up with the bad crowd.",
+    "After joining the political party, his life changed completely."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Crime",
+    "Social groups"
+  ],
+  "tags": [
+    "negative",
+    "group affiliation",
+    "misconduct",
+    "enlistment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts implying negative associations, reflecting Bengali societal views on group dynamics."
+}

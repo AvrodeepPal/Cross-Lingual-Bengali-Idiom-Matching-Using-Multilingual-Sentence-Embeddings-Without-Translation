@@ -1,0 +1,40 @@
+{
+  "id": "1754",
+  "idiom": "কাঁচা টাকা",
+  "alternative_idioms": [
+    "কাঁচা পয়সা"
+  ],
+  "literal_meaning": "কাঁচা (raw/uncooked) টাকা (money)",
+  "figurative_meaning_bn": "হিসাব-বহির্ভূত পয়সা",
+  "figurative_meaning_en": "Unaccounted or black money",
+  "similar_in_english": [
+    "Black money",
+    "Under-the-table cash"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ব্যবসায় অনেক কাঁচা টাকা জমা হয়েছে।",
+    "সরকার কাঁচা টাকা রোধ করার জন্য নতুন নিয়ম চালু করেছে।"
+  ],
+  "example_sentences_in_english": [
+    "A lot of black money has accumulated in his business.",
+    "The government has introduced new rules to curb unaccounted cash."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Corruption",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "Money",
+    "Informal",
+    "Economic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to money not declared in official accounts, often implying illicit gains in Bengali socio-economic contexts."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6835",
+  "idiom": "পায়ে ধরা",
+  "alternative_idioms": [],
+  "literal_meaning": "পায়ে ধরা (feet holding or catching by the feet)",
+  "figurative_meaning_bn": "অনুনয় বিনয় করা",
+  "figurative_meaning_en": "To plead or beg humbly",
+  "similar_in_english": [
+    "Fall at someone's feet",
+    "Beg on bended knees"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ভুলের জন্য পায়ে ধরে ক্ষমা চাইল।",
+    "মা পায়ে ধরে ছেলেকে পড়াশোনা করতে বললেন।"
+  ],
+  "example_sentences_in_english": [
+    "He fell at her feet begging for forgiveness for his mistake.",
+    "The mother pleaded at her son's feet to study hard."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Literature",
+    "Emotional appeals"
+  ],
+  "tags": [
+    "Humility",
+    "Supplication",
+    "Pleading"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References the Radha-Krishna legend in Rabindranath Tagore's works, where Radha does not yield despite pleas at her feet, drawing from Vaishnava devotional traditions."
+  ],
+  "note": "Often used in contexts of deep humility or desperation, rooted in cultural gestures of respect and devotion."
+}

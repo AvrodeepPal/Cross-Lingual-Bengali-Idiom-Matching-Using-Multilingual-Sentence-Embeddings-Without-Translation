@@ -1,0 +1,39 @@
+{
+  "id": "72",
+  "idiom": "অগ্রদানী",
+  "alternative_idioms": [],
+  "literal_meaning": "প্রথম দান গ্রহণকারী",
+  "figurative_meaning_bn": "হিন্দুদের শ্রাদ্ধে প্রেতের উদ্দেশ্যে প্রদত্ত তিলদান গ্রহণকারী পতিতব্রাহ্মণ",
+  "figurative_meaning_en": "A fallen Brahmin who accepts the sesame seed offering given for the spirit in Hindu shraddha rituals",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "সমাজে তার অবস্থান এখন অগ্রদানীর মতো হয়েছে।",
+    "পুরোহিতের পরিবার থেকে বিতাড়িত হয়ে সে অগ্রদানী হয়ে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "His position in society has now become like that of an agradani.",
+    "Expelled from the priestly family, he became an agradani."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Social Status",
+    "Hindu Rituals"
+  ],
+  "tags": [
+    "ব্রাহ্মণ",
+    "শ্রাদ্ধ",
+    "পতিত",
+    "তিলদান",
+    "প্রেত"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই শব্দটি হিন্দু শ্রাদ্ধ অনুষ্ঠানের ঐতিহ্য থেকে উদ্ভূত, যেখানে প্রথম তিলদান প্রেতের জন্য এবং তা শুধুমাত্র পতিত ব্রাহ্মণ গ্রহণ করতেন।"
+  ],
+  "note": "এটি একটি নির্দিষ্ট সামাজিক-ধর্মীয় পরিভাষা, সাধারণ উক্তি নয়।"
+}

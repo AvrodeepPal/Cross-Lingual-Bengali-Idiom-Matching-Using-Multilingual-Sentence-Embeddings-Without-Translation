@@ -1,0 +1,39 @@
+{
+  "id": "7986",
+  "idiom": "ভাইয়ের ভাত ভাজের হাত",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাইয়ের ভাত, ভাজের হাত (brother's rice, sister-in-law's hand)",
+  "figurative_meaning_bn": "যে বোন ভাইয়ের অন্ন খায় সে ভাই-বৌয়ের কর্তৃত্ব মেনে নেয়",
+  "figurative_meaning_en": "A sister who eats her brother's food accepts the authority of her brother's wife",
+  "similar_in_english": [
+    "He who pays the piper calls the tune",
+    "Whose bread one eats, their command one obeys"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ভাইয়ের ভাত খায় বলে ভাজের কথা সব মেনে নেয়।",
+    "গ্রামে এই ধরনের পরিবারে ভাইয়ের ভাত ভাজের হাতের নিয়ম চলে।"
+  ],
+  "example_sentences_in_english": [
+    "She obeys her sister-in-law in everything because she eats her brother's rice.",
+    "In such families, the rule of 'brother's rice, sister-in-law's hand' prevails."
+  ],
+  "usage_domain": [
+    "family dynamics",
+    "household relationships",
+    "gender roles"
+  ],
+  "tags": [
+    "obedience",
+    "joint family",
+    "traditional norms",
+    "sibling relations"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reflects traditional Bengali joint family structures where unmarried sisters depend on brothers and thus defer to sisters-in-law."
+}

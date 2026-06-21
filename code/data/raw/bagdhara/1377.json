@@ -1,0 +1,44 @@
+{
+  "id": "1377",
+  "idiom": "কড়ি গোনা",
+  "alternative_idioms": [
+    "কড়িকাঠ গোনা"
+  ],
+  "literal_meaning": "কড়ি (শামুকের খোসা বা পুরনো মুদ্রা) গোনা; অর্থাৎ শামুকের খোসা গোনা",
+  "figurative_meaning_bn": "অকাজে সময় নষ্ট করা; অলসে সময় কাটানো; কর্মহীন অবসর যাপন করা; নিষ্কর্মা হয়ে বসে থাকা",
+  "figurative_meaning_en": "Wasting time on unproductive activities; spending time in laziness; passing idle time without work; sitting around doing nothing",
+  "similar_in_english": [
+    "Twiddling one's thumbs",
+    "Killing time",
+    "Marking time"
+  ],
+  "example_sentences_in_bangla": [
+    "সে চাকরি না করে সারাদিন বাড়িতে বসে কড়ি গোনা করে।",
+    "এই অবস্থায় কড়ি গোনার চেয়ে কিছু করাই ভালো।"
+  ],
+  "example_sentences_in_english": [
+    "He sits at home all day counting cowries instead of working.",
+    "In this situation, it's better to do something than just twiddle thumbs."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Proverbial expressions"
+  ],
+  "tags": [
+    "Idleness",
+    "Laziness",
+    "Time-wasting",
+    "Inactivity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom is referenced in the works of Abanindranath Tagore, a prominent Bengali artist and writer from the early 20th century, highlighting its use in literary contexts to depict idle rural life."
+  ],
+  "note": "The idiom draws from traditional use of cowrie shells as currency or counting tools in rural Bengal, symbolizing pointless activity."
+}

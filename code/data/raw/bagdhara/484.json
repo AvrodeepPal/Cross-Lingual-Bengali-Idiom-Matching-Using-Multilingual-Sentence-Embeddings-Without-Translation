@@ -1,0 +1,42 @@
+{
+  "id": "484",
+  "idiom": "আণ্ডাবাচ্চা",
+  "alternative_idioms": [
+    "ছানাপোনা"
+  ],
+  "literal_meaning": "আণ্ডা (egg) থেকে জন্ম নেওয়া বাচ্চা (children), যেমন ছানা",
+  "figurative_meaning_bn": "ছোটছোট শিশুসন্তান, ক্রোড়স্থ সন্তান",
+  "figurative_meaning_en": "Very young children or infants in one's lap",
+  "similar_in_english": [
+    "little ones",
+    "babe in arms",
+    "small fry"
+  ],
+  "example_sentences_in_bangla": [
+    "তার আণ্ডাবাচ্চাদের দেখাশোনা করা তার প্রধান দায়িত্ব।",
+    "গ্রামের মায়েরা তাদের আণ্ডাবাচ্চাদের নিয়ে খুব যত্নশীল হয়।"
+  ],
+  "example_sentences_in_english": [
+    "Taking care of her little ones is her primary responsibility.",
+    "Village mothers are very careful with their little ones."
+  ],
+  "usage_domain": [
+    "family",
+    "parenting",
+    "childcare"
+  ],
+  "tags": [
+    "children",
+    "affection",
+    "infants",
+    "family life"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from imagery of baby birds hatching from eggs, symbolizing vulnerability and tenderness in Bengali familial contexts."
+}

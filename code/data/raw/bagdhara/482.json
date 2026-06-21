@@ -1,0 +1,39 @@
+{
+  "id": "482",
+  "idiom": "আড়েহাতে লওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বামহাতে নেওয়া (সূক্ষ্ম বা লুকিয়ে নেওয়া)",
+  "figurative_meaning_bn": "প্রতিশোধ নেওয়া; ভীষণ শত্রুতা করা",
+  "figurative_meaning_en": "To take revenge; to harbor intense enmity",
+  "similar_in_english": [
+    "Get even",
+    "Settle a score",
+    "Pay back in kind"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বিরোধীর প্রতি আড়েহাতে লওয়া করেছে।",
+    "এই ঘটনার পর তার মনে আড়েহাতে লওয়ার ইচ্ছে জাগল।"
+  ],
+  "example_sentences_in_english": [
+    "He took revenge on his rival stealthily.",
+    "After the incident, a desire for intense enmity arose in his mind."
+  ],
+  "usage_domain": [
+    "Conflict",
+    "Revenge",
+    "Emotions"
+  ],
+  "tags": [
+    "শত্রুতা",
+    "প্রতিশোধ",
+    "বিরোধ"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই বাগধারা বাংলা লোকসংস্কৃতিতে প্রচলিত, যা লুকিয়ে প্রতিশোধের ধারণা প্রকাশ করে।"
+}

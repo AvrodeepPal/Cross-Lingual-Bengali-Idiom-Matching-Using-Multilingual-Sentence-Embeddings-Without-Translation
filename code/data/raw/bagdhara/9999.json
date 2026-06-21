@@ -1,0 +1,37 @@
+{
+  "id": "9999",
+  "idiom": "হাঁ মুখ",
+  "alternative_idioms": [],
+  "literal_meaning": "open mouth",
+  "figurative_meaning_bn": "অসতর্ক অবস্থা",
+  "figurative_meaning_en": "state of carelessness or being off guard",
+  "similar_in_english": [
+    "with one's guard down",
+    "mouth agape"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হাঁ মুখ করে রাস্তা পার হচ্ছে, বিপদ হতে পারে।",
+    "কাজ করার সময় হাঁ মুখ করো না, মনোযোগ দাও।"
+  ],
+  "example_sentences_in_english": [
+    "He is crossing the road with an open mouth; it could be dangerous.",
+    "Don't be careless at work, stay focused."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "warnings and advice"
+  ],
+  "tags": [
+    "carelessness",
+    "alertness",
+    "vulnerability"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes imagery of someone so inattentive that their mouth is literally or figuratively open, common in Bengali folklore for describing naivety."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "885",
+  "idiom": "এঁটিলি",
+  "alternative_idioms": [
+    "এঁটুলি",
+    "এঁটুলিপোকা"
+  ],
+  "literal_meaning": "পশুর গায়ে এঁটে থাকা ক্ষুদ্র কীট",
+  "figurative_meaning_bn": "গরু কুকুর প্রভৃতি পশুর গায়ে এঁটে থাকা রক্ত শোষণ করে এমন ক্ষুদ্র চর্মকীটবিশেষ",
+  "figurative_meaning_en": "A small skin parasite that attaches to the bodies of animals like cows and dogs and sucks their blood",
+  "similar_in_english": [
+    "bloodsucker",
+    "leech",
+    "tick"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা এঁটিলির মতো, সবসময় অন্যের উপর চেপে রক্ত চোষে।",
+    "গরুর গায়ে এঁটিলি দেখলে তাড়াতাড়ি সরিয়ে ফেলো।"
+  ],
+  "example_sentences_in_english": [
+    "He is like a tick, always clinging to others and draining them.",
+    "Remove the louse from the cow's body quickly."
+  ],
+  "usage_domain": [
+    "figurative language",
+    "zoology",
+    "insult"
+  ],
+  "tags": [
+    "parasite",
+    "insect",
+    "animal",
+    "rural life"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Referenced in Jibanananda Das's literature as 'চুলের এঁটিলি মেরে'."
+  ],
+  "note": "Primarily a literal term for a parasite insect, used figuratively to describe clingy or exploitative people."
+}

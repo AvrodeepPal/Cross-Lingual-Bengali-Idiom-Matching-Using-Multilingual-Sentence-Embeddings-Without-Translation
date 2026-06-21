@@ -1,0 +1,38 @@
+{
+  "id": "8429",
+  "idiom": "মাটি খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "মাটি খাওয়া (soil/dirt eating)",
+  "figurative_meaning_bn": "অনুচিত কাজ করা; পরে অনুতাপ করতে হবে এমন কাজ করা",
+  "figurative_meaning_en": "To do something inappropriate; to engage in an action that will lead to later regret",
+  "similar_in_english": [
+    "to eat humble pie",
+    "to bite the dust"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অন্যায় কাজ করে মাটি খেয়েছে এখন অনুতাপ করছে।",
+    "এমন সিদ্ধান্ত নিলে তুমি মাটি খাবে পরে।"
+  ],
+  "example_sentences_in_english": [
+    "He did something wrong and now he's eating dirt, full of regret.",
+    "If you make that decision, you'll eat dirt later and regret it."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "moral advice"
+  ],
+  "tags": [
+    "regret",
+    "mistake",
+    "consequence",
+    "warning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes imagery of humiliation or punishment, common in Bengali oral traditions."
+}

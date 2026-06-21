@@ -1,0 +1,40 @@
+{
+  "id": "1398",
+  "idiom": "কণ্ঠিধারী",
+  "alternative_idioms": [],
+  "literal_meaning": "গলায় ধারণকারী (neck-wearer)",
+  "figurative_meaning_bn": "ধর্মনিষ্ঠ, বৈষ্ণব",
+  "figurative_meaning_en": "Pious, Vaishnava devotee",
+  "similar_in_english": [
+    "devout believer",
+    "man of faith"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি একজন কণ্ঠিধারী ব্যক্তি, যিনি সর্বদা ভক্তির পথে থাকেন।",
+    "গ্রামের মন্দিরে কণ্ঠিধারী সাধুরা প্রার্থনা করছেন।"
+  ],
+  "example_sentences_in_english": [
+    "He is a Kanthidhari person, always walking the path of devotion.",
+    "The Kanthidhari saints in the village temple are praying."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Spirituality"
+  ],
+  "tags": [
+    "Vaishnavism",
+    "Piety",
+    "Devotion",
+    "Hinduism"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to Vaishnava devotees who wear tulsi necklaces (kanthi) as a symbol of devotion to Lord Vishnu, a practice rooted in Bhakti traditions popularized by figures like Chaitanya Mahaprabhu in Bengal."
+  ],
+  "note": "Commonly used in contexts describing religious piety in Bengali Vaishnava culture."
+}

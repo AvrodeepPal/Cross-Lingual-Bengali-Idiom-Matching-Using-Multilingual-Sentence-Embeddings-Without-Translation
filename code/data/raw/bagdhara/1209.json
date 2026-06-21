@@ -1,0 +1,41 @@
+{
+  "id": "1209",
+  "idiom": "এফিডেভিট",
+  "alternative_idioms": [
+    "এপিডেবিট"
+  ],
+  "literal_meaning": "এফিডেভিট (ইংরেজি শব্দ affidavit-এর বাংলা উচ্চারণভিত্তিক রূপ)",
+  "figurative_meaning_bn": "অঙ্গীকারের ভিত্তিতে তৈরি শপথপত্র",
+  "figurative_meaning_en": "A sworn statement or affidavit made on the basis of an oath",
+  "similar_in_english": [
+    "affidavit",
+    "sworn statement"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি আদালতে এফিডেভিট দিয়ে তার সত্যতা প্রমাণ করলেন।",
+    "পুলিশ তদন্তে এফিডেভিটের ভূমিকা গুরুত্বপূর্ণ।"
+  ],
+  "example_sentences_in_english": [
+    "He proved his truthfulness in court by submitting an affidavit.",
+    "Affidavits play a crucial role in police investigations."
+  ],
+  "usage_domain": [
+    "legal",
+    "formal documentation",
+    "judicial proceedings"
+  ],
+  "tags": [
+    "শপথপত্র",
+    "হলফনামা",
+    "আইনি দলিল",
+    "অঙ্গীকার"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "এটি ঐতিহ্যবাহী বাংলা বাগধারা নয়, বরং ইংরেজি আইনি শব্দ 'affidavit'-এর বাংলা ফোনেটিক রূপ, যা বাংলা আইনি প্রসঙ্গে ব্যবহৃত হয়।"
+}

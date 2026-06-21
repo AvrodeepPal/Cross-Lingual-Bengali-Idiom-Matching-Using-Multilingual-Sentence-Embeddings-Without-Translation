@@ -1,0 +1,41 @@
+{
+  "id": "5489",
+  "idiom": "তেজারতি",
+  "alternative_idioms": [],
+  "literal_meaning": "তেজা (সুদ বা উচ্চ সুদ) এর রতি (ব্যবসা বা লেনদেন)",
+  "figurative_meaning_bn": "সুদের বিনিময়ে টাকা ধার দেওয়ার কাজ",
+  "figurative_meaning_en": "The business of lending money in exchange for interest",
+  "similar_in_english": [
+    "usury",
+    "moneylending"
+  ],
+  "example_sentences_in_bangla": [
+    "তেজারতি করে সে অনেক সম্পদ অর্জন করেছে।",
+    "গ্রামের মহাজন তেজারতির মাধ্যমে জীবিকা নির্বাহ করতেন।"
+  ],
+  "example_sentences_in_english": [
+    "He amassed a fortune through moneylending at interest.",
+    "The village moneylender sustained his livelihood via usury."
+  ],
+  "usage_domain": [
+    "finance",
+    "business",
+    "economy"
+  ],
+  "tags": [
+    "সুদ",
+    "ঋণদান",
+    "মহাজন",
+    "বাণিজ্য"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom reflects traditional moneylending practices by mahajans in rural Bengal during pre-colonial and colonial eras."
+  ],
+  "note": "The term carries a connotation of exploitative lending in cultural contexts."
+}

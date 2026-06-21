@@ -1,0 +1,40 @@
+{
+  "id": "9300",
+  "idiom": "লেখ-রে-লেখ",
+  "alternative_idioms": [
+    "লিখ-রে-লিখ"
+  ],
+  "literal_meaning": "লেখো-লেখো-লেখ (বারবার লেখার নির্দেশ দেওয়া)",
+  "figurative_meaning_bn": "ছাত্র বা সন্তানাদির শিক্ষার প্রকৃত যত্ন না নিয়ে দায়সারাগোছের বা মৌখিক তত্ত্বাবধান বা শাসন করা",
+  "figurative_meaning_en": "Neglecting the genuine care for students' or children's education and merely providing superficial or verbal supervision or reprimand",
+  "similar_in_english": [
+    "Going through the motions",
+    "Paying lip service to education"
+  ],
+  "example_sentences_in_bangla": [
+    "স্কুলে শিক্ষকরা শুধু লেখ-রে-লেখ বলে সময় কাটান, কিন্তু কোনো সত্যিকারের শিক্ষা দেন না।",
+    "বাবা ছেলের পড়াশোনার লেখ-রে-লেখ করে থাকেন, কিন্তু সাহায্য করেন না।"
+  ],
+  "example_sentences_in_english": [
+    "The teachers in school just keep saying 'write-write-write' to pass the time, but provide no real education.",
+    "The father does the 'write-write-write' routine for his son's studies but offers no actual help."
+  ],
+  "usage_domain": [
+    "Education",
+    "Parenting"
+  ],
+  "tags": [
+    "negligence",
+    "superficiality",
+    "teaching",
+    "discipline"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali classroom dynamics where rote learning is emphasized over understanding."
+}

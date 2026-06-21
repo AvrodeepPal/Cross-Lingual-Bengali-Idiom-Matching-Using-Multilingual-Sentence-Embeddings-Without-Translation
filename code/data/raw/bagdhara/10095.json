@@ -1,0 +1,34 @@
+{
+  "id": "10095",
+  "idiom": "হাতকাটা",
+  "alternative_idioms": [],
+  "literal_meaning": "কাটা হাত (cut hand)",
+  "figurative_meaning_bn": "হাত কাটা গেছে এমন; ছিন্নহস্ত",
+  "figurative_meaning_en": "a person with a severed or amputated hand",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "সে রাস্তায় একজন হাতকাটা ভিখারি হিসেবে বসে থাকে।",
+    "যুদ্ধে আহত হয়ে সে হাতকাটা হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "He sits on the street as a one-handed beggar.",
+    "Injured in the war, he became an amputee."
+  ],
+  "usage_domain": [
+    "description",
+    "disability"
+  ],
+  "tags": [
+    "শারীরিক অক্ষমতা",
+    "হাত",
+    "ভিখারি"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি প্রায়শই ভিখারি বা শারীরিকভাবে অক্ষম ব্যক্তিকে বর্ণনা করতে ব্যবহৃত হয় বাংলা সাহিত্যে।"
+}

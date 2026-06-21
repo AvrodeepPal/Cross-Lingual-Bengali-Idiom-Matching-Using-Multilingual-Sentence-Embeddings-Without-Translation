@@ -1,0 +1,40 @@
+{
+  "id": "8805",
+  "idiom": "মুখের কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখের কথা (শাব্দিক অর্থ: মুখ থেকে উচ্চারিত কথা)",
+  "figurative_meaning_bn": "কথামাত্র সার; কাজের কথা নয়",
+  "figurative_meaning_en": "Mere words without action; empty talk",
+  "similar_in_english": [
+    "All talk and no action",
+    "Talk is cheap",
+    "Empty words"
+  ],
+  "example_sentences_in_bangla": [
+    "তার প্রতিশ্রুতি শুধু মুখের কথা, কোনো কাজ হয় না।",
+    "মুখের কথায় বিশ্বাস করো না, কাজ দেখো।"
+  ],
+  "example_sentences_in_english": [
+    "His promises are just empty words, nothing ever gets done.",
+    "Don't believe in mere talk; look for actions instead."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism of inaction",
+    "Advice on reliability"
+  ],
+  "tags": [
+    "inaction",
+    "promises",
+    "deception",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes the Bengali cultural value of deeds over words, common in oral traditions."
+}

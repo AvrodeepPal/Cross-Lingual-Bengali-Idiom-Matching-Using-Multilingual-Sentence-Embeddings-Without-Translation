@@ -1,0 +1,37 @@
+{
+  "id": "4909",
+  "idiom": "টান ওঠা",
+  "alternative_idioms": [],
+  "literal_meaning": "টান উঠা (pull or tension rising)",
+  "figurative_meaning_bn": "হাঁপানি",
+  "figurative_meaning_en": "asthma or shortness of breath",
+  "similar_in_english": [
+    "having an asthma attack",
+    "short of breath"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ সকালে তার টান উঠেছে, তাই সে কাজ করতে পারেনি।",
+    "শীতের সময় টান ওঠা সাধারণ ব্যাপার।"
+  ],
+  "example_sentences_in_english": [
+    "This morning he had an asthma attack, so he couldn't work.",
+    "Having shortness of breath is common in winter."
+  ],
+  "usage_domain": [
+    "health",
+    "medical"
+  ],
+  "tags": [
+    "illness",
+    "breathing",
+    "asthma"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in everyday Bengali speech to describe sudden onset of breathing difficulty."
+}

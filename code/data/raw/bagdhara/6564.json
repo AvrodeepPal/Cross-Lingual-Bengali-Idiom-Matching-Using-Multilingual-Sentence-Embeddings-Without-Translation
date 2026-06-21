@@ -1,0 +1,38 @@
+{
+  "id": "6564",
+  "idiom": "পত্রপাঠ",
+  "alternative_idioms": [],
+  "literal_meaning": "পত্র পাঠানো (sending a letter)",
+  "figurative_meaning_bn": "তৎক্ষণাৎ/সঙ্গে সঙ্গে",
+  "figurative_meaning_en": "immediately/right away",
+  "similar_in_english": [
+    "on the spot",
+    "without delay",
+    "at once"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কথা শুনে পত্রপাঠ বিদায় নিল।",
+    "বৃষ্টি দেখে আমরা পত্রপাঠ বাড়ি ফিরলাম।"
+  ],
+  "example_sentences_in_english": [
+    "Upon hearing that, he took his leave immediately.",
+    "Seeing the rain, we headed home right away."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "farewells"
+  ],
+  "tags": [
+    "time-related",
+    "immediate action",
+    "departure"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of quick departure, evoking the speed of dispatching a letter in older communication practices."
+}

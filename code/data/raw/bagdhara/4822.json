@@ -1,0 +1,38 @@
+{
+  "id": "4822",
+  "idiom": "ঝিঁকে মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "বাঁকা হয়ে আঘাত করা",
+  "figurative_meaning_bn": "হেঁচকে হেঁচকে চলা",
+  "figurative_meaning_en": "to walk unsteadily or staggering from side to side",
+  "similar_in_english": [
+    "to stagger along",
+    "to reel"
+  ],
+  "example_sentences_in_bangla": [
+    "সে মদ খেয়ে রাস্তায় ঝিঁকে মারা চলছে।",
+    "বুড়ো মানুষটি বয়সের কারণে ঝিঁকে মারা হাঁটছে।"
+  ],
+  "example_sentences_in_english": [
+    "He is staggering along the street after drinking alcohol.",
+    "The old man is walking unsteadily due to his age."
+  ],
+  "usage_domain": [
+    "colloquial speech",
+    "describing physical state"
+  ],
+  "tags": [
+    "movement",
+    "intoxication",
+    "weakness",
+    "daily life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies drunkenness or physical infirmity in everyday Bengali conversation."
+}

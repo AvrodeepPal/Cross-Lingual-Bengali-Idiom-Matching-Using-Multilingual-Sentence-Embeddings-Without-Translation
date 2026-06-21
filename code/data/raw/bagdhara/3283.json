@@ -1,0 +1,42 @@
+{
+  "id": "3283",
+  "idiom": "গেঁড়া মারা",
+  "alternative_idioms": [
+    "গাঁট কাটা",
+    "পকেট মারা"
+  ],
+  "literal_meaning": "গেঁড়া (গাঁট বা জট) মারা (আঘাত করা বা বাঁধা)",
+  "figurative_meaning_bn": "আত্মসাৎ করা",
+  "figurative_meaning_en": "to spend or squander money lavishly",
+  "similar_in_english": [
+    "burn a hole in one's pocket",
+    "break the bank"
+  ],
+  "example_sentences_in_bangla": [
+    "নতুন গাড়ি কিনে তার সঞ্চয়ের টাকা গেঁড়া মেরে দিয়েছে।",
+    "বাজারে ঘুরতে ঘুরতে অনেক অর্থ গেঁড়া মেরেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Buying the new car burned a hole in his savings.",
+    "She squandered a lot of money while shopping around."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily life",
+    "commerce"
+  ],
+  "tags": [
+    "money",
+    "spending",
+    "waste",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to extravagant spending, often implying regret over loss of money."
+}

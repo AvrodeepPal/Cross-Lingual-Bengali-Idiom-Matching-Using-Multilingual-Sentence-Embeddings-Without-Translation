@@ -1,0 +1,40 @@
+{
+  "id": "7860",
+  "idiom": "বেতো",
+  "alternative_idioms": [],
+  "literal_meaning": "বেঁটে বা ল্যাজগামের মতো কাঁচা বাঁশের ডাঁটা (কিন্তু প্রসঙ্গে বাতরোগগ্রস্ত ঘোড়া)",
+  "figurative_meaning_bn": "বাতরোগগ্রস্ত",
+  "figurative_meaning_en": "afflicted with rheumatism or arthritis",
+  "similar_in_english": [
+    "lame duck",
+    "rickety old thing"
+  ],
+  "example_sentences_in_bangla": [
+    "আজকাল তার শরীরটা বেতো হয়ে গেছে, হাঁটতে কষ্ট হয়।",
+    "ও বুড়ো লোকটা বেতো, কাজে লাগবে না।"
+  ],
+  "example_sentences_in_english": [
+    "These days his body has become rickety; he has trouble walking.",
+    "That old man is lame; he won't be of any use for work."
+  ],
+  "usage_domain": [
+    "health",
+    "physical description",
+    "colloquial insult"
+  ],
+  "tags": [
+    "বাগধারা",
+    "শারীরিক অক্ষমতা",
+    "নেতিবাচক"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "এই বাগধারা গ্রামীণ বাংলার ঘোড়া-সংস্কৃতি থেকে উদ্ভূত, যেখানে বাতরোগে আক্রান্ত ঘোড়া কাজে অক্ষম হয়ে পড়ত।"
+  ],
+  "note": "প্রায়শই বয়স্ক বা অক্ষম ব্যক্তিকে বর্ণনা করতে ব্যবহৃত হয়।"
+}

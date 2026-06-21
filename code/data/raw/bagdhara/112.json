@@ -1,0 +1,38 @@
+{
+  "id": "112",
+  "idiom": "অতিগর্জনে ফোঁটাবৃষ্টি",
+  "alternative_idioms": [],
+  "literal_meaning": "অতিরিক্ত গর্জন বা হট্টগোলের মধ্যে ফোঁটা ফোঁটা বৃষ্টি",
+  "figurative_meaning_bn": "হাঁকডাকওয়ালারা কাজের বেলায় অষ্টরম্ভা",
+  "figurative_meaning_en": "Noisy people creating a big fuss but achieving little during work",
+  "similar_in_english": [
+    "Much ado about nothing",
+    "All bark and no bite"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় সবাই অতিগর্জনে ফোঁটাবৃষ্টি করে কিন্তু কোনো সিদ্ধান্ত নেয় না।",
+    "এই প্রকল্পে অতিগর্জনে ফোঁটাবৃষ্টি হচ্ছে, কাজের কোনো অগ্রগতি নেই।"
+  ],
+  "example_sentences_in_english": [
+    "In the meeting, everyone is making a lot of noise like a drizzle in thunder, but no decision is made.",
+    "This project is all thunderous noise for a mere drizzle, with no real progress."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Workplace criticism"
+  ],
+  "tags": [
+    "noise",
+    "futility",
+    "hypocrisy",
+    "inefficiency"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from rural observations of weather patterns where heavy thunder often precedes only light rain, symbolizing disproportionate effort."
+}

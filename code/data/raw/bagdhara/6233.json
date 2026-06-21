@@ -1,0 +1,41 @@
+{
+  "id": "6233",
+  "idiom": "নরপশু",
+  "alternative_idioms": [
+    "নরাধম"
+  ],
+  "literal_meaning": "মানুষ-পশু (নর অর্থ মানুষ, পশু অর্থ জন্তু)",
+  "figurative_meaning_bn": "পশুর মতো আচরণকারী মানুষ; পশুবৎ মানুষ",
+  "figurative_meaning_en": "A person who behaves like an animal; a beastly human",
+  "similar_in_english": [
+    "brute",
+    "animal",
+    "beast"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নরপশুর মতো আচরণ করে, কোনো মানবিকতা নেই তার মধ্যে।",
+    "যুদ্ধক্ষেত্রে কিছু সৈনিক নরপশুর আচরণ করে উঠল।"
+  ],
+  "example_sentences_in_english": [
+    "He behaves like a brute, with no humanity in him.",
+    "In the battlefield, some soldiers turned into beasts."
+  ],
+  "usage_domain": [
+    "insult",
+    "human behavior",
+    "literature"
+  ],
+  "tags": [
+    "negative",
+    "dehumanizing",
+    "synonym: নরাধম"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is often used in classical Bengali literature to describe immoral or savage behavior."
+}

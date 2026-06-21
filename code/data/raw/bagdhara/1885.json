@@ -1,0 +1,41 @@
+{
+  "id": "1885",
+  "idiom": "কাজীর বিচার",
+  "alternative_idioms": [],
+  "literal_meaning": "কাজীর বিচার (Qazi's judgment or trial)",
+  "figurative_meaning_bn": "অপরাধীকে আগে ফাঁসি দিয়ে পরে বিচারের বিভ্রাট বা ভান",
+  "figurative_meaning_en": "The farce or confusion of executing the criminal before the trial",
+  "similar_in_english": [
+    "Put the cart before the horse",
+    "Guilty until proven innocent"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কাজীর বিচারের মতো আগেই দোষী সাব্যস্ত করে ফেলল।",
+    "এই সিদ্ধান্ত নেওয়ার পদ্ধতি তো কাজীর বিচারেরই মতো বিভ্রান্তিকর।"
+  ],
+  "example_sentences_in_english": [
+    "He convicted him beforehand, just like a Qazi's trial.",
+    "This decision-making process is as confusing as a Qazi's trial."
+  ],
+  "usage_domain": [
+    "Justice",
+    "Decision-making",
+    "Prejudice"
+  ],
+  "tags": [
+    "legal",
+    "injustice",
+    "prejudgment",
+    "farce"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the historical role of Qazis as Islamic judges in medieval Bengal under Muslim rule, where hasty or biased judgments were sometimes critiqued in folklore."
+  ],
+  "note": "The idiom critiques premature judgment, drawing from the Qazi's traditional authority in Sharia law."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2076",
+  "idiom": "কাম ফতে",
+  "alternative_idioms": [
+    "কেল্লা ফতে"
+  ],
+  "literal_meaning": "কাজের বিজয় বা কামনার সফলতা",
+  "figurative_meaning_bn": "অভিষ্ট সিদ্ধ; কার্যসিদ্ধ",
+  "figurative_meaning_en": "Achievement of desired goal; success in endeavor",
+  "similar_in_english": [
+    "Mission accomplished",
+    "Win the battle"
+  ],
+  "example_sentences_in_bangla": [
+    "তার দীর্ঘদিনের সংগ্রামের পর কাম ফতে হলো।",
+    "প্রকল্পটি শেষ হওয়ায় আমাদের কাম ফতে হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "After years of struggle, his goal was finally conquered.",
+    "The project completion marked the conquest of our work."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Motivational contexts",
+    "Success narratives"
+  ],
+  "tags": [
+    "success",
+    "victory",
+    "achievement",
+    "military metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originates from military terminology, referring to the conquest of forts or objectives in historical battles, common in Bengali literature and folklore."
+  ],
+  "note": "The idiom draws from Persian-Arabic influences via Mughal era, symbolizing triumph."
+}

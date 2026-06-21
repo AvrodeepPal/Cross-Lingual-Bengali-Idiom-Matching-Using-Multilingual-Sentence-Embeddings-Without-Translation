@@ -1,0 +1,36 @@
+{
+  "id": "4182",
+  "idiom": "চোরের মায়ের কান্না",
+  "alternative_idioms": [],
+  "literal_meaning": "চোরের মায়ের কান্না",
+  "figurative_meaning_bn": "অন্যায় কাজে শাস্তিভোগের জন্য গোপন ও নিস্ফল বিলাপ",
+  "figurative_meaning_en": "Secret and futile lamentation for suffering punishment due to unjust actions",
+  "similar_in_english": [
+    "crocodile tears"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার অপরাধের জন্য চোরের মায়ের কান্না করছে।",
+    "এই চোরের মায়ের কান্না দেখে কেউ বিশ্বাস করবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is shedding crocodile tears for his crime.",
+    "No one will believe this crocodile tears from the thief's mother."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "moral lessons"
+  ],
+  "tags": [
+    "hypocrisy",
+    "fake sorrow",
+    "punishment"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to insincere grief expressed by those facing consequences of their own misdeeds, common in Bengali oral traditions."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "6501",
+  "idiom": "নৈবচ নৈবচ",
+  "alternative_idioms": [],
+  "literal_meaning": "না ইব চ না ইব চ (শব্দশঃ অর্থে অসম্ভবতার পুনরাবৃত্তি)",
+  "figurative_meaning_bn": "কখনোই হবে না",
+  "figurative_meaning_en": "It will never happen",
+  "similar_in_english": [
+    "Not in a million years",
+    "When pigs fly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কখনো বিশ্বাস করবে না, নৈবচ নৈবচ।",
+    "এটা ঘটবে নৈবচ নৈবচ।"
+  ],
+  "example_sentences_in_english": [
+    "He will never believe it, never ever.",
+    "This will never happen, absolutely not."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Negation and emphasis"
+  ],
+  "tags": [
+    "impossibility",
+    "denial",
+    "rhetorical"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This appears to be a colloquial or dialectal expression emphasizing impossibility, possibly rhyming for effect in spoken Bengali."
+}

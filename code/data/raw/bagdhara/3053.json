@@ -1,0 +1,44 @@
+{
+  "id": "3053",
+  "idiom": "গাঁট",
+  "alternative_idioms": [
+    "টেঁক",
+    "ট্যাঁক"
+  ],
+  "literal_meaning": "কোমরের কাপড় যেখানে টাকাপয়সা রাখা হয়",
+  "figurative_meaning_bn": "ব্যক্তিগত সঞ্চিত টাকা বা কষ্টের উপার্জিত অর্থ",
+  "figurative_meaning_en": "personal savings or hard-earned money kept aside",
+  "similar_in_english": [
+    "dipping into one's savings",
+    "breaking the piggy bank"
+  ],
+  "example_sentences_in_bangla": [
+    "এটা গাঁটের পয়সা খরচ করে কিনেছি।",
+    "গাঁট থেকে টাকা বের করে দিলাম।"
+  ],
+  "example_sentences_in_english": [
+    "I bought this by spending my own savings.",
+    "I took out money from my personal stash."
+  ],
+  "usage_domain": [
+    "finance",
+    "daily life",
+    "economy"
+  ],
+  "tags": [
+    "money",
+    "savings",
+    "personal finance",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "In traditional Bengali rural life, people tied money in knots of their dhoti or waistcloth for safekeeping before modern banking."
+  ],
+  "note": "The idiom reflects pre-modern financial habits in Bengali culture."
+}

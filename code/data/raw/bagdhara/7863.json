@@ -1,0 +1,42 @@
+{
+  "id": "7863",
+  "idiom": "বেদে-কোরানে আছে",
+  "alternative_idioms": [
+    "বেদ-পুরাণে আছে"
+  ],
+  "literal_meaning": "বেদ এবং কুরআনে আছে (It is in the Vedas and the Quran)",
+  "figurative_meaning_bn": "শাস্ত্রের দোহাই দিয়ে অন্যায় কাজকে সমর্থন",
+  "figurative_meaning_en": "Justifying unjust actions by citing religious scriptures",
+  "similar_in_english": [
+    "The devil can cite Scripture for his purpose",
+    "Twisting the Bible to fit one's agenda"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার দুর্নীতিকে বেদে-কোরানে আছে বলে যুক্তি দিল।",
+    "এই অত্যাচারকে বেদে-কোরানে আছে বলে সমর্থন করা যায় না।"
+  ],
+  "example_sentences_in_english": [
+    "He justified his corruption by claiming it's in the Vedas and Quran.",
+    "This oppression cannot be supported by saying it's in the Vedas and Quran."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Morality",
+    "Argumentation"
+  ],
+  "tags": [
+    "Religious justification",
+    "Hypocrisy",
+    "Scriptural misuse"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Reflects the syncretic religious traditions in Bengal where Hindu and Muslim scriptures are invoked in everyday discourse to lend authority."
+  ],
+  "note": "The idiom highlights interfaith dynamics in Bengali culture, often used critically to point out misuse of religious authority."
+}

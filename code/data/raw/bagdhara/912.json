@@ -1,0 +1,38 @@
+{
+  "id": "912",
+  "idiom": "এক আধটা",
+  "alternative_idioms": [],
+  "literal_meaning": "এক বা অর্ধেকটা (one or half a thing)",
+  "figurative_meaning_bn": "খুব অল্পসংখ্যক; একটা বা বড়জোর দুটো",
+  "figurative_meaning_en": "Very few in number; one or at most two",
+  "similar_in_english": [
+    "One or two",
+    "A couple",
+    "Just a handful"
+  ],
+  "example_sentences_in_bangla": [
+    "এক আধটা ভুল তো সবারই হয়।",
+    "এক আধটা সুযোগ দাও আমাকে।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone makes one or two mistakes.",
+    "Give me one or two chances."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "casual speech"
+  ],
+  "tags": [
+    "quantity",
+    "minimization",
+    "colloquial"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in spoken Bengali to downplay quantity."
+}

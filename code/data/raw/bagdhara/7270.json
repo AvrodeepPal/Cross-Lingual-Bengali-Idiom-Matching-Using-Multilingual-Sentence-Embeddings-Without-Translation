@@ -1,0 +1,37 @@
+{
+  "id": "7270",
+  "idiom": "বড়মানুষ",
+  "alternative_idioms": [],
+  "literal_meaning": "বড় ব্যক্তি",
+  "figurative_meaning_bn": "ধনী বা ঐশ্বর্যশালী ব্যক্তি",
+  "figurative_meaning_en": "A wealthy or affluent person",
+  "similar_in_english": [
+    "big shot",
+    "fat cat"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন বড়মানুষ, তার কাছে অনেক সম্পত্তি আছে।",
+    "গ্রামের বড়মানুষরা সবসময় সম্মান পান।"
+  ],
+  "example_sentences_in_english": [
+    "He is a big man; he has a lot of property.",
+    "The big men of the village always receive respect."
+  ],
+  "usage_domain": [
+    "social status",
+    "wealth"
+  ],
+  "tags": [
+    "wealth",
+    "status",
+    "person"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": ""
+}

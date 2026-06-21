@@ -1,0 +1,43 @@
+{
+  "id": "9421",
+  "idiom": "শাঁখের করাত",
+  "alternative_idioms": [
+    "এগুলে রাম পেছুলে রাবণ"
+  ],
+  "literal_meaning": "শাঁখের করাত (conch shell's saw)",
+  "figurative_meaning_bn": "উভয়সঙ্কট; দু'দিকেই বিপদ; যেতেও কাটে আসতেও কাটে",
+  "figurative_meaning_en": "Dilemma; danger on both sides; cuts coming and going",
+  "similar_in_english": [
+    "Between a rock and a hard place",
+    "Damned if you do, damned if you don't"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সিদ্ধান্ত নেওয়া শাঁখের করাতের মতো, যাই করি না কেন বিপদ।",
+    "কাজে না গেলে বস এঁর রাগ, গেলে কলিগদের সমস্যা—শাঁখের করাত!"
+  ],
+  "example_sentences_in_english": [
+    "This decision is like a conch shell's saw; danger whichever way I turn.",
+    "Not going to work means the boss's anger, going means colleagues' issues—it's a conch shell's saw!"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Decision-making",
+    "Conflict resolution"
+  ],
+  "tags": [
+    "dilemma",
+    "danger",
+    "bengali idiom",
+    "metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom derives from the natural sharpness of a conch shell's edge, which can cut from both directions, symbolizing inescapable peril in Bengali folklore."
+  ],
+  "note": "The conch shell (শাঁখ) is a common object in Bengali households, often used in rituals, adding cultural depth to the metaphor."
+}

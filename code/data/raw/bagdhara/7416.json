@@ -1,0 +1,42 @@
+{
+  "id": "7416",
+  "idiom": "বাঁদর",
+  "alternative_idioms": [
+    "বানর"
+  ],
+  "literal_meaning": "বাঁদর (monkey)",
+  "figurative_meaning_bn": "বাঁদরের মতো আচরণ বা স্বভাববিশিষ্ট-তিরস্কার",
+  "figurative_meaning_en": "Describing someone with mischievous or unruly behavior like a monkey, used as a reproach",
+  "similar_in_english": [
+    "Acting like a monkey",
+    "Cheeky monkey",
+    "Silly as a monkey"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় বাঁদরের মতো দৌড়ে বেড়ায়।",
+    "বাঁদর ছেলে, এত শোরগোল করিস না!"
+  ],
+  "example_sentences_in_english": [
+    "He always runs around like a monkey.",
+    "You monkey boy, stop making so much noise!"
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Reproach",
+    "Child-rearing"
+  ],
+  "tags": [
+    "Animal metaphor",
+    "Insult",
+    "Mischievous behavior",
+    "Colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in informal Bengali speech to scold naughty children or playful adults"
+}

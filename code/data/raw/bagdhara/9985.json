@@ -1,0 +1,41 @@
+{
+  "id": "9985",
+  "idiom": "হাটে হাঁড়ি ভাঙা",
+  "alternative_idioms": [],
+  "literal_meaning": "বাজারে পাত্র ভাঙা",
+  "figurative_meaning_bn": "সাধারণের জ্ঞাতার্থে গোপন তথ্য ফাঁস করা",
+  "figurative_meaning_en": "To publicly reveal secret information to the general public",
+  "similar_in_english": [
+    "Spill the beans",
+    "Let the cat out of the bag"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হাটে হাঁড়ি ভাঙলো, সবাইকে গোপন খবর বলে দিয়ে।",
+    "এই ঘটনায় হাটে হাঁড়ি ভাঙার মতোই সবার সামনে রহস্য উন্মোচিত হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He broke the pot in the market by telling everyone the secret.",
+    "The incident revealed the mystery to everyone, just like breaking a pot in the market."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "gossip",
+    "social interactions"
+  ],
+  "tags": [
+    "secrecy",
+    "revelation",
+    "public disclosure",
+    "gossip"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from rural Bengali life where 'হাট' refers to a village market, and breaking a pot there would create a loud noise, drawing public attention and metaphorically exposing hidden matters."
+  ],
+  "note": "The idiom emphasizes the irreversible nature of public revelations in communal settings."
+}

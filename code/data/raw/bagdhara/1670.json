@@ -1,0 +1,41 @@
+{
+  "id": "1670",
+  "idiom": "কলাপোড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কলার পোড়া অংশ (banana's burnt or fibrous husk)",
+  "figurative_meaning_bn": "কিছু না, ফাঁকি",
+  "figurative_meaning_en": "nothing, a trick or deception",
+  "similar_in_english": [
+    "a wild goose chase",
+    "much ado about nothing"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি কলাপোড়া খেয়েছো, এটা তো ফাঁকি ছিল।",
+    "সে আমাকে কলাপোড়া খাওয়ালো, কোনো লাভ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "You've been fed a kalapoda; it was just a trick.",
+    "He made me eat kalapoda; there's no benefit at all."
+  ],
+  "usage_domain": [
+    "conversational",
+    "deception",
+    "everyday language"
+  ],
+  "tags": [
+    "trick",
+    "deception",
+    "worthless",
+    "folksy"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Originating from rural Bengali traditions where offering the worthless fibrous husk of a banana instead of the fruit symbolizes deception or giving nothing of value."
+  ],
+  "note": "The idiom often implies being fooled with something insignificant."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1111",
+  "idiom": "একসময়",
+  "alternative_idioms": [],
+  "literal_meaning": "এক সময় (one time)",
+  "figurative_meaning_bn": "অনির্দিষ্ট কোনসময়",
+  "figurative_meaning_en": "An indefinite time in the past",
+  "similar_in_english": [
+    "Once upon a time",
+    "Back in the day"
+  ],
+  "example_sentences_in_bangla": [
+    "একসময় এই শহরে অনেক সবুজ ছিল।",
+    "একসময় আমরা সবাই একসাথে থাকতাম।"
+  ],
+  "example_sentences_in_english": [
+    "Once upon a time, this city was full of greenery.",
+    "Back in the day, we all lived together."
+  ],
+  "usage_domain": [
+    "Storytelling",
+    "Historical narrative",
+    "Everyday conversation"
+  ],
+  "tags": [
+    "time",
+    "past",
+    "indefinite",
+    "narrative"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "একসময় সুন্দরবন অঞ্চলে জনপদ ছিল। (Once, there were settlements in the Sundarbans area.)"
+  ],
+  "note": "This phrase is often used to introduce folktales or historical anecdotes in Bengali literature and oral traditions."
+}

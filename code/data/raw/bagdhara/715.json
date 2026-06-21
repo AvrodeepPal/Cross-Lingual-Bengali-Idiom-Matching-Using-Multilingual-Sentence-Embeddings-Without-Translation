@@ -1,0 +1,39 @@
+{
+  "id": "715",
+  "idiom": "ইষ্টিকুটুম্ব",
+  "alternative_idioms": [
+    "ইষ্ট"
+  ],
+  "literal_meaning": "ইষ্টি (ঘনিষ্ঠ বা প্রিয়) + কুটুম্ব (পরিবার বা আত্মীয়)",
+  "figurative_meaning_bn": "আত্মীয়স্বজন",
+  "figurative_meaning_en": "Relatives or close family members",
+  "similar_in_english": [
+    "kith and kin",
+    "flesh and blood"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ইষ্টিকুটুম্ব সবাই বিয়েতে এসেছে।",
+    "ইষ্টিকুটুম্বের সাহায্য ছাড়া কাজ চলে না।"
+  ],
+  "example_sentences_in_english": [
+    "All his relatives have come to the wedding.",
+    "One can't get things done without the help of close family."
+  ],
+  "usage_domain": [
+    "family",
+    "social relations"
+  ],
+  "tags": [
+    "kinship",
+    "family ties",
+    "informal"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a colloquial expression emphasizing close familial bonds in everyday Bengali speech."
+}

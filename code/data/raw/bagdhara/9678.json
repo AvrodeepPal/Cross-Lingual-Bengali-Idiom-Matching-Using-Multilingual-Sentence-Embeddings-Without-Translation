@@ -1,0 +1,39 @@
+{
+  "id": "9678",
+  "idiom": "সাক্ষাৎ",
+  "alternative_idioms": [],
+  "literal_meaning": "সরাসরি দৃশ্যমান বা মুখোমুখি",
+  "figurative_meaning_bn": "মূর্তিমান",
+  "figurative_meaning_en": "embodied or in person",
+  "similar_in_english": [
+    "in the flesh",
+    "living embodiment"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সাক্ষাৎ যমের মতো দেখাচ্ছে।",
+    "এই ছবিটি সাক্ষাৎ স্বর্গের দৃশ্য।"
+  ],
+  "example_sentences_in_english": [
+    "He looks like Yama in person.",
+    "This picture is heaven embodied."
+  ],
+  "usage_domain": [
+    "descriptive language",
+    "everyday conversation"
+  ],
+  "tags": [
+    "figurative",
+    "personification",
+    "intensifier"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References Yama, the Hindu god of death, from mythological contexts in Bengali folklore."
+  ],
+  "note": "Often used to emphasize a direct or vivid manifestation, typically with a noun like 'যম' for intensity."
+}

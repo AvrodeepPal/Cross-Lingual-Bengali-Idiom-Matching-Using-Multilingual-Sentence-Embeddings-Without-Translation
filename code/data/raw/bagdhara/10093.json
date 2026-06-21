@@ -1,0 +1,38 @@
+{
+  "id": "10093",
+  "idiom": "হাত কষা",
+  "alternative_idioms": [],
+  "literal_meaning": "হাত শক্ত করা (tightening the hand)",
+  "figurative_meaning_bn": "কৃপণ",
+  "figurative_meaning_en": "miserly or stingy",
+  "similar_in_english": [
+    "tight-fisted",
+    "penny-pincher"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খুব হাত কষা, কখনো কাউকে সাহায্য করে না।",
+    "এই দোকানদারটি হাত কষা বলে কম দামে কেনাকাটা করা কঠিন।"
+  ],
+  "example_sentences_in_english": [
+    "He is very tight-handed and never helps anyone.",
+    "This shopkeeper is stingy, so bargaining for a lower price is difficult."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "personality description",
+    "finance"
+  ],
+  "tags": [
+    "negative trait",
+    "money-related",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali views on generosity and thriftiness in rural and semi-urban settings."
+}

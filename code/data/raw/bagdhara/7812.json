@@ -1,0 +1,37 @@
+{
+  "id": "7812",
+  "idiom": "বুড়োহাবড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বুড়ো (বৃদ্ধ পুরুষ) + হাবড়া (কুঁজো বা ভগ্নদেহ)",
+  "figurative_meaning_bn": "ভগ্নদেহ বৃদ্ধ",
+  "figurative_meaning_en": "Frail elderly person",
+  "similar_in_english": [
+    "decrepit old man",
+    "bent with age"
+  ],
+  "example_sentences_in_bangla": [
+    "সে বয়সের সাথে বুড়োহাবড়া হয়ে গেছে।",
+    "গ্রামের সেই বুড়োহাবড়া সবাইকে সাহায্য করে।"
+  ],
+  "example_sentences_in_english": [
+    "He has become a frail elderly person with age.",
+    "The decrepit old man in the village helps everyone."
+  ],
+  "usage_domain": [
+    "descriptive",
+    "age-related"
+  ],
+  "tags": [
+    "elderly",
+    "frailty",
+    "derogatory"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects colloquial Bengali expressions for physical decline in old age, common in rural dialects."
+}

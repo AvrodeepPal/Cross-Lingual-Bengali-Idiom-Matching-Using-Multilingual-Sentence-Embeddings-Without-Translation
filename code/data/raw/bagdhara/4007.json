@@ -1,0 +1,41 @@
+{
+  "id": "4007",
+  "idiom": "চূণকালি লাগা (মুখে)",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখে চূণের কালি লেগে যাওয়া",
+  "figurative_meaning_bn": "অপ্রতিভ বা লজ্জিত হওয়া",
+  "figurative_meaning_en": "To feel embarrassed or shy",
+  "similar_in_english": [
+    "blush with embarrassment",
+    "look sheepish"
+  ],
+  "example_sentences_in_bangla": [
+    "পরীক্ষায় ভুল উত্তর দিয়ে তার মুখে চূণকালি লেগে গেল।",
+    "সভায় সকলের সামনে কথা বলতে গিয়ে অপ্রতিভ হয়ে মুখে চূণকালি লাগল।"
+  ],
+  "example_sentences_in_english": [
+    "After giving the wrong answer in the exam, embarrassment stuck to his face like lime.",
+    "While speaking in front of everyone at the meeting, she felt shy and her face seemed smeared with chalk."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "emotions",
+    "social interactions"
+  ],
+  "tags": [
+    "embarrassment",
+    "shyness",
+    "facial expression",
+    "awkwardness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom draws from the traditional Bengali habit of chewing paan (betel leaf), where slaked lime (chuna) is mixed and can accidentally stick to the lips or face, creating an awkward, whitish appearance symbolizing embarrassment."
+  ],
+  "note": "The idiom reflects everyday rural and semi-urban life in Bengal, tied to cultural practices like paan consumption."
+}

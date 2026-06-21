@@ -1,0 +1,39 @@
+{
+  "id": "5066",
+  "idiom": "ঠিকা কাজ",
+  "alternative_idioms": [
+    "ঠিকে কাজ"
+  ],
+  "literal_meaning": "চুক্তিভিত্তিক বা নির্দিষ্ট কাজ",
+  "figurative_meaning_bn": "চুক্তিভিত্তিক নির্দিষ্ট কাজ",
+  "figurative_meaning_en": "Specific work based on a contract",
+  "similar_in_english": [
+    "contract work",
+    "piecework"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ঠিকা কাজ করে জীবিকা নির্বাহ করে।",
+    "গ্রামে অনেকে ঠিকা কাজের মাধ্যমে আয় করে।"
+  ],
+  "example_sentences_in_english": [
+    "He earns a living by doing contract work.",
+    "Many in the village make income through piecework."
+  ],
+  "usage_domain": [
+    "employment",
+    "labor"
+  ],
+  "tags": [
+    "work",
+    "contract",
+    "job"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to temporary or fixed-term labor common in Bengali socioeconomic contexts"
+}

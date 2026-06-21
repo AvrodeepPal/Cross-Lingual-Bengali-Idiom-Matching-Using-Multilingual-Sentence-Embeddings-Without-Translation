@@ -1,0 +1,39 @@
+{
+  "id": "3489",
+  "idiom": "ঘাট",
+  "alternative_idioms": [],
+  "literal_meaning": "নদীর তীরে সিঁড়ি বা স্থান; পরিমাপের একক",
+  "figurative_meaning_bn": "কমতি; মাত্রা; মাপাঝোপা; সীমাপরিসীমা",
+  "figurative_meaning_en": "shortage; measure; approximation; limits or boundaries",
+  "similar_in_english": [
+    "beyond measure",
+    "no bounds",
+    "measure up"
+  ],
+  "example_sentences_in_bangla": [
+    "তার গুণের ঘাট নেই।",
+    "এই কাজের ঘাট কতটা দরকার?"
+  ],
+  "example_sentences_in_english": [
+    "There is no limit to his qualities.",
+    "How much measure is needed for this task?"
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "measurement and quantity"
+  ],
+  "tags": [
+    "measurement",
+    "limit",
+    "quantity",
+    "approximation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in phrases like 'ঘাট নেই' to indicate boundlessness"
+}

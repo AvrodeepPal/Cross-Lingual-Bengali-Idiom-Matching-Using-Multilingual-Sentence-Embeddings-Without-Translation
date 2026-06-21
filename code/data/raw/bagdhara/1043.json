@@ -1,0 +1,42 @@
+{
+  "id": "1043",
+  "idiom": "একদেশদর্শী",
+  "alternative_idioms": [
+    "একটেরে",
+    "একপেশে"
+  ],
+  "literal_meaning": "একদিক দেখা বা একপেশে দৃষ্টিভঙ্গির অধিকারী",
+  "figurative_meaning_bn": "পক্ষপাতী; পূর্বাপর বিচার করে না",
+  "figurative_meaning_en": "Biased; partial without considering all aspects",
+  "similar_in_english": [
+    "one-sided",
+    "biased",
+    "partial to one side"
+  ],
+  "example_sentences_in_bangla": [
+    "তার একদেশদর্শী মনোভাবের জন্য সে কখনো নিরপেক্ষ সিদ্ধান্ত নিতে পারে না।",
+    "রাজনীতিতে অনেক নেতা একদেশদর্শী হয়ে পড়েন।"
+  ],
+  "example_sentences_in_english": [
+    "Due to his one-sided perspective, he can never make an impartial decision.",
+    "Many leaders in politics become biased and one-sided."
+  ],
+  "usage_domain": [
+    "politics",
+    "decision-making",
+    "social judgment"
+  ],
+  "tags": [
+    "bias",
+    "partiality",
+    "one-sided view"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes the importance of balanced judgment in Bengali discourse."
+}

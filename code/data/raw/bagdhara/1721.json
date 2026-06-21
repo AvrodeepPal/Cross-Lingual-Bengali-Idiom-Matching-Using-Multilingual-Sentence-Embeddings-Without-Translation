@@ -1,0 +1,45 @@
+{
+  "id": "1721",
+  "idiom": "কস্তাকস্তি",
+  "alternative_idioms": [
+    "কুস্তাকুস্তি",
+    "ধস্তাধ্বস্তি",
+    "পাল্লাপাল্লি",
+    "পীড়াপীড়ি"
+  ],
+  "literal_meaning": "কুস্তির পুনরাবৃত্তি (প্রায়শই কুস্তির মতো লড়াই বা সংগ্রামের ইঙ্গিত)",
+  "figurative_meaning_bn": "সহচরশব্দ কুস্তি; দরদাম বা আলোচনায় অনেক চেষ্টা করা",
+  "figurative_meaning_en": "Synonym for wrestling; intense bargaining or negotiation to reduce price",
+  "similar_in_english": [
+    "Haggle over the price",
+    "Bargain hard",
+    "Beat down the price"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে অনেক কস্তাকস্তি করে দাম কমিয়েছি।",
+    "দোকানদারের সাথে কস্তাকস্তি না করলে দাম কমবে না।"
+  ],
+  "example_sentences_in_english": [
+    "I did a lot of haggling in the market to lower the price.",
+    "You won't get a discount without some hard bargaining with the shopkeeper."
+  ],
+  "usage_domain": [
+    "Shopping",
+    "Negotiation",
+    "Daily life"
+  ],
+  "tags": [
+    "Bargaining",
+    "Market",
+    "Effort",
+    "Commerce"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is a playful reduplication derived from 'কুস্তি' (wrestling), metaphorically representing the 'struggle' in negotiations, common in Bengali market culture."
+}

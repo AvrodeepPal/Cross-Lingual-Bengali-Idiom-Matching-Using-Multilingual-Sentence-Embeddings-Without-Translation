@@ -1,0 +1,38 @@
+{
+  "id": "9399",
+  "idiom": "শতমারী",
+  "alternative_idioms": [],
+  "literal_meaning": "শত মৃত্যুকারী (হাজারো মৃত্যু ঘটানো)",
+  "figurative_meaning_bn": "বহু রোগীবধকারী চিকিৎসক; হাতুড়ে বৈদ্য",
+  "figurative_meaning_en": "A doctor who kills many patients; quack or incompetent physician",
+  "similar_in_english": [
+    "quack doctor",
+    "butcher surgeon"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই শতমারীকে আর কখনো ডাকব না, গতবার তো আমার চাচাকে প্রায় শেষ করে দিয়েছিল।",
+    "গ্রামের এই শতমারী চিকিৎসকের কারণে অনেকেই প্রাণ হারিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "I won't call that quack doctor again; last time he nearly killed my uncle.",
+    "Many lives have been lost due to this incompetent physician in the village."
+  ],
+  "usage_domain": [
+    "medicine",
+    "criticism"
+  ],
+  "tags": [
+    "negative",
+    "profession",
+    "incompetence",
+    "quackery"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to unqualified or harmful medical practitioners in traditional contexts"
+}

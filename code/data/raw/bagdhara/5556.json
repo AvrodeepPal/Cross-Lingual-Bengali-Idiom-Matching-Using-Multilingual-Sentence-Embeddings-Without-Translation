@@ -1,0 +1,41 @@
+{
+  "id": "5556",
+  "idiom": "ত্রয়হস্পর্শ",
+  "alternative_idioms": [],
+  "literal_meaning": "তিন তিথির স্পর্শ বা যোগ",
+  "figurative_meaning_bn": "একদিনে তিন তিথির যোগ; অশুভ যোগ",
+  "figurative_meaning_en": "Conjunction of three lunar days in one solar day; an inauspicious alignment",
+  "similar_in_english": [
+    "Under an unlucky star",
+    "Ill-omened timing"
+  ],
+  "example_sentences_in_bangla": [
+    "আজ ত্রয়হস্পর্শের যোগ আছে, কোনো শুভ কাজ করা উচিত নয়।",
+    "ত্রয়হস্পর্শের দিনে বিয়ে ঠিক করলে অশুভ ফল হবে।"
+  ],
+  "example_sentences_in_english": [
+    "Today is a tryahsparsha day, so no auspicious activities should be planned.",
+    "Fixing a wedding on a tryahsparsha is considered to bring bad luck."
+  ],
+  "usage_domain": [
+    "Astrology",
+    "Superstition",
+    "Daily life"
+  ],
+  "tags": [
+    "অশুভ",
+    "পঞ্জিকা",
+    "হিন্দু ক্যালেন্ডার",
+    "তিথি"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the Hindu lunar calendar (panchang), where tithis are lunar days; tryahsparsha refers to an overlap of three tithis in one solar day, considered inauspicious in traditional Bengali Hindu practices."
+  ],
+  "note": "The input text 'ত্র্যহস্পর্শ' appears to be a variant or typographical error for the standard 'ত্রয়হস্পর্শ'."
+}

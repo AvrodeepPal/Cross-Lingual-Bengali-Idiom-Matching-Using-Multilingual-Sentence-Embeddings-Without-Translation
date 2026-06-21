@@ -1,0 +1,39 @@
+{
+  "id": "7366",
+  "idiom": "বসা",
+  "alternative_idioms": [],
+  "literal_meaning": "বসে যাওয়া বা স্থির হয়ে যাওয়া (to sit or settle)",
+  "figurative_meaning_bn": "জমাট বাঁধা; জমে যাওয়া",
+  "figurative_meaning_en": "to become firmly established; to take hold or solidify",
+  "similar_in_english": [
+    "take root",
+    "settle in",
+    "get stuck"
+  ],
+  "example_sentences_in_bangla": [
+    "বুকে সর্দি বসেছে, তাই কাশি হচ্ছে।",
+    "মনে একটা ভয় বসে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "A cold has settled in my chest, so I'm coughing.",
+    "A fear has taken hold in my mind."
+  ],
+  "usage_domain": [
+    "health",
+    "emotions",
+    "daily life"
+  ],
+  "tags": [
+    "illness",
+    "persistence",
+    "figurative illness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in the context of illnesses like colds that persist, reflecting everyday Bengali health expressions."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8507",
+  "idiom": "মাথা বিকানো",
+  "alternative_idioms": [],
+  "literal_meaning": "মাথা বিক্রি করা (head sold)",
+  "figurative_meaning_bn": "সম্পূর্ণ বশ্যতা স্বীকার করা",
+  "figurative_meaning_en": "To completely submit or accept total subjugation",
+  "similar_in_english": [
+    "to throw in the towel",
+    "to capitulate completely"
+  ],
+  "example_sentences_in_bangla": [
+    "চাষীরা মহাজনের কাছে মাথা বিকিয়ে বসে আছে।",
+    "সে তার বসের সামনে মাথা বিকিয়ে দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The farmers have sold their heads to the moneylender.",
+    "He has completely submitted to his boss."
+  ],
+  "usage_domain": [
+    "social relations",
+    "debt and economy",
+    "subordination"
+  ],
+  "tags": [
+    "submission",
+    "debt",
+    "rural life",
+    "power dynamics"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the historical agrarian economy of Bengal, where impoverished farmers would symbolically 'sell their heads' to moneylenders (mahajans) as a pledge of total servitude to repay debts, reflecting exploitative feudal systems under colonial and pre-colonial rule."
+  ],
+  "note": "The idiom highlights the vulnerability of rural debtors in traditional Bengali society."
+}

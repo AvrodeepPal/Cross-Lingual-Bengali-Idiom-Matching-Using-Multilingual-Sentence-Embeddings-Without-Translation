@@ -1,0 +1,44 @@
+{
+  "id": "2909",
+  "idiom": "গতরখাকী",
+  "alternative_idioms": [
+    "খেকো",
+    "গতরখাগী",
+    "খেগো"
+  ],
+  "literal_meaning": "গতর (waist) খাকী (eater) – কোমর খাওয়া বা শুধু খেয়ে থাকা",
+  "figurative_meaning_bn": "অত্যন্ত অলস; সামর্থ্য থাকা সত্ত্বেও পরিশ্রমবিমুখ নারী/পুরুষ",
+  "figurative_meaning_en": "Extremely lazy; a woman or man who avoids hard work despite having the ability",
+  "similar_in_english": [
+    "lazybones",
+    "couch potato",
+    "slothful idler"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা গতরখাকী, সকাল থেকে সন্ধ্যা পর্যন্ত শুধু ঘুমিয়ে কাটায়।",
+    "গ্রামের সেই খেকো লোকটি কখনো খেতে সাহায্য করে না।"
+  ],
+  "example_sentences_in_english": [
+    "He is a complete lazybones, sleeping from morning till evening.",
+    "That couch potato in the village never helps in the fields."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insult",
+    "rural speech"
+  ],
+  "tags": [
+    "laziness",
+    "derogatory",
+    "slang",
+    "gender-neutral slur"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom is a regional slur often used in rural Bengal to mock indolence, with variants reflecting dialectical pronunciations."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4988",
+  "idiom": "টিকা",
+  "alternative_idioms": [
+    "টেঁকা",
+    "টেকা"
+  ],
+  "literal_meaning": "স্থায়ী হওয়া বা আটকে থাকা (to stick or persist)",
+  "figurative_meaning_bn": "বেঁচে থাকা",
+  "figurative_meaning_en": "to survive or stay alive",
+  "similar_in_english": [
+    "hang on",
+    "pull through",
+    "last"
+  ],
+  "example_sentences_in_bangla": [
+    "এই রোগী আর টিকবে না।",
+    "এই কঠিন পরিস্থিতিতে ব্যবসাটা কতদিন টিকবে?"
+  ],
+  "example_sentences_in_english": [
+    "This patient won't survive much longer.",
+    "How long will this business last in such tough conditions?"
+  ],
+  "usage_domain": [
+    "health",
+    "survival",
+    "endurance"
+  ],
+  "tags": [
+    "medical",
+    "persistence",
+    "everyday life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Variants like টেঁকা and টেকা are regional pronunciations used interchangeably in spoken Bengali."
+}

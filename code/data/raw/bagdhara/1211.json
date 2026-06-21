@@ -1,0 +1,42 @@
+{
+  "id": "1211",
+  "idiom": "ইবাদত",
+  "alternative_idioms": [
+    "এবাদত"
+  ],
+  "literal_meaning": "উপাসনা বা ভক্তি প্রকাশ",
+  "figurative_meaning_bn": "উপাসনা; প্রার্থনা",
+  "figurative_meaning_en": "Worship; prayer",
+  "similar_in_english": [
+    "Say one's prayers",
+    "Devout worship"
+  ],
+  "example_sentences_in_bangla": [
+    "প্রতিদিন সকালে ইবাদত করলে মন শান্ত হয়।",
+    "তার জীবন ইবাদতের মাধ্যমে পূর্ণ হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Performing ibadat every morning brings peace to the mind.",
+    "His life has been fulfilled through worship."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Spirituality"
+  ],
+  "tags": [
+    "প্রার্থনা",
+    "ভক্তি",
+    "উপাসনা",
+    "ধর্মীয়"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এই শব্দটি কাজী নজরুল ইসলামের কবিতায় ব্যবহৃত হয়েছে, যেখানে তিনি ইবাদতের অভাবে জীবনের বিফলতার কথা বলেছেন: 'তোর জনম যাবে বিফল যে ভাই, এই এবাদতবিনা রে'।"
+  ],
+  "note": "এটি মূলত আরবি 'ইবাদত' থেকে উদ্ভূত, বাংলা সাহিত্যে ধর্মীয় প্রসঙ্গে ব্যবহৃত।"
+}

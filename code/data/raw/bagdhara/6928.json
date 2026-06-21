@@ -1,0 +1,39 @@
+{
+  "id": "6928",
+  "idiom": "পূজা-অর্চনা",
+  "alternative_idioms": [],
+  "literal_meaning": "পূজা (worship) - অর্চনা (adoration/reverence)",
+  "figurative_meaning_bn": "আরাধনা উপাসনা",
+  "figurative_meaning_en": "devotional worship and adoration",
+  "similar_in_english": [
+    "praise and worship",
+    "rites and rituals"
+  ],
+  "example_sentences_in_bangla": [
+    "বাড়িতে নানা দেবতার নিত্য পূজা-অর্চনা লেগেই আছে।",
+    "তিনি প্রতিদিন মন্দিরে পূজা-অর্চনা করেন।"
+  ],
+  "example_sentences_in_english": [
+    "Daily worship and adoration of various deities is ongoing in the house.",
+    "He performs worship and adoration at the temple every day."
+  ],
+  "usage_domain": [
+    "religion",
+    "daily rituals",
+    "devotion"
+  ],
+  "tags": [
+    "worship",
+    "devotion",
+    "synonymous compound",
+    "religious practice"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a tautological compound word (একার্থক যুগ্মশব্দ) commonly used in Bengali Hindu contexts for ritualistic devotion."
+}

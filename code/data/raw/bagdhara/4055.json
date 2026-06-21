@@ -1,0 +1,39 @@
+{
+  "id": "4055",
+  "idiom": "চোখ তুলে চাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "চোখ তুলে দেখা বা চাওয়া",
+  "figurative_meaning_bn": "প্রসন্ন বা সহানুভূতিশীল হওয়া",
+  "figurative_meaning_en": "To look favorably or show sympathy",
+  "similar_in_english": [
+    "Look with favor",
+    "Cast a kind eye"
+  ],
+  "example_sentences_in_bangla": [
+    "ভগবান দরিদ্রের প্রতি চোখ তুলে চান না।",
+    "সে তার বন্ধুর দুঃখে চোখ তুলে চাইল।"
+  ],
+  "example_sentences_in_english": [
+    "God does not look favorably upon the poor.",
+    "She looked with sympathy at her friend's misfortune."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Everyday sympathy"
+  ],
+  "tags": [
+    "divine mercy",
+    "compassion",
+    "favor"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from religious folklore where divine gaze represents mercy or neglect towards the underprivileged."
+  ],
+  "note": "Often used in contexts invoking divine intervention or human empathy."
+}

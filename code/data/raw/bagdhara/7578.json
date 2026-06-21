@@ -1,0 +1,39 @@
+{
+  "id": "7578",
+  "idiom": "বাপ-বাপান্ত",
+  "alternative_idioms": [],
+  "literal_meaning": "বাপ-বাপের অন্ত (পিতার নাম উল্লেখ করে অপমান)",
+  "figurative_meaning_bn": "কারও বাপের নাম করে গালিগালাজ",
+  "figurative_meaning_en": "Abusing someone by invoking or cursing their father's name",
+  "similar_in_english": [
+    "Talking smack about someone's family",
+    "Cursing one's ancestors"
+  ],
+  "example_sentences_in_bangla": [
+    "ঝগড়ায় সে বাপ-বাপান্ত করে চিৎকার করতে লাগল।",
+    "গ্রামের লোকেরা এমন গালাগালি শুনলে খুব রাগ করে।"
+  ],
+  "example_sentences_in_english": [
+    "In the fight, he started yelling 'father-father's end' abuses.",
+    "The villagers get very angry hearing such father-invoking insults."
+  ],
+  "usage_domain": [
+    "Colloquial speech",
+    "Verbal arguments",
+    "Insults"
+  ],
+  "tags": [
+    "Abuse",
+    "Family honor",
+    "Spoken language",
+    "Negative expression"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the cultural sensitivity around family names in Bengali society, often used in heated verbal exchanges."
+}

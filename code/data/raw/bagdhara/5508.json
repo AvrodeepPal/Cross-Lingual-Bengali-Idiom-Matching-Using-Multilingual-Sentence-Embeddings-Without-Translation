@@ -1,0 +1,42 @@
+{
+  "id": "5508",
+  "idiom": "তেলামাথায় তেল দেওয়া",
+  "alternative_idioms": [
+    "তেলা মাথায় ঢালো তেল শুকনা মাথায় ভাঙো বেল"
+  ],
+  "literal_meaning": "তেলচপচা মাথায় তেল ঢালা",
+  "figurative_meaning_bn": "যার প্রচুর আছে তাকে আরও দান",
+  "figurative_meaning_en": "Giving more to someone who already has plenty",
+  "similar_in_english": [
+    "Carrying coals to Newcastle",
+    "Gilding the lily"
+  ],
+  "example_sentences_in_bangla": [
+    "ধনী ব্যবসায়ীকে আরও ঋণ দিয়ে তেলামাথায় তেল দেওয়া হচ্ছে।",
+    "সরকারের এই নীতি তেলামাথায় তেল দেওয়ার মতো।"
+  ],
+  "example_sentences_in_english": [
+    "Giving more loans to wealthy businessmen is like pouring oil on an oily head.",
+    "The government's policy is akin to pouring oil on an already oily head."
+  ],
+  "usage_domain": [
+    "Social",
+    "Economic"
+  ],
+  "tags": [
+    "proverb",
+    "wealth",
+    "inequality",
+    "misplaced generosity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom stems from the traditional Bengali proverb 'তেলা মাথায় ঢালো তেল, শুকনা মাথায় ভাঙো বেল', which illustrates the folly of providing additional resources to those who already abound, contrasting with wasting effort on the needy."
+  ],
+  "note": "The proverb highlights cultural values of equitable distribution in Bengali folklore."
+}

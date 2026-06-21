@@ -1,0 +1,42 @@
+{
+  "id": "6062",
+  "idiom": "ধান্যেশ্বরী",
+  "alternative_idioms": [],
+  "literal_meaning": "ধান্য (ধান বা চাল) থেকে তৈরি ইশ্বরী (দেবী বা ঐশ্বরিক উল্লেখ সহ ব্যঙ্গাত্মক শব্দ)",
+  "figurative_meaning_bn": "ব্যঙ্গে ধান বা চাল থেকে চোলাই করা মদ, ধেনো মদ",
+  "figurative_meaning_en": "Sarcastically, homemade distilled liquor from rice or paddy, country hooch",
+  "similar_in_english": [
+    "moonshine",
+    "rotgut",
+    "homebrew"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের লোকেরা প্রায়ই ধান্যেশ্বরী খেয়ে উদ্ভট কাজ করে।",
+    "এই ধান্যেশ্বরী পান করলে মাথা ঘুরে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "Villagers often do silly things after drinking that country hooch.",
+    "Drinking this rice moonshine makes your head spin."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "sarcastic",
+    "rural lifestyle"
+  ],
+  "tags": [
+    "alcohol",
+    "sarcasm",
+    "bengali rural culture",
+    "mockery"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Refers to traditional homemade distillation of alcohol from rice in rural Bengal, often associated with funeral rites or everyday rural consumption, using sarcasm to demean its low quality."
+  ],
+  "note": "The term plays on 'ধান্য' (grains) and a pseudo-divine suffix to mock the crude liquor."
+}

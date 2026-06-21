@@ -1,0 +1,36 @@
+{
+  "id": "10179",
+  "idiom": "হাত লম্বা",
+  "alternative_idioms": [],
+  "literal_meaning": "দীর্ঘ হাত",
+  "figurative_meaning_bn": "কিছুই নাগালের বাইরে নয়",
+  "figurative_meaning_en": "Nothing is beyond reach",
+  "similar_in_english": [
+    "The long arm of the law"
+  ],
+  "example_sentences_in_bangla": [
+    "আইনের হাত খুব লম্বা, কোনো অপরাধী পালাতে পারবে না।",
+    "সরকারের হাত লম্বা, সব জায়গায় নজর রাখে।"
+  ],
+  "example_sentences_in_english": [
+    "The long arm of the law will catch every criminal.",
+    "The government's reach is far-reaching, keeping an eye everywhere."
+  ],
+  "usage_domain": [
+    "legal",
+    "authority"
+  ],
+  "tags": [
+    "figurative",
+    "body part",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Often used in contexts of law enforcement or powerful entities with extensive influence."
+}

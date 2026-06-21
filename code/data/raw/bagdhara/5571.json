@@ -1,0 +1,38 @@
+{
+  "id": "5571",
+  "idiom": "থলথল",
+  "alternative_idioms": [],
+  "literal_meaning": "শিথিল মাংসের স্পন্দন বা কম্পন (দ্বিত্বশব্দ হিসেবে)",
+  "figurative_meaning_bn": "স্থূলতাহেতু শিথিল মাংসের স্পন্দনভাবসুচক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "A reduplicated word indicating the jiggling or quivering of loose flesh due to obesity",
+  "similar_in_english": [
+    "jiggling fat",
+    "wobbly flesh"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পেট থলথল করে উঠলো দৌড়াতে গিয়ে।",
+    "বয়স বাড়ার সাথে তার শরীর থলথল হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "His belly started jiggling while he was running.",
+    "With age, her body has become flabby and jiggly."
+  ],
+  "usage_domain": [
+    "physical description",
+    "body image"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "reduplication",
+    "obesity",
+    "body"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic reduplicated form common in colloquial Bengali for describing physical movements."
+}

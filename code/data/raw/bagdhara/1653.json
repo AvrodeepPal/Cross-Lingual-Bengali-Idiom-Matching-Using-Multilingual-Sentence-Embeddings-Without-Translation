@@ -1,0 +1,39 @@
+{
+  "id": "1653",
+  "idiom": "কলমের খোঁচা",
+  "alternative_idioms": [],
+  "literal_meaning": "কলমের ঝাঁঝ বা আঁচড়",
+  "figurative_meaning_bn": "অন্যের বিরুদ্ধে ক্ষতিকর বা বিরক্তিকর লেখা",
+  "figurative_meaning_en": "A harmful or irritating piece of writing directed against someone",
+  "similar_in_english": [
+    "poison pen letter",
+    "hatchet job"
+  ],
+  "example_sentences_in_bangla": [
+    "তার লেখায় কলমের খোঁচা এতটাই তীব্র যে পাঠকরা ক্ষুব্ধ হয়ে যান।",
+    "সাংবাদিকের কলমের খোঁচা রাজনীতিবিদকে বিপর্যস্ত করে তুলেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The sting of his pen in the article left the readers offended.",
+    "The journalist's pen prick troubled the politician immensely."
+  ],
+  "usage_domain": [
+    "literature",
+    "journalism",
+    "criticism"
+  ],
+  "tags": [
+    "writing",
+    "satire",
+    "harmful",
+    "literary"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom draws from the metaphorical power of writing as a weapon in Bengali literary traditions."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4775",
+  "idiom": "ঝকমারি",
+  "alternative_idioms": [],
+  "literal_meaning": "হঠাৎকারী বা আকস্মিক ভুল বা আঘাত (ঝক: হঠাৎ ঝাঁকুনি বা আলোর ঝলক; মারি: আঘাত বা প্রহার)",
+  "figurative_meaning_bn": "অনুশোচনার ত্রুটি, দোষ, ভুল; নির্বুদ্ধিতা, বোকামি, মূর্খতা",
+  "figurative_meaning_en": "A regrettable mistake, error, or fault; foolishness, stupidity, or idiocy",
+  "similar_in_english": [
+    "fool's errand",
+    "blunder",
+    "shoot oneself in the foot"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার উপকার করতে যাওয়াই আমার ঝকমারি হয়েছে।",
+    "এই সিদ্ধান্ত নেওয়াটা তার জীবনের সবচেয়ে বড় ঝকমারি।"
+  ],
+  "example_sentences_in_english": [
+    "Trying to help you turned out to be my folly.",
+    "Making that decision was the biggest blunder of his life."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "regret and reflection"
+  ],
+  "tags": [
+    "mistake",
+    "folly",
+    "regret",
+    "stupidity"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in spoken Bengali to express hindsight regret over foolish actions."
+}

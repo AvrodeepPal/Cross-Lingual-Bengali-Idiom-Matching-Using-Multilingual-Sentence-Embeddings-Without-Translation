@@ -1,0 +1,42 @@
+{
+  "id": "9898",
+  "idiom": "হট্টগোল",
+  "alternative_idioms": [],
+  "literal_meaning": "হাটের মাঝের চেঁচামেচি",
+  "figurative_meaning_bn": "হাটের মাঝের চেঁচামেচি; বহুলোকের চিৎকার",
+  "figurative_meaning_en": "The clamor in the middle of the market; shouting of a large crowd",
+  "similar_in_english": [
+    "uproar",
+    "commotion",
+    "hullabaloo",
+    "ruckus"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে হঠাৎ একটা হট্টগোল শুরু হয়ে গেল।",
+    "পাড়ায় এত হট্টগোল হচ্ছে কেন?"
+  ],
+  "example_sentences_in_english": [
+    "Suddenly a commotion started in the market.",
+    "Why is there so much uproar in the neighborhood?"
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing chaos",
+    "social situations"
+  ],
+  "tags": [
+    "noise",
+    "crowd",
+    "market",
+    "chaos",
+    "disorder"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom evokes the lively, noisy atmosphere of traditional Bengali rural markets (haats)."
+}

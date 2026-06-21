@@ -1,0 +1,40 @@
+{
+  "id": "8663",
+  "idiom": "মুখ খোলা",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখ খোলা (opening the mouth)",
+  "figurative_meaning_bn": "কিছুক্ষণ নীরব থাকার পর প্রতিবাদ করতে শুরু করা",
+  "figurative_meaning_en": "Starting to protest or speak out after remaining silent for a while",
+  "similar_in_english": [
+    "speak up",
+    "break the silence",
+    "find one's voice"
+  ],
+  "example_sentences_in_bangla": [
+    "অবহেলিতরা অন্যায়ের বিরুদ্ধে মুখ খুলতে শুরু করেছে।",
+    "দীর্ঘদিন চুপ করে থাকার পর সে অবশেষে মুখ খুলল।"
+  ],
+  "example_sentences_in_english": [
+    "The neglected people have started to speak out against the injustice.",
+    "After staying silent for a long time, he finally opened his mouth."
+  ],
+  "usage_domain": [
+    "social protest",
+    "politics",
+    "everyday conversation"
+  ],
+  "tags": [
+    "protest",
+    "dissent",
+    "silence",
+    "voice"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali cultural emphasis on timely expression of grievances."
+}

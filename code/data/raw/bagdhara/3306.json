@@ -1,0 +1,42 @@
+{
+  "id": "3306",
+  "idiom": "গোকুলে বাড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "গোকুলে বৃদ্ধি পাওয়া (Growing in Gokul)",
+  "figurative_meaning_bn": "অজ্ঞাত স্থানে লুকিয়ে থেকে শক্তি বৃদ্ধি করা",
+  "figurative_meaning_en": "Gaining strength by hiding in an unknown or secret place",
+  "similar_in_english": [
+    "Biding one's time",
+    "Laying low to regroup"
+  ],
+  "example_sentences_in_bangla": [
+    "শত্রুরা ভয় পাচ্ছে কারণ তারা জানে গোকুলে বাড়া শক্তি একদিন প্রকাশ পাবে।",
+    "সে গোকুলে বাড়া করে তার পরিকল্পনা গোপন রেখেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The enemies are afraid because they know the strength growing in secret will one day emerge.",
+    "He is biding his time in hiding, building his power quietly."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Personal strategy",
+    "Literature"
+  ],
+  "tags": [
+    "hiding",
+    "strength",
+    "secret",
+    "growth",
+    "threat"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the mythological story of Lord Krishna, who was hidden in Gokul by his father Vasudeva to protect him from King Kansa, allowing him to grow strong in secret before confronting the tyrant."
+  ],
+  "note": "The idiom draws from Vaishnava traditions prevalent in Bengali culture, symbolizing covert preparation against oppression."
+}

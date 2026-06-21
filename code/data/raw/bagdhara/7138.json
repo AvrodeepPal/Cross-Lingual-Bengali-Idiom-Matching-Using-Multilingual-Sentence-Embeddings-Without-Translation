@@ -1,0 +1,41 @@
+{
+  "id": "7138",
+  "idiom": "ফিলহাল",
+  "alternative_idioms": [
+    "হালফিল"
+  ],
+  "literal_meaning": "বর্তমান অবস্থায় বা এই হালাতে",
+  "figurative_meaning_bn": "আজকাল, এখন, সম্প্রতি",
+  "figurative_meaning_en": "currently, at present, for the time being",
+  "similar_in_english": [
+    "for the time being",
+    "at the moment",
+    "currently"
+  ],
+  "example_sentences_in_bangla": [
+    "ফিলহাল আমি এখানে থাকব।",
+    "ফিলহাল আবহাওয়া খারাপ হচ্ছে না।"
+  ],
+  "example_sentences_in_english": [
+    "For now, I'll stay here.",
+    "At present, the weather isn't bad."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "informal speech"
+  ],
+  "tags": [
+    "time",
+    "present",
+    "temporary",
+    "borrowed word"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Borrowed from Urdu 'filhaal', meaning 'in this state', commonly integrated into Bengali vernacular."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7241",
+  "idiom": "বজ্রাঘাত",
+  "alternative_idioms": [
+    "বিনা মেঘে বজ্রাঘাত"
+  ],
+  "literal_meaning": "বজ্রের আঘাত (thunderbolt strike)",
+  "figurative_meaning_bn": "আকস্মিকভাবে প্রাপ্ত অতি আঘাত",
+  "figurative_meaning_en": "A sudden and severe blow received unexpectedly",
+  "similar_in_english": [
+    "bolt from the blue",
+    "thunderbolt"
+  ],
+  "example_sentences_in_bangla": [
+    "তার জীবনে এই খবরটি বজ্রাঘাতের মতো এসে পড়ল।",
+    "ব্যবসায়ের ক্ষতি এল বজ্রাঘাতের মতো আকস্মিকভাবে।"
+  ],
+  "example_sentences_in_english": [
+    "The news struck him like a thunderbolt.",
+    "The business loss came as a sudden thunderbolt."
+  ],
+  "usage_domain": [
+    "conversation",
+    "literature",
+    "journalism"
+  ],
+  "tags": [
+    "surprise",
+    "disaster",
+    "nature metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Derived from the Bengali proverb 'বিনা মেঘে বজ্রাঘাত', which metaphorically describes an unexpected event like a thunderbolt without preceding clouds, rooted in natural weather observations in rural Bengal."
+  ],
+  "note": "Often used in the extended form 'বিনা মেঘে বজ্রাঘাত' for emphasis on unpredictability."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "7608",
+  "idiom": "বায়ুপরিবর্তন",
+  "alternative_idioms": [],
+  "literal_meaning": "বায়ুর পরিবর্তন (change of air)",
+  "figurative_meaning_bn": "স্বাস্থ্য উদ্ধারের জন্য একস্থান থেকে অন্যস্থানে গমন",
+  "figurative_meaning_en": "Going from one place to another for health recovery",
+  "similar_in_english": [
+    "Change of air",
+    "Change of scene"
+  ],
+  "example_sentences_in_bangla": [
+    "ডাক্তারের পরামর্শে তিনি বায়ুপরিবর্তনের জন্য পাহাড়ে গেলেন।",
+    "স্বাস্থ্যের উন্নতির জন্য বায়ুপরিবর্তন করা দরকার।"
+  ],
+  "example_sentences_in_english": [
+    "On the doctor's advice, he went to the hills for a change of air.",
+    "A change of air is needed for improving health."
+  ],
+  "usage_domain": [
+    "Health",
+    "Travel"
+  ],
+  "tags": [
+    "Medical",
+    "Recuperation",
+    "Journey"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali practices of seeking healthier climates, influenced by colonial-era concepts of sanatoriums."
+}

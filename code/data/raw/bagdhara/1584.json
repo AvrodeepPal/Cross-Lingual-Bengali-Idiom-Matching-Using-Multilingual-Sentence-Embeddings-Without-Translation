@@ -1,0 +1,40 @@
+{
+  "id": "1584",
+  "idiom": "কমজোর",
+  "alternative_idioms": [
+    "কমজোরি"
+  ],
+  "literal_meaning": "কম জোর (reduced strength or force)",
+  "figurative_meaning_bn": "দুর্বল/দুর্বলতা",
+  "figurative_meaning_en": "weakness or frailty",
+  "similar_in_english": [
+    "under the weather",
+    "feeling frail"
+  ],
+  "example_sentences_in_bangla": [
+    "অসুখে ভুগতে ভুগতে সে কমজোর হয়ে পড়েছে।",
+    "দীর্ঘ যাত্রার পর তার শরীর কমজোরি অনুভব করছে।"
+  ],
+  "example_sentences_in_english": [
+    "He has become weak after suffering from illness.",
+    "His body feels frail after the long journey."
+  ],
+  "usage_domain": [
+    "health",
+    "physical condition"
+  ],
+  "tags": [
+    "weakness",
+    "illness",
+    "frailty",
+    "fatigue"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in colloquial Bengali to describe physical debility, often linked to health issues."
+}

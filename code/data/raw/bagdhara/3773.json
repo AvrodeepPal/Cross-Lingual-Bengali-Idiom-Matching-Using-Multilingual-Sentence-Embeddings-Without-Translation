@@ -1,0 +1,39 @@
+{
+  "id": "3773",
+  "idiom": "চষে বেড়ানো",
+  "alternative_idioms": [
+    "টো টো করে ফেরা"
+  ],
+  "literal_meaning": "চাষ করতে করতে ঘুরে বেড়ানো (প্রকৃতপক্ষে কৃষকের মতো বিভিন্ন স্থানে ঘুরাফেরা)",
+  "figurative_meaning_bn": "নানাস্থানে ঘুরে বেড়ানো",
+  "figurative_meaning_en": "To wander around various places",
+  "similar_in_english": [
+    "To roam about",
+    "To wander far and wide"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সারাদিন শহরে চষে বেড়ায়।",
+    "বন্ধুরা গ্রামে চষে বেড়িয়ে অনেক মজা করল।"
+  ],
+  "example_sentences_in_english": [
+    "He wanders around the city all day.",
+    "The friends roamed about the village and had a lot of fun."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Travel descriptions"
+  ],
+  "tags": [
+    "wandering",
+    "roaming",
+    "aimless travel"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Idiom likely derives from the lifestyle of farmers plowing fields in different areas, evoking rural mobility."
+}

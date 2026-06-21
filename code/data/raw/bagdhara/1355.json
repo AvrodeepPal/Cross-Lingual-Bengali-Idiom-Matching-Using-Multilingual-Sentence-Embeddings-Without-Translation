@@ -1,0 +1,38 @@
+{
+  "id": "1355",
+  "idiom": "কড়াকড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "কড়া নিয়মের কঠোরতা (strictness in harsh rules)",
+  "figurative_meaning_bn": "কড়া অনুশাসন",
+  "figurative_meaning_en": "Strict discipline",
+  "similar_in_english": [
+    "Rule with an iron fist",
+    "Crack the whip"
+  ],
+  "example_sentences_in_bangla": [
+    "স্কুলে শিক্ষকের কড়াকড়ি সব ছাত্রকে ভয় পাইয়ে দেয়।",
+    "ঘরে বাবার কড়াকড়ি না থাকলে সন্তানরা অসংযত হয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "The teacher's strict discipline in school instills fear in all students.",
+    "Without the father's strict discipline at home, the children become unruly."
+  ],
+  "usage_domain": [
+    "Education",
+    "Family",
+    "Military"
+  ],
+  "tags": [
+    "অনুশাসন",
+    "কঠোরতা",
+    "নিয়ম"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reduplication emphasizes intensity of strictness in Bengali idiomatic expression."
+}

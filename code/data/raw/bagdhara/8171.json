@@ -1,0 +1,40 @@
+{
+  "id": "8171",
+  "idiom": "ভোজবাজি",
+  "alternative_idioms": [],
+  "literal_meaning": "ভোজের বাজি (অর্থাৎ ভোজের মতো মায়াময় প্রদর্শন বা ছল)",
+  "figurative_meaning_bn": "কেরামতি, জাদু, ম্যাজিক",
+  "figurative_meaning_en": "Miracle, magic, sleight of hand",
+  "similar_in_english": [
+    "Sleight of hand",
+    "Smoke and mirrors",
+    "Now you see it, now you don't"
+  ],
+  "example_sentences_in_bangla": [
+    "এই অদ্ভুত ঘটনাটা দেখে মনে হচ্ছে ভোজবাজি।",
+    "তার কথাগুলো শুনে বুঝলাম এটা সব ভোজবাজি।"
+  ],
+  "example_sentences_in_english": [
+    "Seeing this strange event, it feels like a magic trick.",
+    "After hearing his words, I realized it was all sleight of hand."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Storytelling",
+    "Entertainment"
+  ],
+  "tags": [
+    "Magic",
+    "Illusion",
+    "Deception",
+    "Wonder"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom often used to describe sudden, illusory events that seem miraculous but are deceptive."
+}

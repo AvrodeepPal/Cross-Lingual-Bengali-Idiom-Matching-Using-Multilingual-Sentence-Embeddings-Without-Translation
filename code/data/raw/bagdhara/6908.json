@@ -1,0 +1,39 @@
+{
+  "id": "6908",
+  "idiom": "পিলে চমকানো",
+  "alternative_idioms": [],
+  "literal_meaning": "পিলে (স্প্লিন বা প্লীহা) কাঁপানো বা চমকানো",
+  "figurative_meaning_bn": "পিলে কাঁপানো; ভয়ানক ভয় ধরানো",
+  "figurative_meaning_en": "To cause the spleen to tremble; to instill extreme fear",
+  "similar_in_english": [
+    "Scare the living daylights out of someone",
+    "Give someone the chills"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই দুঃসংবাদ শুনে তার পিলে চমকানো।",
+    "ভূতের গল্প বলে বাচ্চাদের পিলে চমকানো হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "That bad news made his spleen tremble with fear.",
+    "The ghost story scared the children terribly."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Literature",
+    "Fear expression"
+  ],
+  "tags": [
+    "fear",
+    "body part",
+    "emotion",
+    "intensifier"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from traditional Bengali physiology where the spleen is associated with fear responses."
+}

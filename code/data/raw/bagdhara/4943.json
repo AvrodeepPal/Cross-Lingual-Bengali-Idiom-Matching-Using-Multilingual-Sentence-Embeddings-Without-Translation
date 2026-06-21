@@ -1,0 +1,38 @@
+{
+  "id": "4943",
+  "idiom": "টিকি",
+  "alternative_idioms": [],
+  "literal_meaning": "চুলের আগা বা ডগা, চুটকি",
+  "figurative_meaning_bn": "চেতনা, চৈতন্য",
+  "figurative_meaning_en": "consciousness, awareness",
+  "similar_in_english": [
+    "empty-headed",
+    "not all there"
+  ],
+  "example_sentences_in_bangla": [
+    "মাথা আছে টিকি নাই।",
+    "সে দেখতে সুস্থ, কিন্তু টিকি নেই।"
+  ],
+  "example_sentences_in_english": [
+    "He has a head but no tikki (lacks awareness).",
+    "He looks fine, but has no tikki (no consciousness)."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing mental state"
+  ],
+  "tags": [
+    "consciousness",
+    "awareness",
+    "hair metaphor",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom often implies a lack of mental acuity despite physical presence."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2575",
+  "idiom": "খাটো কাপড়",
+  "alternative_idioms": [],
+  "literal_meaning": "খাটো (short) কাপড় (clothes)",
+  "figurative_meaning_bn": "অভাব অনটনের লক্ষণ",
+  "figurative_meaning_en": "a sign of poverty and hardship",
+  "similar_in_english": [
+    "in rags",
+    "down at the heels"
+  ],
+  "example_sentences_in_bangla": [
+    "তার খাটো কাপড় দেখে বোঝা যায় সে দারিদ্র্যের শিকার।",
+    "গ্রামের অনেক লোক এখনও মোটা চাল খাটো কাপড়ের জীবন যাপন করে।"
+  ],
+  "example_sentences_in_english": [
+    "His short clothes indicate that he is suffering from poverty.",
+    "Many villagers still lead a life of coarse rice and short clothes."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature",
+    "social commentary"
+  ],
+  "tags": [
+    "poverty",
+    "hardship",
+    "rural life",
+    "socioeconomic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom often pairs with 'মোটা চাল' to emphasize simple, impoverished living in traditional Bengali contexts."
+}

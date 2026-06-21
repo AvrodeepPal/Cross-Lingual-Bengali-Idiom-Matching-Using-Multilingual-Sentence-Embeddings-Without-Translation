@@ -1,0 +1,38 @@
+{
+  "id": "4507",
+  "idiom": "জম্পতি",
+  "alternative_idioms": [],
+  "literal_meaning": "জামাই ও পতির সংক্ষিপ্ত রূপ (স্বামী-স্ত্রীর যুগল)",
+  "figurative_meaning_bn": "জায়া ও পতি, স্বামী ও স্ত্রী, মিথুনযুগল",
+  "figurative_meaning_en": "husband and wife, married couple",
+  "similar_in_english": [
+    "man and wife",
+    "better half"
+  ],
+  "example_sentences_in_bangla": [
+    "তাদের জম্পতি জীবন খুব সুখী।",
+    "জম্পতি দুজনেই অফিসে কাজ করেন।"
+  ],
+  "example_sentences_in_english": [
+    "Their married life is very happy.",
+    "The couple both work in offices."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships",
+    "marriage"
+  ],
+  "tags": [
+    "couple",
+    "spouse",
+    "matrimony"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a colloquial term commonly used in everyday Bengali speech to refer to a married pair."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4567",
+  "idiom": "জলে পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "জলে পড়া (falling into water)",
+  "figurative_meaning_bn": "অপাত্রে বিয়ে হওয়া",
+  "figurative_meaning_en": "To marry an unsuitable or unworthy person",
+  "similar_in_english": [
+    "Marry beneath one's station",
+    "Cast pearls before swine (in a marital context)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অপাত্রের সাথে বিয়ে করে জলে পড়েছে।",
+    "মেয়েটিকে এমন ছেলের সাথে বিয়ে দিলে জলে পড়বে।"
+  ],
+  "example_sentences_in_english": [
+    "She married an unworthy man and has fallen into the water.",
+    "If you marry the girl off to such a guy, she'll fall into the water."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Family",
+    "Social customs"
+  ],
+  "tags": [
+    "negative",
+    "marriage",
+    "traditional",
+    "warning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom reflects traditional concerns in Bengali society about suitable marital alliances, often used in rural contexts to express regret over mismatched marriages."
+}

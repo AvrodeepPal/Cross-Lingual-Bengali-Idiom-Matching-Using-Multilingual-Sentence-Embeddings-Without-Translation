@@ -1,0 +1,41 @@
+{
+  "id": "4284",
+  "idiom": "ছাড়ছোড়",
+  "alternative_idioms": [
+    "কাটছাঁট",
+    "বাদসাদ"
+  ],
+  "literal_meaning": "প্রায় একার্থক শব্দদ্বয়: ছাড় (পরিত্যাগ বা ছাড়পত্র) এবং ছোড় (ছেড়ে দেওয়া বা ছুটি)",
+  "figurative_meaning_bn": "কিয়দংশ পরিত্যাগ",
+  "figurative_meaning_en": "Partial deduction or abandonment",
+  "similar_in_english": [
+    "cut back",
+    "trim the fat"
+  ],
+  "example_sentences_in_bangla": [
+    "খরচের ছাড়ছোড় করে বাকি টাকা কত রইল?",
+    "বাজেটে ছাড়ছোড় দিয়ে খরচ কমানো দরকার।"
+  ],
+  "example_sentences_in_english": [
+    "After making deductions for expenses, how much money is left?",
+    "We need to trim the budget by making some cuts."
+  ],
+  "usage_domain": [
+    "Finance",
+    "Daily conversation"
+  ],
+  "tags": [
+    "Money",
+    "Deduction",
+    "Reduplication",
+    "Colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reduplicative idiom emphasizing partial letting go or reduction in colloquial Bengali usage."
+}

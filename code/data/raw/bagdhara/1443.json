@@ -1,0 +1,38 @@
+{
+  "id": "1443",
+  "idiom": "কথা ফেলা",
+  "alternative_idioms": [],
+  "literal_meaning": "কথা ফেলা (শব্দ বা কথা নিক্ষেপ করা)",
+  "figurative_meaning_bn": "সিদ্ধান্ত প্রকাশ করা; কোনো বিষয়ে মত স্থির করে বলা",
+  "figurative_meaning_en": "To express a decision; to firmly state an opinion on a matter",
+  "similar_in_english": [
+    "To speak one's mind",
+    "To give one's verdict"
+  ],
+  "example_sentences_in_bangla": [
+    "সভায় সকলে আলোচনা করল, কিন্তু চেয়ারম্যান কথা ফেললেন যে প্রকল্পটি অনুমোদিত।",
+    "বিতর্কের মাঝে তিনি কথা ফেলে বললেন যে এটি অসম্ভব।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone discussed in the meeting, but the chairman firmly stated that the project is approved.",
+    "In the midst of the debate, he expressed his decision that it is impossible."
+  ],
+  "usage_domain": [
+    "Decision-making",
+    "Discussions",
+    "Formal opinions"
+  ],
+  "tags": [
+    "সিদ্ধান্ত",
+    "মতামত",
+    "প্রকাশ"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects the metaphorical idea of 'throwing' words as final and decisive, common in everyday Bengali discourse."
+}

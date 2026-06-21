@@ -1,0 +1,41 @@
+{
+  "id": "7350",
+  "idiom": "বলিরেখা",
+  "alternative_idioms": [],
+  "literal_meaning": "বলির রেখা (sacrifice lines)",
+  "figurative_meaning_bn": "বৃদ্ধ বয়সের শিথিল চামড়ার কুঞ্চনজাত রেখা",
+  "figurative_meaning_en": "Wrinkles formed by the sagging skin in old age",
+  "similar_in_english": [
+    "Wrinkles of old age",
+    "Crow's feet"
+  ],
+  "example_sentences_in_bangla": [
+    "তার গলায় বলিরেখা পড়ে গেছে, বয়সের ছাপ স্পষ্ট।",
+    "বুড়ো মানুষের মুখে বলিরেখা দেখলে বোঝা যায় সময় কীভাবে কাটে।"
+  ],
+  "example_sentences_in_english": [
+    "Wrinkles have appeared on his neck, a clear sign of age.",
+    "The old man's face shows wrinkles, revealing how time passes."
+  ],
+  "usage_domain": [
+    "Physical description",
+    "Aging",
+    "Literature"
+  ],
+  "tags": [
+    "wrinkles",
+    "old age",
+    "body",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom derives from the incision lines on the necks of animals during traditional sacrificial rituals (bali), which visually resemble the wrinkles on an elderly person's sagging skin."
+  ],
+  "note": "Often used poetically to describe the inevitability of aging in Bengali literature."
+}

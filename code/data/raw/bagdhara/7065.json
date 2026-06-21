@@ -1,0 +1,39 @@
+{
+  "id": "7065",
+  "idiom": "ফরফর",
+  "alternative_idioms": [],
+  "literal_meaning": "বায়ুতে হালকা বস্তুর দ্রুত নড়াচড়ার অনুকরণমূলক শব্দ",
+  "figurative_meaning_bn": "বায়ুতে পাতলাদ্রব্যের দ্রুত সঞ্চালনের ভাব",
+  "figurative_meaning_en": "The sensation of rapid movement of thin or light objects in the wind",
+  "similar_in_english": [
+    "fluttering in the wind",
+    "flapping like a flag"
+  ],
+  "example_sentences_in_bangla": [
+    "পতাকা ফরফর করে উড়ছে।",
+    "কাপড়ের টুকরো ফরফর করে উড়ে যাচ্ছে।"
+  ],
+  "example_sentences_in_english": [
+    "The flag is fluttering in the wind.",
+    "The piece of cloth is flapping away rapidly."
+  ],
+  "usage_domain": [
+    "descriptive language",
+    "literature",
+    "everyday conversation"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "nature",
+    "wind",
+    "movement"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic expression commonly used in Bengali to mimic the sound and motion of light objects in the breeze."
+}

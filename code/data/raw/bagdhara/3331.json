@@ -1,0 +1,39 @@
+{
+  "id": "3331",
+  "idiom": "গোদা বাংলা",
+  "alternative_idioms": [],
+  "literal_meaning": "অলঙ্কারবিহীন বা সরল বাংলা ভাষা",
+  "figurative_meaning_bn": "অলঙ্কারবিহীন সহজ সরল বাংলা",
+  "figurative_meaning_en": "Unadorned, simple and straightforward Bengali language",
+  "similar_in_english": [
+    "Plain English",
+    "In layman's terms"
+  ],
+  "example_sentences_in_bangla": [
+    "এই জটিল বিষয়টি গোদা বাংলায় ব্যাখ্যা করুন।",
+    "তিনি গোদা বাংলায় গল্প বলে সবাইকে বুঝিয়ে দেন।"
+  ],
+  "example_sentences_in_english": [
+    "Explain this complex topic in plain Bengali.",
+    "He tells stories in plain Bengali so everyone understands."
+  ],
+  "usage_domain": [
+    "Language and Communication",
+    "Education",
+    "Everyday Speech"
+  ],
+  "tags": [
+    "simplicity",
+    "clarity",
+    "linguistic",
+    "bengali-language"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the preference for straightforward expression in Bengali communication, emphasizing accessibility over ornate language."
+}

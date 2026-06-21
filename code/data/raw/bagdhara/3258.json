@@ -1,0 +1,39 @@
+{
+  "id": "3258",
+  "idiom": "গুরু-লঘু-জ্ঞান",
+  "alternative_idioms": [],
+  "literal_meaning": "গুরু (ভারী/শ্রেষ্ঠ) এবং লঘু (হালকা/নিকৃষ্ট) জ্ঞান",
+  "figurative_meaning_bn": "কথাবার্তায় বড় ছোট জ্ঞান",
+  "figurative_meaning_en": "Knowledge of superiors and inferiors in conversation",
+  "similar_in_english": [
+    "Know your place",
+    "Respect your elders"
+  ],
+  "example_sentences_in_bangla": [
+    "তোমার এখনও গুরু-লঘু-জ্ঞান হয়নি, বড়দের সামনে এমন কথা বলা উচিত নয়।",
+    "সে গুরু-লঘু-জ্ঞান না রেখে সবার সাথে সমানভাবে কথা বলে।"
+  ],
+  "example_sentences_in_english": [
+    "You still don't have the knowledge of superiors and inferiors; you shouldn't speak like that in front of elders.",
+    "He speaks equally to everyone without regard for hierarchy."
+  ],
+  "usage_domain": [
+    "Conversation",
+    "Etiquette",
+    "Family dynamics"
+  ],
+  "tags": [
+    "Respect",
+    "Hierarchy",
+    "Manners",
+    "Speech"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional Bengali emphasis on social hierarchy and respect in interactions."
+}

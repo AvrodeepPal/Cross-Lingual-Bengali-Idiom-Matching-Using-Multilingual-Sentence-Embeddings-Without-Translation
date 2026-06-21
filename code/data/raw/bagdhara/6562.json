@@ -1,0 +1,40 @@
+{
+  "id": "6562",
+  "idiom": "পণ্ডিতি ভাষা",
+  "alternative_idioms": [],
+  "literal_meaning": "পণ্ডিতের ভাষা (scholar's language)",
+  "figurative_meaning_bn": "সংস্কৃতবহুল বাংলাভাষা, খটমটো বাংলাভাষা",
+  "figurative_meaning_en": "Sanskrit-laden Bengali language, stiff or pedantic Bengali speech",
+  "similar_in_english": [
+    "Highfalutin language",
+    "Bombastic speech",
+    "Pedantic jargon"
+  ],
+  "example_sentences_in_bangla": [
+    "তার পণ্ডিতি ভাষা শুনে কেউ বুঝতে পারে না।",
+    "সভায় সবাই সাধারণ ভাষায় কথা বলুন, পণ্ডিতি ভাষা এড়িয়ে চলুন।"
+  ],
+  "example_sentences_in_english": [
+    "No one can understand his pedantic language.",
+    "Speak in plain terms at the meeting, avoid that stiff scholarly speech."
+  ],
+  "usage_domain": [
+    "Language and Communication",
+    "Education",
+    "Literature"
+  ],
+  "tags": [
+    "scholarly",
+    "formal",
+    "pretentious",
+    "linguistic"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the cultural practice in Bengal of incorporating Sanskrit words into Bengali for formal or elevated expression, often seen as overly complex."
+}

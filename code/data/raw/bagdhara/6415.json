@@ -1,0 +1,40 @@
+{
+  "id": "6415",
+  "idiom": "নিজের ঢাক নিজে পেটা",
+  "alternative_idioms": [
+    "নিজের ঢোল নিজে পেটা"
+  ],
+  "literal_meaning": "নিজের নিজস্ব ঢাক বা ঢোলকে নিজে বাজানো",
+  "figurative_meaning_bn": "আত্মপ্রচার করা; আত্মপ্রশংসা করা",
+  "figurative_meaning_en": "To engage in self-promotion or self-praise",
+  "similar_in_english": [
+    "Blow one's own trumpet",
+    "Pat oneself on the back"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় নিজের ঢাক নিজে পেটে, কখনো অন্যের কথা শোনে না।",
+    "প্রকল্পের সাফল্যে তার বন্ধুরা খুশি হলেও, সে নিজের ঢাক নিজে পেটতে শুরু করল।"
+  ],
+  "example_sentences_in_english": [
+    "He always beats his own drum and never listens to others.",
+    "While his friends were happy about the project's success, he started blowing his own trumpet."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Criticism of boastfulness"
+  ],
+  "tags": [
+    "self-praise",
+    "boastfulness",
+    "promotion",
+    "ego"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from traditional Bengali musical instruments like dhak and dhol, commonly used in folk and festive contexts."
+}

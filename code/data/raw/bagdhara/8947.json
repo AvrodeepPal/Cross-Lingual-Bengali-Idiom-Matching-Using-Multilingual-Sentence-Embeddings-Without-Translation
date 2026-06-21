@@ -1,0 +1,41 @@
+{
+  "id": "8947",
+  "idiom": "যা তা",
+  "alternative_idioms": [
+    "যাহা তাহা"
+  ],
+  "literal_meaning": "যা-কিছু, তা-কিছু (যেকোনো কিছু, এলোমেলো ভাবে)",
+  "figurative_meaning_bn": "খারাপ; বাজে; যেমন তেমন করে; যত্নের অভাববোধক",
+  "figurative_meaning_en": "shoddy; worthless; done in a haphazard manner; indicating lack of care",
+  "similar_in_english": [
+    "anyhow",
+    "higgledy-piggledy",
+    "slipshod"
+  ],
+  "example_sentences_in_bangla": [
+    "সে যা তা করে কাজটা শেষ করলো।",
+    "যা তা বলে কথা বলিস না, সাবধানে বল।"
+  ],
+  "example_sentences_in_english": [
+    "He finished the work anyhow.",
+    "Don't speak anyhow; speak carefully."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "work and craftsmanship",
+    "criticism"
+  ],
+  "tags": [
+    "carelessness",
+    "poor quality",
+    "haphazard"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday Bengali expression for lack of effort or quality in actions."
+}

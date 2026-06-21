@@ -1,0 +1,39 @@
+{
+  "id": "8037",
+  "idiom": "ভাতে নয় পাতে মারা",
+  "alternative_idioms": [],
+  "literal_meaning": "ভাতে নয়, পাত্রে মারা (rice-এ নয়, পাত্র বা পাতায় মারা)",
+  "figurative_meaning_bn": "জাতিচ্যুত করা",
+  "figurative_meaning_en": "To excommunicate or ostracize from one's caste or community",
+  "similar_in_english": [
+    "To cast out",
+    "To shun from society"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের লোকেরা তার অপরাধের জন্য তাকে ভাতে নয় পাতে মারা করল।",
+    "সমাজ থেকে বিতাড়িত হয়ে সে ভাতে নয় পাতে মারা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The villagers excommunicated him for his offense by not sharing rice but the leaf.",
+    "He was ostracized from society, effectively killed by the leaf rather than rice."
+  ],
+  "usage_domain": [
+    "Social norms",
+    "Caste system",
+    "Community punishment"
+  ],
+  "tags": [
+    "caste",
+    "ostracism",
+    "social exclusion",
+    "rural tradition"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom originates from the practice of denying food (rice) but providing the eating leaf (banana leaf) as a form of social boycott in traditional Bengali society, particularly linked to Hindu caste customs."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "701",
+  "idiom": "ইবলিশ",
+  "alternative_idioms": [
+    "আস্ত শয়তান",
+    "বদের হাঁড়ি",
+    "শয়তানের হাঁড়ি"
+  ],
+  "literal_meaning": "শয়তান বা দানবের নাম (ইসলামী ধর্মে ইবলিস)",
+  "figurative_meaning_bn": "শয়তানের সর্দার",
+  "figurative_meaning_en": "Chief of the devils",
+  "similar_in_english": [
+    "The devil himself",
+    "Old Scratch"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি তো একটা ইবলিশ, সবসময় খারাপ কাজ করো।",
+    "ওর মতো ইবলিশ আর কোথাও নেই, সবাইকে কষ্ট দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "You are a real devil, always up to no good.",
+    "He is the devil himself, tormenting everyone around him."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "insults"
+  ],
+  "tags": [
+    "religious reference",
+    "negative",
+    "figurative"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "ইবলিশ ইসলামী ধর্মগ্রন্থ কুরআনে উল্লিখিত শয়তানের নাম, যিনি আল্লাহর নির্দেশে আদমকে সিজদা করতে অস্বীকার করে অভিশপ্ত হন।"
+  ],
+  "note": "এটি প্রধানত মুসলিম বাঙালি সমাজে প্রচলিত।"
+}

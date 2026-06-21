@@ -1,0 +1,43 @@
+{
+  "id": "4670",
+  "idiom": "জিভ কাটা",
+  "alternative_idioms": [
+    "জিব কাটা"
+  ],
+  "literal_meaning": "জিভ কাটা (দাঁত দিয়ে জিভ চেপে ধরা)",
+  "figurative_meaning_bn": "অপ্রতিভ হওয়া; দাঁত দিয়ে জিভ চেপে ধরে লজ্জা প্রকাশ করা",
+  "figurative_meaning_en": "To feel embarrassed or awkward; to bite one's tongue with teeth to express shame",
+  "similar_in_english": [
+    "bite one's lip (in embarrassment)",
+    "feel sheepish"
+  ],
+  "example_sentences_in_bangla": [
+    "সে ভুল করে সবার সামনে নাচতে গিয়ে অপ্রতিভ হয়ে জিভ কাটল।",
+    "পরীক্ষায় খারাপ ফল পেয়ে ছেলেটি লজ্জায় জিভ কেটে বসে রইল।"
+  ],
+  "example_sentences_in_english": [
+    "She bit her tongue in embarrassment after accidentally dancing in front of everyone.",
+    "The boy sat biting his tongue in shame after getting poor exam results."
+  ],
+  "usage_domain": [
+    "emotions",
+    "social interactions",
+    "body language"
+  ],
+  "tags": [
+    "embarrassment",
+    "shame",
+    "awkwardness",
+    "non-verbal expression"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from Hindu mythology, where Goddess Kali, in a rage during battle, unknowingly steps on Lord Shiva's chest; upon realizing her mistake, she sticks out her tongue in shame, a pose depicted in traditional iconography."
+  ],
+  "note": "The action symbolizes immediate remorse and embarrassment in Bengali cultural expressions."
+}

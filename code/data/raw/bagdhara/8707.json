@@ -1,0 +1,41 @@
+{
+  "id": "8707",
+  "idiom": "মুখপাত্র",
+  "alternative_idioms": [],
+  "literal_meaning": "মুখের পাত্র (মুখের মাধ্যমে কথা বলার যন্ত্র বা প্রতিনিধি)",
+  "figurative_meaning_bn": "অগ্রণী, প্রতিনিধি; কোনো ব্যক্তি বা প্রতিষ্ঠানের প্রতিনিধিরূপে যিনি কথা বলেন",
+  "figurative_meaning_en": "Leader, representative; someone who speaks on behalf of a person or institution",
+  "similar_in_english": [
+    "spokesperson",
+    "mouthpiece",
+    "frontman"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সংগঠনের মুখপাত্র হিসেবে সকল সিদ্ধান্ত ঘোষণা করেন।",
+    "রাজনৈতিক দলের মুখপাত্র তার বক্তব্য স্পষ্ট করে বললেন।"
+  ],
+  "example_sentences_in_english": [
+    "He acts as the mouthpiece of the organization, announcing all decisions.",
+    "The party's spokesperson clearly stated their position."
+  ],
+  "usage_domain": [
+    "politics",
+    "media",
+    "organizations",
+    "diplomacy"
+  ],
+  "tags": [
+    "representative",
+    "spokesperson",
+    "leader",
+    "advocate"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in formal and institutional contexts in Bengali literature and media."
+}

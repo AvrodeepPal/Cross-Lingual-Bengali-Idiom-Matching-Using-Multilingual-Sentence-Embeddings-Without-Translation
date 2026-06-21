@@ -1,0 +1,39 @@
+{
+  "id": "1437",
+  "idiom": "কথান্তর",
+  "alternative_idioms": [],
+  "literal_meaning": "কথার পরিবর্তন বা অন্তরায়",
+  "figurative_meaning_bn": "কথার খেলাপ",
+  "figurative_meaning_en": "slip of the tongue or verbal mistake",
+  "similar_in_english": [
+    "slip of the tongue",
+    "foot in mouth"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথান্তরে সবাই হাসতে লাগল।",
+    "কথান্তর করে সে নিজেরই লজ্জায় পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "His slip of the tongue made everyone laugh.",
+    "She put her foot in her mouth with that verbal mistake."
+  ],
+  "usage_domain": [
+    "conversation",
+    "language",
+    "social interaction"
+  ],
+  "tags": [
+    "speech error",
+    "mistake",
+    "humor",
+    "everyday language"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom text cleaned by removing numerical suffix; appears to refer to verbal slips common in spoken Bengali."
+}

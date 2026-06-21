@@ -1,0 +1,38 @@
+{
+  "id": "1830",
+  "idiom": "কাকলাস",
+  "alternative_idioms": [],
+  "literal_meaning": "কাকের লাশ (crow's corpse)",
+  "figurative_meaning_bn": "অত্যন্ত কৃশকায় ব্যক্তি",
+  "figurative_meaning_en": "An extremely emaciated person",
+  "similar_in_english": [
+    "skin and bones",
+    "bag of bones"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এতটাই পাতলা যে কাকলাসের মতো লাগে।",
+    "ভাত না খেয়ে থাকলে কাকলাস হয়ে যাবে।"
+  ],
+  "example_sentences_in_english": [
+    "He is so thin that he looks like a crow's corpse.",
+    "If you don't eat properly, you'll end up skin and bones."
+  ],
+  "usage_domain": [
+    "descriptive",
+    "informal conversation",
+    "physical appearance"
+  ],
+  "tags": [
+    "colloquial",
+    "derogatory",
+    "body image"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom uses vivid imagery from everyday rural observations to describe extreme thinness."
+}

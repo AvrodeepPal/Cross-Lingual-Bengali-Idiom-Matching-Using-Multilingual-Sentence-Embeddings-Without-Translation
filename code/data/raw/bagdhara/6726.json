@@ -1,0 +1,39 @@
+{
+  "id": "6726",
+  "idiom": "পাকা রসিদ",
+  "alternative_idioms": [],
+  "literal_meaning": "পাকা (দৃঢ় বা স্থায়ী) + রসিদ (স্বীকৃতিপত্র বা রশিদ)",
+  "figurative_meaning_bn": "চূড়ান্ত বা স্থায়ী স্বীকৃতিপত্র",
+  "figurative_meaning_en": "Final or permanent acknowledgment/receipt",
+  "similar_in_english": [
+    "signed, sealed, and delivered",
+    "a done deal"
+  ],
+  "example_sentences_in_bangla": [
+    "ব্যবসার চুক্তি পাকা রসিদ হয়ে গেছে।",
+    "এখন আর কোনো পরিবর্তন সম্ভব নয়, সব পাকা রসিদ।"
+  ],
+  "example_sentences_in_english": [
+    "The business deal has become a firm receipt.",
+    "No changes are possible now; everything is finalized with a permanent acknowledgment."
+  ],
+  "usage_domain": [
+    "legal",
+    "business",
+    "everyday agreements"
+  ],
+  "tags": [
+    "confirmation",
+    "finality",
+    "agreement",
+    "irrevocable"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom originates from mercantile practices in Bengali culture, emphasizing binding confirmations in transactions."
+}

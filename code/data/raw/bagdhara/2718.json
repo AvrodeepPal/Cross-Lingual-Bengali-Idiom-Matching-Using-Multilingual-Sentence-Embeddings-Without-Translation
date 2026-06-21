@@ -1,0 +1,44 @@
+{
+  "id": "2718",
+  "idiom": "খেজুরে আলাপ",
+  "alternative_idioms": [
+    "গ্যাঁজানো"
+  ],
+  "literal_meaning": "খেজুর গাছ সম্পর্কিত কথাবার্তা",
+  "figurative_meaning_bn": "অর্থহীন বিরক্তিকর অবান্তর কথাবার্তা",
+  "figurative_meaning_en": "Meaningless, annoying, and irrelevant conversation",
+  "similar_in_english": [
+    "idle chatter",
+    "hot air",
+    "empty talk"
+  ],
+  "example_sentences_in_bangla": [
+    "এখন খেজুরে আলাপ করার সময় নয়, কাজে মন দাও।",
+    "তারা সারাদিন খেজুরে আলাপ করে সময় নষ্ট করে।"
+  ],
+  "example_sentences_in_english": [
+    "Now is not the time for idle chatter; focus on the work.",
+    "They waste the whole day with meaningless talk."
+  ],
+  "usage_domain": [
+    "informal conversation",
+    "daily life",
+    "social interactions"
+  ],
+  "tags": [
+    "negative",
+    "conversation",
+    "rural life",
+    "wasted time"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from rural Bengali life where date palm climbers or villagers engage in pointless discussions while working or idling under date palm trees."
+  ],
+  "note": "The idiom reflects the agrarian culture of Bengal where date palms are a common sight."
+}

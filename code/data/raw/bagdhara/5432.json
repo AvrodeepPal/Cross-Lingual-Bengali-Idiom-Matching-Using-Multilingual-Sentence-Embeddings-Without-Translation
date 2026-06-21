@@ -1,0 +1,43 @@
+{
+  "id": "5432",
+  "idiom": "তিমিঙ্গিল",
+  "alternative_idioms": [
+    "তিমিঙ্গিলগিল"
+  ],
+  "literal_meaning": "তিমি (জলচর প্রাণী) গিলে খাওয়া প্রাণী (কাল্পনিক)",
+  "figurative_meaning_bn": "কেউ অজেয় নয়",
+  "figurative_meaning_en": "No one is invincible",
+  "similar_in_english": [
+    "There's always a bigger fish",
+    "Even Homer sometimes nods"
+  ],
+  "example_sentences_in_bangla": [
+    "সে নিজেকে তিমিঙ্গিল ভাবে, কিন্তু তিমিঙ্গিলগিলও আছে।",
+    "জীবনে কখনো অহংকার করো না, তিমিঙ্গিলেরও গিলতে থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He thinks he's a whale-swallowing beast, but there's always a bigger one.",
+    "Don't get arrogant in life; even the mightiest can be swallowed."
+  ],
+  "usage_domain": [
+    "conversational",
+    "motivational",
+    "philosophical"
+  ],
+  "tags": [
+    "invincibility",
+    "hierarchy",
+    "humility",
+    "fictional creature"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom draws from a fictional chain of predators: a timi (whale) is swallowed by a timingil, which is swallowed by a timingil-gil, illustrating endless hierarchy in Bengali folklore expressions."
+  ],
+  "note": "The idiom emphasizes humility through an imaginative, escalating food chain."
+}

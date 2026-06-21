@@ -1,0 +1,41 @@
+{
+  "id": "274",
+  "idiom": "অশ্বত্থামা হত ইতি গজ",
+  "alternative_idioms": [],
+  "literal_meaning": "অশ্বত্থামা মৃত, এমনকি হাতি",
+  "figurative_meaning_bn": "সত্যের আবরণে মিথ্যাভাষণ",
+  "figurative_meaning_en": "Speaking falsehood veiled in truth",
+  "similar_in_english": [
+    "Wolf in sheep's clothing",
+    "Trojan horse"
+  ],
+  "example_sentences_in_bangla": [
+    "সে অশ্বত্থামা হত ইতি গজ করে বলল যে তার বন্ধু মারা গেছে, কিন্তু আসলে তার পোষা প্রাণীটি মারা গিয়েছে।",
+    "রাজনীতিতে এই ধরনের অশ্বত্থামা হত ইতি গজ কৌশল প্রায়ই ব্যবহৃত হয়।"
+  ],
+  "example_sentences_in_english": [
+    "He announced 'Ashwatthama is dead' in the idiomatic sense, implying his friend had passed away, but it was actually his pet that died.",
+    "In politics, such Ashwatthama-hat-iti-gaja tactics are often employed to mislead."
+  ],
+  "usage_domain": [
+    "Conversation",
+    "Literature",
+    "Politics"
+  ],
+  "tags": [
+    "Deception",
+    "Mahabharata",
+    "Mythology",
+    "Lying"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the Mahabharata epic, where Ashwatthama, son of Drona, kills an elephant named Ashwatthama and announces its death to deceive the Pandavas into believing Drona's son is dead, leading to Drona's own demise."
+  ],
+  "note": "The idiom highlights clever misdirection using partial truth, rooted in ancient Indian narrative."
+}

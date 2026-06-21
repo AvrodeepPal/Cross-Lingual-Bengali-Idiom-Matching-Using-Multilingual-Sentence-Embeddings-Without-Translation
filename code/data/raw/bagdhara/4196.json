@@ -1,0 +1,38 @@
+{
+  "id": "4196",
+  "idiom": "চৌরস",
+  "alternative_idioms": [],
+  "literal_meaning": "চারকোনা বা চৌকা আকৃতির",
+  "figurative_meaning_bn": "চৌকা; চারকোনা",
+  "figurative_meaning_en": "square; four-sided",
+  "similar_in_english": [
+    "square"
+  ],
+  "example_sentences_in_bangla": [
+    "জমির খণ্ডটি চৌরস আকৃতির।",
+    "ঘরটি চৌরস করে তৈরি করা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The plot of land is square-shaped.",
+    "The room has been built in a square form."
+  ],
+  "usage_domain": [
+    "geometry",
+    "land measurement",
+    "architecture"
+  ],
+  "tags": [
+    "আকৃতি",
+    "জমি",
+    "চারকোণা"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  " ": "",
+  "note": "This term is often used in the context of traditional land surveying in Bengali rural areas, emphasizing even and balanced measurements."
+}

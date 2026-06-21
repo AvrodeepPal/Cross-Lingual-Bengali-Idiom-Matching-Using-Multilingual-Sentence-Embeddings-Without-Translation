@@ -1,0 +1,38 @@
+{
+  "id": "4992",
+  "idiom": "টেক্কা দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "চড় দেওয়া বা প্রত্যুত্তর দেওয়া (শাব্দিকভাবে একটি আঘাত বা প্রতিক্রিয়া প্রদান)",
+  "figurative_meaning_bn": "পাল্লা দেওয়া; প্রতিযোগিতায় অংশগ্রহণ করা",
+  "figurative_meaning_en": "To compete on equal terms or give a fitting retort",
+  "similar_in_english": [
+    "Tit for tat",
+    "Give as good as one gets"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বন্ধুর টিটকিরিতে টেক্কা দিয়ে উত্তর দিল।",
+    "খেলায় প্রতিপক্ষকে টেক্কা দেওয়ার জন্য তারা কঠোর পরিশ্রম করল।"
+  ],
+  "example_sentences_in_english": [
+    "She gave him a fitting retort to his sarcasm.",
+    "They trained hard to match their rivals in the competition."
+  ],
+  "usage_domain": [
+    "conversation",
+    "competition",
+    "arguments"
+  ],
+  "tags": [
+    "retaliation",
+    "competition",
+    "response"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often implies verbal or competitive equality in everyday Bengali interactions."
+}

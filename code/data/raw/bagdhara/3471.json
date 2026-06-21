@@ -1,0 +1,41 @@
+{
+  "id": "3471",
+  "idiom": "ঘরের লোক",
+  "alternative_idioms": [],
+  "literal_meaning": "ঘরের মানুষ বা ঘরের লোকজন (household people)",
+  "figurative_meaning_bn": "আত্মীয়-পরিজন",
+  "figurative_meaning_en": "relatives or family members",
+  "similar_in_english": [
+    "family and kin",
+    "one's own people"
+  ],
+  "example_sentences_in_bangla": [
+    "ঘরের লোকেরাই সবচেয়ে বিশ্বস্ত সঙ্গী।",
+    "খয়রাতের কাজ ঘরের লোক দিয়ে শুরু করা উচিত।"
+  ],
+  "example_sentences_in_english": [
+    "Family members are the most trustworthy companions.",
+    "Charity should begin with one's own relatives."
+  ],
+  "usage_domain": [
+    "family",
+    "relationships",
+    "proverbs"
+  ],
+  "tags": [
+    "family",
+    "relatives",
+    "trust",
+    "proverb"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom is part of the proverb suggesting that charity or good deeds begin with one's own family members."
+  ],
+  "note": "Often used in contexts emphasizing familial obligations and starting benevolence from home."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4479",
+  "idiom": "জনসমক্ষে নোংরা কাপড় কাচা",
+  "alternative_idioms": [],
+  "literal_meaning": "জনসমক্ষে নোংরা কাপড় ধোয়া",
+  "figurative_meaning_bn": "অন্তরঙ্গ পারিবারিক বিষয় জনসমক্ষে আলোচনা করা যা উচিত নয়",
+  "figurative_meaning_en": "Discussing intimate family matters in public, which is inappropriate",
+  "similar_in_english": [
+    "Air one's dirty laundry in public",
+    "Wash one's dirty linen in public"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বিয়ের সমস্যা জনসমক্ষে নোংরা কাপড় কাচার মতো প্রকাশ করে ফেলল।",
+    "পরিবারের গোপনীয়তা রক্ষা করা উচিত, জনসমক্ষে নোংরা কাপড় কাচা যেন না হয়।"
+  ],
+  "example_sentences_in_english": [
+    "She aired her marital issues in public like washing dirty laundry.",
+    "Family secrets should be kept private to avoid washing dirty linen in public."
+  ],
+  "usage_domain": [
+    "family",
+    "social etiquette",
+    "conversation"
+  ],
+  "tags": [
+    "privacy",
+    "family matters",
+    "public disclosure",
+    "taboo"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes cultural norms of discretion in Bengali society."
+}

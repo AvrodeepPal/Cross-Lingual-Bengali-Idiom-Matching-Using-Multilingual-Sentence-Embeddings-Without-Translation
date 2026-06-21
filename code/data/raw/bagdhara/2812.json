@@ -1,0 +1,40 @@
+{
+  "id": "2812",
+  "idiom": "গঙ্গাজলি",
+  "alternative_idioms": [],
+  "literal_meaning": "গঙ্গার জল প্রদান",
+  "figurative_meaning_bn": "মুমূর্ষুব্যক্তির মুখে গঙ্গাজল প্রদানের সংস্কার",
+  "figurative_meaning_en": "The ritual of providing Ganga water to the mouth of a dying person",
+  "similar_in_english": [
+    "Administering last rites",
+    "Extreme unction"
+  ],
+  "example_sentences_in_bangla": [
+    "তার মৃত্যুক্ষণে পরিবারের সদস্যরা গঙ্গাজলি করল।",
+    "প্রাচীন সংস্কার অনুসারে গঙ্গাজলি অত্যন্ত পবিত্র বলে বিবেচিত।"
+  ],
+  "example_sentences_in_english": [
+    "The family performed Ganga jali at his deathbed.",
+    "According to ancient customs, Ganga jali is considered highly sacred."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Rituals",
+    "Death"
+  ],
+  "tags": [
+    "Hindu",
+    "Purification",
+    "Last rites"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This practice stems from Hindu beliefs where Ganga water is believed to grant moksha (liberation) to the soul of the dying person, purifying sins and ensuring a peaceful afterlife."
+  ],
+  "note": "Refers to a sacred Hindu ritual deeply embedded in Bengali Hindu traditions."
+}

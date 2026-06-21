@@ -1,0 +1,39 @@
+{
+  "id": "3014",
+  "idiom": "গলায় আঁকশি দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "গলায় আঁকশি বসানো বা দেওয়া (to put a hook on the neck)",
+  "figurative_meaning_bn": "পাওনা মিটিয়ে দিয়ে বাধ্য করা",
+  "figurative_meaning_en": "To force someone into obligation by settling their debt",
+  "similar_in_english": [
+    "To have someone on the hook",
+    "To hold a mortgage on someone"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার ঋণ শোধ করে গলায় আঁকশি দিয়েছে, এখন সব কাজ করাতে হবে।",
+    "ব্যবসায়ীটি কর্মচারীর পুরনো ঋণ মিটিয়ে গলায় আঁকশি দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He paid off his debt and now has him on the hook for favors.",
+    "The businessman settled the worker's old loan, putting a hook around his neck."
+  ],
+  "usage_domain": [
+    "finance",
+    "relationships",
+    "business"
+  ],
+  "tags": [
+    "obligation",
+    "debt",
+    "manipulation",
+    "control"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the imagery of fishing hooks, symbolizing inescapable control through financial leverage in everyday Bengali life."
+}

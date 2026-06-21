@@ -1,0 +1,39 @@
+{
+  "id": "9765",
+  "idiom": "সার কথা",
+  "alternative_idioms": [],
+  "literal_meaning": "কথার সারাংশ বা নির্যাস",
+  "figurative_meaning_bn": "বক্ত্যব্যের নির্যাস",
+  "figurative_meaning_en": "The essence or gist of a statement",
+  "similar_in_english": [
+    "In a nutshell",
+    "The bottom line",
+    "The long and the short of it"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বক্তৃতার সার কথা হলো যে পরিবর্তন আনা জরুরি।",
+    "সার কথা বলুন, বিস্তারিত বর্ণনা দিতে হবে না।"
+  ],
+  "example_sentences_in_english": [
+    "The essence of his speech is that change is necessary.",
+    "Get to the point; no need for detailed explanations."
+  ],
+  "usage_domain": [
+    "communication",
+    "summary",
+    "conversation"
+  ],
+  "tags": [
+    "essence",
+    "conciseness",
+    "summary"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is widely used in everyday Bengali discourse to emphasize brevity and core ideas."
+}

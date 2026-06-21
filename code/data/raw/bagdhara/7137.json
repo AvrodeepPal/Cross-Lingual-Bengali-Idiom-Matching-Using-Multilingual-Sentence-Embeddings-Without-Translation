@@ -1,0 +1,41 @@
+{
+  "id": "7137",
+  "idiom": "ফিরিস্তি",
+  "alternative_idioms": [],
+  "literal_meaning": "তালিকা বা নিবন্ধনপত্র",
+  "figurative_meaning_bn": "ফর্দ, তালিকা",
+  "figurative_meaning_en": "List or register, especially of demands",
+  "similar_in_english": [
+    "laundry list",
+    "shopping list of demands"
+  ],
+  "example_sentences_in_bangla": [
+    "পাত্রপক্ষের দাবীর ফিরিস্তি দেখে পাত্রীপক্ষের চক্ষুস্থির হয়ে গেল।",
+    "বিয়ের আলোচনায় তারা একটা লম্বা ফিরিস্তি তুলে ধরল।"
+  ],
+  "example_sentences_in_english": [
+    "The bride's family was stunned seeing the list of demands from the groom's side.",
+    "In the marriage negotiations, they presented a long list of requirements."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Negotiations",
+    "Formal requests"
+  ],
+  "tags": [
+    "demands",
+    "list",
+    "marriage customs",
+    "bargaining"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The term 'ফিরিস্তি' is derived from the Persian word 'fihrist', which means an index or list, commonly used in administrative and matrimonial contexts in Bengali culture."
+  ],
+  "note": "Primarily used in the context of marriage proposals to denote a formal list of conditions or dowry demands."
+}

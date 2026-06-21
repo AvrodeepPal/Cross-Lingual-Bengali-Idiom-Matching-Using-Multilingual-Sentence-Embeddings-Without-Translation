@@ -1,0 +1,41 @@
+{
+  "id": "5315",
+  "idiom": "তক্কেতক্কে",
+  "alternative_idioms": [
+    "তাকেতাকে",
+    "টকেটকে"
+  ],
+  "literal_meaning": "টিক-টিক শব্দের অনুকরণ (যেমন ঘড়ির টিকটিকির মতো অপেক্ষার শব্দ)",
+  "figurative_meaning_bn": "সুযোগের অপেক্ষায় থাকা",
+  "figurative_meaning_en": "Waiting for an opportunity",
+  "similar_in_english": [
+    "Bide one's time",
+    "Lay in wait"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তক্কেতক্কে করে সঠিক সুযোগের অপেক্ষায় আছে।",
+    "ব্যবসায়ে লাভের জন্য তক্কেতক্কে করা উচিত নয় সবসময়।"
+  ],
+  "example_sentences_in_english": [
+    "He is waiting patiently for the right opportunity.",
+    "In business, one shouldn't always bide their time waiting for profit."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Personal advice"
+  ],
+  "tags": [
+    "waiting",
+    "opportunity",
+    "patience",
+    "caution"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom appears to be onomatopoeic, mimicking the sound of waiting or ticking time, possibly a regional variant."
+}

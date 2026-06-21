@@ -1,0 +1,39 @@
+{
+  "id": "9148",
+  "idiom": "রাস্তার লোক",
+  "alternative_idioms": [],
+  "literal_meaning": "রাস্তার ব্যক্তি (street person)",
+  "figurative_meaning_bn": "অচেনা লোক; অপরিচিত ব্যক্তি",
+  "figurative_meaning_en": "Stranger; unfamiliar person",
+  "similar_in_english": [
+    "Stranger",
+    "Random person",
+    "Face in the crowd"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন রাস্তার লোক, তাকে এত সহজে বিশ্বাস করো না।",
+    "রাস্তার লোকের কথায় কান দিও না, তারা প্রায়ই ছল করে।"
+  ],
+  "example_sentences_in_english": [
+    "He's just a stranger from the street; don't trust him so easily.",
+    "Don't pay heed to the words of a random person; they often deceive."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Caution and advice"
+  ],
+  "tags": [
+    "stranger",
+    "unknown",
+    "caution",
+    "urban"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This idiom is used to refer to unknown individuals encountered in public spaces, often implying a need for caution."
+}

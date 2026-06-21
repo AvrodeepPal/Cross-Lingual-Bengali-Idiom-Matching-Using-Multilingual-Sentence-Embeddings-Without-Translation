@@ -1,0 +1,34 @@
+{
+  "id": "2765",
+  "idiom": "খোরাকি",
+  "alternative_idioms": [],
+  "literal_meaning": "খোরাক বা খাদ্য সরঞ্জাম সম্পর্কিত",
+  "figurative_meaning_bn": "খাইখরচ",
+  "figurative_meaning_en": "food expenses",
+  "similar_in_english": [],
+  "example_sentences_in_bangla": [
+    "খোরাকি বাবদ অতিরিক্ত টাকা লাগবে।",
+    "ভ্রমণের সময় খোরাকির জন্য বাজেট বাড়িয়ে নাও।"
+  ],
+  "example_sentences_in_english": [
+    "Extra money will be needed for food expenses.",
+    "Budget more for provisions during the trip."
+  ],
+  "usage_domain": [
+    "daily life",
+    "finance"
+  ],
+  "tags": [
+    "food",
+    "expense",
+    "provisions"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to additional costs for eating and provisions in everyday contexts."
+}

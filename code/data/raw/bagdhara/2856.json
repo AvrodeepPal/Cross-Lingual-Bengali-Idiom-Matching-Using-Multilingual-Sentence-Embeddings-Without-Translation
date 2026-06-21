@@ -1,0 +1,40 @@
+{
+  "id": "2856",
+  "idiom": "গজস্কন্ধ",
+  "alternative_idioms": [
+    "বৃষস্কন্ধ"
+  ],
+  "literal_meaning": "হাতির কাঁধ",
+  "figurative_meaning_bn": "হাতির কাঁধের মতো মোটা কাঁধ যার; স্থূলস্কন্ধযুক্ত ব্যক্তি",
+  "figurative_meaning_en": "A person with shoulders as broad and thick as an elephant's; someone with robust, broad shoulders",
+  "similar_in_english": [
+    "broad-shouldered",
+    "built like an ox"
+  ],
+  "example_sentences_in_bangla": [
+    "তার গজস্কন্ধ দেহ দেখলে কেউই ভয় পায় না।",
+    "গ্রামের এই গজস্কন্ধ যুবকটি সবাইকে সাহায্য করে।"
+  ],
+  "example_sentences_in_english": [
+    "His broad-shouldered build makes no one fear him.",
+    "This broad-shouldered youth from the village helps everyone."
+  ],
+  "usage_domain": [
+    "physical description",
+    "literature",
+    "folklore"
+  ],
+  "tags": [
+    "body build",
+    "strength",
+    "descriptive idiom"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from animal imagery common in classical Bengali literature, emphasizing physical prowess."
+}

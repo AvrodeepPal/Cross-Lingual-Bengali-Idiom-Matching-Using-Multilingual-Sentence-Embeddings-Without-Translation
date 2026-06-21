@@ -1,0 +1,39 @@
+{
+  "id": "10040",
+  "idiom": "হাড় কাটে তো মাস কাটে না",
+  "alternative_idioms": [],
+  "literal_meaning": "হাড় কাটে কিন্তু মাংস কাটে না",
+  "figurative_meaning_bn": "অত্যন্ত ভোঁতা অথচ ভারী অস্ত্র; ভারহেতু হাড় ভাঙে কিন্তু ধার না থাকায় মাংস কাটে না",
+  "figurative_meaning_en": "An extremely blunt yet heavy weapon; its weight breaks bones, but lack of sharpness prevents it from cutting flesh",
+  "similar_in_english": [
+    "blunt instrument",
+    "sledgehammer approach"
+  ],
+  "example_sentences_in_bangla": [
+    "এই কাস্তে তলোয়ারটা হাড় কাটে তো মাস কাটে না, তাই যুদ্ধে কাজে লাগে না।",
+    "তার যুক্তি হাড় কাটে তো মাস কাটে না, শুধু ভয় দেখায় কিন্তু সমাধান দেয় না।"
+  ],
+  "example_sentences_in_english": [
+    "This rusty sword cuts bone but not flesh, so it's useless in battle.",
+    "His argument cuts bone but not flesh; it intimidates but doesn't solve anything."
+  ],
+  "usage_domain": [
+    "weapons",
+    "tools",
+    "metaphorical criticism"
+  ],
+  "tags": [
+    "figurative",
+    "bluntness",
+    "ineffectiveness",
+    "rural tools"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to traditional blunt tools in agrarian or warrior contexts"
+}

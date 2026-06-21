@@ -1,0 +1,40 @@
+{
+  "id": "6270",
+  "idiom": "না রাম না গঙ্গা",
+  "alternative_idioms": [],
+  "literal_meaning": "না রাম না গঙ্গা (না রামের, না গঙ্গার)",
+  "figurative_meaning_bn": "কোনকিছু না মানা; ধর্মের ধার না ধারা; ধর্মহীন ব্যক্তি",
+  "figurative_meaning_en": "Not adhering to anything; not following religious principles; an irreligious person",
+  "similar_in_english": [
+    "neither fish nor fowl",
+    "godless"
+  ],
+  "example_sentences_in_bangla": [
+    "সে না রাম না গঙ্গা, কোনো ধর্মীয় আচার মানে না।",
+    "এই লোকটি না রাম না গঙ্গা, সব নিয়ম ভাঙে।"
+  ],
+  "example_sentences_in_english": [
+    "He is neither Ram nor Ganga; he doesn't follow any religious customs.",
+    "This man is neither Ram nor Ganga; he breaks every rule."
+  ],
+  "usage_domain": [
+    "religion",
+    "morality",
+    "behavior"
+  ],
+  "tags": [
+    "irreligious",
+    "non-conformist",
+    "adharmik"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The idiom references Hindu mythology, where 'Ram' alludes to Lord Rama, an incarnation of Vishnu, and 'Ganga' to the sacred river Ganges, symbolizing disregard for core Hindu religious symbols."
+  ],
+  "note": "Commonly used in Bengali Hindu contexts to denote moral or religious indifference."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "9100",
+  "idiom": "রাতারাতি",
+  "alternative_idioms": [],
+  "literal_meaning": "রাত রাত (দ্বিত্বকরণে রাতের সময়ে দ্রুত)",
+  "figurative_meaning_bn": "রাতের মধ্যে; রাত থাকতে থাকতেই; রাত পোহাতে না পোহাতেই",
+  "figurative_meaning_en": "overnight; suddenly in the middle of the night; before dawn breaks",
+  "similar_in_english": [
+    "overnight",
+    "at the drop of a hat",
+    "in the twinkling of an eye"
+  ],
+  "example_sentences_in_bangla": [
+    "রাতারাতি বাড়ীটা তুলে ফেললো।",
+    "সে রাতারাতি ধনী হয়ে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He built the house overnight.",
+    "She became rich overnight."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "sudden changes",
+    "success stories"
+  ],
+  "tags": [
+    "sudden",
+    "quick",
+    "night",
+    "transformation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Reduplication emphasizes rapidity in Bengali idiomatic expression"
+}

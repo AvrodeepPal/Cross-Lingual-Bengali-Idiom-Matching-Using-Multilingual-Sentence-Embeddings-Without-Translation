@@ -1,0 +1,43 @@
+{
+  "id": "680",
+  "idiom": "ইতরবিশেষ",
+  "alternative_idioms": [
+    "উনিশ-বিশ",
+    "যাহা বাহান্ন তাহাই তিপ্পান্ন"
+  ],
+  "literal_meaning": "অন্য বিশেষ (other particulars or minor distinctions)",
+  "figurative_meaning_bn": "অন্য থেকে পার্থক্য; কমবেশি প্রভেদ; সামান্য পার্থক্য",
+  "figurative_meaning_en": "difference from others; more or less distinction; slight difference",
+  "similar_in_english": [
+    "six of one and half a dozen of the other",
+    "splitting hairs",
+    "much of a muchness"
+  ],
+  "example_sentences_in_bangla": [
+    "দুজনের মধ্যে ইতরবিশেষ নেই।",
+    "এই দুটি পদ্ধতির মধ্যে কোনো ইতরবিশেষ নেই।"
+  ],
+  "example_sentences_in_english": [
+    "There is no difference between the two.",
+    "There is no significant difference between these two methods."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "comparison",
+    "decision-making"
+  ],
+  "tags": [
+    "difference",
+    "similarity",
+    "indifference",
+    "triviality"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes negligible differences, commonly used in colloquial Bengali to dismiss minor variations."
+}

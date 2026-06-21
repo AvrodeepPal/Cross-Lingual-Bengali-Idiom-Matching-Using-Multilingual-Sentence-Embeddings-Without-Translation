@@ -1,0 +1,40 @@
+{
+  "id": "7380",
+  "idiom": "বসে পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "বসে যাওয়া বা পড়ে যাওয়া (sitting down or falling down)",
+  "figurative_meaning_bn": "নিবৃত্ত হওয়া, বিপন্ন হইয়া, হতাশ হওয়া ইত্যাদি",
+  "figurative_meaning_en": "to become despondent, to be in distress, to become disheartened, etc.",
+  "similar_in_english": [
+    "to throw in the towel",
+    "to give up the ghost",
+    "to slump in defeat"
+  ],
+  "example_sentences_in_bangla": [
+    "কাজটা না পেয়ে হতাশায় সে বসে পড়েছে।",
+    "পরীক্ষায় ফেল করার পর ছেলেটি বসে পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "Disappointed at not getting the job, he sat down dejectedly.",
+    "After failing the exam, the boy became disheartened and gave up."
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation",
+    "personal setbacks"
+  ],
+  "tags": [
+    "disappointment",
+    "despair",
+    "giving up",
+    "emotional distress"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects everyday emotional expressions in Bengali culture, often used in contexts of failure or loss."
+}

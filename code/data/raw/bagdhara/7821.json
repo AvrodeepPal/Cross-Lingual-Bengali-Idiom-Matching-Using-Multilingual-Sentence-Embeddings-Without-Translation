@@ -1,0 +1,42 @@
+{
+  "id": "7821",
+  "idiom": "বুর্জোয়া",
+  "alternative_idioms": [
+    "বুর্জুয়া"
+  ],
+  "literal_meaning": "মধ্যবিত্ত বা শহুরে মধ্যবর্গীয় ব্যক্তি",
+  "figurative_meaning_bn": "মধ্যবিত্ত ও প্রাচীনপন্থী",
+  "figurative_meaning_en": "Middle-class and conservative",
+  "similar_in_english": [
+    "Bourgeois",
+    "Middle-class conservative"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি একজন ক্লাসিক বুর্জোয়া মানুষ, সবসময় নতুন পরিবর্তনের বিরোধী।",
+    "আধুনিক সমাজে বুর্জোয়া চিন্তাধারা এখনও প্রচলিত।"
+  ],
+  "example_sentences_in_english": [
+    "He is a classic bourgeois person, always opposing new changes.",
+    "Bourgeois thinking is still prevalent in modern society."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Sociology",
+    "Literature"
+  ],
+  "tags": [
+    "Class structure",
+    "Conservatism",
+    "Marxism"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "Borrowed from French 'bourgeois' through Marxist literature and political discourse in Bengal during the 19th-20th century colonial and post-colonial periods."
+  ],
+  "note": "Often carries a pejorative connotation in leftist Bengali intellectual circles."
+}

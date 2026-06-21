@@ -1,0 +1,38 @@
+{
+  "id": "5574",
+  "idiom": "থাকা-খাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "থাকা এবং খাওয়া (staying and eating)",
+  "figurative_meaning_bn": "খোরপোশ, ভাত-কাপড়; বাসস্থান ও খাওয়াদাওয়া",
+  "figurative_meaning_en": "board and lodging; shelter and sustenance",
+  "similar_in_english": [
+    "room and board",
+    "bed and board"
+  ],
+  "example_sentences_in_bangla": [
+    "চাকরির সাথে থাকা-খাওয়ার ব্যবস্থা করতে হবে।",
+    "গ্রামে থাকা-খাওয়া সহজ এবং সস্তা।"
+  ],
+  "example_sentences_in_english": [
+    "The job comes with board and lodging arrangements.",
+    "Living and eating in the village is simple and inexpensive."
+  ],
+  "usage_domain": [
+    "employment",
+    "daily life",
+    "hospitality"
+  ],
+  "tags": [
+    "necessities",
+    "practical",
+    "livelihood"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to basic provisions for living, common in contexts of work or travel in Bengali society."
+}

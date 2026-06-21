@@ -1,0 +1,41 @@
+{
+  "id": "9568",
+  "idiom": "সংসারধর্ম",
+  "alternative_idioms": [],
+  "literal_meaning": "সংসারের ধর্ম (household duty or family dharma)",
+  "figurative_meaning_bn": "পুরুষের গার্হস্থ্যজীবন- স্ত্রী-পুত্র নিয়ে লোকালয়ে বসবাস করা",
+  "figurative_meaning_en": "A man's householder life - living in the world with wife and children",
+  "similar_in_english": [
+    "settling down",
+    "family man"
+  ],
+  "example_sentences_in_bangla": [
+    "তার বয়স হয়েছে, এখন সংসারধর্ম পালন করার সময়।",
+    "সংসারধর্ম না নিলে জীবন অসম্পূর্ণ।"
+  ],
+  "example_sentences_in_english": [
+    "He is of age now; it's time to take up householder duties.",
+    "Without embracing family life, one's existence feels incomplete."
+  ],
+  "usage_domain": [
+    "family",
+    "marriage",
+    "daily life"
+  ],
+  "tags": [
+    "household",
+    "duty",
+    "grihastha",
+    "traditional"
+  ],
+  "frequency": "common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the grihastha ashrama in Hindu life stages, emphasizing family responsibilities as a religious duty."
+  ],
+  "note": "Rooted in Hindu concepts of dharma, common in Bengali literature and everyday traditional discourse."
+}

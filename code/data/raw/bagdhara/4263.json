@@ -1,0 +1,41 @@
+{
+  "id": "4263",
+  "idiom": "ছাঁদনদড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "দুধদোহনের সময় গরুর দু'পা যে দড়িতে বাঁধা হয়",
+  "figurative_meaning_bn": "অবিচ্ছেদ্য বন্ধন, বিশেষত বিবাহ বা গৃহস্থালীর দায়িত্ব যা থেকে মুক্তি পাওয়া কঠিন",
+  "figurative_meaning_en": "An inescapable bond, especially the ties of marriage or household responsibilities that are hard to break free from",
+  "similar_in_english": [
+    "Ball and chain",
+    "Tied the knot"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের পর ছাঁদনদড়ির মতো সে আর স্বাধীন থাকতে পারল না।",
+    "পরিবারের দায়িত্ব ছাঁদনদড়ির মতো বাঁধা।"
+  ],
+  "example_sentences_in_english": [
+    "After marriage, he could no longer remain free like being tied with a chhandan dari.",
+    "Family responsibilities bind one like a chhandan dari."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Family life",
+    "Daily constraints"
+  ],
+  "tags": [
+    "binding",
+    "restriction",
+    "rural life",
+    "marriage"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Originates from traditional agrarian practices in Bengal where cows are restrained during milking to prevent movement."
+  ],
+  "note": "This idiom reflects the agrarian roots of Bengali culture, emphasizing inescapable obligations."
+}

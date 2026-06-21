@@ -1,0 +1,41 @@
+{
+  "id": "6122",
+  "idiom": "ধোঁকার টাটি",
+  "alternative_idioms": [
+    "ধোখে কী টট্টী"
+  ],
+  "literal_meaning": "ধোঁকা (প্রতারণা) এর টাটি (মাটির ঘট বা পাত্র)",
+  "figurative_meaning_bn": "কুহক/মায়াজাল",
+  "figurative_meaning_en": "Deception or illusory trap",
+  "similar_in_english": [
+    "smoke and mirrors",
+    "house of cards"
+  ],
+  "example_sentences_in_bangla": [
+    "এই সংসার ধোঁকার টাটি, কিছুই স্থায়ী নয়।",
+    "তার প্রতিশ্রুতি ধোঁকার টাটি প্রমাণিত হলো।"
+  ],
+  "example_sentences_in_english": [
+    "This world is a pot of deception; nothing is permanent.",
+    "His promises turned out to be nothing but an illusory trap."
+  ],
+  "usage_domain": [
+    "philosophy",
+    "daily conversation",
+    "literature"
+  ],
+  "tags": [
+    "deception",
+    "illusion",
+    "maya",
+    "worldliness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom draws from the philosophical concept of 'maya' in Bengali-Hindu thought, portraying worldly existence as transient and deceptive."
+}

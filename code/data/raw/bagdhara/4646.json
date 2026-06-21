@@ -1,0 +1,40 @@
+{
+  "id": "4646",
+  "idiom": "জালিয়াত",
+  "alternative_idioms": [],
+  "literal_meaning": "জাল (net) ব্যবহারকারী বা জাল তৈরিকারী (net-maker or net-user)",
+  "figurative_meaning_bn": "ধড়িবাজ; ধোঁকাবাজ; প্রতারক; প্রবঞ্চক; শট",
+  "figurative_meaning_en": "cheat; swindler; deceiver; fraudster; sharper",
+  "similar_in_english": [
+    "con artist",
+    "sharper",
+    "swindler"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা জালিয়াত, কখনো বিশ্বাস করিস না তার কথায়।",
+    "বাজারে এই জালিয়াতরা সবাইকে ঠকিয়ে লাভ করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a real swindler; never trust his words.",
+    "These con artists in the market cheat everyone for profit."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "literature"
+  ],
+  "tags": [
+    "deception",
+    "fraud",
+    "hypocrisy"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References Kazi Nazrul Islam's poem where 'জাত-জালিয়াত' criticizes hypocritical gamblers using caste names, highlighting social satire in early 20th-century Bengal."
+  ],
+  "note": "The term may derive from the literal occupation of net-making, metaphorically implying entrapment through deceit."
+}

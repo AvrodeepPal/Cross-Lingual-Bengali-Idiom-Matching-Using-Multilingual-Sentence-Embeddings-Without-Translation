@@ -1,0 +1,40 @@
+{
+  "id": "2070",
+  "idiom": "কাবু",
+  "alternative_idioms": [],
+  "literal_meaning": "জব্দকৃত বা পরাজিত অবস্থা (প্রতিযোগিতা বা যুদ্ধে পতন)",
+  "figurative_meaning_bn": "জব্দ, দুর্বল, বশীভূত; হীনবল",
+  "figurative_meaning_en": "Subdued, weakened, under control; inferior in strength",
+  "similar_in_english": [
+    "down and out",
+    "knocked out",
+    "at one's mercy"
+  ],
+  "example_sentences_in_bangla": [
+    "জ্বরে সে একেবারে কাবু হয়ে গেছে।",
+    "আমাকে কাবু করা সহজ নয়।"
+  ],
+  "example_sentences_in_english": [
+    "He is completely knocked out by the fever.",
+    "It's not easy to subdue me."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "health and illness",
+    "competition and rivalry"
+  ],
+  "tags": [
+    "weakness",
+    "defeat",
+    "subjugation",
+    "illness"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Idiom borrowed from Persian/Urdu, commonly used in colloquial Bengali to denote overpowering or debilitation."
+}

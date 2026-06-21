@@ -1,0 +1,38 @@
+{
+  "id": "4713",
+  "idiom": "জোট পাকানো",
+  "alternative_idioms": [],
+  "literal_meaning": "জোট গঠন করা বা বাঁধা",
+  "figurative_meaning_bn": "ষড়যন্ত্র করা",
+  "figurative_meaning_en": "To conspire or plot secretly",
+  "similar_in_english": [
+    "hatch a plot",
+    "form a conspiracy"
+  ],
+  "example_sentences_in_bangla": [
+    "তারা গোপনে জোট পাকিয়ে বিরোধীকে পরাজিত করার পরিকল্পনা করল।",
+    "অফিসে কয়েকজন কর্মী জোট পাকানোর চেষ্টা করছে বসের বিরুদ্ধে।"
+  ],
+  "example_sentences_in_english": [
+    "They secretly formed a coalition to plot against their rival.",
+    "Some employees are conspiring by forming an alliance against the boss."
+  ],
+  "usage_domain": [
+    "politics",
+    "intrigue",
+    "workplace dynamics"
+  ],
+  "tags": [
+    "conspiracy",
+    "alliance",
+    "plotting"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often appears in political discourse in Bengali literature and media, reflecting coalition-building in South Asian politics."
+}

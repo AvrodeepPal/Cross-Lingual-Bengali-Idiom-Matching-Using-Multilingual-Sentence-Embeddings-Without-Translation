@@ -1,0 +1,37 @@
+{
+  "id": "902",
+  "idiom": "এঁড়ে লোক",
+  "alternative_idioms": [],
+  "literal_meaning": "এঁড়া (খচ্চর বা গাধার মতো) লোক",
+  "figurative_meaning_bn": "একরোখা একগুঁয়ে লোক",
+  "figurative_meaning_en": "Stubborn and obstinate person",
+  "similar_in_english": [
+    "Stubborn as a mule",
+    "Pigheaded"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এঁড়ে লোক, কোনো কথাই শোনে না।",
+    "এঁড়ে লোকের সঙ্গে কাজ করা কঠিন।"
+  ],
+  "example_sentences_in_english": [
+    "He is a stubborn person and doesn't listen to anyone.",
+    "It's hard to work with such an obstinate fellow."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Personality description"
+  ],
+  "tags": [
+    "stubbornness",
+    "obstinacy",
+    "negative trait"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The term 'এঁড়ে' derives from the stubborn nature associated with mules or donkeys in rural Bengali folklore."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "525",
+  "idiom": "আধমরা",
+  "alternative_idioms": [],
+  "literal_meaning": "আধখানা মৃত (half dead)",
+  "figurative_meaning_bn": "উদ্দীপনাহীন নির্জীব; নিস্তেজ",
+  "figurative_meaning_en": "Lifeless and without enthusiasm; dull and lusterless",
+  "similar_in_english": [
+    "half-dead",
+    "listless"
+  ],
+  "example_sentences_in_bangla": [
+    "সকাল থেকে সে আধমরা অবস্থায় শুয়ে আছে, কোনো উৎসাহ দেখাচ্ছে না।",
+    "আধমরা ফুলের মতো তার মুখের হাসি।"
+  ],
+  "example_sentences_in_english": [
+    "He has been lying in a half-dead state since morning, showing no enthusiasm.",
+    "Her smile is like that of a half-dead flower."
+  ],
+  "usage_domain": [
+    "literature",
+    "everyday conversation",
+    "descriptive language"
+  ],
+  "tags": [
+    "negative",
+    "emotion",
+    "descriptive",
+    "literary"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Referenced in Rabindranath Tagore's works, such as in the line 'ওরে নবীন……ওরে আমার কাঁচা আধমরাদের ঘা মেরে তুই বাঁচা' from his poetry, highlighting themes of vitality and struggle."
+  ],
+  "note": "Deeply embedded in Bengali literary tradition through Tagore's influence."
+}

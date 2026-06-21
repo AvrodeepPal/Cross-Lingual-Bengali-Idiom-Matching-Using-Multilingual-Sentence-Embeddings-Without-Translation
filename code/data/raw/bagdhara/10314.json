@@ -1,0 +1,40 @@
+{
+  "id": "10314",
+  "idiom": "হিং টিং ছট্",
+  "alternative_idioms": [],
+  "literal_meaning": "অর্থহীন শব্দসমষ্টি যা সংস্কৃতের মতো শোনায়",
+  "figurative_meaning_bn": "সংস্কৃত না হলেও আপাতভাবে সংস্কৃতের মত, জ্ঞানীর কাছে অর্থহীন কিন্তু অজ্ঞের কাছে গুরুত্বপূর্ণ বলে প্রতীয়মান; না বুঝে সংস্কৃত মন্ত্রাদির প্রতি জন-সাধারণের ভয়-মিশ্রিত শ্রদ্ধার প্রতি বিদ্রূপ",
+  "figurative_meaning_en": "Appears like Sanskrit though not actually, meaningless to the knowledgeable but seemingly important to the ignorant; a satire on the common people's fear-mingled reverence towards Sanskrit mantras without comprehension",
+  "similar_in_english": [
+    "hocus-pocus",
+    "abracadabra"
+  ],
+  "example_sentences_in_bangla": [
+    "সে হিং টিং ছট্ বলে মন্ত্র পড়ে ভাবছে সব সমস্যা সমাধান হবে।",
+    "গ্রামের লোকেরা এই হিং টিং ছট্ শুনে ভয়ে কাঁপে, কিন্তু পণ্ডিতরা হেসে উড়িয়ে দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "He chants 'hing ting chhot' thinking it will solve all problems.",
+    "Villagers tremble in fear upon hearing this 'hing ting chhot', but scholars dismiss it with laughter."
+  ],
+  "usage_domain": [
+    "language",
+    "society",
+    "education"
+  ],
+  "tags": [
+    "mockery",
+    "ignorance",
+    "Sanskrit",
+    "superstition",
+    "satire"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom mimics pseudo-Sanskrit sounds to highlight cultural attitudes towards unintelligible religious chants."
+}

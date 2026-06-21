@@ -1,0 +1,43 @@
+{
+  "id": "1856",
+  "idiom": "কাছা আলগা",
+  "alternative_idioms": [
+    "কাছা খোলা",
+    "কাছা ঢিলা"
+  ],
+  "literal_meaning": "লুজ কফ বা হেম (পোশাকের কিনারা বা কব্জি আলগা হওয়া)",
+  "figurative_meaning_bn": "অসতর্ক, অসাবধান, কমজোরি, কাণ্ডজ্ঞানহীন, ঢিলেঢালা, নিস্তেজ। পরোক্ষ বিষয়ে নজর নেই, বিশৃঙ্খল, বেখেয়াল। সমার্থক বাগধারা- মুক্তকচ্ছ",
+  "figurative_meaning_en": "Careless, inattentive, weak-willed, lacking common sense, loose and lax, listless. No attention to indirect matters, disorderly, absent-minded. Synonymous idiom - loose hair",
+  "similar_in_english": [
+    "asleep at the wheel",
+    "letting one's guard down"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কাজে কাছা আলগা হয়ে থাকে, তাই প্রায়ই ভুল হয়।",
+    "জমিদারেরা নীলকরণে কাছা আলগা হয়ে পড়েছিল।"
+  ],
+  "example_sentences_in_english": [
+    "He approaches his work with loose cuffs, often making mistakes due to carelessness.",
+    "The landlords became loose-cuffed during the Permanent Settlement, losing their vigilance."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "literature",
+    "behavior description"
+  ],
+  "tags": [
+    "carelessness",
+    "negligence",
+    "disorder"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References Ishwar Gupta's poetry: 'নীলে সকল জমি নিলে জমিদার সব কাছা আলগা', alluding to the laxity of zamindars during the Permanent Settlement (Nilkaran) in colonial Bengal."
+  ],
+  "note": "Synonymous with 'মুক্তকচ্ছ' which also implies looseness and carelessness."
+}

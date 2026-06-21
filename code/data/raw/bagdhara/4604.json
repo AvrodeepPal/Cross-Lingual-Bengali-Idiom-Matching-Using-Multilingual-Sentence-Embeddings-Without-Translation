@@ -1,0 +1,42 @@
+{
+  "id": "4604",
+  "idiom": "জাতে ঠেলা",
+  "alternative_idioms": [],
+  "literal_meaning": "জাতে (সমাজ বা জাতিগোষ্ঠীতে) ঠেলা (ধাক্কা দেওয়া বা বহিষ্কার করা)",
+  "figurative_meaning_bn": "সমাজচ্যুত করা; স্বজাতির নিকট হেয় প্রতিপন্ন করা",
+  "figurative_meaning_en": "To excommunicate from society; to become despised in one's own community",
+  "similar_in_english": [
+    "to ostracize",
+    "to cast out",
+    "to shun from the fold"
+  ],
+  "example_sentences_in_bangla": [
+    "গ্রামের লোকেরা তার অসৎ কাজের জন্য তাকে জাতে ঠেলে দিয়েছে।",
+    "সমাজ থেকে বহিষ্কৃত হয়ে সে জাতে ঠেলা খেয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The villagers ostracized him from the community for his dishonest actions.",
+    "He was excommunicated and shunned by his own caste due to the scandal."
+  ],
+  "usage_domain": [
+    "social exclusion",
+    "community norms",
+    "traditional society"
+  ],
+  "tags": [
+    "caste system",
+    "excommunication",
+    "social stigma",
+    "ostracism"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the historical practice of caste-based excommunication in traditional Bengali Hindu society, where violations of community norms led to social banishment."
+  ],
+  "note": "The idiom reflects the rigid social structures of rural Bengal, often linked to purity and pollution concepts in Hinduism."
+}

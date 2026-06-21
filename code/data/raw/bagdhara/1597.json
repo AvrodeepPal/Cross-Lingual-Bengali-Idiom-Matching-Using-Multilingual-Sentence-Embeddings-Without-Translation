@@ -1,0 +1,41 @@
+{
+  "id": "1597",
+  "idiom": "কম্বুকণ্ঠ",
+  "alternative_idioms": [],
+  "literal_meaning": "কম্বু (শঙ্খ) + কণ্ঠ (কণ্ঠস্বর) = শঙ্খের মতো কণ্ঠস্বর",
+  "figurative_meaning_bn": "শঙ্খধ্বনির মত উচ্চ ও গম্ভীর কণ্ঠস্বর",
+  "figurative_meaning_en": "A deep and resonant voice like the sound of a conch shell",
+  "similar_in_english": [
+    "booming voice",
+    "voice like thunder"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কণ্ঠস্বর কম্বুকণ্ঠের মতো গম্ভীর এবং প্রতিধ্বনিময়।",
+    "ভাষণকারীর কম্বুকণ্ঠ শ্রোতাদের মুগ্ধ করল।"
+  ],
+  "example_sentences_in_english": [
+    "His voice is like a conch shell, deep and resonant.",
+    "The speaker's conch-like voice captivated the audience."
+  ],
+  "usage_domain": [
+    "literature",
+    "oratory",
+    "description of speech"
+  ],
+  "tags": [
+    "voice",
+    "sound",
+    "resonant",
+    "deep"
+  ],
+  "frequency": "rare",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "The conch shell (শঙ্খ) holds significance in Hindu mythology and rituals, symbolizing auspicious sounds in epics like the Mahabharata."
+  ],
+  "note": "Refers to the culturally revered conch shell sound, often associated with divine announcements in Bengali traditions."
+}

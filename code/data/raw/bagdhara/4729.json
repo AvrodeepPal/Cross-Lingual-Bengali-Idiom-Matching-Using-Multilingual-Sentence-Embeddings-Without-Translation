@@ -1,0 +1,39 @@
+{
+  "id": "4729",
+  "idiom": "জোরতলব",
+  "alternative_idioms": [],
+  "literal_meaning": "জোর করে তলব করা (forceful demand or summons)",
+  "figurative_meaning_bn": "অবিলম্বে হাজির হবার কড়া হুকুম বা ডাক",
+  "figurative_meaning_en": "A strict order or urgent call to appear immediately without delay",
+  "similar_in_english": [
+    "urgent summons",
+    "immediate call to appear"
+  ],
+  "example_sentences_in_bangla": [
+    "পুলিশ তার বিরুদ্ধে জোরতলব জারি করেছে।",
+    "অফিস থেকে জোরতলব এলে অবিলম্বে যেতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "The police have issued a zor-tolob against him.",
+    "If there's a zor-tolob from the office, you must go immediately."
+  ],
+  "usage_domain": [
+    "legal",
+    "official",
+    "administrative"
+  ],
+  "tags": [
+    "summons",
+    "urgent",
+    "command",
+    "authority"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in formal and legal contexts in Bengali-speaking regions, reflecting administrative practices."
+}

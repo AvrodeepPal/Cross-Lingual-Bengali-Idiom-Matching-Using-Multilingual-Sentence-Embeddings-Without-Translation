@@ -1,0 +1,41 @@
+{
+  "id": "683",
+  "idiom": "ইতি গজঃ",
+  "alternative_idioms": [],
+  "literal_meaning": "এই হাতি (সংস্কৃত: 'ইতি' অর্থ 'এইভাবে' বা 'শেষ', 'গজঃ' অর্থ 'হাতি')",
+  "figurative_meaning_bn": "আংশিক সত্যের আবরণে মিথ্যাভাষণ",
+  "figurative_meaning_en": "Uttering falsehood concealed by partial truth",
+  "similar_in_english": [
+    "Half-truth",
+    "Lying by omission"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথায় ইতি গজঃ-এর মতো অর্ধসত্য লুকিয়ে আছে।",
+    "রাজনীতিতে প্রায়ই ইতি গজঃ-এর কৌশল ব্যবহার করা হয়।"
+  ],
+  "example_sentences_in_english": [
+    "His statement hides a half-truth like 'iti gajah'.",
+    "In politics, the tactic of 'iti gajah' is often employed."
+  ],
+  "usage_domain": [
+    "Rhetoric",
+    "Deception",
+    "Literature"
+  ],
+  "tags": [
+    "Mahabharata",
+    "Yudhishthira",
+    "Half-truth",
+    "Sanskrit origin"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "এটি মহাভারতের কুরুক্ষেত্র যুদ্ধের ঘটনা থেকে উদ্ভূত, যেখানে যুধিষ্ঠির অশ্বত্থামার মৃত্যুর খবর জিজ্ঞাসায় বলেন 'অশ্বত্থামা হত ইতি গজঃ', যার অর্থ অশ্বত্থামা (হাতি) মারা গেছে, কিন্তু এটি মানুষ অশ্বত্থামাকে নির্দেশ করে মিথ্যা বলার কৌশল।"
+  ],
+  "note": "এই বাগধারা সংস্কৃত-ভিত্তিক এবং মহাভারতের সাংস্কৃতিক প্রভাবে বাংলা সাহিত্যে ব্যবহৃত হয়।"
+}

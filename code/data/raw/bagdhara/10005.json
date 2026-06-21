@@ -1,0 +1,41 @@
+{
+  "id": "10005",
+  "idiom": "হাই-আমলা",
+  "alternative_idioms": [],
+  "literal_meaning": "উঁচু বা বিশেষ প্রস্তুত আমলকী (আমলকী ফলের মিশ্রণ)",
+  "figurative_meaning_bn": "বরকে কন্যার বশীভূত রাখবার জন্য প্রদত্ত আমলকী ও অন্যান্য বস্তুর মিশ্রিত পিণ্ড",
+  "figurative_meaning_en": "A ball-shaped mixture of amla (Indian gooseberry) and other substances given to the groom to keep him under the bride's influence or control",
+  "similar_in_english": [
+    "love potion",
+    "under one's thumb"
+  ],
+  "example_sentences_in_bangla": [
+    "বিয়ের পর সে তার বউয়ের হাই-আমলা খেয়ে একেবারে বশ হয়ে গেছে।",
+    "গ্রামে এখনও হাই-আমলা দিয়ে বরকে নিয়ন্ত্রণ করার প্রথা চলে।"
+  ],
+  "example_sentences_in_english": [
+    "After the wedding, he seems to have eaten the high-amla and is now completely under his wife's control.",
+    "In the village, the tradition of giving high-amla to the groom to keep him in check still persists."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Relationships",
+    "Folklore"
+  ],
+  "tags": [
+    "wedding custom",
+    "superstition",
+    "gender roles",
+    "traditional remedy"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from traditional Bengali wedding rituals in rural areas, where such mixtures were believed to have aphrodisiac or controlling properties, rooted in ancient folk medicine practices."
+  ],
+  "note": "The term reflects superstitious beliefs in marital harmony through herbal concoctions."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9439",
+  "idiom": "শাস্ত্রে নেই",
+  "alternative_idioms": [],
+  "literal_meaning": "শাস্ত্রে নেই (scriptures-এ নেই)",
+  "figurative_meaning_bn": "শাস্ত্রের দোহাই দিয়ে কোন যৌক্তিক কাজে বাধাপ্রদান",
+  "figurative_meaning_en": "Obstructing a reasonable or logical action by citing the scriptures",
+  "similar_in_english": [
+    "Quoting chapter and verse to block progress",
+    "Hiding behind holy writ"
+  ],
+  "example_sentences_in_bangla": [
+    "তিনি শাস্ত্রে নেই বলে নতুন শিক্ষা ব্যবস্থার প্রস্তাবটি প্রত্যাখ্যান করলেন।",
+    "গ্রামের উন্নয়ন প্রকল্প শাস্ত্রে নেই বলে বাধাগ্রস্ত হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "He rejected the new education proposal saying it's not in the scriptures.",
+    "The village development project is stalled because it's not in the scriptures."
+  ],
+  "usage_domain": [
+    "Religion",
+    "Politics",
+    "Social reform"
+  ],
+  "tags": [
+    "Religious excuse",
+    "Obstruction",
+    "Hypocrisy",
+    "Traditionalism"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to Hindu scriptures (শাস্ত্র) often used in conservative arguments"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "5247",
+  "idiom": "ঢিঢি পড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "ঢিঢি (অনুত্তাপ বা তিরস্কারের শব্দ) পড়া (বৃষ্টির মতো ঝরা বা ছড়িয়ে পড়া)",
+  "figurative_meaning_bn": "দুর্নাম রটা; অকীর্তির ব্যাপক জানাজানি হওয়া ও ধিক্কার পড়া; কলঙ্ক প্রচারিত হওয়া",
+  "figurative_meaning_en": "The spread of infamy; widespread notoriety of disgrace and facing public scorn; the proclamation of stigma",
+  "similar_in_english": [
+    "To be dragged through the mud",
+    "To become a laughingstock",
+    "To face public ridicule"
+  ],
+  "example_sentences_in_bangla": [
+    "তার ভুলের খবর ছড়াতেই চারদিকে ঢিঢি পড়ে গেল।",
+    "এই ঘটনায় পুরো সমাজে ঢিঢি পড়ল।"
+  ],
+  "example_sentences_in_english": [
+    "As soon as the news of his mistake spread, tut-tuts echoed everywhere.",
+    "The whole community was filled with scorn over this incident."
+  ],
+  "usage_domain": [
+    "Social commentary",
+    "Everyday conversation",
+    "Literature"
+  ],
+  "tags": [
+    "disgrace",
+    "infamy",
+    "scandal",
+    "ridicule"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "The idiom evokes the sound of collective disapproval, akin to spitting in disdain, common in Bengali expressive culture."
+}

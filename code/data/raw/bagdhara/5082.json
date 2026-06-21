@@ -1,0 +1,37 @@
+{
+  "id": "5082",
+  "idiom": "ঠেঙ্গানো",
+  "alternative_idioms": [],
+  "literal_meaning": "ঠেঙ্গা দেওয়া বা ছড়ি দিয়ে আঘাত করা (to poke or prod with a stick)",
+  "figurative_meaning_bn": "কঠোরভাবে পড়ানো বা শিক্ষা দেওয়া",
+  "figurative_meaning_en": "to teach strictly or force someone to study",
+  "similar_in_english": [
+    "drill into someone",
+    "beat knowledge into one's head"
+  ],
+  "example_sentences_in_bangla": [
+    "বাবা ছেলেকে ঠেঙ্গাচ্ছে যাতে সে ভালো ফল করে।",
+    "শিক্ষক ছাত্রদের ঠেঙ্গানোর চেষ্টা করছেন।"
+  ],
+  "example_sentences_in_english": [
+    "The father is drilling the boy to study hard so he gets good grades.",
+    "The teacher is trying to force the students to learn rigorously."
+  ],
+  "usage_domain": [
+    "education",
+    "parenting"
+  ],
+  "tags": [
+    "discipline",
+    "learning",
+    "strict teaching"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali emphasis on rigorous education in family settings."
+}

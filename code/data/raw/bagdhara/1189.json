@@ -1,0 +1,39 @@
+{
+  "id": "1189",
+  "idiom": "এদিক-ওদিক",
+  "alternative_idioms": [],
+  "literal_meaning": "এদিক ওদিক (this side and that side, or here and there)",
+  "figurative_meaning_bn": "ত্রুটি",
+  "figurative_meaning_en": "slight error or discrepancy",
+  "similar_in_english": [
+    "a little off",
+    "slight miscalculation"
+  ],
+  "example_sentences_in_bangla": [
+    "হিসাবে সামান্য এদিক-ওদিক হয়েছে।",
+    "তার বক্তব্যে এদিক-ওদিক আছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's a slight discrepancy in the accounts.",
+    "There's some inconsistency in his statement."
+  ],
+  "usage_domain": [
+    "accounting",
+    "everyday conversation",
+    "mathematics"
+  ],
+  "tags": [
+    "error",
+    "mistake",
+    "discrepancy",
+    "calculation"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in contexts involving minor inaccuracies in numbers or statements"
+}

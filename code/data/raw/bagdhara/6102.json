@@ -1,0 +1,43 @@
+{
+  "id": "6102",
+  "idiom": "ধূনা দেওয়া",
+  "alternative_idioms": [
+    "ধূনো দেওয়া"
+  ],
+  "literal_meaning": "আগুনে ইন্ধন বা কাঠকুটো যোগ করা",
+  "figurative_meaning_bn": "উত্তেজনা ছড়ানো",
+  "figurative_meaning_en": "to spread agitation or excitement; to incite or escalate a situation",
+  "similar_in_english": [
+    "add fuel to the fire",
+    "pour oil on troubled waters (opposite)"
+  ],
+  "example_sentences_in_bangla": [
+    "তার কথায় বিতর্কে আগুনে ধূনা দেওয়া হয়ে গেল।",
+    "সমস্যা আরও বাড়ানোর জন্য তিনি ধূনা দিলেন।"
+  ],
+  "example_sentences_in_english": [
+    "His words added fuel to the fire in the argument.",
+    "She incited the crowd by pouring more oil on the flames of discontent."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "conflict",
+    "social interactions"
+  ],
+  "tags": [
+    "fire-related",
+    "agitation",
+    "escalation",
+    "proverbial"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from traditional Bengali rural practices of maintaining hearth fires by adding kindling (dhuna), symbolizing escalation in everyday life."
+  ],
+  "note": "The term 'dhuna' refers to dry twigs or fuel used in traditional cooking fires, deeply embedded in agrarian Bengali culture."
+}

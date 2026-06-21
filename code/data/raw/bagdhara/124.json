@@ -1,0 +1,39 @@
+{
+  "id": "124",
+  "idiom": "অধঃপাতে যাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "নিচের দিকে যাওয়া বা পতন করা",
+  "figurative_meaning_bn": "উচ্ছন্নে যাওয়া; কুসংসর্গে নষ্ট হওয়া; দুশ্চরিত্র হওয়া",
+  "figurative_meaning_en": "To go to ruin; to get corrupted by bad company; to become immoral",
+  "similar_in_english": [
+    "Go to the dogs",
+    "Go downhill",
+    "Fall from grace"
+  ],
+  "example_sentences_in_bangla": [
+    "সে খারাপ সঙ্গে পড়ে অধঃপাতে গেছে।",
+    "এই অভ্যাসে তার জীবন অধঃপাতে চলে গেল।"
+  ],
+  "example_sentences_in_english": [
+    "He has gone to ruin by keeping bad company.",
+    "His life went downhill due to this habit."
+  ],
+  "usage_domain": [
+    "moral discussions",
+    "social behavior",
+    "literature"
+  ],
+  "tags": [
+    "corruption",
+    "immorality",
+    "warning"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali emphasis on moral integrity and the dangers of bad associations."
+}

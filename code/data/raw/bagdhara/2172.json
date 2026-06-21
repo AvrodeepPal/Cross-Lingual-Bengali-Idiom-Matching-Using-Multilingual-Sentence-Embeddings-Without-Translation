@@ -1,0 +1,37 @@
+{
+  "id": "2172",
+  "idiom": "কালোমুখ",
+  "alternative_idioms": [],
+  "literal_meaning": "কালো মুখ",
+  "figurative_meaning_bn": "অপ্রসন্ন গোমড়া মলিন মুখ",
+  "figurative_meaning_en": "unhappy, sullen, or gloomy facial expression",
+  "similar_in_english": [
+    "long face",
+    "black mood"
+  ],
+  "example_sentences_in_bangla": [
+    "সে কালোমুখ করে বাড়ি ফিরল।",
+    "কেন এমন কালোমুখ করছো?"
+  ],
+  "example_sentences_in_english": [
+    "He returned home with a black face.",
+    "Why are you making such a long face?"
+  ],
+  "usage_domain": [
+    "emotions",
+    "daily conversation"
+  ],
+  "tags": [
+    "negative emotion",
+    "facial expression",
+    "displeasure"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a darkened or sullen expression indicating displeasure or sadness in Bengali culture."
+}

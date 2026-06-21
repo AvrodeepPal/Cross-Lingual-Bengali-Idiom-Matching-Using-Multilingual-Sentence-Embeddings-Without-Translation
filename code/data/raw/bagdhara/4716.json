@@ -1,0 +1,38 @@
+{
+  "id": "4716",
+  "idiom": "জোড়কলম",
+  "alternative_idioms": [],
+  "literal_meaning": "বড়গাছের ডালের সাথে চারাগাছ জুড়ে গজানো কলমের গাছ",
+  "figurative_meaning_bn": "অস্বাভাবিক বা জোর করে যুক্ত করা সংযোগ, যেমন অমিল জুটি",
+  "figurative_meaning_en": "An unnatural or forced union, such as a mismatched pair or alliance",
+  "similar_in_english": [
+    "odd couple",
+    "square peg in a round hole"
+  ],
+  "example_sentences_in_bangla": [
+    "তাদের বিয়ে হয়েছে জোড়কলমের মতো, একদম মিলছে না।",
+    "রাজনৈতিক দলগুলো জোড়কলম করে জোট বাঁধল।"
+  ],
+  "example_sentences_in_english": [
+    "Their marriage is like a জোড়কলম, they just don't match at all.",
+    "The political parties formed an alliance like a জোড়কলম."
+  ],
+  "usage_domain": [
+    "relationships",
+    "politics",
+    "agriculture"
+  ],
+  "tags": [
+    "mismatch",
+    "forced union",
+    "grafting"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Derived from traditional Bengali agricultural practice of grafting trees"
+}

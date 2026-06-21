@@ -1,0 +1,40 @@
+{
+  "id": "5625",
+  "idiom": "দড়ি ছেঁড়া",
+  "alternative_idioms": [],
+  "literal_meaning": "দড়ি (rope) ছেঁড়া (torn or broken)",
+  "figurative_meaning_bn": "হাতের বা শাসনের বাইরে গিয়েছে এমন; শাসন বহির্ভূত",
+  "figurative_meaning_en": "Something that has gone beyond one's control or authority; outside of governance",
+  "similar_in_english": [
+    "Out of hand",
+    "Off the rails",
+    "Beyond control"
+  ],
+  "example_sentences_in_bangla": [
+    "পরিস্থিতি সম্পূর্ণ দড়ি ছেঁড়া হয়ে গেছে।",
+    "স্কুলের শৃঙ্খলা দড়ি ছেঁড়া অবস্থায় পৌঁছে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The situation has completely gone out of hand.",
+    "The school's discipline has reached a point beyond control."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Administration",
+    "Management"
+  ],
+  "tags": [
+    "control",
+    "authority",
+    "chaos",
+    "disorder"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom draws from the imagery of a broken rope symbolizing loss of restraint, common in Bengali oral traditions."
+}

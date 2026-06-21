@@ -1,0 +1,41 @@
+{
+  "id": "8614",
+  "idiom": "মালমসলা",
+  "alternative_idioms": [],
+  "literal_meaning": "মাল (পণ্য বা উপাদান) + মসলা (মশলা বা উপকরণ)",
+  "figurative_meaning_bn": "পণ্য উৎপাদনের জন্য যে সকল উপকরণের প্রয়োজন হয়",
+  "figurative_meaning_en": "The essential ingredients or components required for producing or achieving something",
+  "similar_in_english": [
+    "nuts and bolts",
+    "building blocks",
+    "wherewithal"
+  ],
+  "example_sentences_in_bangla": [
+    "সভ্যতা গড়ার জন্য মালমসলা সবাইকে নিজের খরচে যোগাতে হবে।",
+    "ব্যবসায় সাফল্যের মালমসলা হলো পরিকল্পনা এবং কঠোর পরিশ্রম।"
+  ],
+  "example_sentences_in_english": [
+    "To build civilization, everyone must provide the essential ingredients at their own expense.",
+    "The nuts and bolts of business success are planning and hard work."
+  ],
+  "usage_domain": [
+    "literature",
+    "philosophy",
+    "everyday language"
+  ],
+  "tags": [
+    "metaphorical",
+    "essential components",
+    "Rabindranath Tagore"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom is notably used by Rabindranath Tagore in his writings to emphasize self-reliance in acquiring the fundamentals of civilization."
+  ],
+  "note": "The idiom draws from everyday concepts of goods and spices to metaphorically represent prerequisites for creation or development."
+}

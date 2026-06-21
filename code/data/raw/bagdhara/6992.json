@@ -1,0 +1,44 @@
+{
+  "id": "6992",
+  "idiom": "পোঁ ধরা (সানাইয়ের)",
+  "alternative_idioms": [
+    "লেজ ধরা"
+  ],
+  "literal_meaning": "সানাইয়ের পোঁ (শেষ অংশ) ধরা",
+  "figurative_meaning_bn": "অন্ধভাবে অনুসরণ করা; মোসাহেবি করা",
+  "figurative_meaning_en": "Blindly following someone; acting as a sycophant",
+  "similar_in_english": [
+    "Hang on someone's coattails",
+    "Follow like a shadow",
+    "Toady up to someone"
+  ],
+  "example_sentences_in_bangla": [
+    "সে সবসময় তার বসের পোঁ ধরা করে, কোনো স্বাধীন মতামত দেয় না।",
+    "রাজনীতিতে অনেকে নেতার পোঁ ধরা করে থাকে।"
+  ],
+  "example_sentences_in_english": [
+    "He always blindly follows his boss without any independent opinion.",
+    "In politics, many people act as sycophants to their leaders."
+  ],
+  "usage_domain": [
+    "Social interactions",
+    "Politics",
+    "Workplace dynamics"
+  ],
+  "tags": [
+    "Blind obedience",
+    "Sycophancy",
+    "Follower",
+    "Dependence"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "This idiom originates from the imagery of processions or wedding bands where musicians follow the shehnai player by holding the instrument's tail, symbolizing unquestioning adherence in traditional Bengali rural settings."
+  ],
+  "note": "The shehnai is a traditional wind instrument commonly used in Bengali weddings and festivals, adding cultural depth to the expression."
+}

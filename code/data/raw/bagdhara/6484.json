@@ -1,0 +1,43 @@
+{
+  "id": "6484",
+  "idiom": "নেকনজর",
+  "alternative_idioms": [
+    "বিষনজর"
+  ],
+  "literal_meaning": "ভালো দৃষ্টি বা অনুকূল নজর",
+  "figurative_meaning_bn": "কু-অর্থে আসক্তিদৃষ্টি",
+  "figurative_meaning_en": "lustful or malevolent gaze; evil eye",
+  "similar_in_english": [
+    "evil eye",
+    "catch someone's eye (in a troublesome way)"
+  ],
+  "example_sentences_in_bangla": [
+    "তুমি মালিকের নেকনজরে পড়েছো, এখন সমস্যা হবে।",
+    "এই ছেলেটির নেকনজরে পড়লে কপালে দুর্ভাগ্য।"
+  ],
+  "example_sentences_in_english": [
+    "You've caught the boss's eye, trouble is coming your way.",
+    "If that guy's evil eye falls on you, misfortune awaits."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "superstition",
+    "workplace"
+  ],
+  "tags": [
+    "negative gaze",
+    "superstition",
+    "evil eye",
+    "lustful intent"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Rooted in Bengali folk beliefs about the evil eye (nazar), where an admiring or envious gaze is believed to bring misfortune, often countered by protective charms."
+  ],
+  "note": "The idiom ironically uses 'nek' (good) to imply a deceptive or harmful attention."
+}

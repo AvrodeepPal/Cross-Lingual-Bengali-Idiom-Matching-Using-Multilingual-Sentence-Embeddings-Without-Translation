@@ -1,0 +1,39 @@
+{
+  "id": "5695",
+  "idiom": "দল",
+  "alternative_idioms": [],
+  "literal_meaning": "গ্রুপ বা দল (group or party)",
+  "figurative_meaning_bn": "নিন্দার্থে- অসৎ সংসর্গ",
+  "figurative_meaning_en": "in a derogatory sense - bad company or association with immoral people",
+  "similar_in_english": [
+    "running with the wrong crowd",
+    "bad company corrupts good morals"
+  ],
+  "example_sentences_in_bangla": [
+    "দলে পড়ে ছেলেটা উচ্ছন্নে গেছে।",
+    "সে খারাপ দলে মিশে পড়েছে, এখন তার জীবন নষ্ট হয়ে গেছে।"
+  ],
+  "example_sentences_in_english": [
+    "The boy fell into a bad group and went astray.",
+    "He got mixed up with the wrong crowd, and now his life is ruined."
+  ],
+  "usage_domain": [
+    "social",
+    "moral",
+    "everyday conversation"
+  ],
+  "tags": [
+    "negative influence",
+    "company",
+    "corruption",
+    "youth guidance"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects traditional Bengali concerns about peer influence on youth morality."
+}

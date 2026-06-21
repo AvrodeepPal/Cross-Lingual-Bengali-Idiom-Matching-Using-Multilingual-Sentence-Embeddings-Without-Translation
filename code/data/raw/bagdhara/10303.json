@@ -1,0 +1,41 @@
+{
+  "id": "10303",
+  "idiom": "হালে পানি পাওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "হালে (অস্ত্র বা লাঙল) পানি পাওয়া (পানি লাঙল পর্যন্ত পৌঁছানো বা লাঙল করার সময় পানি পাওয়া)",
+  "figurative_meaning_bn": "উতরিয়ে যাওয়া",
+  "figurative_meaning_en": "To subside or recede",
+  "similar_in_english": [
+    "The waters have receded",
+    "To die down"
+  ],
+  "example_sentences_in_bangla": [
+    "বন্যার পানি হালে পানি পেয়েছে, এবার কৃষকরা লাঙল চালাতে পারবে।",
+    "জ্বরটা হালে পানি পেয়েছে, এখন আর উঠছে না।"
+  ],
+  "example_sentences_in_english": [
+    "The flood waters have subsided to the plough level, now the farmers can till the fields.",
+    "The fever has receded, it's no longer rising."
+  ],
+  "usage_domain": [
+    "Agriculture",
+    "Weather",
+    "Health"
+  ],
+  "tags": [
+    "flood",
+    "subsidence",
+    "farming",
+    "rural life"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "This idiom originates from the agrarian context of Bengal, where frequent floods affect farming; it refers to the water level dropping enough for ploughing to resume after inundation."
+  ],
+  "note": "Commonly used in contexts of floods or any escalating situation calming down."
+}

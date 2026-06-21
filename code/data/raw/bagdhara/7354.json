@@ -1,0 +1,39 @@
+{
+  "id": "7354",
+  "idiom": "বলে আসা",
+  "alternative_idioms": [],
+  "literal_meaning": "বলার পর আসা (saying and then coming)",
+  "figurative_meaning_bn": "অনুমতি নিয়ে আসা",
+  "figurative_meaning_en": "To obtain permission and return",
+  "similar_in_english": [
+    "To get the green light",
+    "To check in and come back"
+  ],
+  "example_sentences_in_bangla": [
+    "মাকে বলে আয়, তারপর খেলতে যাবি।",
+    "বাবাকে বলে আসো, ছুটি নেওয়ার জন্য।"
+  ],
+  "example_sentences_in_english": [
+    "Go tell mom and come back, then we'll go play.",
+    "Go inform dad and return, for taking leave."
+  ],
+  "usage_domain": [
+    "Daily conversation",
+    "Family interactions",
+    "Permissions"
+  ],
+  "tags": [
+    "permission",
+    "family",
+    "informal",
+    "spoken"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Common in polite family requests in Bengali culture, emphasizing respect for elders."
+}

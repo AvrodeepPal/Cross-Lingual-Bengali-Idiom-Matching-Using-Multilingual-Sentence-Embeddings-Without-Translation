@@ -1,0 +1,40 @@
+{
+  "id": "9274",
+  "idiom": "লাঠালাঠি",
+  "alternative_idioms": [],
+  "literal_meaning": "লাঠির লড়াই (stick fight)",
+  "figurative_meaning_bn": "তুমুল ঝগড়া",
+  "figurative_meaning_en": "intense quarrel or fierce fight",
+  "similar_in_english": [
+    "coming to blows",
+    "fisticuffs"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই গ্রামের লোকজনের মধ্যে লাঠালাঠি লেগে গেছে।",
+    "পাড়ায় লাঠালাঠির জন্য পুলিশ এসেছে।"
+  ],
+  "example_sentences_in_english": [
+    "A fierce fight has broken out between the villagers.",
+    "The police arrived due to the brawl in the neighborhood."
+  ],
+  "usage_domain": [
+    "social conflict",
+    "daily disputes",
+    "rural altercations"
+  ],
+  "tags": [
+    "ঝগড়া",
+    "লড়াই",
+    "হিংসা",
+    "quarrel",
+    "fight"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "This idiom evokes images of traditional rural disputes in Bengal where physical confrontations with sticks were common."
+}

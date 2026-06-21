@@ -1,0 +1,37 @@
+{
+  "id": "76",
+  "idiom": "অগ্রপশ্চাৎ",
+  "alternative_idioms": [],
+  "literal_meaning": "অগ্র (সামনে বা ভালো) এবং পশ্চাৎ (পিছনে বা মন্দ)",
+  "figurative_meaning_bn": "ভালমন্দ",
+  "figurative_meaning_en": "good and bad",
+  "similar_in_english": [
+    "pros and cons",
+    "for better or worse"
+  ],
+  "example_sentences_in_bangla": [
+    "জীবনের অগ্রপশ্চাৎ সবাই অনুভব করে।",
+    "ব্যবসার অগ্রপশ্চাৎ বিবেচনা করো।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone experiences the good and bad of life.",
+    "Consider the pros and cons of the business."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "decision making"
+  ],
+  "tags": [
+    "descriptive",
+    "neutral",
+    "general"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom derives from Sanskrit roots, commonly used in Bengali to denote duality of outcomes."
+}

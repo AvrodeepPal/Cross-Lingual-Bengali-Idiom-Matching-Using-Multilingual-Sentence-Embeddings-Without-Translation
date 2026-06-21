@@ -1,0 +1,37 @@
+{
+  "id": "977",
+  "idiom": "একঘর",
+  "alternative_idioms": [],
+  "literal_meaning": "একটি ঘর",
+  "figurative_meaning_bn": "ঘরভর্তি",
+  "figurative_meaning_en": "full house",
+  "similar_in_english": [
+    "full house",
+    "houseful"
+  ],
+  "example_sentences_in_bangla": [
+    "বাড়িতে একঘর লোক এসেছে উৎসবে।",
+    "ঘরে একঘর আসবাবপত্র জমা হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The house is full of people for the festival.",
+    "The room is packed with furniture."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "household descriptions"
+  ],
+  "tags": [
+    "quantity",
+    "fullness",
+    "abundance"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to the idea of a single house being completely filled, common in Bengali rural and semi-urban contexts."
+}

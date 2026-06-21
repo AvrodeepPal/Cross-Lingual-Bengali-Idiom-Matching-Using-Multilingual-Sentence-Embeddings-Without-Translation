@@ -1,0 +1,38 @@
+{
+  "id": "4697",
+  "idiom": "জুলজুল",
+  "alternative_idioms": [],
+  "literal_meaning": "ফ্লিকারিং বা মিটমিটে আলোর শব্দানুকরণমূলক দ্বিত্বশব্দ",
+  "figurative_meaning_bn": "মিটমিট বা অল্প উজ্জ্বলতার ভাবপ্রকাশক দ্বিত্বশব্দ",
+  "figurative_meaning_en": "A reduplicative word expressing blinking or slight brightness",
+  "similar_in_english": [
+    "blinking dimly",
+    "twinkling faintly"
+  ],
+  "example_sentences_in_bangla": [
+    "সে জুলজুল চোখ করে অন্ধকারের দিকে তাকাল।",
+    "ঘরে জুলজুল আলো জ্বলছিল।"
+  ],
+  "example_sentences_in_english": [
+    "He stared into the darkness with blinking eyes.",
+    "The room was lit with a dim, flickering light."
+  ],
+  "usage_domain": [
+    "descriptive",
+    "visual expression"
+  ],
+  "tags": [
+    "দ্বিত্বশব্দ",
+    "চোখ",
+    "আলো",
+    "শব্দানুকরণ"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is an onomatopoeic reduplicative form common in descriptive Bengali literature."
+}

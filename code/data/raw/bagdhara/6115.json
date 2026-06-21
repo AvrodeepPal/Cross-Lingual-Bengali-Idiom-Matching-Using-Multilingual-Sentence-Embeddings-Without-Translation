@@ -1,0 +1,41 @@
+{
+  "id": "6115",
+  "idiom": "ধেড়ে খোকা",
+  "alternative_idioms": [],
+  "literal_meaning": "ধেড়ে (কিশোর বা যুবক) খোকা (ছেলে বা শিশু)",
+  "figurative_meaning_bn": "বয়স বা দৈর্ঘ্যে কিশোর অপেক্ষা বেশি বয়স্ক; যুবক",
+  "figurative_meaning_en": "Older than an adolescent in age or stature; a young man",
+  "similar_in_english": [
+    "strapping young lad",
+    "young buck"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একটা ধেড়ে খোকা, এখনো পরিবারের দায়িত্ব নেয়নি।",
+    "গ্রামে ধেড়ে খোকারা সবাই মাঠে কাজ করে।"
+  ],
+  "example_sentences_in_english": [
+    "He is a young man, yet to take on family responsibilities.",
+    "In the village, all the young lads work in the fields."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "folklore"
+  ],
+  "tags": [
+    "youth",
+    "age",
+    "male",
+    "adolescence"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "References a line from a traditional Bengali folk song: 'এক পড়েতে ঠাণ্ডা, ধেড়ে খোকাদের পাণ্ডা'"
+  ],
+  "note": "Common in rural Bengali expressions to denote transitional youth"
+}

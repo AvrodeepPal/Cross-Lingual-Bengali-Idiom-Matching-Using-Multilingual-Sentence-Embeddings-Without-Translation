@@ -1,0 +1,43 @@
+{
+  "id": "1673",
+  "idiom": "কলাবধূ",
+  "alternative_idioms": [
+    "বউ"
+  ],
+  "literal_meaning": "কলা (banana) + বধূ (bride)",
+  "figurative_meaning_bn": "ব্যঙ্গে দীর্ঘ ঘোমটাটানা বউ",
+  "figurative_meaning_en": "Sarcastically, a bride or wife who wears an excessively long veil",
+  "similar_in_english": [
+    "Wallflower (for someone overly reserved)",
+    "Behind the times (for outdated customs)"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এমন কলাবধূ যে বাইরে বের হলেই ঘোমটা টেনে নেয়।",
+    "গ্রামের কলাবধূরা এখনও পুরনো রীতি মেনে চলে।"
+  ],
+  "example_sentences_in_english": [
+    "She is such a banana bride that she pulls her veil even when stepping outside.",
+    "The village banana brides still follow the old customs."
+  ],
+  "usage_domain": [
+    "Marriage",
+    "Family",
+    "Satire"
+  ],
+  "tags": [
+    "sarcasm",
+    "veil",
+    "conservatism",
+    "women"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Refers to traditional Bengali practice of ghomta (veil) among married women, symbolizing modesty, common in rural areas before modernization."
+  ],
+  "note": "The idiom mocks excessive adherence to veiling customs."
+}

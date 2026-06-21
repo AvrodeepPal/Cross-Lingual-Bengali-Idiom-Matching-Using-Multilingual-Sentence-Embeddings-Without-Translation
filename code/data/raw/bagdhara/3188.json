@@ -1,0 +1,42 @@
+{
+  "id": "3188",
+  "idiom": "গালগল্প",
+  "alternative_idioms": [
+    "খোসগল্প",
+    "গাঁজাখুরি",
+    "মনগড়া কাহিনি",
+    "কপোলকল্পনা"
+  ],
+  "literal_meaning": "গাল (অপবাদ বা গালি) + গল্প (কথা বা কাহিনি)",
+  "figurative_meaning_bn": "অবাস্তব কথাবার্তা",
+  "figurative_meaning_en": "fabricated or imaginary talk",
+  "similar_in_english": [
+    "cock and bull story",
+    "tall tale"
+  ],
+  "example_sentences_in_bangla": [
+    "তার গালগল্প শুনে কেউ বিশ্বাস করে না।",
+    "এটা পুরো গালগল্প, সত্যি নয়।"
+  ],
+  "example_sentences_in_english": [
+    "Nobody believes his cock and bull stories.",
+    "That's just a tall tale, not the truth."
+  ],
+  "usage_domain": [
+    "colloquial conversation",
+    "storytelling"
+  ],
+  "tags": [
+    "exaggeration",
+    "deception",
+    "nonsense"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to everyday Bengali oral traditions of storytelling with embellishments."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3685",
+  "idiom": "চড়চাপড়",
+  "alternative_idioms": [
+    "চড়চাপাটি"
+  ],
+  "literal_meaning": "চড়ের পর চড়; হাতের চাপড়",
+  "figurative_meaning_bn": "সমার্থক যুগ্মশব্দ; চড়ের পর চড়; হাতের চাপড়",
+  "figurative_meaning_en": "Synonymous compound word; repeated slaps; hand slaps indicating a physical scuffle or fight",
+  "similar_in_english": [
+    "slap fight",
+    "trading blows",
+    "come to fisticuffs"
+  ],
+  "example_sentences_in_bangla": [
+    "দুই দলের মধ্যে খুব চড়চাপড় চলছে।",
+    "বাজারে দুই ব্যবসায়ীর মধ্যে চড়চাপাটি শুরু হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "There's a lot of slapping going on between the two groups.",
+    "A slap fight has broken out between the two shopkeepers in the market."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "conflict",
+    "daily conversation"
+  ],
+  "tags": [
+    "fight",
+    "physical altercation",
+    "slapping",
+    "scuffle"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom vividly captures the intensity of physical confrontations in everyday Bengali speech, often used to describe chaotic fights."
+}

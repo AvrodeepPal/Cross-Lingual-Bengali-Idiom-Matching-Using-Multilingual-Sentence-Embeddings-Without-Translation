@@ -1,0 +1,38 @@
+{
+  "id": "466",
+  "idiom": "আড়কালা",
+  "alternative_idioms": [],
+  "literal_meaning": "আড়া (অর্ধেক বা তির্যক) + কালা (কানের সম্পর্কিত বধিরতা নির্দেশক)",
+  "figurative_meaning_bn": "এক কানে শুনতে পারে না এমন",
+  "figurative_meaning_en": "Someone who cannot hear from one ear",
+  "similar_in_english": [
+    "Deaf in one ear",
+    "Turn a deaf ear"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আড়কালা হয়ে গেছে, বাম কান থেকে কিছু শোনে না।",
+    "আড়কালা লোকটি সবসময় ডানদিক থেকে কথা বলতে বলে।"
+  ],
+  "example_sentences_in_english": [
+    "He has become deaf in one ear and can't hear from the left side.",
+    "The one-eared deaf man always asks to speak from the right side."
+  ],
+  "usage_domain": [
+    "Health",
+    "Description",
+    "Daily conversation"
+  ],
+  "tags": [
+    "বধিরতা",
+    "শ্রবণ প্রতিবন্ধকতা",
+    "শারীরিক অক্ষমতা"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এটি বাংলা লোকভাষায় ব্যবহৃত একটি বর্ণনামূলক বাগধারা, যা শারীরিক অবস্থা নির্দেশ করে।"
+}

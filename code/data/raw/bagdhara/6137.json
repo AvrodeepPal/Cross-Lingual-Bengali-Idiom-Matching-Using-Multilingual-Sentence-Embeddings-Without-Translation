@@ -1,0 +1,40 @@
+{
+  "id": "6137",
+  "idiom": "ধ্যাড়া",
+  "alternative_idioms": [
+    "ধ্যাড়ানো"
+  ],
+  "literal_meaning": "বেসামাল হয়ে মলত্যাগ করে কাপড়চোপড় নষ্ট করা",
+  "figurative_meaning_bn": "অপটুতার দরুন কাজ পণ্ড করা",
+  "figurative_meaning_en": "Ruining a task due to incompetence or clumsiness",
+  "similar_in_english": [
+    "Make a mess of something",
+    "Botch up a job"
+  ],
+  "example_sentences_in_bangla": [
+    "অকম্মাটা সব কাজেই ধ্যাড়াচ্ছে।",
+    "এই নতুন কর্মচারী প্রকল্পটাকে ধ্যাড়া করে দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The incompetent fellow is messing up every task.",
+    "This new employee has completely botched the project."
+  ],
+  "usage_domain": [
+    "Informal conversation",
+    "Criticism of incompetence"
+  ],
+  "tags": [
+    "negative",
+    "incompetence",
+    "clumsiness",
+    "bodily metaphor"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [],
+  "note": "Idiom draws from a crude, everyday rural mishap to metaphorically describe failure."
+}

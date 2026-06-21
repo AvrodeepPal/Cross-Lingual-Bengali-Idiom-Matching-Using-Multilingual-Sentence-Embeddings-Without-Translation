@@ -1,0 +1,42 @@
+{
+  "id": "1270",
+  "idiom": "ওলটপালট",
+  "alternative_idioms": [
+    "তছনছ",
+    "তোলপাড়",
+    "বানচাল"
+  ],
+  "literal_meaning": "উল্টো এবং পালটানো (upside down and turned around)",
+  "figurative_meaning_bn": "এদিক-ওদিক, বিশৃঙ্খলা",
+  "figurative_meaning_en": "disorder, chaos, topsy-turvy",
+  "similar_in_english": [
+    "topsy-turvy",
+    "upside down",
+    "in disarray"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে গণ্ডগোল হওয়ায় সবকিছু ওলটপালট হয়ে গেছে।",
+    "পরীক্ষার আগে তার ঘর ওলটপালট অবস্থায় ছিল।"
+  ],
+  "example_sentences_in_english": [
+    "The market turned topsy-turvy due to the commotion.",
+    "Her room was in complete disarray before the exam."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "describing chaos"
+  ],
+  "tags": [
+    "disorder",
+    "confusion",
+    "chaos"
+  ],
+  "frequency": "very common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Commonly used in colloquial Bengali to express upheaval or mess."
+}

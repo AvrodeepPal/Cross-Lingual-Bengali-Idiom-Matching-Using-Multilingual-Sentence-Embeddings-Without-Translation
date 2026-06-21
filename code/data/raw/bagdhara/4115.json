@@ -1,0 +1,42 @@
+{
+  "id": "4115",
+  "idiom": "চোখে ধূলা দেওয়া",
+  "alternative_idioms": [
+    "চোখে ধুলো দেওয়া"
+  ],
+  "literal_meaning": "চোখে ধুলো ছড়ানো (to throw dust in the eyes)",
+  "figurative_meaning_bn": "ঠকানো; প্রতারণা করা",
+  "figurative_meaning_en": "to deceive; to cheat",
+  "similar_in_english": [
+    "throw dust in one's eyes",
+    "pull the wool over someone's eyes"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আমার চোখে ধুলো দিয়ে ব্যবসায়ের টাকা নিয়ে পালিয়েছে।",
+    "পলিটিশিয়ানরা ভোটারদের চোখে ধুলো দিয়ে প্রতিশ্রুতি দেয়।"
+  ],
+  "example_sentences_in_english": [
+    "He threw dust in my eyes and ran away with the business money.",
+    "Politicians throw dust in voters' eyes with false promises."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "deception",
+    "business"
+  ],
+  "tags": [
+    "প্রতারণা",
+    "ঠকানো",
+    "বাগধারা"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "অতীতে ঠগেরা বা লুটেরারা পথিকদের চোখে ধুলো ছড়িয়ে তাদের সর্বস্ব কেড়ে নিত।"
+  ],
+  "note": "ধূলা এবং ধুলো শব্দের বানানগত ভিন্নতা রয়েছে, কিন্তু অর্থ একই।"
+}

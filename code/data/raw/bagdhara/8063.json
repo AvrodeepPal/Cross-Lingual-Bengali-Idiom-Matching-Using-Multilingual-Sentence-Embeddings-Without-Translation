@@ -1,0 +1,37 @@
+{
+  "id": "8063",
+  "idiom": "ভালো-রে-ভালো",
+  "alternative_idioms": [],
+  "literal_meaning": "ভালো (good) - রে (oh/vocative particle) - ভালো (good), repeated for emphasis",
+  "figurative_meaning_bn": "মজাতো মন্দ নয় ভাবার্থে বিরক্তি বা অসন্তোষসূচক উক্তি",
+  "figurative_meaning_en": "An expression of irritation or dissatisfaction, sarcastically implying 'it's not so bad, sort of'",
+  "similar_in_english": [
+    "Oh great!",
+    "Wonderful!"
+  ],
+  "example_sentences_in_bangla": [
+    "এই বৃষ্টিতে বাইরে যেতে হবে, ভালো-রে-ভালো!",
+    "তোমার এই আলস্য দেখে ভালো-রে-ভালো লাগছে।"
+  ],
+  "example_sentences_in_english": [
+    "I have to go out in this rain, oh great!",
+    "Seeing your laziness, it's just wonderful."
+  ],
+  "usage_domain": [
+    "conversational",
+    "sarcasm"
+  ],
+  "tags": [
+    "irony",
+    "dissatisfaction",
+    "spoken language"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is typically used in informal, everyday speech to convey mild frustration through sarcasm."
+}

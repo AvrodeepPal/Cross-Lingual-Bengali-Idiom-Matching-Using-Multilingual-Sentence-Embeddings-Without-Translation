@@ -1,0 +1,40 @@
+{
+  "id": "1869",
+  "idiom": "কাজ দেওয়া",
+  "alternative_idioms": [],
+  "literal_meaning": "কাজ দেওয়া (work to give)",
+  "figurative_meaning_bn": "দায়িত্ব অর্পণ করা",
+  "figurative_meaning_en": "to assign responsibility or a task",
+  "similar_in_english": [
+    "assign a task",
+    "delegate duties",
+    "hand over work"
+  ],
+  "example_sentences_in_bangla": [
+    "বস তার কর্মচারীকে একটি নতুন প্রকল্পের কাজ দিয়েছে।",
+    "মা ছেলেকে ঘরের কাজ দিয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "The boss assigned a new project to his employee.",
+    "The mother gave her son household chores."
+  ],
+  "usage_domain": [
+    "employment",
+    "family",
+    "daily life"
+  ],
+  "tags": [
+    "work",
+    "duty",
+    "responsibility",
+    "assignment"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is commonly used in professional and domestic contexts to indicate delegating tasks."
+}

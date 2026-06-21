@@ -1,0 +1,40 @@
+{
+  "id": "9000",
+  "idiom": "রক্ত গরম করা",
+  "alternative_idioms": [
+    "রক্ত গরম হওয়া"
+  ],
+  "literal_meaning": "রক্ত (blood) গরম (hot) করা (to make)",
+  "figurative_meaning_bn": "উত্তেজিত হওয়া",
+  "figurative_meaning_en": "To become excited or agitated",
+  "similar_in_english": [
+    "Get one's blood boiling",
+    "Hot under the collar"
+  ],
+  "example_sentences_in_bangla": [
+    "সেই অবিচারের কথা শুনে তার রক্ত গরম হয়ে গেল।",
+    "ফুটবল ম্যাচ দেখে ছেলেগুলোর রক্ত গরম করে তুলেছে।"
+  ],
+  "example_sentences_in_english": [
+    "Hearing about that injustice made his blood boil.",
+    "Watching the football match got the boys all fired up."
+  ],
+  "usage_domain": [
+    "Emotions",
+    "Daily conversation",
+    "Literature"
+  ],
+  "tags": [
+    "Anger",
+    "Excitement",
+    "Passion"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom often conveys intense emotional arousal, commonly associated with anger or enthusiasm in Bengali expressions."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5879",
+  "idiom": "দুনিয়াদার",
+  "alternative_idioms": [],
+  "literal_meaning": "দুনিয়ার প্রতি আসক্ত বা লোকসানগ্রস্ত ব্যক্তি",
+  "figurative_meaning_bn": "স্বার্থপরায়ণ; নিজের লাভ-ক্ষতির ব্যাপারে বিশেষ সচেতন",
+  "figurative_meaning_en": "Self-interested; especially vigilant about one's own gains and losses",
+  "similar_in_english": [
+    "worldly",
+    "self-serving",
+    "looking out for number one"
+  ],
+  "example_sentences_in_bangla": [
+    "সে একজন দুনিয়াদার মানুষ, কখনো অন্যের জন্য কিছু করে না।",
+    "দুনিয়াদার মনোভাবের কারণে সে বন্ধুত্বও ভুলে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He is a worldly person who never does anything for others.",
+    "Due to his self-serving attitude, he even forgets friendships."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "literature",
+    "social commentary"
+  ],
+  "tags": [
+    "selfishness",
+    "materialism",
+    "caution",
+    "literary"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [
+    "This term is notably used in the poem by Sukanta Bhattacharya: 'শোনার মালিক দুনিয়াদার...', highlighting themes of materialism in mid-20th century Bengali literature."
+  ],
+  "note": "Derived from Bengali literary tradition, emphasizing worldly concerns over altruism."
+}

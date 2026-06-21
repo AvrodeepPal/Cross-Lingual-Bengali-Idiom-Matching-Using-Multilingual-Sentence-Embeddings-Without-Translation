@@ -1,0 +1,46 @@
+{
+  "id": "4976",
+  "idiom": "টুমটাম করে",
+  "alternative_idioms": [
+    "কোনোরকমে",
+    "এটাসেটা করে",
+    "টায়টোয়",
+    "টেনেটুনে",
+    "মেরেকেটে"
+  ],
+  "literal_meaning": "টুমটাম শব্দের অনুকরণ করে, তাড়াহুড়ো বা অসম্পূর্ণভাবে করা",
+  "figurative_meaning_bn": "অল্পব্যয়ে, সামান্যভাবে",
+  "figurative_meaning_en": "with minimal expense or effort, in a superficial or hasty manner",
+  "similar_in_english": [
+    "on the cheap",
+    "in a slapdash way",
+    "make do"
+  ],
+  "example_sentences_in_bangla": [
+    "টুমটাম করে অনুষ্ঠানটা সারলাম।",
+    "এই বাজেটে টুমটাম করে কাজ চালাতে হবে।"
+  ],
+  "example_sentences_in_english": [
+    "We managed the event in a haphazard way with little expense.",
+    "With this budget, we'll have to get by superficially."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "informal events",
+    "household management"
+  ],
+  "tags": [
+    "onomatopoeic",
+    "informal",
+    "hasty",
+    "economical"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom reflects Bengali colloquial expression for resourcefulness in scarcity."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1244",
+  "idiom": "ও কে",
+  "alternative_idioms": [],
+  "literal_meaning": "ও কে (ইংরেজি 'OK'-এর বাংলা লিপ্যন্তর)",
+  "figurative_meaning_bn": "আচ্ছা; ঠিক আছে",
+  "figurative_meaning_en": "Alright; Okay",
+  "similar_in_english": [
+    "OK",
+    "Alright",
+    "Fine"
+  ],
+  "example_sentences_in_bangla": [
+    "ও কে, আমি যাব।",
+    "এদিকে সবকিছু ও কে।"
+  ],
+  "example_sentences_in_english": [
+    "OK, I'll go.",
+    "Everything is OK here."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Agreement",
+    "Affirmation"
+  ],
+  "tags": [
+    "casual",
+    "loanword",
+    "affirmation"
+  ],
+  "frequency": "very common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is a transliteration of the English word 'OK', widely adopted in modern Bengali speech."
+}

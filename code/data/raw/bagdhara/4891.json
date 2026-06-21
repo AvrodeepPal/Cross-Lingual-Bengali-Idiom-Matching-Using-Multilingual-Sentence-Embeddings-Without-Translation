@@ -1,0 +1,37 @@
+{
+  "id": "4891",
+  "idiom": "টাইম",
+  "alternative_idioms": [],
+  "literal_meaning": "টাইম (ইংরেজি 'time' এর উচ্চারণভিত্তিক বাংলা রূপ)",
+  "figurative_meaning_bn": "অবকাশ, সময়",
+  "figurative_meaning_en": "opportunity, time (spare moment or leeway)",
+  "similar_in_english": [
+    "breathing space",
+    "a moment to spare"
+  ],
+  "example_sentences_in_bangla": [
+    "একটুও নিঃশ্বাস ফেলার টাইম নেই।",
+    "এখন কাজের টাইম, পরে কথা হবে।"
+  ],
+  "example_sentences_in_english": [
+    "There's not even time to breathe.",
+    "It's work time now; we'll talk later."
+  ],
+  "usage_domain": [
+    "daily conversation",
+    "informal speech"
+  ],
+  "tags": [
+    "loanword",
+    "modern usage",
+    "colloquial"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "city",
+  "history": [],
+  "note": "This is an English loanword commonly integrated into spoken Bengali to denote time or opportunity, reflecting modern urban influences."
+}

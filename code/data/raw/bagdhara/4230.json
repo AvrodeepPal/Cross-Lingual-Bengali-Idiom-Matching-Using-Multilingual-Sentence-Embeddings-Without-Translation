@@ -1,0 +1,44 @@
+{
+  "id": "4230",
+  "idiom": "ছত্রধর",
+  "alternative_idioms": [
+    "লাটের বাঁট"
+  ],
+  "literal_meaning": "ছত্র (ছাতা) ধারক; ছাতা ধরা ব্যক্তি",
+  "figurative_meaning_bn": "ব্যঙ্গে অনুচর, আজ্ঞাবহ, বশংবদ, হুকুমের চাকর",
+  "figurative_meaning_en": "Sarcastic term for a subservient follower, obedient lackey, or one who blindly follows orders",
+  "similar_in_english": [
+    "Yes-man",
+    "Lackey",
+    "Bootlicker"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার বসের ছত্রধরের মতো সবসময় হ্যাঁ-হ্যাঁ করে।",
+    "প্রতিপক্ষের ছত্রধর হয়ে সে নিজের দলকে বিশ্বাসঘাতকতা করল।"
+  ],
+  "example_sentences_in_english": [
+    "He behaves like his boss's umbrella holder, always agreeing blindly.",
+    "He turned into the opposition's lackey and betrayed his own party."
+  ],
+  "usage_domain": [
+    "Politics",
+    "Workplace",
+    "Social interactions"
+  ],
+  "tags": [
+    "Sarcasm",
+    "Subservience",
+    "Obedience",
+    "Derogatory"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": true,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the historical role of umbrella bearers (chhatradhari) in royal Indian courts and processions, symbolizing servitude to kings or nobles, a practice rooted in feudal Bengal and wider South Asian traditions."
+  ],
+  "note": "The idiom draws from pre-colonial customs where holding an umbrella signified attending to superiors, often in a derogatory sense today."
+}

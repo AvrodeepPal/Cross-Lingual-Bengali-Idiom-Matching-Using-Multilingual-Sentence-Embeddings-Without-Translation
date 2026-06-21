@@ -1,0 +1,41 @@
+{
+  "id": "9325",
+  "idiom": "লেঙ্গি মারা",
+  "alternative_idioms": [
+    "লেঙ্গ মারা"
+  ],
+  "literal_meaning": "লেঙ্গি (এক ধরনের কাপড় বা লুঙ্গির মতো জিনিস) দিয়ে আঘাত করা",
+  "figurative_meaning_bn": "অকস্মাৎ বিশ্বাসঘাতকতা করা",
+  "figurative_meaning_en": "To betray someone suddenly or unexpectedly",
+  "similar_in_english": [
+    "Stab in the back",
+    "Double-cross"
+  ],
+  "example_sentences_in_bangla": [
+    "সে তার সবচেয়ে কাছের বন্ধুকে লেঙ্গি মেরে ব্যবসায়িক সুবিধা নিল।",
+    "রাজনীতিতে প্রায়ই লোকে লেঙ্গি মেরে এগিয়ে যায়।"
+  ],
+  "example_sentences_in_english": [
+    "He stabbed his closest friend in the back to gain business advantage.",
+    "In politics, people often double-cross to get ahead."
+  ],
+  "usage_domain": [
+    "Everyday conversation",
+    "Relationships",
+    "Politics"
+  ],
+  "tags": [
+    "betrayal",
+    "trust",
+    "deception",
+    "sudden action"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "এই প্রকাশটি বাংলা সংস্কৃতিতে বিশ্বাসঘাতকতার জন্য ব্যবহৃত হয়, যা লোকমুখে প্রচলিত।"
+}

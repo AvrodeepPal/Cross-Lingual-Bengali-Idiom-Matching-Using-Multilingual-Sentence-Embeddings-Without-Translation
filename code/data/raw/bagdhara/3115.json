@@ -1,0 +1,37 @@
+{
+  "id": "3115",
+  "idiom": "গাছপাগল",
+  "alternative_idioms": [],
+  "literal_meaning": "গাছের মতো পাগল (tree-like mad)",
+  "figurative_meaning_bn": "বদ্ধ উন্মাদ",
+  "figurative_meaning_en": "hopelessly insane",
+  "similar_in_english": [
+    "stark raving mad",
+    "completely out of one's mind"
+  ],
+  "example_sentences_in_bangla": [
+    "সে এতটাই গাছপাগল যে কারো কথাই শোনে না।",
+    "গ্রামের সেই লোকটি গাছপাগল বলে পরিচিত।"
+  ],
+  "example_sentences_in_english": [
+    "He is so tree-mad that he doesn't listen to anyone.",
+    "That man from the village is known as hopelessly insane."
+  ],
+  "usage_domain": [
+    "colloquial",
+    "mental health description"
+  ],
+  "tags": [
+    "madness",
+    "insanity",
+    "figurative"
+  ],
+  "frequency": "rare",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom likely originates from rural Bengali folklore, emphasizing extreme irrational behavior."
+}

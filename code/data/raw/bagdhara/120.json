@@ -1,0 +1,44 @@
+{
+  "id": "120",
+  "idiom": "অদল-বদল",
+  "alternative_idioms": [
+    "উলট-পালট",
+    "এদিক-ওদিক",
+    "হেরফের"
+  ],
+  "literal_meaning": "অন্যায় বা অসম পরিবর্তন (শব্দশঃ অর্থে অদল মানে অন্যায়, বদল মানে পরিবর্তন)",
+  "figurative_meaning_bn": "তুল্যবিষয়ের পরিবর্তন",
+  "figurative_meaning_en": "Exchange or substitution of equivalent things, often implying minor or insignificant changes without altering the essence",
+  "similar_in_english": [
+    "tit for tat",
+    "swap places",
+    "mere shuffling"
+  ],
+  "example_sentences_in_bangla": [
+    "এই চুক্তিতে কোনো অদল-বদল সহ্য করা যাবে না।",
+    "তার পরিকল্পনায় সামান্য অদল-বদল করে দেখো।"
+  ],
+  "example_sentences_in_english": [
+    "No alteration will be tolerated in this agreement.",
+    "Try making a slight change in his plan."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "formal agreements",
+    "planning and strategy"
+  ],
+  "tags": [
+    "change",
+    "exchange",
+    "modification",
+    "substitution"
+  ],
+  "frequency": "common",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom emphasizes equivalence in exchange, common in Bengali colloquial and literary usage."
+}

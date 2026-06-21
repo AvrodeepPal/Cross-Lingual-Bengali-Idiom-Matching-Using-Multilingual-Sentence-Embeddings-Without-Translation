@@ -1,0 +1,43 @@
+{
+  "id": "4662",
+  "idiom": "জিকির",
+  "alternative_idioms": [
+    "জিকীর",
+    "জিগির",
+    "জিগীর"
+  ],
+  "literal_meaning": "উচ্চস্বরে উচ্চারিত শব্দের অনুকরণ",
+  "figurative_meaning_bn": "উচ্চধ্বনি; জোর আওয়াজ",
+  "figurative_meaning_en": "high-pitched sound; loud noise",
+  "similar_in_english": [
+    "make a racket",
+    "raise a hue and cry"
+  ],
+  "example_sentences_in_bangla": [
+    "বাজারে হঠাৎ একটা জিকির শুনে সবাই চমকে উঠল।",
+    "সে রাগে জিকির করে চিৎকার করল।"
+  ],
+  "example_sentences_in_english": [
+    "Everyone was startled by a sudden loud zikir in the market.",
+    "He shouted with a shrill zikir in anger."
+  ],
+  "usage_domain": [
+    "sound description",
+    "emotional expression"
+  ],
+  "tags": [
+    "onomatopoeia",
+    "religious chant",
+    "exclamation"
+  ],
+  "frequency": "rare",
+  "sentiment": "neutral",
+  "historical_significance": false,
+  "religious_significance": true,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [
+    "Refers to the Islamic practice of zikr (remembrance of God through repetitive chanting), common in Bengali Muslim communities, often performed loudly in devotional gatherings."
+  ],
+  "note": "Variations in spelling (জিকির/জিকীর/জিগির/জিগীর) reflect dialectical pronunciations in Bengali."
+}

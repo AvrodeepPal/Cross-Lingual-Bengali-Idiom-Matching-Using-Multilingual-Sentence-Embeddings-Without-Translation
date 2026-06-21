@@ -1,0 +1,42 @@
+{
+  "id": "510",
+  "idiom": "আদাড়ের হাঁড়ি",
+  "alternative_idioms": [],
+  "literal_meaning": "আদাড়ের (নীচ বা অনাদৃত ব্যক্তির) হাঁড়ি (পাত্র)",
+  "figurative_meaning_bn": "অনাদৃত ব্যক্তি; নীচব্যক্তি; নোংরামনের লোক- গালিবিশেষ",
+  "figurative_meaning_en": "An unrespected or despised person; a lowly or base individual; a person of unclean habits - a specific insult",
+  "similar_in_english": [
+    "lowlife",
+    "scum of the earth",
+    "dirty rat"
+  ],
+  "example_sentences_in_bangla": [
+    "সে আদাড়ের হাঁড়ির মতো নোংরা লোক।",
+    "এই আদাড়ের হাঁড়িকে কেউ স্পর্শ করবে না।"
+  ],
+  "example_sentences_in_english": [
+    "He's a lowlife like Adar's pot.",
+    "No one would touch that dirty rat."
+  ],
+  "usage_domain": [
+    "insults",
+    "slang",
+    "social commentary"
+  ],
+  "tags": [
+    "derogatory",
+    "caste-related",
+    "hygiene",
+    "traditional slur"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "deep rural",
+  "history": [
+    "Originates from traditional Bengali societal norms where pots of low-caste or unclean individuals (আদাড়) were considered untouchable due to purity and hygiene taboos."
+  ],
+  "note": "This idiom reflects historical caste and cleanliness prejudices in rural Bengal."
+}

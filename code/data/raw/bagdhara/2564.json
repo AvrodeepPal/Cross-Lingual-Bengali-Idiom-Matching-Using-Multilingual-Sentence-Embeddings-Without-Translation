@@ -1,0 +1,41 @@
+{
+  "id": "2564",
+  "idiom": "খাওয়া-দাওয়া",
+  "alternative_idioms": [
+    "খানাপিনা"
+  ],
+  "literal_meaning": "খাওয়া (eating) এবং দাওয়া (giving or feeding)",
+  "figurative_meaning_bn": "খাওয়া ও দেওয়া/খাওয়ানো, আহার ও পানভোজনপর্ব",
+  "figurative_meaning_en": "Eating and feeding or providing food, meals and feasting",
+  "similar_in_english": [
+    "food and drink",
+    "eat and be merry"
+  ],
+  "example_sentences_in_bangla": [
+    "খাওয়া-দাওয়া সেরে নিই, তারপর কথা বলব।",
+    "বাড়িতে খাওয়া-দাওয়া ভালো হয়েছে।"
+  ],
+  "example_sentences_in_english": [
+    "Let's finish the eating and feeding, then we can talk.",
+    "The meal and hospitality at home were great."
+  ],
+  "usage_domain": [
+    "daily life",
+    "hospitality",
+    "food and dining"
+  ],
+  "tags": [
+    "meal",
+    "feast",
+    "hospitality",
+    "compound word"
+  ],
+  "frequency": "very common",
+  "sentiment": "positive",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This is a common compound expression emphasizing Bengali cultural emphasis on sharing food."
+}

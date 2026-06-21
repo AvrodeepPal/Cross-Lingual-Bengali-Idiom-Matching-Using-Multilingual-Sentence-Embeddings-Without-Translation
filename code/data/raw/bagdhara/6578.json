@@ -1,0 +1,42 @@
+{
+  "id": "6578",
+  "idiom": "পথ দেখা",
+  "alternative_idioms": [
+    "পথ দেখানো"
+  ],
+  "literal_meaning": "পথ দেখানো (showing or pointing out the path)",
+  "figurative_meaning_bn": "বিদ্রুপে চলে যাওয়া, পলায়ন বা প্রস্থান করা",
+  "figurative_meaning_en": "Sarcastically telling someone to leave, flee, or depart",
+  "similar_in_english": [
+    "take a hike",
+    "get lost",
+    "show you the door"
+  ],
+  "example_sentences_in_bangla": [
+    "বাপু দয়া করে এখন পথ দেখো।",
+    "এখান থেকে পথ দেখানো হয়েছে, আর দাঁড়িয়ো না।"
+  ],
+  "example_sentences_in_english": [
+    "Please show the way now, buddy. (Sarcastic: Just leave.)",
+    "You've been shown the path from here; don't stand around anymore. (Sarcastic: Get out.)"
+  ],
+  "usage_domain": [
+    "colloquial",
+    "sarcasm",
+    "everyday conversation"
+  ],
+  "tags": [
+    "বিদ্রুপ",
+    "পলায়ন",
+    "প্রস্থান",
+    "সমার্থক: কেটে পড়া"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "This idiom is used in spoken Bengali to dismiss someone rudely with sarcasm, akin to everyday verbal rebukes in social interactions."
+}

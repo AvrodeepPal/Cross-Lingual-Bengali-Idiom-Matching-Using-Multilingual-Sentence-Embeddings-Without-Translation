@@ -1,0 +1,39 @@
+{
+  "id": "4463",
+  "idiom": "জড়ভরত",
+  "alternative_idioms": [],
+  "literal_meaning": "জড় (নিস্পন্দ/অচেতন) + ভরত (ভরা বা জড়সমূহের ভর)",
+  "figurative_meaning_bn": "অকর্মণ্য, নিস্ক্রিয়, নিরুদ্দম, জড়বুদ্ধিসম্পন্ন ব্যক্তি",
+  "figurative_meaning_en": "An inactive, lazy, indolent person with a dull intellect",
+  "similar_in_english": [
+    "couch potato",
+    "lazybones",
+    "sloth"
+  ],
+  "example_sentences_in_bangla": [
+    "সে জড়ভরতের মতো সারাদিন শুয়ে থাকে।",
+    "এই জড়ভরত অবস্থা ছেড়ে উঠে কাজ করো।"
+  ],
+  "example_sentences_in_english": [
+    "He lounges around like a lump all day.",
+    "Get out of this inert state and start working."
+  ],
+  "usage_domain": [
+    "everyday conversation",
+    "describing laziness"
+  ],
+  "tags": [
+    "laziness",
+    "inactivity",
+    "dullness",
+    "indolence"
+  ],
+  "frequency": "common",
+  "sentiment": "negative",
+  "historical_significance": false,
+  "religious_significance": false,
+  "cultural_significance": true,
+  "scape": "country",
+  "history": [],
+  "note": "Refers to a state of complete inertia, common in colloquial Bengali to chide laziness."
+}
